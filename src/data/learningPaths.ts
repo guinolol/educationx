@@ -11,24 +11,6 @@ import info3Html from '@/data/crucial-conversations/info_3.html?raw';
 import info4Html from '@/data/crucial-conversations/info_4.html?raw';
 import info5Html from '@/data/crucial-conversations/info_5.html?raw';
 
-// The Mom Test
-import theMomTestLessons from '@/data/the-mom-test/The_Mom_Test.json';
-import theMomTestSimulations from '@/data/the-mom-test/The_Mom_Test_Sim.json';
-import momTestInfo1 from '@/data/the-mom-test/info_1.html?raw';
-import momTestInfo2 from '@/data/the-mom-test/info_2.html?raw';
-import momTestInfo3 from '@/data/the-mom-test/info_3.html?raw';
-import momTestInfo4 from '@/data/the-mom-test/info_4.html?raw';
-import momTestInfo5 from '@/data/the-mom-test/info_5.html?raw';
-
-// Gap Selling
-import gapSellingLessons from '@/data/gap-selling/GapSelling.json';
-import gapSellingSimulations from '@/data/gap-selling/GapSelling_Sim.json';
-import gapSellingInfo1 from '@/data/gap-selling/info_1.html?raw';
-import gapSellingInfo2 from '@/data/gap-selling/info_2.html?raw';
-import gapSellingInfo3 from '@/data/gap-selling/info_3.html?raw';
-import gapSellingInfo4 from '@/data/gap-selling/info_4.html?raw';
-import gapSellingInfo5 from '@/data/gap-selling/info_5.html?raw';
-
 // Made to Stick
 import madeToStickLessons from '@/data/made-to-stick/MadeToStick.json';
 import madeToStickSimulations from '@/data/made-to-stick/MadeToStick_Sim.json';
@@ -37,15 +19,6 @@ import madeToStickInfo2 from '@/data/made-to-stick/info_2.html?raw';
 import madeToStickInfo3 from '@/data/made-to-stick/info_3.html?raw';
 import madeToStickInfo4 from '@/data/made-to-stick/info_4.html?raw';
 import madeToStickInfo5 from '@/data/made-to-stick/info_5.html?raw';
-
-// Million Dollar Consulting
-import millionDollarConsultingLessons from '@/data/million-dollar-consulting/MillionDollarConsulting.json';
-import millionDollarConsultingSimulations from '@/data/million-dollar-consulting/MillionDollarConsulting_Sim.json';
-import millionDollarConsultingInfo1 from '@/data/million-dollar-consulting/info_1.html?raw';
-import millionDollarConsultingInfo2 from '@/data/million-dollar-consulting/info_2.html?raw';
-import millionDollarConsultingInfo3 from '@/data/million-dollar-consulting/info_3.html?raw';
-import millionDollarConsultingInfo4 from '@/data/million-dollar-consulting/info_4.html?raw';
-import millionDollarConsultingInfo5 from '@/data/million-dollar-consulting/info_5.html?raw';
 
 // Million Dollar Weekend
 import millionDollarWeekendLessons from '@/data/million-dollar-weekend/MillionDollarWeekend.json';
@@ -82,33 +55,6 @@ import the1PageMarketingPlanInfo2 from '@/data/the-1-page-marketing-plan/info_2.
 import the1PageMarketingPlanInfo3 from '@/data/the-1-page-marketing-plan/info_3.html?raw';
 import the1PageMarketingPlanInfo4 from '@/data/the-1-page-marketing-plan/info_4.html?raw';
 import the1PageMarketingPlanInfo5 from '@/data/the-1-page-marketing-plan/info_5.html?raw';
-
-// The Challenger Sale
-import theChallengerSaleLessons from '@/data/the-challenger-sale/TheChallengerSale.json';
-import theChallengerSaleSimulations from '@/data/the-challenger-sale/TheChallengerSale_Sim.json';
-import theChallengerSaleInfo1 from '@/data/the-challenger-sale/info_1.html?raw';
-import theChallengerSaleInfo2 from '@/data/the-challenger-sale/info_2.html?raw';
-import theChallengerSaleInfo3 from '@/data/the-challenger-sale/info_3.html?raw';
-import theChallengerSaleInfo4 from '@/data/the-challenger-sale/info_4.html?raw';
-import theChallengerSaleInfo5 from '@/data/the-challenger-sale/info_5.html?raw';
-
-// The Pyramid Principle
-import thePyramidPrincipleLessons from '@/data/the-pyramid-principle/ThePyramidPrinciple.json';
-import thePyramidPrincipleSimulations from '@/data/the-pyramid-principle/ThePyramidPrinciple_Sim.json';
-import thePyramidPrincipleInfo1 from '@/data/the-pyramid-principle/info_1.html?raw';
-import thePyramidPrincipleInfo2 from '@/data/the-pyramid-principle/info_2.html?raw';
-import thePyramidPrincipleInfo3 from '@/data/the-pyramid-principle/info_3.html?raw';
-import thePyramidPrincipleInfo4 from '@/data/the-pyramid-principle/info_4.html?raw';
-import thePyramidPrincipleInfo5 from '@/data/the-pyramid-principle/info_5.html?raw';
-
-// The Trusted Advisor
-import theTrustedAdvisorLessons from '@/data/the-trusted-advisor/TheTrustedAdvisor.json';
-import theTrustedAdvisorSimulations from '@/data/the-trusted-advisor/TheTrustedAdvisor_Sim.json';
-import theTrustedAdvisorInfo1 from '@/data/the-trusted-advisor/info_1.html?raw';
-import theTrustedAdvisorInfo2 from '@/data/the-trusted-advisor/info_2.html?raw';
-import theTrustedAdvisorInfo3 from '@/data/the-trusted-advisor/info_3.html?raw';
-import theTrustedAdvisorInfo4 from '@/data/the-trusted-advisor/info_4.html?raw';
-import theTrustedAdvisorInfo5 from '@/data/the-trusted-advisor/info_5.html?raw';
 
 export interface LessonData {
   id: number;
@@ -155,36 +101,6 @@ const CRUCIAL_CONVERSATIONS_CONFIG: LearningPathConfig = {
   }
 };
 
-const THE_MOM_TEST_CONFIG: LearningPathConfig = {
-  id: 'theMomTest',
-  title: "The Mom Test",
-  icon: Target,
-  lessons: theMomTestLessons as LessonData[],
-  simulations: theMomTestSimulations as SimulationData[],
-  infographics: {
-    800: momTestInfo1,
-    801: momTestInfo2,
-    802: momTestInfo3,
-    803: momTestInfo4,
-    804: momTestInfo5,
-  }
-};
-
-const GAP_SELLING_CONFIG: LearningPathConfig = {
-  id: 'gapSelling',
-  title: "Gap Selling",
-  icon: TrendingUp,
-  lessons: gapSellingLessons as LessonData[],
-  simulations: gapSellingSimulations as SimulationData[],
-  infographics: {
-    800: gapSellingInfo1,
-    801: gapSellingInfo2,
-    802: gapSellingInfo3,
-    803: gapSellingInfo4,
-    804: gapSellingInfo5,
-  }
-};
-
 const MADE_TO_STICK_CONFIG: LearningPathConfig = {
   id: 'madeToStick',
   title: "Made to Stick",
@@ -197,21 +113,6 @@ const MADE_TO_STICK_CONFIG: LearningPathConfig = {
     802: madeToStickInfo3,
     803: madeToStickInfo4,
     804: madeToStickInfo5,
-  }
-};
-
-const MILLION_DOLLAR_CONSULTING_CONFIG: LearningPathConfig = {
-  id: 'millionDollarConsulting',
-  title: "Million Dollar Consulting",
-  icon: DollarSign,
-  lessons: millionDollarConsultingLessons as LessonData[],
-  simulations: millionDollarConsultingSimulations as SimulationData[],
-  infographics: {
-    800: millionDollarConsultingInfo1,
-    801: millionDollarConsultingInfo2,
-    802: millionDollarConsultingInfo3,
-    803: millionDollarConsultingInfo4,
-    804: millionDollarConsultingInfo5,
   }
 };
 
@@ -245,21 +146,6 @@ const NEVER_SPLIT_THE_DIFFERENCE_CONFIG: LearningPathConfig = {
   }
 };
 
-const OBVIOUSLY_AWESOME_CONFIG: LearningPathConfig = {
-  id: 'obviouslyAwesome',
-  title: "Obviously Awesome",
-  icon: Star,
-  lessons: obviouslyAwesomeLessons as LessonData[],
-  simulations: obviouslyAwesomeSimulations as SimulationData[],
-  infographics: {
-    800: obviouslyAwesomeInfo1,
-    801: obviouslyAwesomeInfo2,
-    802: obviouslyAwesomeInfo3,
-    803: obviouslyAwesomeInfo4,
-    804: obviouslyAwesomeInfo5,
-  }
-};
-
 const THE_1_PAGE_MARKETING_PLAN_CONFIG: LearningPathConfig = {
   id: 'the1PageMarketingPlan',
   title: "The 1-Page Marketing Plan",
@@ -275,65 +161,14 @@ const THE_1_PAGE_MARKETING_PLAN_CONFIG: LearningPathConfig = {
   }
 };
 
-const THE_CHALLENGER_SALE_CONFIG: LearningPathConfig = {
-  id: 'theChallengerSale',
-  title: "The Challenger Sale",
-  icon: Trophy,
-  lessons: theChallengerSaleLessons as LessonData[],
-  simulations: theChallengerSaleSimulations as SimulationData[],
-  infographics: {
-    800: theChallengerSaleInfo1,
-    801: theChallengerSaleInfo2,
-    802: theChallengerSaleInfo3,
-    803: theChallengerSaleInfo4,
-    804: theChallengerSaleInfo5,
-  }
-};
-
-const THE_PYRAMID_PRINCIPLE_CONFIG: LearningPathConfig = {
-  id: 'thePyramidPrinciple',
-  title: "The Pyramid Principle",
-  icon: Pyramid,
-  lessons: thePyramidPrincipleLessons as LessonData[],
-  simulations: thePyramidPrincipleSimulations as SimulationData[],
-  infographics: {
-    800: thePyramidPrincipleInfo1,
-    801: thePyramidPrincipleInfo2,
-    802: thePyramidPrincipleInfo3,
-    803: thePyramidPrincipleInfo4,
-    804: thePyramidPrincipleInfo5,
-  }
-};
-
-const THE_TRUSTED_ADVISOR_CONFIG: LearningPathConfig = {
-  id: 'theTrustedAdvisor',
-  title: "The Trusted Advisor",
-  icon: MessageSquare,
-  lessons: theTrustedAdvisorLessons as LessonData[],
-  simulations: theTrustedAdvisorSimulations as SimulationData[],
-  infographics: {
-    800: theTrustedAdvisorInfo1,
-    801: theTrustedAdvisorInfo2,
-    802: theTrustedAdvisorInfo3,
-    803: theTrustedAdvisorInfo4,
-    804: theTrustedAdvisorInfo5,
-  }
-};
-
 // Adicione novas trilhas aqui:
 export const ALL_LEARNING_PATHS: LearningPathConfig[] = [
   CRUCIAL_CONVERSATIONS_CONFIG,
-  THE_MOM_TEST_CONFIG,
-  GAP_SELLING_CONFIG,
   MADE_TO_STICK_CONFIG,
-  MILLION_DOLLAR_CONSULTING_CONFIG,
   MILLION_DOLLAR_WEEKEND_CONFIG,
   NEVER_SPLIT_THE_DIFFERENCE_CONFIG,
-  OBVIOUSLY_AWESOME_CONFIG,
   THE_1_PAGE_MARKETING_PLAN_CONFIG,
-  THE_CHALLENGER_SALE_CONFIG,
-  THE_PYRAMID_PRINCIPLE_CONFIG,
-  THE_TRUSTED_ADVISOR_CONFIG,
+
 ];
 
 
