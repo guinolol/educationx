@@ -1,0 +1,1897 @@
+[
+{
+  "simulationId": 1,
+  "title": "🗣️ Simulação: A Entrevista de Validação 'Anti-Mãe'",
+  "introduction": "Você é um empreendedor validando uma nova ideia de software de gestão de equipes de campo. Seu primeiro entrevistado é o João, um gerente de logística que parece muito entusiasmado, mas você sabe que entusiasmo não paga as contas. Este é o momento de aplicar o 'Teste da Mãe' para filtrar a polidez e a fantasia, focando apenas em fatos concretos. Prepare-se para tomar 12 decisões críticas que definirão se sua ideia resolve um problema real ou apenas um problema hipotético.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "A Regra de Ouro: Pergunte sobre a Vida, Não sobre a Ideia",
+      "narrative": "Você começa a entrevista. João está relaxado e diz: 'Adorei a ideia! Um software que localiza a equipe de campo em tempo real? **Eu usaria isso todos os dias!**' 🎉 Você sente um calor de validação, mas lembra-se da Regra de Ouro. Ele te deu um elogio e uma hipótese futura. **Qual é o próximo passo mais eficaz para obter um dado concreto?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ignorar o elogio e perguntar: 'Me conte sobre a última vez que você teve problemas com a localização da sua equipe. O que exatamente aconteceu?'",
+          "feedback": "✅ Perfeito! Você ignorou o elogio/hipótese e ancorou a conversa no **comportamento passado e concreto**. É a Regra de Ouro em ação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Dizer: 'Ótimo! E você acha que pagaria R$ 500 por mês por essa solução?'",
+          "feedback": "❌ Hipótese em cima de Hipótese! Perguntar sobre preço futuro é inútil. É um dado de fantasia que não reflete a realidade da compra. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'Que bom que gostou! Você me indicaria para seus amigos agora?'",
+          "feedback": "⚠️ O 'Sim' de indicação neste momento é apenas polidez. Você está buscando validação do relacionamento, não do problema. É um dado fraco. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Que recursos seriam essenciais para você nesse software de localização?'",
+          "feedback": "💡 Você está pedindo ao cliente para projetar a solução. Ele é especialista no problema, não na solução. Você se distrai dos fatos concretos. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Perguntas Ruins vs. Perguntas Boas",
+      "narrative": "João descreveu uma situação: 'Na semana passada, perdemos 4 horas de trabalho porque o motorista errou a rota, e eu não tinha como verificar. Tivemos que ligar para ele 5 vezes.' Você sente a dor, mas precisa quantificá-la. **Qual é a próxima 'Pergunta Boa' para medir o custo real desse problema?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Você acha que essa perda de 4 horas é um grande problema?",
+          "feedback": "❌ Ruim! Você está buscando uma **opinião** ('acha que...'), e não um **fato**. Ele dirá que sim por polidez. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O que você fez para tentar evitar que isso acontecesse *antes* de eu aparecer com minha ideia?",
+          "feedback": "✅ Excelente! Você está cavando fundo no **comportamento passado**. A 'gambiarra' que ele usa agora (ligações, planilhas) é o custo real da dor. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Você compraria um produto que evita essa perda de tempo?",
+          "feedback": "❌ Ruim! Mais uma pergunta **hipotética** ('compraria?'). Ele vai dizer sim por polidez, mas a intenção não é ação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Você precisa de um mapa integrado ao software?",
+          "feedback": "⚠️ Você está voltando a buscar **sugestões de recursos**. Isso é um dado menos valioso do que a dor real (o que ele fez antes). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "O Problema do Elogio e da Polidez",
+      "narrative": "João respondeu que gastou 'R$ 300 na última vez com um consultor para otimizar rotas, mas não funcionou.' Ele acrescenta: 'Sua ideia é muito mais inteligente!' Você recebeu um **elogio** e uma **opinião** (muito mais inteligente). **Como você desarma o elogio e retorna ao problema real?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Agradecer e perguntar: 'O que o consultor fez exatamente que não resolveu o seu problema?'",
+          "feedback": "✅ Perfeito! Você ignora o elogio e **cava fundo** no evento passado de dor e na tentativa de solução fracassada. Você está aprendendo sobre o problema. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Dizer: 'Obrigado! É por isso que ela é melhor. Você já quer assinar a versão Beta?'",
+          "feedback": "❌ Você aceitou o elogio, validou sua ideia e tentou vender, sem dados concretos. A polidez está te levando a construir o produto errado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que a minha ideia está completa ou falta algo?'",
+          "feedback": "⚠️ Você está buscando **sugestões de recursos** novamente e a **opinião** dele sobre sua solução. É um dado contaminado. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Dizer: 'Que bom! Fico feliz! Me diga, você tem esse problema toda semana?'",
+          "feedback": "💡 Melhor. Você ignora o elogio, mas a pergunta ('toda semana?') ainda é uma generalização. É melhor um evento específico do que a frequência geral. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Evitando Hipóteses e o Futuro",
+      "narrative": "João diz: 'Com certeza! Eu **faria** qualquer coisa para ter essa informação de localização em tempo real!' Você ouve o 'Eu faria'. 🚩 Sinal de alerta! **Qual é a pergunta para transformar o 'faria' hipotético em uma evidência de ação passada?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Entender: 'Você faria um esforço para treinar sua equipe para usar um novo software?'",
+          "feedback": "❌ Ruim! Você está aprofundando a **hipótese** ('você faria') em vez de ancorar na ação passada. O futuro é mentira. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'O que você tentou **fazer** na última semana ou mês para conseguir essa informação de localização?'",
+          "feedback": "✅ Perfeito! Você ignorou o 'faria' e voltou ao **comportamento recente e concreto**. A ação fala mais alto que a intenção. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'Se você realmente faria qualquer coisa, você se comprometeria a usar o Beta por 6 meses?'",
+          "feedback": "⚠️ Você está buscando um **compromisso futuro** baseado em uma hipótese. É uma 'moeda' de comprometimento fraca neste momento. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'O que você acha do preço de R$ 500 por mês?'",
+          "feedback": "❌ Você misturou hipótese de ação com **hipótese financeira** (preço futuro). Duplo erro. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "A Regra de Ouro: Pergunte sobre a Vida, Não sobre a Ideia",
+      "narrative": "João diz: 'Bem, eu instalei um aplicativo de rastreamento no meu celular, mas meus motoristas se recusaram a usar, pois não queriam ser monitorados 24/7.' Você aprendeu algo crucial! Ele tentou resolver. **Você deve buscar a dor ou focar na sua ideia?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Nosso software só monitora durante o horário comercial. Isso resolveria o problema da recusa, certo?'",
+          "feedback": "❌ Você voltou a falar da sua **solução**, interrompendo o fluxo de aprendizado. Você está vendendo, não validando. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'Como a recusa dos motoristas afetou a sua operação e seu dia a dia? Qual foi a consequência disso?'",
+          "feedback": "✅ Perfeito! Você **cava fundo no 'porquê'** e na consequência da falha. O foco é no problema do cliente (a dor). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'O que você acha que faria se tivesse que implementar um novo software de localização?'",
+          "feedback": "❌ Você voltou a uma pergunta **hipotética** ('o que faria?'). O foco deve ser na ação passada. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Dizer: 'Isso é um ótimo feedback para o meu time de desenvolvimento! Vou garantir que isso seja uma funcionalidade!'",
+          "feedback": "⚠️ Você está coletando um **sugestão de recurso** ('não monitorar 24/7') sem entender a fundo a dor. É um dado com valor médio. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Perguntas Ruins vs. Perguntas Boas",
+      "narrative": "João descreve a frustração: 'A consequência é que eu perco o controle, o que me gera ansiedade e desconfiança. Tenho que gastar 30 minutos por dia ligando.' Ele te deu um custo emocional e de tempo. **Qual é a 'Pergunta Boa' para garantir que você não construirá a solução errada?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Você acha que a sua equipe usaria meu produto?",
+          "feedback": "❌ Ruim! Você voltou a buscar uma **opinião/hipótese** sobre o futuro, e não um dado concreto sobre a dor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Que recursos eu **não** devo esquecer de adicionar ao meu produto?",
+          "feedback": "❌ Ruim! Você está pedindo ao cliente para **projetar sua solução**. Ele é o especialista no problema, não em recursos. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Além das ligações, o que mais você **fez** na última semana para controlar a localização da equipe?",
+          "feedback": "✅ Excelente! Você está cavando fundo na **ação passada** ('o que mais você fez'), buscando a real urgência e o custo escondido. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Se meu produto resolvesse isso, qual seria o preço ideal para você?",
+          "feedback": "⚠️ Você voltou à **hipótese financeira** ('preço ideal') e a um 'se'. O foco deve ser no custo passado. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Problema do Elogio e da Polidez",
+      "narrative": "João diz: 'Ah, eu não fiz mais nada. Eu estava esperando por uma solução como a sua. Ela parece ser a resposta que eu precisava.' 🚨 Mais um elogio e uma admissão de inação. **O que a inação dele sugere sobre a 'urgência' do problema e como você reage?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Que bom que cheguei na hora certa!' e encerrar a conversa. (Aceitar o elogio e a inação)",
+          "feedback": "❌ Pior escolha. Você aceitou o elogio e a inação, perdendo a chance de validar se o problema é realmente urgente (se fosse, ele teria agido). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'Entendo. Se você não fez mais nada, o que aconteceu na última vez que a falta de controle te custou mais de R$ 500?'",
+          "feedback": "✅ Perfeito! Você **ignora o elogio** ('resposta que precisava') e **cava fundo na dor e no custo real passado**. Isso testa a urgência real do problema. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'Você é um visionário! Você seria um cliente ideal!'",
+          "feedback": "❌ Você está usando um **elogio** para validar a si mesmo. Isso destrói a confiança e o diálogo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você conhece outros gerentes que também não fizeram nada para resolver?'",
+          "feedback": "⚠️ Você está buscando **generalização** sobre outros, em vez de focar na dor concreta e na ação de João. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Evitando Hipóteses e o Futuro",
+      "narrative": "João revela que só agiu quando o problema o custou R$ 500 no passado, e não o faz desde então. Você entendeu que a dor existe, mas não é frequente. Você decide perguntar sobre o 'Porquê' da falha anterior. **Qual é a melhor forma de enquadrar a pergunta sem sugerir sua solução?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Se meu produto tivesse um recurso de alarme, isso teria evitado o erro de R$ 500?",
+          "feedback": "❌ Ruim! Você está inserindo sua **solução** ('recurso de alarme') em uma **hipótese** ('se meu produto...'). Contaminação pura. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O que na sua operação atual faz com que você não consiga prevenir o erro de R$ 500 antes que ele aconteça?",
+          "feedback": "✅ Excelente! A pergunta foca no **problema (operação atual)** e no **custo passado (erro de R$ 500)**, evitando o futuro e a solução. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Você acha que é um problema de treinamento, tecnologia ou processo?",
+          "feedback": "⚠️ Você está limitando a resposta a suas **categorias**. É melhor deixar o cliente falar livremente sobre o que aconteceu. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Você acha que minha solução resolveria isso?",
+          "feedback": "❌ Ruim! Você está buscando **opinião** sobre a sua ideia. Isso leva ao 'Sim' de polidez. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "A Regra de Ouro: Pergunte sobre a Vida, Não sobre a Ideia",
+      "narrative": "João diz: 'É mais uma falha de processo. Eu sou o único que consegue acessar o sistema de rotas e, quando estou ocupado, os motoristas ficam sem guia.' Você sente que o problema dele é a **falta de delegação**. 🧭 **Como você transforma essa informação em uma 'moeda de comprometimento' fraca (mas útil) sem falar do seu produto?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Eu tenho um produto que permite que o motorista acesse o sistema de rotas. Que bom, né?'",
+          "feedback": "❌ Você voltou a **vender/promover sua ideia**. O foco deve ser no problema dele. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'Se eu te desse um sistema muito simples para delegar isso, com quem na sua equipe você **iria** testar primeiro?'",
+          "feedback": "✅ Excelente! Você está testando uma **ação futura e concreta** ('com quem você testaria?'), o que é um comprometimento fraco, mas útil. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que conseguiria delegar isso para alguém?'",
+          "feedback": "⚠️ Você está buscando uma **opinião/hipótese** ('você acha que conseguiria?'). Melhor seria buscar um nome concreto (ação). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Dizer: 'Você acha que a falta de delegação é o principal problema no seu dia a dia?'",
+          "feedback": "❌ Você está buscando uma **opinião** sobre o 'principal problema', em vez de buscar a ação. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Perguntas Ruins vs. Perguntas Boas",
+      "narrative": "João diz: 'Eu testaria com a Maria, ela é minha supervisora. Mas não sei se ela teria tempo.' Você obteve um nome (ótimo!), mas ele adicionou uma nova **hipótese/obstáculo** ('não sei se ela teria tempo'). **Qual é a 'Pergunta Boa' para cavar fundo no obstáculo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Se a Maria tivesse tempo, você pagaria por esse sistema?'",
+          "feedback": "❌ Você inseriu o obstáculo na **hipótese financeira** ('se tivesse tempo... você pagaria?'). Não é concreto. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'Qual foi a última coisa que a Maria precisou fazer que tomou o tempo dela e o que ela deixou de fazer por causa disso?'",
+          "feedback": "✅ Excelente! Você está ancorando o obstáculo ('falta de tempo') em uma **história passada e concreta** ('o que ela deixou de fazer?'). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que o tempo é um problema maior do que o custo do erro de R$ 500?'",
+          "feedback": "⚠️ Você está pedindo uma **opinião comparativa** ('acha que é maior?'). É melhor focar na ação passada e no custo real. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Dizer: 'Não se preocupe com o tempo, meu software é muito rápido!'",
+          "feedback": "❌ Você voltou a **falar da sua solução** para eliminar um obstáculo sem validar o problema de tempo. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Problema do Elogio e da Polidez",
+      "narrative": "João diz: 'Ela está sobrecarregada com relatórios manuais. Mas se o seu software pudesse automatizar os relatórios, **isso seria incrível!**' 🚨 Ele te deu um elogio e uma **sugestão de recurso** baseada em um desejo. **Qual deve ser a sua reação, focando na polidez?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Automatização de relatórios, anotado! Farei isso!' (Aceitar o recurso)",
+          "feedback": "❌ Você foi seduzido pelo **elogio** e pela **sugestão de recurso**. Está arriscando construir o produto errado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'Agradeço a sugestão. Me diga, qual foi a última vez que um relatório manual dela atrasou a sua operação?'",
+          "feedback": "✅ Perfeito! Você **ignora o elogio** e **transforma a sugestão de recurso em uma pergunta sobre a dor passada e concreta**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'Eu vou te dar um desconto se você me der mais elogios!'",
+          "feedback": "❌ Você está pedindo **elogios** ativamente, destruindo a possibilidade de uma conversa honesta. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Se eu tivesse o recurso de relatório, você assinaria o produto hoje?'",
+          "feedback": "⚠️ Você está usando uma **hipótese** ('se eu tivesse...') e buscando um **compromisso futuro** ('assinaria hoje?'). Dados fracos. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Evitando Hipóteses e o Futuro",
+      "narrative": "João descreveu a dor do relatório manual: um atraso de 2 dias que custou a perda de um cliente. Isso é um dado concreto e doloroso! A conversa está chegando ao fim. **Qual é a pergunta de fechamento mais alinhada com o Teste da Mãe?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Perguntar: 'Com tudo o que conversamos, você **usaria** meu produto?'",
+          "feedback": "❌ Você voltou a uma **pergunta hipotética** ('você usaria?') no final. O 'Sim' será apenas polidez. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'O que você **já gastou** (tempo, dinheiro, esforço) nos últimos 6 meses para resolver esse problema de relatórios e localização?'",
+          "feedback": "✅ Perfeito! Você faz um **resumo ancorado no passado e no custo real**, quantificando a dor do cliente. Isso é o único dado que importa. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que esse problema é mais importante do que outros problemas?'",
+          "feedback": "⚠️ Você está buscando uma **opinião comparativa** ('acha que é mais importante?'), em vez de fatos e custos. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Dizer: 'Se eu te desse um desconto, você compraria hoje?'",
+          "feedback": "❌ Você está forçando uma **hipótese financeira** e buscando uma venda prematura em vez de validação. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 2,
+  "title": "💰 Simulação: Cavando Fundo no Custo da Dor",
+  "introduction": "Você conseguiu agendar uma conversa com a Patrícia, uma Gerente de RH, para validar uma solução focada em reduzir a rotatividade de funcionários (churn). O problema parece universal, mas você precisa de evidências de que é real e doloroso o suficiente para ela pagar. Seu foco agora é ignorar opiniões, mapear o contexto exato da dor e buscar o 'Custo da Dor' (tempo, dinheiro e esforço) que a Patrícia já está gastando. Prepare-se para cavar fundo e desarmar a polidez. Lembre-se: 'Se o problema é real, ele já está custando algo.'",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "O Processo de Entrevista: Estrutura e Fluxo",
+      "narrative": "Você inicia a entrevista. Patrícia pergunta: 'O que exatamente é essa sua ideia de redução de churn?' Você lembra que deve desarmar a polidez e não contaminar a conversa com a sua solução. **Qual é a melhor forma de iniciar a conversa, focando em aprender?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Fazer um pitch de 30 segundos sobre como sua IA resolve o churn e o preço.",
+          "feedback": "❌ Você começou com o **Pitch**. Isso contamina a conversa, e Patrícia se fechará para lhe dar feedback polido em vez de dados honestos. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Dizer: 'Eu estou desenvolvendo uma ferramenta para ajudar, mas estou aqui para pedir seu **conselho**. Estou tentando entender como gerentes de RH lidam com o custo de rotatividade hoje.'",
+          "feedback": "✅ Perfeito! Você desarmou a polidez pedindo **conselho** e estabeleceu que está ali para **aprender sobre a vida dela**, não para vender. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'É um segredo por enquanto, mas é a solução perfeita para você!'",
+          "feedback": "❌ Isso gera desconfiança. É melhor dar uma resposta vaga e redirecionar, mas a sua resposta é muito vaga e não redireciona. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Fazer um elogio: 'Sei que você é a melhor em RH, me diga o que acha da minha ideia?'",
+          "feedback": "⚠️ Você usou um **elogio** e buscou **opinião** sobre a sua ideia. Dados fracos. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Problema é Real? Buscando Evidências de Dor",
+      "narrative": "Patrícia, já mais à vontade, diz: 'A rotatividade é um **enorme** problema para nós! Temos que recrutar e treinar o tempo todo.' Você ouviu 'enorme problema' (opinião). Agora você precisa do **Custo da Dor**. **Qual pergunta quantifica o custo de forma concreta?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Você pagaria muito para resolver esse problema enorme?",
+          "feedback": "❌ Você está misturando **opinião** ('enorme') com **hipótese financeira** ('pagaria muito?'). Isso é fantasia. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Conte-me sobre a **última vez** que você teve que lidar com uma demissão surpresa. **Quanto tempo e dinheiro** isso custou à sua equipe e a você?",
+          "feedback": "✅ Excelente! Você ancorou o problema em um **evento passado e concreto** e buscou a **quantificação do Custo da Dor**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Você acha que esse problema é maior do que a falta de café na copa?",
+          "feedback": "⚠️ Você está buscando uma **opinião comparativa** inútil. É melhor focar no custo real da dor. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Que recursos você acha que minha solução deveria ter para resolver esse 'enorme' problema?",
+          "feedback": "💡 Você está pedindo **sugestões de recursos**, o que desvia o foco do custo real da dor (o que já aconteceu). (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "O Contexto Importa: Entendendo o Ambiente do Problema",
+      "narrative": "Patrícia revelou um caso em que a demissão de um engenheiro sênior custou mais de **R$ 20.000 em custos de agência e 3 meses de tempo** de produtividade perdida. Você tem um grande Custo da Dor! Agora, você precisa do **Contexto**. **Qual pergunta ajuda a mapear o 'Gatilho' dessa demissão?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O engenheiro sênior **teria ficado** se você tivesse um software melhor?",
+          "feedback": "❌ Você está inserindo uma **hipótese** no passado ('teria ficado') e contaminando a conversa com sua solução. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O que **aconteceu** **imediatamente antes** de você perceber que ele estava pensando em sair? O que foi o 'gatilho'?",
+          "feedback": "✅ Perfeito! Você está buscando o **Gatilho** (o evento que inicia a dor) e o **Contexto** (o que estava acontecendo naquele momento). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Você acha que esse problema é sazonal ou anual?",
+          "feedback": "⚠️ Você está buscando uma **generalização** de frequência, em vez de focar no evento concreto e específico. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Em qual sistema de RH você **gostaria** que ele estivesse registrado para evitar isso?",
+          "feedback": "❌ Você está pedindo uma **sugestão de recurso** baseada em um desejo futuro. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Encontrando Clientes: Onde e Como Abordar",
+      "narrative": "Patrícia se abre: 'Eu descobri que ele estava infeliz quando o vi atualizando o perfil no LinkedIn. Eu não tinha nenhum sistema para monitorar o humor dele, exceto minha intuição. Eu estava muito **irritada**.' Você vê a **dor emocional**. Para manter o fluxo, você deve usar a regra da Proporção de Fala. **Qual é o melhor uso da 'Proporção de Fala' neste momento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Falar 80% do tempo sobre como sua solução teria detectado o humor dele antes do LinkedIn.",
+          "feedback": "❌ Você quebrou a **Regra da Proporção de Fala** (Cliente 80%, Você 20%) e voltou a falar da sua ideia. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Fazer uma pergunta de acompanhamento: 'Você disse que estava 'irritada'. O que a fez se sentir dessa forma, e como isso impactou seu dia de trabalho?'",
+          "feedback": "✅ Excelente! Você usa a **dor emocional** para cavar mais fundo, mantendo a proporção do cliente (80%) e validando a intensidade do problema. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que a irritação é um problema comum em RH?'",
+          "feedback": "⚠️ Você está buscando uma **generalização**, em vez de aprofundar a dor pessoal dela (o que ela sente). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Dizer: 'Que bom que você tem intuição! Me diga, o que você faria se tivesse que procurar um novo emprego?'",
+          "feedback": "❌ Você fez um **elogio** inútil e uma **pergunta hipotética** sobre o futuro dela. Dados muito ruins. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "O Problema é Real? Buscando Evidências de Dor",
+      "narrative": "Patrícia diz que a irritação a fez perder o foco no fechamento do mês, custando a ela uma bronca do chefe. 'Mas não posso reclamar, é o meu trabalho.' Você ouve a resignação. Você tem a dor, mas precisa de evidências de **esforço ativo para resolver**. **Qual pergunta revela o esforço ativo (Custo da Dor)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Você tentou convencer o chefe a contratar mais pessoas para monitorar o churn?",
+          "feedback": "⚠️ Você está sugerindo uma **solução** ('contratar mais'), em vez de buscar a ação passada dela. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Você já **gastou tempo ou dinheiro** em alguma ferramenta ou consultoria para tentar antecipar essas demissões?",
+          "feedback": "✅ Perfeito! Você está buscando **evidências de comportamento passado** (gastos de tempo/dinheiro) para validar a dor. O problema é real se ela já está pagando. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Você compraria uma ferramenta que te ajudasse a evitar broncas do chefe?",
+          "feedback": "❌ Você voltou a uma **pergunta hipotética** ('compraria?'), ignorando o custo real da dor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Qual é o orçamento que você teria para resolver esse problema?",
+          "feedback": "❌ Você está buscando uma **hipótese financeira** sem antes validar se o problema é real. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O Contexto Importa: Entendendo o Ambiente do Problema",
+      "narrative": "Patrícia diz: 'Sim, comprei um relatório de mercado por R$ 5.000, mas me deu apenas dados genéricos. Agora, estou tentando criar meu próprio sistema de alerta em **planilhas de Excel**.' O Excel é a **solução atual (gambiarra)**. **O que você pergunta para entender o Contexto e a falha dessa gambiarra?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Você acha que sua planilha é pior que a minha solução?",
+          "feedback": "❌ Você voltou a falar da **sua solução** e buscou uma **opinião comparativa**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Conte-me sobre a última vez que essa planilha de Excel **falhou** em te alertar. **O que aconteceu e onde você estava?**",
+          "feedback": "✅ Perfeito! Você busca o **Contexto Específico** (onde e quando) e a **Falha Concreta** da solução atual (o Excel). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Você acha que é um bom uso do seu tempo fazer planilhas de Excel?",
+          "feedback": "⚠️ Você está buscando uma **opinião** ('acha que é bom uso?'), em vez de focar na falha e no custo da dor. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Qual recurso a mais você gostaria que o Excel tivesse?",
+          "feedback": "❌ Você está pedindo **sugestões de recursos** para o Excel, em vez de focar no problema. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Processo de Entrevista: Estrutura e Fluxo",
+      "narrative": "Patrícia descreveu o cenário de falha: 'A planilha travou durante uma reunião de Diretoria. Fiquei muito **envergonhada** e não pude responder sobre o status de risco.' Você tem uma história de dor emocional e contexto de falha. **Qual é a melhor técnica de 'Acompanhamento' (Digging Deeper) para aplicar aqui?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Eu entendo a vergonha! Meu sistema nunca trava!'",
+          "feedback": "❌ Você interrompeu a escuta e voltou a **promover sua solução** com um elogio vago. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Anotar a citação: 'Fiquei muito **envergonhada**' e perguntar: 'Qual foi o próximo passo que você **tomou** após o travamento da planilha?'",
+          "feedback": "✅ Perfeito! Você captura a **linguagem emocional** (útil para marketing) e imediatamente busca a **ação passada** (próximo passo), mantendo o foco no cliente. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que a Diretoria achou que você era incompetente?'",
+          "feedback": "⚠️ Você está introduzindo uma **hipótese** negativa, em vez de focar na ação passada e no fato concreto. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'O que você faria se isso acontecesse de novo?'",
+          "feedback": "❌ Você voltou a uma **pergunta hipotética** ('o que faria?') sobre o futuro. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Encontrando Clientes: Onde e Como Abordar",
+      "narrative": "Patrícia conta: 'Eu disse à Diretoria que procuraria soluções, mas eles não levaram a sério. Eu não tenho o orçamento de R$ 20.000 que eles têm. Eu sou apenas a Gerente de RH.' Você encontrou um problema de **Autoridade e Orçamento**. **Como você testa a autoridade real de Patrícia sem ofendê-la?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Perguntar: 'Quem na Diretoria tem a última palavra sobre a compra de software de R$ 20.000?'",
+          "feedback": "✅ Excelente! Você está testando a **Autoridade** e o **Fluxo de Compra** (quem decide), o que é um dado crucial. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Dizer: 'Minha solução é mais barata que R$ 20.000. Você compraria sem a permissão deles?'",
+          "feedback": "❌ Você está fazendo uma **pergunta hipotética** sobre compra e pressionando-a a cometer um erro. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que a Diretoria se importa com esse problema?'",
+          "feedback": "⚠️ Você está buscando a **opinião** dela sobre a Diretoria, em vez do fato concreto (quem assina o cheque). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você é a CEO?'",
+          "feedback": "❌ Pergunta muito direta e sem tato, que pode quebrar o rapport. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "O Problema é Real? Buscando Evidências de Dor",
+      "narrative": "Patrícia identifica o CFO como o decisor. Você agora tem o **problema real (R$ 20K perdidos)**, o **contexto de falha (planilha trava)**, a **dor emocional (vergonha)** e o **decisor (CFO)**. Antes de fazer a transição para sua ideia, você precisa de um último dado de **prioridade**. **Qual é a melhor forma de testar a prioridade do problema para Patrícia?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Perguntar: 'Você acha que esse problema é a sua principal prioridade este ano?'",
+          "feedback": "⚠️ Você está buscando uma **opinião** sobre a prioridade, que é um dado fraco. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'O que você **deixou de fazer ou sacrificou** no último mês para tentar resolver esse problema de rotatividade?'",
+          "feedback": "✅ Perfeito! A **prioridade é medida pelo sacrifício passado** (tempo, foco, projetos). Ação fala mais alto que palavras. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'Se o CFO aprovasse, o problema seria prioridade?'",
+          "feedback": "❌ Você está usando uma **hipótese** ('se o CFO...') para definir a prioridade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você gostaria de resolver isso?'",
+          "feedback": "❌ **Elogio/Polidez** inútil. Todos 'gostariam' de resolver seus problemas. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Contexto Importa: Entendendo o Ambiente do Problema",
+      "narrative": "Patrícia diz: 'Eu sacrifiquei meu projeto de mentoria, que era importante para mim, para focar nos relatórios de churn. É um ciclo vicioso.' Você tem a **prioridade**. Agora, você faz a **Transição**: 'Tenho uma ideia de como você poderia automatizar o monitoramento para que a Maria (supervisora) pudesse fazer isso...' **Qual é a melhor 'Moeda de Comprometimento' para buscar aqui?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pedir: 'Você me indicaria para o CFO para eu vender a solução?'",
+          "feedback": "⚠️ Você está pedindo **venda** no primeiro contato. Melhor seria uma introdução de baixo risco. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'Você me apresentaria ao CFO e à Maria, por e-mail, dizendo que eu sou alguém que está **pedindo conselho** sobre como resolver o problema deles?'",
+          "feedback": "✅ Perfeito! É um **comprometimento concreto e de baixo risco** ('pedindo conselho') que usa a dor dela como justificativa. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você me daria o orçamento de R$ 20.000 para eu começar a construir o MVP?'",
+          "feedback": "❌ Você está pedindo um **comprometimento financeiro** gigante de imediato. Isso assusta o cliente e encerra a conversa. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você faria um depoimento sobre minha ideia?'",
+          "feedback": "❌ Você está buscando um **elogio público** (depoimento) em vez de uma ação concreta. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Processo de Entrevista: Estrutura e Fluxo",
+      "narrative": "Patrícia concorda em fazer a introdução por e-mail. Você definiu o próximo passo. A conversa está terminando. **Qual é a melhor forma de 'Encerrar' a entrevista?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Ótimo! Agora que você me deu o que eu queria, tchau!'",
+          "feedback": "❌ Você está encerrando a conversa de forma abrupta, quebrando o **rapport** e o profissionalismo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Perguntar se ela tem mais alguma sugestão de recurso que você deve adicionar ao seu produto antes do e-mail.",
+          "feedback": "⚠️ Você está buscando **sugestões de recursos** no final, em vez de focar no comprometimento e na ação. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Agradecer calorosamente pelo **conselho e tempo** (reconhecendo o comprometimento dela) e reafirmar o **próximo passo** (o e-mail de introdução).",
+          "feedback": "✅ Perfeito! Você reconhece o valor do **tempo** (a 'moeda' que ela investiu) e sela o **próximo passo concreto** definido. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Perguntar se ela tem amigos que comprariam o produto imediatamente.",
+          "feedback": "❌ Você voltou a uma **pergunta hipotética** ('comprariam?') e de **venda**, no final. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Encontrando Clientes: Onde e Como Abordar",
+      "narrative": "Um mês depois, você tem que encontrar mais Gerentes de RH, como Patrícia (o nicho). Você quer evitar a polidez. **Onde e como você aborda o próximo potencial cliente (João, Gerente de RH), buscando o máximo de honestidade?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Mandar uma pesquisa online genérica para todos os seus contatos de RH.",
+          "feedback": "❌ **Pesquisas** dão dados superficiais e carecem de contexto e profundidade emocional. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Abordar João em um evento da indústria, pedindo 15 minutos para 'entender como ele lida com o desafio de rotatividade' (abordagem de conselho).",
+          "feedback": "✅ Perfeito! Você está em um **ambiente natural** (onde o cliente real se encontra) e usa a **abordagem de conselho** (de baixo risco e honesta). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Abordar João no LinkedIn, fazendo um pitch completo de como sua solução é melhor que a planilha de Excel.",
+          "feedback": "❌ O **Pitch frio** falha em obter a verdade, gerando polidez ou rejeição imediata. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Ligar para João e perguntar se ele pagaria R$ 500 para economizar R$ 20.000.",
+          "feedback": "⚠️ Você está perguntando sobre **dinheiro** e **hipótese** ('pagaria?'), em vez de focar na dor e no aprendizado. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 3,
+  "title": "🤝 Simulação: Convertendo a Boa Vontade em Comprometimento",
+  "introduction": "Você validou o problema e o cliente potencial, Marco (um CFO de uma PME), expressou a dor sobre a dificuldade de gerenciar despesas de viagens (R$ 15.000 de prejuízo no último trimestre devido a relatórios perdidos). Ele diz: 'Sua solução parece ser exatamente o que precisamos!' Seu desafio agora é converter esse elogio em um Comprometimento real – a única prova de que o problema é prioridade. Você deve navegar pela 'Moeda de Comprometimento' e pela 'Segmentação' para garantir que Marco é um cliente de verdade, e não apenas um 'Sim' polido. Prepare-se para pedir uma Moeda de Comprometimento forte.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "O Comprometimento: A Prova de que o Problema é Real",
+      "narrative": "Marco, o CFO, acabou de descrever a dor (R$ 15.000 perdidos e muita frustração). Ele diz: 'Eu **adoraria** que sua solução existisse, ela parece perfeita.' Você ouve o 'adoraria' (elogio/hipótese) e a 'perfeição' (elogio). **Qual é a sua primeira tentativa de obter um 'Sim' de Comprometimento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pedir: 'Você pode me dar um pequeno depósito de R$ 100 para garantir acesso antecipado ao protótipo Beta?'",
+          "feedback": "✅ Excelente! Você buscou a **Moeda de Comprometimento mais forte: Dinheiro**. É o único 'Sim' que prova que o problema é prioridade. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'Você acha que pagaria um preço justo por isso?'",
+          "feedback": "❌ Ruim! Você está buscando uma **hipótese financeira** ('pagaria um preço justo?') em vez de um comprometimento de ação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'Obrigado! É perfeita mesmo! Você me indicaria para seus amigos CFOs?'",
+          "feedback": "⚠️ Você aceitou o **elogio** e buscou um **comprometimento de reputação** (moeda média), mas aceitar o elogio enfraquece a conversa. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Qual recurso você gostaria que adicionássemos?'",
+          "feedback": "❌ Você voltou a pedir **sugestões de recursos**, o que é um dado de baixa qualidade. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "A Moeda do Comprometimento: Dinheiro, Tempo e Reputação",
+      "narrative": "Marco hesita: 'Um depósito é um pouco difícil agora, preciso conversar com o CEO. Mas eu **realmente quero ajudar**.' Você recebeu uma recusa da moeda mais forte. **Qual é a sua próxima melhor alternativa (Moeda de Comprometimento) para testar a prioridade dele?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Entendi. E se você me introduzisse ao CEO e dissesse que estou pedindo conselho sobre como resolver o problema de despesas?'",
+          "feedback": "✅ Perfeito! Você buscou o **Comprometimento de Reputação** (moeda forte) e o **Comprometimento de Tempo/Ação** (a introdução), usando a abordagem de 'pedir conselho'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'Entendi. Você me daria um depoimento por escrito sobre como minha ideia é boa?'",
+          "feedback": "⚠️ Você buscou um **elogio** (depoimento), que é uma moeda de valor muito baixo e não exige ação real. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Desistir e dizer: 'Sem problema, me avise quando tiver o depósito.'",
+          "feedback": "❌ Você aceitou a recusa e não buscou o **Comprometimento de Tempo ou Reputação**. A conversa termina sem dados úteis. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Se eu te desse um desconto, você conseguiria pagar o depósito?'",
+          "feedback": "❌ Você está tentando forçar o dinheiro com um **desconto**, o que pode contaminar a percepção de valor. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Segmentação de Clientes: Quem Você Deve Ouvir",
+      "narrative": "Marco concorda em fazer a introdução ao CEO. Antes de fechar, você precisa garantir que ele (e sua empresa) são um **Early Adopter** ideal. Você nota que a empresa dele tem apenas 5 funcionários. **Qual pergunta testa a adequação do seu Nicho/Segmento (Dor Aguda)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Você acha que sua empresa é grande o suficiente para o meu software?",
+          "feedback": "❌ Você buscou a **opinião** dele ('acha que é grande?'), o que não é um dado concreto. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Você **tem o poder** de aprovar a compra de um software de R$ 15.000 se o CEO disser 'Sim'?",
+          "feedback": "💡 Melhor. Você está testando a **Autoridade/Orçamento** dele. É uma boa pergunta, mas menos focada na dor aguda. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Como você está **atuamente gastando** dinheiro/tempo para resolver esse problema (além do prejuízo de R$ 15K)?",
+          "feedback": "❌ Você voltou a buscar o **Custo da Dor** que ele já havia revelado, em vez de testar a segmentação (o risco de não ser um Early Adopter). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Você já **tentou ou pagou** por alguma solução **anterior** para gerenciar despesas, mesmo que pequena, antes de encontrar esse problema de R$ 15K?",
+          "feedback": "✅ Perfeito! O **Early Adopter** é aquele que já **agiu** para resolver a dor. Ação passada valida o segmento. (3/3 ★)",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Segredo da Venda: Não Venda, Aprenda",
+      "narrative": "Marco confirma: 'Sim, usamos um aplicativo grátis, mas não funcionou. Era muito limitado.' Ele diz: 'Sua ideia deve resolver isso.' **O que você faz para manter a mentalidade de 'Aprendiz' e não de 'Vendedor'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Fazer um pitch de vendas rápido: 'Minha solução não é limitada! Você vai amar! Quando podemos fechar?'",
+          "feedback": "❌ Você mudou para a **Mentalidade de Vendedor**. Isso contamina a conversa e ativa a defensiva. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'Isso é ótimo, mas me diga: o que aconteceu **exatamente** na última vez que o aplicativo grátis falhou em resolver o problema?'",
+          "feedback": "✅ Perfeito! Você **ignora o elogio/hipótese** e volta à **dor e ao comportamento passado** (falha do aplicativo). Mentalidade de Detetive. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'Que bom que você me elogiou! Eu sou um ótimo vendedor!'",
+          "feedback": "❌ Você aceitou o **elogio** e perdeu a oportunidade de aprender. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Qual recurso faltava no aplicativo grátis?'",
+          "feedback": "⚠️ Você voltou a pedir **sugestões de recursos**, o que é menos útil do que a história da falha. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "O Comprometimento: A Prova de que o Problema é Real",
+      "narrative": "Marco revelou que a falha do app grátis foi na hora de gerar relatórios fiscais, o que o fez trabalhar 10 horas extras na noite anterior ao prazo final. **Você deve buscar a próxima 'Moeda de Comprometimento de Tempo' (Time Commitment). Qual é a forma mais eficaz?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pedir: 'Você pode me dar 1 hora do seu tempo na próxima semana para revisar o protótipo?'",
+          "feedback": "✅ Excelente! Você buscou o **Comprometimento de Tempo** de alto valor, que é um forte indicador de prioridade. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Pedir: 'Você pode me enviar 5 minutos de áudio sobre o que você acha do protótipo?'",
+          "feedback": "⚠️ É um Comprometimento de Tempo, mas o áudio é menos valioso que uma reunião focada. É um dado mais fraco. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que 1 hora seria um bom uso do seu tempo?'",
+          "feedback": "❌ Você está buscando a **opinião** dele, em vez de pedir o **comprometimento** diretamente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Dizer: 'Vou te enviar um e-mail. Me responda quando puder.'",
+          "feedback": "❌ Você aceitou um **comprometimento verbal vago** (e-mail), que tem baixo valor. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "A Moeda do Comprometimento: Dinheiro, Tempo e Reputação",
+      "narrative": "Marco diz que está 'muito ocupado' para 1 hora, mas 'pode tentar 10 minutos'. Você recebeu uma recusa parcial. **Como você usa essa recusa para buscar um comprometimento de Reputação/Esforço?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Entendi. Em 10 minutos é impossível. Desisto!'",
+          "feedback": "❌ Você desistiu da **Moeda de Comprometimento** (Tempo) e não buscou alternativas. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Aceitar os 10 minutos e pedir: 'Você pode, por favor, me enviar um documento **real** de despesas da sua empresa (excluindo dados confidenciais) para eu entender o formato exato que eu preciso automatizar?'",
+          "feedback": "✅ Perfeito! Você aceitou o comprometimento menor (10 min) e buscou um **Comprometimento de Esforço** (documento real) que prova a urgência do formato. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Se eu te desse um desconto, você conseguiria 1 hora?'",
+          "feedback": "❌ Você voltou a manipular com **dinheiro** para obter tempo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você acha que o CEO ficaria chateado se você tirasse 1 hora?'",
+          "feedback": "⚠️ Você buscou a **opinião** e a **hipótese** sobre o CEO, em vez de buscar a ação. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Segmentação de Clientes: Quem Você Deve Ouvir",
+      "narrative": "Marco enviou um modelo de relatório. Ele é um bom **Early Adopter**. Você faz a reunião de 10 minutos. Ele está impressionado e diz: 'Isso é muito promissor! Mas você já testou em **grandes empresas**? Elas são o futuro.' **Como você usa a segmentação para se manter focado no seu nicho?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Concordar: 'Sim, grandes empresas são o futuro! Vou focar nelas agora.'",
+          "feedback": "❌ Você se distraiu e perdeu o foco no seu **nicho validado (PMEs)**, arriscando diluir seu produto. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Dizer: 'Grandes empresas são interessantes. Mas no momento, estou 100% focado em ajudar PMEs como a sua, que têm a dor de R$ 15.000,00 **aguda**.'",
+          "feedback": "✅ Perfeito! Você **rotulou a segmentação** e usou a **dor aguda** dele (R$ 15K) para reafirmar o foco no nicho. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que grandes empresas teriam mais dinheiro para pagar?'",
+          "feedback": "⚠️ Você está buscando uma **opinião/hipótese financeira** sobre outros segmentos. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você tem um amigo em uma grande empresa para me apresentar?'",
+          "feedback": "💡 Você está buscando um **comprometimento de reputação**, mas isso desvia o foco do seu nicho atual. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Segredo da Venda: Não Venda, Aprenda",
+      "narrative": "Marco diz: 'Você está certo. O problema é mais urgente para mim.' Você está pronto para buscar o **Comprometimento Financeiro** (venda). **Qual é a melhor forma de 'vender' o protótipo para Marco?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Com base na sua dor de R$ 15.000, o próximo passo seria você assinar nosso plano de R$ 500/mês para evitar mais perdas. O que você acha?'",
+          "feedback": "✅ Excelente! Você usou a **dor real (R$ 15K)** como **justificativa para o preço** e pediu o **Comprometimento Financeiro** (venda) como próximo passo lógico. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'Você quer comprar?'",
+          "feedback": "⚠️ A pergunta é muito vaga e direta. Não usa a dor real como alavanca. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'Você acha que o CEO aprovaria a compra?'",
+          "feedback": "❌ Você voltou a buscar a **opinião** e a **autoridade** de terceiros, em vez de buscar a venda. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Dizer: 'Meu produto é o melhor do mercado! Você tem que comprar!'",
+          "feedback": "❌ Você usou **elogios** genéricos e a **pressão de venda**. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "O Comprometimento: A Prova de que o Problema é Real",
+      "narrative": "Marco diz: 'R$ 500 é razoável, mas não posso aprovar agora. Preciso de um caso de uso antes.' Você tem a autoridade (ele disse 'razoável') e a objeção. **Qual é o comprometimento de Esforço mais forte para lidar com essa objeção ('preciso de um caso de uso')?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pedir: 'Eu posso te dar 1 mês grátis para você testar?'",
+          "feedback": "❌ Você está dando **acesso grátis**, o que desvaloriza seu produto e não exige comprometimento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pedir: 'Entendo. Se eu construir o protótipo para o seu caso de uso, você se compromete a nos apresentar formalmente ao CEO para uma decisão de compra na próxima semana?'",
+          "feedback": "✅ Perfeito! Você buscou um **Comprometimento de Reputação/Tempo Forte** (apresentação formal) em troca do seu esforço. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'O que o CEO pensaria se você comprasse agora?'",
+          "feedback": "❌ Você voltou a buscar a **opinião/hipótese** sobre o CEO. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Dizer: 'Vou te enviar um e-mail. Me responda quando puder.'",
+          "feedback": "⚠️ Você aceitou um **comprometimento verbal vago** (e-mail) em vez de uma ação concreta. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "A Moeda do Comprometimento: Dinheiro, Tempo e Reputação",
+      "narrative": "Marco diz: 'Sim, se você me entregar o caso de uso, eu garanto a reunião com o CEO.' Você tem um comprometimento de Reputação Forte. **Qual é o Comprometimento de Esforço que você deve exigir dele antes de começar o trabalho?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pedir: 'Você pode me apresentar a outros 5 CFOs para entrevistas?'",
+          "feedback": "⚠️ É uma Moeda de Reputação/Tempo, mas é um desvio do caso de uso combinado. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Pedir: 'Antes de eu começar, você precisa **assinar um NDA** e fornecer **acesso a 1 mês de dados reais** (não confidenciais) para garantir que o caso de uso seja preciso?'",
+          "feedback": "✅ Perfeito! Você buscou um **Comprometimento de Esforço/Reputação Forte** (dados e NDA) para testar se ele realmente vai usar o caso de uso. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'Não precisa de nada, farei o trabalho de graça para te impressionar!'",
+          "feedback": "❌ Você desvalorizou o seu trabalho e não pediu **Comprometimento**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você acha que seus dados são muito complexos?'",
+          "feedback": "❌ Você buscou a **opinião** e a **hipótese** dele sobre a complexidade. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Segmentação de Clientes: Quem Você Deve Ouvir",
+      "narrative": "Marco envia os dados e assina o NDA. Você tem um **Early Adopter validado**. Você deve aproveitar o impulso para validar se há um nicho adjacente. **Qual é a forma mais segura de expandir a segmentação sem diluir o foco?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Obrigado! Vou testar com grandes empresas agora!'",
+          "feedback": "❌ Você perdeu o foco no seu **nicho** e se distraiu. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'Em PMEs com o mesmo problema (R$ 15K perdidos), qual tipo de **função/indústria** (além de PME CFO) você acha que sente essa dor de forma mais aguda?'",
+          "feedback": "✅ Perfeito! Você está buscando um **nicho adjacente** (função/indústria) a partir da **dor aguda** (R$ 15K), mantendo a especificidade. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que qualquer pessoa usaria meu produto?'",
+          "feedback": "❌ Você buscou uma **opinião genérica** ('qualquer pessoa') que dilui completamente seu foco. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você conhece alguém que tem um problema totalmente diferente?'",
+          "feedback": "⚠️ Você está buscando problemas genéricos, mas ainda está focando na **ação** ('você conhece alguém?'). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Segredo da Venda: Não Venda, Aprenda",
+      "narrative": "Marco te deu o próximo nicho de clientes potenciais. Você fez a transição perfeita de 'Aprendiz' para 'Vendedor' (com o comprometimento). **Qual é o último passo, mais alinhado com o 'Segredo da Venda', para encerrar a interação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Ótimo! Agora que você me deu tudo, vou te deixar em paz!'",
+          "feedback": "❌ Você encerrou de forma abrupta, quebrando o **rapport**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Dizer: 'Agradeço o conselho e o tempo. Meu próximo passo é construir seu caso de uso. Qual é a melhor data e hora para a reunião de decisão com o CEO na **próxima semana**?'",
+          "feedback": "✅ Perfeito! Você reverteu a mentalidade para **Aprendiz/Ação** e garantiu a **próxima reunião concreta** (venda da próxima reunião). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que a próxima reunião será um sucesso?'",
+          "feedback": "❌ Você buscou uma **opinião/hipótese** sobre o futuro. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você gostaria de comprar agora para economizar tempo?'",
+          "feedback": "⚠️ Você tentou forçar a **venda imediata** sem o caso de uso. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 4,
+  "title": "🚫 Simulação: Rejeitando o 'Sim' Falso e a Fantasia",
+  "introduction": "Você está iniciando uma nova rodada de entrevistas para validar um software de gestão de tempo para freelancers. Sua principal 'Hipótese Mais Arriscada' é: 'Os freelancers não estão dispostos a pagar por esse tipo de software, pois não sentem a dor de forma aguda'. Sua meta é clara: **descobrir o custo da dor e obter o 'Não' honesto ou um Comprometimento financeiro.** Seu entrevistado, Alex (um designer freelancer), é extremamente otimista e educado. Prepare-se para rejeitar o 'Sim' falso, ignorar o 'Eu Faria' e manter o foco nos fatos concretos para testar sua hipótese mais arriscada.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "O Problema do 'Sim' Falso: Lidando com a Polidez",
+      "narrative": "Você inicia a conversa. Alex diz: 'Essa sua ideia é **genial**! Claro que eu usaria! É um **Sim**!' Você recebeu um elogio e um 'Sim' muito rápido. 🚨 Sinal de alerta! **Qual é a melhor forma de testar a autenticidade desse 'Sim' polido?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aceitar o elogio e seguir em frente. 'Ótimo, que bom que gostou!'",
+          "feedback": "❌ Você caiu na armadilha do **'Sim' Falso** e do **Elogio**. O diálogo terminou antes de começar. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Usar o espelhamento e a rotulagem: 'Um Sim? Parece que você está tentando ser educado, Alex. O que te impede de dizer 'Não' agora?'",
+          "feedback": "✅ Perfeito! Você **rotulou a polidez** e usou a **pergunta do 'Não'** para forçar a honestidade e revelar a objeção oculta (Cisne Negro). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que a maioria dos freelancers diria 'Sim'?'",
+          "feedback": "⚠️ Você buscou a **opinião** e a **generalização** de terceiros, em vez da verdade de Alex. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Dizer: 'Ótimo! Então você se compromete a pagar R$ 50/mês agora?'",
+          "feedback": "💡 Você buscou o **Comprometimento Financeiro**, mas de forma agressiva. É melhor primeiro buscar a verdade (o 'Não'). (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Problema do 'Eu Faria': Ignorando Intenções Futuras",
+      "narrative": "Alex, sem jeito, recua: 'Bem, é que eu **faria** qualquer coisa para organizar minhas horas faturáveis.' Você ouviu o 'Eu Faria' (intenção futura). **Como você transforma essa fantasia em um fato concreto?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Perguntar: 'O que você faria se tivesse o software agora?'",
+          "feedback": "❌ Você reforçou a **Fantasia** com outra pergunta sobre a intenção futura. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'O que você **fez** na **última semana ou mês** para organizar suas horas faturáveis, e quanto tempo isso te custou?'",
+          "feedback": "✅ Perfeito! Você ignorou o 'Eu Faria' e redirecionou para o **comportamento passado e o Custo da Dor** (tempo). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'Minha solução resolve isso, confie em mim!'",
+          "feedback": "❌ Você voltou a **vender** e não a aprender. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você acha que organizar horas é um problema importante?'",
+          "feedback": "⚠️ Você buscou a **opinião** ('acha que é importante?'), em vez do Custo da Dor real. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "O Plano de Jogo: Definindo Metas para Cada Entrevista",
+      "narrative": "Alex revela que gasta **4 horas por semana** em planilhas e perde uma média de R$ 500 por mês por horas não faturadas. (Sua Hipótese Mais Arriscada pode estar errada!). Sua meta agora é **validar a prioridade**. **Qual pergunta testa a prioridade (Sacrifício Passado) de forma concreta?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Você acha que esse é seu principal problema, Alex?",
+          "feedback": "❌ Você buscou a **opinião** dele sobre a prioridade, o que não é um fato. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O que você **sacrificou ou adiou** na última vez que teve que gastar 4 horas na planilha (ex: sono, projeto, família)?",
+          "feedback": "✅ Perfeito! A **prioridade é medida pelo sacrifício passado**. Você está testando a intensidade da dor. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Se eu te desse 4 horas a mais por semana, o que você faria?",
+          "feedback": "❌ Você voltou a uma **pergunta hipotética** ('o que você faria?'). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Você gostaria de resolver isso rapidamente?",
+          "feedback": "⚠️ Você buscou um **elogio** ('gostaria de resolver?') que não exige ação real. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Notas e Documentação: Capturando e Analisando os Dados",
+      "narrative": "Alex diz: 'Sacrifiquei o tempo com minha filha. Fiquei muito **frustrado** e isso me fez perder o foco no dia seguinte.' Você tem uma citação exata de dor emocional e um fato concreto (sacrifício). **O que você prioriza anotar neste momento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Anotar: 'Frustração' e 'tempo com a filha'. Ignorar sugestões de recursos futuras.",
+          "feedback": "✅ Perfeito! Você priorizou a **Citação Exata** de dor emocional e o **Fato Concreto** (sacrifício) para o seu pitch e marketing. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Anotar: 'Minha solução seria ótima para ele' (viés de confirmação).",
+          "feedback": "❌ Você anotou sua **opinião** e seu **viés de confirmação**, em vez dos dados brutos do cliente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Anotar apenas a sugestão de recurso que ele acabou de mencionar: 'Um botão de relatórios rápidos'.",
+          "feedback": "❌ Você priorizou a **sugestão de recurso** em vez do problema subjacente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Anotar: 'Ele disse Sim e está pronto para comprar!'",
+          "feedback": "⚠️ Você está anotando um **'Sim' falso/hipotético** em vez do comprometimento real e do custo da dor. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "O Problema do 'Sim' Falso: Lidando com a Polidez",
+      "narrative": "Você faz a Transição e mostra seu protótipo. Alex, impressionado, diz: 'Uau! Eu vejo potencial! Eu **posso ser um cliente Beta** e te dar feedback.' Você obteve um 'Sim' de Comprometimento de Tempo, mas ainda há polidez. **Como você usa a polidez para buscar a Moeda de Comprometimento mais forte?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Isso é ótimo, mas não posso te dar acesso grátis. Você pode me dar R$ 50 para o Beta?'",
+          "feedback": "✅ Perfeito! Você usou a **polidez** ('posso ser Beta') como alavanca para buscar o **Comprometimento Financeiro** (Dinheiro) de baixo risco. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Dizer: 'Obrigado! Seu feedback será inestimável!' (Aceitar o tempo grátis)",
+          "feedback": "❌ Você aceitou um **comprometimento de tempo fraco** em troca do seu trabalho (acesso grátis). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que a maioria dos freelancers faria isso?'",
+          "feedback": "❌ Você buscou a **opinião** e a **generalização** sobre terceiros. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Dizer: 'Você me apresentaria a 5 amigos freelancers?'",
+          "feedback": "⚠️ Você buscou um **Comprometimento de Reputação** (bom), mas ignorou a chance de buscar a moeda mais forte (Dinheiro). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O Problema do 'Eu Faria': Ignorando Intenções Futuras",
+      "narrative": "Alex diz: 'R$ 50 é um pouco, mas **eu pagaria** se o recurso de faturamento fosse perfeito.' Você ouviu 'Eu pagaria' (intenção futura) e o 'Se' (hipótese). **Como você neutraliza a hipótese e retorna ao fato concreto?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Prometer: 'Eu garanto que o faturamento será perfeito! Você paga agora?'",
+          "feedback": "❌ Você **prometeu um futuro** e não coletou dados concretos, contaminando o relacionamento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'Entendi o 'se'. O que você **gastou** (tempo ou dinheiro) na última vez que o recurso de faturamento **falhou** para você?'",
+          "feedback": "✅ Perfeito! Você ignora a **hipótese futura** e volta ao **custo concreto da falha passada**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que o faturamento é o problema mais importante?'",
+          "feedback": "❌ Você buscou a **opinião** e a **hipótese** sobre a importância. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Dizer: 'Obrigado pela sugestão de recurso! Vou adicionar!'",
+          "feedback": "⚠️ Você aceitou a **sugestão de recurso** sem cavar a dor. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Plano de Jogo: Definindo Metas para Cada Entrevista",
+      "narrative": "Alex confirma que a falha de faturamento custou a ele R$ 1.000 em multas no último ano. Você tem a dor real. O objetivo da entrevista era testar a Hipótese Mais Arriscada. **Qual é o melhor 'Plano de Jogo' para o final da conversa?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Perguntar se a solução de faturamento é a única que ele usaria.",
+          "feedback": "❌ Você está buscando uma **opinião/hipótese** sobre o uso. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Alinhar o próximo passo com o comprometimento (se ele te pagar os R$ 50, você resolve o faturamento em 1 semana).",
+          "feedback": "✅ Perfeito! Você usa a dor validada para buscar o **Comprometimento Financeiro** (R$ 50) como **próximo passo lógico** (Plano de Jogo de Ação). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar se ele conhece mais freelancers com o problema de faturamento.",
+          "feedback": "⚠️ Você buscou um **comprometimento de reputação** (bom), mas ignorou a chance de testar sua Hipótese Mais Arriscada (pagamento). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Dizer: 'Você acharia justo pagar R$ 50?'",
+          "feedback": "❌ Você buscou a **opinião** sobre o preço. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Notas e Documentação: Capturando e Analisando os Dados",
+      "narrative": "Alex diz: 'R$ 50 é ok. Eu pagaria, mas não tenho certeza de quem mais na comunidade pagaria.' Você obteve o Comprometimento Financeiro dele (o 'Sim' que importa!). Ele adicionou uma **dúvida sobre a segmentação**. **O que você deve anotar sobre a segmentação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Anotar: 'Todos os freelancers pagarão (viés de confirmação)'",
+          "feedback": "❌ Você anotou um **viés de confirmação** em vez do dado bruto (dúvida de Alex). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Anotar a citação exata: 'Não tenho certeza de quem mais na comunidade pagaria' e a **Hipótese de que o nicho precisa de refinamento**.",
+          "feedback": "✅ Perfeito! Você anotou o **dado bruto** e a **hipótese** que precisa ser testada (refinamento do nicho). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Anotar: 'O preço é muito alto. Preciso reduzir.'",
+          "feedback": "❌ Você anotou uma **conclusão precipitada** sem dados suficientes para tal. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Anotar: 'Ele deu um elogio e está pronto para comprar!'",
+          "feedback": "⚠️ Você anotou o **elogio** e o **sentimento**, mas não a dúvida importante sobre o nicho. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "O Problema do 'Sim' Falso: Lidando com a Polidez",
+      "narrative": "Você está encerrando a conversa. Alex diz: 'Muito obrigado, foi ótimo! Você tem uma ótima ideia!' 🚨 Mais elogios e polidez. **Qual é o último 'choque' para buscar a verdade antes de encerrar?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Perguntar: 'Você acha que o faturamento é o problema mais importante?'",
+          "feedback": "❌ Você buscou a **opinião** e a **hipótese** sobre a importância. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Dizer: 'Agradeço, Alex. Só para ter certeza: O que te impede de dizer ao seu amigo freelancer que essa é uma péssima ideia?'",
+          "feedback": "✅ Perfeito! Você usou a **pergunta do 'Não'** para forçar a **objeção final** (Cisne Negro) antes de encerrar. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Aceitar o elogio e encerrar a conversa com um 'tchau'.",
+          "feedback": "❌ Você aceitou o **elogio** e perdeu a chance de buscar a verdade final. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você faria um depoimento por escrito sobre minha ideia?'",
+          "feedback": "⚠️ Você buscou um **elogio público** (depoimento), que não é um dado de comprometimento forte. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Problema do 'Eu Faria': Ignorando Intenções Futuras",
+      "narrative": "Alex, finalmente honesto, diz: 'Bem, eu **faria** um mês de teste grátis antes de pagar R$ 50, se você me desse.' Ele voltou para a **intenção futura e a concessão**. **Como você rejeita a intenção e foca no fato concreto do Comprometimento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Entendido, Alex. Mas o que você está disposto a fazer agora para garantir que esse problema seja resolvido para sempre?'",
+          "feedback": "✅ Perfeito! Você rejeita a **concessão/intenção futura** e redireciona para a **ação presente** (comprometimento de ação). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Dizer: 'Claro! Te dou um mês grátis!'",
+          "feedback": "❌ Você cedeu à **concessão** e desvalorizou seu produto, aceitando o 'Sim' condicional. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você faria um depoimento em vídeo se eu te desse um mês grátis?'",
+          "feedback": "❌ Você está negociando com **concessões** e **elogios**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você acha que a maioria dos freelancers faria o teste grátis?'",
+          "feedback": "⚠️ Você buscou a **opinião** sobre a generalização de terceiros. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Plano de Jogo: Definindo Metas para Cada Entrevista",
+      "narrative": "Você encerrou a entrevista com Alex. Ele se comprometeu a pagar R$ 50. Você testou sua Hipótese Mais Arriscada (pagamento). **Qual é a sua 'Meta para a Próxima Entrevista' (Plano de Jogo) baseada nos dados de Alex?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Obter 5 elogios sobre o design do protótipo.",
+          "feedback": "❌ Meta ruim. Foca em **elogios** e não na dor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Testar a nova Hipótese: 'Freelancers de marketing e redação (nicho adjacente) também têm o problema de faturamento e estão dispostos a pagar R$ 50'.",
+          "feedback": "✅ Perfeito! Você ajustou o plano de jogo para **testar um nicho adjacente** e a **moeda de comprometimento** (R$ 50). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Falar sobre o preço mais alto que você pode cobrar.",
+          "feedback": "❌ Meta ruim. Foca em **dinheiro/venda** sem antes validar a dor no novo nicho. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar se alguém gostaria de um recurso de calendário.",
+          "feedback": "⚠️ Meta fraca. Foca em **sugestões de recursos** em vez de dor e pagamento. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Notas e Documentação: Capturando e Analisando os Dados",
+      "narrative": "Você está documentando os dados de Alex. Você tem as citações de dor e o comprometimento financeiro. **Como você deve analisar esses dados para compartilhar com sua equipe, evitando o viés de confirmação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Fazer um resumo do que você acha que o produto deve fazer.",
+          "feedback": "❌ Você está compartilhando sua **opinião** em vez dos dados brutos. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Compartilhar os **dados brutos**: as citações exatas de dor, o custo da dor (4h/semana, R$ 1.000 perdidos) e o **Comprometimento Financeiro** (R$ 50).",
+          "feedback": "✅ Perfeito! O compartilhamento de **dados brutos** permite que a equipe tome decisões objetivas, evitando o viés de confirmação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Compartilhar apenas os elogios e a sugestão de recurso de faturamento.",
+          "feedback": "❌ Você está compartilhando o **ruído** (elogios e sugestões) em vez do sinal (dor). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Dizer que você tem o cliente ideal e que eles devem construir o produto rapidamente.",
+          "feedback": "⚠️ Você está compartilhando uma **conclusão precipitada** sem dados suficientes para tal. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 5,
+  "title": "🎁 Simulação: O Excesso de Recursos e a Busca pela Verdade Final",
+  "introduction": "Você está validando a hipótese de que pequenas agências de marketing precisam de um CRM simples focado em funil de vendas. Seu cliente potencial, Rafael (CEO de uma pequena agência), está cheio de ideias e muito entusiasmado. Ele já fez sugestões de recursos, elogiou e é um velho amigo seu. Seu desafio é ser o **detetive mais brutal** que ele já viu, rejeitando todas as soluções que ele projeta e buscando o problema subjacente. Você precisa decidir: **seguir, pivotar ou parar?** Seu foco é ignorar o ruído e obter a verdade. ",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "O Problema do 'Recurso': Evitando que o Cliente Projete Soluções",
+      "narrative": "Rafael, seu amigo, diz: 'Adorei a ideia de CRM! Mas você **precisa** adicionar um botão de 'WhatsApp Business' integrado, isso **seria incrível!**' Você ouviu um elogio, uma sugestão de recurso e o 'seria' (intenção). **Como você lida com a sugestão de recurso de forma eficaz?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Anotar o recurso 'WhatsApp Business' e dizer: 'Vou construir isso! Parece incrível!'",
+          "feedback": "❌ Você aceitou a **solução projetada** do cliente e se distraiu do problema subjacente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Ignorar o recurso e perguntar: 'O que você está **tentando fazer** com o WhatsApp que não consegue agora? Qual é o custo de fazer isso manualmente?'",
+          "feedback": "✅ Perfeito! Você ignora a **solução** ('Recurso') e cava fundo no **problema subjacente** e no **custo da dor** (o 'sinal'). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'Recurso ruim. Não farei isso.'",
+          "feedback": "❌ Você foi muito direto, quebrando o **rapport** com seu amigo e não obtendo a informação real. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você pagaria R$ 20 a mais por mês por esse recurso?'",
+          "feedback": "⚠️ Você focou na **hipótese financeira** de um recurso não validado. É um dado de valor médio. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Problema do 'Amigo': Entrevistando Pessoas que te Conhecem",
+      "narrative": "Rafael revela que gasta **45 minutos por dia** copiando conversas do WhatsApp para o sistema de CRM atual. Ele acrescenta: 'Mas é o meu trabalho, não me importo muito.' Você ouviu o **custo de tempo** e o **'não me importo'** (polidez de amigo). **Como você busca o comprometimento de Reputação dele?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Sei que você me ama, mas me diga: essa sua gambiarra é um problema para você ou para seus clientes?'",
+          "feedback": "💡 Melhor. Você **rotulou o amor/polidez**, mas a pergunta é indireta. É melhor buscar a ação (comprometimento). (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'Se o seu problema de copiar conversas fosse resolvido, você estaria disposto a **me apresentar a 3 amigos donos de agência** que têm o mesmo problema e dispostos a pagar?'",
+          "feedback": "✅ Perfeito! Você ignorou a polidez e buscou o **Comprometimento de Reputação** (alto valor), que é a prova de que ele acredita em você. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'Se você não se importa, eu desisto da ideia.'",
+          "feedback": "❌ Você aceitou a polidez e não buscou o comprometimento real. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você acha que a maioria dos donos de agência se importa?'",
+          "feedback": "❌ Você buscou a **opinião** e a **generalização** sobre terceiros. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "O Foco no Nicho: Por que Começar Pequeno é Crucial",
+      "narrative": "Rafael recusa a introdução. 'Não quero arriscar minha reputação com eles, ainda mais com algo em fase beta.' 🚩 Ele recusou a moeda mais forte. Sua hipótese é: 'O nicho de **pequenas agências** é o correto, mas o **momento** é ruim.' **Qual é a pergunta mais específica para validar a dor no seu nicho?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Perguntar: 'Você acha que grandes agências teriam mais dinheiro para pagar?'",
+          "feedback": "❌ Você se distraiu e buscou uma **hipótese** sobre um nicho diferente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'Em pequenas agências como a sua, qual é o **maior prejuízo** (além do tempo) que a falta de um CRM focado em funil já causou no **último trimestre**?'",
+          "feedback": "✅ Perfeito! Você usou a **especificidade do nicho** (pequenas agências) e buscou o **maior Custo da Dor passado** (prejuízo em $$). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'Se você não me apresentar, vou desistir da ideia.'",
+          "feedback": "❌ Você usou a **pressão** e o **ultimato**, o que não é produtivo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você me daria 10 minutos para revisar os recursos que você gostaria?'",
+          "feedback": "⚠️ Você buscou um **comprometimento de tempo** de baixo valor, focado em **recursos**. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Problema do 'Recurso': Evitando que o Cliente Projete Soluções",
+      "narrative": "Rafael revela que a falta de um CRM focado custou a agência **R$ 3.000 em propostas perdidas** no último trimestre (dor aguda!). Ele volta à sugestão: 'Se o seu CRM tivesse um recurso de **e-mail marketing automático**...' **Como você lida com a sugestão insistente de recurso?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Eu só vou adicionar esse recurso se você pagar R$ 500 agora.'",
+          "feedback": "❌ Você está fazendo uma **negociação agressiva** baseada em um recurso não validado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Rotular a insistência: 'Parece que o e-mail marketing automático é vital. O que acontece hoje que te faz perder as propostas de R$ 3.000,00 por falta de follow-up?'",
+          "feedback": "✅ Perfeito! Você **rotulou a insistência** e redirecionou para o **problema subjacente** (follow-up perdido) e o **custo da dor** (R$ 3.000). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Anotar o recurso e dizer: 'Obrigado pela sugestão!'",
+          "feedback": "❌ Você aceitou a **solução projetada** em vez de cavar a dor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você acha que a maioria das agências precisa disso?'",
+          "feedback": "⚠️ Você buscou a **opinião** e a **generalização**. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "O Problema do 'Amigo': Entrevistando Pessoas que te Conhecem",
+      "narrative": "Rafael, seu amigo, admite que o problema é o 'esforço manual' dele de lembrar de enviar e-mails de follow-up. Ele diz: 'Você é um gênio por pensar nisso!' Você recebeu outro elogio. **Qual é o próximo passo, sendo brutalmente honesto com o feedback de amigo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Obrigado! Com esse elogio, não preciso de mais nada!'",
+          "feedback": "❌ Você aceitou o **elogio** e perdeu a chance de buscar a verdade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Ignorar o elogio e pedir: 'Você estaria disposto a me **pagar R$ 50** agora para garantir acesso e me ajudar a testar o faturamento?'",
+          "feedback": "✅ Perfeito! Você ignora o elogio e busca o **Comprometimento Financeiro** (moeda mais forte) para testar a honestidade dele. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que eu sou um gênio de verdade?'",
+          "feedback": "❌ Você buscou **validação pessoal** em vez de validação de mercado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pedir: 'Você pode me dar um depoimento sobre a minha genialidade?'",
+          "feedback": "⚠️ Você buscou um **elogio público** (depoimento), que não é um comprometimento real. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O Foco no Nicho: Por que Começar Pequeno é Crucial",
+      "narrative": "Rafael paga os R$ 50 (Comprometimento Financeiro!). Ele é um Early Adopter validado. Você deve aproveitar o impulso para validar a **expansão do nicho**. **Qual é a pergunta mais específica para testar um Nicho Adjacente?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Perguntar: 'Você conhece alguém em uma grande empresa?'",
+          "feedback": "❌ Você se distraiu para um nicho muito distante (grande empresa) sem base de dados. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'Em agências **maiores** que a sua (10-20 funcionários), eles têm o **mesmo problema de R$ 3.000,00** ou um problema diferente?'",
+          "feedback": "✅ Perfeito! Você está buscando um **nicho adjacente** (agências maiores) a partir do **Custo da Dor validado** (R$ 3.000) no nicho atual. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que a maioria das agências tem esse problema?'",
+          "feedback": "❌ Você buscou a **opinião** e a **generalização**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Que recursos você acha que as agências maiores precisariam?'",
+          "feedback": "⚠️ Você está buscando **sugestões de recursos** para o novo nicho. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Problema do 'Recurso': Evitando que o Cliente Projete Soluções",
+      "narrative": "Rafael sugere: 'Agências maiores talvez precisem de um **dashboard de métricas de marketing**!' Você tem um novo recurso. Você sabe o que fazer. **Qual é a próxima pergunta de acompanhamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Anotar o recurso e prometer que será construído.",
+          "feedback": "❌ Você aceitou a **solução projetada** em vez de cavar a dor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Perguntar: 'Por que um dashboard? O que acontece hoje que as impede de saber se estão perdendo propostas de R$ 3.000,00?'",
+          "feedback": "✅ Perfeito! Você transformou o **recurso** em uma pergunta sobre a **dor/custo da inação** no nicho adjacente. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'Você acha que o dashboard seria mais importante que a integração com o WhatsApp?'",
+          "feedback": "⚠️ Você está buscando uma **opinião comparativa** inútil entre dois recursos. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'O que você faria se tivesse o dashboard?'",
+          "feedback": "❌ Você voltou a uma **pergunta hipotética** ('o que faria?'). (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Problema do 'Amigo': Entrevistando Pessoas que te Conhecem",
+      "narrative": "Rafael diz: 'Você está me fazendo trabalhar! Mas é um bom trabalho!' Você tem o comprometimento e a dor. **Qual é a melhor forma de encerrar a entrevista com um 'amigo' que pagou R$ 50 (Comprometimento de Dinheiro)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Obrigado pelo dinheiro! Tchau!'",
+          "feedback": "❌ Você encerrou de forma abrupta, quebrando o **rapport**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Agradecer pelo **pagamento e conselho** (reconhecendo o investimento) e pedir o **próximo passo concreto** ('Qual é a melhor data e hora na próxima semana para eu te mostrar o faturamento funcionando?').",
+          "feedback": "✅ Perfeito! Você reconheceu o **Comprometimento (Dinheiro)** e garantiu o **próximo passo de tempo/ação**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pedir: 'Você pode me dar um depoimento por escrito sobre como minha ideia é genial?'",
+          "feedback": "⚠️ Você buscou um **elogio** em vez de uma ação. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você acha que pagaria mais se eu adicionasse o dashboard?'",
+          "feedback": "❌ Você voltou à **hipótese financeira** de um recurso. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "O Foco no Nicho: Por que Começar Pequeno é Crucial",
+      "narrative": "Você encerrou com sucesso. Sua análise de dados mostra que 45 minutos de perda de tempo com WhatsApp é a dor mais comum em agências **pequenas e de médio porte**. **Qual deve ser a sua Decisão (Seguir/Pivotar/Parar) e a sua Ação de Nicho?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Decisão: Pivotar para o problema de grandes empresas. Ação: Focar no dashboard de métricas.",
+          "feedback": "❌ Você ignorou os dados e focou em um **nicho não validado** e um **recurso projetado**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Decisão: Parar a ideia. Ação: O problema não é doloroso o suficiente.",
+          "feedback": "❌ Você ignorou o **Comprometimento Financeiro** e o **Custo da Dor** (45min/dia, R$ 3.000 perdidos). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Decisão: Seguir com o nicho atual. Ação: Focar no CRM simples, focado na **dor do WhatsApp/Follow-up** (45min/dia) em agências pequenas.",
+          "feedback": "✅ Perfeito! Você está **seguindo** com o **nicho validado** e o **problema agudo** (dor de 45min/dia), que é a sua fundação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Decisão: Seguir. Ação: Adicionar todos os recursos sugeridos.",
+          "feedback": "⚠️ Você seguiu, mas com a **ação errada** (adicionar todos os recursos), o que dilui o foco. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Notas e Documentação: Capturando e Analisando os Dados",
+      "narrative": "Você está preparando um relatório para sua equipe. Você tem um **Cisne Negro (problema inesperado)** que surgiu em outra entrevista: 'O cliente não tem tempo para instalar um novo software'. **Como você documenta isso para a equipe?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Anotar apenas os elogios e a sugestão de recurso que o cliente deu.",
+          "feedback": "❌ Você está documentando o **ruído** (elogios/sugestões) em vez do Cisne Negro. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Documentar a **Hipótese Mais Arriscada** (Adoção): 'Os clientes não se importarão com a dor, pois o custo de tempo de instalação é muito alto'.",
+          "feedback": "✅ Perfeito! Você transformou o Cisne Negro em uma **nova Hipótese Mais Arriscada** a ser testada, informando a equipe. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'Vou ignorar esse feedback, ele é irrelevante.'",
+          "feedback": "❌ Você ignorou um **Cisne Negro** (objeção real), o que pode matar o produto. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Anotar: 'O cliente disse Sim, mas está ocupado' (viés de confirmação).",
+          "feedback": "⚠️ Você usou o **viés de confirmação** e não documentou a objeção real. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Problema do 'Amigo': Entrevistando Pessoas que te Conhecem",
+      "narrative": "Você vai entrevistar a Luíza, sua colega de faculdade que trabalha em uma agência. Você sabe que ela é a **'Mãe' figurativa** e não quer te desapontar. **Qual é a pergunta de abertura mais brutalmente honesta para Luíza?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Perguntar: 'O que você achou da minha ideia? Ela vai ser um sucesso, né?'",
+          "feedback": "❌ Você buscou o **elogio** e o **'Sim' falso** de confirmação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Dizer: 'Luíza, não me elogie. Estou aqui para pedir seu conselho. Me conte sobre a **última vez** que você perdeu uma proposta por falta de follow-up. O que aconteceu?'",
+          "feedback": "✅ Perfeito! Você **rotulou a polidez** ('não me elogie') e redirecionou para o **fato concreto e a dor passada**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você faria um depoimento em vídeo se eu te desse um desconto?'",
+          "feedback": "❌ Você buscou **elogio e concessão**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Você acha que minha ideia é melhor que o seu CRM atual?'",
+          "feedback": "⚠️ Você buscou uma **opinião comparativa** de um amigo. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Foco no Nicho: Por que Começar Pequeno é Crucial",
+      "narrative": "Luíza validou o problema: 'Perdemos um cliente de R$ 5.000,00 mês passado por falta de follow-up.' Você tem a dor e a prova. **Como você usa essa informação para reforçar a Decisão (Seguir) e o Foco no Nicho?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer: 'Ótimo! Vou pivotar para o problema de grandes empresas! Tchau!'",
+          "feedback": "❌ Você ignorou os dados de dor aguda (R$ 5.000 perdidos) e pivotou para um **nicho não validado**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Dizer: 'Esse problema é real. Vamos focar 100% no problema de **perda de follow-up** em **agências de pequeno e médio porte** (o nicho validado).'",
+          "feedback": "✅ Perfeito! Você **reforçou a especificidade do nicho** e o **problema agudo** (perda de follow-up) baseado em dados concretos. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar: 'Você acha que todas as agências têm esse problema?'",
+          "feedback": "❌ Você buscou a **generalização**, o que dilui o foco no nicho. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Dizer: 'Eu vou construir um recurso de e-mail marketing automático para você!'",
+          "feedback": "⚠️ Você voltou a focar em um **recurso projetado** (solução) em vez do problema real. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}
+]

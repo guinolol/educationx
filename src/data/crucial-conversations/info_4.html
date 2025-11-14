@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sketchnote: Do Diálogo à Ação</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 20px;
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+        /* TITLE */
+        .title-wrapper {
+            text-align: center;
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #0288d1;
+        }
+        .chapter-label {
+            display: inline-block;
+            background: #0288d1;
+            color: white;
+            padding: 10px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 50px;
+            margin-bottom: 15px;
+            font-family: 'Caveat', cursive;
+        }
+        .title {
+            font-size: 52px;
+            font-weight: bold;
+            color: #01579b;
+            font-family: 'Caveat', cursive;
+            margin-bottom: 12px;
+            letter-spacing: 1px;
+        }
+        .subtitle {
+            font-size: 24px;
+            color: #0288d1;
+            font-style: italic;
+        }
+
+        /* CHAPTER CARDS */
+        .chapters {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        .chapter-card {
+            background: white;
+            padding: 30px;
+            border-radius: 14px;
+            box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+        }
+        .chapter-13 { border-top: 6px solid #d32f2f; }
+        .chapter-14 { border-top: 6px solid #7b1fa2; }
+        .chapter-15 { border-top: 6px solid #2e7d32; }
+        .chapter-16 { border-top: 6px solid #0288d1; }
+
+        .chapter-title {
+            font-size: 26px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-family: 'Caveat', cursive;
+        }
+        .emoji { font-size: 32px; }
+
+        .teaser {
+            font-size: 18px;
+            font-weight: bold;
+            color: #555;
+            margin-bottom: 20px;
+            background: #f9f9f9;
+            padding: 12px;
+            border-radius: 8px;
+            border-left: 3px solid #aaa;
+        }
+
+        .sub-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin: 22px 0 14px;
+            color: #555;
+        }
+
+        .principles-list, .checklist-list {
+            list-style: none;
+            font-size: 16px;
+            color: #444;
+        }
+        .principles-list li, .checklist-list li {
+            margin-bottom: 12px;
+            padding-left: 30px;
+            position: relative;
+            line-height: 1.5;
+        }
+        .principles-list li:before { content: "💡"; }
+        .checklist-list li:before { content: "✅"; }
+        .principles-list li:before,
+        .checklist-list li:before {
+            position: absolute;
+            left: 0;
+            font-size: 18px;
+        }
+
+        .decision-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 16px;
+            margin-top: 16px;
+        }
+        .decision-card {
+            background: #f3e5f5;
+            padding: 16px;
+            border-radius: 10px;
+            border-left: 4px solid #7b1fa2;
+        }
+        .decision-label {
+            font-weight: bold;
+            color: #4a148c;
+            font-size: 17px;
+            margin-bottom: 6px;
+        }
+        .decision-desc {
+            font-size: 14px;
+            color: #7b1fa2;
+        }
+
+        .action-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 16px;
+            margin-top: 16px;
+        }
+        .action-card {
+            background: #ffebee;
+            padding: 16px;
+            border-radius: 10px;
+            border-left: 4px solid #d32f2f;
+        }
+        .action-label {
+            font-weight: bold;
+            color: #b71c1c;
+            font-size: 17px;
+            margin-bottom: 6px;
+        }
+        .action-desc {
+            font-size: 14px;
+            color: #d32f2f;
+        }
+
+        .pool-insight {
+            background: #e8f5e9;
+            border-left: 6px solid #2e7d32;
+            padding: 30px;
+            border-radius: 10px;
+            margin-top: 30px;
+            text-align: center;
+        }
+        .pool-text {
+            font-size: 22px;
+            line-height: 1.6;
+            color: #1b5e20;
+            font-family: 'Caveat', cursive;
+        }
+
+        .highlight {
+            font-weight: bold;
+            color: #0d47a1;
+            background: rgba(13, 71, 161, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+
+        @media (max-width: 768px) {
+            .chapters,
+            .decision-grid,
+            .action-grid {
+                grid-template-columns: 1fr;
+            }
+            .title {
+                font-size: 40px;
+            }
+            .chapter-title {
+                font-size: 22px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- TITLE -->
+        <div class="title-wrapper">
+            <div class="chapter-label">CONVERSAS CRUCIAIS</div>
+            <div class="title">🚀 Do Diálogo à Ação</div>
+            <div class="subtitle">Sem ação clara, o diálogo é só conversa. Com ela, vira resultado.</div>
+        </div>
+
+        <!-- CHAPTERS -->
+        <div class="chapters">
+            <!-- CAP 13 -->
+            <div class="chapter-card chapter-13">
+                <div class="chapter-title"><span class="emoji">💼</span> Capítulo 13: Passando à Ação</div>
+                <div class="teaser">Conversou bem. Se não vira AÇÃO, foi inútil.</div>
+                <div class="sub-title">Os 4 Pilares da Ação</div>
+                <div class="action-grid">
+                    <div class="action-card">
+                        <div class="action-label">Quem?</div>
+                        <div class="action-desc">Nome real, não "nós"</div>
+                    </div>
+                    <div class="action-card">
+                        <div class="action-label">O Quê?</div>
+                        <div class="action-desc">Tarefa específica</div>
+                    </div>
+                    <div class="action-card">
+                        <div class="action-label">Quando?</div>
+                        <div class="action-desc">Prazo concreto</div>
+                    </div>
+                    <div class="action-card">
+                        <div class="action-label">Acompanhamento?</div>
+                        <div class="action-desc">Verificação + suporte</div>
+                    </div>
+                </div>
+                <div class="sub-title">Métodos de Decisão</div>
+                <ul class="principles-list">
+                    <li><strong>Comando:</strong> autoridade decide (rápido)</li>
+                    <li><strong>Consulta:</strong> ouve, depois decide</li>
+                    <li><strong>Voto:</strong> maioria decide (cuidado: minoria se ressente)</li>
+                    <li><strong>Consenso:</strong> todos concordam (lento, alto risco)</li>
+                </ul>
+            </div>
+
+            <!-- CAP 14 -->
+            <div class="chapter-card chapter-14">
+                <div class="chapter-title"><span class="emoji">🤔</span> Capítulo 14: Decidindo Como Decidir</div>
+                <div class="teaser">Antes de decidir, decida COMO decidir.</div>
+                <div class="sub-title">O Grande Erro:</div>
+                <p>Não alinhar o <span class="highlight">método de decisão</span> antes de discutir o conteúdo → caos!</p>
+                <div class="sub-title">Escolha o método certo</div>
+                <div class="decision-grid">
+                    <div class="decision-card">
+                        <div class="decision-label">Baixo Risco</div>
+                        <div class="decision-desc">Comando ou Voto</div>
+                    </div>
+                    <div class="decision-card">
+                        <div class="decision-label">Alto Risco</div>
+                        <div class="decision-desc">Consulta ou Consenso</div>
+                    </div>
+                    <div class="decision-card">
+                        <div class="decision-label">Alta Autoridade</div>
+                        <div class="decision-desc">Comando</div>
+                    </div>
+                    <div class="decision-card">
+                        <div class="decision-label">Precisa Engajamento</div>
+                        <div class="decision-desc">Consenso</div>
+                    </div>
+                </div>
+                <div class="sub-title">Chave:</div>
+                <ul class="checklist-list">
+                    <li>Decida como decidir <strong>antes</strong> da discussão</li>
+                    <li>Documente qual método foi usado</li>
+                    <li>Apoio ≠ concordância. É compromisso com a execução.</li>
+                </ul>
+            </div>
+
+            <!-- CAP 15 -->
+            <div class="chapter-card chapter-15">
+                <div class="chapter-title"><span class="emoji">📋</span> Capítulo 15: Quem, O Quê, Quando</div>
+                <div class="teaser">“Nós vamos…” = Ninguém vai.</div>
+                <div class="sub-title">Evite a Difusão de Responsabilidade</div>
+                <ul class="principles-list">
+                    <li><strong>“Alguém”</strong> = tarefa invisível</li>
+                    <li><strong>“Nós”</strong> = responsabilidade diluída</li>
+                    <li><strong>Nome + Verbo + Prazo</strong> = ação real</li>
+                </ul>
+                <div class="sub-title">Checklist Prático</div>
+                <ul class="checklist-list">
+                    <li>“Quem” tem que ter <strong>nome</strong> (ex: Maria)</li>
+                    <li>“O Quê” tem que ser <strong>específico</strong> (ex: enviar relatório)</li>
+                    <li>“Quando” tem que ter <strong>data e hora</strong></li>
+                    <li>Documente tudo: visível a todos</li>
+                    <li>Falhou? Faça <strong>nova Conversa Crucial</strong> – não culpe!</li>
+                </ul>
+            </div>
+
+            <!-- CAP 16 -->
+            <div class="chapter-card chapter-16">
+                <div class="chapter-title"><span class="emoji">🏆</span> Capítulo 16: O Poder do Diálogo</div>
+                <div class="teaser">O Pool de Significado é o QI coletivo do grupo.</div>
+                <div class="sub-title">Diálogo = Encher a Piscina</div>
+                <ul class="principles-list">
+                    <li>Fatos + Histórias + Sentimentos = Decisão inteligente</li>
+                    <li>Silêncio = retém informação → decisões pobres</li>
+                    <li>Violência = impõe informação → decisões distorcidas</li>
+                    <li>STATE = você <strong>adiciona</strong> à piscina</li>
+                    <li>AMPP = você <strong>extrai</strong> da piscina</li>
+                    <li><strong>Encorajar testes</strong> = convite à discordância produtiva</li>
+                </ul>
+                <div class="sub-title">Lembre-se:</div>
+                <ul class="checklist-list">
+                    <li>Segurança vem antes do conteúdo</li>
+                    <li>Propósito Mútuo + Respeito Mútuo = fundamento</li>
+                    <li>Quanto mais rico o Pool, mais inteligente o grupo.</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- KEY INSIGHT -->
+        <div class="pool-insight">
+            <div class="pool-text">
+                “Se não há ação clara, o diálogo não gerou valor.<br>
+                Se não há Pool de Significado, a ação será cega.”
+            </div>
+        </div>
+    </div>
+</body>
+</html>

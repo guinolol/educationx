@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote Caps 5-8 - Ideias que Grudam</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #4caf50; /* Cor verde para este lote */
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: #4caf50;
+            color: #fff;
+            padding: 12px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .title {
+            font-size: 56px;
+            font-weight: bold;
+            color: #2e7d32; /* Tom de verde escuro */
+            font-family: 'Caveat', cursive;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        
+        .subtitle {
+            font-size: 26px;
+            color: #4caf50;
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUT */
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            display: flex;
+            flex-direction: column;
+            gap: 15px; /* Espaço entre os itens */
+        }
+        
+        .section-1 { border-left-color: #7b1fa2; } /* Roxo */
+        .section-2 { border-left-color: #d32f2f; } /* Vermelho */
+        .section-3 { border-left-color: #0288d1; } /* Azul */
+        
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-1 .section-title { color: #7b1fa2; }
+        .section-2 .section-title { color: #d32f2f; }
+        .section-3 .section-title { color: #0288d1; }
+        
+        .section-emoji {
+            font-size: 36px;
+        }
+        
+        .item {
+            font-size: 17px;
+            line-height: 1.7;
+            color: #555;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+            background: rgba(0,0,0,0.05);
+            padding: 2px 5px;
+            border-radius: 4px;
+        }
+        
+        /* REACTIONS SECTION (Vilão) */
+        .villain-box {
+            background: #fff;
+            border: 4px solid #ff4444;
+            background: rgba(255, 68, 68, 0.05);
+            padding: 40px;
+            border-radius: 10px;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        
+        .villain-emoji {
+            font-size: 60px;
+            margin-bottom: 15px;
+        }
+        
+        .villain-title {
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #ff4444;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .villain-desc {
+            font-size: 18px;
+            color: #666;
+            line-height: 1.6;
+        }
+
+        .villain-desc .highlight {
+            font-weight: bold;
+            color: #d32f2f;
+            background: rgba(255, 68, 68, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        
+        .section-subtitle {
+            font-size: 22px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 20px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        /* SOLUTION BOX (Antídoto) */
+        .solution {
+            background: linear-gradient(135deg, #c8e6c9 0%, #a5d6a7 100%);
+            border: 4px solid #2e7d32;
+            padding: 40px;
+            border-radius: 12px;
+            text-align: center;
+            margin: 40px 0;
+        }
+        
+        .solution-title {
+            font-size: 32px;
+            color: #1b5e20;
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .solution-emoji {
+            font-size: 70px;
+            margin: 15px 0;
+        }
+        
+        .solution-text {
+            font-size: 22px;
+            color: #1b5e20;
+            font-weight: bold;
+        }
+        
+        .solution-sub {
+            font-size: 18px;
+            color: #2e7d32;
+            margin-top: 15px;
+            font-style: italic;
+        }
+        
+        @media (max-width: 900px) {
+            .grid-3 {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .grid-3, .grid-2 {
+                grid-template-columns: 1fr;
+            }
+            
+            .title {
+                font-size: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 5-8</div>
+            <div class="title">🧠 Ideias que Grudam</div>
+            <div class="subtitle">(Completando o S.U.C.C.E.Ss)</div>
+        </div>
+
+        <div class="grid-3">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">🛡️</span>
+                    Cap 5: CREDÍVEL
+                </div>
+                <div class="item">
+                    Como fazer o público acreditar?
+                </div>
+                <div class="item">
+                    <span class="item-label">Autoridade:</span> "9 em 10 dentistas recomendam."
+                </div>
+                <div class="item">
+                    <span class="item-label">Anti-Autoridade:</span> "João, um cliente real, usou e funcionou."
+                </div>
+                <div class="item">
+                    <span class="item-label">Teste Verificável:</span> "Prove você mesmo. Compare o peso."
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">❤️</span>
+                    Cap 6: EMOCIONAL
+                </div>
+                <div class="item">
+                    Como fazer o público se importar?
+                </div>
+                <div class="item">
+                    As pessoas agem pela emoção, não pela lógica pura.
+                </div>
+                <div class="item">
+                    <span class="item-label">Foque no "WIIFY":</span> "O que há para mim?" (Benefício pessoal).
+                </div>
+                <div class="item">
+                    <span class="item-label">Apele à Identidade:</span> "Você é o tipo de pessoa que..."
+                </div>
+            </div>
+            
+            <div class="section section-3">
+                <div class="section-title">
+                    <span class="section-emoji">🎬</span>
+                    Cap 7: HISTÓRIAS
+                </div>
+                <div class="item">
+                    Como fazer o público agir?
+                </div>
+                <div class="item">
+                    Histórias são <span class="item-label">simuladores de voo</span> para o cérebro.
+                </div>
+                <div class="item">
+                    Elas fornecem <span class="item-label">Simulação</span> (como agir) e <span class="item-label">Inspiração</span> (motivação).
+                </div>
+                <div class="item">
+                    Tipos: Desafio, Conexão, Criatividade.
+                </div>
+            </div>
+        </div>
+        
+        <div class="section-subtitle">😤 O Grande Vilão da Comunicação:</div>
+        <div class="villain-box">
+            <div class="villain-emoji">👨‍🏫</div>
+            <div class="villain-title">Cap 8: A MALDIÇÃO DO CONHECIMENTO</div>
+            <div class="villain-desc">
+                É a dificuldade de imaginar como é <span class="highlight">NÃO SABER</span> o que você sabe.
+                <br><br>
+                É o que faz especialistas usarem <span class="highlight">jargões e abstrações</span>, matando a ideia antes que ela grude.
+            </div>
+        </div>
+        
+        <div class="solution">
+            <div class="solution-title">✅ O ANTÍDOTO</div>
+            <div class="solution-emoji">💊</div>
+            <div class="solution-text">O FRAMEWORK S.U.C.C.E.Ss</div>
+            <div class="solution-sub">
+                Usar esses 6 princípios força você a quebrar a maldição e falar a língua do público.
+            </div>
+        </div>
+        
+    </div>
+</body>
+</html>

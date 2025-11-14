@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote Cap 5-8 - The Challenger Sale</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #c2185b; /* Take Control Pink */
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: #c2185b;
+            color: #fff;
+            padding: 12px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .title {
+            font-size: 56px;
+            font-weight: bold;
+            color: #880e4f; /* Darker Pink */
+            font-family: 'Caveat', cursive;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        
+        .subtitle {
+            font-size: 26px;
+            color: #c2185b;
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUT */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .section-1 { border-left-color: #1976d2; } /* Teach Blue */
+        .section-2 { border-left-color: #f57c00; } /* Tailor Orange */
+        .section-3 { border-left-color: #c2185b; } /* Take Control Pink */
+        
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-1 .section-title { color: #1976d2; }
+        .section-2 .section-title { color: #f57c00; }
+        .section-3 .section-title { color: #c2185b; }
+        
+        .section-emoji {
+            font-size: 36px;
+        }
+        
+        .item {
+            font-size: 17px;
+            line-height: 1.7;
+            color: #555;
+            flex-grow: 1;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        .section-subtitle {
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+            margin-top: 40px;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #ddd;
+        }
+
+        /* LIST FOR JOURNEY */
+        .journey-list {
+            list-style: none;
+            padding-left: 10px;
+        }
+        .journey-list li {
+            font-size: 17px;
+            line-height: 1.8;
+            margin-bottom: 10px;
+            color: #555;
+        }
+        .journey-list li strong {
+            color: #1976d2;
+            font-family: 'Caveat', cursive;
+            font-size: 22px;
+            margin-right: 5px;
+        }
+        
+        /* INSIGHT BOX */
+        .insight {
+            background: #f3e5f5;
+            border-left: 6px solid #7b1fa2;
+            padding: 35px;
+            border-radius: 10px;
+            margin-top: 40px;
+        }
+        
+        .insight-title {
+            font-size: 26px;
+            color: #7b1fa2;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .insight-text {
+            font-size: 18px;
+            line-height: 1.8;
+            color: #555;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #7b1fa2;
+            background: rgba(123, 31, 162, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-2 {
+                grid-template-columns: 1fr;
+            }
+            
+            .title {
+                font-size: 40px;
+            }
+            
+            body {
+                padding: 30px 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 5️⃣-8️⃣</div>
+            <div class="title">🚀 A Execução do Desafiador</div>
+            <div class="subtitle">Do Controle da Negociação ao Consenso Interno</div>
+        </div>
+        
+        <div class="grid-2">
+            <div class="section section-3">
+                <div class="section-title">
+                    <span class="section-emoji">💰</span>
+                    Assumir o Controle (Cap 5)
+                </div>
+                <div class="item">
+                    <span class="item-label">Não é ser agressivo. É ser assertivo sobre VALOR.</span>
+                    <br><br>
+                    <span class="item-label">❌ Ruim:</span> Cliente: "Quero 10% de desconto." Vendedor: "OK." (Cede ao preço)
+                    <br><br>
+                    <span class="item-label">✅ Bom:</span> Vendedor: "Entendo. Para atingir esse preço, o que podemos remover do escopo?" (Negocia valor)
+                </div>
+            </div>
+
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">👥</span>
+                    O Inimigo Real: Consenso (Cap 8)
+                </div>
+                <div class="item">
+                    <span class="item-label">O maior inimigo não é o concorrente.</span> É a **INAÇÃO** interna (média de 5.4 stakeholders).
+                    <br><br>
+                    <span class="item-label">❌ Alvo Errado:</span> O "Amigo" (simpático, mas sem poder de influência).
+                    <br><br>
+                    <span class="item-label">✅ Alvo Certo:</span> O **"Mobilizador"** (o campeão interno que desafia o status quo).
+                    <br><br>
+                    <span class="item-label">Sua missão:</span> Equipar o Mobilizador para vender por você.
+                </div>
+            </div>
+        </div>
+
+        <div class="section-subtitle">🧠 O Coração do "Ensino" (Cap 6 & 7)</div>
+
+        <div class="grid-2">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">💡</span>
+                    O 'Quê': Insight Proprietário (Cap 7)
+                </div>
+                <div class="item">
+                    <span class="item-label">É a sua moeda. É o que justifica o preço premium.</span>
+                    <br><br>
+                    <span class="item-label">1. É Único:</span> Contraintuitivo (o cliente pensa "Aha!").
+                    <br>
+                    <span class="item-label">2. É "Ligado":</span> Leva *diretamente* à sua solução, e não à do concorrente.
+                    <br>
+                    <span class="item-label">3. Quebra o Status Quo:</span> Mostra o Custo da Inação.
+                </div>
+            </div>
+
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">🗺️</span>
+                    O 'Como': A Jornada de Ensino (Cap 6)
+                </div>
+                <div class="item">
+                    <span class="item-label">É a narrativa de 6 passos para entregar o insight:</span>
+                    <ul class="journey-list">
+                        <li><strong>1. Warm-up:</strong> "Eu entendo seu mundo." (Gera credibilidade)</li>
+                        <li><strong>2. Reframe:</strong> "Mas você tem um problema que não via." (O "Aha!")</li>
+                        <li><strong>3. Racional:</strong> "Veja os dados que provam essa dor." (Lógica)</li>
+                        <li><strong>4. Impacto:</strong> "E isso afeta *você* pessoalmente." (Emoção)</li>
+                        <li><strong>5. Solução:</strong> "Há um novo caminho para resolver isso." (A cura)</li>
+                        <li><strong>6. Implementação:</strong> "E é *assim* que nós fazemos." (Sua solução)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                A Conexão de Tudo (Cap 5-8)
+            </div>
+            <div class="insight-text">
+                Você usa o <span class="highlight">Insight Proprietário (Cap 7)</span>...
+                <br>
+                ...entregue através da <span class="highlight">Jornada de Ensino (Cap 6)</span>...
+                <br>
+                ...para <span class="highlight">Assumir o Controle (Cap 5)</span> e justificar o valor (em vez de ceder preço).
+                <br>
+                ...e você <span class="highlight">Adapta (Tailor)</span> essa jornada para o <span class="highlight">Mobilizador (Cap 8)</span> construir o <span class="highlight">Consenso</span>.
+                <br><br>
+                **É assim que a venda complexa é vencida.**
+            </div>
+        </div>
+    </div>
+</body>
+</html>

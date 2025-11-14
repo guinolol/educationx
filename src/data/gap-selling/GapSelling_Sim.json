@@ -1,0 +1,1897 @@
+[
+{
+  "simulationId": 1,
+  "title": "💰 Simulação: A Venda Centrada no Diagnóstico",
+  "introduction": "Você é um consultor de vendas sênior e está em uma reunião crítica com o Diretor de Operações de uma grande empresa que está enfrentando uma 'queda de produtividade'. Ele está focado em soluções rápidas, mas você sabe que precisa de um diagnóstico profundo. Sua missão é guiar a conversa, aplicando as 4 lições de Venda Centrada no Problema para fechar um negócio de alto valor. Prepare-se para tomar 12 decisões críticas que definirão se você será um 'fornecedor de commodity' ou um 'parceiro estratégico'.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "O Paradigma da Venda Centrada no Problema",
+      "narrative": "🗣️ Você inicia a reunião. O Diretor de Operações, João, diz: 'Estamos aqui porque precisamos de um novo software de gerenciamento de projetos. Os outros vendedores já me mostraram o deles. **O que o seu software faz que é diferente e qual o seu preço?**'. Você sente a pressão para 'vender o produto'. O que você faz para reverter o foco da conversa para o problema?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Começa a apresentar os recursos e a interface do seu software, destacando a 'IA' e o 'design moderno'.",
+          "feedback": "❌ Você caiu na armadilha do 'apresentador de produto'. O cliente agora vê você como mais um fornecedor. A Lacuna (Gap) não foi estabelecida, e a conversa se resumirá ao preço. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Nosso preço varia, mas antes de falar dele ou do produto, preciso entender: **Qual o impacto dessa 'queda de produtividade' que você mencionou?**'",
+          "feedback": "✅ Perfeito! Você inverte o script. Recusa-se a vender prematuramente (especialista em problemas) e foca imediatamente em quantificar a dor do cliente, alinhando-se ao Paradigma. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Responde: 'Nosso software é o melhor do mercado, mas posso te dar um desconto de 15% se fecharmos hoje'.",
+          "feedback": "❌ Você se tornou um negociador de preço. O cliente não sentiu a dor, então ele só se importa com a economia imediata. Zero valor agregado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Você já tentou resolver isso com seu software atual?'.",
+          "feedback": "⚠️ Você foca no 'produto da concorrência' ou no 'status quo', mas não na **dor quantificada** do cliente. É melhor que vender o produto, mas ainda é superficial. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Diagnóstico: A Arte de Fazer Perguntas",
+      "narrative": "🎯 João hesita, mas responde: 'Bem, a produtividade está afetando os prazos. Perdemos cerca de 3 a 5 dias por projeto'. Você percebe que ele deu um **sintoma superficial**. Seu objetivo agora é aprofundar e chegar ao custo real (Impacto) e à Causa Raiz. **Qual é a sua próxima pergunta?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Você diz: 'Ótimo. Eu sei o que pode resolver isso!' e muda para a solução do seu software.",
+          "feedback": "❌ Você ignorou o diagnóstico e o sintoma superficial. A Lacuna não foi aprofundada. Você está curando a febre sem diagnosticar a infecção. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Aprofunda a dor: 'Perfeito. E o que 3 a 5 dias de atraso REALMENTE representam? Qual o custo em R$ por mês e, o mais importante, **como isso afeta a moral e a carga de trabalho da sua equipe?**'",
+          "feedback": "✅ Brilhante. Você está **Quantificando a Dor** (financeiro) e **Personalizando a Dor** (emocional/equipe), seguindo as regras do diagnóstico para estabelecer o impacto real. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunta fechada: 'Isso é culpa do seu software antigo, certo?'",
+          "feedback": "⚠️ Pergunta fechada com suposição. Você está assumindo a causa raiz e não deixando o cliente descobri-la. Isso fecha o diálogo e soa como um ataque ao Status Quo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Aceita a resposta e pergunta: 'E o que mais?' de forma superficial.",
+          "feedback": "❌ Você não aprofundou o suficiente. Aceitar o '3-5 dias' sem quantificar o custo faz com que a dor pareça pequena. O cliente não sente urgência. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Lacuna (The Gap): Estado Atual vs. Estado Futuro",
+      "narrative": "🤯 João, após sua pergunta, calcula: '...Isso nos custa cerca de R$25.000 por mês em horas extras e revisões. E sim, a equipe está desmotivada. Não conseguimos lançar 2 projetos importantes este ano por causa disso'. **A Lacuna do Estado Atual foi estabelecida!** Agora você precisa garantir que ele veja o valor do Estado Futuro. **Como você ajuda João a quantificar o valor do 'Estado Futuro'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ignora o valor futuro e diz: 'Nosso software custa apenas R$5.000 por mês. Você terá um ROI imediato!'.",
+          "feedback": "⚠️ Você focou no preço. A Lacuna precisa ser maximizada. O valor do Estado Futuro (ganhos) é muito maior do que apenas o custo. O cliente precisa ver a 'transformação'. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Entendido. Agora, se pudéssemos eliminar esses 3 a 5 dias e a desmotivação, **qual seria o ganho financeiro e estratégico (projetos extras) para a empresa no próximo ano?**'",
+          "feedback": "✅ Excelente! Você está forçando o cliente a quantificar o **valor do Estado Futuro** e a **ampliar a Lacuna** (R$25.000/mês de perda vs. R$XX.XXX/ano de ganho). Isso maximiza a urgência. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Outros clientes nossos também estavam assim, mas agora estão felizes. Confie em mim.'",
+          "feedback": "❌ Você usou uma prova social fraca ('confie em mim') em vez de uma **quantificação mensurável** do Estado Futuro. O cliente precisa de dados, não de 'sentimentos'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Muda o foco para a concorrência: 'Será que a concorrência consegue te entregar isso?'",
+          "feedback": "❌ O foco ainda está externo. A Lacuna é a diferença entre o cliente **dele** e o cliente **ideal**. Você desviou do objetivo de amplificar a Lacuna. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Problema vs. O Sintoma",
+      "narrative": "🤔 João coça a cabeça: 'Bem, o ganho seria de R$300.000/ano, e finalmente entregaríamos o Projeto Delta. Mas o problema é que o pessoal não usa o software atual corretamente, é muito complexo.' **Ele acabou de te dar o que ele ACHA que é a Causa Raiz (Sintoma).** O que você faz para aprofundar e descobrir o **Problema Real** (que se liga à sua solução)?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aceita: 'Entendi. Então, o problema é usabilidade. Meu software é muito fácil! Vamos focar nisso.'",
+          "feedback": "❌ Você aceitou o **Sintoma** ('o pessoal não usa') como o **Problema Real**. Se o seu software for fácil, ele pode comprar um mais barato. Você se tornou um fornecedor de commodity. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Aprofunda com '5 Porquês': 'Entendo que a usabilidade é um problema. Mas **por que** ele é complexo? **O que** exatamente seu time faz que o software impede? Existe alguma falha no processo de comunicação interna que ele não suporta? **O que está por trás da usabilidade?**'",
+          "feedback": "✅ Exato! Você está indo além do sintoma ('usabilidade ruim') para a **Causa Raiz** (falha no processo, fluxo de dados, etc.), que é onde o seu valor estratégico realmente está. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Isso é 'Dor Latente' e não importa. Eu vou resolver.'",
+          "feedback": "❌ Você desconsiderou o que o cliente disse e usou jargão de vendas. O cliente precisa sentir que ele mesmo descobriu a Causa Raiz, e não ser 'corrigido' por você. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Sugere um treinamento em vez de software. 'Talvez vocês precisem de treinamento.'",
+          "feedback": "⚠️ Você se desviou do objetivo final (sua solução). Embora seja um consultor, seu trabalho é direcionar o diagnóstico para a sua solução. Não é a melhor tática. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "O Paradigma da Venda Centrada no Problema",
+      "narrative": "⏰ Você usou a proporção de tempo ideal (80/20) para o diagnóstico. João já falou por 30 minutos sobre os custos de R$25.000/mês e a Causa Raiz. Ele parece preocupado, mas também aliviado. **O que o cliente deve estar sentindo agora para que você possa avançar para a Solução?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ele deve sentir que você é muito simpático e que ele gosta de você.",
+          "feedback": "❌ Embora o relacionamento seja importante, o foco da Venda Centrada no Problema é que ele deve sentir que você é um **especialista** que entende o problema dele em um nível profundo. Simpatia é bônus, não o motor da venda. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Ele deve sentir que o custo do Status Quo (R$25.000/mês) é insustentável e que você entende o problema dele melhor do que ele mesmo.",
+          "feedback": "✅ Absolutamente. Você transformou a dor latente em dor ativa e se estabeleceu como o 'médico' de negócios. O Status Quo agora é o seu maior inimigo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ele deve sentir que o preço do seu produto deve ser muito baixo.",
+          "feedback": "❌ Pelo contrário! Quando a dor é quantificada e percebida como grande, o preço se torna secundário ao valor da solução. Focar no preço agora é um erro. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Ele deve sentir que a ineficiência é culpa dele.",
+          "feedback": "⚠️ Você amplificou a dor, mas culpar o cliente gera defensividade e pode fechar a conversa. O foco é no problema, não na culpa. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O Problema vs. O Sintoma",
+      "narrative": "🔗 Aprofundando a Causa Raiz, João revela: 'O problema não é só a usabilidade, é que perdemos 2 dias por semana apenas fazendo a **transferência manual de dados** entre o ERP e o software de projetos. Não temos automação.' **Você acaba de descobrir a Causa Raiz!** O seu software é especializado em automação de ERP. Como você 'valida a dor' para garantir que ele concorde com o diagnóstico antes de apresentar a solução?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Você diz: 'Isso é ridículo! Você está perdendo tempo!'.",
+          "feedback": "❌ Você está sendo condescendente. O cliente precisa de validação, não de crítica. Isso pode gerar resistência. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Você repete e valida: 'João, para ter certeza que entendi: **Parece que a perda de R$25.000/mês e a desmotivação da equipe são causadas pela transferência manual de dados entre sistemas. Estou correto?**'",
+          "feedback": "✅ 'Isso Mesmo' (That's Right) é o Santo Graal. Você repetiu o diagnóstico e o custo, garantindo que o cliente se aproprie do problema e da causa raiz, sem falar na sua solução. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pula direto para a solução: 'Ótimo! Meu software resolve isso com apenas um clique!'.",
+          "feedback": "❌ Você está apresentando a solução antes da validação final. Se o cliente não concordar 100% com o diagnóstico, a solução será irrelevante. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'E quanto você acha que custaria resolver isso com a concorrência?'.",
+          "feedback": "⚠️ O foco ainda é externo. O problema real agora é o centro do universo. Não desvie a atenção. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "A Lacuna (The Gap): Estado Atual vs. Estado Futuro",
+      "narrative": "🗣️ João concorda: 'Exatamente. Esse é o nosso maior problema. Temos tentado consertar o processo manual, mas é impossível.' Você tem o Estado Atual quantificado e a Causa Raiz. Agora, para maximizar a Lacuna e o **Medo de Perder (Loss Aversion)**, você precisa reforçar o custo da inação. **O que você deve perguntar para fechar o ciclo da dor?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pergunta: 'E se vocês não fizerem nada? Qual é o custo da inação para o seu cargo e sua reputação pessoal?'",
+          "feedback": "✅ Você está usando a **Personalização da Dor** e o **Medo de Perder**, reforçando o custo da inação em um nível pessoal e de carreira, maximizando a Lacuna. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Quando você gostaria de começar?'",
+          "feedback": "⚠️ É muito cedo para a pergunta de fechamento. O cliente ainda está processando a dor e o valor. Isso soa agressivo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Você está desperdiçando tempo e dinheiro.'",
+          "feedback": "❌ Você está julgando, não diagnosticando. A Lacuna deve ser percebida pelo cliente, não imposta pelo vendedor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Você tem orçamento para resolver isso?'",
+          "feedback": "❌ O orçamento vem depois da percepção de valor. Se você perguntar agora, ele dirá 'não' porque o valor ainda não é suficiente. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Diagnóstico: A Arte de Fazer Perguntas",
+      "narrative": "🔥 João diz: 'Se eu não resolver isso, perderei o bônus no final do ano e talvez a chance de uma promoção. Precisamos resolver isso agora.' **A urgência pessoal foi estabelecida.** Ele está pronto para a Solução. O que você faz para fazer a transição do Diagnóstico (Dor) para a Solução (Cura)?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Ótimo. Estou feliz por ter ajudado você a descobrir isso. Agora, posso te mostrar como a nossa plataforma é projetada para resolver a **exata** Causa Raiz que você acabou de identificar?'",
+          "feedback": "✅ Transição perfeita. Você credita o cliente pela descoberta, valida o diagnóstico e alinha a solução (o produto) com a Causa Raiz (automação ERP). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Você está pronto para comprar agora?'",
+          "feedback": "❌ A transição é muito abrupta e foca na transação, não na transformação. O cliente ainda precisa ver a ponte (sua solução) sobre a Lacuna. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Começa a falar sobre os fundadores da sua empresa e a história da plataforma.",
+          "feedback": "❌ O cliente se importa com a solução para **o problema dele**, não com a história da sua empresa. Você perdeu o momento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu sabia que esse era o problema. Ninguém mais percebe isso!'",
+          "feedback": "⚠️ Você quebra o rapport ao se vangloriar. O cliente precisa se sentir inteligente por ter descoberto, e não ofuscado por você. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "O Paradigma da Venda Centrada no Problema",
+      "narrative": "🌟 Você apresenta sua solução de forma concisa (20% do tempo), mostrando como a automação de ERP resolve a Causa Raiz. João está impressionado: 'Uau, isso é exatamente o que precisamos. Agora, qual é o valor total da implementação?'. **Como um 'Designer de Simulação', qual é a mentalidade que você deve ter ao apresentar o preço após ter estabelecido a Lacuna?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Assumir que o preço será um problema e dar um desconto imediatamente, antes que ele peça.",
+          "feedback": "❌ Você está 'pedindo desculpas' pelo preço. Após quantificar a Lacuna (R$300.000/ano em ganhos), o preço deveria ser irrelevante. Não negocie contra si mesmo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Apresentar o preço com confiança, sabendo que ele é uma fração do valor da Lacuna quantificada (o ganho de R$300.000/ano).",
+          "feedback": "✅ O preço é o custo da ponte sobre a Lacuna. Quando o cliente vê a Lacuna ampliada, ele compra a **transformação** (o destino) e o custo da ponte se torna apenas um detalhe. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer que o preço é flexível e perguntar a ele: 'Quanto você pode pagar?'",
+          "feedback": "❌ Você perdeu toda a sua autoridade consultiva. Isso transforma o processo em uma negociação de mercado de peixes. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pedir a ele para adivinhar o preço primeiro.",
+          "feedback": "⚠️ Isso pode funcionar em alguns casos para ancoragem, mas não é a mentalidade principal. A mentalidade principal deve ser a de confiança no valor entregue. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Diagnóstico: A Arte de Fazer Perguntas",
+      "narrative": "💰 João engole seco: 'R$100.000 de implementação mais R$10.000 por mês é um valor alto. Eu preciso falar com o financeiro. Você não consegue baixar um pouco?'. Você percebe o 'fechamento prematuro' e a natural objeção de preço. **Qual é a sua resposta que reconecta com o Diagnóstico e a Lacuna?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dá 5% de desconto. 'Tudo bem, para fecharmos hoje, consigo 5% de desconto.'",
+          "feedback": "❌ Você aceitou a objeção de preço, enfraquecendo o valor de R$300.000 que acabou de construir. O cliente aprendeu que pode pedir um preço menor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Reafirma a dor: 'João, eu entendo. E é exatamente por isso que é um investimento. Você concorda que continuar perdendo **R$25.000 por mês** enquanto tenta resolver um sintoma com o software atual é um custo maior do que investir em uma solução que gera um ganho de **R$300.000 por ano?**'",
+          "feedback": "✅ O Desafiador vende a urgência da mudança! Você está reestruturando a visão de 'custo' para 'investimento' ao reafirmar a Lacuna e o custo da inação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Se você não tem esse dinheiro, talvez sua empresa não esteja pronta.'",
+          "feedback": "❌ Você está sendo arrogante. Você deve desafiar a visão de mundo, não a capacidade de pagamento do cliente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Qual seria o valor ideal para você?'",
+          "feedback": "⚠️ Você está se submetendo ao controle do cliente. Reafirmar o valor é mais poderoso do que ceder ao preço. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "A Lacuna (The Gap): Estado Atual vs. Estado Futuro",
+      "narrative": "🤝 João concorda com a reestruturação e diz: 'Você tem razão. O custo da inação é muito maior. Mas me ajude a vender isso para o financeiro. Eles vão focar no custo inicial de R$100.000. **O que devo mostrar a eles?**'. O cliente está pedindo ajuda para construir a Lacuna internamente. **Qual é o seu conselho mais estratégico?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer que você irá fazer o follow-up com ele na próxima semana.",
+          "feedback": "❌ Você perdeu a chance de armar o seu campeão interno com as ferramentas certas. O financeiro só se importa com números. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Aconselha-o a focar o pitch na diferença entre os **R$300.000/ano de ganho (Estado Futuro)** e os **R$100.000 de custo (a ponte)**, apresentando o ROI líquido de R$200.000 no primeiro ano.",
+          "feedback": "✅ Perfeito. Você está fornecendo a Lacuna quantificada para o campeão interno. O cliente financeiro compra o ROI e a eliminação do risco de perda. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Recomenda que ele diga que você é um ótimo consultor.",
+          "feedback": "❌ O financeiro não se importa com seu relacionamento. Eles se importam com a mensuração da Lacuna. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz que ele pode tentar pedir mais desconto para o financeiro.",
+          "feedback": "⚠️ Você está incentivando o cliente a negociar contra o valor. Isso enfraquece a credibilidade da Lacuna. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Problema vs. O Sintoma",
+      "narrative": "🎉 João sorri, aliviado. Ele agora tem a estratégia de vendas interna. Antes de sair, ele diz: 'Obrigado. Você é o único que me ajudou a ver que a falha de comunicação interna era o problema, não apenas o software lento.' Você diagnosticou o **Problema Real** (falha de comunicação) disfarçado de **Sintoma** (software lento). **Qual é a conclusão final que valida seu papel de 'Designer de Solução'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Você diz: 'O software é o nosso melhor produto, por isso resolvemos seu problema.'",
+          "feedback": "❌ Você voltou a focar no produto, em vez do problema. O sucesso foi o diagnóstico, não o produto em si. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Você diz: 'Seu problema era real, mas seu diagnóstico original estava errado. Eu sou o especialista.'",
+          "feedback": "❌ Você está sendo superior. O cliente deve se sentir empoderado, não corrigido. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Você diz: 'Meu trabalho é ser um médico de negócios. Seu problema era uma infecção na comunicação, não uma febre no software. **E a nossa solução é a cura para a infecção.**'",
+          "feedback": "✅ Metáfora perfeita. Você valida o papel de consultor-diagnosticador (médico) e reconfirma que resolveu a **Causa Raiz** (infecção), não o sintoma. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Você diz: 'Ótimo, estou ansioso para assinar o contrato!'",
+          "feedback": "⚠️ O foco no 'fechamento' é aceitável, mas a melhor resposta sela a confiança e o valor da consultoria, não apenas a transação. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 2,
+  "title": "📈 Simulação: Quantificando o ROI e Fechando o Negócio",
+  "introduction": "Você está em uma nova reunião de follow-up com um potencial cliente (Diretor de TI, Carlos) que já reconheceu uma dor (problemas de segurança de dados), mas ainda não quantificou o custo real nem o potencial de ganho. Seu preço, por ser premium, será questionado. Seu objetivo é quantificar o Custo da Inação, vender o Estado Futuro (ROI) e posicionar sua Proposta de Valor para garantir que o cliente ideal se sinta compelido a agir.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Quantificando a Dor: O Custo da Inação",
+      "narrative": "🛡️ Carlos, o Diretor de TI, diz: 'Entendemos que nosso sistema de segurança é 'antiquado'. É um problema, mas estamos ocupados com projetos mais 'urgentes'.**'. Você percebe que ele transformou uma dor potencial em 'Dor Latente' (não urgente). O que você faz para quantificar o Custo da Inação e criar urgência?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Nosso software resolve isso. Ele é o mais moderno e fácil de usar do mercado.'",
+          "feedback": "❌ Você não quantificou a dor. O cliente não sente o custo da inação. Você está vendendo um 'feature' sem um 'funeral'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Se o sistema falhar, qual seria o custo médio de um dia de inatividade para a sua empresa (multas, produtividade perdida, relações públicas)? Podemos estimar esse custo em R$?'",
+          "feedback": "✅ Excelente! Você está forçando o cliente a quantificar a dor em termos de **custo financeiro e risco**, transformando a Dor Latente em Dor Ativa (Custo da Inação). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunta: 'Seu concorrente já teve um ataque?'.",
+          "feedback": "⚠️ Você está focando no risco da concorrência, não no risco pessoal e financeiro do cliente. É uma tentativa de criar urgência, mas ainda é superficial. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Aceita: 'Tudo bem. Ligo na próxima semana para ver se a urgência mudou.'",
+          "feedback": "❌ Você aceitou o 'Status Quo' como resposta. Seu papel é desafiar e criar urgência através da quantificação. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Estado Futuro: Vendendo a Visão",
+      "narrative": "💡 Carlos, após pensar, calcula: 'Um dia de inatividade custaria uns R$50.000 em multas contratuais e R$20.000 em recuperação. R$70.000 no total.' **O Estado Atual foi quantificado!** Agora, como você o ajuda a visualizar e quantificar o **Estado Futuro** e a Lacuna (The Gap)?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Nosso software custa apenas R$5.000 por mês! É uma economia enorme!'",
+          "feedback": "⚠️ Você foca no preço baixo. A Lacuna é a diferença entre a perda (R$70.000) e o ganho (R$XX.XXX). Focar apenas no preço diminui o valor da solução. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Com o risco de R$70.000 eliminado, e sua equipe liberada de 'apagar incêndios', **o que vocês poderiam realizar no próximo ano que hoje é impossível (inovação, tempo extra)?** Qual o ROI disso?'",
+          "feedback": "✅ Perfeito. Você quantifica os **ganhos** (ROI) e os **benefícios emocionais/estratégicos** (visão inspiradora), maximizando a Lacuna e vendendo a transformação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunta: 'Quanto a concorrência está cobrando para resolver isso?'.",
+          "feedback": "❌ Você desviou o foco para a competição de preço, em vez de fixar o valor. O Estado Futuro deve ser sobre o cliente, não sobre os outros. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'O Estado Futuro é um sistema que funciona. É só isso.'",
+          "feedback": "❌ O Estado Futuro deve ser inspirador, mensurável e ligado a metas estratégicas, não apenas 'funcional'. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Proposta de Valor: O ROI da Lacuna",
+      "narrative": "💰 Carlos sorri: 'Com o risco de R$70.000 eliminado e 20% do meu tempo economizado, poderíamos lançar 3 projetos de inovação. O valor desses projetos é de R$150.000/ano.' Você calculou o custo total da inação (R$70.000) e o ganho (R$150.000). **Sua solução custa R$20.000/ano.** Como você enquadra (frame) sua Proposta de Valor para garantir que o preço seja visto como um investimento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Apresenta o preço como um 'custo': 'O custo é de R$20.000/ano. Não é barato.'",
+          "feedback": "❌ Você está 'pedindo desculpas' pelo preço. O cliente agora foca no 'custo', e não no 'retorno'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Apresenta o preço como um 'investimento com ROI': 'O **investimento** de R$20.000 anuais fecha a Lacuna de **R$220.000** (R$70k de perda + R$150k de ganho) e gera um **ROI líquido de 11x** no primeiro ano. O preço é irrelevante perto da transformação.'",
+          "feedback": "✅ Excepcional! Você enquadrou o preço como um **investimento** em relação ao **ROI líquido da Lacuna**, tornando o preço uma fração justificada da transformação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Se você fechar hoje, te dou 10% de desconto.'",
+          "feedback": "❌ Você está negociando o preço sem que o cliente tenha pedido. Isso sinaliza fraqueza na sua Proposta de Valor, apesar do ROI ser alto. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Você acha que R$20.000 é muito dinheiro?'.",
+          "feedback": "⚠️ Você está transferindo o problema do preço para o cliente. Você deve reafirmar o valor, não questionar a percepção dele. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Cliente Ideal: Quem Tem a Dor e o Dinheiro",
+      "narrative": "🗣️ Carlos diz: 'O ROI é impressionante. Mas R$20.000 anuais ainda me preocupa. Temos um orçamento muito apertado. Podemos reduzir a funcionalidade e o preço para R$5.000/ano?'. Você sabe que, com a funcionalidade reduzida, o ROI de R$220.000 desaparece. **Qual é o seu filtro de 'Cliente Ideal' para lidar com esta objeção de preço versus valor?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aceita a redução de preço para R$5.000 e funcionalidades básicas para fechar o negócio imediatamente.",
+          "feedback": "❌ Você acabou de se tornar um fornecedor de commodity, vendendo a solução errada para o problema. O ROI foi destruído e o cliente não é mais o 'ideal'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Carlos, eu entendo a pressão. Mas nossa solução de R$5.000 não resolve a Lacuna de R$220.000. Eu não seria um bom parceiro se vendesse a você um produto que falhará. **Se o problema for 'sério' (R$220k), o investimento deve ser proporcional. Caso contrário, eu não sou o fornecedor ideal.**'",
+          "feedback": "✅ Perfeito! Você usou a **Quantificação** como filtro. Reafirma o ROI (valor) e não tem medo de se afastar, garantindo que o cliente ideal compre a solução correta e completa. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunta: 'Quanto você pode pagar?' e tenta negociar no meio termo.",
+          "feedback": "⚠️ Você está se submetendo a um jogo de preço. A Lacuna é fixa (R$220k). O preço deve ser fixo em relação ao valor. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Tudo bem, vou te dar o pacote completo pelo preço de R$5.000.'",
+          "feedback": "❌ Você destruiu sua margem de lucro e validou a ideia de que seu preço original era inflacionado. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Quantificando a Dor: O Custo da Inação",
+      "narrative": "🛑 Carlos, sentindo a firmeza, cede um pouco: 'Entendido. Você é o único que nos mostrou o ROI com clareza. Mas e se eu disser que o custo de não resolver o problema só nos afetará em 3 anos?'. Ele está tentando reverter a percepção de **urgência** (Custo da Inação). Como você responde para reafirmar a dor imediata?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aceita: 'Tudo bem, vamos adiar a conversa para daqui a 3 anos.'",
+          "feedback": "❌ Você aceitou a premissa de que a dor pode esperar. A Dor Ativa deve impulsionar a ação imediata. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Você concorda que, se perdermos R$70.000 em um ataque amanhã, o risco já é real e imediato? Qual é a probabilidade de uma falha em 3 anos? **E por que adiar um ROI de 11x?**'",
+          "feedback": "✅ Você está usando a **Probabilidade de Risco** e o **Custo de Oportunidade** (adiar o ROI) para transformar a percepção de tempo e criar urgência. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Você está errado. O problema vai acontecer na próxima semana!'",
+          "feedback": "❌ Você está exagerando o risco sem base. O cliente não confia em previsões dramáticas. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Reduz o preço. 'Se o prazo for 3 anos, o preço é R$15.000.'",
+          "feedback": "⚠️ Você associou 'preço' a 'prazo' de forma incorreta. O valor é o mesmo, independentemente de quando o risco se concretizar. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O Estado Futuro: Vendendo a Visão",
+      "narrative": "🚀 Carlos, convencido pelo risco e pelo ROI, diz: 'OK. A Lacuna é real e o preço faz sentido. A última coisa que a equipe vai perguntar é: 'Qual é a garantia de que alcançaremos esse ROI de R$150.000 em projetos de inovação?'. **Como você usa a 'Prova Social' para inspirar e garantir que o Estado Futuro é alcançável?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Promete que você fará a implementação por conta própria.",
+          "feedback": "❌ A Prova Social deve ser externa e baseada em dados, não em promessas internas. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Usa um Testemunho Quantificado: 'Empresas semelhantes (tamanho e setor) que investiram no mesmo plano tiveram um aumento médio de 25% na capacidade de inovação e recuperaram o investimento em 9 meses. **O Estado Futuro é um resultado comprovado.**'",
+          "feedback": "✅ Fantástico! Você ligou o Estado Futuro a dados reais e **prova social**, reduzindo o risco percebido e aumentando a credibilidade do ROI (garantia de decisão). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Não há garantia, é só uma estimativa.'",
+          "feedback": "❌ Você está minando a credibilidade do seu próprio cálculo de ROI. O Estado Futuro deve ser apresentado como realista e comprovado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunta a Carlos: 'Qual garantia você gostaria de ter?'.",
+          "feedback": "⚠️ Você está se desviando da Prova Social. A melhor garantia é o sucesso de outros clientes. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "A Proposta de Valor: O ROI da Lacuna",
+      "narrative": "💵 Carlos está pronto: 'Estou convencido. O ROI de 11x fala por si só. Precisamos seguir em frente.' No entanto, ele tenta uma última negociação: 'Se eu fechar agora, posso ter um desconto simbólico, talvez 2%?' Você deve manter o valor e a integridade da sua Proposta. **Qual é a resposta que mantém a integridade do ROI, mas reconhece o pedido?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Tudo bem, 2% de desconto. Parabéns pela negociação!'",
+          "feedback": "❌ Você reduziu o preço sem razão, minando o valor de 'ROI de 11x'. O cliente aprendeu que o preço é flexível. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Carlos, eu valorizo seu pedido, mas nosso preço reflete a garantia do ROI de 11x que acabamos de construir. Em vez de 2% de desconto no custo, **que tal 20% de serviço de implementação extra (valor percebido) para acelerar a obtenção do ROI?**'",
+          "feedback": "✅ Estratégia de valor superior. Você manteve o preço (integridade do ROI) e deu uma concessão em 'serviço' (acelera o valor), vendendo a mudança, não o custo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Não. O preço é o que é. Leve ou deixe.'",
+          "feedback": "❌ Você foi arrogante. O 'Desafiador' vende a visão, mas não ofende o cliente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Você precisa mesmo desse desconto para seguir em frente?'",
+          "feedback": "⚠️ Você está se desviando do valor e forçando uma decisão baseada na carência. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Cliente Ideal: Quem Tem a Dor e o Dinheiro",
+      "narrative": "💯 Carlos aceita o serviço extra e está pronto para avançar. Você percebe que esta venda foi bem-sucedida porque Carlos tinha o poder de decisão e uma dor quantificável. **Qual é a principal lição que o vendedor tira sobre a importância de focar no 'Cliente Ideal'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Todo cliente é um bom cliente. Você deve dizer 'Sim' a todos.",
+          "feedback": "❌ O cliente não-ideal drena tempo, questiona o preço e nunca valoriza o resultado. Você deve ser seletivo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O cliente ideal não se concentra no preço, mas sim no **ROI (Retorno sobre o Investimento)** da Lacuna, facilitando a venda de valor e não de commodities.",
+          "feedback": "✅ Correto. O cliente ideal tem a dor e o dinheiro, e valoriza o resultado financeiro (ROI) acima do custo inicial. Isso maximiza sua margem e sucesso. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O cliente ideal é o que compra mais rápido.",
+          "feedback": "⚠️ Rapidez não é a métrica principal. O valor e o ROI são mais importantes. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Você deve sempre dar desconto para o cliente ideal.",
+          "feedback": "❌ Você destrói o valor percebido e condiciona o cliente a esperar por descontos futuros. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Quantificando a Dor: O Custo da Inação",
+      "narrative": "📝 Antes de formalizar o contrato, Carlos comenta: 'Se eu não tivesse te ligado, continuaríamos com o sistema antigo, perdendo R$70.000 por incidente.' Você precisa fechar o ciclo do Custo da Inação para garantir que ele nunca se esqueça da dor. **Como você reafirma o custo da inação em termos de risco contínuo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Que bom que ligou! Eu sou muito bom.'",
+          "feedback": "❌ Você está focando em si mesmo, não no problema e na dor do cliente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Se você não tivesse agido, qual seria o custo emocional de saber que o risco de R$70.000 estava constantemente sobre a sua cabeça (estresse, reputação)?'",
+          "feedback": "✅ Você está **Personalizando o Risco** e o Custo da Inação em termos emocionais. Isso fortalece a decisão de compra ao ligar a solução à paz de espírito. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunta: 'Quando você vai pagar?'",
+          "feedback": "❌ Foco no pagamento é o último passo, não o fechamento do ciclo de valor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'O problema não era tão grande assim.'",
+          "feedback": "⚠️ Você minimiza a dor. O valor da sua solução depende do tamanho da dor percebida. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Estado Futuro: Vendendo a Visão",
+      "narrative": "🔮 Carlos: 'A paz de espírito vale ouro.' Agora que a Lacuna está fechada, você precisa deixar o cliente com uma visão final do **Estado Futuro** de longo prazo. **O que você diz para inspirar a transformação contínua?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Parabéns. Sua vida será mais fácil agora.'",
+          "feedback": "⚠️ É positivo, mas não inspira. O Estado Futuro deve ser ligado à estratégia de crescimento da empresa. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Agora, com o risco de R$70.000 eliminado e o tempo liberado, o foco não é mais segurança, mas **como usaremos o ROI de R$150.000 para transformar você no líder de inovação da empresa**.'",
+          "feedback": "✅ Perfeito. Você elevou o Estado Futuro de 'problema resolvido' para 'estratégia de carreira e crescimento'. Vender o destino, não o mapa. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu espero que você me indique para outros clientes.'",
+          "feedback": "❌ Você está focando no seu próprio ganho. O Estado Futuro deve ser sobre o benefício do cliente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'A solução é um produto com muitos recursos.'",
+          "feedback": "❌ O cliente já comprou. Reverter para 'features' no final é desnecessário. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "A Proposta de Valor: O ROI da Lacuna",
+      "narrative": "📄 O contrato está sobre a mesa. A única questão restante é a linguagem. Carlos: 'Em vez de 'custo de licença', podemos chamar de 'investimento em segurança estratégica' no documento?'. **Qual a importância dessa mudança de linguagem em relação à sua Proposta de Valor?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "É irrelevante. O nome não importa, o número sim.",
+          "feedback": "❌ A linguagem é poderosa. Chamar de 'custo' implica despesa. Chamar de 'investimento' implica retorno. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "É crucial! O cliente está enquadrando o preço como um 'investimento com ROI', alinhado à Proposta de Valor que você construiu. Isso fortalece a decisão.",
+          "feedback": "✅ Absolutamente crucial. O cliente está internalizando o enquadramento de valor. 'Investimento' é a linguagem do ROI, não do custo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "É uma tática de negociação. Você deve pedir algo em troca.",
+          "feedback": "⚠️ Ele está pedindo alinhamento de linguagem, não uma concessão. Não negocie isso. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Podemos chamar de 'taxa administrativa'.",
+          "feedback": "❌ A 'taxa' não implica retorno, apenas burocracia. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Cliente Ideal: Quem Tem a Dor e o Dinheiro",
+      "narrative": "🎉 Contrato assinado. Você garantiu um cliente ideal que pagou o preço cheio baseado no ROI, e não em desconto. **Qual é o próximo passo para garantir que você continue a focar em 'Clientes Ideais'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Passar a vender para qualquer cliente que ligue para você.",
+          "feedback": "❌ Você voltará a atrair clientes não-ideais que drenam tempo e lucro. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Documentar o perfil de Carlos e o sucesso do ROI de 11x para **calibrar seus filtros de prospecção** e rejeitar proativamente clientes que não têm dor quantificável ou autoridade.",
+          "feedback": "✅ O sucesso é escalável! Você usará o perfil do cliente ideal e o estudo de caso (ROI de 11x) para ser mais seletivo e eficiente na prospecção. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Enviar um presente caro para Carlos.",
+          "feedback": "⚠️ O presente é bom, mas o passo mais importante é a otimização do processo de vendas com base no sucesso. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pedir a ele para adivinhar o preço do seu próximo produto.",
+          "feedback": "❌ A venda acabou. Não confunda o fechamento com um novo pitch. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 3,
+  "title": "🛡️ Simulação: Defendendo o Valor e o ROI",
+  "introduction": "Você está na fase de Proposta de Valor com um cliente (Gerente Financeiro, Ana) que já entendeu a Lacuna (perda de R$10.000/mês), mas está reagindo ao seu preço de R$3.000/mês. Seu desafio é usar a objeção de preço como uma oportunidade para reafirmar o ROI, usar a Prova Social como garantia e manter-se firme no preço, negociando apenas o escopo.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "A Objeção de Preço: O Sintoma da Falta de Valor",
+      "narrative": "🧊 Ana olha para o preço e diz, com a testa franzida: 'R$3.000 por mês é muito caro para nós. Sinceramente, esperávamos algo mais próximo de R$1.500.' **Você reconhece a Objeção de Preço (o sintoma).** Qual é o seu primeiro movimento estratégico para não cair na armadilha do desconto?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Entendo perfeitamente, Ana. Para fechar, consigo reduzir para R$2.500/mês.'",
+          "feedback": "❌ Erro clássico. Você reduziu o preço imediatamente, desvalorizando o seu produto e confirmando que o preço inicial era inflacionado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Usa o silêncio e pergunta de forma calibrada: 'Entendo. Pelo seu tom, parece que o valor de R$3.000 é uma restrição. Qual parte do custo de inação (R$10.000/mês de perda) você acha que poderíamos ignorar para justificar um investimento de R$1.500?'",
+          "feedback": "✅ Perfeito! Você usou a **Quantificação da Dor** para forçar o cliente a negociar o **escopo/valor** (o problema), não o preço. Isso é lidar com o sintoma voltando à doença. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'A concorrência é ainda mais cara, você deveria agradecer.'",
+          "feedback": "❌ Você desviou o foco para a competição, e não para o valor intrínseco da sua solução. Você se defende em vez de desafiar a visão dela. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Você tem o orçamento aprovado para R$1.500?'",
+          "feedback": "⚠️ Você foca no limite do orçamento, em vez de reafirmar a Lacuna. O valor deve ser maior que o orçamento percebido. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "A Prova Social: Reduzindo o Risco Percebido",
+      "narrative": "😨 Ana hesita e diz: 'Não podemos ignorar a perda de R$10.000. O problema é real. Mas tenho medo de investir R$3.000 e não ter o ROI. É um grande risco para mim.' **O medo de errar (risco percebido) é o novo obstáculo.** Como você usa a Prova Social para mitigar esse medo e validar o Estado Futuro?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Prometo que vai funcionar! Confie em mim.'",
+          "feedback": "❌ Sua promessa pessoal tem menos peso do que a prova de terceiros. Isso aumenta o risco percebido. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Compartilha uma história relevante: 'Eu entendo o risco. O Cliente Y (setor/tamanho semelhante) tinha a **exata mesma Lacuna** (R$10.000/mês) e, com o investimento de R$3.000, conseguiu um **ROI de 3,5x no primeiro ano**. Isso é segurança de decisão.'",
+          "feedback": "✅ Perfeito. Você usou a **Prova Social Relevante e Quantificável** para provar o ROI. A experiência do outro cliente reduz o risco percebido por Ana. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunta: 'E se eu te der o primeiro mês grátis?'.",
+          "feedback": "❌ Você está voltando para a negociação de preço/custo, em vez de abordar a preocupação fundamental: o **risco de falha**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Se o Cliente Y conseguiu, você também consegue.'",
+          "feedback": "⚠️ A história é relevante, mas a falta de quantificação do resultado (ROI) a torna menos persuasiva e mais genérica. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Venda de Soluções: O Produto como Veículo",
+      "narrative": "🔗 Ana se acalma: 'O ROI de 3,5x de Y é atraente. Mas o produto parece muito complexo. Eu só quero resolver a perda de R$10.000/mês. Seu produto não tem muitas 'sirenes' que eu não preciso?' **Ela está separando o produto (o veículo) da solução (o destino).** Como você liga o produto à Lacuna, garantindo que ele seja a única resposta lógica?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Começa a listar todos os recursos avançados que o software possui.",
+          "feedback": "❌ Você focou nos **Recursos** (features) em vez do **Valor** (benefícios). O cliente não se importa com 'sirenes', apenas com o ROI. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Você está certo, Ana. Para ter o ROI de 3,5x, você precisa de automação e relatórios precisos. Nosso software é o **único veículo** que oferece essas funções de forma eficiente para **eliminar a causa raiz da perda de R$10.000**. Os outros recursos são para o crescimento futuro.'",
+          "feedback": "✅ Excelente! Você posicionou o produto como o **veículo inevitável** que liga a **Causa Raiz** (perda de R$10.000) ao **ROI comprovado**, tornando os 'recursos' relevantes para a Lacuna. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Podemos remover os recursos avançados por um desconto.'",
+          "feedback": "⚠️ Você está negociando o escopo sem que ela o tenha pedido. O foco ainda está no desconto, não na relevância do produto para o problema. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Se você não gostar dos recursos, pode ignorá-los.'",
+          "feedback": "❌ Você ignorou a objeção de complexidade, o que pode aumentar o medo da implementação. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "A Negociação: Firme no Preço, Flexível no Escopo",
+      "narrative": "⚖️ Ana, agora convencida do valor, faz sua última tentativa: 'Estou pronta para seguir em frente. O ROI é claro. Mas R$3.000/mês está no limite. Posso ter um pequeno desconto, de R$200/mês (cerca de 6,6%), se eu assinar agora?'. **O que você faz para ser firme no preço, mas estratégico na concessão?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aceita imediatamente: 'Fechado! R$2.800 por mês!'.",
+          "feedback": "❌ Você cedeu no preço sem obter nada em troca, minando o ROI de 3,5x que acabou de construir. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Reafirma o preço com firmeza: 'Eu aprecio a negociação, Ana. Nosso preço reflete o ROI comprovado. Eu não posso reduzir o preço, mas posso incluir 2 horas extras de **consultoria de implementação** para acelerar a obtenção do ROI. Aceita essa troca de valor?'",
+          "feedback": "✅ Estratégia do Desafiador. Você manteve o preço (firme) e ofereceu uma **Concessão Estratégica** (flexível no escopo/valor agregado), transformando a transação em um ganho mútuo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Você está tentando negociar contra o valor. Eu não negocio.'",
+          "feedback": "❌ Você foi agressivo. O objetivo é fechar o negócio, não provar que você está certo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Se eu der o desconto, você assina o contrato de 24 meses?' (Concessão em troca de prazo maior).",
+          "feedback": "⚠️ Concessão aceitável (troca), mas a melhor resposta é a que aumenta o valor percebido (consultoria) em vez de reduzir o preço. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "A Objeção de Preço: O Sintoma da Falta de Valor",
+      "narrative": "💸 Ana, antes de assinar, diz: 'A concorrência me ofereceu algo semelhante por R$1.800/mês. Por que eu pagaria R$3.000 para você?'. **Você está enfrentando a Objeção de Comparação.** Como você usa o Diagnóstico para desarmar a concorrência sem atacá-la diretamente?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'A concorrência é péssima. Eles não têm o recurso X que o nosso tem.'",
+          "feedback": "❌ Você se defende com base em recursos, o que confirma a comparação de commodities. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Reafirma o Insight Proprietário: 'Eu entendo. Mas, Ana, você se lembra que o diagnóstico mostrou que a **causa raiz da perda de R$10.000 é a falta de automação de relatórios**? A solução deles resolve essa automação vital, que gera o ROI de 3,5x? Ou apenas o sintoma?'",
+          "feedback": "✅ Desafiador em ação! Você move o foco do **preço** para o **valor do diagnóstico** (Causa Raiz), forçando-a a questionar se a solução mais barata resolve o problema real. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Reduz o preço para R$2.000 para ficar entre os dois.",
+          "feedback": "❌ Você caiu na armadilha de preço. Se o valor é 3,5x o ROI, o preço deve ser defendido. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Você realmente confia na concorrência?'.",
+          "feedback": "⚠️ Você tenta induzir a desconfiança, mas o foco deve ser no problema real do cliente. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "A Prova Social: Reduzindo o Risco Percebido",
+      "narrative": "🤝 Ana: 'Você tem razão. A solução deles parecia mais simples, mas não vi a automação que você mostrou.' Ela está quase lá. Você precisa de uma última dose de segurança (Prova Social). **Como você usa um testemunho para selar a confiança na decisão e no preço?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Você será nosso próximo grande caso de sucesso!'",
+          "feedback": "❌ A promessa é vazia. A Prova Social é sobre o passado/presente comprovado, não sobre o futuro incerto. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'O Cliente Z (um dos seus maiores) investiu o dobro de você, mas disse: 'O investimento valeu a pena. A paz de espírito de saber que a **Lacuna de R$10.000/mês foi resolvida** não tem preço.''",
+          "feedback": "✅ Excelente. Você usou a Prova Social para validar o **preço** (investimento) e o **benefício emocional** (paz de espírito/redução de risco). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Oferece a ela para ligar para o Cliente Z imediatamente.",
+          "feedback": "⚠️ A ligação é o passo final. A citação é mais rápida e sela a confiança sem a necessidade de uma etapa extra. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Acho que você está muito preocupada. Não se preocupe.'",
+          "feedback": "❌ Você minimizou a preocupação dela. A emoção deve ser reconhecida, não ignorada. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "A Venda de Soluções: O Produto como Veículo",
+      "narrative": "⚙️ Ana assina. Você conseguiu! Na etapa de 'kickoff' do projeto, a equipe operacional diz: 'Adoramos o software, mas a função de **'Automação Avançada de Relatórios'** parece complicada. Podemos ignorá-la por enquanto?'. Você sabe que esta função é o **veículo** que resolve a Causa Raiz. **Como você responde para defender a solução?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Tudo bem. Vamos ignorar por enquanto.'",
+          "feedback": "❌ Você permitiu que o cliente removesse o 'veículo' essencial para fechar a Lacuna (R$10.000/mês). Isso compromete o ROI e o sucesso. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Eu entendo a complexidade inicial, mas a automação de relatórios não é opcional; ela é o **motor** que garante a eliminação da **perda de R$10.000/mês** e entrega o ROI. Posso propor um treinamento intensivo focado nisso?'",
+          "feedback": "✅ Assertividade consultiva. Você defende o **escopo essencial** (o veículo) ligando-o diretamente à **dor quantificada**, e oferece um plano de ação (treinamento) para mitigar a complexidade. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Aumenta o preço. 'Se removermos isso, teremos que aumentar o preço.'",
+          "feedback": "❌ A negociação já acabou. Aumentar o preço agora é contraproducente e desnecessário. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'É um ótimo recurso, mas se não quiser, não use.'",
+          "feedback": "⚠️ Você não defende o valor do recurso que foi a base de toda a venda. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "A Negociação: Firme no Preço, Flexível no Escopo",
+      "narrative": "📏 A equipe aceita o treinamento. Após o sucesso da implementação, Ana (Gerente Financeiro) pede um aditivo de contrato para **um novo recurso não orçado**. Ela diz: 'Se não puder incluir gratuitamente, acho que teremos que rever o contrato todo...'. **Como você lida com este 'Pedido de Última Hora' para manter a margem e o respeito?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aceita a mudança gratuitamente para manter o cliente feliz.",
+          "feedback": "❌ Você destrói a margem e cria um precedente perigoso de que o cliente pode exigir serviços extras gratuitamente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Responde: 'Parabéns pelo sucesso. O novo recurso é um novo escopo e deve ser precificado separadamente. Posso criar um **'Aditivo de Mudança'** (Change Order) para ele, com base no novo ROI que ele gerará.'",
+          "feedback": "✅ O Desafiador protege a margem! Você trata o novo recurso como um **novo diagnóstico e negociação de escopo**, não como uma extensão do acordo original. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Você está me chantageando!'.",
+          "feedback": "❌ Você está sendo combativo. O objetivo é ser firme no preço/escopo, mas profissional. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Vamos incluir, mas vou precisar de um longo testemunho em vídeo em troca.' (Troca por valor não-monetário).",
+          "feedback": "⚠️ Embora seja uma troca (Concessão Estratégica), a melhor prática é precificar novos escopos separadamente. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "A Objeção de Preço: O Sintoma da Falta de Valor",
+      "narrative": "💰 O preço do Aditivo é R$500/mês. Ana questiona: 'Por que R$500? É muito. Não pode ser R$300?'. **Você está de volta à Objeção de Preço.** O que você faz para defender o valor do aditivo, sem ceder no preço? (O Aditivo tem um ROI comprovado de R$2.000/mês).",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Tudo bem, R$300/mês. Eu sou flexível.'",
+          "feedback": "❌ Você desvalorizou o novo escopo (ROI de R$2.000). O preço deve ser defendido pelo valor que gera. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Com o ROI de R$2.000/mês que este novo recurso gera, por que R$500 parece caro? O problema é o preço, ou o risco de que ele não gere esse ROI?'",
+          "feedback": "✅ Você está reafirmando o **ROI** e voltando ao cerne da objeção (falta de valor percebido/risco). Isso força Ana a defender a Lacuna, não o preço. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunta: 'Você tem o orçamento para R$300?'",
+          "feedback": "⚠️ Você foca no orçamento, e não no valor. Isso não resolve a objeção de 'caro'. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Não discuto preços. O valor é fixo.'",
+          "feedback": "❌ Você está sendo inflexível, o que pode prejudicar o relacionamento e as vendas futuras. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "A Prova Social: Reduzindo o Risco Percebido",
+      "narrative": "💡 Ana aceita o Aditivo de R$500. A chave para fechar foi a certeza do ROI de R$2.000. **Qual é o melhor momento para coletar uma Prova Social/Testemunho que maximiza seu sucesso futuro?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Logo após o pagamento da primeira fatura.",
+          "feedback": "❌ O cliente ainda está na fase de 'custo' e não viu o valor final (ROI). A dor pode ter voltado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Após o cliente alcançar o ROI prometido (ex: 6 meses), focando o testemunho na **dor inicial (R$10.000) e o ROI final (R$2.000/mês)**.",
+          "feedback": "✅ Perfeito. O melhor testemunho é aquele que tem **resultados quantificáveis** e conecta o **Estado Atual** (dor) ao **Estado Futuro** (ROI). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Um ano após a implementação, quando o cliente já está acostumado com o produto.",
+          "feedback": "⚠️ A dor inicial já foi esquecida. O testemunho será genérico ('É bom'), não focado na Lacuna fechada. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Durante o diagnóstico inicial, antes de fechar.",
+          "feedback": "❌ Você não pode coletar um testemunho de sucesso antes do sucesso. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "A Venda de Soluções: O Produto como Veículo",
+      "narrative": "✨ Você está revisando sua estratégia. Você percebeu que o sucesso desta venda foi a capacidade de fazer Ana ver seu produto não como um software, mas como um **'motor de ROI'**. **Como você garante que as futuras conversas de vendas sigam este enquadramento de valor?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aumenta o preço do software para o dobro.",
+          "feedback": "❌ Aumentar o preço não garante o enquadramento de valor. O diagnóstico, sim. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Apresenta o produto apenas após o cliente concordar com uma Lacuna quantificada de **no mínimo 3x o custo do software**.",
+          "feedback": "✅ Você está usando o **Diagnóstico** como filtro para garantir que o produto seja sempre enquadrado como um **investimento com ROI** (veículo para o lucro). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Contrata um designer para melhorar o visual do software.",
+          "feedback": "⚠️ A aparência do produto é secundária à sua capacidade de gerar ROI (o valor). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz aos clientes que seu produto é o mais vendido.",
+          "feedback": "❌ Você está usando prova social genérica em vez de adaptar a mensagem ao ROI individual. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "A Negociação: Firme no Preço, Flexível no Escopo",
+      "narrative": "🔚 Fim do ciclo de vendas. Você se manteve firme em R$3.000/mês e fechou um aditivo. **Qual foi o principal fator que permitiu que você fosse firme no preço, mesmo diante de pressão?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Sua personalidade firme.",
+          "feedback": "❌ Personalidade ajuda, mas o valor de negócio é o que realmente permite a firmeza. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O fato de ter quantificado e validado com o cliente uma **Lacuna (ROI) de 3,5x o preço**, tornando o preço uma fração justificada do valor.",
+          "feedback": "✅ Correto. A firmeza no preço deriva da clareza e da quantificação do valor. O preço é irrelevante quando o ROI é enorme. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O medo de perder o bônus.",
+          "feedback": "❌ A motivação pessoal não se traduz em valor para o cliente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "A capacidade de dar um pequeno desconto no final.",
+          "feedback": "⚠️ A capacidade de concessão foi uma tática, mas o que permitiu a firmeza inicial foi o valor. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 4,
+  "title": "🗺️ Simulação: Navegando na Venda Complexa e o Fechamento",
+  "introduction": "Você está gerenciando uma venda complexa para uma empresa de médio porte. Seu principal contato, o Gerente de Projetos (Pedro), está empolgado, mas a decisão final envolve o CFO e o Chefe de Operações, cada um com prioridades diferentes. Seu processo deve ser um roteiro rigoroso para construir o consenso e garantir que o fechamento seja a conclusão lógica do valor.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "O Processo de Vendas: O Roteiro do Diagnóstico",
+      "narrative": "🗣️ Você está na primeira reunião com Pedro (Gerente de Projetos). Ele diz: 'Adorei seu site! Podemos pular o papo e ir direto para o preço e o contrato? A gente precisa de algo para 'ontem'!' **Você sente a pressão para pular o diagnóstico.** O que você faz para assumir o controle do processo e garantir o roteiro?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Cede e apresenta o preço, dizendo: 'Tudo bem, o preço é X, e posso dar 10% de desconto para fechar agora.'",
+          "feedback": "❌ Você perdeu o controle. A pressa de Pedro (o sintoma) fez você pular o diagnóstico (a doença). Sem Lacuna clara, a venda será focada no preço. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Responde: 'Pedro, eu entendo a urgência. Mas o maior erro seria eu te dar um preço para o problema **errado**. Meu processo garante que a solução seja a mais eficaz, e isso exige 15 minutos de diagnóstico. Você concorda que um diagnóstico preciso vale 15 minutos?'",
+          "feedback": "✅ Perfeito! Você usou a técnica de **Assumir o Controle**, ligando o processo (diagnóstico) ao benefício do cliente (solução eficaz), reafirmando o valor do seu roteiro. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Se você pular o diagnóstico, o preço será maior.'",
+          "feedback": "⚠️ Você tentou impor o processo com ameaça, em vez de ligá-lo ao valor e ao benefício do cliente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu ligo na próxima semana. Parece que você está ocupado.'",
+          "feedback": "❌ Você está hesitando e aceitando a inação. O Desafiador usa a urgência, não a ignora. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Alinhamento Interno: Vendendo para Múltiplos Stakeholders",
+      "narrative": "📊 Após o diagnóstico, você descobre a Causa Raiz e o ROI de 5x. Pedro é o campeão interno (Mobilizador). Ele precisa vender o ROI internamente para o CFO (ROI/Risco) e a Chefe de Operações (Eficiência/Uso). **Qual é a sua estratégia para equipar Pedro para a reunião de consenso?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Eu vou enviar o mesmo PowerPoint que usei com você para que você apresente a eles.'",
+          "feedback": "❌ Você usou uma mensagem genérica. O CFO e a Chefe de Operações têm prioridades diferentes, o que levará à **Paralisia da Decisão**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Cria dois slides customizados: um focado no **ROI de 5x** e na mitigação de **Risco** (para o CFO) e outro focado na **redução de tempo/facilidade de uso** (para a Chefe de Operações).",
+          "feedback": "✅ O Desafiador é um 'Alfaiate de Mensagens'. Você adaptou o valor (Lacuna e ROI) para as prioridades de cada stakeholder, construindo o consenso. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Concentre-se em dizer que o nosso software é mais barato que o da concorrência.'",
+          "feedback": "❌ Você está focando no preço, o que minará o valor de ROI que você acabou de construir. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Sugere que Pedro use sua própria experiência para convencê-los.",
+          "feedback": "⚠️ Você não forneceu as ferramentas e a narrativa de Ensino. O Mobilizador precisa de uma mensagem clara e validada. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Venda de Soluções: O Produto como Veículo (Parte 2)",
+      "narrative": "⚙️ Você está apresentando a solução em conjunto para a equipe. O Chefe de Operações questiona: 'Seu produto tem um processo de 'onboarding' de 4 semanas. Isso vai atrasar nossa produção. Por que esse processo é tão complexo?'. **Ele está vendo o produto (o veículo) como um obstáculo (complexidade).** Como você defende o produto ligando-o à Lacuna?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Podemos reduzir o onboarding para 1 semana.'",
+          "feedback": "❌ Você reduziu o escopo essencial (o veículo) sem garantir que o ROI seja alcançado. A complexidade é necessária para a solução. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Responde: 'Entendo a preocupação. O onboarding de 4 semanas não é um custo, mas um **investimento essencial**. Ele garante a eliminação do seu maior gargalo (Lacuna) e o ROI de 5x, treinando sua equipe para usar o **veículo** que resolve a **Causa Raiz**. Não podemos comprometer o ROI.'",
+          "feedback": "✅ Você está ligando a **complexidade necessária** (o veículo) ao **ROI e à Causa Raiz** (o destino). O produto é a única resposta lógica para o sucesso. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Outras empresas fazem o onboarding em 4 semanas. É padrão.'",
+          "feedback": "⚠️ Você usou a conformidade (padrão) em vez de ligar o processo ao valor do cliente. Não é persuasivo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Muda de assunto para o preço.",
+          "feedback": "❌ Você não resolveu a objeção de valor. A venda complexa exige que você resolva as objeções de todos os stakeholders. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Fechamento: A Conclusão Lógica",
+      "narrative": "🚪 A reunião com os stakeholders terminou. Todos parecem convencidos do ROI e o consenso foi construído. O CFO diz: 'O valor está lá. Agora, precisamos de 3 semanas para **'pensar'** e alinhar os detalhes.' **Você identifica a hesitação final (risco de inação).** Como você assume o controle e impulsiona o fechamento como a conclusão lógica?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Tudo bem. Ligo daqui a 3 semanas.'",
+          "feedback": "❌ Você aceitou a **Inação**. O Custo da Inação continua correndo, e a Paralisia da Decisão pode matar a venda. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Entendo a necessidade de cautela. Com base no ROI de 5x e no Custo da Inação contínuo, o que especificamente te impede de assinar agora? É o risco de implementação? Se eliminarmos esse risco com um plano de 48h, podemos iniciar o projeto amanhã?'",
+          "feedback": "✅ O Desafiador assume a compra! Você usou a **Urgência (Custo da Inação)**, eliminou a desculpa ('pensar') e usou o espelhamento para descobrir a objeção real (risco) e impulsionar a ação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dá 20% de desconto para forçar o fechamento imediato.",
+          "feedback": "❌ Você destrói o valor do ROI de 5x. O problema não era o preço, mas a inércia da decisão. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Você não está mais interessado?'.",
+          "feedback": "⚠️ Pergunta fraca que dá ao cliente a oportunidade de dizer 'Não'. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "O Alinhamento Interno: Vendendo para Múltiplos Stakeholders",
+      "narrative": "🤝 O CFO revela que a 'coceira' é que o Chefe de Operações ainda teme que a solução seja 'muito rígida'. Ele é um stakeholder resistente. **Como você aborda o Chefe de Operações para adaptar a mensagem e neutralizar essa resistência de valor (flexibilidade)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Se o CFO aprovar, você tem que aceitar.'",
+          "feedback": "❌ Você gerou ressentimento no stakeholder. O consenso é crucial para o sucesso da implementação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Adapta a mensagem: 'Entendi. O risco é a rigidez. Nossa solução é rígida apenas nos pontos que garantem o ROI de 5x (automação). O resto é flexível. **Se a solução fosse totalmente flexível, ela não resolveria a Causa Raiz nem o Risco que você está enfrentando. Você concorda?**'",
+          "feedback": "✅ O Desafiador desafia a visão do stakeholder, ligando a suposta 'fraqueza' (rigidez) à **necessidade** de resolver a Causa Raiz e ao **ROI**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Vamos remover os pontos de rigidez para agradá-lo.'",
+          "feedback": "❌ Você comprometeu o escopo essencial para o ROI de 5x. A negociação é sobre o escopo não-essencial. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Você me odeia?'",
+          "feedback": "⚠️ Você está sendo emocional. A venda complexa exige lógica. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O Processo de Vendas: O Roteiro do Diagnóstico",
+      "narrative": "🗺️ O Chefe de Operações aceita o Ensino e o consenso é restaurado. O CFO diz: 'OK. Estamos prontos para fechar. Qual é o próximo passo exato e quem faz o quê?'. **O que você faz para garantir que o fechamento seja ordenado e rápido (Assumir o Controle/Roteiro)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Eu envio o contrato. Vocês decidem o resto.'",
+          "feedback": "❌ Você não assumiu o controle. A falta de um roteiro claro de fechamento pode levar a atrasos de semanas. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Define o roteiro: 'Ótimo! O próximo passo é o Contrato: 1. Eu envio em 10 minutos (Minha Ação). 2. Você, CFO, o revisa e assina (Sua Ação - 24h). 3. Pedro e Operações preparam a lista de dados (Ação da Equipe - 48h). O Kickoff de Implementação será na próxima terça. Isso funciona?'",
+          "feedback": "✅ Excelente! Você estabeleceu o **Roteiro do Fechamento**, com prazos claros e ações atribuídas. Isso minimiza a inação e guia o cliente para a implementação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Primeiro, pague a fatura e depois assinamos.'",
+          "feedback": "⚠️ O pagamento geralmente é após a assinatura do contrato. Você criou um obstáculo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Vamos comemorar! Assinem quando puderem.'",
+          "feedback": "❌ A celebração é boa, mas não substitui a necessidade de um plano de ação claro. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Fechamento: A Conclusão Lógica",
+      "narrative": "📝 O CFO assina o contrato. Você conseguiu uma venda complexa com preço cheio! **Qual é a sua pergunta de 'Fechamento Pós-Venda' que garante o valor do seu processo consultivo (o roteiro)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pergunta: 'Você pode me dar mais indicações de clientes?'",
+          "feedback": "❌ Você está focando em sua própria necessidade, não no valor contínuo para o cliente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'O que o fez tomar a decisão final? Foi a clareza do ROI de 5x ou o medo do Custo da Inação? Eu pergunto para melhorar meu processo para o próximo cliente.'",
+          "feedback": "✅ Você está validando o **processo consultivo** (roteiro) e o **motor da compra** (ROI vs. Medo da Perda), garantindo que o cliente se aproprie do valor que você criou. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunta: 'Você quer um desconto na próxima renovação?'",
+          "feedback": "❌ Você está voltando a negociar o preço. O fechamento é sobre valor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Você gostou do meu produto?'",
+          "feedback": "⚠️ A pergunta é fraca. O fechamento deve ser sobre o valor de negócio (ROI). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Alinhamento Interno: Vendendo para Múltiplos Stakeholders",
+      "narrative": "⭐ Durante o Kickoff, a Chefe de Operações agradece: 'A diferença é que você conseguiu me mostrar como essa solução de TI afeta diretamente o nosso tempo de inatividade. Ninguém antes tinha feito isso.' **O que esse feedback valida sobre a sua estratégia de Venda Complexa?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O produto era o melhor do mercado.",
+          "feedback": "❌ O produto é o veículo. A validação é sobre a mensagem e o alinhamento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A importância de **Adaptar (Tailor)** a mensagem de valor (Lacuna e ROI) para a prioridade pessoal de cada stakeholder (o Operacional se preocupa com eficiência e tempo, não com ROI).",
+          "feedback": "✅ Correto. Você usou a adaptação para vender a **relevância pessoal** da solução (redução de tempo) para um stakeholder resistente. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O desconto que você não deu.",
+          "feedback": "❌ O foco não era o preço. A Chefe de Operações estava focada na usabilidade e eficiência operacional. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "A capacidade de fazer a reunião com todos juntos.",
+          "feedback": "⚠️ A reunião em si é um passo do processo, mas a **Adaptação da Mensagem** é o que a tornou eficaz. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "O Processo de Vendas: O Roteiro do Diagnóstico",
+      "narrative": "🔁 Para melhorar o processo, sua gerência sugere remover a etapa de **'Qualificação'** para acelerar a pipeline. **Qual é o risco de remover esta etapa do roteiro de diagnóstico?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Acelera a pipeline e aumenta as vendas.",
+          "feedback": "❌ O aumento de pipeline é falso. Você terá mais propostas, mas menos fechamentos. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Aumenta o tempo gasto com clientes **não-ideais** (sem dinheiro, sem dor, sem autoridade), matando a produtividade e o lucro. O filtro é essencial.",
+          "feedback": "✅ Correto. A Qualificação (Dor/Autoridade/Dinheiro) é o filtro que garante que o processo só avance com clientes que podem e devem comprar. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Aumenta a satisfação do cliente.",
+          "feedback": "❌ Clientes não-ideais ficam insatisfeitos. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "O cliente assume o controle do processo.",
+          "feedback": "⚠️ O risco existe, mas o principal é a ineficiência. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "A Venda de Soluções: O Produto como Veículo (Parte 2)",
+      "narrative": "🎯 Um cliente potencial diz: 'Seu produto tem 100 recursos. É demais. Eu só preciso de 3. Por que eu pagaria pelo resto?'. **Como você defende a complexidade do seu 'veículo' ligando-o ao valor de longo prazo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Tudo bem, podemos desativar 97 recursos e dar um desconto.'",
+          "feedback": "❌ Você reduziu o preço sem justificar o valor de longo prazo do produto. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Responde: 'Você está certo. Você só precisa de 3 hoje. Mas nosso produto é construído para garantir que, à medida que você obtiver o ROI (Estado Futuro), o **veículo** evolua com você. Os outros recursos são seu **plano de crescimento** para o futuro. Você compra a solução de hoje e a **transformação** de amanhã.'",
+          "feedback": "✅ Excelente. Você transforma os recursos em **valor de longo prazo (transformação/crescimento)**, justificando o preço e garantindo a retenção futura. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Todos os nossos clientes usam todos os recursos.'",
+          "feedback": "⚠️ Mentira ou hipérbole. Você perde a credibilidade. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'O produto é o que é. Leve ou deixe.'",
+          "feedback": "❌ Você foi arrogante e perdeu a chance de ensinar sobre o valor de longo prazo. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Alinhamento Interno: Vendendo para Múltiplos Stakeholders",
+      "narrative": "🚨 Seu campeão interno, Pedro, liga. Ele está preocupado porque o CFO e o Chefe de Operações estão tendo uma 'reunião a portas fechadas' antes da decisão final. **O que você diz a Pedro para tranquilizá-lo e garantir que ele reforce o consenso?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Não se preocupe, o negócio está fechado.'",
+          "feedback": "❌ Você está sendo otimista. A reunião a portas fechadas é o momento de negociação interna de consenso. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'É a negociação interna do consenso. Envie a eles o resumo dos 2 slides customizados. Lembre o CFO do **ROI de 5x** e o Chefe de Operações da **redução de inatividade**. O **Custo da Inação** é o nosso maior argumento unificador.'",
+          "feedback": "✅ Você está equipando o Mobilizador com as **ferramentas certas (mensagens adaptadas)** para a batalha interna, focando no argumento unificador (Custo da Inação). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu vou ligar para o CFO e o Chefe de Operações agora para pressioná-los.'",
+          "feedback": "❌ Você está atropelando o processo interno, o que pode gerar resistência. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Sugere que ele use o desconto de 10% que você não deu.",
+          "feedback": "⚠️ Você está voltando a focar no preço. O problema é o consenso de valor. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Fechamento: A Conclusão Lógica",
+      "narrative": "🎉 A decisão é positiva! O CFO diz: 'Estamos prontos. Nosso único obstáculo era a inércia, mas o ROI e o Custo da Inação nos forçaram a agir.' **Qual é a sua pergunta final de fechamento que assume a compra e garante o próximo passo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pergunta: 'Você pode me indicar para outros clientes?'",
+          "feedback": "❌ Foco no seu ganho, não no próximo passo da implementação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Com base na urgência (Custo da Inação) e no ROI, o contrato está assinado? Se sim, qual é a melhor data para iniciarmos o Kickoff de implementação?'",
+          "feedback": "✅ O Desafiador assume a compra e foca no **próximo passo lógico** (implementação) em vez de perguntar 'se' eles vão comprar. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunta: 'Você quer que eu envie o contrato por e-mail?'",
+          "feedback": "⚠️ Ação passiva. O fechamento deve ser assertivo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Você está feliz com o preço?'.",
+          "feedback": "❌ O preço é irrelevante após o fechamento de valor. Não reabra a negociação. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 5,
+  "title": "🔄 Simulação: Da Retenção ao Upsell e a Mentalidade de Empresário",
+  "introduction": "O contrato foi assinado há 6 meses. O cliente (Diretor de Vendas, Marcelo) alcançou o ROI prometido, mas sua responsabilidade agora é garantir a retenção de longo prazo (LTV) e identificar uma nova Lacuna para um Upsell estratégico. Sua mentalidade deve ser a de um **Consultor de Negócios**, não de um mero fornecedor. Prepare-se para guiar a conversa para a próxima fase de crescimento.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "O Pós-Venda: A Continuidade da Lacuna",
+      "narrative": "✅ Você está em uma reunião de check-in trimestral com Marcelo. Ele diz: 'A solução funcionou. O ROI de 3x foi atingido e a dor inicial foi resolvida. Não temos mais problemas.' **Ele está minimizando a necessidade de continuidade do seu valor.** Qual é o seu foco para garantir a retenção de longo prazo?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Ótimo! Fico feliz! Se precisar de algo, é só me ligar.' (e some).",
+          "feedback": "❌ Você agiu como um vendedor reativo. Sumir após o fechamento compromete a retenção e o Upsell, aumentando o risco de Churn. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Excelente, Marcelo! E o que o próximo ano reserva? Como podemos **alavancar o ROI de 3x** para atacar o próximo gargalo de crescimento? Qual é o novo 'custo da inação' no seu horizonte?'",
+          "feedback": "✅ Perfeito! Você focou na **Continuidade da Lacuna**. Você usa o sucesso alcançado (ROI) para diagnosticar novas dores e posicionar a parceria como um motor de crescimento. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunta: 'Você pode me indicar para um amigo?'.",
+          "feedback": "⚠️ Você focou em seu próprio ganho (indicação), em vez de focar no valor contínuo para o cliente (Upsell). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Se você cancelar, você perde o ROI. Não cancele!'.",
+          "feedback": "❌ Você usou a ameaça, em vez do valor contínuo. A retenção deve ser baseada no valor, não no medo. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "A Mentalidade do Vendedor: De Reativo a Desafiador",
+      "narrative": "🔮 Marcelo revela: 'Meu novo desafio é a retenção de talentos. Perder um vendedor top nos custa R$80.000/ano em treinamento e pipeline. É uma 'Dor Latente' (não prioritária).' **Como você assume a mentalidade de um Desafiador e transforma essa 'Dor Latente' em 'Dor Ativa' (urgente)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Eu concordo. É um problema, mas foque em seu produto. Eu volto a falar disso em 6 meses.'",
+          "feedback": "❌ Você agiu como um vendedor reativo. Você deve desafiar o status quo e transformar o Latente em Ativo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Marcelo, se cada vendedor perdido custa R$80.000, e sua taxa de rotatividade é de 10% (5 vagas), o custo anual da inação é de **R$400.000**. Esse custo não é maior do que o seu orçamento de treinamento? Esse 'problema' é um risco para sua meta de receita, certo?'",
+          "feedback": "✅ O Desafiador usa a **Quantificação (R$400.000)** e o **Custo da Inação** para criar um insight e transformar a Dor Latente em uma Lacuna urgente e mensurável. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu tenho um produto novo que pode ajudar. É o mais barato do mercado!'",
+          "feedback": "❌ Você pulou o diagnóstico da Lacuna e focou no produto/preço. Isso é venda reativa de produto. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'A retenção de talentos é o problema de todos. Não se preocupe.'",
+          "feedback": "⚠️ Você minimizou o problema. O Desafiador valida a dor, mas a desafia. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Cultura de Vendas: Alinhamento e Treinamento",
+      "narrative": "💡 Marcelo fica chocado: 'R$400.000? Nunca tínhamos calculado isso!'. Ele agora precisa de uma solução. Seu produto de Upsell é um 'Módulo de Engajamento de Vendas'. **Como você enquadra (frame) o valor do seu Upsell ligando-o à Mentalidade de Consultor (ROI)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'O Módulo é o melhor do mercado, tem 10 recursos e custa R$50.000/ano.'",
+          "feedback": "❌ Você focou em recursos e custo. O valor está no ROI e na Lacuna. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Para resolver a Lacuna de R$400.000, o Módulo é um **investimento de R$50.000/ano**. Se ele **reduzir a rotatividade em apenas 25%**, ele já paga a si mesmo e gera um **ROI de 2x**. Você está comprando uma solução de Lacuna de R$400.000.'",
+          "feedback": "✅ Excelente! Você enquadrou o Upsell como um **investimento em ROI** (mentalidade de empresário), justificando o preço pela Lacuna quantificada (R$400.000) e o ganho. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'É um produto novo, então dou 50% de desconto.'",
+          "feedback": "❌ Você reduziu o preço sem ligá-lo ao valor de R$400.000. Isso desvaloriza a solução. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Quanto você acha que vale a solução para R$400.000?'.",
+          "feedback": "⚠️ Você está transferindo a responsabilidade da precificação para o cliente. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Pós-Venda: A Continuidade da Lacuna",
+      "narrative": "💰 Marcelo está convencido do Upsell. Ele diz: 'O ROI é incrível. Mas o CFO vai pedir uma prova social de que esse 'Módulo' funciona na prática.' **Como você usa o sucesso do 'Pós-Venda Inicial' para fechar o Upsell (venda maior)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Você não precisa de prova social. É um ótimo produto.'",
+          "feedback": "❌ Você ignorou o medo do CFO. A Prova Social reduz o risco percebido. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Nosso sucesso anterior é a melhor prova social. O **ROI de 3x** que você alcançou na fase inicial prova que o nosso **processo de diagnóstico** funciona. Este módulo é a extensão lógica para resolver a nova Lacuna de R$400.000. O risco está em não agir.'",
+          "feedback": "✅ Você está ligando o **sucesso passado (Pós-Venda)** à **confiança no processo (Diagnóstico)** para justificar a nova compra. O cliente compra a continuidade do sucesso. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'O CFO deveria confiar em você.'",
+          "feedback": "❌ Você delegou o problema da confiança ao cliente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Oferece um desconto de 10% para fechar imediatamente.",
+          "feedback": "⚠️ Você está voltando a negociar o preço em vez do valor. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "A Mentalidade do Empresário: De Vendedor a Consultor de Negócios",
+      "narrative": "📝 Marcelo assina o Upsell. Ele está impressionado com sua abordagem consultiva. Ele diz: 'Você é diferente dos outros vendedores. Você age como um empresário.' **Qual é a conclusão que valida sua 'Mentalidade de Empresário' (foco em ROI)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Você diz: 'Meu segredo é dar um bom desconto!'.",
+          "feedback": "❌ A mentalidade de empresário foca em maximizar o lucro, não em reduzir o preço. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Você diz: 'Meu foco não é vender produtos, mas sim garantir que você elimine uma Lacuna de R$400.000 para que eu possa ajudá-lo a encontrar a próxima Lacuna de R$1.000.000. **Eu só ganho quando você tem um ROI GIGANTE.**'",
+          "feedback": "✅ Perfeito. Você alinha seu sucesso ao sucesso do cliente (ROI GIGANTE), validando a mentalidade de **Consultor de Negócios** e o foco na **Alavancagem de Lucro**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Você diz: 'Eu só ligo quando você está pronto para comprar.'",
+          "feedback": "⚠️ Você está focando em sua própria conveniência (reativo), em vez da criação de valor contínuo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Você diz: 'Os outros vendedores não têm o meu produto.'",
+          "feedback": "❌ Você voltou a focar no produto, em vez da solução de negócio. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "A Cultura de Vendas: Alinhamento e Treinamento",
+      "narrative": "📈 Seu Gerente de Vendas pede para você treinar a equipe. Ele diz: 'Eles estão perdendo vendas porque só focam em relacionamentos e descontos.' **O que você ensina para mudar a 'Cultura de Vendas' para o modelo Desafiador?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ensina a dar descontos para fechar mais rápido (Reativo).",
+          "feedback": "❌ Isso reforça o comportamento reativo e a venda de commodities. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Ensina a **Qualidade do Diagnóstico**: Focar 80% do tempo em quantificar o **Custo da Inação (R$)** e **Desafiar o Status Quo** do cliente, em vez de focar no relacionamento amigável.",
+          "feedback": "✅ Correto. A mudança cultural começa com o treinamento nos **Comportamentos Desafiadores** (diagnóstico e quantificação), que impulsionam o valor sobre o preço. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ensina a focar em fazer mais ligações (Volume).",
+          "feedback": "⚠️ Volume sem diagnóstico de qualidade resulta em mais propostas perdidas. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Ensina a ser mais simpático (Relacionamento).",
+          "feedback": "❌ O relacionamento sem insight é apenas amizade, não valor. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Pós-Venda: A Continuidade da Lacuna",
+      "narrative": "📅 Um ano se passou. Você está na renovação. Marcelo diz: 'Seu produto é ótimo, mas o preço está no limite. A concorrência é 20% mais barata.' **Como você usa o Pós-Venda (o valor entregue) para justificar a renovação com preço cheio?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Reduz o preço em 20% para igualar a concorrência.",
+          "feedback": "❌ Você desvalorizou a solução e cedeu ao preço. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Reafirma o valor: 'Marcelo, a concorrência não entregou o **ROI de 3x** no primeiro contrato. Nosso preço garante que você continue resolvendo a Lacuna de **R$400.000**. Você está comprando a certeza do ROI, não o preço mais baixo. Você pode me dizer o que a solução mais barata não resolve?'",
+          "feedback": "✅ Você está ligando a renovação ao **ROI comprovado (valor entregue no Pós-Venda)** e desafiando o cliente a focar no valor, não no custo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunta: 'Qual é a sua proposta de preço?'.",
+          "feedback": "⚠️ Você transferiu a responsabilidade da precificação para o cliente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Acho que nosso produto é o melhor. Confie em mim.'",
+          "feedback": "❌ Você usou a opinião, em vez do valor e do ROI. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "A Mentalidade do Vendedor: De Reativo a Desafiador",
+      "narrative": "🤔 Um novo cliente em potencial (João) pede uma reunião de vendas dizendo: 'Me disseram que você é o melhor. Quero que você me diga o que meu time de vendas está fazendo de errado.' **Como um Desafiador, qual é o seu primeiro passo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Seu time está fazendo tudo errado!' (agressivo).",
+          "feedback": "❌ O Desafiador desafia o status quo, não o cliente. Você não tem informações suficientes. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Eu aprecio a confiança. Mas, antes de lhe dizer o que está 'errado', preciso entender: **Qual é o custo da inação para o seu time hoje (R$ em pipeline perdido)?** Sem essa métrica, eu posso lhe dar o diagnóstico errado.'",
+          "feedback": "✅ Você assumiu a **posição de autoridade** (Consultor/Desafiador) e impôs o roteiro de diagnóstico e quantificação como primeiro passo lógico. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Meu produto é o que você precisa.'",
+          "feedback": "❌ Você focou no produto, em vez da dor e do diagnóstico. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Me conte tudo sobre você.'",
+          "feedback": "⚠️ Muito passivo (reativo). Você precisa de um foco consultivo e quantificável. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "A Cultura de Vendas: Alinhamento e Treinamento",
+      "narrative": "💡 Seu Gerente de Vendas decide recompensar a equipe pelo **volume de atividades** (ligações, e-mails), ignorando a **Qualidade do Diagnóstico**. **Qual é o resultado provável dessa cultura de vendas?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aumento das vendas de alto valor (Lacunas).",
+          "feedback": "❌ O volume de atividades sem qualidade de diagnóstico gera lixo na pipeline. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A equipe terá alta atividade, mas baixa qualidade de diagnóstico, resultando em mais propostas perdidas e vendas de baixo valor (venda de commodities).",
+          "feedback": "✅ Correto. A métrica errada (atividade em vez de qualidade) reforça o comportamento reativo e mata a Venda de Lacunas. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Aumento do relacionamento com o cliente.",
+          "feedback": "⚠️ O relacionamento sem insight é apenas amizade, não valor. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diminuição do Churn Rate.",
+          "feedback": "❌ A baixa qualidade de diagnóstico leva à solução errada e ao Churn. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Pós-Venda: A Continuidade da Lacuna",
+      "narrative": "💰 O novo Upsell do Módulo de Engajamento de Vendas não está performando como prometido. Marcelo liga, furioso. **Qual é o seu primeiro passo para garantir a retenção e a continuidade da Lacuna (ROI)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dá um grande desconto e pede desculpas.",
+          "feedback": "❌ Você reduziu o preço sem resolver o problema. O problema é a Lacuna aberta, não o preço. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Marcelo, entendo a frustração. Eu vou pessoalmente auditar a implementação do módulo para garantir que ele esteja no caminho do **ROI de 2x (Lacuna de R$400.000)** que diagnosticamos. Você concorda em reabrir o diagnóstico de implementação comigo?'",
+          "feedback": "✅ Você está assumindo a responsabilidade e reabrindo o **Diagnóstico de Pós-Venda**, focando no **ROI (a Lacuna)** como o problema real a ser resolvido. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'O problema é a sua equipe, não o meu produto.'",
+          "feedback": "❌ Você culpou o cliente. O Desafiador é um parceiro de solução. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu ligo para o suporte. Eles resolvem.'",
+          "feedback": "⚠️ Você delegou a responsabilidade de valor. O vendedor é o guardião do ROI. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "A Mentalidade do Empresário: De Vendedor a Consultor de Negócios",
+      "narrative": "💼 Seu CEO diz: 'Temos que reduzir o preço para ganhar mercado.' **Com a Mentalidade de Empresário, como você reage a essa pressão para reduzir o preço e desvalorizar o seu trabalho?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aceita a redução e diz: 'Tudo bem, vamos competir por preço.'",
+          "feedback": "❌ Você está aceitando a mentalidade de commodity. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Eu entendo a meta. Mas, se reduzirmos o preço, o que perdemos no **Escopo (o valor) e no ROI** que o cliente está comprando? Eu prefiro aumentar a qualidade do nosso diagnóstico para justificar o preço premium.'",
+          "feedback": "✅ Você está defendendo a **margem e o valor (ROI)**. A mentalidade de empresário foca em maximizar o lucro, não em competir por preço. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu vou pedir um desconto.'",
+          "feedback": "❌ Você está focando em sua própria necessidade, em vez da estratégia de negócio. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Vamos tentar competir por preço e valor.'",
+          "feedback": "⚠️ É uma mistura de intenções. A competição de preço geralmente exige a redução do valor percebido. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "A Cultura de Vendas: Alinhamento e Treinamento",
+      "narrative": "👑 Você treina a equipe. Qual é o principal **comportamento** que você espera que seus vendedores apresentem no campo para refletir a **Cultura de Vendas Desafiadora**?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Fazer muitas ligações (Volume).",
+          "feedback": "❌ O volume sem qualidade não é o Desafiador. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Ser o **Consultor de Negócios** que desafia o cliente a sair do Status Quo, impõe o roteiro de diagnóstico e se recusa a negociar preço (foco em ROI e Lacuna).",
+          "feedback": "✅ O Desafiador é o **guia** (consultor) que impulsiona a mudança, recusando-se a ser um fornecedor de commodity. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dar um desconto no primeiro contato.",
+          "feedback": "❌ Isso é venda reativa de commodity. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Ser muito simpático e fazer amizade com o cliente.",
+          "feedback": "⚠️ A amizade sem insight não impulsiona a mudança. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}
+]

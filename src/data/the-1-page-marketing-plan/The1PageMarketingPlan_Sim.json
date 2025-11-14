@@ -1,0 +1,1897 @@
+[
+{
+  "simulationId": 1,
+  "title": "☕ Simulação: Resgate do Café do Programador",
+  "introduction": "Você acabou de ser contratado como o novo Consultor de Marketing Direto para a 'Café do Programador', uma cafeteria local popular, mas que está estagnada. O fundador, João, gasta dinheiro com panfletos e posts aleatórios, mas não consegue medir o ROI. Seu trabalho é aplicar o Plano de Marketing de 1 Página (1PMP) para transformar o negócio. Prepare-se para tomar 12 decisões críticas que definirão o futuro da empresa. Cada desafio testará seu domínio das 4 primeiras lições: Estrutura do Plano, Mercado Alvo, PUV e Mensagem.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Introdução e Estrutura do Plano de 1 Página (As 3 Fases)",
+      "narrative": "📊 Seu primeiro passo é convencer João, o fundador, a parar de desperdiçar dinheiro em marketing de 'Branding'. Ele insiste que 'grandes empresas fazem isso' e quer mais outdoors. Você precisa ancorar o debate na filosofia central do 1PMP. **Qual argumento você usa para justificar a mudança imediata para um marketing mensurável?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer a João que ele precisa se concentrar em aumentar a 'participação de mercado'.",
+          "feedback": "❌ 'Participação de Mercado' é um termo de Branding. Isso não resolve o problema de rastreamento de ROI. Você não conseguiu justificar a filosofia central do 1PMP (Resposta Direta). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Argumentar que todo marketing deve exigir uma 'Ação Imediata e Mensurável' do cliente para que possamos rastrear o Retorno sobre o Investimento (ROI).",
+          "feedback": "✅ Perfeito! Você usou a filosofia central do 1PMP: 'Marketing de Resposta Direta'. A rastreabilidade é a prioridade zero para pequenos negócios. João entende que cada real investido precisa retornar. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Prometer que o marketing de conteúdo orgânico trará clientes em 6 meses.",
+          "feedback": "⚠️ O 1PMP foca em resultados rápidos e mensuráveis, não em estratégias de longo prazo sem garantia. Você usou um argumento válido, mas sem a urgência e a rastreabilidade que Allan Dib enfatiza. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Dizer que o marketing é apenas 'arte', e não precisa de regras.",
+          "feedback": "❌ Você reforçou a crença errada de João! O 1PMP existe justamente para provar que marketing é ciência (mensurável), não arte. A conversa terminou. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Definindo o Mercado Alvo (Nicho e Avatar do Cliente)",
+      "narrative": "🎯 O 'Café do Programador' estava tentando vender para 'todos que bebem café'. Após sua intervenção, João concorda que precisamos nichar. Sua pesquisa preliminar mostra dois grupos potenciais: **A. Estudantes universitários em busca de preço baixo** ou **B. Freelancers e Donos de Pequenos Negócios que precisam de um local de trabalho tranquilo e Wi-Fi confiável.** Qual nicho você escolhe com base nos princípios do 1PMP?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Estudantes universitários: Eles são um público maior e consomem muito café.",
+          "feedback": "⚠️ Um público grande demais e focado em 'preço baixo' geralmente significa baixa 'capacidade de pagar' (ou de pagar o suficiente para um bom lucro) e não tem um 'problema urgente' a ser resolvido pelo café. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Freelancers e Donos de Pequenos Negócios: Eles têm um 'problema urgente' (trabalho improdutivo em casa) e 'capacidade de pagar' por um café mais caro e por mais tempo de permanência.",
+          "feedback": "✅ Perfeito! Você escolheu o Mercado Alvo ideal: urgência, capacidade de pagar e um problema específico para resolver. Este nicho permite uma PUV de alto valor. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pessoas mais velhas que se aposentaram e querem um lugar para ler.",
+          "feedback": "❌ Este grupo pode ter 'capacidade de pagar', mas o problema não é 'urgente' o suficiente para motivar uma ação imediata. Eles estão buscando 'prazer', não 'aspirina'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Chefes de grandes empresas: Eles são os que mais têm dinheiro para gastar.",
+          "feedback": "⚠️ Eles têm dinheiro, mas provavelmente não estão buscando um 'café de bairro' para resolver seus problemas de trabalho. Você não está 'entrando na conversa que já está acontecendo' na mente deles. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Proposta Única de Venda (PUV) e o Teste de 4 Perguntas",
+      "narrative": "💡 Com o nicho de 'Freelancers e Donos de Pequenos Negócios' em mente, você precisa criar uma PUV forte. João sugere: 'Café do Programador: O café com a melhor máquina da cidade.' Você sabe que isso é fraco. **Qual das opções abaixo é a PUV mais forte e por que?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Café do Programador: Venha e relaxe.' (Foca na emoção)",
+          "feedback": "❌ Vaga e genérica. 'Venha e relaxe' não é 'única' nem 'mensurável', e não resolve o problema urgente do nicho (produtividade). É um slogan fraco, não uma PUV. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "'Café do Programador: A Sala de Reunião Silenciosa que Aumenta sua Produtividade em 20% em 30 Dias, ou o Café é por Nossa Conta.' (Foca no resultado, tempo e garantia)",
+          "feedback": "✅ Bingo! Esta PUV é altamente **Mensurável** (20% em 30 dias), **Única** (foca em 'sala de reunião silenciosa', não no café), e inclui uma **Garantia** (Café por nossa conta), removendo o risco. É o melhor caminho. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "'Café do Programador: Temos o melhor Wi-Fi e tomadas suficientes.' (Foca nas características)",
+          "feedback": "⚠️ Melhor que a Opção 'A', mas ainda foca em 'características' (Wi-Fi, tomadas) e não no 'benefício' (aumento de produtividade e tranquilidade). Não é 'mensurável'. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "'Café do Programador: Nossos baristas são amigáveis.' (Foca em um aspecto irrelevante)",
+          "feedback": "❌ Ser amigável é um requisito básico, não um ponto de diferenciação (PUV). Isso não resolve o problema urgente de produtividade do Mercado Alvo. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Criando a Mensagem de Marketing (Foco no Benefício)",
+      "narrative": "📝 Com a PUV de produtividade definida, você precisa escrever o primeiro anúncio para o Mercado Alvo (Freelancers). O texto atual de João é: 'Nosso café é delicioso e estamos abertos.' Você precisa criar uma **Mensagem de Resposta Direta** que entre na 'conversa que já está acontecendo' na mente do cliente. **Qual abordagem você usa?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Usar uma linguagem técnica sobre o tipo de grão e a torra do café.",
+          "feedback": "❌ Você usou 'Jargão', que confunde. O cliente não se importa com a torra; ele se importa com o que o café faz por ele (acordar, focar). Falhou no critério de **Clareza**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Começar amplificando a dor: 'Cansado de ter que fingir que está em uma reunião para ter 2h de trabalho focado? Clique aqui e resgate seu Passe de Produtividade!' (Dor + Solução + CTA)",
+          "feedback": "✅ Excelente! Você amplificou a 'Dor' (trabalho improdutivo), apresentou o 'Benefício' (foco) e forneceu uma 'Chamada para Ação (CTA)' clara, tudo na linguagem do cliente (Entrando na Conversa). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Apenas listar todos os produtos que você vende (café, sanduíches, bolo).",
+          "feedback": "⚠️ Isso foca nas 'Características' e não na 'Transformação' (o resultado final) que o cliente deseja. É um menu, não uma mensagem de Resposta Direta. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Focar em um longo texto sobre a história e os valores éticos do 'Café do Programador'.",
+          "feedback": "❌ Conteúdo irrelevante. O cliente ideal tem um 'problema urgente' (trabalhar!) e não quer ler um manifesto. Falhou no princípio de **Focar no Benefício**. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Introdução e Estrutura do Plano de 1 Página (As 3 Fases)",
+      "narrative": "🗺️ Você está revisando a jornada do cliente no seu 1PMP. Um cliente potencial visita o café (Prospecto), pega um panfleto e sai. Você falhou em transformá-lo em um 'Lead'. **Qual 'caixa' da Fase Durante (During) do 1PMP você não está aplicando corretamente?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O Sistema de Referência.",
+          "feedback": "⚠️ O Sistema de Referência é uma caixa da Fase Depois (After), focada em clientes existentes. Não é o problema principal na transição de Prospecto para Lead. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "A Proposta Única de Venda (PUV).",
+          "feedback": "⚠️ A PUV é a caixa de 'Mensagem' da Fase Antes. Embora crucial, o problema aqui é a falta de 'captura' para transformá-lo em Lead. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "O Ímã de Leads (Lead Magnet).",
+          "feedback": "✅ Exatamente. O Ímã de Leads é o mecanismo que transforma um Prospecto anônimo em um Lead conhecido, em troca de contato. É o ponto de transição entre Antes e Durante. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "A Estrutura do Back-End.",
+          "feedback": "❌ O Back-End (Produtos de alto valor) faz parte da Fase Depois (After), focada em aumentar o LTV (Valor Vitalício do Cliente). (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Definindo o Mercado Alvo (Nicho e Avatar do Cliente)",
+      "narrative": "👤 Você está criando o 'Avatar do Cliente' para o seu nicho (Freelancers). Você já sabe o que eles fazem, mas para criar mensagens que realmente convertem, você precisa ir mais fundo. **Qual tipo de informação sobre o Avatar é mais crucial para o marketing de Resposta Direta?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Apenas dados demográficos, como idade, sexo e código postal.",
+          "feedback": "⚠️ Dados demográficos são bons, mas superficiais. Eles não fornecem a motivação emocional para a compra. Faltam os 'medos e desejos'. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Seus Medos Profundos (Ex: 'Perder um cliente', 'Procrastinação') e Desejos (Ex: 'Ter mais tempo', 'Ser reconhecido').",
+          "feedback": "✅ É isso. As pessoas compram por emoção e justificam com lógica. Conhecer os medos e desejos permite que você escreva mensagens que realmente toquem na 'dor' e motivem a ação imediata. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Apenas sua cor favorita e o time de futebol.",
+          "feedback": "❌ Informação trivial. Embora possa ser usada para criar rapport, não é o motor da decisão de compra. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "O preço que eles estão dispostos a pagar pelo café.",
+          "feedback": "⚠️ O preço é importante, mas é uma consequência. A verdadeira alavanca são os medos e desejos que justificam o preço. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "A Proposta Única de Venda (PUV) e o Teste de 4 Perguntas",
+      "narrative": "⚖️ Seu concorrente, 'O Café Hipster', acaba de lançar uma PUV genérica: 'O café mais criativo da cidade'. Seu chefe te pergunta por que a sua PUV (focada em produtividade) é melhor. **Qual dos elementos da sua PUV a torna superior (e menos commodity)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O fato de a sua ser 'criativa' também, o que a torna um bom slogan.",
+          "feedback": "❌ Você está comparando 'Branding' com 'Branding'. Se ambas são vagas, o cliente escolhe o preço mais baixo. Você falhou em se diferenciar. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A sua PUV promete um *resultado* (Aumento de Produtividade em 20%) e inclui uma *garantia*, superando o 'Café Hipster' que promete apenas um *sentimento* ('criativo').",
+          "feedback": "✅ Perfeito! O resultado **mensurável** e a **garantia** (removendo o risco) são o que Allan Dib considera essencial. Seu concorrente é um commodity; você é uma solução. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "A sua PUV é mais longa, o que é mais detalhado.",
+          "feedback": "⚠️ O comprimento não é o fator principal. A 'clareza' é mais importante que o detalhe. Você está perto, mas a justificativa está errada. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "A PUV deles deve ser ignorada, pois eles não são seu Mercado Alvo.",
+          "feedback": "❌ Você não deve ignorar a concorrência. Você deve se diferenciar. A PUV existe para garantir que você não seja comparado a eles. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Criando a Mensagem de Marketing (Foco no Benefício)",
+      "narrative": "🗣️ Você está treinando a equipe de balcão. Eles estão descrevendo um café com leite como 'leite vaporizado com um shot duplo de expresso'. Você percebe que eles estão usando a 'linguagem de barista' (características) e não a 'linguagem do cliente' (benefícios). **Qual instrução você dá para que eles traduzam a 'característica' em 'benefício' para o cliente Freelancer?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer que o café é 'quente' e 'fresco'.",
+          "feedback": "❌ Isso é genérico e básico. Quente e fresco são 'características' esperadas, não um 'benefício' transformador. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Focar em traduzir: 'O shot duplo te dará o foco extra necessário para bater sua meta de hoje e terminar o dia mais cedo!'",
+          "feedback": "✅ Perfeito! Você traduziu a 'Característica' ('shot duplo') para o 'Benefício' ('foco', 'terminar mais cedo'), tocando no desejo do Mercado Alvo (Produtividade e Tempo Livre). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer apenas o preço e perguntar se eles querem comprar.",
+          "feedback": "❌ Focar apenas no preço antes do valor falha em convencer. Não há conexão emocional ou racional. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Dizer que o leite é orgânico.",
+          "feedback": "⚠️ 'Orgânico' é uma característica, embora positiva. A mensagem ainda não está focada no resultado que o cliente Freelancer deseja (produtividade/foco). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Definindo o Mercado Alvo (Nicho e Avatar do Cliente)",
+      "narrative": "📉 O mercado de Freelancers (seu nicho) está crescendo, mas você está preocupado com o 'efeito manada'. João sugere: 'Vamos adicionar uma linha de produtos veganos para pegar os vegetarianos da cidade.' **Como você responde a isso, aplicando o princípio de 'nichar até doer'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer que sim, pois 'quanto mais clientes, melhor'.",
+          "feedback": "❌ Você está abandonando a extrema especificidade. Tentar servir a dois 'Mercados Alvos' diferentes diluirá sua Mensagem e PUV de Produtividade. 'Se você tenta vender para todos...' (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Dizer que só devemos adicionar produtos veganos se o nosso Avatar (Freelancer) estiver pedindo e se for um problema *urgente* deles.",
+          "feedback": "✅ Excelente. Você está aplicando o princípio de 'nichar até doer' e 'ir onde o cliente já está'. Qualquer mudança deve ser motivada pela dor/desejo do seu nicho primário, não por oportunismo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer que você precisa de 6 meses para fazer uma pesquisa de mercado demorada.",
+          "feedback": "⚠️ O marketing de Resposta Direta é ágil. 6 meses de espera é muito tempo. Você deve usar feedback direto do cliente e dados rápidos. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Apenas dizer que o preço será muito alto.",
+          "feedback": "❌ O preço é uma consequência do valor. A razão pela qual isso é uma má ideia é o foco (diluição do nicho), não o preço. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "A Proposta Única de Venda (PUV) e o Teste de 4 Perguntas",
+      "narrative": "🧐 Você decide testar a força da sua PUV (focada em produtividade) em uma campanha de Resposta Direta. Depois de 1 semana, o anúncio tem muitos cliques, mas quase nenhuma conversão (as pessoas não estão resgatando o 'Passe de Produtividade'). **Qual pergunta do 'Teste de 4 Perguntas' da PUV você falhou em testar/entender?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A PUV é ÚNICA?",
+          "feedback": "⚠️ Se tivesse falhado na 'unicidade', não teria tido cliques. O problema parece ser na **conversão** após o clique (o 'sim' para a PUV). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "O cliente realmente DESEJA isso?",
+          "feedback": "✅ Bingo. Muitos cliques mostram que a PUV é 'Única' e 'Mensurável' (pelo menos no topo do funil). No entanto, a baixa conversão sugere que o 'benefício' prometido (Aumento de Produtividade) pode não ser o **problema mais urgente e doloroso** que o cliente tem *agora*. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Podemos ENTREGAR isso?",
+          "feedback": "⚠️ Se a entrega fosse o problema, a quebra de confiança ocorreria *depois* da conversão. O problema é a conversão em si. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "A PUV é MENSURÁVEL?",
+          "feedback": "❌ Se não fosse mensurável, o anúncio não teria sido escrito com foco em resultados quantificáveis. O problema é a atração de conversão, não a métrica. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Introdução e Estrutura do Plano de 1 Página (As 3 Fases)",
+      "narrative": "🔄 Após a primeira venda, um cliente (Freelancer) se torna um cliente fiel, o que é ótimo! Você quer maximizar o LTV (Lifetime Value - Valor Vitalício do Cliente). **Qual é o principal foco da Fase Depois (After) do 1PMP que você deve implementar imediatamente?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Focar em diminuir o preço para atrair mais clientes.",
+          "feedback": "❌ A Fase Depois foca em *aumentar* o LTV com vendas de 'back-end', não em aquisição de novos clientes (Fase Antes/Durante). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Focar em um 'Sistema de Referência' e em vender 'Back-End' (Produtos de maior valor e margem, como um 'Membership Anual de Escritório').",
+          "feedback": "✅ Corretíssimo. A Fase Depois é a mais lucrativa, focada em clientes existentes. Vender mais para quem já confia em você é o 'dinheiro no back-end'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Focar em criar um novo Ímã de Leads para novos Prospectos.",
+          "feedback": "⚠️ Essa é a Fase Durante. O foco agora é reter e maximizar o valor dos clientes *existentes*. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Parar de fazer marketing, pois você já fez a venda.",
+          "feedback": "❌ O maior erro. A Fase Depois é o coração do LTV. Você nunca deve parar de se comunicar com clientes fiéis. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Criando a Mensagem de Marketing (Foco no Benefício)",
+      "narrative": "🛑 Sua equipe de vendas (os baristas) está em uma situação difícil: um cliente diz 'O Café de vocês é muito caro!'. Você sabe que eles precisam responder com 'Valor', em vez de 'Preço'. **Qual é a resposta mais forte (e mais baseada em Mensagem/PUV) que eles podem dar?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer que o café é 'justo' pelo que é.",
+          "feedback": "❌ Vago e defensivo. Isso não traduz a 'característica' em um 'benefício' (o resultado final). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Responder: 'Compre o café mais barato da concorrência e perca 2 horas de produtividade por causa do barulho, ou invista aqui no 'Café do Programador' e ganhe um dia de trabalho focado.'",
+          "feedback": "✅ Fantástico. Você está usando a técnica de **Amplificar o Custo da Inação** (perder 2h) e comparar o 'Preço' com o 'Valor/Resultado' (dia de trabalho focado), reafirmando a PUV. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dar um desconto imediato para fechar a venda.",
+          "feedback": "⚠️ O desconto é a forma mais fácil de desvalorizar sua PUV e treinar o cliente a só comprar com desconto. Isso falha em vender o valor. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pedir desculpas e dizer que vai tentar reduzir o preço amanhã.",
+          "feedback": "❌ Submissão. Você perdeu toda a alavancagem de Resposta Direta e o foco no valor. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 2,
+  "title": "⚙️ Simulação: A Jornada do Lead na Tech Solutions",
+  "introduction": "Você é o novo Estrategista de Marketing na 'Tech Solutions', uma empresa de software de nicho que vende ferramentas de produtividade para pequenas agências de marketing. Você tem um Mercado Alvo (Agências) e uma PUV (Triplicar Leads em 90 dias). Seu desafio agora é construir um funil de vendas (Fase Durante) usando Mídia, Ímã de Leads e Nutrição, garantindo que a Mensagem converta leads frios em clientes quentes. Prepare-se para tomar 12 decisões críticas que transformarão o fluxo de caixa.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Selecionando a Mídia (Canais de Resposta Direta)",
+      "narrative": "💰 O CEO, Ricardo, está entusiasmado com sua PUV, mas quer investir $5.000$ em um anúncio em um jornal de negócios local (um canal com grande alcance, mas difícil de rastrear). Você insiste em usar Mídia de Resposta Direta. **Qual canal de mídia e justificativa você escolhe para provar o ROI do investimento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Campanha no LinkedIn Ads segmentada para 'Donos de Agências', usando um link de rastreamento exclusivo (UTM) para medir cada lead gerado.",
+          "feedback": "✅ Perfeito! Você escolheu uma mídia altamente rastreável e direcionada (foco no nicho) e aplicou o critério principal: a capacidade de medir o ROI por lead e o Custo de Aquisição de Cliente (CAC). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Um outdoor na estrada mais movimentada da cidade para 'Branding', pois é o que a concorrência está fazendo.",
+          "feedback": "❌ Branding é o erro mais comum que o 1PMP busca corrigir. É impossível rastrear e provar o ROI, especialmente para um nicho. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "E-mail marketing, mas apenas para sua lista pessoal de amigos e familiares.",
+          "feedback": "⚠️ O e-mail é um excelente canal de Resposta Direta (Mídia Própria), mas o público é irrelevante. Você não está focando no Mercado Alvo ideal. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Anúncio de rádio geral, pois atinge 'todos' na cidade.",
+          "feedback": "❌ Você ignorou o critério de 'rastreamento e mensuração' e o foco no 'nicho'. O alcance amplo sem rastreabilidade é desperdício de dinheiro. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Ímã de Leads (Lead Magnet) e a Captura de Contato",
+      "narrative": "🧲 Você precisa criar um Ímã de Leads irresistível para o seu público (Donos de Agências de Marketing). O CEO sugere um e-book de 50 páginas sobre 'A História da Tecnologia'. Você discorda, sabendo que ele precisa ser específico, urgente e rápido. **Qual Ímã de Leads tem maior probabilidade de gerar Leads Qualificados?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Um e-book genérico: 'Guia Definitivo de Marketing Digital'.",
+          "feedback": "⚠️ Muito genérico e longo. Falha no critério de 'especificidade' para o nicho e 'consumo rápido'. Irá atrair leads de baixa qualidade. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Um checklist: 'Checklist Rápido: 7 Pontos de Vazamento de Leads que Custam $10K$ por Mês para Agências'.",
+          "feedback": "✅ Excelente! É altamente **específico** (para Agências), foca em um **problema urgente** ($10K$ perdidos) e é **consumível rapidamente** (checklist). Isso constrói uma 'vitória rápida'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Um 'Bribe': Participe de um sorteio de um iPhone, apenas com seu e-mail.",
+          "feedback": "❌ Isso atrai leads irrelevantes, apenas interessados no 'suborno'. O Ímã de Leads deve ser um 'filtro' que pré-qualifica leads para o seu produto principal. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Um produto físico, como um calendário de mesa da sua marca.",
+          "feedback": "⚠️ Embora físico, não é rastreável, não resolve um problema urgente e o custo de entrega é alto. É Branding, não Resposta Direta. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Nutrição de Leads (Follow-Up e Construção de Confiança)",
+      "narrative": "✉️ Um lead acabou de baixar seu Checklist. Agora começa a Nutrição. Você quer convertê-lo em um cliente 'Tripwire' (de baixo custo). O primeiro e-mail deve focar em continuar a fornecer valor, não na venda principal. **Qual é o foco mais eficaz para a sua primeira sequência de e-mails?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Focar apenas no preço e dizer: 'Compre o software principal agora com 5% de desconto!'",
+          "feedback": "❌ Isso é 'vender demais' no início. Quebra a confiança e o lead se sente pressionado, levando ao 'unsubscribe'. A nutrição é o namoro. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Enviar uma série de estudos de caso e depoimentos (Prova Social) de agências que usaram sua solução para resolver o problema de 'vazamento de leads'.",
+          "feedback": "✅ Excelente! Você está fornecendo valor (Estudos de Caso), construindo **Confiança** e **Autoridade** e eliminando a objeção 'Isso funciona para mim?' (Prova Social). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Enviar e-mails sobre notícias genéricas do mercado de tecnologia.",
+          "feedback": "❌ Conteúdo irrelevante. O foco deve ser o problema **urgente** do lead e como sua solução o resolve. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Fazer uma postagem em seu blog sobre o novo recurso do seu software (característica).",
+          "feedback": "⚠️ O conteúdo é relevante, mas a abordagem é passiva (blog) e foca na 'característica', não no 'benefício' (o resultado) que o lead obtém. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Construindo Confiança e Autoridade (O Papel da Educação)",
+      "narrative": "🎓 No meio do funil de nutrição, você percebe que muitos leads hesitam, pois acham seu software 'muito caro'. Seu desafio é justificar o preço construindo Autoridade. **Qual conteúdo educativo é o mais eficaz para eliminar essa objeção e posicionar você como especialista?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Reduzir o preço do software principal pela metade.",
+          "feedback": "❌ Você cedeu ao preço em vez de defender o **valor**. Isso destrói sua margem de lucro e desvaloriza a PUV. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Um webinar gratuito chamado: 'O Verdadeiro Custo (Oculto) de Não Resolver o Vazamento de Leads AGORA: Por que Você Não Pode Esperar Mais'. (Foco na dor e urgência)",
+          "feedback": "✅ Perfeito! Você usa a **Educação** para **amplificar a dor** (o verdadeiro custo) e justifica o preço ao mostrar que a inação é muito mais cara. Isso constrói Autoridade. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Enviar um e-mail com 10 'fatos divertidos' sobre o mercado de marketing.",
+          "feedback": "❌ Conteúdo irrelevante. Isso não aborda a objeção de 'preço' nem constrói Autoridade em relação ao problema específico do lead. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Um e-mail que detalha as 'características técnicas' do seu software (ex: usamos a linguagem Python).",
+          "feedback": "⚠️ Detalhe técnico pode aumentar a credibilidade, mas não 'educa' o cliente sobre o problema dele ou por que o preço é justo. O foco deve ser no 'benefício'. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Selecionando a Mídia (Canais de Resposta Direta)",
+      "narrative": "📊 Após $30$ dias, você revisa suas campanhas no LinkedIn Ads. O Custo por Clique (CPC) está alto. Você tem dois caminhos: **A. Aumentar o orçamento** ou **B. Testar um novo canal de mídia**. Qual é a ação mais alinhada com os princípios do 1PMP para otimizar o CAC (Custo de Aquisição de Cliente)?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aumentar o orçamento em $20%$ imediatamente para 'vencer' a concorrência.",
+          "feedback": "❌ Aumentar o orçamento sem resolver o alto CPC (e o provável alto CAC) é desperdício de dinheiro. Você precisa otimizar, não gastar mais. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Iniciar testes A/B na Mídia de Pesquisa (Google Ads) com palavras-chave de 'alta intenção de compra' (Ex: 'software de aquisição de leads para agências') para ver qual canal tem melhor ROI.",
+          "feedback": "✅ Exatamente. O Teste A/B em Mídia Paga com Resposta Direta é a forma mais rápida de otimizar o CAC, focando em canais onde o cliente busca ativamente a solução. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Parar todos os anúncios e focar apenas em postagens orgânicas no Instagram.",
+          "feedback": "❌ Você abandonou a Resposta Direta e o rastreamento em favor da Mídia Social, que você não controla e que é lenta para gerar receita. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Mudar a segmentação no LinkedIn para 'qualquer pessoa que use um computador'.",
+          "feedback": "⚠️ Você está aumentando o alcance, mas diminuindo a qualidade do lead e, consequentemente, desperdiçando dinheiro. O foco deve ser no nicho. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O Ímã de Leads (Lead Magnet) e a Captura de Contato",
+      "narrative": "📄 Você está desenhando a Landing Page para o seu Checklist (Ímã de Leads). O Lead Magnet é a transição entre as Fases Antes e Durante. **Qual elemento você deve remover da Landing Page para maximizar a conversão de Prospecto para Lead?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A Prova Social (Testemunhos de outras agências que usaram o checklist).",
+          "feedback": "❌ A Prova Social é crucial para construir credibilidade e reduzir o medo de dar o e-mail. Não deve ser removida. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O formulário de captura de nome e e-mail.",
+          "feedback": "❌ O formulário é o mecanismo de captura. Removê-lo elimina a conversão de Prospecto para Lead. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "O menu de navegação completo (Home, Sobre Nós, Contato) e links para mídias sociais.",
+          "feedback": "✅ Perfeito. Uma Landing Page eficaz deve ter um **Foco Único** e eliminar todas as distrações (links de saída) para maximizar a taxa de conversão. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "O título que descreve o benefício principal do checklist.",
+          "feedback": "⚠️ O título é essencial para comunicar o valor e motivar a ação. Sem ele, a conversão cai. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Nutrição de Leads (Follow-Up e Construção de Confiança)",
+      "narrative": "📈 Sua lista de leads está crescendo, mas você precisa de uma maneira de priorizar quem está realmente pronto para comprar. A equipe de vendas não pode ligar para todos. **Qual métrica do processo de nutrição indica a 'prontidão' do lead para ser abordado pela equipe de vendas?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O número de seguidores do lead no Instagram.",
+          "feedback": "❌ Métrica irrelevante. A prontidão para a compra está relacionada ao engajamento com seu funil. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O Lead Score: um sistema que atribui pontos ao lead por ações de alto valor (ex: clicar no link do Tripwire, assistir ao webinar, visitar a página de preços).",
+          "feedback": "✅ Exatamente. O Lead Score ajuda a priorizar. Leads com pontuação alta demonstraram **interesse** e estão **qualificados** para a venda. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "A cor do e-mail de boas-vindas que você enviou.",
+          "feedback": "❌ Métrica trivial. Não tem relação com o comportamento de compra. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "A taxa de abertura de e-mail (Open Rate).",
+          "feedback": "⚠️ A taxa de abertura é uma boa métrica de engajamento, mas não prova a intenção de compra, que é o que o Lead Score mede. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Construindo Confiança e Autoridade (O Papel da Educação)",
+      "narrative": "🚀 Você tem leads de alto valor que baixaram seu Checklist e assistiram ao seu Webinar. Para a última etapa de nutrição antes da oferta principal, você precisa dar um 'empurrão' final. **Como você usa o princípio da Autoridade e Reciprocidade para convertê-los, sem 'vender demais'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Fazer uma ligação fria para cada lead, ignorando o valor que você já deu.",
+          "feedback": "❌ Isso destrói a confiança construída na nutrição. O lead se sente como uma 'presa', não um parceiro. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Enviar uma 'Consultoria Gratuita e Personalizada de 15 Minutos' para revisar seu Checklist, posicionando-se como o Guia que resolve o problema deles.",
+          "feedback": "✅ Perfeito! Isso é o 'Over-Deliver' final. Você usa sua **Autoridade** (consultoria) e aciona o gatilho da **Reciprocidade** ('dívida') do lead, tornando-o quase obrigado a considerar sua oferta. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Enviar um e-mail longo com 50 páginas de 'novidades da empresa'.",
+          "feedback": "❌ Focar em si mesmo em vez do problema do cliente. O conteúdo é longo e irrelevante. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Mandar um vale-presente genérico de $5$ para um café.",
+          "feedback": "⚠️ O suborno pode ser visto como superficial e não constrói Autoridade no seu nicho. O valor deve estar na solução do problema. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "O Ímã de Leads (Lead Magnet) e a Captura de Contato",
+      "narrative": "💰 Você decide criar um 'Tripwire' (Oferta de Entrada) de $7$ para converter Leads em Clientes Pagantes imediatamente após o Ímã de Leads. **Qual é o objetivo principal do Tripwire, de acordo com o 1PMP?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Gerar um grande lucro para o seu negócio.",
+          "feedback": "⚠️ O lucro é secundário. O objetivo é a aquisição de clientes. O Tripwire deve cobrir o CAC. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Alterar o relacionamento psicológico de 'Prospecto' para 'Cliente', mesmo que com prejuízo, para cobrir o Custo de Aquisição de Cliente (CAC).",
+          "feedback": "✅ Exatamente. A mudança psicológica é o objetivo. Depois que eles compram a primeira vez, é mais fácil vender o produto principal (Back-End). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Apenas reduzir o número de leads em sua lista.",
+          "feedback": "❌ Você está confundindo qualificação com redução de lista. O objetivo é a conversão em cliente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Apenas ter mais um produto para vender.",
+          "feedback": "❌ O Tripwire tem um objetivo estratégico muito específico que vai além da simples diversificação de produtos. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Selecionando a Mídia (Canais de Resposta Direta)",
+      "narrative": "🛑 O CEO está preocupado porque seu Custo de Aquisição de Cliente (CAC) está em $200$, mas seu LTV (Valor Vitalício do Cliente) é de $600$. Ele quer parar de gastar em Mídia Paga. **Qual é sua melhor resposta, usando o princípio do 1PMP de 'Quem Pode Gastar Mais Vence'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Concordar e parar a Mídia Paga, pois o custo está muito alto.",
+          "feedback": "❌ Você está ignorando a relação LTV:CAC. Você está tendo um lucro de $400$ por cliente. Você está ganhando! (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Explicar que um LTV:CAC de 3:1 é excelente, e que você pode até aumentar o gasto para adquirir mais clientes e superar a concorrência.",
+          "feedback": "✅ Perfeito! Você demonstrou que entende a métrica e o princípio fundamental: você pode se dar ao luxo de gastar mais para adquirir clientes do que sua concorrência, o que é a chave para vencer. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer que você precisa de mais 6 meses para que o custo caia.",
+          "feedback": "⚠️ Isso não resolve a preocupação imediata com os números e falha em demonstrar o ROI positivo já existente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Dizer que o LTV não é importante.",
+          "feedback": "❌ O LTV é a métrica mais importante para o sucesso a longo prazo no 1PMP. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Nutrição de Leads (Follow-Up e Construção de Confiança)",
+      "narrative": "🥶 Sua sequência de nutrição não está gerando a confiança desejada, pois os e-mails são frios e robóticos. Qual é a melhor abordagem para injetar 'Relacionamento' na nutrição, de acordo com o princípio de que 'As pessoas compram de quem elas conhecem, gostam e confiam'?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Automatizar a sequência para que cada e-mail pareça ter sido enviado do endereço 'noreply@...'.",
+          "feedback": "❌ O 'noreply' é o inimigo da confiança e do relacionamento. As pessoas querem se conectar com pessoas, não robôs. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Personalizar o remetente para que pareça ser enviado pelo 'CEO Ricardo' ou pelo seu 'Consultor', e incluir histórias pessoais e erros que você cometeu ao longo do caminho (Vulnerabilidade).",
+          "feedback": "✅ Excelente. Isso constrói o 'Gostar' e 'Confiar'. As histórias pessoais e a vulnerabilidade transformam um e-mail automatizado em um ponto de contato humano, aumentando a autoridade. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Apenas falar sobre o novo recurso do software em todos os e-mails.",
+          "feedback": "⚠️ Focar apenas nas 'características' é chato e não constrói 'confiança' ou 'gostar'. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Enviar e-mails apenas a cada 6 meses para não incomodar.",
+          "feedback": "❌ Falha no 'Princípio da Continuidade'. A consistência é a chave para construir confiança. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Construindo Confiança e Autoridade (O Papel da Educação)",
+      "narrative": "🗣️ Você está preparando a oferta final (o produto principal). Para maximizar a taxa de conversão, você precisa usar a **Prova Social e a Autoridade de Terceiros**. O que é o mais persuasivo para o seu Mercado Alvo (Agências de Marketing) no momento da venda?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Apenas prometer que o software funciona e esperar que o cliente confie na sua palavra.",
+          "feedback": "❌ Confiança não é esperada, é construída. A falta de prova social na hora da venda é um ponto de falha. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Mostrar estudos de caso detalhados de agências **semelhantes** que triplicaram seus leads em 90 dias e citar menções positivas em grandes publicações do setor (Autoridade de Terceiros).",
+          "feedback": "✅ O ápice da Autoridade. A prova social de **pares** (agências semelhantes) elimina o risco percebido, e o endosso de Terceiros valida a sua expertise. A conversão é maximizada. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Oferecer um desconto de $5$ no produto principal.",
+          "feedback": "⚠️ Você está vendendo no preço em vez do valor. O desconto não resolve a objeção de risco ou credibilidade. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Oferecer uma lista de 50 recursos do software.",
+          "feedback": "❌ Foco em 'características', não em 'benefícios/resultados' comprovados por terceiros. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 3,
+  "title": "💰 Simulação: A Máquina de LTV da Consultoria 10x",
+  "introduction": "Você é o Diretor de Crescimento da 'Consultoria 10x', uma empresa que vende um programa de mentoria de alto valor para CEOs. Seus leads estão nutridos, mas a conversão da Oferta Principal está estagnada. Seu foco agora é dominar as técnicas de Conversão de Vendas e, mais importante, lançar o motor da Fase Depois para maximizar o Valor Vitalício do Cliente (LTV). Prepare-se para tomar 12 decisões críticas que transformarão seu funil de vendas em uma máquina de recorrência.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Conversão de Vendas (A Oferta Principal)",
+      "narrative": "🎯 Chegou o momento da Oferta Principal: seu programa de mentoria de $5.000$. O CEO sugere apenas descrever o currículo. Você sabe que precisa 'Empilhar o Valor' (Stacking the Value) para que o preço pareça baixo. **Qual é a melhor forma de apresentar a oferta final para torná-la irresistível?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Focar apenas no preço e nos módulos de aprendizado principais.",
+          "feedback": "❌ Você falhou em Empilhar o Valor. O cliente verá apenas o preço e o comparará com a concorrência. Você está vendendo um produto, não uma solução de alto valor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Apresentar a Oferta Principal (mentoria) mais 4 Bônus Exclusivos (ex: modelos, planilhas), com valor total de $15.000$, mas cobrando apenas $5.000$.",
+          "feedback": "✅ Perfeito! Você usou a técnica 'Stacking the Value' para que o valor percebido ($15.000$) seja muito maior que o preço de venda. O cliente sente que seria 'estúpido dizer Não'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Oferecer um desconto de $100$ por tempo limitado.",
+          "feedback": "⚠️ Um pequeno desconto é uma tática fraca. Não muda a percepção de valor. O foco deve ser em agregar, não em subtrair. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Dizer que a oferta é a 'melhor do mercado'.",
+          "feedback": "❌ Vago e não comprovável. Isso é Branding e não ajuda na Conversão de Vendas. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Otimizando a Conversão (Garantias e Prova Social)",
+      "narrative": "🛡️ O maior obstáculo na venda é o risco percebido (investimento de $5.000$). Sua garantia atual é 'Garantia de 7 dias'. Otimizar a conversão exige remover todo o risco. **Qual garantia você deve implementar para eliminar totalmente a hesitação do CEO cliente?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Manter a 'Garantia de 7 dias', pois é o padrão legal.",
+          "feedback": "❌ Fraca. O padrão legal não elimina o medo do cliente de alto valor. Você não está confiando o suficiente no seu produto. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Apresentar uma 'Garantia de Resultado' de 90 dias: 'Se você não dobrar suas vendas em 90 dias, devolvemos seu dinheiro E você fica com todos os bônus.'",
+          "feedback": "✅ Otimização máxima! Você usou a Garantia de Resultado mais forte, removeu todo o risco e ainda usou a 'Aversão à Perda' (ele fica com os bônus). Isso prova a confiança e maximiza a conversão. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Garantir apenas que o material será entregue (Garantia de Entrega).",
+          "feedback": "❌ A entrega do material é o mínimo. O cliente se importa com o 'resultado', não com a logística. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Aumentar para 30 dias de garantia, mas com termos e condições muito complicados.",
+          "feedback": "⚠️ A garantia deve ser clara e sem letras miúdas. A complexidade (letras miúdas) adiciona risco percebido, não o remove. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Over-Delivery e a Experiência do Cliente (Fase Depois)",
+      "narrative": "✨ O cliente CEO fechou o programa de $5.000$! Agora, a Fase Depois começa com o 'Over-Delivery' para transformá-lo em um 'Evangelista'. O que você faz nos primeiros 7 dias para criar uma experiência 'UAU' (entregar mais do que o prometido)?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Enviar apenas o link de acesso ao curso e esperar que ele comece. Sem comunicação adicional.",
+          "feedback": "❌ Falha no Over-Delivery. O cliente está apenas 'satisfeito'. Ele não foi surpreendido e não se tornará um evangelista. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Agendar uma 'Sessão de Onboarding Pessoal' de 15 minutos com um dos mentores para mapear suas metas, além de enviar um kit de boas-vindas físico (Bônus Inesperado).",
+          "feedback": "✅ Perfeito! Você usou a **Personalização** (sessão pessoal) e um **Bônus Inesperado** (kit físico) para superar as expectativas e criar uma experiência 'UAU' que ele irá contar aos amigos (Evangelismo). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Enviar um e-mail longo pedindo um depoimento antes mesmo que ele comece o programa.",
+          "feedback": "❌ Você inverteu a ordem. Pedir antes de entregar a transformação quebra a confiança e o princípio da Reciprocidade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Enviar o e-mail de acesso e nada mais, pois o LTV está garantido.",
+          "feedback": "⚠️ O LTV não está garantido. Sem Over-Delivery, você terá mais 'Churn' (cancelamento) e menos 'Referências'. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Upsell e Cross-Sell (Maximizando o Valor da Transação)",
+      "narrative": "🛒 O cliente CEO acabou de clicar em 'Comprar' (R$ 5.000) e está na página de confirmação/agradecimento. Este é o momento ideal para maximizar o Valor Médio da Transação (AOV). **Qual oferta você deve fazer agora para maximizar o AOV?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Oferecer um produto totalmente não relacionado (ex: um curso de culinária).",
+          "feedback": "❌ Não Relevante. O Cross-Sell deve complementar a compra principal. Você quebrou a **Segmentação**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Oferecer um 'Upgrade VIP' (Upsell) para o programa de $15.000$ (incluindo 6 meses de coaching individual) com um 'desconto único de $3.000$' que expira em 10 minutos.",
+          "feedback": "✅ Excelente! Você capitalizou o 'Modo de Compra' do cliente com um **Upsell** de alto valor, usando a **Escassez** ('10 minutos') para motivar a ação imediata. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Oferecer o mesmo produto principal novamente.",
+          "feedback": "❌ Irrelevante. O cliente já comprou. Isso confunde e quebra o funil. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Oferecer o Tripwire de $7$ que ele já viu no início do funil.",
+          "feedback": "⚠️ Você está oferecendo um Downsell (preço mais baixo) no momento do Upsell. Isso desvaloriza a compra principal. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Conversão de Vendas (A Oferta Principal)",
+      "narrative": "💸 Sua página de vendas final precisa ser focada no ROI (Retorno sobre o Investimento) do cliente. O CEO tem uma objeção: 'Parece muito caro'. **Como você usa a Mensagem (Foco no ROI) para rebater essa objeção na página de vendas?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Reduzir o preço pela metade para fechar a venda.",
+          "feedback": "❌ Você cedeu ao preço e perdeu a oportunidade de vender o valor. Isso compromete seu lucro e a percepção de qualidade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Reescrever o título: 'Invista $5.000$ para Ganhar $50.000$ em Novos Negócios em 1 Ano. É um Retorno de $10\times$. O custo da inação é muito maior.'",
+          "feedback": "✅ Correto. Você focou no **ROI do Cliente** ($10\times$) e no **Custo da Inação**. Você transformou o preço em um investimento irresistível. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer que você é mais barato que a concorrência.",
+          "feedback": "⚠️ Entrar na guerra de preços é perigoso. Você deve focar na PUV (resultado), não no preço. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Ignorar a objeção do preço.",
+          "feedback": "❌ A objeção do preço é a mais comum. Você deve abordá-la de frente, justificando o valor. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Otimizando a Conversão (Garantias e Prova Social)",
+      "narrative": "📊 Você decide fazer um Teste A/B na sua página de vendas. Qual elemento é o mais provável de gerar um aumento significativo na taxa de conversão (CRO)?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Testar diferentes cores de fundo para a página.",
+          "feedback": "⚠️ Cor é um elemento de baixo impacto na CRO. O cliente se importa com a oferta e o risco, não com a estética. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Substituir o 'Clique Aqui' do CTA por 'Quero a Garantia de $10.000$ e Minha Primeira Ligação Gratuita'.",
+          "feedback": "✅ Excelente. Você testou o CTA focado no **Benefício e Risco Zero** (Garantia). O CTA de alto benefício é um dos maiores fatores de otimização da conversão. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Adicionar um parágrafo sobre a história do seu fundador.",
+          "feedback": "❌ Irrelevante. O cliente não compra sua história; ele compra a solução para o problema dele. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Reduzir o tamanho da fonte em 2 pontos.",
+          "feedback": "❌ A simplicidade e a clareza são cruciais. Fontes menores dificultam a leitura e a conversão. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Over-Delivery e a Experiência do Cliente (Fase Depois)",
+      "narrative": "📉 Você está observando um 'Churn Rate' (taxa de cancelamento) alto após os primeiros 3 meses. Os clientes não estão alcançando o resultado prometido. **Qual princípio da Fase Depois você precisa reforçar para reduzir o Churn e aumentar o LTV?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Fazer Over-Delivery no marketing (mais e-mails promocionais).",
+          "feedback": "❌ O problema não é o marketing. O problema é a entrega e o 'Sucesso do Cliente'. Mais e-mails não resolvem o uso do produto. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Implementar um 'Feedback Ativo' e uma 'Nutrição Pós-Venda' focada em garantir que o cliente use o produto e alcance o resultado (Sucesso do Cliente).",
+          "feedback": "✅ Perfeito. A Churn Rate alta é um sinal de que você não está focado no **Sucesso do Cliente**. O feedback ativo e a nutrição garantem que eles usem o produto e obtenham a transformação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer aos clientes que eles não têm direito de reclamar.",
+          "feedback": "❌ Atitude terrível. Quebra a confiança e transforma clientes insatisfeitos em críticos públicos (Evangelismo Negativo). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Aumentar o preço do programa para que menos pessoas comprem.",
+          "feedback": "⚠️ Embora isso possa aumentar a percepção de valor, não resolve o problema subjacente de entrega e retenção. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Upsell e Cross-Sell (Maximizando o Valor da Transação)",
+      "narrative": "🤝 Um cliente fiel completou o programa de $5.000$ (Oferta Principal). Seu LTV está em risco se ele sair agora. Você precisa de um 'Back-End' de alto valor. **Qual é o melhor Upsell/Cross-Sell para esse cliente fiel?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Oferecer um produto totalmente novo e não relacionado (ex: um software de contabilidade).",
+          "feedback": "❌ Falha no princípio de 'Segmentação'. O Upsell deve ser altamente relevante e complementar ao que ele já comprou. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Oferecer um 'Programa de Elite Anual' (Cross-Sell de alto valor) focado em 'Manutenção de Crescimento' por $15.000$, que oferece acesso contínuo a você e à comunidade.",
+          "feedback": "✅ Perfeito. Isso é o 'Back-End' ideal. É um **Cross-Sell** altamente relevante que maximiza o LTV, transformando o cliente em um comprador de longo prazo (recorrência). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Oferecer novamente o Ímã de Leads gratuito.",
+          "feedback": "❌ O cliente já comprou o produto principal. Isso é um erro de funil grosseiro e desvaloriza a compra dele. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pedir que ele compre o programa de $5.000$ novamente.",
+          "feedback": "⚠️ Irrelevante. Ele precisa de um produto que resolva o 'próximo problema' (manutenção), não o anterior. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Conversão de Vendas (A Oferta Principal)",
+      "narrative": "⏳ Você quer usar a 'Escassez' na sua página de vendas. Você tem duas opções: **A. Escassez de Tempo** ou **B. Escassez de Quantidade**. Qual é a mais forte para motivar a ação imediata do CEO?",
+      "options": [
+        {
+          "value": "a",
+          "label": "A Escassez de Quantidade, dizendo que só há '10 vagas restantes' para o programa (se for verdade).",
+          "feedback": "✅ Fantástico! A **Escassez de Quantidade** (vagas) é mais poderosa, pois implica que a oportunidade pode desaparecer permanentemente, acionando a 'Aversão à Perda' de forma mais forte. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "A Escassez de Tempo, dizendo que a oferta expira em 24 horas.",
+          "feedback": "⚠️ Boa, mas não ótima. A Escassez de Tempo pode ser 'remediada' na próxima oferta. A Escassez de Quantidade é mais rara e, portanto, mais urgente. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Dizer que a oferta é 'ilimitada' e 'sempre disponível'.",
+          "feedback": "❌ Você removeu o senso de urgência, essencial para a conversão de Resposta Direta. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Focar apenas na Prova Social.",
+          "feedback": "⚠️ A Prova Social constrói credibilidade, mas não urgência. É preciso Escassez para impulsionar a ação imediata. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Otimizando a Conversão (Garantias e Prova Social)",
+      "narrative": "👨‍⚖️ Para maximizar a prova social, você adicionou $20$ depoimentos à sua página de vendas. No entanto, sua conversão só melhorou um pouco. Qual ajuste de **Prova Social** você deve fazer para otimizar ainda mais a conversão?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Adicionar mais 50 depoimentos genéricos.",
+          "feedback": "❌ Mais depoimentos genéricos não resolvem o problema. A qualidade (relevância) é mais importante que a quantidade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Garantir que os depoimentos sejam de CEOs de empresas **semelhantes** (nichados) e que mencionem os **resultados mensuráveis** da sua PUV (dobrar vendas).",
+          "feedback": "✅ Otimização por Relevância. A Prova Social Esmagadora deve ser altamente relevante. O cliente precisa ver um par (alguém como ele) alcançando o resultado prometido (mensurável). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Remover todos os depoimentos para 'simplificar' a página.",
+          "feedback": "❌ Remoção do maior fator de credibilidade. Isso é um erro fatal na CRO. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Usar depoimentos de clientes que compraram o Tripwire (oferta de $7$).",
+          "feedback": "⚠️ Depoimentos do Tripwire não provam que a Oferta Principal (de $5.000$) funciona para resolver o problema. A relevância da prova social é baixa. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Over-Delivery e a Experiência do Cliente (Fase Depois)",
+      "narrative": "🎁 Seu programa de Elite Anual (Back-End) está vendendo bem, mas você quer aumentar a retenção (reduzir o Churn Rate). **Qual ação focada em 'Sucesso do Cliente' (e não em vendas) você usa para aumentar a retenção?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Reduzir a frequência de e-mails para não incomodar o cliente.",
+          "feedback": "❌ A falta de comunicação aumenta o Churn. O cliente precisa de contato **consistente** para se manter engajado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Implementar um 'Sistema de Feedback Ativo' de 30/60/90 dias para garantir que o cliente esteja no caminho certo e resolver proativamente qualquer obstáculo (Foco no Sucesso do Cliente).",
+          "feedback": "✅ Otimização da Retenção. O Feedback Ativo permite que você corrija o curso e garanta que o cliente atinja o resultado, o que é o pilar da Fase Depois. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pedir que ele compre outro produto para se 'sentir mais comprometido'.",
+          "feedback": "⚠️ O foco deve ser no Sucesso do Cliente, não em mais vendas. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Focar em vender um novo produto no primeiro mês.",
+          "feedback": "❌ Você deve focar na retenção antes de Upsell/Cross-Sell adicional. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Upsell e Cross-Sell (Maximizando o Valor da Transação)",
+      "narrative": "🧩 Você identificou que seu cliente CEO, após o programa, precisa de 'ajuda na contratação de talentos'. Você tem um curso gravado de $197$ sobre 'Entrevistas de Alto Nível'. **Este é um Upsell, Downsell ou Cross-Sell? Qual a melhor forma de apresentá-lo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Downsell, oferecendo um desconto de 50% no produto principal.",
+          "feedback": "❌ Não é um Downsell. O valor do produto principal é muito maior e a oferta não está relacionada. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Cross-Sell: Oferecer o curso de $197$ como um 'complemento essencial' que aumenta o ROI do programa de mentoria (Produto Complementar).",
+          "feedback": "✅ Correto. É um **Cross-Sell** porque é um produto complementar que resolve o 'próximo problema' do cliente e aumenta a eficácia da compra principal. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Upsell, forçando-o a comprar o Programa de Elite novamente.",
+          "feedback": "❌ É um produto de valor inferior, não um Upsell. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Oferecer o curso de $197$ de graça para ser legal.",
+          "feedback": "⚠️ Embora seja Over-Delivery, você está perdendo a oportunidade de um Cross-Sell de baixo preço para aumentar o LTV. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 4,
+  "title": "📈 Simulação: O Motor de Escala da Agência ScaleUp",
+  "introduction": "Você é o Estrategista de Automação e Análise de uma Agência Digital B2B. Seu funil de aquisição (Fases Antes e Durante) está sólido, mas seu lucro está vazando no 'back-end' (Fase Depois). Seu objetivo é fechar o ciclo do 1PMP: automatizar a comunicação, lançar um Sistema de Referência proativo e, crucialmente, garantir que todas as decisões sejam guiadas por métricas de ROI, e não por 'métricas de vaidade'. Prepare-se para tomar 12 decisões que transformarão sua agência em uma máquina de LTV.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Frequência de Compra (Retenção e Comunicação Contínua)",
+      "narrative": "😴 Um cliente fiel que comprou seu serviço de $1.000$ há 90 dias não interage mais com seus e-mails. Você precisa reativá-lo para aumentar a Frequência de Compra. **Qual é a abordagem de 're-engajamento' mais alinhada com os princípios de Resposta Direta e Escassez?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Enviar um e-mail com a manchete: 'Última Chamada: Seu Acesso a [Curso Bônus] Expira em 48h. Clique para Reivindicar e Receber Dicas de Lançamento!'.",
+          "feedback": "✅ Perfeito! Você combinou **Escassez** ('Última Chamada/48h'), **Valor** (Curso Bônus) e **Relevância** (Dicas de Lançamento) para motivar a ação imediata. Isso é Re-engajamento eficaz. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Ligar e perguntar: 'Por que você não está comprando de nós?'",
+          "feedback": "⚠️ O Feedback Ativo é bom, mas esta é uma pergunta que coloca o cliente na defensiva. É melhor dar valor primeiro, antes de perguntar. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Continuar enviando e-mails promocionais genéricos.",
+          "feedback": "❌ Isso não resolve o problema. O cliente já se tornou inativo. Você precisa de uma Oferta de Re-engajamento específica. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Removê-lo da lista de e-mail, pois ele não está engajado.",
+          "feedback": "❌ Você desistiu de um cliente que já pagou. Reativar é muito mais barato do que adquirir um novo. Isso prejudica o LTV. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Sistema de Referência (Transformando Clientes em Promotores)",
+      "narrative": "🌟 O cliente 'Alpha' acaba de te mandar um e-mail entusiasmado dizendo que dobrou seus leads. Ele está no auge da satisfação (pico ideal). Você precisa lançar o Sistema de Referência. **Qual o método mais poderoso para incentivar a indicação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Enviar um link de referência com a promessa: 'Indique um amigo e ambos ganham um bônus de $100$ na próxima fatura.'",
+          "feedback": "✅ Excelente! Você usou a **Recompensa Dupla** ('Ganha-Ganha') e o **Momento Certo** (pico de satisfação) para impulsionar o marketing boca a boca. Isso maximiza o CAC de novos leads. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Agradecer e pedir um depoimento, mas não mencionar o Sistema de Referência.",
+          "feedback": "⚠️ Você capturou a Prova Social (ótimo!), mas perdeu a oportunidade de alavancar o marketing de referência. Não pediu ativamente. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Dizer que você irá recompensar apenas o cliente que indica ($50$ de desconto).",
+          "feedback": "⚠️ A Recompensa Única não é tão eficaz, pois o novo lead não tem incentivo para agir, diminuindo a taxa de conversão da referência. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Dizer 'Se você gostar, nos indique.'",
+          "feedback": "❌ Você deixou a indicação ao acaso. Um Sistema de Referência deve ser proativo e ter um incentivo claro. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Orquestração e Automação (Otimizando o Funil)",
+      "narrative": "⚙️ Você precisa automatizar a 'Fase Depois' para liberar sua equipe. O Funil de $9$ caixas exige Orquestração. **Qual processo de comunicação/vendas você deve automatizar primeiro para ter o maior impacto na escalabilidade e no LTV?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A sequência de e-mails de 'Over-Delivery' (dicas e tutoriais) e a solicitação de referência 7 dias após a compra.",
+          "feedback": "✅ Perfeito! Você automatizou o motor da Fase Depois: **Over-Delivery** (retenção) e **Referência** (novos leads de baixo CAC). Isso garante que o LTV seja maximizado de forma consistente. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "O Downsell (oferta mais barata) para leads que recusaram a Oferta Principal.",
+          "feedback": "⚠️ É uma boa automação de vendas para capturar clientes (conversão), mas o impacto na retenção e no LTV geral não é tão alto quanto o Over-Delivery e a Referência. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "O formulário de 'fale conosco' no seu site.",
+          "feedback": "⚠️ A automação da captura de leads (Fase Antes/Durante) já deve estar funcionando. O maior ganho de eficiência agora está na Fase Depois. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O agendamento manual de cada reunião de vendas.",
+          "feedback": "❌ Embora o agendamento seja tedioso, ele não faz parte do funil automatizado de marketing e deve ser resolvido com ferramentas de agendamento simples. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Mensuração e Análise (CAC, LTV e ROI)",
+      "narrative": "📉 Seu CEO está em pânico porque o Custo de Aquisição de Cliente (CAC) subiu de $100$ para $250$ em um novo canal de mídia. No entanto, o LTV médio para esses clientes é de $1.000$. **O que você diz para reorientar a conversa para o ROI?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O novo canal é ruim e deve ser desligado imediatamente.",
+          "feedback": "❌ Decisão baseada apenas no CAC, ignorando o LTV. Isso é um erro no marketing de resposta direta, pois você está perdendo um canal lucrativo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Apontar que a relação LTV:CAC é de 4:1 ($1000/$250$), o que é excelente e permite que a agência gaste mais para adquirir clientes do que a concorrência.",
+          "feedback": "✅ Perfeito! Você usou a métrica mais importante (LTV:CAC) para justificar que o marketing é altamente lucrativo e escalável. Quem pode gastar mais para adquirir um cliente, vence. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O LTV é uma métrica de 'vaidade' e deve ser ignorada.",
+          "feedback": "❌ O LTV é a métrica mais importante para a saúde financeira a longo prazo. Ignorá-lo leva a subestimação do valor do cliente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Concordar que o CAC está muito alto, mas prometer que ele cairá no próximo mês.",
+          "feedback": "⚠️ É uma resposta baseada na esperança, não nos dados. Você deve focar no ROI já comprovado. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Frequência de Compra (Retenção e Comunicação Contínua)",
+      "narrative": "📧 Você está criando o 'E-mail Semanal de Valor' para seus clientes existentes (Comunicação Contínua). O objetivo é aumentar a Frequência de Compra. **Qual tipo de conteúdo deve ter a maior frequência e foco em sua comunicação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Um e-mail semanal que oferece um desconto de 10% no seu serviço mais caro.",
+          "feedback": "⚠️ O foco em 'desconto constante' treina o cliente a só comprar no preço baixo. Você deve focar no valor, não na redução do preço. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "E-mails que focam em 'dicas de sucesso' e 'como resolver o próximo problema' (Focar no Próximo Problema), com uma oferta ocasional de Cross-Sell relevante.",
+          "feedback": "✅ Correto. A Comunicação Contínua deve ser focada em dar **valor** e ajudar o cliente a alcançar o **próximo nível**, mantendo você como a primeira opção para o 'próximo problema'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Apenas notícias e fofocas do setor de marketing.",
+          "feedback": "❌ Conteúdo de baixo valor e irrelevante para o problema urgente do cliente. Não motiva a compra nem a retenção. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Focar em Branding e histórias de caridade da empresa.",
+          "feedback": "❌ Branding e histórias institucionais são secundários na Fase Depois. O foco é no valor contínuo para o cliente. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Sistema de Referência (Transformando Clientes em Promotores)",
+      "narrative": "🔗 Você precisa simplificar o processo de indicação para o cliente. Atualmente, ele precisa ligar e preencher um formulário longo. **Qual é a simplificação ideal para aumentar a taxa de referência (redução de atrito)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Exigir que o cliente que indica e o novo cliente participem de um webinar de 1 hora.",
+          "feedback": "❌ Você adicionou atrito (tempo) ao processo, o que matará o Sistema de Referência. O processo deve ser o mais simples possível. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Criar um link de referência único e pessoal que o cliente pode simplesmente enviar por WhatsApp para amigos, com a recompensa embutida.",
+          "feedback": "✅ Perfeito! A **Simplicidade** e o **Mecanismo Automatizado** (link) removem todo o atrito. Isso é o motor do Sistema de Referência escalável. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pedir que a indicação seja feita apenas por e-mail para você.",
+          "feedback": "⚠️ É melhor que o formulário longo, mas ainda exige ação manual do cliente, o que gera atrito e não é rastreável. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Remover toda a recompensa para 'testar' se eles indicam por amor à marca.",
+          "feedback": "❌ O marketing de resposta direta exige incentivo (recompensa). O amor à marca é construído, mas o incentivo acelera o processo. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Orquestração e Automação (Otimizando o Funil)",
+      "narrative": "👤 Sua equipe de vendas está perdendo tempo com leads que não estão prontos. Você quer implementar o 'Lead Score' de forma automatizada. **Como você deve programar o CRM para segmentar e priorizar leads (Orquestração)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pontuar leads com base apenas na demografia (ex: idade e sexo).",
+          "feedback": "⚠️ A demografia é um indicador fraco. A pontuação deve ser baseada no comportamento e no engajamento para indicar a intenção de compra. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Atribuir pontos com base no LTV previsto e pontuar o engajamento do lead (clicou na Oferta Principal, assistiu ao Webinar de vendas).",
+          "feedback": "✅ Correto. A **Segmentação Automatizada** deve focar no **Comportamento** de alto valor (intenção de compra) e na capacidade de pagar (LTV), garantindo que a equipe de vendas só gaste tempo com leads quentes. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pontuar leads com base apenas no número de e-mails abertos.",
+          "feedback": "⚠️ A taxa de abertura é uma métrica de engajamento, mas não prova a intenção de compra. É fácil de ser manipulada. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Não usar Lead Score e ligar para todos os leads. ",
+          "feedback": "❌ O erro de 'Não Automatizar' a priorização. Isso leva à ineficiência e esgotamento da equipe de vendas. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Mensuração e Análise (CAC, LTV e ROI)",
+      "narrative": "⛓️ Sua meta é otimizar o funil. Você tem as seguintes taxas de conversão: (A) Anúncio para Lead: $10%$. (B) Lead para Tripwire: $5%$. (C) Tripwire para Oferta Principal: $20%$. **Qual é o 'Elo Mais Fraco' que deve ser otimizado primeiro para o maior impacto no ROI?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A taxa de conversão de 'Anúncio para Lead' (10%).",
+          "feedback": "⚠️ Não é o elo mais fraco. Otimizar este ponto pode trazer mais leads, mas o problema na próxima etapa continuará drenando o ROI. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "b",
+          "label": "A taxa de conversão de 'Lead para Tripwire' (5%).",
+          "feedback": "✅ Correto! O **Elo Mais Fraco** é a menor taxa (5%). Otimizá-la (ex: para 10%) dobraria o número de clientes pagantes na próxima etapa, gerando o maior ganho de ROI. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "A taxa de conversão de 'Tripwire para Oferta Principal' (20%).",
+          "feedback": "❌ Não é o elo mais fraco. Otimizar esta etapa traria menos ganho do que consertar a taxa de 5%. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Otimizar o tráfego total de anúncios.",
+          "feedback": "❌ O tráfego não é a métrica mais importante na otimização de funil. Você deve focar nas taxas de conversão. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Frequência de Compra (Retenção e Comunicação Contínua)",
+      "narrative": "💡 Seu cliente já comprou $3$ vezes, mas você quer garantir que ele seja leal por anos (aumentar Frequência/Retenção). **Qual é a estratégia de 'Comunicação Contínua' mais eficaz a longo prazo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Enviar e-mails apenas quando você tem um produto novo para vender.",
+          "feedback": "❌ O cliente se sente usado. O relacionamento só é retomado na hora da venda. Isso prejudica a confiança e a lealdade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Implementar um sistema de e-mail automatizado de 'Comunicação Contínua' focado em tutoriais, dicas e estudos de caso para garantir que ele continue obtendo sucesso (Sucesso do Cliente).",
+          "feedback": "✅ Perfeito. A chave é o **Princípio da Continuidade** e o foco no **Sucesso do Cliente**. O valor contínuo é o motor da lealdade e da frequência de compra. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Focar apenas em redes sociais, pois é a mídia mais 'divertida'.",
+          "feedback": "⚠️ A Mídia Social é 'terreno alugado'. Você deve usar sua **Mídia Própria** (e-mail) para garantir a comunicação contínua e a retenção. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Fazer Over-Delivery apenas na primeira compra e depois voltar ao normal.",
+          "feedback": "❌ O Over-Delivery deve ser mantido, mesmo que em pequenas doses, para reforçar a lealdade. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Sistema de Referência (Transformando Clientes em Promotores)",
+      "narrative": "💸 Seu Sistema de Referência está gerando leads de alta qualidade. Você precisa aumentar o incentivo da recompensa para ambas as partes. Qual é a recompensa mais poderosa, baseada na Aversão à Perda?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Um desconto de $20$ para ambos (quem indica e o novo cliente).",
+          "feedback": "⚠️ É uma recompensa válida, mas o valor é baixo. Não motiva a ação imediata. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Acesso vitalício a um BÔNUS exclusivo para o cliente que indica, e a primeira sessão de consultoria grátis para o novo cliente.",
+          "feedback": "✅ Otimização da Recompensa. Você usou o **Acesso Ilimitado** (alto valor percebido) e a **Gratuidade da Primeira Sessão** para o novo lead (redução de risco). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Apenas um e-mail de agradecimento.",
+          "feedback": "❌ Não há incentivo. O sistema de referência não será escalável. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Fazer um sorteio de um iPhone, apenas para quem indicar.",
+          "feedback": "⚠️ Embora a motivação seja alta, o foco está no prêmio, e não no valor do seu produto, o que atrai referências não qualificadas. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Orquestração e Automação (Otimizando o Funil)",
+      "narrative": "🤖 Sua automação de e-mail é perfeita em termos de sequência, mas os clientes começaram a se desinscrever, dizendo que a comunicação está 'sem alma'. **Qual é o principal risco da 'Automação Excessiva' que você precisa corrigir?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O custo do software de automação é muito alto.",
+          "feedback": "⚠️ O custo é um problema tático, não o risco estratégico de longo prazo que a automação apresenta. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "A automação torna a comunicação lenta.",
+          "feedback": "❌ A automação torna a comunicação mais rápida. Esta opção é logicamente inconsistente com o objetivo da automação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "O cliente se sente como um 'número' (perda do toque humano), quebrando o relacionamento e a confiança construída na Nutrição.",
+          "feedback": "✅ Correto. A automação deve ser usada para **escalar o toque humano**, não para substituí-lo. O risco é quebrar a Confiança e o Relacionamento, que são cruciais para o LTV. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Há muitos bugs no sistema.",
+          "feedback": "⚠️ Bugs e falhas técnicas são um problema operacional, mas a falta de 'alma' é um risco estratégico de relacionamento muito mais grave. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Mensuração e Análise (CAC, LTV e ROI)",
+      "narrative": "📸 Seu CEO te parabeniza: 'Nosso último post teve $10.000$ Likes e $50.000$ visualizações! Isso é Marketing!'. Você sabe que essas são 'Métricas de Vaidade'. **Qual é a métrica de Resposta Direta que você usa para determinar o verdadeiro ROI desse post?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O Custo por Lead (CPL) ou a Taxa de Conversão do Tráfego desse post para o Ímã de Leads.",
+          "feedback": "⚠️ Esta é uma métrica de Resposta Direta válida (Fase Durante), mas não é a métrica final de lucratividade. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "b",
+          "label": "O número total de Likes e Visualizações.",
+          "feedback": "❌ Você reforçou as 'Métricas de Vaidade', que não pagam as contas. O foco deve ser na receita e no lucro. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "A relação LTV:CAC dos clientes adquiridos através desse post em comparação com o investimento de tempo/dinheiro no post.",
+          "feedback": "✅ Perfeito! Você usou a métrica de **Saúde Financeira Definitiva** (ROI). Apenas o LTV:CAC determina se o esforço de marketing gerou lucro real. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "A Taxa de Abertura do e-mail de Boas-vindas.",
+          "feedback": "⚠️ A Taxa de Abertura é uma métrica de engajamento, mas está muito longe do cálculo final de lucro e ROI. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 5,
+  "title": "🚀 Simulação Final: A Decisão do Crescimento",
+  "introduction": "Você é o Fundador de uma startup que implementou o 1PMP. Seu funil de 9 caixas está funcionando e gerando um LTV:CAC de 4:1. Agora, você enfrenta o desafio final: Escalar, adotar o Mindset de ROI de longo prazo e garantir a Otimização Contínua. Prepare-se para tomar 12 decisões críticas que determinarão se sua empresa se torna uma máquina de fazer dinheiro ou se estagna.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Escalar (Aumentando o Investimento em Canais Lucrativos)",
+      "narrative": "💰 O canal de Google Ads B2B tem um ROI de $5:1$ (LTV:CAC). Seu gerente de finanças está hesitante em aumentar o gasto mensal. **Qual é a sua ação imediata, alinhada com o princípio de 'Escalar Verticalmente'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Reduzir o investimento para 'economizar' o lucro já obtido.",
+          "feedback": "❌ Você está ignorando a regra principal: **Aumentar o volume do que funciona**. Reduzir o investimento em um canal lucrativo limita seu crescimento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Aumentar o orçamento do Google Ads em 50% imediatamente, garantindo que o funil automatizado suporte o novo volume de leads.",
+          "feedback": "✅ Perfeito. Você aplicou a **Escala Vertical** (aumento de volume) no canal comprovadamente lucrativo e lembrou-se do papel da **Automação** (suporte ao volume). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Criar um novo canal de mídia do zero (ex: TikTok Ads) para 'diversificar'.",
+          "feedback": "⚠️ Você pulou para a **Escala Horizontal** sem antes maximizar o canal vertical. Mudar o foco é um risco no início da escala. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Mudar a Mensagem de Marketing no Google Ads para 'testar' se ela pode ser ainda mais criativa.",
+          "feedback": "❌ **'Se não está quebrado, não conserte.'** Mudar a mensagem quando o ROI é alto é o oposto do Mindset de Escala. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Mindset do Marketing de Resposta Direta (Foco no ROI)",
+      "narrative": "🤔 Um influenciador te oferece um post de Branding por $10.000$. Ele promete $1$ milhão de visualizações, mas sem links rastreáveis. Seu Mindset de Resposta Direta é posto à prova. **O que você faz?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aceitar, pois $10.000$ é um preço justo para $1$ milhão de visualizações (Métrica de Vaidade).",
+          "feedback": "❌ Você caiu na armadilha do **Branding e das Métricas de Vaidade**. O Mindset de Resposta Direta exige que cada dólar seja rastreável e gere uma ação mensurável. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Recusar, pois não é possível garantir um ROI positivo e rastreável, tratando o marketing como um custo incerto.",
+          "feedback": "✅ Perfeito. Você aplicou o Mindset de **Tratar o Marketing como um Investimento** que exige um retorno mensurável. Sem rastreabilidade, é apenas arte. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Oferecer $1.000$ e pedir que ele coloque um link de referência manual.",
+          "feedback": "⚠️ É uma tentativa de Resposta Direta, mas o valor do suborno ($1.000$) ainda é alto para um canal não comprovado. O Mindset correto diria 'Não' de cara. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Aceitar e esperar que a intuição traga clientes.",
+          "feedback": "❌ O Mindset de Resposta Direta é ser um **Cientista**, baseado em dados, não em intuição. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Revisão e Otimização (O Ciclo de Melhoria Contínua)",
+      "narrative": "🔍 Durante sua revisão mensal, você nota que a taxa de conversão do Tripwire para a Oferta Principal é de $15%$, enquanto a taxa de conversão do Lead para o Tripwire é de $50%$. **Qual caixa do funil é o 'Elo Mais Fraco' que você deve priorizar na otimização?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A taxa de conversão do Lead para o Tripwire (50%).",
+          "feedback": "❌ Não é o elo mais fraco. 50% é uma taxa alta. Otimizar esta etapa traria menos ganho do que consertar a etapa de 15%. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A taxa de conversão do Tripwire para a Oferta Principal (15%).",
+          "feedback": "✅ Correto. A taxa de **15%** é o **Elo Mais Fraco**. Otimizá-la (ex: testando uma nova garantia, Prova Social Esmagadora) trará o maior aumento no lucro do funil. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Otimizar o Ímã de Leads.",
+          "feedback": "⚠️ O Ímã de Leads está funcionando (50% de conversão é ótimo). Focar nele é otimizar o elo errado e desperdiçar recursos. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Aumentar o preço da Oferta Principal.",
+          "feedback": "⚠️ Aumentar o preço sem consertar a conversão de 15% pode fazer a taxa cair ainda mais. Otimize primeiro, depois ajuste o preço. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Plano de Marketing de 1 Página: A Máquina de Fazer Dinheiro",
+      "narrative": "🏗️ Seu objetivo final é transformar o 1PMP em uma 'Máquina de Fazer Dinheiro'. Qual é a definição mais precisa para essa 'Máquina', de acordo com a filosofia do Mindset de ROI?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Um funil complexo com muitas opções para o cliente.",
+          "feedback": "❌ A **Complexidade** é o inimigo da execução e da escalabilidade. A Máquina deve ser simples. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Um sistema que, de forma automatizada e previsível, garante que cada $1 investido em CAC retorne $3 ou mais em LTV.",
+          "feedback": "✅ Perfeito. A 'Máquina' é definida por sua **Previsibilidade, Lucratividade e Automação**. Ela opera com um ROI positivo garantido. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Um sistema que gera muitos Likes e compartilhamentos nas redes sociais.",
+          "feedback": "❌ Foco em **Métricas de Vaidade**. O lucro é a única métrica final. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Um sistema que nunca precisa de revisão ou otimização.",
+          "feedback": "⚠️ O mercado está sempre mudando. O sistema requer **Revisão Contínua** para se manter lucrativo. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Escalar (Aumentando o Investimento em Canais Lucrativos)",
+      "narrative": "📈 Você maximizou o gasto no Google Ads (Escala Vertical). Agora, você quer a **Escala Horizontal** e escolhe o Facebook Ads como próximo canal. Qual é a ação mais importante antes de investir pesadamente no Facebook Ads?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Investir $10.000$ imediatamente para 'testar o volume'.",
+          "feedback": "❌ Escalar canais não comprovados é arriscado. Você precisa testar o ROI em pequena escala primeiro. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Realizar um pequeno Teste A/B com a mesma Mensagem e PUV comprovadas do Google Ads para verificar se o LTV:CAC é positivo no Facebook Ads.",
+          "feedback": "✅ Exatamente. A **Escala Horizontal** deve ser baseada em **Teste A/B** e validação de ROI em pequena escala, aplicando o princípio de 'Escalar o que funciona'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Redesenhar completamente seu site para o novo canal.",
+          "feedback": "⚠️ O design é secundário. O mais importante é o teste de Mensagem/PUV e a rastreabilidade. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Parar o Google Ads para economizar dinheiro para o novo canal.",
+          "feedback": "❌ Você estaria desligando um canal lucrativo para financiar um canal não comprovado. Isso é má gestão de investimento. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Mindset do Marketing de Resposta Direta (Foco no ROI)",
+      "narrative": "🎯 Você descobre que o seu cliente ideal (o Nicho) não está no Instagram, mas sim em fóruns e newsletters de nicho. Seu diretor de design insiste que você 'precisa' estar no Instagram. **Como você usa o Mindset de ROI para tomar a decisão final?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Investir no Instagram para 'parecer moderno', ignorando os dados de nicho.",
+          "feedback": "❌ Você priorizou a **Estética** e a **Vaidade** em vez da **Mensurabilidade** e do **Nicho**. O ROI será negativo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Focar o investimento nos canais de nicho (Fóruns/Newsletters), pois é lá que a chance de obter um CAC baixo e um LTV alto (ROI positivo) é maior.",
+          "feedback": "✅ Perfeito. O Mindset de ROI exige que você **esteja onde o cliente está** e invista apenas onde o retorno é comprovado, ignorando a pressão social. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Gastar um pouco em todos os canais para ser 'equilibrado'.",
+          "feedback": "⚠️ O investimento deve ser concentrado onde o ROI é positivo. O investimento disperso é ineficaz. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Focar apenas na Prova Social.",
+          "feedback": "❌ A Prova Social é um elemento do funil, não uma estratégia de alocação de mídia. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Revisão e Otimização (O Ciclo de Melhoria Contínua)",
+      "narrative": "🔄 Sua próxima revisão trimestral exige que você olhe para o futuro. **Qual é a pergunta mais crítica que você deve fazer ao revisar o 1PMP?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O nosso logo ainda é atraente?",
+          "feedback": "❌ Foco em **Métricas de Vaidade**. O design é secundário em relação aos números. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Onde está o 'Elo Mais Fraco' (a menor taxa de conversão) e qual mudança pode ter o 'Maior Ganho com o Menor Esforço'?",
+          "feedback": "✅ Excelente! Você está aplicando o **Princípio da Alavancagem** e o foco na **Melhoria Contínua** ao identificar o ponto de maior retorno. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Devo escrever um novo artigo para o blog?",
+          "feedback": "⚠️ A produção de conteúdo deve ser guiada pela estratégia, não pela obrigação. Não é o foco principal da revisão. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Qual é a próxima tecnologia da moda que devo usar?",
+          "feedback": "❌ Foco em **Tecnologia** em vez de **Estratégia**. A tecnologia é uma ferramenta, não o plano. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Plano de Marketing de 1 Página: A Máquina de Fazer Dinheiro",
+      "narrative": "🛑 O funil de $9$ caixas está automatizado, mas você se sente 'preso' pela estrutura. Seu colega sugere que 'talvez seja hora de simplificar, ou mudar tudo'. **Como você aplica o princípio de 'Simplicidade' para manter o sistema funcionando?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Mudar a Mensagem e o Nicho para tentar um mercado maior.",
+          "feedback": "❌ **'Se não está quebrado, não conserte.'** Você mudaria o núcleo do plano que já funciona (Nicho/Mensagem), quebrando a previsibilidade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Manter o plano simples de 9 caixas e focar a energia na Otimização Contínua do elo mais fraco, não em mudar o sistema.",
+          "feedback": "✅ Correto. A **Simplicidade** é a chave para a **Execução**. O Mindset é manter a estrutura simples e estável (o 1PMP) e focar a energia na Otimização, não na mudança estrutural. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Adicionar 5 novas caixas ao plano para incluir mais canais sociais.",
+          "feedback": "❌ A **Complexidade** é o inimigo. Aumentar o número de caixas compromete a visão de 1 página. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Parar de fazer marketing, pois o sistema está 'preso'.",
+          "feedback": "⚠️ Você está escolhendo a inação em vez da Otimização. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Escalar (Aumentando o Investimento em Canais Lucrativos)",
+      "narrative": "🔥 O canal de Mídia Paga A está dando ROI de $3:1$, mas o Canal B tem um ROI de $1,5:1$. Você tem dinheiro para escalar. **Qual é a alocação de investimento mais lucrativa?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Investir igualmente nos dois canais para ter equilíbrio.",
+          "feedback": "⚠️ Você ignorou o ROI. Investir o mesmo em B significa alocar metade da sua verba em um canal de baixo desempenho. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Parar o Canal B e investir o máximo possível no Canal A, com ROI de $3:1$.",
+          "feedback": "✅ Perfeito. O Mindset de Escala é **Concentrar Recursos no que Gera o Maior Lucro**. O canal B, embora seja tecnicamente lucrativo ($1,5:1$), drena recursos do canal de alto desempenho. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Investir apenas no Canal B para tentar 'consertá-lo'.",
+          "feedback": "❌ Você está investindo na incerteza (tentar consertar) em vez da certeza (escalar o que já funciona). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Reduzir o investimento no Canal A para forçá-lo a ser mais eficiente.",
+          "feedback": "❌ Você está punindo o canal lucrativo. Isso é o oposto do Mindset de Escala. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Mindset do Marketing de Resposta Direta (Foco no ROI)",
+      "narrative": "💡 Seu mentor te diz: 'O Mindset de Resposta Direta é ser paciente com o processo, mas impaciente com a falta de resultados.' **O que ele quer dizer?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Você deve esperar anos por um ROI positivo.",
+          "feedback": "❌ O Mindset exige que o ROI seja positivo o mais rápido possível (Ponto de Equilíbrio). A paciência é apenas para o teste. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Você deve dedicar tempo ao Teste A/B e Otimização (processo), mas deve parar imediatamente o que não está gerando um ROI positivo (resultados).",
+          "feedback": "✅ Perfeito. A chave é a **Simplicidade e Ação**. Não desperdiçar tempo em ações que não trazem lucro e focar em consertar o que está quebrado. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Você deve mudar seu produto a cada mês se ele não for viral.",
+          "feedback": "❌ O problema geralmente está no Marketing, não no Produto. Não seja impaciente com o produto. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Você deve gastar o máximo possível em mídia paga para ter resultados rápidos.",
+          "feedback": "⚠️ O gasto deve ser baseado em dados de ROI, não em volume bruto. Você ignorou o **Foco no ROI**. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Revisão e Otimização (O Ciclo de Melhoria Contínua)",
+      "narrative": "📊 Você está fazendo sua 'Análise de Desvio'. Seu funil esperava $20%$ de conversão no Tripwire para a Oferta Principal, mas a taxa real é de $10%$. **Qual é o foco da sua primeira hipótese de melhoria?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Otimizar o Ímã de Leads, pois ele deve estar ruim.",
+          "feedback": "❌ O Ímã de Leads não é o elo mais fraco, e não é o problema. O problema está na transição do Tripwire para a Oferta Principal. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Testar uma **Garantia Mais Forte** ou aumentar a **Prova Social Esmagadora** na página de vendas da Oferta Principal (focando no Tripwire como filtro).",
+          "feedback": "✅ Excelente. Você aplicou a **Análise de Desvio** e focou a otimização no ponto de falha (risco percebido) para restaurar a taxa de conversão esperada. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Contratar um novo designer para mudar o logo.",
+          "feedback": "❌ **Métricas de Vaidade**. O problema é de conversão e confiança, não de design. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Desligar o funil, pois ele não está funcionando.",
+          "feedback": "⚠️ O funil está apenas 10% abaixo do esperado. Você deve otimizar, não desistir. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Plano de Marketing de 1 Página: A Máquina de Fazer Dinheiro",
+      "narrative": "🏆 Parabéns! Você completou o ciclo de $9$ caixas e está com um funil lucrativo. O que torna seu sistema superior e preparado para o crescimento sustentável?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ele é criativo e tem um bom design.",
+          "feedback": "❌ O design é um bônus. O que o torna superior é o ROI e a mensurabilidade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A Máquina é **Automatizada**, tem um **LTV alto** (alimentado pelo Back-End) e opera com um **ROI positivo** comprovado (Mensurabilidade).",
+          "feedback": "✅ O ápice. Você combinou os 3 pilares do 1PMP: **Escalabilidade (Automação)**, **Lucratividade (LTV)** e **Sustentabilidade (ROI)**. Sua máquina está pronta para crescer. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ele atrai muitos seguidores nas mídias sociais.",
+          "feedback": "❌ Foco em **Métricas de Vaidade**. O lucro é a única métrica final. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Ele tem um preço baixo.",
+          "feedback": "⚠️ O 1PMP visa vender com base no valor, não no preço baixo. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}
+]

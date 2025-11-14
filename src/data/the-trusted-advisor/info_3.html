@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote Caps 9-12 - Consultor de Confiança</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #00796b; /* Cor tema 'Ação/Reparo' */
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: #00796b;
+            color: #fff;
+            padding: 12px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .title {
+            font-size: 56px;
+            font-weight: bold;
+            color: #004d40;
+            font-family: 'Caveat', cursive;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        
+        .subtitle {
+            font-size: 26px;
+            color: #00796b;
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUT */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+        
+        .section-1 { border-left-color: #f57c00; } /* Resistência (Aviso) */
+        .section-2 { border-left-color: #d32f2f; } /* Imposto do Tempo (Perigo) */
+        .section-3 { border-left-color: #1976d2; } /* Enquadramento (Ação) */
+        .section-4 { border-left-color: #00796b; } /* Reparo (Solução) */
+
+        
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-1 .section-title { color: #f57c00; }
+        .section-2 .section-title { color: #d32f2f; }
+        .section-3 .section-title { color: #1976d2; }
+        .section-4 .section-title { color: #00796b; }
+        
+        .section-emoji {
+            font-size: 36px;
+        }
+        
+        .item {
+            font-size: 16px;
+            line-height: 1.7;
+            color: #555;
+            margin-bottom: 10px;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+            display: block;
+            margin-top: 15px;
+        }
+
+        .section-subtitle {
+            font-size: 28px;
+            font-weight: bold;
+            color: #333;
+            margin-top: 20px;
+            margin-bottom: 25px;
+            text-align: center;
+            font-family: 'Caveat', cursive;
+        }
+
+        /* INSIGHT BOX */
+        .insight {
+            background: #e0f2f1; /* Cor 'Ação/Reparo' */
+            border-left: 6px solid #004d40;
+            padding: 35px;
+            border-radius: 10px;
+            margin-top: 40px;
+        }
+        
+        .insight-title {
+            font-size: 26px;
+            color: #004d40;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .insight-text {
+            font-size: 18px;
+            line-height: 1.8;
+            color: #333;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #004d40;
+            background: rgba(0, 121, 107, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-2 {
+                grid-template-columns: 1fr;
+            }
+            .title {
+                font-size: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 9-12</div>
+            <div class="title">🚀 A Confiança na Prática</div>
+            <div class="subtitle">(Estratégias de Aplicação e Reparo)</div>
+        </div>
+
+        <div class="section-subtitle">Os Desafios da Confiança</div>
+        
+        <div class="grid-2">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">🚧</span>
+                    Cap 9: Lidando com a Resistência
+                </div>
+                <div class="item">
+                    <b>O que é?</b> Um sinal de baixa confiança (baixo C, R, I ou alto S). O cliente não se sente compreendido.
+                </div>
+                <div class="item">
+                    <span class="item-label">O Erro:</span>
+                    Atacar com lógica ou argumentar (isso é "S" alto).
+                </div>
+                <div class="item">
+                    <span class="item-label">A Solução:</span>
+                    Volte a "Ouvir". Use empatia (rotulagem, espelhamento) para diagnosticar a <b>causa raiz</b> da resistência.
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">⏱️</span>
+                    Cap 10: O "Imposto do Tempo"
+                </div>
+                <div class="item">
+                    <b>O que é?</b> O custo de focar no <b>curto prazo</b> (fechar a venda). É uma armadilha do "S" (Ego) alto.
+                </div>
+                <div class="item">
+                    <span class="item-label">O Erro:</span>
+                    Pressionar, apressar o diagnóstico, focar na transação.
+                </div>
+                <div class="item">
+                    <span class="item-label">A Solução:</span>
+                    Tenha paciência. Invista tempo no relacionamento (C, R, I), mesmo que signifique "perder" a venda hoje.
+                </div>
+            </div>
+        </div>
+
+        <div class="section-subtitle">As Ferramentas de Ação</div>
+        
+        <div class="grid-2">
+            <div class="section section-3">
+                <div class="section-title">
+                    <span class="section-emoji">🎯</span>
+                    Cap 11: A Arte de Enquadrar
+                </div>
+                <div class="item">
+                    <b>O que é?</b> A ponte entre "Ouvir" e a "Solução". É a sua chance de provar que ouviu.
+                </div>
+                <div class="item">
+                    <span class="item-label">A Ação:</span>
+                    Resumir o problema (fatos + emoções) e redefini-lo em termos que o cliente concorde.
+                </div>
+                <div class="item">
+                    <span class="item-label">O Objetivo:</span>
+                    Ouvir o cliente dizer: <b>"Isso Mesmo!"</b>. Isso valida que você achou a causa raiz, não o sintoma.
+                </div>
+            </div>
+            
+            <div class="section section-4">
+                <div class="section-title">
+                    <span class="section-emoji">🩹</span>
+                    Cap 12: O Processo de Reparo
+                </div>
+                <div class="item">
+                    <b>O que é?</b> A confiança VAI quebrar. O que você faz *depois* é o que importa.
+                </div>
+                <div class="item">
+                    <span class="item-label">O Erro:</span>
+                    Minimizar o problema, culpar os outros, focar na solução sem validar a emoção.
+                </div>
+                <div class="item">
+                    <span class="item-label">A Solução (4 Passos):</span>
+                    1. Admissão (Eu errei) <br>
+                    2. Desculpas (Sinto muito pelo impacto) <br>
+                    3. Reparação (Vou consertar) <br>
+                    4. Foco no Futuro (Não vai se repetir)
+                </div>
+            </div>
+        </div>
+        
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                A Grande Ideia (Caps 9-12)
+            </div>
+            <div class="insight-text">
+                A confiança é testada na <span class="highlight">resistência</span> (Cap 9) e na <span class="highlight">pressão do tempo</span> (Cap 10). A causa de ambos é quase sempre o <span class="highlight">"S" (Ego)</span> muito alto.
+                <br><br>
+                Sua melhor ferramenta de diagnóstico é o <span class="highlight">Enquadramento</span> (Cap 11), para provar que você ouviu antes de agir.
+                <br><br>
+                E quando você inevitavelmente falhar, use o <span class="highlight">Reparo</span> (Cap 12) com honestidade e empatia para reconstruir a confiança, muitas vezes mais forte do que antes.
+            </div>
+        </div>
+    </div>
+</body>
+</html>

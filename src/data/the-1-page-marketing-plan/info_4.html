@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote Cap 13-16 - Plano de Marketing de 1 Página</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #2e7d32; /* Green */
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: #2e7d32; /* Green */
+            color: #fff;
+            padding: 12px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .title {
+            font-size: 56px;
+            font-weight: bold;
+            color: #1b5e20; /* Dark Green */
+            font-family: 'Caveat', cursive;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        
+        .subtitle {
+            font-size: 26px;
+            color: #2e7d32; /* Green */
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUT */
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .section-1 { border-left-color: #1976d2; } /* Blue */
+        .section-2 { border-left-color: #c2185b; } /* Pink */
+        
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-1 .section-title { color: #1976d2; }
+        .section-2 .section-title { color: #c2185b; }
+        
+        .section-emoji {
+            font-size: 36px;
+        }
+        
+        .item {
+            font-size: 16px;
+            line-height: 1.7;
+            color: #555;
+            margin-bottom: 15px;
+        }
+
+        .item:last-child {
+            margin-bottom: 0;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        /* REACTIONS SECTION (Adapted for Good vs. Bad) */
+        .reactions {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .reaction-box {
+            background: #fff;
+            border: 3px dashed;
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        
+        .reaction-violence { /* BAD */
+            border-color: #ff4444;
+            background: rgba(255, 68, 68, 0.05);
+        }
+        
+        .reaction-silence { /* GOOD */
+            border-color: #00796b;
+            background: rgba(0, 121, 107, 0.05);
+        }
+        
+        .reaction-emoji {
+            font-size: 60px;
+            margin-bottom: 15px;
+        }
+        
+        .reaction-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .reaction-violence .reaction-title { color: #ff4444; }
+        .reaction-silence .reaction-title { color: #00796b; }
+        
+        .reaction-desc {
+            font-size: 15px;
+            color: #666;
+            line-height: 1.6;
+        }
+        
+        .x-mark {
+            font-size: 32px;
+            margin-bottom: 8px;
+        }
+        
+        .section-subtitle {
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 20px;
+            margin-top: 40px;
+        }
+        
+        /* SOLUTION BOX (Automation) */
+        .solution {
+            background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%); /* Light purple */
+            border: 4px solid #7b1fa2; /* Dark purple */
+            padding: 40px;
+            border-radius: 12px;
+            text-align: center;
+            margin: 40px 0;
+        }
+        
+        .solution-title {
+            font-size: 32px;
+            color: #4a148c; /* Darker purple */
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .solution-emoji {
+            font-size: 70px;
+            margin: 15px 0;
+        }
+        
+        .solution-text {
+            font-size: 20px;
+            color: #4a148c;
+            font-weight: bold;
+        }
+        
+        .solution-sub {
+            font-size: 16px;
+            color: #7b1fa2;
+            margin-top: 15px;
+            font-style: italic;
+        }
+        
+        /* INSIGHT BOX (Metrics) */
+        .insight {
+            background: #fff3e0; /* Light orange */
+            border-left: 6px solid #f57c00; /* Orange */
+            padding: 35px;
+            border-radius: 10px;
+            margin-top: 40px;
+        }
+        
+        .insight-title {
+            font-size: 26px;
+            color: #f57c00;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .insight-text {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #555;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #bf360c; /* Dark Orange */
+            background: rgba(245, 124, 0, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 20px;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-3, .grid-2, .reactions {
+                grid-template-columns: 1fr;
+            }
+            
+            .title {
+                font-size: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 13-16</div>
+            <div class="title">⚙️ O Motor do Lucro Real</div>
+            <div class="subtitle">A Fase "DEPOIS" completa e o que a faz funcionar</div>
+        </div>
+        
+        <div class="section-subtitle">🤑 As Duas Últimas Caixas do Lucro (Cap 13-14)</div>
+        <div class="grid-2">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">🔄</span>
+                    Frequência: Não Seja Esquecido!
+                </div>
+                <div class="item">
+                    <span class="item-label">Ruim:</span> Só enviar e-mail quando quer vender. (O cliente esquece de você).
+                </div>
+                <div class="item">
+                    <span class="item-label">Bom:</span> Comunicação contínua com VALOR (dicas, tutoriais) + ofertas relevantes.
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">📣</span>
+                    Referência: Peça Ativamente!
+                </div>
+                 <div class="item">
+                    <span class="item-label">Ruim:</span> Esperar o cliente indicar por conta própria. (Isso não acontece).
+                </div>
+                <div class="item">
+                    <span class="item-label">Bom:</span> Criar um sistema "Ganha-Ganha" (recompensa para quem indica E para o indicado).
+                </div>
+            </div>
+        </div>
+
+        <div class="solution">
+            <div class="solution-title">🤖 A Orquestração (Cap 15)</div>
+            <div class="solution-emoji">⚙️</div>
+            <div class="solution-text">O VENDEDOR QUE TRABALHA 24/7</div>
+            <div class="solution-sub">Se você faz algo manualmente mais de duas vezes, AUTOMATIZE. <br> Use um CRM para automatizar a nutrição, os upsells e os pedidos de referência.</div>
+        </div>
+        
+        <div class="insight">
+            <div class="insight-title">
+                <span>📊</span>
+                A Bússola (Cap 16): O Jogo dos Números
+            </div>
+            <div class="insight-text">
+                Marketing de Resposta Direta é MATEMÁTICA, não arte.
+                <br><br>
+                Esqueça "likes" e "seguidores" (métricas de vaidade).
+                <br><br>
+                A única regra que importa é:
+                <br>
+                <span class="highlight">LTV > CAC</span>
+                <br>
+                (O Valor Vitalício do Cliente DEVE ser maior que o Custo de Aquisição).
+            </div>
+        </div>
+        
+    </div>
+</body>
+</html>

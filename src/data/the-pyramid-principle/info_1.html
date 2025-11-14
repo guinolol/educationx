@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote Capítulos 1-4 - Pirâmide de Minto</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #ff6b6b;
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: #ff6b6b;
+            color: #fff;
+            padding: 12px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .title {
+            font-size: 56px;
+            font-weight: bold;
+            color: #d32f2f;
+            font-family: 'Caveat', cursive;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        
+        .subtitle {
+            font-size: 26px;
+            color: #ff6b6b;
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUTS */
+        .grid-4 {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }
+        
+        .section-1 { border-left-color: #1976d2; }
+        .section-2 { border-left-color: #f57c00; }
+        .section-3 { border-left-color: #c2185b; }
+        .section-4 { border-left-color: #00796b; }
+        
+        .section-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-1 .section-title { color: #1976d2; }
+        .section-2 .section-title { color: #f57c00; }
+        .section-3 .section-title { color: #c2185b; }
+        .section-4 .section-title { color: #00796b; }
+        
+        .section-emoji {
+            font-size: 32px;
+        }
+        
+        .item {
+            font-size: 15px;
+            line-height: 1.6;
+            color: #555;
+            margin-bottom: 12px;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        /* CHAPTER DIVIDER */
+        .chapter-divider {
+            background: linear-gradient(90deg, #ff6b6b 0%, #ffa726 100%);
+            height: 3px;
+            margin: 50px 0;
+            border-radius: 2px;
+        }
+        
+        .chapter-header {
+            font-size: 32px;
+            font-weight: bold;
+            color: #d32f2f;
+            margin-bottom: 30px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        /* PYRAMID VISUAL */
+        .pyramid {
+            background: linear-gradient(180deg, #fff3e0 0%, #ffe0b2 100%);
+            border: 3px solid #f57c00;
+            border-radius: 8px;
+            padding: 30px;
+            margin-bottom: 40px;
+            text-align: center;
+        }
+        
+        .pyramid-level {
+            font-size: 18px;
+            font-weight: bold;
+            margin: 15px 0;
+            padding: 15px;
+            background: rgba(255, 255, 255, 0.7);
+            border-radius: 6px;
+        }
+        
+        .pyramid-top {
+            background: #ffeb3b !important;
+            font-size: 20px;
+            color: #f57c00;
+        }
+        
+        /* SCQ FLOW */
+        .scq-flow {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            margin-bottom: 40px;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        
+        .scq-step {
+            background: #fff;
+            border: 3px solid;
+            padding: 25px;
+            border-radius: 10px;
+            text-align: center;
+            flex: 1;
+            min-width: 150px;
+        }
+        
+        .scq-s { border-color: #00796b; }
+        .scq-c { border-color: #d32f2f; }
+        .scq-q { border-color: #1976d2; }
+        
+        .scq-icon {
+            font-size: 48px;
+            margin-bottom: 10px;
+        }
+        
+        .scq-label {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+        
+        .scq-s .scq-label { color: #00796b; }
+        .scq-c .scq-label { color: #d32f2f; }
+        .scq-q .scq-label { color: #1976d2; }
+        
+        .scq-desc {
+            font-size: 14px;
+            color: #666;
+        }
+        
+        .scq-arrow {
+            font-size: 36px;
+            color: #ff6b6b;
+            margin: 0 10px;
+        }
+        
+        /* MECE BOX */
+        .mece-box {
+            background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
+            border: 4px dashed #7b1fa2;
+            padding: 40px;
+            border-radius: 12px;
+            margin-bottom: 40px;
+            text-align: center;
+        }
+        
+        .mece-title {
+            font-size: 28px;
+            color: #7b1fa2;
+            font-weight: bold;
+            margin-bottom: 20px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .mece-split {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-top: 25px;
+        }
+        
+        .mece-part {
+            background: #fff;
+            padding: 25px;
+            border-radius: 8px;
+            border: 3px solid #7b1fa2;
+        }
+        
+        .mece-part-title {
+            font-size: 20px;
+            font-weight: bold;
+            color: #7b1fa2;
+            margin-bottom: 15px;
+        }
+        
+        .mece-emoji {
+            font-size: 40px;
+            margin-bottom: 10px;
+        }
+        
+        /* RELATIONS */
+        .relations-box {
+            background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+            border: 4px solid #2e7d32;
+            padding: 40px;
+            border-radius: 12px;
+            margin-bottom: 40px;
+        }
+        
+        .relations-title {
+            font-size: 28px;
+            color: #1b5e20;
+            font-weight: bold;
+            margin-bottom: 25px;
+            font-family: 'Caveat', cursive;
+            text-align: center;
+        }
+        
+        .relations-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+        }
+        
+        .relation-type {
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            border-left: 6px solid;
+        }
+        
+        .relation-deductive {
+            border-left-color: #1976d2;
+        }
+        
+        .relation-inductive {
+            border-left-color: #f57c00;
+        }
+        
+        .relation-type-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .relation-deductive .relation-type-title { color: #1976d2; }
+        .relation-inductive .relation-type-title { color: #f57c00; }
+        
+        .relation-emoji {
+            font-size: 32px;
+        }
+        
+        /* KEY INSIGHT */
+        .insight {
+            background: #fff3e0;
+            border-left: 6px solid #ff6b6b;
+            padding: 35px;
+            border-radius: 10px;
+            margin-bottom: 40px;
+        }
+        
+        .insight-title {
+            font-size: 26px;
+            color: #ff6b6b;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .insight-text {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #555;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #ff6b6b;
+            background: rgba(255, 107, 107, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-4, .grid-2, .grid-3, .mece-split, .relations-grid, .scq-flow {
+                grid-template-columns: 1fr;
+                flex-direction: column;
+            }
+            
+            .title {
+                font-size: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- TITLE -->
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 1️⃣-4️⃣</div>
+            <div class="title">📚 Fundamentos da Pirâmide de Minto</div>
+            <div class="subtitle">(A estrutura que revoluciona a comunicação clara)</div>
+        </div>
+        
+        <!-- CAP 1 -->
+        <div class="chapter-divider"></div>
+        <div class="chapter-header">📍 Capítulo 1: A Lógica da Pirâmide - Resposta Primeiro</div>
+        
+        <div class="pyramid">
+            <div class="pyramid-level pyramid-top">🎯 RESPOSTA (Topo)</div>
+            <div class="pyramid-level">↓ Argumentos de Suporte (3-7 pontos)</div>
+            <div class="pyramid-level">↓ Dados e Detalhes Específicos</div>
+        </div>
+        
+        <div class="grid-3">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">⚡</span>
+                    A Regra de Ouro
+                </div>
+                <div class="item">
+                    <span class="item-label">Comece pelo topo!</span> A ideia principal deve vir primeiro, antes dos detalhes.
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">🧠</span>
+                    Por Quê Funciona
+                </div>
+                <div class="item">
+                    <span class="item-label">A memória funciona assim:</span> Processamos melhor quando sabemos para onde vamos.
+                </div>
+            </div>
+            
+            <div class="section section-3">
+                <div class="section-title">
+                    <span class="section-emoji">⚠️</span>
+                    O Risco
+                </div>
+                <div class="item">
+                    <span class="item-label">Abordagem tradicional:</span> O leitor se perde nos dados e nunca chega à conclusão.
+                </div>
+            </div>
+        </div>
+        
+        <div class="insight">
+            <div class="insight-title">
+                <span>💡</span>
+                Pense em uma Pirâmide
+            </div>
+            <div class="insight-text">
+                O topo é a sua ideia. Tudo abaixo a sustenta. Se você começar pelos tijolos de baixo, cai tudo. <span class="highlight">Clareza instantânea = Resposta Primeiro.</span>
+            </div>
+        </div>
+        
+        <!-- CAP 2 -->
+        <div class="chapter-divider"></div>
+        <div class="chapter-header">📍 Capítulo 2: A Introdução - O Fluxo SCQ</div>
+        
+        <div class="scq-flow">
+            <div class="scq-step scq-s">
+                <div class="scq-icon">📍</div>
+                <div class="scq-label">S: Situação</div>
+                <div class="scq-desc">O cenário normal, o que já existe</div>
+            </div>
+            
+            <div class="scq-arrow">→</div>
+            
+            <div class="scq-step scq-c">
+                <div class="scq-icon">⚡</div>
+                <div class="scq-label">C: Complicação</div>
+                <div class="scq-desc">O evento que quebra a normalidade</div>
+            </div>
+            
+            <div class="scq-arrow">→</div>
+            
+            <div class="scq-step scq-q">
+                <div class="scq-icon">❓</div>
+                <div class="scq-label">Q: Pergunta</div>
+                <div class="scq-desc">O que fazer agora?</div>
+            </div>
+        </div>
+        
+        <div class="grid-3">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">📍</span>
+                    Situação
+                </div>
+                <div class="item">
+                    Comece com algo neutro e indiscutível que o leitor já aceita. <span class="item-label">Terreno comum.</span>
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">⚡</span>
+                    Complicação
+                </div>
+                <div class="item">
+                    O "porém" que muda tudo! <span class="item-label">Cria tensão e relevância.</span> O motor do seu texto.
+                </div>
+            </div>
+            
+            <div class="section section-3">
+                <div class="section-title">
+                    <span class="section-emoji">❓</span>
+                    Pergunta
+                </div>
+                <div class="item">
+                    <span class="item-label">O elo com a Resposta.</span> Sua resposta resolve exatamente isso.
+                </div>
+            </div>
+        </div>
+        
+        <div class="insight">
+            <div class="insight-title">
+                <span>🎬</span>
+                Pense em uma História
+            </div>
+            <div class="insight-text">
+                S→C→Q é como um drama: cenário normal → algo quebra → qual é a questão agora? Depois vem sua <span class="highlight">Resposta no topo da Pirâmide.</span>
+            </div>
+        </div>
+        
+        <!-- CAP 3 -->
+        <div class="chapter-divider"></div>
+        <div class="chapter-header">📍 Capítulo 3: A Regra MECE - Mutuamente Exclusivo, Coletivamente Exaustivo</div>
+        
+        <div class="mece-box">
+            <div class="mece-title">🔑 MECE = O Padrão Ouro para Agrupar Ideias</div>
+            
+            <div class="mece-split">
+                <div class="mece-part">
+                    <div class="mece-emoji">🎲</div>
+                    <div class="mece-part-title">Mutuamente Exclusivo (ME)</div>
+                    <div class="item">
+                        <span class="item-label">Sem sobreposição.</span> Cada argumento é distinto e não invade o outro. Como fatias de bolo — separadas, claras.
+                    </div>
+                </div>
+                
+                <div class="mece-part">
+                    <div class="mece-emoji">🧩</div>
+                    <div class="mece-part-title">Coletivamente Exaustivo (CE)</div>
+                    <div class="item">
+                        <span class="item-label">Cobertura total.</span> Juntos, cobrem tudo. Todas as fatias formam o bolo inteiro, nada fica fora.
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="grid-2">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">❌</span>
+                    Ruim (Não MECE)
+                </div>
+                <div class="item">
+                    "Aumentar vendas, melhorar marketing, treinar equipe"
+                    <br><br>
+                    <span class="item-label">⚠️ Problema:</span> Marketing e Vendas se sobrepõem!
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">✅</span>
+                    Bom (MECE)
+                </div>
+                <div class="item">
+                    "Estratégia de Produto, Estratégia de Mercado, Estratégia de Operações"
+                    <br><br>
+                    <span class="item-label">✨ Correto:</span> Distintos e completos!
+                </div>
+            </div>
+        </div>
+        
+        <div class="insight">
+            <div class="insight-title">
+                <span>🍰</span>
+                Pense em um Bolo
+            </div>
+            <div class="insight-text">
+                <span class="highlight">ME</span> = cada fatia é separada | <span class="highlight">CE</span> = as fatias formam o bolo inteiro. Seus argumentos devem ser assim: claros, distintos e completos.
+            </div>
+        </div>
+        
+        <!-- CAP 4 -->
+        <div class="chapter-divider"></div>
+        <div class="chapter-header">📍 Capítulo 4: Relações Horizontais - Dedução vs. Indução</div>
+        
+        <div class="relations-box">
+            <div class="relations-title">⚙️ Como as Ideias no Mesmo Nível se Conectam</div>
+            
+            <div class="relations-grid">
+                <div class="relation-type relation-deductive">
+                    <div class="relation-type-title">
+                        <span class="relation-emoji">⛓️</span>
+                        Dedução
+                    </div>
+                    <div class="item">
+                        <span class="item-label">Tipo:</span> Silogismo - uma cadeia lógica.
+                    </div>
+                    <div class="item">
+                        <span class="item-label">Fórmula:</span> Premissa 1 + Premissa 2 = Conclusão
+                    </div>
+                    <div class="item">
+                        <span class="item-label">Benefício:</span> Muito persuasivo — a conclusão é inevitável se as premissas são aceitas.
+                    </div>
+                    <div class="item">
+                        <span class="item-label">Força:</span> Rigor lógico máximo.
+                    </div>
+                </div>
+                
+                <div class="relation-type relation-inductive">
+                    <div class="relation-type-title">
+                        <span class="relation-emoji">📋</span>
+                        Indução
+                    </div>
+                    <div class="item">
+                        <span class="item-label">Tipo:</span> Agrupamento de fatos semelhantes.
+                    </div>
+                    <div class="item">
+                        <span class="item-label">Fórmula:</span> Fato A + Fato B + Fato C = Conclusão
+                    </div>
+                    <div class="item">
+                        <span class="item-label">Benefício:</span> Mais fácil de ler e memorizar — agrupa ideias semelhantes.
+                    </div>
+                    <div class="item">
+                        <span class="item-label">Força:</span> Mais comum em negócios.
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="grid-2">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">⚠️</span>
+                    Cuidado!
+                </div>
+                <div class="item">
+                    Não misture dedução e indução no mesmo grupo. Quebra a lógica!
+                </div>
+                <div class="item" style="margin-top: 15px;">
+                    A relação horizontal deve ser <span class="item-label">consistente</span>.
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">💪</span>
+                    Qual Usar?
+                </div>
+                <div class="item">
+                    <span class="item-label">Dedução:</span> Quando a lógica é crucial.
+                </div>
+                <div class="item">
+                    <span class="item-label">Indução:</span> Quando você lista razões, problemas ou soluções.
+                </div>
+            </div>
+        </div>
+        
+        <!-- FINAL INSIGHT -->
+        <div class="chapter-divider"></div>
+        <div class="insight" style="margin-top: 50px;">
+            <div class="insight-title">
+                <span>🏆</span>
+                Os 4 Pilares da Pirâmide de Minto
+            </div>
+            <div class="insight-text">
+                <span class="highlight">1. Resposta Primeiro</span> — O topo sempre primeiro.<br>
+                <span class="highlight">2. Fluxo SCQ</span> — Situação → Complicação → Pergunta na Introdução.<br>
+                <span class="highlight">3. MECE</span> — Argumentos distintos (ME) e completos (CE).<br>
+                <span class="highlight">4. Relações Claras</span> — Dedução ou Indução, mas nunca misturadas.<br><br>
+                
+                <strong style="color: #ff6b6b;">Dominar esses 4 elementos = Comunicação irresistivelmente clara.</strong>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

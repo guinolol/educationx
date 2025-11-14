@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote Caps 5-8: Consultor de Milhões</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #2e7d32; /* New Theme Color */
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: #2e7d32; /* New Theme Color */
+            color: #fff;
+            padding: 12px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .title {
+            font-size: 56px;
+            font-weight: bold;
+            color: #1b5e20; /* New Theme Color */
+            font-family: 'Caveat', cursive;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        
+        .subtitle {
+            font-size: 26px;
+            color: #2e7d32; /* New Theme Color */
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUT */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .section-1 { border-left-color: #1976d2; }
+        .section-2 { border-left-color: #f57c00; }
+        .section-3 { border-left-color: #c2185b; }
+        .section-4 { border-left-color: #2e7d32; }
+        
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-1 .section-title { color: #1976d2; }
+        .section-2 .section-title { color: #f57c00; }
+        .section-3 .section-title { color: #c2185b; }
+        .section-4 .section-title { color: #2e7d32; }
+        
+        .section-emoji {
+            font-size: 36px;
+        }
+        
+        .item {
+            font-size: 16px;
+            line-height: 1.7;
+            color: #555;
+            margin-bottom: 10px;
+        }
+        
+        .item:last-child {
+            margin-bottom: 0;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        /* REACTIONS SECTION */
+        .reactions {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .reaction-box {
+            background: #fff;
+            border: 3px dashed;
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        
+        .reaction-violence {
+            border-color: #ff4444;
+            background: rgba(255, 68, 68, 0.05);
+        }
+        
+        .reaction-silence {
+            border-color: #00796b;
+            background: rgba(0, 121, 107, 0.05);
+        }
+        
+        .reaction-emoji {
+            font-size: 60px;
+            margin-bottom: 15px;
+        }
+        
+        .reaction-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .reaction-violence .reaction-title { color: #ff4444; }
+        .reaction-silence .reaction-title { color: #00796b; }
+        
+        .reaction-desc {
+            font-size: 15px;
+            color: #666;
+            line-height: 1.6;
+        }
+        
+        .x-mark {
+            font-size: 32px;
+            margin-bottom: 8px;
+        }
+        
+        .section-subtitle {
+            font-size: 20px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        
+        /* SOLUTION BOX */
+        .solution {
+            background: linear-gradient(135deg, #c8e6c9 0%, #a5d6a7 100%); /* New Theme Color */
+            border: 4px solid #2e7d32; /* New Theme Color */
+            padding: 40px;
+            border-radius: 12px;
+            text-align: center;
+            margin: 40px 0;
+        }
+        
+        .solution-title {
+            font-size: 32px;
+            color: #1b5e20; /* New Theme Color */
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .solution-emoji {
+            font-size: 70px;
+            margin: 15px 0;
+        }
+        
+        .solution-text {
+            font-size: 20px;
+            color: #1b5e20; /* New Theme Color */
+            font-weight: bold;
+        }
+        
+        .solution-sub {
+            font-size: 16px;
+            color: #2e7d32; /* New Theme Color */
+            margin-top: 15px;
+            font-style: italic;
+        }
+        
+        /* INSIGHT BOX */
+        .insight {
+            background: #f3e5f5;
+            border-left: 6px solid #7b1fa2;
+            padding: 35px;
+            border-radius: 10px;
+        }
+        
+        .insight-title {
+            font-size: 26px;
+            color: #7b1fa2;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .insight-text {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #555;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #7b1fa2;
+            background: rgba(123, 31, 162, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-2, .reactions {
+                grid-template-columns: 1fr;
+            }
+            
+            .title {
+                font-size: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 5-8</div>
+            <div class="title">💰 Do VBF ao Relacionamento</div>
+            <div class="subtitle">(Como Cobrar, Entregar e Repetir o Valor)</div>
+        </div>
+        
+        <div class="grid-2">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">💰</span>
+                    Cap 5: O Value-Based Fee (VBF)
+                </div>
+                <div class="item">
+                    <span class="item-label">O Que é:</span> Desvincular sua <span style="font-weight:bold; color: #1976d2;">receita</span> do seu <span style="font-weight:bold; color: #1976d2;">tempo</span>.
+                </div>
+                 <div class="item">
+                    <span class="item-label">Fórmula:</span> Seu preço é uma <span style="font-weight:bold;">fração do ROI</span> (ex: 10% do valor gerado).
+                </div>
+                <div class="item">
+                    <span class="item-label">Objeção:</span> "E sua taxa diária?"
+                </div>
+                <div class="item">
+                    <span class="item-label">Resposta:</span> "Eu não cobro por tempo, mas por <span style="font-weight:bold;">impacto no resultado</span>."
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">📄</span>
+                    Cap 6: A Proposta e Contrato
+                </div>
+                <div class="item">
+                    <span class="item-label">Tamanho:</span> Curta (1-3 páginas). <span style="font-weight:bold; color: #f57c00;">Não é um livro</span> sobre você.
+                </div>
+                 <div class="item">
+                    <span class="item-label">Foco:</span> O Problema (dor), o Resultado (valor) e o Escopo Fixo.
+                </div>
+                <div class="item">
+                    <span class="item-label">O 'Como':</span> A metodologia é <span style="font-weight:bold;">irrelevante</span>. O cliente compra o 'O Quê'.
+                </div>
+                <div class="item">
+                    <span class="item-label">Teste:</span> Peça <span style="font-weight:bold;">pagamento antecipado</span> (50%) para testar o compromisso.
+                </div>
+            </div>
+            
+            <div class="section section-3">
+                <div class="section-title">
+                    <span class="section-emoji">🚀</span>
+                    Cap 7: A Execução
+                </div>
+                <div class="item">
+                    <span class="item-label">Prioridade:</span> "Quick Wins" (Vitórias Rápidas) para <span style="font-weight:bold; color: #c2185b;">construir momentum</span> e confiança.
+                </div>
+                 <div class="item">
+                    <span class="item-label">Comunicação:</span> Reporte o <span style="font-weight:bold;">ROI</span> ("Economizamos R$ X"), não atividades ("Trabalhei 10h").
+                </div>
+                <div class="item">
+                    <span class="item-label">"Scope Creep":</span> É uma <span style="font-weight:bold;">NOVA VENDA</span>, não trabalho de graça.
+                </div>
+                <div class="item">
+                    <span class="item-label">Posição:</span> Seja um <span style="font-weight:bold;">Parceiro</span> (que desafia), não um Empregado (que obedece).
+                </div>
+            </div>
+            
+            <div class="section section-4">
+                <div class="section-title">
+                    <span class="section-emoji">🔄</span>
+                    Cap 8: A Venda Contínua
+                </div>
+                <div class="item">
+                    <span class="item-label">Fonte de Renda:</span> A mais lucrativa é <span style="font-weight:bold; color: #2e7d32;">expandir</span> em clientes existentes (custo de venda = zero).
+                </div>
+                 <div class="item">
+                    <span class="item-label">Ojetivo:</span> Ser o "Trusted Advisor" (Conselheiro de Confiança).
+                </div>
+                <div class="item">
+                    <span class="item-label">Ação:</span> Seja <span style="font-weight:bold;">proativo</span>. Procure o próximo problema de R$ 1 milhão.
+                </div>
+                <div class="item">
+                    <span class="item-label">Tática:</span> "Generosidade" (insights extras) fortalece o relacionamento.
+                </div>
+            </div>
+        </div>
+        
+        <div class="section-subtitle">😤 O Modelo Falho (O que EVITAR):</div>
+        <div class="reactions">
+            <div class="reaction-box reaction-violence">
+                <div class="x-mark">❌</div>
+                <div class="reaction-emoji">🔗</div>
+                <div class="reaction-title">O ESCRAVO DO ESCOPO</div>
+                <div class="reaction-desc">Aceita "scope creep" de graça.<br>Foca em atividades, não em ROI.<br>Tem medo de pedir um novo VBF.</div>
+            </div>
+            <div class="reaction-box reaction-silence">
+                <div class="x-mark">❌</div>
+                <div class="reaction-emoji">👋</div>
+                <div class="reaction-title">O 'ONE-HIT WONDER'</div>
+                <div class="reaction-desc">Termina o projeto e desaparece.<br>Não faz follow-up.<br>Tem que caçar novos clientes do zero (caro!).</div>
+            </div>
+        </div>
+        
+        <div class="solution">
+            <div class="solution-title">✅ O CICLO DO TRUSTED ADVISOR</div>
+            <div class="solution-emoji">🔄</div>
+            <div class="solution-text">PARCERIA DE LONGO PRAZO</div>
+            <div class="solution-sub">Entregue o 1º ROI ➡️ Construa Confiança ➡️ Procure o 2º Problema ➡️ Repita</div>
+        </div>
+        
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                A Verdadeira Alavancagem
+            </div>
+            <div class="insight-text">
+                O <span class="highlight">VBF</span> te paga pelo *primeiro* projeto.
+                <br><br>
+                A <span class="highlight">Venda Contínua</span> (baseada na confiança e no ROI entregue) é o que constrói o império.
+                <br><br>
+                <span class="highlight">Seu maior ativo não é sua metodologia; é a confiança do seu cliente.</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

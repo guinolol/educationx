@@ -1,0 +1,1897 @@
+[
+  {
+    "simulationId": 1,
+    "title": "💰 Simulação: O Pitch do Milhão (Princípio da Pirâmide)",
+    "introduction": "Você é um consultor estratégico encarregado de apresentar uma proposta crucial de reestruturação de 1 milhão de reais para a Diretoria, que tem apenas 10 minutos para você. A clareza e a lógica são tudo. Um erro na estrutura e o negócio se perde. Aplique os princípios da Pirâmide de Minto: Comece com a Resposta, use o SCQ para o contexto e garanta que sua estrutura seja MECE e logicamente coesa. Prepare-se para tomar 12 decisões críticas que definirão o sucesso do seu pitch.",
+    "challenges": [
+      {
+        "step": 1,
+        "testedLesson": "A Introdução: O Fluxo SCQ (Situação, Complicação, Pergunta)",
+        "narrative": "Você tem 1 minuto para introduzir seu tópico. Você sabe que a *Introdução* é a única parte que não começa com a Resposta, mas sim com o fluxo **SCQ** para contextualizar. Você começa com uma informação básica que todos aceitam, a Situação: 'Nosso crescimento tem sido estável em 5% ao ano por 5 anos.' Agora, você precisa apresentar a **Complicação**. Qual é a melhor forma de criar a tensão que justifique sua Resposta de $1M?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você diz: 'No entanto, o principal concorrente lançou uma nova tecnologia disruptiva, e nossos dados mostram uma potencial perda de 30% da nossa base em 18 meses.'",
+            "feedback": "✅ Perfeito. A Complicação deve ser o evento *disruptivo* que quebra a normalidade da Situação. Isso cria uma necessidade urgente (a Pergunta) que sua Resposta resolve. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'E é por isso que devemos investir 1 milhão de reais. Nosso plano é revolucionário.'",
+            "feedback": "⚠️ Você pulou a Complicação e a Pergunta, indo diretamente para a Resposta e o custo. O público não entende *por que* o dinheiro é necessário. Você perdeu o 'gancho' do SCQ. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'Eu analisei mais de 500 páginas de relatórios. Aqui estão 10 dados brutos de mercado que comprovam a tendência.'",
+            "feedback": "❌ Você começou a enterrar o público em *detalhes* e *dados brutos* (o fundo da pirâmide) na Introdução. Você está sobrecarregando a memória e perdeu o foco. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "d",
+            "label": "Você diz: 'O concorrente lançou a tecnologia. Portanto, a pergunta é: Como devemos reagir?'",
+            "feedback": "⚠️ Quase lá. Você tem a Complicação e a Pergunta, mas a Complicação poderia ser mais forte e específica (potencial perda de 30%). A urgência não é máxima. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "testedLesson": "A Lógica da Pirâmide: Resposta Primeiro",
+        "narrative": "Com o *SCQ* concluído ('...potencial perda de 30% da base em 18 meses. O que devemos fazer para mitigar o risco e garantir o crescimento?'), a Diretoria está tensa e atenta. Seu próximo passo, o *topo da sua Pirâmide*, deve ser a **Resposta/Conclusão** única. Qual é a melhor forma de apresentá-la para iniciar sua estrutura?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você apresenta sua Resposta: 'Minha recomendação é: **Devemos reestruturar nossas operações de vendas, produto e tecnologia para focar em nichos de alto valor, com um investimento de $1M.**'",
+            "feedback": "✅ Exatamente. Você começa com a Resposta clara e única, que responde diretamente à Pergunta (Q). O público sabe imediatamente o seu ponto principal. O topo está posicionado. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'Antes de dizer o que fazer, deixe-me explicar 3 argumentos sobre vendas, produto e tecnologia que analisamos.'",
+            "feedback": "❌ Você está usando a abordagem 'História Primeiro', que é exatamente o que a Minto desaconselha. Você está forçando o público a reter os argumentos sem o contexto da Resposta. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Você pergunta: 'Quem acha que devemos reestruturar a empresa?'",
+            "feedback": "⚠️ A Pirâmide não é uma votação. Você deve apresentar sua *conclusão* como uma afirmação a ser defendida, não uma pergunta retórica. Isso mostra hesitação. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Você apresenta sua Resposta: 'A reestruturação é o caminho, mas ela é apoiada por 7 pontos que vou listar.'",
+            "feedback": "⚠️ O Ponto Principal é claro, mas 7 pontos de suporte é demais para a memória de curto prazo (o limite é 3-7). Você está adicionando complexidade desnecessária. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "testedLesson": "A Regra MECE: Mutuamente Exclusivo, Coletivamente Exaustivo",
+        "narrative": "Sua Resposta está na mesa. Agora, você precisa do primeiro nível de suporte. O seu objetivo é decompor a Resposta (Reestruturar Vendas, Produto e Tecnologia) em 3 a 7 argumentos-chave que, juntos, sejam **MECE** (*Mutuamente Exclusivos* e *Coletivamente Exaustivos*). Qual agrupamento é o mais MECE para dar suporte à sua Resposta?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Argumentos: 'Aumentar a Receita', 'Diminuir os Custos', 'Reduzir o Risco Legal'.",
+            "feedback": "⚠️ Bom, mas 'Aumentar a Receita' e 'Diminuir os Custos' se sobrepõem em várias decisões. Além disso, 'Reduzir o Risco Legal' pode não ser exaustivo para o problema de crescimento/concorrência. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "b",
+            "label": "Argumentos: 'Tecnologia (foco na nova plataforma)', 'Processos (otimização de fluxo de trabalho)' e 'Pessoas (treinamento e contratação)'.",
+            "feedback": "✅ Excelente. As categorias 'Pessoas, Processos, Tecnologia' são clássicas e perfeitamente **MECE**. Cada uma é distinta (ME) e, juntas, cobrem a totalidade da reestruturação (CE). (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Argumentos: 'Vendas', 'Marketing', 'Publicidade' e 'Estratégia'.",
+            "feedback": "❌ Não é MECE. Marketing e Publicidade se sobrepõem (Não ME), e Estratégia é muito ampla. Você perde a clareza. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "d",
+            "label": "Argumentos: 'Custos Operacionais', 'Custos de Pessoal', 'Custos de Marketing'.",
+            "feedback": "⚠️ É uma lista MECE de custos, mas não é *Coletivamente Exaustiva* para a Resposta principal de reestruturação que envolve produto e tecnologia. A análise é incompleta. (1/3 ★)",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "testedLesson": "Relações Horizontais: Dedução vs. Indução",
+        "narrative": "Você escolheu 'Pessoas, Processos, Tecnologia' como seus 3 pontos-chave. Agora, você deve apresentar o argumento 'Pessoas'. Abaixo dele, você precisa de sub-argumentos (no mesmo nível horizontal) para suportar a ideia de 'reestruturar o pessoal'. Qual seria a melhor abordagem de *Relação Horizontal* (Dedução ou Indução) e o seu formato?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Abordagem Dedutiva: 'Premissa 1: Todos os concorrentes estão investindo em I.A. Treinamento. Premissa 2: Nossa equipe não tem esse treinamento. Conclusão: Devemos investir em I.A. Treinamento.'",
+            "feedback": "✅ Ótimo. A Dedução (Silogismo) é muito persuasiva. Se a Diretoria aceitar as duas premissas, a conclusão de treinar a equipe se torna logicamente inevitável. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Abordagem Indutiva: 'Lista de Ações: Treinar a equipe de vendas, contratar 2 engenheiros, mudar o organograma.'",
+            "feedback": "⚠️ A Indução (Lista) é aceitável e coerente, mas a Dedução para um ponto crítico de mudança de pessoal teria sido mais persuasiva e logicamente rigorosa. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "c",
+            "label": "Abordagem Mista: 'Premissa 1: Treinar a equipe. Fato 2: 50% dos funcionários estão infelizes. Fato 3: Contratar 2 engenheiros.'",
+            "feedback": "❌ Você misturou Dedução (Premissa 1) e Indução (Fatos 2 e 3). A quebra na consistência lógica *horizontal* confunde o leitor e enfraquece todo o argumento. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "d",
+            "label": "Abordagem Indutiva: 'Fato 1: O custo de demissão é alto. Fato 2: A economia é instável. Fato 3: Não gostamos de demitir.'",
+            "feedback": "⚠️ Esses são fatos, mas não levam diretamente à conclusão de reestruturar o pessoal. Eles são mais tangenciais. A lista não é forte o suficiente para suportar o ponto. (1/3 ★)",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "testedLesson": "A Lógica da Pirâmide: Resposta Primeiro",
+        "narrative": "Você está apresentando o primeiro nível de suporte ('Pessoas', 'Processos', 'Tecnologia') em detalhes. Você nota que o CEO parece distraído. Ele interrompe e pergunta: 'Me desculpe, mas qual é o **seu ponto principal** com tudo isso?'. Sua resposta deve reforçar a *Regra da Pirâmide* imediatamente. O que você deve dizer?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você diz: 'Meu ponto principal está no slide 1. É a Reestruturação de Vendas, Produto e Tecnologia.'",
+            "feedback": "✅ Correto. Você rapidamente reafirma o Ponto Principal (a Resposta) que está no topo da sua Pirâmide. Isso realinha o foco do CEO e prova que você segue a regra 'Resposta Primeiro'. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'Você não estava prestando atenção? Meu ponto principal é o meu terceiro argumento, sobre Tecnologia.'",
+            "feedback": "❌ Piorou. Você não apenas culpa o CEO, mas também indica um ponto *abaixo* da estrutura como sendo o Ponto Principal. Isso destrói a lógica da Pirâmide. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'É complicado. Preciso de mais 5 minutos para explicar a análise completa para você.'",
+            "feedback": "⚠️ Você está se defendendo, não comunicando. Você sugere que o ponto principal é muito complexo, o que é o oposto do objetivo de clareza da Pirâmide. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Você diz: 'Meu ponto principal é que devemos reestruturar. É suportado por 3 pontos: Pessoas, Processos e Tecnologia.'",
+            "feedback": "⚠️ Quase perfeito. Você reafirma o Ponto Principal e o resumo do nível de suporte. A menção ao resumo é boa, mas manter o foco apenas na Resposta seria mais conciso. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "testedLesson": "A Introdução: O Fluxo SCQ (Situação, Complicação, Pergunta)",
+        "narrative": "Um dos diretores de longa data interrompe e diz: 'Eu li o seu 'Fato 1' sobre o crescimento estável, mas eu me lembro que há 2 anos tivemos um grande problema de fornecedor. Não sei se a *Situação* é tão 'estável' quanto você diz.' Você precisa defender seu uso do *SCQ*. O que você deve dizer para justificar a sua Situação?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você diz: 'Minha Situação é uma verdade histórica aceita por todos, por isso, devo segui-la. Não podemos desviar o foco.'",
+            "feedback": "⚠️ A Situação deve ser um fato aceito *pelo leitor*. É a melhor resposta, mas a sua Situação foi questionada, indicando que ela não foi bem estabelecida. Não é uma verdade universal. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'Isso é detalhe demais. Vamos focar na minha solução. O problema do fornecedor não é o foco do meu pitch.'",
+            "feedback": "❌ A Introdução (SCQ) é a base de todo o argumento. Se a base está instável (a Situação é controversa), toda a Pirâmide desmorona. Você está ignorando a lógica. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'Você está certo. Minha Situação deve ser uma afirmação que *o senhor e todos aqui* aceitam como verdadeira. Vou reformular a Situação para 'Tivemos um crescimento constante, apesar de desafios operacionais no passado'.'",
+            "feedback": "✅ O objetivo da Situação é ser o *terreno comum* aceito. Você reconhece o erro e corrige o ponto de partida, fortalecendo a base da sua Pirâmide. (3/3 ★)",
+            "score": 3
+          },
+          {
+          "value": "d",
+            "label": "Você diz: 'O que o senhor está falando é a Complicação de 2 anos atrás. Minha Complicação é a ameaça do concorrente hoje.'",
+            "feedback": "⚠️ Você está misturando Situação e Complicação. A Situação deve ser um fato aceito; o problema do fornecedor é um histórico que compromete a 'estabilidade'. Não resolve o problema da base. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "testedLesson": "A Regra MECE: Mutuamente Exclusivo, Coletivamente Exaustivo",
+        "narrative": "Você está detalhando o sub-argumento 'Processos'. Você listou três ações a serem tomadas: '1) Mapear novo fluxo de trabalho para Vendas', '2) Mapear novo fluxo de trabalho para Atendimento ao Cliente' e '3) Reduzir o tempo de *onboarding* do cliente'. O diretor de Vendas pergunta: 'A ação 1 e a 3 não se sobrepõem?' Ele questiona o **ME** do seu grupo. O que você deve dizer?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você diz: 'Estou usando a Indução para agrupar ações, por isso, a sobreposição é permitida, já que estão relacionadas.'",
+            "feedback": "❌ Errado. Não se permite sobreposição (Não ME) em nenhum agrupamento, seja por Indução ou Dedução. Isso destrói a lógica e confunde o público. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'Não. O mapeamento do fluxo (1) é o processo inteiro. O *onboarding* (3) é apenas a primeira etapa do processo de Vendas. Eles são Mutuamente Exclusivos.'",
+            "feedback": "✅ Correto. Você mostra que os pontos não se sobrepõem ao definir claramente as fronteiras de cada um. Isso reforça a lógica MECE da sua estrutura. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'É impossível ter 100% de MECE. Temos que aceitar alguma sobreposição em um plano tão grande.'",
+            "feedback": "⚠️ A perfeição é difícil, mas o objetivo da Pirâmide é forçar o pensamento claro. Reconhecer a sobreposição sem corrigi-la enfraquece a credibilidade. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Você diz: 'Sim, há uma sobreposição, mas as duas ações são *Coletivamente Exaustivas* para cobrir o problema, o que é o mais importante.'",
+            "feedback": "⚠️ Não é. Ambas as condições (ME e CE) são igualmente importantes. A sobreposição (Não ME) enfraquece a lógica do agrupamento. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 8,
+        "testedLesson": "Relações Horizontais: Dedução vs. Indução",
+        "narrative": "Você está no sub-argumento 'Tecnologia' e decide usar a Indução. Você listou 3 fatos: 'Fato 1: O custo de desenvolvimento da nova plataforma será de $500k. Fato 2: A plataforma anterior tem 5 anos. Fato 3: O concorrente oferece 2x mais recursos.' O diretor financeiro está preocupado com o Fato 1. Qual é o principal risco em usar a Indução nesse ponto?",
+        "options": [
+          {
+            "value": "a",
+            "label": "O risco é que os fatos não sejam logicamente sequenciais (erro da Dedução).",
+            "feedback": "⚠️ Você está misturando os conceitos. A Indução *não precisa* de sequência lógica (esse é o erro da Dedução). Seu risco principal está no agrupamento. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "b",
+            "label": "O risco é que o leitor não consiga ver a similaridade entre os fatos, ou que o agrupamento não seja Coletivamente Exaustivo.",
+            "feedback": "✅ Correto. O risco da Indução é que os fatos listados (embora verdadeiros) não se agrupem logicamente ou não sejam suficientes (Não CE) para apoiar o ponto principal. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "O risco é que a Resposta final seja rejeitada. O tipo de relação horizontal não importa.",
+            "feedback": "❌ Errado. A força da Resposta depende diretamente da força dos argumentos de suporte, que são definidos pelas relações horizontais. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "d",
+            "label": "O risco é que o custo ($500k) seja rejeitado. Isso é um risco de conteúdo, não de estrutura.",
+            "feedback": "⚠️ É um risco de conteúdo, mas também de estrutura: os fatos da Indução devem ser aceitos para suportar o ponto. Se o Fato 1 é controverso, o grupo enfraquece. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 9,
+        "testedLesson": "A Lógica da Pirâmide: Resposta Primeiro",
+        "narrative": "Você tem 1 minuto para resumir o 'Processos' (seu Ponto 2). Você já apresentou a Resposta e o resumo no início. Agora, o foco deve ser apenas no argumento 'Processos'. Como você deve estruturar a sua apresentação do sub-ponto 'Processos' para manter a clareza da Pirâmide?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você diz: 'O Ponto 2 é Processos. Isso inclui mapear o fluxo de Vendas, mapear o fluxo de Atendimento e reduzir o *onboarding* do cliente.'",
+            "feedback": "✅ Exato. Você usa a regra da Pirâmide no sub-ponto: 'Processos' é a sub-Resposta, e as 3 ações são o suporte. Você mantém a lógica hierárquica. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'As 3 ações de Processos são: mapear o fluxo de Vendas, mapear o fluxo de Atendimento e reduzir o *onboarding* do cliente. O resumo de tudo é Processos.'",
+            "feedback": "❌ Você inverteu a ordem de novo! Você está apresentando os detalhes primeiro e o resumo depois. Você está forçando o público a 'adivinhar' o ponto principal. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'Eu tenho 3 ações de Processos. Qual delas vocês querem que eu explique primeiro?'",
+            "feedback": "⚠️ Você está transferindo a responsabilidade da estrutura para o público. A clareza da Pirâmide exige que o autor guie a ordem lógica. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Você diz: 'O ponto mais importante sobre Processos é o *onboarding*. Deixe-me focar nele por um minuto.'",
+            "feedback": "⚠️ O Ponto Principal de um grupo deve ser o *resumo* de todas as ações (Processos), não apenas uma delas (*onboarding*). Você está quebrando a hierarquia horizontal. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 10,
+        "testedLesson": "A Introdução: O Fluxo SCQ (Situação, Complicação, Pergunta)",
+        "narrative": "Um dos diretores se vira para o CEO e pergunta: 'Por que estamos ouvindo sobre isso agora? Não deveríamos ter visto esse risco de concorrente antes?' Isso indica que ele não captou a **Complicação** (C) ou a **Pergunta** (Q) no seu *SCQ*. O que você deve dizer?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você diz: 'A Complicação é a ameaça *imediata* do novo concorrente, o que levanta a Pergunta de 'Como devemos agir agora?' Isso justifica a urgência do meu pitch.'",
+            "feedback": "✅ Excelente. Você reconecta o ouvinte com a Complicação (o evento que gera a tensão) e a Pergunta (a necessidade de uma resposta), reforçando o motivo do pitch. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'O risco do concorrente está no meu Fato 3 de Tecnologia. Ele virá depois que eu terminar meu ponto 2.'",
+            "feedback": "❌ Você está enterrando a Complicação na parte de suporte. A Complicação deve ser apresentada *na Introdução* para contextualizar o público imediatamente. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'O risco está no custo de reestruturação de 1 milhão de reais. É por isso que estamos falando disso.'",
+            "feedback": "⚠️ O custo é uma *consequência* da Resposta, não a Complicação que gerou a Pergunta. Você está confundindo o problema com a solução. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Você diz: 'O problema é que o nosso crescimento de 5% é muito pouco. Isso é o que a nossa Situação mostra.'",
+            "feedback": "⚠️ Você está confundindo a Situação (o normal) com a Complicação (o disruptivo). O crescimento estável não é a urgência. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 11,
+        "testedLesson": "A Regra MECE: Mutuamente Exclusivo, Coletivamente Exaustivo",
+        "narrative": "Você volta ao detalhe do sub-argumento 'Tecnologia'. Você optou por 3 pontos: '1) Custo da nova plataforma ($500k)', '2) Tempo de Implementação (12 meses)' e '3) Benefício (2x mais recursos)'. O diretor pergunta: 'Você deixou de fora a questão da *segurança* e da *integração de dados*. Você acredita que o grupo 'Tecnologia' é **Coletivamente Exaustivo** (CE)?'",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você diz: 'Sim, é exaustivo. Custo, Tempo e Benefício são as únicas 3 métricas que importam em um pitch.'",
+            "feedback": "❌ Não é. Em Tecnologia, segurança e integração são cruciais. Se você deixou de fora áreas-chave, seu grupo não é CE, e sua análise parece incompleta. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'Não, o senhor está certo. A segurança e a integração são vitais. O ponto 'Tecnologia' não é Coletivamente Exaustivo, e preciso adicionar esses 2 sub-pontos.'",
+            "feedback": "✅ Corretíssimo. A chave do MECE é a integridade. Você admite que deixou de fora elementos cruciais (Não CE) e fortalece a Pirâmide para cobrir todo o problema. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'Segurança é coberta pelo nosso ponto 'Pessoas'. E Integração é coberta por 'Processos'.' (Seus outros dois pontos-chave).",
+            "feedback": "⚠️ Isso levanta a suspeita de sobreposição (Não ME) entre seus pontos-chave de nível superior. Você está usando os outros pontos para 'tapar buracos'. Não é o ideal. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Você diz: 'Eu considerei, mas decidi não incluir. Não é relevante para este pitch de alto nível.'",
+            "feedback": "⚠️ Isso sugere que você fez uma escolha arbitrária, o que enfraquece a credibilidade. Embora seja uma escolha, a falta de elementos cruciais (CE) é um risco. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 12,
+        "testedLesson": "Relações Horizontais: Dedução vs. Indução",
+        "narrative": "Seu pitch está terminando. Para a conclusão, você quer dar um argumento final e impactante. Você usa a Dedução: 'Premissa 1: A reestruturação é necessária para sobreviver (ideia central). Premissa 2: O custo de não reestruturar ($10M em perda) é 10x maior do que o custo de reestruturar ($1M). Conclusão: Devemos prosseguir com a reestruturação.' O diretor sênior balança a cabeça em concordância. Qual é o ponto forte desse uso final da Dedução?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Ele força o público a reter vários fatos de uma só vez.",
+            "feedback": "❌ Errado. A Dedução (Silogismo) é uma sequência lógica de 2-3 passos, não uma lista longa de fatos. É a Indução que se concentra na retenção de múltiplos fatos. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "b",
+            "label": "Ele é mais persuasivo, pois a conclusão se torna logicamente inevitável se as premissas (especialmente a de custo) forem aceitas.",
+            "feedback": "✅ Correto. A Dedução é a relação lógica mais rigorosa. Sua força reside em tornar a conclusão inescapável uma vez que as premissas são estabelecidas. É altamente persuasivo. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Ele garante que os argumentos sejam Coletivamente Exaustivos (CE).",
+            "feedback": "⚠️ Você está misturando conceitos. O CE é o princípio da regra MECE, que se aplica a grupos. A Dedução é sobre a *relação* entre os pontos. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Ele permite que o autor misture categorias de ideias sem sobreposição (ME).",
+            "feedback": "⚠️ O ME é o princípio da regra MECE. A Dedução em si não garante MECE, apenas a coerência lógica em 2-3 passos. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "simulationId": 2,
+    "title": "🤯 Simulação: A Reunião do Caos (Espinha Dorsal da Lógica)",
+    "introduction": "Você foi convidado para uma reunião urgente com a equipe de Gestão de Crises, mas a discussão está caótica: todos falam, mas ninguém chega a uma conclusão clara. Você decide assumir o controle, aplicando em tempo real as regras da Minto. Seu objetivo é estruturar a desordem, garantindo que o pensamento seja robusto (Baixo para Cima) e que a lógica vertical (Pergunta/Resposta) e o contexto (SCQ) sejam restaurados. Prepare-se para tomar 12 decisões críticas para resgatar a clareza da reunião.",
+    "challenges": [
+      {
+        "step": 1,
+        "testedLesson": "A Estrutura da Introdução: O Ponto de Partida",
+        "narrative": "A reunião começa com o Gerente de Operações (João) reclamando: 'O problema é que o custo subiu 15% este mês!'. Ele começou com a Complicação, e as pessoas já estão defendendo suas áreas. 😩 Você precisa intervir imediatamente para estabelecer um ponto de partida inquestionável. Qual é o melhor primeiro passo, focado na **Situação** (S)?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você diz: 'João, pare. Antes de falarmos do custo (a Complicação), vamos nos alinhar no cenário normal. A *Situação* é que, historicamente, nossa Margem Bruta tem sido de 30% nos últimos 5 anos. Correto?'",
+            "feedback": "✅ Perfeito. Você interrompe o caos, muda o foco da Complicação para a **Situação** (o ponto de partida neutro e aceito). Isso estabelece o terreno comum e a credibilidade. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'O problema não é o custo, João. O problema é a falha na comunicação. Por favor, reestruture sua fala.'",
+            "feedback": "❌ Você está atacando a pessoa em vez do problema estrutural. Além disso, 'falha na comunicação' não é a Situação. Você não estabelece o terreno comum. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'O que o João disse é a Complicação. A nossa Resposta deve ser cortar custos em 10%.'",
+            "feedback": "⚠️ Você pula a Situação e a Pergunta, indo direto para a Resposta. O público ainda não está pronto para a solução, pois o problema não foi formalmente estabelecido no contexto. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Você diz: 'Vamos anotar o custo de 15%. Quem tem mais dados brutos sobre a operação? Precisamos de evidências.'",
+            "feedback": "⚠️ Você está incentivando o mergulho em dados brutos sem uma estrutura lógica para agrupá-los. Isso vai aumentar o caos, em vez de criar clareza. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "testedLesson": "A Relação Vertical: Pergunta e Resposta",
+        "narrative": "A equipe concorda que a Situação é a Margem Bruta de 30%. João repete a Complicação: 'O custo subiu 15% este mês!'. A Pergunta (Q) implícita está quase lá. Você precisa enunciar a **Pergunta de forma clara** para que a Resposta principal da equipe a resolva. Qual é a melhor pergunta para criar o elo vertical com a solução?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você pergunta: 'Portanto, a questão é: 'Como podemos reverter o aumento de 15% no custo para proteger nossa margem bruta de 30%?'",
+            "feedback": "✅ Excelente. A Pergunta é o elo direto. Ela conecta a Situação (30% de Margem) com a Complicação (15% de custo) e exige uma Resposta que inicie a Pirâmide de Soluções. A Relação Vertical está clara. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Você pergunta: 'Quem é o culpado pelo aumento de 15%?'",
+            "feedback": "❌ A Pergunta deve buscar uma *solução*, não um culpado. Isso quebra a relação vertical com uma Resposta construtiva, focando em violência/defensividade. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Você pergunta: 'Precisamos de mais detalhes sobre o aumento de 15%. Quem pode me dar 10 fatos?'",
+            "feedback": "⚠️ Você está pedindo mais detalhes (fatos) antes da Resposta, o que deve vir *depois*. A Pergunta deve ser resolvida pela Conclusão/Resposta, não por fatos. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Você pergunta: 'A Complicação é séria, mas qual é a nossa meta para o próximo mês?'",
+            "feedback": "⚠️ A Pergunta está tangencial. Embora a meta seja importante, ela não resolve a crise imediata causada pela Complicação. A relação Pergunta/Resposta é fraca. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "testedLesson": "Construindo a Pirâmide de Baixo para Cima",
+        "narrative": "A equipe de Compras apresenta 3 fatos (Dados Brutos): 'Fato A: O preço do Fornecedor X subiu 8%. Fato B: O dólar subiu 5%. Fato C: Tivemos um erro de estoque que custou 2%.' Você decide aplicar a construção **de Baixo para Cima** para formar uma Conclusão (Resumo). Qual é a melhor afirmação que resume esses 3 fatos, garantindo a lógica indutiva?",
+        "options": [
+          {
+            "value": "a",
+            "label": "O Fornecedor X é o culpado. Vamos procurar outro fornecedor.",
+            "feedback": "❌ Você pulou para uma 'solução' baseada em apenas 1 dos 3 fatos. Isso é um **Salto Lógico** (Logical Leap), que compromete a robustez da conclusão (de Baixo para Cima). (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "b",
+            "label": "Conclusão: 'O aumento de custo de 15% é resultado de 3 fatores incontroláveis (Fornecedor e Dólar) e 1 fator controlável (Estoque).'",
+            "feedback": "✅ Perfeito. Você usou os fatos (A, B, C) e os resumiu em uma única afirmação que os **encapsula** (Indução). Essa Conclusão é robusta e baseada em evidências sólidas. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Conclusão: 'Precisamos urgentemente cortar todos os custos operacionais em 20% para compensar a inflação.'",
+            "feedback": "⚠️ Você misturou a Conclusão dos fatos com uma nova *Ação* (cortar custos). A Conclusão deve ser um resumo do que aconteceu, não o que será feito. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Conclusão: 'O custo subiu 15%. O próximo passo é analisar o custo de Pessoas, Processos e Tecnologia.'",
+            "feedback": "⚠️ Você apenas repetiu a Complicação e sugeriu o próximo passo. A Conclusão não resume *o porquê* do aumento, falhando em encapsular os dados abaixo dela. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "testedLesson": "A Estrutura da Introdução: A Complicação e a Pergunta",
+        "narrative": "Um diretor recém-chegado (Diana) levanta a mão e diz: 'Eu li o relatório do João. Ele afirma que o custo subiu 15%, mas minha equipe encontrou apenas 10% de aumento. Por que estamos usando uma Complicação que não é 100% aceita?'. Sua **Complicação (C)** está sendo questionada. O que você deve fazer para manter a credibilidade do seu fluxo *SCQ*?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você diz: 'Peço desculpas. A Complicação deve ser um evento que o público **aceita como verdadeiro**. Vamos usar 10% como Complicação, já que o dado é inquestionável.'",
+            "feedback": "✅ Exatamente. A Complicação, assim como a Situação, deve ser aceita pelo leitor. Você prioriza a integridade da base do *SCQ*, reajustando o problema para manter a credibilidade. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'Não podemos mudar agora. A Complicação deve ser o pior cenário para criar urgência.'",
+            "feedback": "❌ A Complicação deve ser um *fato aceito* para ser o motor da comunicação, não uma tática para criar medo. Isso compromete a confiança. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'Os 5% de diferença são irrelevantes. Vamos focar na Pergunta: Como resolver o custo?'",
+            "feedback": "⚠️ Embora a Pergunta seja importante, rejeitar a discordância em um ponto-chave (C) enfraquece o elo vertical Complicação -> Pergunta. O público perde a fé no seu raciocínio. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Você diz: 'Vamos dividir: 10% é Complicação, e os 5% restantes são para a próxima Pirâmide.'",
+            "feedback": "⚠️ Você está complicando a estrutura para evitar a redefinição. O ideal é manter **uma Complicação e uma Pergunta** por Pirâmide. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "testedLesson": "A Relação Vertical: Pergunta e Resposta",
+        "narrative": "A Resposta (o topo da Pirâmide) é: 'Devemos reestruturar o Funil de Compras para reduzir a dependência do Dólar e do Fornecedor X'. O primeiro nível de suporte é '1) Reduzir Riscos' e '2) Melhorar Processos'. Você começa a explicar o Ponto 1: 'Reduzir Riscos'. Qual é a pergunta **implícita** que sua audiência está fazendo, e que o próximo nível de suporte deve responder?",
+        "options": [
+          {
+            "value": "a",
+            "label": "'Qual é o custo dessa reestruturação?'",
+            "feedback": "⚠️ O custo é um detalhe, não o suporte lógico. O público ainda não perguntaria sobre custos, mas sim sobre a *justificativa* do ponto. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "b",
+            "label": "'Por que isso é um risco? Como a reestruturação reduz o risco?'",
+            "feedback": "✅ Perfeito. A ideia superior ('Reduzir Riscos') levanta naturalmente a pergunta 'Por que/Como?'. O nível abaixo deve, de forma **MECE**, responder a essa questão. Isso garante a clareza da Relação Vertical. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "'Qual é o nome do Fornecedor X?'",
+            "feedback": "❌ Isso é um detalhe de dado bruto (o nível mais baixo). A Relação Vertical deve ser focada na afirmação, não nos detalhes. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "d",
+            "label": "'Quando essa redução de risco estará concluída?'",
+            "feedback": "⚠️ Embora seja uma pergunta relevante, 'Por que/Como' é o suporte lógico mais fundamental para a afirmação 'Reduzir Riscos'. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "testedLesson": "Construindo a Pirâmide de Baixo para Cima",
+        "narrative": "A equipe de Compras apresenta mais dados brutos sobre o Fornecedor X: 'Dado 1: O Fornecedor Y é 5% mais caro, mas fixado em Real. Dado 2: O Fornecedor Z não tem volume para nosso pedido. Dado 3: O Fornecedor X tem um contrato de 1 ano restante.' Você precisa subir de nível. Qual é a Conclusão Indutiva mais robusta para esses fatos, aplicando o pensamento **de Baixo para Cima**?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Conclusão: 'Embora a substituição imediata não seja viável (Devido ao Contrato e Volume), o Fornecedor Y oferece uma proteção de câmbio (Real), justificando a mudança estratégica futura.'",
+            "feedback": "✅ Exato. Você usou os 3 fatos (Baixo) para chegar a uma afirmação que **engloba** todos eles (Cima), garantindo a robustez do raciocínio Indutivo. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Conclusão: 'Fornecedores Y e Z não são adequados. Ficaremos com X.'",
+            "feedback": "❌ Você ignorou o fato de que o Fornecedor Y é fixado em Real (Dado 1), que é crucial para resolver a Complicação do Dólar. A conclusão é fraca e incompleta. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Conclusão: 'Contratos e volume são um problema. Precisamos de uma equipe de negociação mais forte.'",
+            "feedback": "⚠️ Você fez um Salto Lógico, transformando uma Conclusão (problema com fornecedores) em uma *Ação* (equipe mais forte). O pensamento de Baixo para Cima falha aqui. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Conclusão: 'Os dados estão muito confusos. Vamos reanalisar os fatos.'",
+            "feedback": "⚠️ Embora a análise seja difícil, o papel do Minto é *encontrar* a lógica. A conclusão deve ser um resumo do que os dados mostram, não uma fuga da síntese. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "testedLesson": "A Estrutura da Introdução: O Ponto de Partida",
+        "narrative": "No meio da sua explicação, o CEO diz: 'Eu entendo que o custo subiu 10% (Complicação), mas não estou convencido de que nossa Margem Bruta de 30% (Situação) seja o ponto de partida correto. Deveríamos focar na Margem Líquida.' Ele questiona novamente o seu ponto de partida (S). Qual deve ser sua prioridade?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você diz: 'Focar na Margem Bruta é mais simples. Vamos manter assim para a clareza da Pirâmide.'",
+            "feedback": "⚠️ A clareza é importante, mas o principal erro da Situação é usar uma afirmação que o público *não aceita como verdadeira*. O CEO não está alinhado. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'O senhor tem razão. A Situação deve ser o terreno comum, então vamos redefinir a *Situação* para 'Nossa Margem Líquida tem sido estável em 15% nos últimos 5 anos' para restaurar a base.'",
+            "feedback": "✅ Corretíssimo. A **Situação** precisa ser o ponto inquestionável de partida. Se o CEO questiona, você deve redefinir a base para o que é aceito, garantindo a solidez da sua Introdução. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'Não importa. O ponto principal é a reestruturação. Podemos ignorar a Situação por agora.'",
+            "feedback": "❌ O *SCQ* é a base de toda a Pirâmide. Ignorá-lo enfraquece o elo lógico entre o que o leitor sabe e a sua Resposta. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "d",
+            "label": "Você diz: 'Vamos dividir a discussão em duas Pirâmides, uma para a Margem Bruta e outra para a Margem Líquida.'",
+            "feedback": "⚠️ Isso complica a estrutura e não resolve o problema da *base* da Pirâmide atual. O ideal é ter uma Situação, uma Complicação e uma Pergunta por vez. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 8,
+        "testedLesson": "A Estrutura da Introdução: A Complicação e a Pergunta",
+        "narrative": "Com a Situação alinhada (Margem Líquida de 15%), a Complicação (custo subiu 10%) e a Pergunta (Como reverter?) estão novamente claras. Um gerente sugere: 'A melhor **Resposta** é focar na melhoria da retenção de clientes'. O que você deve fazer com essa Resposta?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você a aceita, pois é uma boa ideia.",
+            "feedback": "⚠️ É uma boa ideia, mas não responde diretamente à Pergunta (Q): 'Como podemos reverter o aumento de 10% no *custo*?' Você deve focar em custo. Quebra o elo vertical Q-R. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'Essa é uma ótima ideia, mas não responde à Pergunta. Nossa Pirâmide é dedicada a resolver a Complicação do *Custo* (Q). Retenção precisa de sua própria Pirâmide.'",
+            "feedback": "✅ Corretíssimo. A Pergunta (Q) deve ser o filtro para a Resposta. Se a Resposta não resolve a Complicação que gerou a Pergunta, ela precisa de uma nova estrutura. Uma Pirâmide, uma Pergunta. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'Vou colocar a Retenção como um dos 3 argumentos de suporte na Pirâmide.'",
+            "feedback": "⚠️ O argumento de suporte deve responder à Resposta, que por sua vez responde à Pergunta. Se o Q é sobre custo, incluir Retenção como suporte vai quebrar a lógica vertical e horizontal. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "d",
+            "label": "Você ignora a sugestão e segue em frente.",
+            "feedback": "❌ Ignorar uma sugestão válida quebra o engajamento e a credibilidade, mesmo que a sugestão precise de uma nova Pirâmide. (0/3 ★)",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "step": 9,
+        "testedLesson": "A Relação Vertical: Pergunta e Resposta",
+        "narrative": "Você está detalhando o Ponto 2: 'Melhorar Processos'. Seus sub-argumentos são: 'A) Redesenhar o fluxo de pedidos' e 'B) Implementar sistema de rastreamento de estoque'. Qual é o risco se o público perguntar 'Como o redesenho do fluxo de pedidos nos ajuda a melhorar os Processos?' e você não conseguir responder?",
+        "options": [
+          {
+            "value": "a",
+            "label": "O leitor pode esquecer o Ponto 1.",
+            "feedback": "⚠️ O risco é maior do que a simples perda de memória. É uma quebra de lógica. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "b",
+            "label": "A Relação Vertical será quebrada, e a lógica do seu suporte ('Melhorar Processos') desmorona, fazendo o público questionar a validade da sua Resposta principal.",
+            "feedback": "✅ Exatamente. A falha em responder 'Por que/Como' em qualquer nível superior/inferior quebra a espinha dorsal da lógica da Pirâmide. O leitor se perde e questiona a validade. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "O Ponto 2 não será MECE.",
+            "feedback": "⚠️ O MECE é uma preocupação horizontal. A falha em responder 'Como' é uma preocupação **vertical**. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "d",
+            "label": "Você terá que começar o pitch de novo.",
+            "feedback": "❌ Embora possa acontecer, o risco é na lógica interna da Pirâmide, não necessariamente no recomeço. (0/3 ★)",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "step": 10,
+        "testedLesson": "Construindo a Pirâmide de Baixo para Cima",
+        "narrative": "O time de Tecnologia apresenta um dado: 'A implementação do rastreamento de estoque (Sub-Argumento B) custará $100k, mas economizará $300k em perdas anuais de estoque.' Você precisa usar o pensamento **de Baixo para Cima** para resumir o ponto 'Implementar rastreamento' para o nível 'Melhorar Processos'. Qual é a melhor afirmação para subir de nível?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você diz: 'O custo de $100k será coberto em menos de 4 meses de economia, o que justifica totalmente o investimento para Melhorar Processos.'",
+            "feedback": "✅ Excelente. Você pegou os dados ($100k e $300k) e os **resumiu** em uma única conclusão de alto nível ('justifica o investimento'). O pensamento é robusto e Indutivo. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'O rastreamento de estoque é crucial.'",
+            "feedback": "⚠️ A afirmação é um tópico, não uma **Conclusão** que encapsula o significado dos dados. Falha em resumir. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'O custo é de $100k.'",
+            "feedback": "❌ Você está repetindo um dado bruto, não resumindo ou subindo de nível. O pensamento de Baixo para Cima exige síntese. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "d",
+            "label": "Você diz: 'A economia é de $300k, mas a nossa meta é $400k.'",
+            "feedback": "⚠️ Você mistura o resumo com uma nova métrica (meta). O foco deve ser na síntese dos dados apresentados para justificar o próximo nível. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 11,
+        "testedLesson": "A Estrutura da Introdução: O Ponto de Partida",
+        "narrative": "A reunião está terminando. Para encerrar, você quer deixar a Resposta principal bem consolidada. O que você deve fazer, lembrando que a Situação deve ser o ponto de partida inquestionável?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você repete a Resposta e pergunta se todos concordam com a *Situação* reformulada ('Margem Líquida de 15%').",
+            "feedback": "⚠️ Não é o ideal, pois perguntar se 'todos concordam' pode reabrir a discussão. A Situação deve ser um fato aceito sem a necessidade de um debate final. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'Em resumo, dada a nossa **Situação** (Margem Líquida de 15%), a **Complicação** (10% de aumento de custo) levanta a **Pergunta** (Como reverter?). Minha **Resposta** é: Reestruturar o Funil de Compras em 2 Pontos, que foram totalmente suportados por evidências de 'custo' e 'benefício'.'",
+            "feedback": "✅ Perfeito. Você recapitula o fluxo **SCQ** e a Resposta, reforçando a lógica vertical da Pirâmide inteira. Isso garante que o leitor saiba exatamente o que foi resolvido e por que. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'A Resposta é reestruturar. Os detalhes estão no relatório. Obrigado.'",
+            "feedback": "❌ Você falha em dar o toque final de credibilidade ao ligar a Resposta de volta à base (SCQ). O resumo é muito superficial. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "d",
+            "label": "Você pergunta: 'Quem acha que devemos reestruturar o Funil de Compras?'",
+            "feedback": "⚠️ A Pirâmide é sobre lógica, não sobre votação. O foco deve estar no suporte factual da Resposta, e não na opinião imediata. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 12,
+        "testedLesson": "Construindo a Pirâmide de Baixo para Cima",
+        "narrative": "Um gerente pergunta: 'Como você sabe que os $300k de economia anual (o dado base) são reais?'. Você está sendo questionado sobre a **base factual** da sua Pirâmide. Qual é a melhor defesa para a robustez de seus argumentos, focada na construção de Baixo para Cima?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você diz: 'Nossos argumentos são MECE. Isso garante que os dados sejam reais.'",
+            "feedback": "⚠️ O MECE garante a lógica horizontal, não a veracidade dos dados brutos. O MECE não é um cheque de realidade. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'A conclusão foi bem recebida, então o dado deve ser bom.'",
+            "feedback": "❌ A aceitação do público não substitui a solidez do dado base. O pensamento de Baixo para Cima exige que os dados brutos sejam inquestionáveis. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'O valor de $300k foi fornecido pela equipe de Finanças e é baseado em 5 anos de histórico de perdas de estoque (os *Dados Brutos*). Meu papel é *agrupar* essa base inquestionável em conclusões lógicas, não criar o dado.'",
+            "feedback": "✅ Excelente. Você defende que a **Base (Dados Brutos)** é inquestionável (por ter sido validada por uma fonte confiável) e reafirma seu papel em **agrupar** (subir de nível) esses fatos em conclusões lógicas. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "d",
+            "label": "Você diz: 'Vamos remover esse dado. É muito controverso.'",
+            "feedback": "⚠️ Se o dado for crucial para a Resposta (e o é, pois justifica o investimento), removê-lo enfraquece a Pirâmide. A defesa da base é melhor do que a remoção. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "simulationId": 3,
+    "title": "📑 Simulação: O Relatório Confuso (Clareza Nível A+)",
+    "introduction": "Você é responsável por finalizar um relatório técnico de 50 páginas. Seu chefe (que só lê o Resumo Executivo) precisa aprovar o investimento de $20M até o final do dia. O rascunho atual é confuso: argumentos se misturam, o ponto principal está escondido e os dados estão no lugar errado. Seu objetivo é aplicar as regras mais finas da Pirâmide para garantir que o Relatório seja **homogêneo**, que o **Ponto Principal (Resposta)** seja inesquecível e que o **Suporte (Nível 2)** esteja perfeitamente estruturado. Prepare-se para tomar 12 decisões críticas para salvar o investimento.",
+    "challenges": [
+      {
+        "step": 1,
+        "testedLesson": "A Estrutura da Pirâmide: O Resumo do Resumo",
+        "narrative": "O rascunho do Relatório começa com a frase: 'Este documento analisa os desafios de mercado e propõe soluções'. Você sabe que o **Ponto Principal (Resposta)**, o 'Resumo do Resumo', deve ser uma **afirmação** clara, única e concisa que resolva a Pergunta da Introdução ('Devemos aprovar os $20M?'). Qual é a melhor reformulação para o topo da Pirâmide?",
+        "options": [
+          {
+            "value": "a",
+            "label": "O Ponto Principal é: 'Recomendamos aprovar o investimento de $20M para lançar o Produto Delta, pois ele garantirá 35% de market share em 3 anos.'",
+            "feedback": "✅ Perfeito. A Resposta é uma **afirmação** que responde diretamente à pergunta (Aprovar $20M?) e inclui o resultado principal (35% de share). O leitor sabe o ponto principal imediatamente. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "O Ponto Principal é: 'Análise detalhada da estratégia, custos e cronograma do Produto Delta.'",
+            "feedback": "❌ Isso é apenas um **tópico** ou título, não uma conclusão. O leitor precisa ler o resto do documento para descobrir o ponto principal, o que viola a regra 'Resposta Primeiro'. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "O Ponto Principal é: 'O mercado está pronto e o custo de $20M é aceitável, mas precisamos do feedback do leitor.'",
+            "feedback": "⚠️ O Ponto Principal não deve ser condicional ou pedir feedback. Ele deve ser uma conclusão. Além disso, 'custo aceitável' e 'mercado pronto' são argumentos de suporte (Nível 2), não o Resumo do Resumo. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "O Ponto Principal é: 'O investimento deve ser aprovado, e os 7 argumentos abaixo comprovam isso, sendo o 5º o mais importante.'",
+            "feedback": "⚠️ A Resposta é clara, mas 7 argumentos no Nível 2 é o limite superior de retenção. Mencionar que o 5º é o mais importante quebra a **Homogeneidade** da importância. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "testedLesson": "A Regra da Homogeneidade: Ideias no Mesmo Nível",
+        "narrative": "Você está refinando o **Nível de Suporte Chave (Nível 2)**. A Resposta é uma *Ação* (Aprovar o investimento). O rascunho lista 3 argumentos: 'A) Redução de Custo de $5M (Razão), B) Implementar novo software (Ação), C) O mercado está pronto (Razão)'. Você percebe a quebra da **Homogeneidade**. Como você corrige o Nível 2 para ser logicamente puro (homogêneo)?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você reagrupa, definindo o Nível 2 como *Ações*: '1. Implementar software X (Ação), 2. Treinar equipe (Ação), 3. Ajustar o cronograma (Ação)'.",
+            "feedback": "⚠️ O novo grupo é homogêneo (todas Ações) e não se sobrepõe. No entanto, ele falha em responder 'Por que devemos aprovar os $20M?', que é o foco. A pergunta pedia por **Razões**. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "b",
+            "label": "Você reagrupa, definindo o Nível 2 como *Razões* (o porquê): '1. O mercado está pronto (Razão), 2. Redução de Custos de $5M (Razão), 3. Vantagem competitiva em 3 anos (Razão)'.",
+            "feedback": "✅ Perfeito. O novo grupo é perfeitamente **Homogêneo** (todas Razões) e, juntas, as razões suportam logicamente a Resposta (a Ação 'Aprovar o investimento'). (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Você mantém, mas usa a Dedução: 'O mercado está pronto (Razão) e o novo software será implementado (Ação), portanto, o custo será reduzido (Razão)'.",
+            "feedback": "❌ A Dedução também exige **Homogeneidade**. Misturar Razão e Ação no mesmo grupo horizontal quebra a lógica de qualquer tipo de relação horizontal. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "d",
+            "label": "Você remove o Ponto B. O Nível 2 fica: 'A) Redução de Custo de $5M (Razão), C) O mercado está pronto (Razão)'.",
+            "feedback": "⚠️ O grupo é homogêneo, mas agora só tem 2 argumentos. O ideal é ter 3 a 7. Você torna a análise menos **Coletivamente Exaustiva** (CE) para um pitch de $20M. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "testedLesson": "A Estrutura da Pirâmide: O Nível de Suporte Chave",
+        "narrative": "O argumento 'Redução de Custos de $5M' (Ponto 2 do Nível 2) está pronto. Agora, você precisa garantir que ele seja apoiado por argumentos **MECE** no **Nível 3**. Qual é o melhor agrupamento MECE para detalhar a origem da redução de $5M?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Nível 3: '1. Negociação de fornecedores, 2. Corte de despesas de viagem, 3. Contratação de novo gerente de custos.'",
+            "feedback": "⚠️ Os pontos são distintos (ME), mas não são Coletivamente Exaustivos (CE) para cobrir todas as áreas de custo (ex: Pessoal, Tecnologia). Você deixou buracos na análise. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "b",
+            "label": "Nível 3: '1. Redução de custos fixos, 2. Redução de custos variáveis.'",
+            "feedback": "✅ Perfeito. O Nível 3 é perfeitamente **MECE**. Os custos fixos e variáveis são mutuamente exclusivos (ME) e, juntos, cobrem exaustivamente (CE) todos os $5M da redução. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Nível 3: '1. Corte de gastos, 2. Mais receita, 3. Mais lucro.'",
+            "feedback": "❌ Você misturou *Ações* ('Corte de gastos') com *Consequências* ('Mais receita', 'Mais lucro'). Além de quebrar a **Homogeneidade**, 'Corte de gastos' e 'Mais lucro' se sobrepõem. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "d",
+            "label": "Nível 3: '1. Redução de custo de pessoal, 2. Negociação de fornecedores, 3. Reorganização do escritório.'",
+            "feedback": "⚠️ O Nível 3 é um bom agrupamento de ações, mas 'Negociação de fornecedores' e 'Reorganização do escritório' podem se sobrepor em termos de custo fixo/variável. Falha no **ME**. (1/3 ★)",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "testedLesson": "A Estrutura da Pirâmide: O Nível de Detalhe (Nível 3+)",
+        "narrative": "Você está no Ponto 3 do Nível 3 ('Negociação de 10% com fornecedor X'). O rascunho do relatório inclui uma seção de 5 páginas sobre 'a história das negociações com fornecedores desde 2018'. Qual é o problema em incluir esse detalhe no corpo principal do relatório e como corrigi-lo?",
+        "options": [
+          {
+            "value": "a",
+            "label": "O problema é a perda de foco. O histórico de 5 páginas deve ser movido para um **Apêndice** ou **Anexo**, mantendo apenas o dado 'Economia de $150k com a nova negociação' no corpo do Nível 3.",
+            "feedback": "✅ Exato. Os níveis mais baixos (Nível 3) devem focar apenas nos detalhes factuais necessários para suportar o argumento do Nível 2. Detalhes longos e de contexto (Histórico) devem ir para o Apêndice. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "O problema é a falta de Homogeneidade. A seção de 5 páginas deve ser condensada em uma única frase e mantida no Nível 3.",
+            "feedback": "⚠️ Embora a condensação seja boa, a razão principal é a profundidade: o nível de detalhe é desnecessário para o corpo do relatório. O histórico deve ser movido, não apenas condensado. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "c",
+            "label": "O problema é o MECE. A seção de 5 páginas deve ser dividida em 3 a 7 sub-argumentos MECE para ser aceita.",
+            "feedback": "⚠️ O MECE não se aplica a detalhes de contexto/histórico. O problema é a profundidade e a relevância imediata para a Resposta. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "d",
+            "label": "Não há problema. Os níveis de detalhe devem ser os mais longos possível para comprovar a Resposta.",
+            "feedback": "❌ Errado. O leitor se perde em detalhes excessivos (falha em Nível de Detalhe), e o tempo do chefe é limitado. A profundidade deve ser *sob demanda*. (0/3 ★)",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "testedLesson": "A Estrutura da Pirâmide: O Nível de Suporte Chave",
+        "narrative": "O chefe interrompe o Resumo Executivo e pergunta: 'Qual é o seu principal argumento para a aprovação dos $20M?'. Você precisa responder citando um Ponto do Nível 2. Qual é a melhor forma de responder, mantendo a integridade do Nível 2 (Suporte Chave)?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você diz: 'O ponto principal não é o Nível 2, mas sim a Resposta no topo: 'Aprovar o investimento.'",
+            "feedback": "⚠️ Você está certo sobre o topo, mas o Nível 2 é o *resumo do suporte*. O chefe quer saber o *porquê*. Você falha em usar o Nível 2 como ponte de suporte. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'Nosso principal argumento é que o *Produto Delta garantirá 35% de market share em 3 anos*, que é o detalhe do Nível 3 mais persuasivo.'",
+            "feedback": "❌ Errado. O Ponto Principal é a Resposta no topo. O Nível 2 deve ser o suporte. Você está confundindo os níveis e usando um detalhe (Nível 3) como Resposta. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'A aprovação se justifica por 3 razões no Nível 2: '1. O mercado está pronto, 2. Redução de Custos de $5M, 3. Vantagem competitiva em 3 anos.' Todas são igualmente importantes.'",
+            "feedback": "✅ Excelente. Você usa o **Nível 2** para responder ao 'porquê' da Resposta e reforça a **Homogeneidade** da importância (todas são pilares essenciais) e o limite de retenção (3 razões). (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "d",
+            "label": "Você diz: 'O principal argumento é a redução de custos de $5M, pois é o mais fácil de entender.'",
+            "feedback": "⚠️ Você está escolhendo um argumento, quebrando a ideia de que o Nível 2 deve ser **Coletivamente Exaustivo** (CE) para suportar a Resposta. Todos os pontos devem ser importantes. (1/3 ★)",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "testedLesson": "A Regra da Homogeneidade: Ideias no Mesmo Nível",
+        "narrative": "No Nível 3, você está descrevendo o argumento 'Vantagem competitiva'. O rascunho lista 3 pontos: '1. O concorrente A tem um produto inferior (Fato), 2. Devemos lançar a campanha de marketing X (Ação), 3. O produto Delta tem 3 recursos exclusivos (Fato)'. O que quebra a **Homogeneidade** e como você corrige?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Ação 'Lançar campanha' (Ponto 2) quebra a homogeneidade de *Fatos*. Você deve movê-la para um nível à parte de 'Ações' e manter o Nível 3 focado apenas em *Fatos* que provam a Vantagem Competitiva.",
+            "feedback": "✅ Corretíssimo. Você identifica o ponto heterogêneo (Ação vs. Fato) e o **remove** para restaurar a pureza lógica do agrupamento. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "O Nível 3 é homogêneo, pois todos os pontos estão relacionados ao marketing. Não precisa de correção.",
+            "feedback": "❌ Errado. A relação com 'marketing' é muito ampla. A homogeneidade é sobre o *tipo lógico* (Ação, Razão, Fato). Misturar Ação e Fato é um erro de Minto. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "O erro é ter 3 pontos. Você deve ter no máximo 2.",
+            "feedback": "⚠️ O limite é 3 a 7. O erro é o *tipo lógico*, não o número. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Você deve transformar os Fatos em Ações: 'Devemos lançar a campanha X, e devemos focar nos 3 recursos exclusivos.'",
+            "feedback": "⚠️ Você mudou o foco do argumento. O objetivo do Nível 3 aqui é *provar* a Vantagem Competitiva (Fato), não descrever o *Como* (Ação). (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "testedLesson": "A Estrutura da Pirâmide: O Nível de Detalhe (Nível 3+)",
+        "narrative": "O Nível 3 do argumento 'Redução de Custos' está pronto: '1. Redução de custos fixos, 2. Redução de custos variáveis'. O CEO, focado em detalhes, pergunta: 'Me mostre a folha de cálculo original que prova a redução de custo fixo (Ponto 1)'. Onde você deve ter colocado esse dado (Nível 4 - o dado bruto)?",
+        "options": [
+          {
+            "value": "a",
+            "label": "O dado bruto (folha de cálculo) deve ser colocado no **Apêndice/Anexo** do relatório e apenas referenciado no Nível 3.",
+            "feedback": "✅ Perfeito. O Nível 3 é para *afirmações* de detalhe (ex: 'redução de 15% no aluguel'). O dado bruto, como a folha de cálculo, é a base da evidência e deve ser colocado no Apêndice para manter o corpo principal conciso. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "O dado bruto deve ser o Ponto 1 do Nível 2.",
+            "feedback": "❌ Você estaria colocando o detalhe mais baixo no nível de resumo do suporte, sobrecarregando o leitor e quebrando o princípio da Pirâmide. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "O dado bruto deve ser incluído em um parágrafo longo de 5 linhas no Nível 3.",
+            "feedback": "⚠️ O risco é sobrecarregar o Nível 3 com detalhes. Embora seja uma opção, a melhor prática é relegar os dados brutos a um anexo. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "d",
+            "label": "O dado bruto deve ser a Resposta no topo da Pirâmide.",
+            "feedback": "❌ A Resposta deve ser a conclusão, não o dado bruto. Isso inverte completamente o princípio. (1/3 ★)",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "step": 8,
+        "testedLesson": "A Estrutura da Pirâmide: O Resumo do Resumo",
+        "narrative": "Você está revisando o resumo executivo, onde a Resposta está exposta. O chefe está focado no cronograma. Ele pergunta: 'O que o relatório diz sobre o *risco* do projeto?'. Sua Resposta no topo não mencionou a palavra 'risco'. O que você deve fazer com a sua Resposta para encapsular todos os argumentos de suporte de forma mais completa?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você mantém a Resposta atual e adiciona 'O risco é baixo' como um quarto argumento no Nível 2.",
+            "feedback": "⚠️ O Nível 2 deve suportar a Resposta, mas a Resposta no topo deve ser o 'Resumo do Resumo'. Se o risco é um fator principal, a Resposta deve encapsulá-lo. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'O risco está coberto na nossa Complicação. Não precisamos de mais detalhes.'",
+            "feedback": "❌ Você está confundindo a Complicação (o que criou o problema) com a Resposta (a solução). A Resposta deve abordar o risco. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Você revisa a Resposta para: 'Recomendamos aprovar o investimento de $20M para lançar o Produto Delta, com risco de execução *mitigado* e garantindo 35% de market share.'",
+            "feedback": "✅ Perfeito. Você revisa o **Ponto Principal** para que ele **encapsule** todos os elementos principais (investimento, produto, resultado e risco). A Resposta agora é um resumo mais completo do relatório. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "d",
+            "label": "Você diz: 'O risco é um detalhe do Nível 3. Você pode ler no final.'",
+            "feedback": "⚠️ O risco é um ponto estratégico. Não é apropriado escondê-lo no Nível de Detalhe se o chefe o considera crucial. A Resposta deve resumir o que é mais importante. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 9,
+        "testedLesson": "A Regra da Homogeneidade: Ideias no Mesmo Nível",
+        "narrative": "No Nível 2, o argumento 'O mercado está pronto' é suportado por 3 fatos. Um colega sugere adicionar um quarto ponto: 'Contratar um novo gerente de vendas (Ação)'. Qual é a sua resposta, focada na **Homogeneidade**?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você aceita, pois contratar o gerente de vendas está relacionado com o mercado.",
+            "feedback": "❌ Você está misturando *Fato* (O mercado está pronto) com *Ação* (Contratar gerente). O agrupamento fica heterogêneo e a lógica é quebrada. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'Não, este agrupamento é para *Fatos* que comprovam a prontidão do mercado (Homogeneidade). A 'Contratação' é uma Ação e deve ser movida para a Pirâmide de Implementação ou o Nível de Suporte 'Vantagem Competitiva'.'",
+            "feedback": "✅ Exatamente. Você mantém a pureza lógica do agrupamento (Homogeneidade) e reencaminha a 'Ação' para o lugar certo na estrutura. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'O Nível 2 é MECE. Adicionar um quarto ponto vai quebrar o Coletivamente Exaustivo.'",
+            "feedback": "⚠️ Embora seja um risco, o CE seria quebrado se faltasse algo. O erro principal é a *mistura de tipos lógicos* (Homogeneidade). (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "d",
+            "label": "Você aceita, mas muda o tipo do agrupamento para Dedução.",
+            "feedback": "⚠️ A Dedução também exige Homogeneidade. Além disso, 'Contratar' é uma ação, não uma premissa lógica. (1/3 ★)",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "step": 10,
+        "testedLesson": "A Estrutura da Pirâmide: O Nível de Suporte Chave",
+        "narrative": "Você está revisando o Nível 2: '1. O mercado está pronto, 2. Redução de Custos de $5M, 3. Vantagem competitiva em 3 anos'. O analista sênior comenta: 'Faltou o pilar de *Pessoas* para o investimento de $20M. A análise não está **Coletivamente Exaustiva** (CE)'. O que você deve fazer para corrigir o Nível 2, garantindo o MECE?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você diz: 'O pilar 'Vantagem Competitiva' cobre Pessoas'.",
+            "feedback": "❌ Isso gera sobreposição (Não ME) e enfraquece o argumento, além de ser forçado. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "b",
+            "label": "Você adiciona um quarto pilar: '4. Estrutura de Pessoas e Capacitação', reconhecendo que a análise estava incompleta e restaurando a Coletivamente Exaustiva (CE) com um grupo Homogêneo.",
+            "feedback": "✅ Perfeito. Você reconhece a falta de um pilar crucial (Pessoas) e o adiciona, garantindo que o **Nível 2** seja **Coletivamente Exaustivo** para o pitch de $20M. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Você remove o ponto 'Vantagem Competitiva' para abrir espaço para o ponto 'Pessoas'.",
+            "feedback": "⚠️ Remover um ponto crucial para o pitch ($20M) apenas para encaixar o CE enfraquece a Resposta. O CE deve ser alcançado por adição, não subtração de pontos essenciais. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Você diz: 'O ponto Pessoas será detalhado no Nível 3, sob 'Redução de Custos'.",
+            "feedback": "⚠️ 'Pessoas' é um pilar de alto nível. Relegá-lo ao Nível de Detalhe (Nível 3) de 'Custos' (Nível 2) quebra a lógica hierárquica e a Coletivamente Exaustiva da análise. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 11,
+        "testedLesson": "A Estrutura da Pirâmide: O Nível de Detalhe (Nível 3+)",
+        "narrative": "O argumento 'Redução de Custos' (Nível 2) foi suportado por 'Redução de custos fixos' e 'Redução de custos variáveis' (Nível 3). O gerente de operações pergunta: 'Em qual nível eu devo colocar a nossa *política* de despesas de viagem que está sendo cortada?'.",
+        "options": [
+          {
+            "value": "a",
+            "label": "A política de despesas deve ser colocada no **Nível de Detalhe** (Nível 3 ou 4) do argumento 'Redução de custos variáveis' ou 'Redução de custos fixos', conforme aplicável.",
+            "feedback": "✅ Exato. As políticas ou ações específicas (como o corte de despesas) são **detalhes** que suportam os argumentos de alto nível e devem ser relegados aos níveis inferiores. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "A política de despesas é a Resposta no topo da Pirâmide.",
+            "feedback": "❌ O topo é o Resumo do Resumo. A política é um detalhe de ação. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "A política de despesas é um argumento no Nível 2.",
+            "feedback": "⚠️ O Nível 2 deve ser o resumo do suporte, não um detalhe de ação. Você confunde os níveis. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "A política deve ser colocada na Introdução para dar contexto.",
+            "feedback": "⚠️ A Introdução usa o SCQ e não deve ter detalhes operacionais. Isso quebra a clareza. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 12,
+        "testedLesson": "A Estrutura da Pirâmide: O Resumo do Resumo",
+        "narrative": "O chefe leu seu resumo executivo, com a Resposta clara no topo, suportada por 4 pilares MECE. Ele sorri e diz: 'Excelente. Eu entendi o que você quer que eu faça e por quê. Qual é o **principal erro** do relatório que você corrigiu, em termos de comunicação?'. Qual é a sua resposta?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você diz: 'O principal erro era a falta de dados brutos (Nível de Detalhe) que provavam o Nível 2.'",
+            "feedback": "⚠️ Embora os dados sejam cruciais, o problema fundamental é a estrutura. O erro fundamental do *Relatório Confuso* é a falta de clareza na conclusão. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "b",
+            "label": "Você diz: 'O principal erro foi não começar com o Ponto Principal (A Resposta), forçando o leitor a deduzir a conclusão. Eu reestruturei para que a Resposta fosse o Resumo do Resumo, imediatamente compreensível.'",
+            "feedback": "✅ Perfeito. O erro fatal de um relatório confuso é a inversão da Pirâmide, ou seja, não começar com a **Resposta**. Você destaca a correção mais fundamental do princípio Minto. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Você diz: 'O principal erro foi a quebra da Homogeneidade e do MECE (Nível de Suporte), misturando ações e razões.'",
+            "feedback": "⚠️ Isso é um erro estrutural importante, mas o erro de mais alto nível (Resumo do Resumo) é não entregar a conclusão de primeira. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "d",
+            "label": "Você diz: 'O principal erro foi a falta de uma Introdução SCQ completa, o que não dava contexto.'",
+            "feedback": "❌ Embora o SCQ seja vital, o erro principal que o chefe notaria é a falta da Resposta clara no topo, não apenas o contexto. (0/3 ★)",
+            "score": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "simulationId": 4,
+    "title": "🗣️ Simulação: O Debate de Estratégia (Dominando a Persuasão Lógica)",
+    "introduction": "Você está liderando um debate interno para convencer o Conselho a adotar uma nova Estratégia de Mercado. A equipe está dividida entre argumentos emocionais e listas confusas. Seu sucesso depende de usar a forma de lógica horizontal mais persuasiva (Dedução vs. Indução) e garantir que seus documentos e sua fala sigam o **Padrão Piramidal** em todos os níveis, incluindo parágrafos e títulos. Prepare-se para tomar 12 decisões cruciais para vencer o debate com lógica e clareza.",
+    "challenges": [
+      {
+        "step": 1,
+        "testedLesson": "A Lógica da Dedução: O Silogismo",
+        "narrative": "Seu Ponto Principal é que a 'Nova Estratégia de Mercado é Inevitável'. Para provar isso com o máximo rigor lógico, você decide usar a **Dedução** (Silogismo). Você precisa de uma Premissa Maior (Regra Geral). Qual é a afirmação mais forte e geral para iniciar seu argumento dedutivo?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Premissa Maior: 'Todos os concorrentes que não se adaptaram à tecnologia 'X' faliram nos últimos 5 anos.'",
+            "feedback": "✅ Perfeito. A Dedução exige uma **Premissa Maior** (Regra Geral) forte e aceita. Esse é um princípio geral de mercado inegável, que estabelece o risco da não-ação. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Premissa Maior: 'Nossa empresa tem um histórico de inovar no mercado.'",
+            "feedback": "⚠️ Esta é uma afirmação específica sobre sua empresa, não uma **Regra Geral** (Premissa Maior) do mercado. O silogismo se torna fraco e não universal. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "c",
+            "label": "Premissa Maior: 'Devemos investir na Estratégia Y.'",
+            "feedback": "❌ Isso é a **Conclusão** do argumento dedutivo, não a premissa inicial. Você inverteu a ordem lógica. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "d",
+            "label": "Premissa Maior: 'A tecnologia 'X' custa $1M.'",
+            "feedback": "⚠️ Isso é um **Fato Específico** (Premissa Menor), não a Regra Geral (Premissa Maior). A Dedução exige a ordem P1 (Geral), P2 (Específica), Conclusão. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "testedLesson": "A Lógica da Indução: Agrupamento de Fatos",
+        "narrative": "Você precisa defender o Ponto de Suporte: 'O Produto Z é obsoleto'. Para comunicar o suporte rapidamente, você decide usar a **Indução**. Sua equipe lhe dá 5 fatos. Qual dos seguintes é um bom agrupamento Indutivo de **fatos homogêneos** (todos do mesmo tipo) para suportar a obsolescência?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Fato 1: O custo de manutenção subiu 20%. Fato 2: O suporte de software será descontinuado. Fato 3: O concorrente A lançou uma versão nova. (Todos são Problemas/Razões)",
+            "feedback": "✅ Excelente. A Indução é um **agrupamento de fatos semelhantes** (Homogêneos). Todos os pontos são Razões/Problemas que, juntos, levam à conclusão de obsolescência. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Fato 1: O custo de manutenção subiu 20%. Fato 2: Devemos descontinuar o Produto. Fato 3: O concorrente A lançou uma versão nova. (Razão, Ação, Razão)",
+            "feedback": "❌ Você misturou **Razão** e **Ação** no mesmo agrupamento, quebrando a **Homogeneidade** e a lógica Indutiva. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Fato 1: O custo de manutenção subiu 20%. Fato 2: O suporte de software será descontinuado. Fato 3: O Produto Z existe há 10 anos. (Problemas e Fato Neutro)",
+            "feedback": "⚠️ O agrupamento é quase homogêneo, mas a inclusão de um 'Fato Neutro' que não é um problema direto enfraquece a força do argumento Indutivo. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "d",
+            "label": "Fato 1: O custo de manutenção subiu 20%. Fato 2: A solução é implementar IA. Fato 3: O concorrente A lançou uma versão nova. (Razão, Ação, Razão)",
+            "feedback": "⚠️ Você misturou um Fato com uma **Solução** (Ação). A Indução deve ser pura para ser eficaz. (1/3 ★)",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "testedLesson": "A Estrutura da Escrita: O Parágrafo Piramidal",
+        "narrative": "Você está preparando um slide detalhado sobre a 'Viabilidade de Custos'. Você decide começar o parágrafo com a frase: 'A análise de custos mostra uma viabilidade de 95% para o investimento.' Qual é a melhor sequência de frases para manter o Parágrafo Piramidal (Tópico Frasal e Suporte Vertical)?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Frase 2: O custo operacional foi reduzido em 15% (Suporte 1). Frase 3: Isso foi alcançado através da negociação de fornecedores e da otimização de processos (Suporte 2).",
+            "feedback": "✅ Perfeito. A Frase 1 (Tópico Frasal/Conclusão) é suportada pela Frase 2 (Suporte 1), que, por sua vez, é suportada e detalhada pela Frase 3 (Suporte 2). A **Relação Vertical** é mantida. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Frase 2: No entanto, o risco de cronograma ainda é alto. Frase 3: Nossa equipe de RH precisa de mais treinamento. (Muda de assunto)",
+            "feedback": "❌ Você quebrou a **Relação Vertical** e a unidade do parágrafo, mudando de 'custos' para 'cronograma' e 'RH'. Isso mata a clareza do Parágrafo Piramidal. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Frase 2: A meta é reduzir o custo. Frase 3: O custo é de $10M. (Repetição e Dado Bruto)",
+            "feedback": "⚠️ A Frase 2 é repetitiva, e a Frase 3 é um dado bruto sem contexto de suporte. O suporte vertical é fraco. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Frase 2: A viabilidade é alta. Frase 3: A Receita pode subir 20%. (Repetição e Novo Tópico)",
+            "feedback": "⚠️ A Frase 2 é uma repetição. A Frase 3 introduz um novo tópico (Receita) que pode ser uma distração no parágrafo de Custos. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "testedLesson": "A Estrutura da Escrita: O Uso de Títulos e Subtítulos",
+        "narrative": "Você está criando a estrutura do seu documento de suporte. O título da Seção 2 é 'A Estratégia Atual Não É Sustentável'. O subtítulo da subseção 2.1 não deve ser um tópico genérico. Qual é o melhor subtítulo que segue o padrão de **Afirmação** e a **Relação Vertical** com a seção 2?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Subtítulo 2.1: 'Os Canais de Aquisição de Clientes Estão Gerando Custo Inaceitável.'",
+            "feedback": "✅ Perfeito. O subtítulo é uma **Afirmação** que comunica uma conclusão. Além disso, ele é uma resposta direta ('Como a estratégia não é sustentável?'). A Relação Vertical com o Título Principal é mantida. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Subtítulo 2.1: 'Análise dos Canais de Aquisição de Clientes.'",
+            "feedback": "❌ Isso é um **tópico genérico** (Não Afirmação). O leitor precisa ler a subseção para saber a conclusão, o que quebra o princípio de leitura rápida através dos títulos. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Subtítulo 2.1: 'Devemos mudar a estratégia de vendas imediatamente.'",
+            "feedback": "⚠️ Isso é uma **Ação** futura, não a conclusão da análise. O subtítulo deve ser a *conclusão* da seção, não a *próxima ação*. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Subtítulo 2.1: 'O Custo de Aquisição Subiu 15%.'",
+            "feedback": "⚠️ Isso é um **dado bruto**, não uma afirmação que resume toda a subseção. O subtítulo deve ser o resumo da conclusão. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "testedLesson": "A Lógica da Dedução: O Silogismo",
+        "narrative": "Você está usando a Dedução para argumentar sobre a urgência do tempo. Você diz: 'Premissa Maior: Todo projeto que leva mais de 6 meses para ser implementado perde a vantagem competitiva. Premissa Menor: Nosso projeto levará 5 meses.' Qual é a **Conclusão Inevitável** que o seu público deve inferir (e que deve estar no Nível acima)?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Conclusão: 'Nosso projeto deve ser priorizado e implementado imediatamente para garantir a vantagem competitiva.'",
+            "feedback": "✅ Exatamente. Se as premissas são aceitas, a conclusão de que 'seu projeto deve ser priorizado' é uma **Implicação Lógica** (Conclusão Inevitável) da Premissa Menor. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Conclusão: 'O projeto do concorrente deve levar mais de 6 meses.'",
+            "feedback": "❌ Você está introduzindo uma variável nova (o concorrente) que não está nas premissas. A Dedução deve ser estritamente baseada nas premissas P1 e P2. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Conclusão: 'O tempo é um fator importante.'",
+            "feedback": "⚠️ A conclusão é fraca. A Dedução oferece um rigor lógico que não deve ser diluído em uma afirmação genérica. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Conclusão: 'A Premissa Maior é controversa.'",
+            "feedback": "⚠️ Isso questiona a validade do seu P1, mas não é a *Conclusão Inevitável* que se extrai se P1 e P2 forem verdadeiros. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "testedLesson": "A Lógica da Indução: Agrupamento de Fatos",
+        "narrative": "Você está defendendo o ponto 'Devemos investir no Novo Processo de Vendas'. Você decide usar a Indução, listando três razões. Um membro da equipe sugere misturar: 'Razão 1: O custo de vendas é alto. Razão 2: O novo processo será implementado em 3 meses. Razão 3: O custo de vendas é inaceitável.' Qual é o erro principal neste agrupamento Indutivo?",
+        "options": [
+          {
+            "value": "a",
+            "label": "O erro é a **sobreposição** (Razão 1 e 3) e a quebra de **Homogeneidade** (Ação 'implementação' vs. Razão 'custo').",
+            "feedback": "✅ Correto. A sobreposição (Não ME) e a mistura de tipos lógicos (Não Homogêneo) matam a clareza e a força da lista Indutiva. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "O erro é ter apenas 3 pontos. Precisamos de 7 para Indução.",
+            "feedback": "⚠️ O limite é 3 a 7. O erro não é o número, mas a qualidade do agrupamento. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "c",
+            "label": "O erro é não usar a Dedução, que é mais persuasiva.",
+            "feedback": "⚠️ Ambos são válidos. O problema aqui é o *uso incorreto* da Indução, não a escolha da lógica. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "d",
+            "label": "Não há erro. A Indução permite misturar fatos e ações.",
+            "feedback": "❌ Errado. A Indução (assim como a Dedução) exige **Homogeneidade** para que o agrupamento seja logicamente coerente. (0/3 ★)",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "testedLesson": "A Estrutura da Escrita: O Parágrafo Piramidal",
+        "narrative": "Você está revisando um parágrafo que detalha o argumento 'Vantagem Competitiva'. O parágrafo é muito longo (10 linhas). Qual é a principal falha na aplicação do Parágrafo Piramidal e o que você deve fazer?",
+        "options": [
+          {
+            "value": "a",
+            "label": "A falha é a diluição do **Tópico Frasal**. Você deve dividir o parágrafo em dois ou três parágrafos mais curtos, cada um com seu próprio Tópico Frasal, para manter a clareza em cada ideia.",
+            "feedback": "✅ Perfeito. Parágrafos muito longos diluem a ideia principal e sobrecarregam o leitor. O Parágrafo Piramidal exige que o parágrafo seja curto, focado e tenha apenas uma ideia. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "A falha é a falta de Dedução. Você deve transformar o parágrafo em um silogismo.",
+            "feedback": "⚠️ O parágrafo pode usar Indução. O problema não é a lógica horizontal, mas a **extensão** e a clareza vertical interna do parágrafo. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "c",
+            "label": "A falha é que o parágrafo não é MECE. Você deve adicionar mais detalhes.",
+            "feedback": "❌ O parágrafo já é muito longo (10 linhas). Adicionar mais detalhes agravaria o problema da clareza e da diluição do Tópico Frasal. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "d",
+            "label": "A falha é que ele não tem título. Você deve dar um título ao parágrafo.",
+            "feedback": "⚠️ Embora os títulos sejam importantes, o problema mais urgente é a estrutura interna do parágrafo e o risco de o leitor perder o foco na leitura. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 8,
+        "testedLesson": "A Estrutura da Escrita: O Uso de Títulos e Subtítulos",
+        "narrative": "Você está finalizando a estrutura do documento. Um título de seção é 'O Risco de Execução Foi Mitigado'. Qual é o risco de usar um subtítulo que diga 'Análise dos Riscos Críticos'?",
+        "options": [
+          {
+            "value": "a",
+            "label": "O risco é que o subtítulo seja uma **Afirmação** que não é suportada pelo corpo da subseção.",
+            "feedback": "⚠️ O subtítulo 'Análise dos Riscos Críticos' é um **tópico**, não uma afirmação. Esse é o erro principal. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "b",
+            "label": "O risco é que o subtítulo genérico (Tópico) quebre a **Relação Vertical** com o título principal ('Risco Mitigado'), forçando o leitor a ler o corpo para saber a conclusão.",
+            "feedback": "✅ Exatamente. O subtítulo deve ser uma **Afirmação** que responde 'Como o risco foi mitigado?'. Um tópico genérico falha na relação vertical Pergunta/Resposta. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "O risco é que o subtítulo não seja MECE.",
+            "feedback": "❌ O MECE é uma preocupação horizontal. O problema aqui é a falta de uma Afirmação (o topo da mini-pirâmide da seção). (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "d",
+            "label": "O risco é que o subtítulo seja muito curto.",
+            "feedback": "⚠️ O problema é a falta de clareza, não o tamanho. (1/3 ★)",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "step": 9,
+        "testedLesson": "A Lógica da Dedução: O Silogismo",
+        "narrative": "Você está usando a Dedução para provar que a 'Estratégia Y' trará resultados. Premissa Maior: 'O sucesso no mercado 'Z' depende da Inovação Contínua.' Premissa Menor: 'A Estratégia Y é o único plano que prioriza a Inovação Contínua.' Qual é o principal risco de o Conselho rejeitar a sua **Conclusão**?",
+        "options": [
+          {
+            "value": "a",
+            "label": "O risco é que a Premissa Maior seja rejeitada (ex: o Conselho discorda que 'sucesso depende da Inovação Contínua').",
+            "feedback": "✅ Correto. Em Dedução, se a Premissa Maior (P1) for rejeitada, toda a cadeia lógica falha, e a conclusão (Implicação) é invalidada. A força é igual à força da premissa mais fraca. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "O risco é que o argumento Indutivo seja mais persuasivo.",
+            "feedback": "⚠️ Embora a Indução seja popular, o problema aqui é o rigor lógico interno da Dedução. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "c",
+            "label": "O risco é que o argumento não seja Homogêneo.",
+            "feedback": "⚠️ O argumento é homogêneo (todas afirmações). O risco é a veracidade e aceitação da premissa. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "d",
+            "label": "O risco é que o silogismo seja muito longo.",
+            "feedback": "❌ O silogismo tem apenas 3 passos, o que é conciso. O risco é o conteúdo. (0/3 ★)",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "step": 10,
+        "testedLesson": "A Lógica da Indução: Agrupamento de Fatos",
+        "narrative": "Um conselheiro pede para ver as evidências que suportam o Ponto 'A Reestruturação de Vendas é Necessária'. Você decide apresentar 3 fatos. Qual é o principal benefício de usar a **Indução** nesse momento, em vez da Dedução?",
+        "options": [
+          {
+            "value": "a",
+            "label": "O benefício é a **velocidade** e a **facilidade de retenção**. O conselheiro pode absorver rapidamente a lista de razões e inferir a conclusão sem ter que seguir uma lógica passo a passo.",
+            "feedback": "✅ Perfeito. A Indução é otimizada para a velocidade de leitura e a capacidade de retenção de listas, tornando-a a escolha ideal para comunicar suporte em uma reunião de alto nível. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "O benefício é o rigor lógico e a prova de inevitabilidade da conclusão.",
+            "feedback": "❌ Isso é o objetivo da **Dedução**, não da Indução. A Indução apenas *suporta* a conclusão (inferência). (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "O benefício é que a Indução não exige Homogeneidade.",
+            "feedback": "❌ A Indução exige **Homogeneidade** e MECE. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "O benefício é que a Indução permite que você omita fatos controversos.",
+            "feedback": "⚠️ A Indução ainda exige que o agrupamento seja Coletivamente Exaustivo (CE). Omitir fatos quebra o CE. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 11,
+        "testedLesson": "A Estrutura da Escrita: O Parágrafo Piramidal",
+        "narrative": "Você está corrigindo um parágrafo. O Tópico Frasal é: 'A meta de receita é alcançável (Tópico Frasal).' As frases seguintes misturam dados de receita com metas de satisfação do cliente. Qual é o seu diagnóstico mais crítico?",
+        "options": [
+          {
+            "value": "a",
+            "label": "A falha é a quebra da **Homogeneidade** e do foco do parágrafo. O parágrafo sobre 'Receita' deve ser suportado apenas por dados de 'Receita' ou 'Vendas'.",
+            "feedback": "✅ Correto. A mini-pirâmide (parágrafo) exige que as frases de suporte sejam homogêneas e se liguem logicamente ao Tópico Frasal. Misturar tópicos quebra a lógica. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "A falha é que o parágrafo é muito curto.",
+            "feedback": "❌ Não é a principal falha. O parágrafo tem um problema de conteúdo/lógica. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "A falha é que o Tópico Frasal não é uma afirmação.",
+            "feedback": "⚠️ 'A meta de receita é alcançável' é uma afirmação. O problema é o *suporte* das frases seguintes. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "A falha é a falta de Dedução.",
+            "feedback": "⚠️ O parágrafo pode usar Indução. O problema é a mistura de temas no suporte. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 12,
+        "testedLesson": "A Estrutura da Escrita: O Uso de Títulos e Subtítulos",
+        "narrative": "O debate terminou com sucesso! O Conselho elogia a clareza. Qual é a principal característica que você implementou nos **títulos** para garantir que eles se tornassem o 'esqueleto' da sua persuasão?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você usou títulos genéricos para não prejulgar o corpo da seção.",
+            "feedback": "❌ Errado. Títulos genéricos (tópicos) quebram a clareza do esqueleto. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "b",
+            "label": "Você garantiu que cada título fosse uma **Afirmação** que comunicava a conclusão da seção e que se ligava verticalmente ao título superior.",
+            "feedback": "✅ Perfeito. Títulos como **Afirmações** transformam o índice em um Resumo Executivo, permitindo que o leitor compreenda o argumento completo apenas lendo o esqueleto. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Você usou Dedução em todos os títulos.",
+            "feedback": "⚠️ Os títulos devem ser afirmações, mas a lógica horizontal (Dedução vs. Indução) se aplica ao *agrupamento* de subtítulos, não ao título em si. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Você limitou todos os títulos a exatamente 3 palavras.",
+            "feedback": "⚠️ A concisão é valorizada, mas o número exato de palavras não é o ponto principal; a **clareza da afirmação** é. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "simulationId": 5,
+    "title": "📝 Simulação: A Crônica da Reunião (Fluxo e Revisão Final)",
+    "introduction": "Você deve redigir o 'Minuta da Reunião Estratégica' para o CEO, transformando o debate caótico em um documento de 2 páginas que segue impecavelmente o Princípio da Pirâmide. O documento deve ser um guia lógico, usando o **Fluxo Narrativo (SCQ)** para começar, **Listas** para clareza Indutiva e **Palavras de Transição** para costurar a lógica. Seu último desafio é aplicar a **Revisão Final** para detectar falhas verticais e horizontais. Prepare-se para 12 decisões que determinarão a clareza final do seu trabalho.",
+    "challenges": [
+      {
+        "step": 1,
+        "testedLesson": "A Estrutura da Escrita: O Fluxo Narrativo",
+        "narrative": "Você começa a minuta. O objetivo é engajar o CEO imediatamente e levá-lo à Resposta. O rascunho atual tem a Situação ('O mercado cresceu 10%'). Agora, você precisa introduzir a **Complicação** de forma que gere a tensão necessária. Qual é a melhor Complicação e como você deve fazer a transição?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você usa a transição 'Portanto,' e a Complicação: 'aumentamos o nosso lucro em 5%.'",
+            "feedback": "❌ 'Portanto' indica uma conclusão, não uma Complicação. Além disso, 'aumentar o lucro' não é um evento de tensão. Isso quebra o fluxo narrativo (SCQ). (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "b",
+            "label": "Você usa a transição 'No entanto, ou Mas,' e a Complicação: 'o Custo de Aquisição de Clientes (CAC) dobrou, ameaçando a Margem Líquida.'",
+            "feedback": "✅ Perfeito. A transição ('No entanto') é ideal para introduzir a tensão que quebra a normalidade da Situação. Isso cria um 'gancho' poderoso para a Pergunta e a Resposta. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Você usa a transição 'Em resumo,' e a Complicação: 'o problema é a falta de comunicação interna.'",
+            "feedback": "⚠️ 'Em resumo' indica que você está subindo na Pirâmide (resumindo), não apresentando um novo evento (Complicação). Além disso, a Complicação é muito genérica. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Você usa a transição 'Além disso,' e a Complicação: 'o CEO já demonstrou preocupação com o CAC.'",
+            "feedback": "⚠️ 'Além disso' é uma transição Indutiva (agrupamento). A Complicação é válida, mas a transição não é a ideal para indicar a quebra de normalidade. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "testedLesson": "A Estrutura da Escrita: O Uso de Listas",
+        "narrative": "Você está detalhando o argumento 'O CAC dobrou por 3 Razões'. Para comunicar o suporte Indutivo rapidamente, você usa uma lista (Nível 3). Seu colega insiste em misturar: '1. O mercado B está pronto (Razão), 2. Devemos reduzir custos (Ação), 3. A concorrência aumentou (Razão)'. Qual é a falha primária desta lista, focada no uso correto de listas na Pirâmide?",
+        "options": [
+          {
+            "value": "a",
+            "label": "A lista é muito longa, violando o limite de 3 a 7 itens.",
+            "feedback": "❌ A lista tem 3 itens, o que está dentro do limite. O problema não é o tamanho. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "b",
+            "label": "A lista falha na **Homogeneidade** ao misturar Razões e uma Ação ('Reduzir custos'). Listas devem agrupar ideias do mesmo tipo lógico (razões ou ações).",
+            "feedback": "✅ Exatamente. Listas são a representação da Indução e exigem **Homogeneidade**. Misturar tipos lógicos (Razão e Ação) quebra a lógica do agrupamento. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "A lista não é Dedutiva.",
+            "feedback": "⚠️ Listas são tipicamente usadas para **Indução**, não Dedução. A crítica deve ser sobre o uso da Indução. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "A lista não é Coletivamente Exaustiva (CE).",
+            "feedback": "⚠️ Embora possa não ser CE, o erro mais crítico é a quebra imediata da **Homogeneidade** ao misturar tipos. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "testedLesson": "A Revisão Final: Testando a Lógica da Pirâmide",
+        "narrative": "Você faz a **Revisão Final** do seu documento lendo apenas os Títulos e Subtítulos. O fluxo é: Título 1: 'O CAC é Inaceitável.' Subtítulo 1.1: '3 Razões para o CAC alto.' Subtítulo 1.1.1: 'A concorrência aumentou.' Qual é a falha na **Relação Vertical**?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Não há falha. Título, Resumo e Detalhe estão corretos.",
+            "feedback": "❌ Títulos devem ser **Afirmações/Conclusões**, não Tópicos. O Título 1 e o Subtítulo 1.1 são tópicos, não afirmações, quebrando a clareza vertical. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "b",
+            "label": "A falha é que o Subtítulo 1.1.1 ('A concorrência aumentou') não é MECE em relação ao Subtítulo 1.1 ('3 Razões').",
+            "feedback": "⚠️ O erro principal não é o MECE (horizontal), mas sim a falta de uma Afirmação (o topo da mini-pirâmide). A Relação Vertical (Pergunta/Resposta) é prejudicada. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "c",
+            "label": "O Título 1 e o Subtítulo 1.1 são apenas **Tópicos Genéricos**. Eles não são afirmações, quebrando a **Relação Vertical** de Pergunta/Resposta para o leitor. (Ex: O Título 1 deveria ser: 'O CAC Alto Exige Ação Imediata.')",
+            "feedback": "✅ Perfeito. Títulos genéricos não comunicam a conclusão. O teste revela que o leitor é forçado a perguntar: 'Qual é a conclusão sobre o CAC?'. A clareza vertical é perdida. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "d",
+            "label": "A falha é que a Indução não é a melhor escolha para o Nível 1.",
+            "feedback": "⚠️ O problema é a forma como o título é escrito (tópico), e não a lógica subjacente. (1/3 ★)",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "testedLesson": "A Estrutura da Escrita: O Uso de Palavras de Transição",
+        "narrative": "Você está conectando dois parágrafos. O Parágrafo A detalha o custo de vendas (Razão). O Parágrafo B detalha o aumento da concorrência (Outra Razão). Qual é a melhor **Palavra de Transição** para começar o Parágrafo B e por quê?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você usa 'Portanto,'. Porque indica uma conclusão.",
+            "feedback": "❌ 'Portanto' indica uma conclusão (Dedução), o que estaria incorreto, pois o Parágrafo B é um novo suporte (Indução), não uma consequência. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "b",
+            "label": "Você usa 'No entanto,'. Porque indica uma Complicação.",
+            "feedback": "⚠️ 'No entanto' indica uma Complicação ou contraste. Embora seja uma mudança de ideia, não é o ideal para agrupar duas razões do mesmo nível. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "c",
+            "label": "Você usa 'Além disso,'. Porque indica que a ideia B é um suporte adicional e do mesmo tipo lógico (Indução) que a ideia A.",
+            "feedback": "✅ Perfeito. 'Além disso' é uma transição Indutiva (agrupamento) que sinaliza ao leitor que a próxima ideia é um suporte adicional e está no mesmo nível horizontal de lógica (Homogeneidade). (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "d",
+            "label": "Você usa 'Em resumo,'. Porque indica que você está subindo na Pirâmide.",
+            "feedback": "⚠️ 'Em resumo' deve ser usado para subir de nível e apresentar uma síntese, não para introduzir um ponto do mesmo nível horizontal. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "testedLesson": "A Estrutura da Escrita: O Fluxo Narrativo",
+        "narrative": "O CEO diz: 'Eu entendi o CAC e a ameaça à Margem Líquida. Qual é a Pergunta que seu documento vai responder?'. Você precisa formular a Pergunta de forma clara para que a **Resposta** no topo da Pirâmide resolva o problema. Qual é o melhor formato de Pergunta?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você pergunta: 'Como a ameaça à Margem Líquida pode ser transformada em uma oportunidade de redução de CAC e Vendas?'",
+            "feedback": "✅ Perfeito. A Pergunta é clara, concisa e se liga logicamente à Situação/Complicação. Ela exige uma **Resposta de Ação** no topo da Pirâmide. O fluxo narrativo (SCQ) está completo. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Você pergunta: 'Quem é o culpado pelo aumento do CAC?'",
+            "feedback": "❌ A Pergunta não deve ser punitiva; deve buscar uma **solução**. Isso quebra o foco da Pirâmide, que é a Resposta/Ação. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Você pergunta: 'Temos 3 opções, qual delas o senhor prefere?'",
+            "feedback": "⚠️ A Pergunta deve ser a questão que o leitor tem, não uma lista de opções. A Pirâmide deve fornecer a *melhor* resposta, não apenas as opções. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Você pergunta: 'A Margem Líquida realmente está em risco?'",
+            "feedback": "⚠️ A Pergunta questiona a própria Complicação. A Complicação deve ser um fato aceito. A pergunta deve ser sobre a **ação necessária**. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "testedLesson": "A Estrutura da Escrita: O Uso de Listas",
+        "narrative": "Você está listando as '3 Ações para o novo Funil de Vendas'. Você precisa garantir o **MECE** na lista de ações. Qual é a melhor lista de ações MECE, sob o ponto de vista de um processo de vendas?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Ações: '1. Otimizar SEO, 2. Aumentar Mídia Paga, 3. Criar Conteúdo de Blog.'",
+            "feedback": "⚠️ Otimizar SEO e Criar Conteúdo de Blog se sobrepõem (Não ME) em termos de Marketing de Conteúdo. A lista não é idealmente MECE. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "b",
+            "label": "Ações: '1. Geração de Leads (Topo do Funil), 2. Qualificação de Leads (Meio do Funil), 3. Fechamento de Vendas (Fundo do Funil).'",
+            "feedback": "✅ Perfeito. Essas 3 ações são perfeitamente **MECE** (Mutuamente Exclusivas e Coletivamente Exaustivas) para cobrir um Processo de Vendas. Elas são homogêneas (todas Ações). (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Ações: '1. Otimizar SEO, 2. Reduzir custos, 3. Contratar 2 vendedores.'",
+            "feedback": "❌ Você misturou Ações de Marketing, Finanças e RH. Além de quebrar o MECE e a **Homogeneidade**, você tem um agrupamento muito fraco. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "d",
+            "label": "Ações: '1. Aumentar a Receita, 2. Diminuir o Custo.'",
+            "feedback": "⚠️ Embora sejam metas (Metas/Ações), elas se sobrepõem em termos de Vendas (Não ME), e não são específicas o suficiente para a Ação de 'novo Funil de Vendas'. (1/3 ★)",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "testedLesson": "A Estrutura da Escrita: O Uso de Palavras de Transição",
+        "narrative": "Você está detalhando a Conclusão: 'O novo Funil de Vendas reduzirá o CAC em 40%'. A próxima frase deve ser uma **ressalva** sobre o risco. Qual é a melhor **Palavra de Transição** para introduzir essa ressalva e por quê?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você usa 'Portanto,'. Porque indica uma conclusão de risco.",
+            "feedback": "❌ 'Portanto' indica conclusão, e não uma ressalva. A transição é logicamente incorreta para este ponto. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "b",
+            "label": "Você usa 'Além disso,'. Porque agrupa a conclusão com o risco.",
+            "feedback": "⚠️ 'Além disso' agrupa ideias semelhantes. Risco não é uma ideia semelhante a 'redução de CAC'. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "c",
+            "label": "Você usa 'Em resumo,'. Porque resume o risco.",
+            "feedback": "⚠️ 'Em resumo' indica uma síntese de um nível acima. Não é a transição correta para introduzir uma ressalva. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "d",
+            "label": "Você usa 'No entanto,'. Porque indica uma **oposição/ressalva** à afirmação anterior sobre a redução de CAC.",
+            "feedback": "✅ Perfeito. 'No entanto' é a palavra de transição que sinaliza uma mudança de direção ou uma ressalva, ideal para introduzir um ponto de contraste (o risco). (3/3 ★)",
+            "score": 3
+          }
+        ]
+      },
+      {
+        "step": 8,
+        "testedLesson": "A Revisão Final: Testando a Lógica da Pirâmide",
+        "narrative": "Durante a **Revisão Final**, você nota que o argumento 'Geração de Leads' (Topo do Funil) é suportado por 5 fatos sobre o novo software de marketing. Você se pergunta: 'Os 5 fatos são **MECE**?'. Você descobre que 2 dos 5 fatos (ex: 'Melhor segmentação' e 'Melhor análise') se sobrepõem. Qual é a sua ação de correção, focada na lógica horizontal?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você agrupa os dois pontos sobrepostos em um único item ('Segmentação e Análise Aprimoradas') e reduz a lista para 4 itens, restaurando a regra **ME** (Mutuamente Exclusivo).",
+            "feedback": "✅ Exatamente. A sobreposição (Não ME) exige o reagrupamento ou eliminação. Você cria uma nova afirmação que encapsula as ideias sobrepostas, restaurando a clareza e o rigor lógico. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "Você ignora a sobreposição, pois é Indução e não precisa ser tão rigorosa.",
+            "feedback": "❌ A Indução ainda exige MECE. Ignorar a falha compromete a credibilidade e a clareza. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "Você usa a Dedução para tentar resolver a sobreposição.",
+            "feedback": "⚠️ A Dedução não resolve falhas de agrupamento (horizontal). Você precisa reorganizar o grupo, não mudar a lógica. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Você adiciona mais 3 fatos para tornar a lista Coletivamente Exaustiva.",
+            "feedback": "⚠️ Adicionar mais itens não resolve a sobreposição (o problema é o ME, não o CE). Além disso, a lista ficaria muito longa. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 9,
+        "testedLesson": "A Estrutura da Escrita: O Fluxo Narrativo",
+        "narrative": "O CEO diz que o relatório foi 'uma das apresentações mais claras que já viu'. Qual é o elemento da Introdução (SCQ) que mais contribuiu para o engajamento e a aceitação imediata da sua Resposta?",
+        "options": [
+          {
+            "value": "a",
+            "label": "A Situação (S), pois estabeleceu o terreno comum.",
+            "feedback": "⚠️ A Situação é importante para a credibilidade, mas não é o elemento que gera a urgência ou o engajamento principal. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "b",
+            "label": "A Complicação (C), pois criou a tensão e a urgência que exigiam a leitura da Resposta no topo.",
+            "feedback": "✅ Corretíssimo. A **Complicação** é o motor do fluxo narrativo (SCQ). Ela gera a tensão ('gancho') que força o leitor a aceitar a Resposta como necessária. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "A Resposta no topo da Pirâmide.",
+            "feedback": "⚠️ A Resposta só é aceita se o SCQ for eficaz. A Complicação é o que justifica a Resposta. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "d",
+            "label": "A Pergunta (Q), pois ela foi muito bem escrita.",
+            "feedback": "❌ A Pergunta é o elo, mas a Complicação é o que *gera* a Pergunta. O motor da narrativa é a Complicação. (0/3 ★)",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "step": 10,
+        "testedLesson": "A Estrutura da Escrita: O Uso de Listas",
+        "narrative": "Você está revisando um slide que lista 10 benefícios do novo Funil de Vendas. Você sabe que 10 é demais para a retenção. Qual é o melhor plano de correção, focado no uso de listas?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Mover 7 benefícios para um apêndice e manter os 3 mais importantes na lista. (Listas de 3 a 7)",
+            "feedback": "⚠️ A lista fica curta, mas você está ignorando o princípio do **agrupamento**. O ideal é agrupar, não apenas cortar. (2/3 ★)",
+            "score": 2
+          },
+          {
+            "value": "b",
+            "label": "Agrupar os 10 benefícios em **3 Categorias MECE** (ex: Financeiro, Operacional e Estratégico) e apresentar a nova lista de 3 categorias, criando um novo nível.",
+            "feedback": "✅ Exatamente. A correção para listas longas é o **agrupamento** indutivo, que cria um novo nível (o resumo das categorias) e restaura a clareza e a retenção. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Mudar a lógica de Indução para Dedução.",
+            "feedback": "❌ A Dedução não resolve o problema do excesso de itens. O problema é a forma de apresentação. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "d",
+            "label": "Usar o Parágrafo Piramidal para escrever os 10 itens.",
+            "feedback": "⚠️ O parágrafo ficaria muito longo, violando o princípio do Parágrafo Piramidal (um parágrafo, uma ideia). (1/3 ★)",
+            "score": 1
+          }
+        ]
+      },
+      {
+        "step": 11,
+        "testedLesson": "A Revisão Final: Testando a Lógica da Pirâmide",
+        "narrative": "Você nota que a Conclusão 'O Funil de Vendas será totalmente implementado em 6 meses' não é suportada pelos 3 passos de implementação (Nível abaixo). O passo 3 diz 'Contratação de novo gerente de marketing', que levará 8 meses. Isso é um **Salto Lógico**. Qual é a sua ação de correção, focada no teste vertical?",
+        "options": [
+          {
+            "value": "a",
+            "label": "Você mantém os 6 meses e ignora o passo de 8 meses.",
+            "feedback": "❌ Você está ignorando a falha lógica. O problema na **Relação Vertical** deve ser resolvido, não escondido. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "b",
+            "label": "Você corrige a ideia superior: 'O Funil de Vendas será implementado em *8 meses*, e não 6', ajustando a Conclusão para refletir a realidade do suporte abaixo.",
+            "feedback": "✅ Exatamente. A **Conclusão (Ideia Superior)** deve ser corrigida para refletir o suporte lógico da base (ideias inferiores). Você restaura a Relação Vertical (Pergunta/Resposta). (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "c",
+            "label": "Você corrige o passo 3: 'Contratação em 6 meses', mas sem mudar o prazo de 8 meses, pois isso é gramaticalmente incorreto.",
+            "feedback": "⚠️ Você estaria forçando o dado para encaixar a conclusão, o que é o oposto do princípio de construir de baixo para cima. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "Você usa a Dedução para provar que a contratação levará 6 meses.",
+            "feedback": "⚠️ A Dedução não pode mudar a realidade dos dados (8 meses). O problema é o *Salto Lógico* entre os níveis. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      },
+      {
+        "step": 12,
+        "testedLesson": "A Estrutura da Escrita: O Uso de Palavras de Transição",
+        "narrative": "No final do relatório, você escreve o parágrafo de fechamento. Ele começa com 'Em resumo, a crise do CAC exige ação...' e termina com '...Portanto, a aprovação do plano Funil X é crucial.'. O que a transição **'Portanto'** faz neste contexto, focada na persuasão final?",
+        "options": [
+          {
+            "value": "a",
+            "label": "O 'Portanto' indica que a Resposta final é uma **conclusão lógica** do resumo anterior (Indução), selando o argumento com rigor e clareza.",
+            "feedback": "✅ Perfeito. O 'Portanto' é a transição de **Dedução** que, mesmo após uma lista (Indução) de argumentos, força o leitor a aceitar a conclusão como a consequência lógica de tudo o que foi dito. (3/3 ★)",
+            "score": 3
+          },
+          {
+            "value": "b",
+            "label": "O 'Portanto' indica que a Resposta é apenas uma opção. (Não persuasivo)",
+            "feedback": "❌ 'Portanto' é o sinal de inevitabilidade lógica, o oposto de apenas uma 'opção'. (0/3 ★)",
+            "score": 0
+          },
+          {
+            "value": "c",
+            "label": "O 'Portanto' quebra o fluxo e deveria ser substituído por 'Além disso'.",
+            "feedback": "⚠️ 'Além disso' não indica o fechamento final. O 'Portanto' é a escolha certa para a conclusão. (1/3 ★)",
+            "score": 1
+          },
+          {
+            "value": "d",
+            "label": "O 'Portanto' é desnecessário, pois a clareza da Pirâmide já está garantida.",
+            "feedback": "⚠️ É o oposto. A transição final é a **chave** para selar a persuasão. É o último sinal lógico. (2/3 ★)",
+            "score": 2
+          }
+        ]
+      }
+    ]
+  }
+]

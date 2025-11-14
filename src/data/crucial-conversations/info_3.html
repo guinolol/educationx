@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sketchnote: Histórias Inteligentes & Diálogo</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 20px;
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+        /* TITLE */
+        .title-wrapper {
+            text-align: center;
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #0288d1;
+        }
+        .chapter-label {
+            display: inline-block;
+            background: #0288d1;
+            color: white;
+            padding: 10px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 50px;
+            margin-bottom: 15px;
+            font-family: 'Caveat', cursive;
+        }
+        .title {
+            font-size: 52px;
+            font-weight: bold;
+            color: #01579b;
+            font-family: 'Caveat', cursive;
+            margin-bottom: 12px;
+            letter-spacing: 1px;
+        }
+        .subtitle {
+            font-size: 24px;
+            color: #0288d1;
+            font-style: italic;
+        }
+
+        /* CHAPTER CARDS */
+        .chapters {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        .chapter-card {
+            background: white;
+            padding: 30px;
+            border-radius: 14px;
+            box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+        }
+        .chapter-9 { border-top: 6px solid #0288d1; }
+        .chapter-10 { border-top: 6px solid #c2185b; }
+        .chapter-11 { border-top: 6px solid #388e3c; }
+        .chapter-12 { border-top: 6px solid #f57c00; }
+
+        .chapter-title {
+            font-size: 26px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-family: 'Caveat', cursive;
+        }
+        .emoji { font-size: 32px; }
+
+        .teaser {
+            font-size: 18px;
+            font-weight: bold;
+            color: #555;
+            margin-bottom: 20px;
+            background: #f9f9f9;
+            padding: 12px;
+            border-radius: 8px;
+            border-left: 3px solid #aaa;
+        }
+
+        .sub-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin: 22px 0 14px;
+            color: #555;
+        }
+
+        .principles-list, .checklist-list {
+            list-style: none;
+            font-size: 16px;
+            color: #444;
+        }
+        .principles-list li, .checklist-list li {
+            margin-bottom: 12px;
+            padding-left: 30px;
+            position: relative;
+            line-height: 1.5;
+        }
+        .principles-list li:before {
+            content: "🧠";
+            position: absolute;
+            left: 0;
+            font-size: 18px;
+        }
+        .checklist-list li:before {
+            content: "✅";
+            position: absolute;
+            left: 0;
+            font-size: 18px;
+        }
+
+        .fools-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
+            margin-top: 16px;
+        }
+        .fool-card {
+            background: #ffebee;
+            padding: 16px;
+            border-radius: 10px;
+            text-align: center;
+            border-top: 3px solid #d32f2f;
+        }
+        .fool-label {
+            font-weight: bold;
+            color: #b71c1c;
+            font-size: 17px;
+            margin-bottom: 6px;
+            display: block;
+        }
+
+        .crib-grid, .abc-grid, .ampp-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 16px;
+            margin-top: 16px;
+        }
+        .crib-card {
+            background: #e8f5e9;
+            padding: 16px;
+            border-radius: 10px;
+            border-left: 4px solid #2e7d32;
+        }
+        .crib-label {
+            font-weight: bold;
+            color: #1b5e20;
+            font-size: 17px;
+            margin-bottom: 6px;
+        }
+        .crib-desc {
+            font-size: 14px;
+            color: #388e3c;
+        }
+
+        .abc-card {
+            background: #fff8e1;
+            padding: 16px;
+            border-radius: 10px;
+            border-left: 4px solid #f57c00;
+        }
+        .abc-label {
+            font-weight: bold;
+            color: #e65100;
+            font-size: 17px;
+            margin-bottom: 6px;
+        }
+        .abc-desc {
+            font-size: 14px;
+            color: #f57c00;
+        }
+
+        .highlight {
+            font-weight: bold;
+            color: #0d47a1;
+            background: rgba(13, 71, 161, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+
+        .insight {
+            background: #e3f2fd;
+            border-left: 6px solid #1976d2;
+            padding: 35px;
+            border-radius: 10px;
+            margin-top: 30px;
+            text-align: center;
+        }
+        .insight-text {
+            font-size: 22px;
+            line-height: 1.6;
+            color: #0d47a1;
+            font-family: 'Caveat', cursive;
+        }
+
+        @media (max-width: 768px) {
+            .chapters,
+            .fools-grid,
+            .crib-grid,
+            .abc-grid,
+            .ampp-grid {
+                grid-template-columns: 1fr;
+            }
+            .title {
+                font-size: 40px;
+            }
+            .chapter-title {
+                font-size: 22px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- TITLE -->
+        <div class="title-wrapper">
+            <div class="chapter-label">CONVERSAS CRUCIAIS</div>
+            <div class="title">🌀 Histórias Inteligentes & Diálogo</div>
+            <div class="subtitle">Domine suas histórias. Conecte-se com os outros. Crie significado compartilhado.</div>
+        </div>
+
+        <!-- CHAPTERS -->
+        <div class="chapters">
+            <!-- CAP 9 -->
+            <div class="chapter-card chapter-9">
+                <div class="chapter-title"><span class="emoji">🧠</span> Capítulo 9: Domine Minhas Histórias</div>
+                <div class="teaser">FATOS → HISTÓRIA → EMOÇÃO → AÇÃO. Seu ponto de controle? A HISTÓRIA.</div>
+                <div class="sub-title">3 Histórias Estúpidas (Fool's Stories)</div>
+                <div class="fools-grid">
+                    <div class="fool-card"><span class="fool-label">Vítima</span>“Não é minha culpa!”</div>
+                    <div class="fool-card"><span class="fool-label">Vilão</span>“A culpa é toda dele!”</div>
+                    <div class="fool-card"><span class="fool-label">Desamparo</span>“Não há nada que eu possa fazer!”</div>
+                </div>
+                <div class="sub-title">Checklist Prático</div>
+                <ul class="checklist-list">
+                    <li>Pause e pergunte: “Que história estou contando?”</li>
+                    <li>Volte ao Fato Cru (observável e inegável)</li>
+                    <li>Vítima → “Qual é MEU papel nisso?”</li>
+                    <li>Vilão → “Por que uma pessoa RAZOÁVEL faria isso?”</li>
+                    <li>Desamparo → “O que EU posso fazer AGORA?”</li>
+                </ul>
+            </div>
+
+            <!-- CAP 10 -->
+            <div class="chapter-card chapter-10">
+                <div class="chapter-title"><span class="emoji">🤡</span> Capítulo 10: As Três Histórias Estúpidas</div>
+                <div class="teaser">Junk food para a alma. Faz você se sentir bem… mas mata o diálogo.</div>
+                <div class="sub-title">Propósito das Fool’s Stories</div>
+                <ul class="principles-list">
+                    <li>Justificam Silêncio ou Violência</li>
+                    <li>Criam sensação de inocência ou superioridade</li>
+                    <li>Bloqueiam a responsabilidade e o diálogo</li>
+                </ul>
+                <div class="sub-title">De Estúpida → Inteligente</div>
+                <ul class="checklist-list">
+                    <li>Reconheça a história em tempo real</li>
+                    <li>Desafie-a com perguntas específicas</li>
+                    <li>Reformule com foco em ação e propósito</li>
+                    <li>Nunca esqueça: <span class="highlight">você é o diretor da sua mente</span></li>
+                </ul>
+            </div>
+
+            <!-- CAP 11 -->
+            <div class="chapter-card chapter-11">
+                <div class="chapter-title"><span class="emoji">🔧</span> Capítulo 11: Contraste & Propósito Mútuo</div>
+                <div class="teaser">Chaves mestras para restaurar segurança quando ela cai.</div>
+                <div class="sub-title">Contraste (para Respeito Mútuo)</div>
+                <div class="teaser">“NÃO quero X… SIM quero Y.”</div>
+                <div class="sub-title">CRIB (para Propósito Mútuo)</div>
+                <div class="crib-grid">
+                    <div class="crib-card">
+                        <div class="crib-label">C – Commit</div>
+                        <div class="crib-desc">Pare a luta até haver segurança</div>
+                    </div>
+                    <div class="crib-card">
+                        <div class="crib-label">R – Recognize</div>
+                        <div class="crib-desc">“Por que você quer isso?”</div>
+                    </div>
+                    <div class="crib-card">
+                        <div class="crib-label">I – Invent</div>
+                        <div class="crib-desc">Crie um propósito maior</div>
+                    </div>
+                    <div class="crib-card">
+                        <div class="crib-label">B – Build</div>
+                        <div class="crib-desc">Construam juntos a solução</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- CAP 12 -->
+            <div class="chapter-card chapter-12">
+                <div class="chapter-title"><span class="emoji">🎭</span> Capítulo 12: Combinando Falar e Ouvir</div>
+                <div class="teaser">Diálogo = Dança entre STATE (falar) e AMPP (ouvir).</div>
+                <div class="sub-title">STATE</div>
+                <ul class="principles-list">
+                    <li>Fatos → História → Pergunta → Humildade</li>
+                </ul>
+                <div class="sub-title">AMPP</div>
+                <ul class="principles-list">
+                    <li>Ask → Mirror → Paraphrase → Prime</li>
+                </ul>
+                <div class="sub-title">ABC: Integre os Caminhos</div>
+                <div class="abc-grid">
+                    <div class="abc-card">
+                        <div class="abc-label">A – Agree</div>
+                        <div class="abc-desc">Concorde com o que é possível</div>
+                    </div>
+                    <div class="abc-card">
+                        <div class="abc-label">B – Build</div>
+                        <div class="abc-desc">Adicione sua ideia à dele</div>
+                    </div>
+                    <div class="abc-card">
+                        <div class="abc-label">C – Compare</div>
+                        <div class="abc-desc">Apresente diferenças com respeito</div>
+                    </div>
+                    <div class="abc-card">
+                        <div class="abc-label">⚠️ Cuidado</div>
+                        <div class="abc-desc">Concordar por medo = Silêncio</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- KEY INSIGHT -->
+        <div class="insight">
+            <div class="insight-text">
+                “Suas histórias controlam você.<br>Até você controlar suas histórias.”
+            </div>
+        </div>
+    </div>
+</body>
+</html>

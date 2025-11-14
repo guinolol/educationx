@@ -1,0 +1,2782 @@
+[
+  {
+    "id": 1,
+    "title": "A Mentalidade do Fim de Semana Milionário: Velocidade e Validação",
+    "teaser": "🚀 Em 48h, sua única missão é provar que as pessoas **pagarão** pela sua ideia. A perfeição é o seu inimigo.",
+    "level1": "A mentalidade do Million Dollar Weekend (MDW) é que você pode validar e lançar um negócio de 7 dígitos em 48 horas. Isso exige abandonar o perfeccionismo e focar na ação. O objetivo não é construir o produto final, mas provar que as pessoas pagarão por ele.",
+    "level2": "Pare de planejar e comece a fazer. O tempo é seu inimigo. Em vez de passar meses construindo um site perfeito, gaste 48 horas para criar uma oferta mínima e colocá-la na frente de clientes pagantes. A validação é a única métrica que importa.",
+    "level3": "Ruim: 'Vou passar 6 meses codificando o app perfeito.' Bom: 'Vou criar uma landing page hoje, vender um plano em PDF por R$ 50, e se 10 pessoas pagarem, a ideia está validada.'",
+    "recapitulation": [
+      "Perfeccionismo é o principal inimigo do empreendedor MDW (Paralisia por Análise).",
+      "O 'Teste do $1' é a única validação real: alguém pagar.",
+      "A restrição de tempo (48h) força o foco no MVO (Minimum Viable Offer) e na venda.",
+      "Ação e iteração superam o planejamento e a construção prolongada.",
+      "Se você não está envergonhado do seu MVO, você lançou tarde demais (Vergonha = Sinal de Velocidade).",
+      "O Custo da Inação é sempre maior do que o custo de um lançamento imperfeito."
+    ],
+    "practicalChecklist": [
+      "Identifique o MVO: Qual a versão mais simples e vendável da sua ideia?",
+      "Crie uma Landing Page em 4 horas (simples, focada na dor e no Ask).",
+      "Bloqueie 48 horas no calendário – proteja esse tempo implacavelmente (Time Blocking).",
+      "Decida o preço. Deve ser um valor que **te incomode** (Teste de Preço Alto).",
+      "Comprometa-se a lançar o MVO, não o MVP.",
+      "Mantenha em mente: Feito é melhor que perfeito. Lance para aprender, não para impressionar."
+    ],
+    "conclusionMessage": "O MDW foca em velocidade e validação rápida. A mentalidade é de 'lançar agora, aperfeiçoar depois', priorizando o feedback real do mercado sobre a perfeição.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal inimigo do empreendedor MDW?",
+        "options": [
+          { "value": "a", "label": "Concorrência." },
+          { "value": "b", "label": "Falta de capital." },
+          { "value": "c", "label": "Perfeccionismo e Análise Paralisante." },
+          { "value": "d", "label": "Falta de tempo." }
+        ],
+        "explanation": "O perfeccionismo impede o lançamento. O MDW exige que você lance o mais rápido possível para obter dados reais.",
+        "hint": "O que te impede de lançar?",
+        "correctAnswer": "c",
+        "bookExample": "Se você não está envergonhado do seu primeiro produto, você lançou tarde demais."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'O Teste do $1'?",
+        "options": [
+          { "value": "a", "label": "A única validação real é quando alguém paga (mesmo que seja um valor simbólico) pelo seu produto ou serviço." },
+          { "value": "b", "label": "Vender o produto por $1." },
+          { "value": "c", "label": "Pedir feedback gratuito." },
+          { "value": "d", "label": "Fazer uma pesquisa de mercado." }
+        ],
+        "explanation": "O dinheiro é a prova de que o cliente tem um problema que ele está disposto a resolver. Opiniões são baratas; dinheiro é caro.",
+        "hint": "Ação de compra.",
+        "correctAnswer": "a",
+        "bookExample": "As pessoas mentem, mas o dinheiro não mente."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Restrição de Tempo' (48 horas)?",
+        "options": [
+          { "value": "a", "label": "Garantir que o produto seja perfeito." },
+          { "value": "b", "label": "Apenas um truque de marketing." },
+          { "value": "c", "label": "Forçar o foco no essencial (o MVO - Minimum Viable Offer) e evitar o excesso de recursos." },
+          { "value": "d", "label": "Permitir que você durma pouco." }
+        ],
+        "explanation": "Restrições geram criatividade e forçam a priorização do que realmente importa: a venda.",
+        "hint": "Foco e priorização.",
+        "correctAnswer": "c",
+        "bookExample": "A pressão do tempo é o que transforma uma ideia em um negócio."
+      },
+      {
+        "id": "4",
+        "question": "O que é um 'Minimum Viable Offer' (MVO)?",
+        "options": [
+          { "value": "a", "label": "Um protótipo não funcional." },
+          { "value": "b", "label": "A versão mais simples da sua solução que você pode vender para validar a demanda." },
+          { "value": "c", "label": "O produto final." },
+          { "value": "d", "label": "Um plano de negócios." }
+        ],
+        "explanation": "O MVO é o que você usa para fazer o Teste do $1. Pode ser uma landing page, um PDF ou um serviço manual.",
+        "hint": "Versão mais simples vendável.",
+        "correctAnswer": "b",
+        "bookExample": "Não construa o carro; venda o bilhete de ônibus."
+      },
+      {
+        "id": "5",
+        "question": "Por que é crucial 'Lançar e Iterar' em vez de 'Planejar e Construir'?",
+        "options": [
+          { "value": "a", "label": "O planejamento é mais divertido." },
+          { "value": "b", "label": "O mercado não muda." },
+          { "value": "c", "label": "A construção é muito cara." },
+          { "value": "d", "label": "O mercado real fornece o feedback mais valioso, permitindo correções rápidas e baratas." }
+        ],
+        "explanation": "O feedback do cliente pagante é o seu mapa. Sem ele, você está dirigindo no escuro.",
+        "hint": "Feedback real.",
+        "correctAnswer": "d",
+        "bookExample": "O feedback é o café da manhã dos campeões."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Analysis Paralysis' (Paralisia por Análise)?",
+        "options": [
+          { "value": "a", "label": "O estado de gastar tempo excessivo planejando, pesquisando e aperfeiçoando, impedindo o lançamento." },
+          { "value": "b", "label": "Focar demais na ação." },
+          { "value": "c", "label": "Focar demais no cliente." },
+          { "value": "d", "label": "Focar demais no preço." }
+        ],
+        "explanation": "A paralisia por análise é o inimigo do MDW. A ação é a cura.",
+        "hint": "Excesso de planejamento.",
+        "correctAnswer": "a",
+        "bookExample": "O planejamento excessivo é apenas procrastinação disfarçada."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Vergonha' (Embarrassment) no lançamento?",
+        "options": [
+          { "value": "a", "label": "Para se sentir mal." },
+          { "value": "b", "label": "Para ter um produto perfeito." },
+          { "value": "c", "label": "Se você não está envergonhado do seu MVO, você lançou tarde demais. A vergonha é um sinal de velocidade." },
+          { "value": "d", "label": "Para ser rude com os clientes." }
+        ],
+        "explanation": "A vergonha significa que você priorizou a velocidade sobre a perfeição, o que é essencial para a validação rápida.",
+        "hint": "Sinal de velocidade.",
+        "correctAnswer": "c",
+        "bookExample": "A velocidade é mais importante que a qualidade no início."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'O Custo da Inação' (Cost of Inaction)?",
+        "options": [
+          { "value": "a", "label": "O custo do produto." },
+          { "value": "b", "label": "O custo do marketing." },
+          { "value": "c", "label": "O valor perdido por não lançar e validar sua ideia, permitindo que o tempo e a oportunidade passem." },
+          { "value": "d", "label": "O custo do feedback." }
+        ],
+        "explanation": "O custo da inação é sempre maior do que o custo de um lançamento rápido e imperfeito.",
+        "hint": "Oportunidade perdida.",
+        "correctAnswer": "c",
+        "bookExample": "O maior risco é não correr nenhum risco."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "A Busca pelo Nicho de 1%: Dor e Acessibilidade",
+    "teaser": "🔍 Não tente vender para *todos*. Seja a cura **única** para a **dor aguda** do seu Nicho de 1%. É aí que está o dinheiro.",
+    "level1": "O 'Nicho de 1%' refere-se a encontrar um público pequeno, mas altamente engajado, que tem um problema doloroso e está disposto a pagar para resolvê-lo. É melhor ser o número 1 em um mercado minúsculo do que o número 100 em um mercado enorme.",
+    "level2": "Não tente ser um generalista. Seja o especialista que resolve um problema específico para um grupo específico. Isso facilita o marketing, a precificação e a entrega. O nicho deve ser 'doloroso' (o problema custa dinheiro ou tempo) e 'acessível' (você pode encontrá-los facilmente).",
+    "level3": "Ruim: 'Software de Produtividade para todos.' Bom: 'Software de Gestão de Projetos para Agências de Marketing que Usam Trello.' (O problema é específico, a dor é alta, o público é claro).",
+    "recapitulation": [
+      "Clientes compram analgésicos, não vitaminas: o nicho deve ter uma dor 'Painful'.",
+      "Um nicho 'Accessible' é aquele que você pode encontrar e interagir ativamente em 48 horas (fóruns, grupos).",
+      "Ser Generalista dilui sua mensagem e te força a competir por preço.",
+      "O 'Nicho de 1%' é um público pequeno, mas que paga um preço premium pela solução específica.",
+      "Você só precisa de 100 clientes pagantes para ter um negócio sólido: o nicho não precisa ser gigantesco.",
+      "O problema da maioria é o 'Problema de Validade': resolver algo que ninguém se importa o suficiente para pagar."
+    ],
+    "practicalChecklist": [
+      "Liste 3 comunidades/fóruns online onde seu nicho se reúne *e* reclama de problemas.",
+      "Reformule sua ideia: Qual o problema específico que custa tempo/dinheiro que você resolve?",
+      "Defina o perfil exato do seu cliente (Quem? Qual a dor? Onde ele está?).",
+      "Procure 10 posts/comentários de pessoas reclamando ativamente desse problema.",
+      "Não se apaixone pela sua solução; apaixone-se pelo problema do seu cliente.",
+      "Teste a acessibilidade: Você conseguiria falar com 5 pessoas desse nicho hoje?"
+    ],
+    "conclusionMessage": "O sucesso não vem de tentar agradar a todos, mas de resolver um problema específico para um nicho específico. O nicho de 1% é onde o dinheiro está.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que torna um nicho 'doloroso' (Painful)?",
+        "options": [
+          { "value": "a", "label": "O problema é divertido de resolver." },
+          { "value": "b", "label": "O problema custa tempo, dinheiro ou causa frustração significativa ao cliente." },
+          { "value": "c", "label": "O problema é fácil de ignorar." },
+          { "value": "d", "label": "O problema é novo." }
+        ],
+        "explanation": "Clientes só pagam por soluções para problemas que os estão machucando financeiramente ou emocionalmente.",
+        "hint": "Custo da inação.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas não compram vitaminas; elas compram analgésicos."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Acessibilidade' (Accessible) ao escolher um nicho?",
+        "options": [
+          { "value": "a", "label": "O produto é barato." },
+          { "value": "b", "label": "O nicho é muito grande." },
+          { "value": "c", "label": "Você sabe exatamente onde encontrar e interagir com esse público (comunidades, fóruns, eventos)." },
+          { "value": "d", "label": "O nicho não tem concorrência." }
+        ],
+        "explanation": "Se você não consegue encontrar seu público em 48 horas, você não pode lançar em 48 horas.",
+        "hint": "Onde eles se reúnem?",
+        "correctAnswer": "c",
+        "bookExample": "Vá onde seus clientes já estão. Não tente construir um novo canal de comunicação."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de ser um 'Generalista' no início?",
+        "options": [
+          { "value": "a", "label": "Atrair muitos clientes." },
+          { "value": "b", "label": "O produto fica muito complexo." },
+          { "value": "c", "label": "Sua mensagem se torna diluída, você compete em preço e é difícil encontrar seu público-alvo." },
+          { "value": "d", "label": "O preço fica muito alto." }
+        ],
+        "explanation": "O nicho permite que você se torne o especialista indiscutível, justificando taxas premium.",
+        "hint": "Commodity vs. Especialista.",
+        "correctAnswer": "c",
+        "bookExample": "Se você tenta ser tudo para todos, você não é nada para ninguém."
+      },
+      {
+        "id": "4",
+        "question": "Como você testa se um nicho é grande o suficiente?",
+        "options": [
+          { "value": "a", "label": "Se você conseguir encontrar 100 pessoas dispostas a pagar pelo seu MVO, o nicho é grande o suficiente para começar." },
+          { "value": "b", "label": "Fazendo uma pesquisa de 1000 pessoas." },
+          { "value": "c", "label": "Se o Google Trends for alto." },
+          { "value": "d", "label": "Seus amigos gostarem da ideia." }
+        ],
+        "explanation": "Você só precisa de 100 clientes pagantes para ter um negócio sólido. Não se preocupe com milhões no início.",
+        "hint": "Foco no pequeno.",
+        "correctAnswer": "a",
+        "bookExample": "Você só precisa de 1000 fãs verdadeiros para ter uma vida confortável."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Problema de Validade' (Validity Problem)?",
+        "options": [
+          { "value": "a", "label": "O problema é muito complexo." },
+          { "value": "b", "label": "O problema é muito fácil." },
+          { "value": "c", "label": "O problema que você está tentando resolver não é real ou não é importante o suficiente para que as pessoas paguem." },
+          { "value": "d", "label": "O problema é muito caro." }
+        ],
+        "explanation": "O MDW é projetado para resolver o problema de validade em 48 horas, forçando a interação com clientes pagantes.",
+        "hint": "Importância do problema.",
+        "correctAnswer": "c",
+        "bookExample": "A maioria das startups falha porque resolve um problema que ninguém tem."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Nicho de 1%'?",
+        "options": [
+          { "value": "a", "label": "Um mercado com 1% de crescimento." },
+          { "value": "b", "label": "Um mercado que só tem 1% de concorrência." },
+          { "value": "c", "label": "Um público pequeno, mas altamente engajado, com um problema doloroso e disposição para pagar." },
+          { "value": "d", "label": "Um mercado que só tem 1 cliente." }
+        ],
+        "explanation": "O foco no nicho de 1% garante que você resolva um problema específico de forma única, justificando preços premium.",
+        "hint": "Especialização.",
+        "correctAnswer": "c",
+        "bookExample": "Se você tenta ser tudo para todos, você não é nada para ninguém."
+      },
+      {
+        "id": "7",
+        "question": "Por que a 'Dor' é mais importante que a 'Ideia'?",
+        "options": [
+          { "value": "a", "label": "Ideias são fáceis de copiar." },
+          { "value": "b", "label": "A ideia é irrelevante." },
+          { "value": "c", "label": "A dor é mais divertida." },
+          { "value": "d", "label": "Uma dor intensa garante que o cliente pagará pela cura, independentemente da sua ideia inicial." }
+        ],
+        "explanation": "O MDW foca em encontrar a dor primeiro. A solução (ideia) é secundária e pode ser iterada.",
+        "hint": "Motivação de compra.",
+        "correctAnswer": "d",
+        "bookExample": "Não se apaixone pela sua solução; apaixone-se pelo problema do seu cliente."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Mercado Acessível'?",
+        "options": [
+          { "value": "a", "label": "Um mercado que você pode alcançar com anúncios caros." },
+          { "value": "b", "label": "Um mercado onde você pode interagir diretamente com os clientes em potencial em 48 horas (ex: fóruns, grupos)." },
+          { "value": "c", "label": "Um mercado que não tem dinheiro." },
+          { "value": "d", "label": "Um mercado muito grande." }
+        ],
+        "explanation": "A acessibilidade é crucial para a velocidade de validação do MDW.",
+        "hint": "Velocidade de contato.",
+        "correctAnswer": "b",
+        "bookExample": "Vá onde seus clientes já estão. Não tente construir um novo canal de comunicação."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "O Design da Oferta Mínima Viável (MVO): Simplicidade e Venda",
+    "teaser": "🔨 Venda o bilhete do trem antes de construir os trilhos. Seu MVO deve ser o atalho mais simples para o resultado que seu cliente quer.",
+    "level1": "O MVO (Minimum Viable Offer) é o que você vende no fim de semana. Ele não precisa ser um software complexo; pode ser um serviço manual, um PDF, ou uma planilha. O foco é no resultado que o cliente obtém, não na sofisticação da entrega.",
+    "level2": "Seu MVO deve ser tão simples que você possa criá-lo em poucas horas. Ele deve resolver o problema mais doloroso do seu nicho. Evite adicionar recursos extras (Feature Creep). Se o cliente pagar, você pode construir o resto depois.",
+    "level3": "Ruim: Oferecer um software com 20 funcionalidades. Bom: Oferecer uma sessão de consultoria de 1 hora + um template de plano de conteúdo (Serviço manual que resolve o problema imediatamente).",
+    "recapitulation": [
+      "O foco principal é no **resultado** específico (o destino), não no produto (a viagem).",
+      "O MVO deve ser 'manual' no início para aprender o que o cliente realmente precisa antes de automatizar (Faça coisas que não escalam).",
+      "Use 'Preço de Teste': um preço alto que te deixe desconfortável para garantir que o cliente valorize a solução.",
+      "A Landing Page é sua vitrine: deve ser focada em comunicar o problema, a solução e capturar o pagamento.",
+      "Use uma Garantia de Devolução do Dinheiro (Money-Back Guarantee) para reduzir o risco do cliente.",
+      "Pré-venda (Pre-selling) é a forma mais pura de validação: o dinheiro do cliente é o melhor capital de risco."
+    ],
+    "practicalChecklist": [
+      "Defina o *único* resultado que seu MVO garante. Se for mais de um, simplifique.",
+      "Escolha uma ferramenta *No-Code* ou *Low-Code* para criar a Landing Page (Typeform, Notion, Carrd, etc.).",
+      "Crie a entrega do MVO em 4 horas (um PDF, um template, uma planilha, um mini-serviço).",
+      "Escreva a headline: Foco no Benefício, não no Recurso.",
+      "Inclua o preço alto (que te incomoda) e a Garantia de Devolução na Landing Page.",
+      "Prepare o botão de pagamento para receber dinheiro (Stripe, PagSeguro, etc.) – o Teste do $1 é a meta."
+    ],
+    "conclusionMessage": "O MVO deve ser simples, focado em um único resultado e precificado de forma a testar a disposição de pagamento do cliente.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o foco principal do MVO?",
+        "options": [
+          { "value": "a", "label": "A complexidade da tecnologia." },
+          { "value": "b", "label": "O resultado específico que o cliente alcança." },
+          { "value": "c", "label": "O design do produto." },
+          { "value": "d", "label": "O número de recursos." }
+        ],
+        "explanation": "O cliente compra o resultado (o destino), não a ferramenta (a viagem).",
+        "hint": "Benefício final.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas não compram uma furadeira; elas compram um buraco na parede."
+      },
+      {
+        "id": "2",
+        "question": "Por que o MVO deve ser 'manual' no início?",
+        "options": [
+          { "value": "a", "label": "Para economizar dinheiro." },
+          { "value": "b", "label": "Para aprender exatamente o que o cliente precisa e como ele usa a solução antes de automatizar ou construir software caro." },
+          { "value": "c", "label": "Porque é mais rápido." },
+          { "value": "d", "label": "Para evitar a concorrência." }
+        ],
+        "explanation": "O trabalho manual é o seu laboratório de aprendizado. Ele garante que você construa o produto certo.",
+        "hint": "Aprendizado e feedback.",
+        "correctAnswer": "b",
+        "bookExample": "Faça coisas que não escalam até que você saiba o que escalar."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Preço de Teste' (Test Pricing)?",
+        "options": [
+          { "value": "a", "label": "Cobrar o preço mais baixo possível." },
+          { "value": "b", "label": "Cobrar o preço do concorrente." },
+          { "value": "c", "label": "Cobrar um preço que te deixa desconfortável (alto) para garantir que o cliente realmente valorize a solução." },
+          { "value": "d", "label": "Oferecer de graça." }
+        ],
+        "explanation": "Se o cliente não pagar um preço alto, o problema não é doloroso o suficiente ou sua solução não é valiosa.",
+        "hint": "Desconforto.",
+        "correctAnswer": "c",
+        "bookExample": "Se você não está cobrando o suficiente, você está dizendo ao mercado que seu produto não é valioso."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel da 'Landing Page' no MVO?",
+        "options": [
+          { "value": "a", "label": "Servir como a 'vitrine' do MVO, comunicando o problema, a solução e o preço, e capturando o pagamento." },
+          { "value": "b", "label": "Ser bonita." },
+          { "value": "c", "label": "Ter muitos links." },
+          { "value": "d", "label": "Ser complexa." }
+        ],
+        "explanation": "A landing page é o seu vendedor 24/7. Ela deve ser focada em uma única ação: a compra.",
+        "hint": "Foco na conversão.",
+        "correctAnswer": "a",
+        "bookExample": "Uma landing page deve ter um único objetivo: fazer o cliente dar o próximo passo."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Garantia de Devolução do Dinheiro' (Money-Back Guarantee) no MDW?",
+        "options": [
+          { "value": "a", "label": "Um sinal de fraqueza." },
+          { "value": "b", "label": "Uma forma de reduzir o risco percebido pelo cliente e aumentar a confiança na compra do MVO." },
+          { "value": "c", "label": "Uma forma de perder dinheiro." },
+          { "value": "d", "label": "É irrelevante." }
+        ],
+        "explanation": "Se você confia no seu MVO, a garantia é uma ferramenta poderosa de vendas.",
+        "hint": "Redução de risco.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está disposto a garantir seu produto, por que o cliente deveria comprá-lo?"
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Feature Creep' (Expansão de Recursos) no MVO?",
+        "options": [
+          { "value": "a", "label": "Adicionar recursos essenciais." },
+          { "value": "b", "label": "Manter o produto simples." },
+          { "value": "c", "label": "Adicionar recursos desnecessários ou complexos que não foram validados por clientes pagantes, matando a velocidade." },
+          { "value": "d", "label": "Focar no MVO." }
+        ],
+        "explanation": "O Feature Creep é o resultado de ouvir opiniões em vez de dados de compra, e deve ser evitado no MVO.",
+        "hint": "Excesso de recursos.",
+        "correctAnswer": "c",
+        "bookExample": "O Feature Creep é o assassino silencioso de startups."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Simplicidade' na comunicação do MVO?",
+        "options": [
+          { "value": "a", "label": "Para parecer menos profissional." },
+          { "value": "b", "label": "A confusão mata a venda. A mensagem deve ser clara sobre o problema e o resultado em poucas palavras." },
+          { "value": "c", "label": "Para ter mais recursos." },
+          { "value": "d", "label": "Para atrair generalistas." }
+        ],
+        "explanation": "O cliente deve entender o valor em 5 segundos.",
+        "hint": "Clareza vende.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não consegue explicar o que faz em uma frase, você não sabe o que faz."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Pre-selling' (Pré-venda) no MDW?",
+        "options": [
+          { "value": "a", "label": "Vender o produto após o lançamento." },
+          { "value": "b", "label": "Vender o MVO antes de ele estar totalmente pronto, usando o dinheiro para financiar a construção e validar a demanda." },
+          { "value": "c", "label": "Vender de graça." },
+          { "value": "d", "label": "Vender para amigos." }
+        ],
+        "explanation": "A pré-venda é a forma mais pura de validação. Se eles pagam por algo que ainda não existe, a dor é real.",
+        "hint": "Dinheiro antecipado.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro do cliente é o melhor capital de risco."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "A Prospecção de Alto Impacto em 48 Horas: Outreach Manual",
+    "teaser": "💬 Não espere o tráfego. Vá onde seu cliente está **agora** (comunidades) e comece 10 conversas. O dinheiro está nas interações.",
+    "level1": "Em 48 horas, você não tem tempo para SEO ou marketing de conteúdo. Você deve usar o 'Outreach Manual' (alcance manual) para encontrar seus primeiros 10 clientes. Isso significa ir a fóruns, grupos de Facebook, LinkedIn ou comunidades onde seu nicho se reúne.",
+    "level2": "O objetivo é ter 10 conversas de vendas reais. Não envie e-mails genéricos. Envie mensagens personalizadas que demonstrem que você entende o problema deles e apresente seu MVO como a solução. Peça a venda diretamente.",
+    "level3": "Ruim: 'Compre meu novo software, acabei de lançar.' Bom: (Mensagem direta) 'Vi que você está lutando com X no [Grupo/Fórum Y]. Criei uma solução simples (MVO) que resolve isso por R$ 50. Quer tentar?'",
+    "recapitulation": [
+      "O 'Outreach Manual' é a forma mais rápida de obter feedback e vendas iniciais (Interação 1-a-1).",
+      "O objetivo é obter os primeiros 10 clientes para validação, feedback profundo e prova social (depoimentos).",
+      "Evite o 'Marketing de Interrupção'; vá onde as pessoas estão ativamente com a dor.",
+      "Rejeição é apenas **feedback**: use-a para refinar a oferta, não para desistir.",
+      "A 'Personalização' da mensagem de outreach aumenta drasticamente a taxa de resposta.",
+      "O 'The Hook' (Gancho) na sua mensagem deve focar no problema doloroso, não no produto."
+    ],
+    "practicalChecklist": [
+      "Identifique 50 potenciais clientes no seu nicho acessível (grupos, fóruns, LinkedIn).",
+      "Crie um template de Outreach personalizado, mencionando *algo específico* que eles postaram sobre a dor.",
+      "Defina seu 'Hook' de 3 segundos (ex: 'Pare de perder tempo com X. Eu te dou o atalho em 48h').",
+      "Faça 'Content Seeding' (Semeadura de Conteúdo): Poste seu MVO/Insight valioso em 5 comunidades.",
+      "Priorize conversas 1-a-1 (DM, e-mail) em vez de posts genéricos (Conversa = Dinheiro).",
+      "Evite SEO e anúncios caros: O MDW é um sprint, não uma maratona de marketing."
+    ],
+    "conclusionMessage": "A prospecção MDW é sobre ir diretamente onde seu nicho está e pedir a venda, focando em conversas de alto impacto, não em escala.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é 'Outreach Manual' (Alcance Manual)?",
+        "options": [
+          { "value": "a", "label": "Fazer anúncios pagos." },
+          { "value": "b", "label": "Abordar individualmente e de forma personalizada os primeiros clientes em potencial, geralmente em comunidades de nicho." },
+          { "value": "c", "label": "Enviar newsletters." },
+          { "value": "d", "label": "Esperar que os clientes cheguem." }
+        ],
+        "explanation": "O alcance manual é a forma mais rápida de obter feedback e vendas iniciais.",
+        "hint": "Interação 1-a-1.",
+        "correctAnswer": "b",
+        "bookExample": "Faça coisas que não escalam para obter seus primeiros clientes. A escala vem depois."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o objetivo de encontrar seus primeiros 10 clientes manualmente?",
+        "options": [
+          { "value": "a", "label": "Ter um grande número de usuários." },
+          { "value": "b", "label": "Validar o MVO, obter feedback profundo e criar estudos de caso/depoimentos." },
+          { "value": "c", "label": "Apenas ganhar dinheiro." },
+          { "value": "d", "label": "Automatizar o processo." }
+        ],
+        "explanation": "Os primeiros 10 clientes são seus parceiros de aprendizado. Eles te ensinam o que construir em seguida.",
+        "hint": "Aprendizado e prova social.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não consegue encontrar 10 pessoas para pagar, você não tem um negócio."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Marketing de Interrupção' (Interruption Marketing)?",
+        "options": [
+          { "value": "a", "label": "Tentar vender para pessoas que não estão ativamente procurando uma solução (o oposto do MDW)." },
+          { "value": "b", "label": "Anúncios de TV." },
+          { "value": "c", "label": "Marketing de conteúdo." },
+          { "value": "d", "label": "Marketing de atração." }
+        ],
+        "explanation": "O MDW foca em encontrar pessoas que já estão com dor e ativamente buscando a cura.",
+        "hint": "Dor ativa.",
+        "correctAnswer": "a",
+        "bookExample": "Não interrompa as pessoas; resolva os problemas delas."
+      },
+      {
+        "id": "4",
+        "question": "Como você lida com a 'Rejeição' na prospecção MDW?",
+        "options": [
+          { "value": "a", "label": "Desiste." },
+          { "value": "b", "label": "Usa a rejeição como feedback para refinar o nicho, a oferta ou a mensagem." },
+          { "value": "c", "label": "Culpa o cliente." },
+          { "value": "d", "label": "Reduz o preço." }
+        ],
+        "explanation": "A rejeição é apenas um dado. Ela indica que algo na sua oferta não está ressoando.",
+        "hint": "Feedback.",
+        "correctAnswer": "b",
+        "bookExample": "Cada 'não' te aproxima do 'sim' certo."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel da 'Personalização' na mensagem de alcance?",
+        "options": [
+          { "value": "a", "label": "É opcional." },
+          { "value": "b", "label": "Apenas para clientes grandes." },
+          { "value": "c", "label": "É essencial. Demonstra que você fez sua lição de casa e entende o problema específico do cliente, aumentando a taxa de resposta." },
+          { "value": "d", "label": "Apenas para clientes pequenos." }
+        ],
+        "explanation": "Mensagens genéricas são ignoradas. A personalização é o que faz o cliente parar e ler.",
+        "hint": "Atenção.",
+        "correctAnswer": "c",
+        "bookExample": "Se você não está falando diretamente com o problema deles, você está falando com ninguém."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Content Seeding' (Semeadura de Conteúdo) no Outreach?",
+        "options": [
+          { "value": "a", "label": "Escrever um livro." },
+          { "value": "b", "label": "Postar seu MVO ou um insight valioso em comunidades relevantes, com o objetivo de gerar tráfego para sua landing page." },
+          { "value": "c", "label": "Fazer cold calls." },
+          { "value": "d", "label": "Fazer um podcast." }
+        ],
+        "explanation": "A semeadura de conteúdo é a forma de usar o IP (mesmo que mínimo) para atrair o cliente certo.",
+        "hint": "Distribuição em nicho.",
+        "correctAnswer": "b",
+        "bookExample": "Não crie conteúdo para todos; crie conteúdo para o seu nicho de 1%."
+      },
+      {
+        "id": "7",
+        "question": "Por que o MDW evita o SEO no início?",
+        "options": [
+          { "value": "a", "label": "O SEO é muito fácil." },
+          { "value": "b", "label": "O SEO leva meses para gerar resultados, o que viola a restrição de tempo de 48 horas." },
+          { "value": "c", "label": "O SEO é muito caro." },
+          { "value": "d", "label": "O SEO não funciona." }
+        ],
+        "explanation": "O MDW exige resultados imediatos para validação.",
+        "hint": "Tempo de retorno.",
+        "correctAnswer": "b",
+        "bookExample": "O MDW é sobre velocidade. O SEO é uma maratona, não um sprint."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'The Hook' (O Gancho) na sua mensagem de tráfego?",
+        "options": [
+          { "value": "a", "label": "O preço." },
+          { "value": "b", "label": "Uma frase ou título que captura a atenção do nicho, focando no problema doloroso que você resolve." },
+          { "value": "c", "label": "O nome da sua empresa." },
+          { "value": "d", "label": "O seu currículo." }
+        ],
+        "explanation": "O gancho é o que faz o cliente parar de rolar a tela e clicar no seu link.",
+        "hint": "Atenção imediata.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não consegue capturar a atenção em 3 segundos, você perdeu a venda."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "O Teste de Preço e a Confiança: Cobrando o que Incomoda",
+    "teaser": "💸 Se seu preço não te faz suar um pouco, **está muito barato**. O preço é um teste de valor, não um erro de cálculo.",
+    "level1": "A maioria dos empreendedores cobra muito pouco. O MDW incentiva o 'High Price Test' (Teste de Preço Alto). Se você não está cobrando o suficiente, você não terá margem para crescer e o cliente não valorizará a solução.",
+    "level2": "O preço deve ser uma fração do valor que você entrega. Se você resolve um problema de R$ 10.000, cobrar R$ 500 é um erro. Comece cobrando um preço premium para garantir que você está resolvendo um problema real e que o cliente está comprometido.",
+    "level3": "Ruim: Cobrar o mesmo preço do concorrente. Bom: Cobrar 3x mais (preço desconfortável) e usar esse preço para filtrar clientes e validar se a dor é realmente aguda.",
+    "recapitulation": [
+      "O preço alto (que te deixa desconfortável) garante que o problema seja doloroso o suficiente e cria margem para entregar valor.",
+      "'Ancoragem de Preço' é crucial: Apresente o custo do problema (a âncora) antes de apresentar seu preço.",
+      "A objeção 'Preço alto' é, na verdade, uma objeção à **falta de valor percebido**.",
+      "A 'Confiança' é a moeda de alto valor: Você só pode cobrar um preço alto se o cliente confiar que você entregará o resultado.",
+      "Evite 'Descontos': Reduza o escopo, não o preço, se o cliente resistir.",
+      "O preço deve ser focado no Valor Entregue (ROI), não no seu Custo de Produção."
+    ],
+    "practicalChecklist": [
+      "Determine o custo (em tempo e dinheiro) da inação para seu cliente (Âncora).",
+      "Defina um preço para o MVO que te force a ter uma conversa sobre valor, não sobre features.",
+      "Prepare a resposta para a objeção 'Preço Alto': Volte ao diagnóstico (Ex: 'Mas se o problema custa X, como você pode não resolvê-lo?').",
+      "Use depoimentos/provas sociais para construir a Confiança rapidamente.",
+      "Estruture a Proposta de Valor: Foco no resultado (Benefício) + Diferenciação.",
+      "Se for um serviço, busque o 'Retainer Pricing' (Taxa mensal previsível) após a validação inicial."
+    ],
+    "conclusionMessage": "O preço é uma ferramenta de validação. Se o cliente não pagar um preço alto, o problema não é grande o suficiente. O MDW exige que você cobre um preço que te deixa desconfortável.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Por que o MDW sugere cobrar um preço que te deixa 'desconfortável'?",
+        "options": [
+          { "value": "a", "label": "Para assustar os clientes." },
+          { "value": "b", "label": "Para garantir que o problema seja doloroso o suficiente e que você tenha margem para entregar um valor excepcional." },
+          { "value": "c", "label": "Para ser o mais caro do mercado." },
+          { "value": "d", "label": "Para ter menos clientes." }
+        ],
+        "explanation": "O preço alto é um filtro de clientes e um teste de valor.",
+        "hint": "Filtro de valor.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está cobrando o suficiente, você está dizendo ao mercado que seu produto não é valioso."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Ancoragem de Preço' (Price Anchoring) no MDW?",
+        "options": [
+          { "value": "a", "label": "Cobrar um preço baixo." },
+          { "value": "b", "label": "Apresentar o custo do problema (a âncora) antes de apresentar o seu preço, para que o preço pareça pequeno em comparação." },
+          { "value": "c", "label": "Apresentar o preço primeiro." },
+          { "value": "d", "label": "Cobrar o preço do concorrente." }
+        ],
+        "explanation": "O cliente deve entender o custo da inação antes de ver o custo da solução.",
+        "hint": "Custo da inação primeiro.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é relativo. Ancore-o no custo do problema."
+      },
+      {
+        "id": "3",
+        "question": "Como você lida com a objeção 'Seu preço é muito alto'?",
+        "options": [
+          { "value": "a", "label": "Reduz o preço imediatamente." },
+          { "value": "b", "label": "Volta ao diagnóstico: 'Entendo. Mas se o problema está custando X, como você pode se dar ao luxo de não resolvê-lo?'" },
+          { "value": "c", "label": "Muda de assunto." },
+          { "value": "d", "label": "Oferece um desconto." }
+        ],
+        "explanation": "A objeção ao preço é uma objeção à falta de valor percebido. Reafirme o ROI.",
+        "hint": "Volte ao ROI.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é apenas um problema na ausência de valor."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel da 'Confiança' na precificação alta?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A confiança é construída após a compra." },
+          { "value": "c", "label": "Você só pode cobrar um preço alto se o cliente confiar que você entregará o resultado prometido." },
+          { "value": "d", "label": "A confiança é apenas para clientes pequenos." }
+        ],
+        "explanation": "A confiança é a moeda da venda de alto valor. O MVO deve ser projetado para construir essa confiança rapidamente.",
+        "hint": "Moeda de alto valor.",
+        "correctAnswer": "c",
+        "bookExample": "A confiança é o que permite que você dite seus termos."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Preço de Retenção' (Retainer Pricing) no contexto MDW?",
+        "options": [
+          { "value": "a", "label": "Cobrar por hora." },
+          { "value": "b", "label": "Uma taxa mensal fixa para acesso contínuo à sua expertise, garantindo receita previsível após o lançamento inicial." },
+          { "value": "c", "label": "Uma taxa baseada em resultados." },
+          { "value": "d", "label": "Uma taxa única." }
+        ],
+        "explanation": "Após validar o MVO, o próximo passo é buscar a previsibilidade através de taxas de retenção.",
+        "hint": "Receita previsível.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo é transformar clientes de projeto em clientes de relacionamento."
+      },
+      {
+        "id": "6",
+        "question": "Por que o MDW evita 'Descontos'?",
+        "options": [
+          { "value": "a", "label": "O cliente vai pedir mais." },
+          { "value": "b", "label": "O desconto desvaloriza sua expertise e atrai clientes que só se importam com o preço." },
+          { "value": "c", "label": "É ilegal." },
+          { "value": "d", "label": "O cliente não vai gostar." }
+        ],
+        "explanation": "Se o cliente precisa de um preço menor, reduza o escopo, não o preço. Mantenha o valor por unidade de entrega.",
+        "hint": "Reduza o escopo, não o preço.",
+        "correctAnswer": "b",
+        "bookExample": "O desconto é o inimigo do valor."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Value Proposition' (Proposta de Valor) no MDW?",
+        "options": [
+          { "value": "a", "label": "Seu currículo." },
+          { "value": "b", "label": "Uma declaração clara e concisa do benefício que você entrega ao cliente e como ele se diferencia da concorrência." },
+          { "value": "c", "label": "O preço do seu serviço." },
+          { "value": "d", "label": "Sua metodologia." }
+        ],
+        "explanation": "A proposta de valor é o que justifica o preço. Ela deve ser focada no resultado de negócios.",
+        "hint": "Benefício + Diferenciação.",
+        "correctAnswer": "b",
+        "bookExample": "Sua proposta de valor deve ser tão clara que o cliente possa repeti-la para o chefe dele."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Simplicidade' na estrutura de taxas?",
+        "options": [
+          { "value": "a", "label": "A estrutura deve ser complexa." },
+          { "value": "b", "label": "A estrutura deve ser fácil de entender para que o cliente possa aceitá-la rapidamente e com confiança." },
+          { "value": "c", "label": "A simplicidade é irrelevante." },
+          { "value": "d", "label": "A estrutura deve ser longa." }
+        ],
+        "explanation": "A complexidade gera desconfiança e atrasa a decisão.",
+        "hint": "Fácil aceitação.",
+        "correctAnswer": "b",
+        "bookExample": "Se o cliente precisa de uma planilha para entender seu preço, seu preço está errado."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "A Arte do 'Ask' (Pedir a Venda): Silêncio e Urgência",
+    "teaser": "🤫 Depois de pedir o dinheiro, **cale a boca**. O silêncio é a ferramenta de vendas mais poderosa. Deixe o cliente sentir o peso da decisão.",
+    "level1": "O 'Ask' é o momento crucial. Depois de diagnosticar a dor e apresentar o MVO, você deve pedir o pagamento. Não enrole. A hesitação mata a venda. Seja direto e confiante.",
+    "level2": "Se você não pedir o dinheiro, você não terá um negócio. O medo de pedir a venda é o medo da rejeição. Lembre-se: você está oferecendo valor, não pedindo um favor. Se o cliente disser 'não', é um 'não' à oferta, não a você.",
+    "level3": "Ruim: 'Então, o que você acha? Podemos começar em algum momento?' Bom: 'Com base no que conversamos, o investimento é de R$ 1.500. Quer começar agora?' *Silêncio.*",
+    "recapitulation": [
+      "A regra de ouro após o Ask é o **Silêncio** (quem fala primeiro, perde a venda).",
+      "Venda o Destino, Não a Viagem: O Ask deve reforçar a transformação (o resultado final).",
+      "'Preciso pensar sobre isso' é uma objeção não dita. Responda perguntando: 'O que especificamente te faz hesitar?'",
+      "Use a 'Urgência' (incentivo de tempo limitado) para combater a procrastinação do cliente.",
+      "'Trial Close' (Fechamento de Teste): Perguntas no meio da conversa para medir o interesse antes do Ask final.",
+      "A 'Confiança' é crucial no Ask: A sua convicção no preço é transferida para o cliente."
+    ],
+    "practicalChecklist": [
+      "Pratique seu 'Ask' no espelho até que o preço pareça natural e confiante.",
+      "Prepare 3 'Trial Closes' (perguntas de checagem) para usar antes do Ask final.",
+      "Crie um incentivo de Urgência para os primeiros 10 clientes (Ex: 2 horas extras de suporte).",
+      "Tenha um 'Plano B' para a Objeção de Preço: Não reduza o preço; reduza o escopo ou reitere o ROI.",
+      "Use 'Perguntas de Compromisso' para garantir o próximo passo, mesmo que não haja a venda imediata.",
+      "Lembre-se: Você está resolvendo um problema doloroso. O Ask é um favor que você está fazendo ao cliente."
+    ],
+    "conclusionMessage": "Muitos empreendedores falham porque não pedem a venda. O MDW exige que você seja direto, claro e confiante ao pedir o dinheiro.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a regra de ouro após fazer o 'Ask'?",
+        "options": [
+          { "value": "a", "label": "Falar mais sobre o produto." },
+          { "value": "b", "label": "Ficar em silêncio e esperar a resposta do cliente." },
+          { "value": "c", "label": "Reduzir o preço." },
+          { "value": "d", "label": "Pedir desculpas." }
+        ],
+        "explanation": "O silêncio força o cliente a processar a oferta e responder. Quem fala primeiro, perde.",
+        "hint": "Poder do silêncio.",
+        "correctAnswer": "b",
+        "bookExample": "O silêncio é a ferramenta de vendas mais poderosa que existe."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Vender o Destino, Não a Viagem' no Ask?",
+        "options": [
+          { "value": "a", "label": "Focar na metodologia de trabalho." },
+          { "value": "b", "label": "Focar no resultado final e nos benefícios, não nas atividades ou recursos do MVO." },
+          { "value": "c", "label": "Garantir que o projeto seja rápido." },
+          { "value": "d", "label": "Evitar detalhes técnicos." }
+        ],
+        "explanation": "O cliente compra a transformação. O Ask deve reforçar essa transformação.",
+        "hint": "Resultado final.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não se importa com o seu processo; ele se importa com o que o seu processo fará por ele."
+      },
+      {
+        "id": "3",
+        "question": "Como você lida com a objeção 'Preciso pensar sobre isso'?",
+        "options": [
+          { "value": "a", "label": "Diz 'OK' e espera." },
+          { "value": "b", "label": "Pergunta: 'O que especificamente te faz hesitar? É o preço, o resultado ou o timing?' (Forçando a objeção real)." },
+          { "value": "c", "label": "Oferece um desconto." },
+          { "value": "d", "label": "Muda de assunto." }
+        ],
+        "explanation": "A hesitação é uma objeção não dita. Você deve descobrir a objeção real para resolvê-la.",
+        "hint": "Objeção real.",
+        "correctAnswer": "b",
+        "bookExample": "O 'pensar sobre isso' é onde as vendas morrem. Traga a objeção para a luz."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel da 'Urgência' no Ask?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Criar um incentivo de tempo limitado (ex: bônus para os primeiros 10 clientes) para forçar a decisão imediata." },
+          { "value": "c", "label": "Apenas para produtos baratos." },
+          { "value": "d", "label": "Apenas para clientes grandes." }
+        ],
+        "explanation": "A urgência combate a procrastinação do cliente. O MDW é sobre ação rápida.",
+        "hint": "Ação imediata.",
+        "correctAnswer": "b",
+        "bookExample": "A inação é o maior assassino de negócios. Use a urgência para combatê-la."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Trial Close' (Fechamento de Teste)?",
+        "options": [
+          { "value": "a", "label": "Pedir a venda final." },
+          { "value": "b", "label": "Fazer perguntas durante a conversa para medir o interesse do cliente antes do Ask final (ex: 'Isso parece que resolveria seu problema?')." },
+          { "value": "c", "label": "Oferecer um teste gratuito." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "O fechamento de teste garante que você não chegue ao Ask final sem saber se o cliente está pronto.",
+        "hint": "Medir interesse.",
+        "correctAnswer": "b",
+        "bookExample": "Nunca seja surpreendido por um 'não' no final da conversa."
+      },
+      {
+        "id": "6",
+        "question": "Por que a 'Confiança' é crucial no momento do Ask?",
+        "options": [
+          { "value": "a", "label": "Para parecer arrogante." },
+          { "value": "b", "label": "A confiança na sua oferta e no seu preço é transferida para o cliente, facilitando a decisão de compra." },
+          { "value": "c", "label": "A confiança é irrelevante." },
+          { "value": "d", "label": "A confiança é construída após a compra." }
+        ],
+        "explanation": "Se você hesitar ao pedir o preço, o cliente sentirá essa insegurança.",
+        "hint": "Insegurança mata a venda.",
+        "correctAnswer": "b",
+        "bookExample": "Venda com convicção, ou não venda."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Objeção de Preço' no MDW?",
+        "options": [
+          { "value": "a", "label": "Um sinal de que o preço é muito alto." },
+          { "value": "b", "label": "Um sinal de que o cliente não percebeu o valor suficiente ou não confia na entrega." },
+          { "value": "c", "label": "Um sinal de que o cliente é pobre." },
+          { "value": "d", "label": "Um sinal de que o produto é ruim." }
+        ],
+        "explanation": "A objeção ao preço é quase sempre uma objeção ao valor. Volte à dor e ao ROI.",
+        "hint": "Valor percebido.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é apenas um problema na ausência de valor."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Perguntas de Compromisso' (Commitment Questions)?",
+        "options": [
+          { "value": "a", "label": "Perguntas sobre o preço." },
+          { "value": "b", "label": "Perguntas que pedem ao cliente para se comprometer com a próxima etapa (ex: 'Podemos agendar a próxima reunião para discutir a proposta?')." },
+          { "value": "c", "label": "Perguntas sobre o passado." },
+          { "value": "d", "label": "Perguntas sobre o futuro." }
+        ],
+        "explanation": "O objetivo de toda interação é obter a próxima interação. As perguntas de compromisso garantem o avanço.",
+        "hint": "Próxima etapa.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo de toda interação é obter a próxima interação."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "O Poder da Comunidade e do Feedback: Aprendizado Rápido",
+    "teaser": "🎁 Feedback negativo é ouro. Não o evite, **busque-o ativamente** em seus clientes pagantes para consertar o MVO antes que seja tarde.",
+    "level1": "O feedback é o seu ativo mais valioso. Você deve buscar ativamente o feedback dos seus primeiros clientes, especialmente aqueles que pagaram. O feedback deve ser focado em 'O que você fez?' e 'O que você pagou?', não em 'O que você acha?'",
+    "level2": "Use comunidades existentes (Reddit, grupos de Facebook, newsletters de nicho) para encontrar seus primeiros clientes e obter feedback. O objetivo é criar um ciclo de feedback rápido: Lançar -> Vender -> Obter Feedback -> Iterar -> Lançar Novamente.",
+    "level3": "Ruim: 'O que você achou da minha ideia?' Bom: 'O que te fez comprar? O que te fez hesitar? O que você esperava que o produto fizesse que não fez?'",
+    "recapitulation": [
+      "O feedback mais valioso é o de **clientes pagantes** sobre o comportamento real de compra.",
+      "Comunidades de Nicho são seu laboratório para encontrar clientes e testar ideias rapidamente.",
+      "'Construir em Público' (Building in Public) gera transparência e atrai clientes que querem fazer parte da jornada.",
+      "A 'Velocidade' de iteração deve ser medida em horas ou dias, não em semanas, para maximizar o aprendizado.",
+      "Evite o 'Teste do Amigo': Amigos darão respostas lisonjeiras e não confiáveis.",
+      "Feedback Negativo é um presente. É o mapa mais claro para refinar seu produto/oferta (presente de alto valor)."
+    ],
+    "practicalChecklist": [
+      "Ligue/mande e-mail para seus 5 primeiros clientes pagantes e faça 3 perguntas sobre a compra.",
+      "Crie uma 'Hipótese' para a próxima iteração (Ex: 'Se eu simplificar o CTA, a conversão aumentará em 10%').",
+      "Faça um 'Micro-Lançamento' da sua melhoria hoje (não espere 1 mês).",
+      "Resista ao 'Feature Creep' (Expansão de Recursos): Só construa o que os clientes pagantes **usam** ou **pedem ativamente**.",
+      "Use o Ciclo de Construir-Medir-Aprender: Lançamento rápido, medição por dados, aprendizado imediato.",
+      "Transforme o feedback negativo em Prova Social (Ex: 'Melhoramos o [Feature] porque [Cliente X] nos disse que...')."
+    ],
+    "conclusionMessage": "O MDW não é um esforço solitário. O feedback rápido da comunidade e dos primeiros clientes é o que guia a iteração e o crescimento.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o tipo de feedback mais valioso no MDW?",
+        "options": [
+          { "value": "a", "label": "Opiniões de amigos." },
+          { "value": "b", "label": "Feedback de clientes pagantes sobre o comportamento passado e a dor real." },
+          { "value": "c", "label": "Pesquisas de mercado genéricas." },
+          { "value": "d", "label": "Elogios." }
+        ],
+        "explanation": "O feedback de quem pagou é o único que importa, pois valida a dor e a solução.",
+        "hint": "Dinheiro e Ação.",
+        "correctAnswer": "b",
+        "bookExample": "O feedback de um cliente pagante vale mais do que 100 opiniões gratuitas."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Comunidade de Nicho'?",
+        "options": [
+          { "value": "a", "label": "Um grupo grande de pessoas." },
+          { "value": "b", "label": "Um grupo pequeno e específico de pessoas que compartilham o mesmo problema doloroso e se reúnem online ou offline." },
+          { "value": "c", "label": "Um grupo de amigos." },
+          { "value": "d", "label": "Um fórum genérico." }
+        ],
+        "explanation": "As comunidades de nicho são o seu campo de caça para os primeiros clientes.",
+        "hint": "Problema compartilhado.",
+        "correctAnswer": "b",
+        "bookExample": "Vá onde seus clientes já estão. Não tente construir um novo canal de comunicação."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'Construir em Público' (Building in Public)?",
+        "options": [
+          { "value": "a", "label": "Manter o produto em segredo." },
+          { "value": "b", "label": "Compartilhar o processo de construção, os desafios e os sucessos com a comunidade, gerando engajamento e feedback contínuo." },
+          { "value": "c", "label": "Apenas postar fotos do escritório." },
+          { "value": "d", "label": "Focar apenas no produto final." }
+        ],
+        "explanation": "Construir em público cria transparência e atrai clientes que querem fazer parte da jornada.",
+        "hint": "Transparência.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas se importam mais com a sua jornada do que com o seu destino."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel da 'Velocidade' na iteração de feedback?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A iteração deve ser o mais rápida possível (horas ou dias) para evitar desperdiçar tempo construindo o produto errado." },
+          { "value": "c", "label": "A iteração deve ser lenta." },
+          { "value": "d", "label": "A iteração deve ser cara." }
+        ],
+        "explanation": "O MDW é sobre ciclos de aprendizado rápidos. A lentidão é o inimigo.",
+        "hint": "Ciclos rápidos.",
+        "correctAnswer": "b",
+        "bookExample": "A velocidade é a nova moeda dos negócios."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Feature Creep' (Expansão de Recursos) após o MVO?",
+        "options": [
+          { "value": "a", "label": "Adicionar recursos essenciais." },
+          { "value": "b", "label": "Adicionar recursos desnecessários ou complexos que não foram validados por clientes pagantes, matando a velocidade." },
+          { "value": "c", "label": "Manter o produto simples." },
+          { "value": "d", "label": "Focar no MVO." }
+        ],
+        "explanation": "O Feature Creep é o resultado de ouvir opiniões em vez de dados de compra.",
+        "hint": "Excesso de recursos.",
+        "correctAnswer": "b",
+        "bookExample": "O Feature Creep é o assassino silencioso de startups."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'O Teste do Amigo' (The Friend Test)?",
+        "options": [
+          { "value": "a", "label": "Pedir a opinião de amigos." },
+          { "value": "b", "label": "Evitar perguntar a amigos e familiares se eles gostam da sua ideia, pois eles darão respostas lisonjeiras e não confiáveis." },
+          { "value": "c", "label": "Pedir dinheiro a amigos." },
+          { "value": "d", "label": "Pedir feedback a amigos." }
+        ],
+        "explanation": "O feedback de amigos é inútil para a validação. Você precisa de feedback de clientes pagantes.",
+        "hint": "Lisonja.",
+        "correctAnswer": "b",
+        "bookExample": "Sua mãe vai te amar de qualquer jeito. O mercado não."
+      },
+      {
+        "id": "7",
+        "question": "Como você lida com o 'Feedback Negativo'?",
+        "options": [
+          { "value": "a", "label": "Ignora." },
+          { "value": "b", "label": "Vê como um presente. É a informação mais valiosa para refinar o produto e a oferta." },
+          { "value": "c", "label": "Pede desculpas." },
+          { "value": "d", "label": "Ataca o cliente." }
+        ],
+        "explanation": "O feedback negativo de clientes pagantes é o seu mapa para o sucesso.",
+        "hint": "Presente.",
+        "correctAnswer": "b",
+        "bookExample": "O feedback negativo é a única coisa que te impede de construir o produto errado."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Micro-Lançamento'?",
+        "options": [
+          { "value": "a", "label": "Um grande evento de lançamento." },
+          { "value": "b", "label": "Pequenas atualizações e testes de recursos lançados frequentemente para obter feedback rápido e contínuo." },
+          { "value": "c", "label": "Um lançamento que falha." },
+          { "value": "d", "label": "Um lançamento para amigos." }
+        ],
+        "explanation": "Micro-lançamentos reduzem o risco e aceleram o aprendizado.",
+        "hint": "Atualizações frequentes.",
+        "correctAnswer": "b",
+        "bookExample": "O sucesso é a soma de pequenos experimentos diários."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "O Blueprint do Lançamento de 48 Horas: Fases e Foco",
+    "teaser": "⏱️ Seu fim de semana não é caótico, é um **blueprint cirúrgico**. Nicho (4h) -> MVO (12h) -> Vendas (24h) -> Ajuste (8h). Foco total.",
+    "level1": "O MDW não é caótico; é um processo estruturado. As 48 horas são divididas em fases claras: 1) Ideação e Nicho (4h), 2) Criação do MVO e Landing Page (12h), 3) Outreach e Vendas (24h), 4) Feedback e Próximos Passos (8h).",
+    "level2": "Você deve ter um plano de ataque. Não comece a construir sem saber exatamente quem você está vendendo e qual problema você está resolvendo. O foco principal das 48 horas é a interação humana e a obtenção do primeiro pagamento.",
+    "level3": "Ruim: Passar 48h navegando em tutoriais. Bom: Usar 'Time Blocking' para agendar 4h para o nicho, 12h para construir a Landing Page/MVO, e 24h para falar com clientes e pedir o Ask.",
+    "recapitulation": [
+      "A primeira etapa crítica é a **Definição do Nicho e do Problema Doloroso**.",
+      "24 horas de 'Vendas e Outreach' devem ser dedicadas a conversas 1-a-1 e ao 'Ask'.",
+      "Use 'Ferramentas Simples' (No-Code/Low-Code) para não desperdiçar tempo na infraestrutura.",
+      "'Pre-selling' (Pré-venda) é o melhor indicador de demanda e financiador da construção futura.",
+      "A 'Simplicidade' da comunicação do MVO é vital (Clareza vende).",
+      "'Time Blocking' (Bloqueio de Tempo) é a ferramenta de produtividade para garantir que as HLAs sejam feitas."
+    ],
+    "practicalChecklist": [
+      "Crie um cronograma rígido para as suas 48 horas de lançamento, separando as 4 fases.",
+      "Use uma ferramenta como Notion ou Google Sheets para rastrear os 50 leads do Outreach Manual.",
+      "Construa a Landing Page com o objetivo de capturar o pagamento (teste do $1).",
+      "Prepare a mensagem de Outreach: 30 segundos para ler, 10 segundos para entender o valor.",
+      "Lembre-se: O MVP (versão automatizada) vem *depois* do MVO (versão manual validada).",
+      "Priorize a disciplina em seguir o plano e evitar distrações (a execução é 90% da batalha)."
+    ],
+    "conclusionMessage": "O lançamento MDW segue um roteiro rigoroso: Ideia -> Nicho -> MVO -> Landing Page -> Outreach Manual -> Ask. A disciplina é a chave.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a primeira etapa crítica no blueprint de 48 horas?",
+        "options": [
+          { "value": "a", "label": "Construir o produto." },
+          { "value": "b", "label": "Definir o Nicho e o Problema Doloroso." },
+          { "value": "c", "label": "Fazer o marketing de conteúdo." },
+          { "value": "d", "label": "Contratar um designer." }
+        ],
+        "explanation": "Sem um nicho claro e um problema doloroso, todo o resto é inútil.",
+        "hint": "Foco inicial.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza precede a ação."
+      },
+      {
+        "id": "2",
+        "question": "O que deve ser priorizado durante as 24 horas de 'Vendas e Outreach'?",
+        "options": [
+          { "value": "a", "label": "Responder a todos os e-mails." },
+          { "value": "b", "label": "Ter conversas 1-a-1 com clientes em potencial e pedir a venda (o Ask)." },
+          { "value": "c", "label": "Aperfeiçoar o design da landing page." },
+          { "value": "d", "label": "Planejar o próximo ano." }
+        ],
+        "explanation": "O objetivo é obter o primeiro pagamento. Isso só acontece através de conversas diretas.",
+        "hint": "Interação humana.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro está nas conversas."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Ferramenta Simples' (Simple Tool) no MDW?",
+        "options": [
+          { "value": "a", "label": "Ser o produto final." },
+          { "value": "b", "label": "Usar ferramentas existentes (ex: Typeform, Notion, Google Sheets) para criar o MVO e a landing page rapidamente." },
+          { "value": "c", "label": "Construir software do zero." },
+          { "value": "d", "label": "Contratar um desenvolvedor." }
+        ],
+        "explanation": "Não perca tempo construindo a infraestrutura. Use o que já existe para validar a ideia.",
+        "hint": "Recursos existentes.",
+        "correctAnswer": "b",
+        "bookExample": "Use ferramentas de baixo código/sem código para lançar em 48 horas."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Pre-selling' (Pré-venda) no MDW?",
+        "options": [
+          { "value": "a", "label": "Vender o produto após o lançamento." },
+          { "value": "b", "label": "Vender o MVO antes de ele estar totalmente pronto, usando o dinheiro para financiar a construção e validar a demanda." },
+          { "value": "c", "label": "Vender de graça." },
+          { "value": "d", "label": "Vender para amigos." }
+        ],
+        "explanation": "A pré-venda é a forma mais pura de validação. Se eles pagam por algo que ainda não existe, a dor é real.",
+        "hint": "Dinheiro antecipado.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro do cliente é o melhor capital de risco."
+      },
+      {
+        "id": "5",
+        "question": "Por que a 'Simplicidade' é crucial na comunicação do MVO?",
+        "options": [
+          { "value": "a", "label": "Para parecer menos profissional." },
+          { "value": "b", "label": "A confusão mata a venda. A mensagem deve ser clara sobre o problema e o resultado em poucas palavras." },
+          { "value": "c", "label": "Para ter mais recursos." },
+          { "value": "d", "label": "Para atrair generalistas." }
+        ],
+        "explanation": "O cliente deve entender o valor em 5 segundos.",
+        "hint": "Clareza vende.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não consegue explicar o que faz em uma frase, você não sabe o que faz."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Time Blocking' (Bloqueio de Tempo) no MDW?",
+        "options": [
+          { "value": "a", "label": "Deixar o tempo livre." },
+          { "value": "b", "label": "Agendar blocos de tempo ininterruptos para HLAs (ex: 2 horas para outreach) e proteger esse tempo rigorosamente." },
+          { "value": "c", "label": "Agendar reuniões longas." },
+          { "value": "d", "label": "Agendar apenas tarefas administrativas." }
+        ],
+        "explanation": "O Time Blocking garante que o trabalho mais importante (vendas e validação) seja feito.",
+        "hint": "Tempo protegido.",
+        "correctAnswer": "b",
+        "bookExample": "Se não está no seu calendário, não existe."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Disciplina' no blueprint de 48 horas?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A disciplina em seguir o plano e evitar distrações é o que permite o lançamento rápido." },
+          { "value": "c", "label": "A disciplina é apenas para o marketing." },
+          { "value": "d", "label": "A disciplina é apenas para o produto." }
+        ],
+        "explanation": "O MDW exige foco implacável para cumprir o prazo.",
+        "hint": "Foco implacável.",
+        "correctAnswer": "b",
+        "bookExample": "A execução é 90% da batalha."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'MVP' (Minimum Viable Product) no contexto do blueprint?",
+        "options": [
+          { "value": "a", "label": "O produto final." },
+          { "value": "b", "label": "A primeira versão automatizada que você constrói *após* a validação do MVO." },
+          { "value": "c", "label": "O MVO." },
+          { "value": "d", "label": "Um protótipo não funcional." }
+        ],
+        "explanation": "O MVP vem depois do MVO. O MVO é o teste de venda; o MVP é a primeira versão escalável.",
+        "hint": "Escalabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Não construa o produto até que o cliente tenha pago por ele."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "A Geração de Tráfego Rápido: Quick Hits e Comunidades",
+    "teaser": "🎯 Pare de postar em *todos* os lugares. O tráfego MDW é um **sniper**, não um tapete de bombardeio. Vá para as 10 comunidades certas.",
+    "level1": "O tráfego MDW é focado em 'Quick Hits' (acertos rápidos). Isso significa ir diretamente a fontes de tráfego onde seu nicho já está reunido e engajado. Pense em listas de e-mail de nicho, subreddits específicos, grupos de LinkedIn ou comunidades de Slack.",
+    "level2": "Não gaste tempo otimizando para o Google. Gaste tempo postando valor em 10 lugares diferentes onde seu cliente ideal está. O objetivo é direcionar o tráfego para sua landing page MVO para obter o primeiro pagamento.",
+    "level3": "Ruim: Criar um blog para SEO. Bom: Postar seu MVO/Insight em 5 subreddits de programação e 5 grupos de Slack de desenvolvedores, e enviar mensagens personalizadas.",
+    "recapitulation": [
+      "A principal fonte de tráfego inicial é o **Outreach Manual** e as Comunidades de Nicho (Tráfego Imediato).",
+      "'Content Seeding' (Semeadura de Conteúdo) é a forma de usar seu MVO/Insight para gerar tráfego qualificado.",
+      "Evite o SEO e Anúncios Pagos no início, pois violam a restrição de tempo de 48 horas.",
+      "'The Hook' (O Gancho) é a frase que captura a atenção e foca na dor (3 segundos de atenção).",
+      "Use 'Prova Social' (depoimentos iniciais) para construir credibilidade rapidamente e aumentar a conversão.",
+      "Foque em 'Tráfego Qualificado': Pessoas que pertencem ao seu nicho e têm o problema doloroso."
+    ],
+    "practicalChecklist": [
+      "Liste os 10 canais/comunidades mais engajados e focados no seu Nicho de 1%.",
+      "Crie 3 versões do seu 'Hook' para testar em cada comunidade.",
+      "Desenvolva um pequeno 'Insight Valioso' (um dado, uma observação) para iniciar a conversa nessas comunidades.",
+      "Mantenha o Copy Simples: Foco no Problema -> Solução (MVO) -> Ask.",
+      "Direcione todo o tráfego para a Landing Page MVO (Apenas um CTA).",
+      "Monitore os canais que geram o melhor 'Tráfego Qualificado' (conversas e cliques, não apenas visualizações)."
+    ],
+    "conclusionMessage": "Em 48 horas, o tráfego é gerado manualmente através de canais de nicho, não através de SEO ou anúncios caros.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal fonte de tráfego no MDW?",
+        "options": [
+          { "value": "a", "label": "Anúncios pagos (Google Ads)." },
+          { "value": "b", "label": "Comunidades de nicho e alcance manual (Outreach)." },
+          { "value": "c", "label": "SEO (Otimização para Mecanismos de Busca)." },
+          { "value": "d", "label": "Marketing de afiliados." }
+        ],
+        "explanation": "O alcance manual e as comunidades fornecem tráfego qualificado e imediato.",
+        "hint": "Tráfego imediato.",
+        "correctAnswer": "b",
+        "bookExample": "Vá onde seus clientes já estão. Não tente construí-los."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Content Seeding' (Semeadura de Conteúdo)?",
+        "options": [
+          { "value": "a", "label": "Escrever um livro." },
+          { "value": "b", "label": "Postar seu MVO ou um insight valioso em comunidades relevantes, com o objetivo de gerar tráfego para sua landing page." },
+          { "value": "c", "label": "Fazer cold calls." },
+          { "value": "d", "label": "Fazer um podcast." }
+        ],
+        "explanation": "A semeadura de conteúdo é a forma de usar o IP (mesmo que mínimo) para atrair o cliente certo.",
+        "hint": "Distribuição em nicho.",
+        "correctAnswer": "b",
+        "bookExample": "Não crie conteúdo para todos; crie conteúdo para o seu nicho de 1%."
+      },
+      {
+        "id": "3",
+        "question": "Por que o MDW evita o SEO no início?",
+        "options": [
+          { "value": "a", "label": "O SEO é muito fácil." },
+          { "value": "b", "label": "O SEO leva meses para gerar resultados, o que viola a restrição de tempo de 48 horas." },
+          { "value": "c", "label": "O SEO é muito caro." },
+          { "value": "d", "label": "O SEO não funciona." }
+        ],
+        "explanation": "O MDW exige resultados imediatos para validação.",
+        "hint": "Tempo de retorno.",
+        "correctAnswer": "b",
+        "bookExample": "O MDW é sobre velocidade. O SEO é uma maratona, não um sprint."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'The Hook' (O Gancho) na sua mensagem de tráfego?",
+        "options": [
+          { "value": "a", "label": "O preço." },
+          { "value": "b", "label": "Uma frase ou título que captura a atenção do nicho, focando no problema doloroso que você resolve." },
+          { "value": "c", "label": "O nome da sua empresa." },
+          { "value": "d", "label": "O seu currículo." }
+        ],
+        "explanation": "O gancho é o que faz o cliente parar de rolar a tela e clicar no seu link.",
+        "hint": "Atenção imediata.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não consegue capturar a atenção em 3 segundos, você perdeu a venda."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel da 'Prova Social' (Testimonials) no lançamento de 48 horas?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Usar depoimentos de clientes iniciais (mesmo que sejam de serviços manuais) para construir credibilidade rapidamente na landing page." },
+          { "value": "c", "label": "Apenas para clientes grandes." },
+          { "value": "d", "label": "Apenas para o final do projeto." }
+        ],
+        "explanation": "A prova social reduz o risco percebido e aumenta a conversão.",
+        "hint": "Credibilidade rápida.",
+        "correctAnswer": "b",
+        "bookExample": "O que você diz sobre si mesmo é marketing. O que os outros dizem sobre você é prova."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Tráfego Qualificado'?",
+        "options": [
+          { "value": "a", "label": "Qualquer pessoa que visita o site." },
+          { "value": "b", "label": "Pessoas que pertencem ao seu nicho e têm o problema doloroso que você resolve." },
+          { "value": "c", "label": "Pessoas que clicam em anúncios." },
+          { "value": "d", "label": "Pessoas que não compram." }
+        ],
+        "explanation": "O MDW foca em qualidade, não em quantidade de tráfego.",
+        "hint": "Nicho e dor.",
+        "correctAnswer": "b",
+        "bookExample": "É melhor ter 10 visitantes qualificados do que 1000 visitantes aleatórios."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Marketing de Atração' (Attraction Marketing) após o MDW?",
+        "options": [
+          { "value": "a", "label": "Fazer cold calls." },
+          { "value": "b", "label": "Criar IP e conteúdo que atrai o cliente ideal, em vez de persegui-lo." },
+          { "value": "c", "label": "Fazer anúncios pagos." },
+          { "value": "d", "label": "Participar de feiras." }
+        ],
+        "explanation": "O marketing de atração é a chave para a escala passiva, construída após a validação inicial.",
+        "hint": "Ímã.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo é que o cliente diga: 'Eu preciso disso', não 'Eu preciso de um vendedor'."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Simplicidade' na sua mensagem de tráfego?",
+        "options": [
+          { "value": "a", "label": "A mensagem deve ser complexa." },
+          { "value": "b", "label": "A mensagem deve ser clara e concisa, focada no problema que você resolve e no resultado que você entrega." },
+          { "value": "c", "label": "A simplicidade é irrelevante." },
+          { "value": "d", "label": "A mensagem deve ser longa." }
+        ],
+        "explanation": "A confusão mata a venda. A clareza atrai o cliente certo.",
+        "hint": "Clareza vende.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não consegue explicar o que faz em uma frase, você não sabe o que faz."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "A Transição do MVO para o MVP: Automatizando o Aprendizado",
+    "teaser": "🤖 Não automatize um erro. O MVO valida o 'quê' (a venda). O MVP é a primeira versão **automatizada** do que foi comprovado. Construção só depois do pagamento.",
+    "level1": "O MVO é manual e focado na venda. O MVP (Minimum Viable Product) é a primeira versão escalável do seu produto. A transição só deve ocorrer *depois* que você tiver vendas suficientes para provar que a ideia funciona e que você sabe exatamente o que construir.",
+    "level2": "Não comece a codificar até ter 10 clientes pagantes. Use o feedback do MVO para definir o escopo do MVP. O MVP deve ser a versão mais simples que automatiza o processo manual que você já estava fazendo.",
+    "level3": "Ruim: Construir um software de 6 meses baseado em 'achismos'. Bom: Usar o dinheiro do MVO (planilha manual) para pagar um freelancer para automatizar *apenas* a planilha.",
+    "recapitulation": [
+      "O MVP (automatizado/escalável) só deve ser construído **após** a validação do MVO (manual/vendável).",
+      "MVO (Manual) valida a demanda. MVP (Automatizado) automatiza a entrega.",
+      "O MDW é uma aplicação extrema do 'Lean Startup' (Construir-Medir-Aprender).",
+      "Inclua no MVP apenas os recursos que os clientes pagantes usaram ou pediram ativamente durante o MVO.",
+      "A 'Technical Debt' (Dívida Técnica) do MVO é aceitável, mas deve ser resolvida no MVP.",
+      "'Pivot' (Pivô) é um sinal de adaptação, não de fracasso. Mude a estratégia se o MVO não validar."
+    ],
+    "practicalChecklist": [
+      "Liste as 5 tarefas mais repetitivas do seu MVO (o que você faria manualmente 3x ou mais?).",
+      "Defina o MVP: A versão mais simples que automatiza essas 5 tarefas.",
+      "Selecione uma ferramenta/plataforma para construir o MVP (No-Code/Low-Code ou um freelancer para um MVP simples).",
+      "Revise o escopo do MVP e corte 50% dos recursos 'legais de ter'.",
+      "Comprometa-se a construir o MVP apenas com 'Aprendizado Validado' (dados de compra do MVO).",
+      "Use os depoimentos e o fluxo de caixa do MVO para financiar o MVP (Bootstrapping)."
+    ],
+    "conclusionMessage": "O MVO valida a demanda (o 'o quê'). O MVP é a primeira versão automatizada que você constrói após a validação, focando apenas nos recursos que os clientes pagantes realmente usam.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Quando você deve começar a construir o MVP?",
+        "options": [
+          { "value": "a", "label": "Imediatamente após a ideia." },
+          { "value": "b", "label": "Somente após validar o MVO com clientes pagantes e entender o fluxo de trabalho manual." },
+          { "value": "c", "label": "Após obter investimento." },
+          { "value": "d", "label": "Após 6 meses de planejamento." }
+        ],
+        "explanation": "A validação precede a construção. Construir antes de validar é o erro mais comum.",
+        "hint": "Validação primeiro.",
+        "correctAnswer": "b",
+        "bookExample": "Não construa o produto até que o cliente tenha pago por ele."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a principal diferença entre MVO e MVP?",
+        "options": [
+          { "value": "a", "label": "MVO é caro; MVP é barato." },
+          { "value": "b", "label": "MVO valida a demanda (manual); MVP automatiza a entrega (escalável)." },
+          { "value": "c", "label": "MVO é para clientes grandes; MVP é para clientes pequenos." },
+          { "value": "d", "label": "Não há diferença." }
+        ],
+        "explanation": "O MVO é o teste. O MVP é a primeira versão do produto real.",
+        "hint": "Manual vs. Automatizado.",
+        "correctAnswer": "b",
+        "bookExample": "O MVO é o rascunho. O MVP é o primeiro capítulo publicado."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Lean Startup' no contexto MDW?",
+        "options": [
+          { "value": "a", "label": "Gastar muito dinheiro." },
+          { "value": "b", "label": "O ciclo de Construir-Medir-Aprender, focado em minimizar o desperdício e maximizar o aprendizado validado." },
+          { "value": "c", "label": "Focar apenas na construção." },
+          { "value": "d", "label": "Ignorar o feedback." }
+        ],
+        "explanation": "O MDW é uma aplicação extrema do Lean Startup, onde o ciclo é comprimido em 48 horas.",
+        "hint": "Ciclo de aprendizado.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo não é construir, mas aprender o mais rápido possível."
+      },
+      {
+        "id": "4",
+        "question": "Como você decide quais recursos incluir no MVP?",
+        "options": [
+          { "value": "a", "label": "Incluir todos os recursos que você pensou." },
+          { "value": "b", "label": "Incluir apenas os recursos que os clientes pagantes usaram ou pediram ativamente durante a fase MVO." },
+          { "value": "c", "label": "Incluir os recursos do concorrente." },
+          { "value": "d", "label": "Incluir os recursos mais fáceis de construir." }
+        ],
+        "explanation": "O MVP deve resolver o problema principal de forma escalável. Evite recursos de 'agradabilidade'.",
+        "hint": "Foco no essencial validado.",
+        "correctAnswer": "b",
+        "bookExample": "O MVP deve ter apenas o suficiente para resolver o problema principal e nada mais."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Technical Debt' (Dívida Técnica) no MDW?",
+        "options": [
+          { "value": "a", "label": "Dívidas financeiras." },
+          { "value": "b", "label": "O resultado de construir o MVO rapidamente com código 'feio' ou soluções temporárias, que deve ser resolvido ao construir o MVP." },
+          { "value": "c", "label": "É irrelevante." },
+          { "value": "d", "label": "É um sinal de sucesso." }
+        ],
+        "explanation": "A dívida técnica é aceitável no MVO (velocidade > qualidade), mas deve ser resolvida no MVP (qualidade > velocidade).",
+        "hint": "Código temporário.",
+        "correctAnswer": "b",
+        "bookExample": "A dívida técnica é o preço que você paga pela velocidade de lançamento."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel da 'Simplicidade' no MVP?",
+        "options": [
+          { "value": "a", "label": "O MVP deve ser complexo." },
+          { "value": "b", "label": "O MVP deve ser a versão mais simples que automatiza o MVO, evitando recursos desnecessários." },
+          { "value": "c", "label": "A simplicidade é irrelevante." },
+          { "value": "d", "label": "O MVP deve ser bonito." }
+        ],
+        "explanation": "A simplicidade garante que o MVP seja lançado rapidamente e que o foco permaneça no problema principal.",
+        "hint": "Foco no essencial.",
+        "correctAnswer": "b",
+        "bookExample": "O MVP deve ser enxuto. Cada recurso extra é um risco de atraso."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Pivô' (Pivot) no contexto de MVO para MVP?",
+        "options": [
+          { "value": "a", "label": "Mudar o preço." },
+          { "value": "b", "label": "Mudar a estratégia ou o produto principal com base no feedback validado (ex: Mudar de software para consultoria)." },
+          { "value": "c", "label": "Mudar o nome da empresa." },
+          { "value": "d", "label": "Mudar o design." }
+        ],
+        "explanation": "O pivô é um sinal de que você está aprendendo e se adaptando ao mercado.",
+        "hint": "Mudança de direção.",
+        "correctAnswer": "b",
+        "bookExample": "O fracasso não é fatal, mas a incapacidade de mudar pode ser."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Aprendizado Validado'?",
+        "options": [
+          { "value": "a", "label": "O que você aprende com amigos." },
+          { "value": "b", "label": "O conhecimento obtido através de experimentos reais com clientes pagantes, que guia a construção do MVP." },
+          { "value": "c", "label": "O que você lê em livros." },
+          { "value": "d", "label": "O que você pensa que é verdade." }
+        ],
+        "explanation": "O aprendizado validado é a única base para a construção do MVP.",
+        "hint": "Dados de compra.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo não é construir, mas aprender o mais rápido possível."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "A Escala Através de Sistemas e Automação: Alavancagem",
+    "teaser": "📈 Pare de trocar tempo por dinheiro. Se você faz algo mais de 3 vezes, **automatize**. Seu tempo é para HLAs (High-Leverage Activities).",
+    "level1": "Depois de provar que o MVO funciona e construir o MVP, o foco muda para a escala. A escala é alcançada através da automação de tarefas repetitivas e da criação de sistemas claros para aquisição e retenção de clientes.",
+    "level2": "Se você está fazendo a mesma coisa mais de três vezes, automatize. Use ferramentas de baixo código/sem código para gerenciar o marketing, o suporte e a entrega. Seu tempo deve ser gasto em atividades de alta alavancagem (HLAs): criação de IP e prospecção de grandes clientes.",
+    "level3": "Ruim: Responder a todos os e-mails manualmente. Bom: Automatizar o e-mail de boas-vindas e a entrega do produto e usar o tempo livre para criar um Lead Magnet (IP) que gera leads passivamente.",
+    "recapitulation": [
+      "'High-Leverage Activity' (HLA) é a atividade que gera retorno desproporcional (ex: criação de IP, otimização de funil).",
+      "A regra de ouro da automação: Se você faz algo mais de 3 vezes, automatize.",
+      "Um 'Sistema de Aquisição de Clientes' (Funil) deve ser repetível e previsível para permitir a escala.",
+      "'Delegação' é crucial: Delegue tarefas de baixa alavancagem (suporte, administração) para liberar tempo para HLAs.",
+      "'Escalabilidade' é a capacidade de aumentar a receita sem aumentar proporcionalmente os custos ou o tempo de trabalho.",
+      "'Passive Income' (Renda Passiva) é gerada por IP (cursos, e-books, software) que não requer sua intervenção ativa."
+    ],
+    "practicalChecklist": [
+      "Identifique e automatize as 3 tarefas mais repetitivas que você ainda faz manualmente.",
+      "Implemente um 'Sistema de Aquisição' simples (Ex: Lead Magnet -> E-mail Funnel -> MVO/MVP).",
+      "Comece a documentar seus processos (SOPs) para futuras delegações.",
+      "Reserve tempo semanalmente para HLAs (Criação de IP, Análise de Métricas).",
+      "Use o conceito de 'Bootstrapping' (Autofinanciamento) para reinvestir o lucro na automação e escala.",
+      "Pense no seu negócio como um 'ativo vendável' (Ele funcionaria sem você?)."
+    ],
+    "conclusionMessage": "A escala não é sobre trabalhar mais, mas sobre automatizar o que foi validado manualmente. Sistemas e automação transformam seu tempo em um ativo alavancável.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é 'High-Leverage Activity' (HLA) no contexto de escala?",
+        "options": [
+          { "value": "a", "label": "Responder a todos os e-mails." },
+          { "value": "b", "label": "Atividades que geram um retorno desproporcionalmente alto (ex: criação de IP, otimização de funil de vendas)." },
+          { "value": "c", "label": "Tarefas administrativas." },
+          { "value": "d", "label": "Reuniões longas." }
+        ],
+        "explanation": "O empreendedor MDW foca em HLAs para maximizar a receita por hora.",
+        "hint": "ROI do tempo.",
+        "correctAnswer": "b",
+        "bookExample": "Se você está fazendo tarefas de R$ 10 por hora, você está perdendo a oportunidade de fazer tarefas de R$ 1.000 por hora."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a regra para decidir o que automatizar?",
+        "options": [
+          { "value": "a", "label": "Automatizar tudo." },
+          { "value": "b", "label": "Automatizar qualquer tarefa que você faça mais de três vezes e que não seja uma HLA." },
+          { "value": "c", "label": "Automatizar apenas o que é divertido." },
+          { "value": "d", "label": "Não automatizar nada." }
+        ],
+        "explanation": "A automação é o seu assistente 24/7. Ela garante que o negócio funcione sem sua intervenção constante.",
+        "hint": "Repetição.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está automatizando, você está construindo um emprego, não um negócio."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Sistema de Aquisição de Clientes'?",
+        "options": [
+          { "value": "a", "label": "Apenas o site." },
+          { "value": "b", "label": "Um processo repetível e previsível (funil) que transforma leads frios em clientes pagantes de forma consistente." },
+          { "value": "c", "label": "Um software caro." },
+          { "value": "d", "label": "Uma lista de e-mail." }
+        ],
+        "explanation": "A escala exige previsibilidade. O sistema de aquisição é o motor do crescimento.",
+        "hint": "Processo repetível.",
+        "correctAnswer": "b",
+        "bookExample": "O sucesso não é sorte; é um sistema."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel da 'Delegação' na escala?",
+        "options": [
+          { "value": "a", "label": "Delegar a consultoria principal." },
+          { "value": "b", "label": "Delegar tarefas de baixa alavancagem (suporte, administração) para liberar tempo para HLAs." },
+          { "value": "c", "label": "Delegar a prospecção." },
+          { "value": "d", "label": "Fazer tudo sozinho." }
+        ],
+        "explanation": "Você só deve fazer o que só você pode fazer. O resto deve ser delegado ou automatizado.",
+        "hint": "Foco no único.",
+        "correctAnswer": "b",
+        "bookExample": "O empreendedor de 7 dígitos não é um faz-tudo; ele é um arquiteto de sistemas."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Escalabilidade' (Scalability)?",
+        "options": [
+          { "value": "a", "label": "A capacidade de trabalhar mais horas." },
+          { "value": "b", "label": "A capacidade de aumentar a receita sem aumentar proporcionalmente os custos ou o tempo de trabalho." },
+          { "value": "c", "label": "A capacidade de ter muitos clientes pequenos." },
+          { "value": "d", "label": "A capacidade de ter um produto complexo." }
+        ],
+        "explanation": "A escalabilidade é o resultado da automação e do IP.",
+        "hint": "Receita desvinculada do tempo.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode escalar, você está limitado pelo seu tempo."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Bootstrapping' (Autofinanciamento) no contexto de escala?",
+        "options": [
+          { "value": "a", "label": "Obter investimento de risco." },
+          { "value": "b", "label": "Construir o negócio usando apenas a receita gerada pelas vendas, forçando a disciplina financeira e o foco no lucro." },
+          { "value": "c", "label": "Gastar muito dinheiro." },
+          { "value": "d", "label": "Não ter lucro." }
+        ],
+        "explanation": "O bootstrapping força o foco no que realmente importa: o cliente pagante e a lucratividade.",
+        "hint": "Lucro imediato.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro do cliente é o melhor capital de risco."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Tecnologia' na alavancagem?",
+        "options": [
+          { "value": "a", "label": "Apenas para comunicação." },
+          { "value": "b", "label": "Automatizar tarefas de baixa alavancagem e entregar IP em escala (ex: plataformas de cursos, CRM)." },
+          { "value": "c", "label": "É irrelevante." },
+          { "value": "d", "label": "Apenas para contabilidade." }
+        ],
+        "explanation": "A tecnologia é a ferramenta que permite a escala do IP.",
+        "hint": "Automação e Escala.",
+        "correctAnswer": "b",
+        "bookExample": "A tecnologia é o seu assistente de vendas 24/7."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Passive Income' (Renda Passiva) na escala?",
+        "options": [
+          { "value": "a", "label": "Dinheiro ganho em projetos de consultoria." },
+          { "value": "b", "label": "Receita gerada por IP (ex: vendas de livros, cursos online, licenciamento) que não requer seu tempo ativo." },
+          { "value": "c", "label": "Dinheiro ganho em palestras." },
+          { "value": "d", "label": "Dinheiro ganho em networking." }
+        ],
+        "explanation": "A renda passiva é a chave para a liberdade financeira e a escala.",
+        "hint": "Dinheiro sem tempo.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões busca a liberdade de não ter que trabalhar para ganhar dinheiro."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Superando o Medo do Lançamento: Ação vs. Perfeição",
+    "teaser": "😱 O medo de lançar é o medo do julgamento. Lembre-se: O pior cenário é o **feedback** (o que é um sucesso de aprendizado), não o fracasso.",
+    "level1": "O medo de lançar (Analysis Paralysis) é o que mata a maioria das ideias. O MDW força você a lançar em 48 horas, antes que o medo possa se instalar. O objetivo é obter dados, não aprovação.",
+    "level2": "Lembre-se: o fracasso é apenas um dado. Se o lançamento falhar, você aprendeu algo valioso em 48 horas, o que é um sucesso. O medo de falhar é menos doloroso do que o arrependimento de nunca ter tentado.",
+    "level3": "Ruim: Parar a produção para debater a cor do botão por 2 horas. Bom: Lançar com o botão cinza, observar a taxa de conversão e mudar a cor em 10 minutos se os dados indicarem.",
+    "recapitulation": [
+      "'Analysis Paralysis' (Paralisia por Análise) é o inimigo do MDW (excesso de planejamento).",
+      "A 'Vergonha' do seu MVO é um sinal de velocidade: você priorizou a ação sobre a perfeição.",
+      "O 'Custo da Inação' (oportunidade perdida) é sempre maior do que o custo de um lançamento imperfeito.",
+      "Use uma 'Comunidade de Apoio' para responsabilidade e para forçar o lançamento no prazo.",
+      "Evite o 'Teste do Amigo': As opiniões lisonjeiras não são feedback de mercado real.",
+      "A 'Ação Rápida' (lançar em 48h) é o antídoto para o medo, a ansiedade e o 'Medo do Julgamento'."
+    ],
+    "practicalChecklist": [
+      "Identifique o que está te segurando (Perfeccionismo, Medo do Julgamento) e nomeie-o.",
+      "Defina o 'Mínimo Aceitável' para o seu MVO e lance assim que atingir esse ponto.",
+      "Aprenda com o 'fracasso' rápido: Se o lançamento for ruim, pergunte 'Por que ninguém comprou?' e itere imediatamente.",
+      "Use o 'Time Blocking' para eliminar o tempo de planejamento excessivo.",
+      "Comprometa-se com uma comunidade ou parceiro para te responsabilizar pelo lançamento final.",
+      "Substitua a busca pela Perfeição pela busca por Dados (Dados > Opinião)."
+    ],
+    "conclusionMessage": "O medo do lançamento é o medo do julgamento. O MDW combate isso com ação rápida e foco no feedback, não na opinião.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é 'Analysis Paralysis' (Paralisia por Análise)?",
+        "options": [
+          { "value": "a", "label": "O estado de gastar tempo excessivo planejando, pesquisando e aperfeiçoando, impedindo o lançamento." },
+          { "value": "b", "label": "Focar demais na ação." },
+          { "value": "c", "label": "Focar demais no cliente." },
+          { "value": "d", "label": "Focar demais no preço." }
+        ],
+        "explanation": "A paralisia por análise é o inimigo do MDW. A ação é a cura.",
+        "hint": "Excesso de planejamento.",
+        "correctAnswer": "a",
+        "bookExample": "O planejamento excessivo é apenas procrastinação disfarçada."
+      },
+      {
+        "id": "2",
+        "question": "Como o MDW usa a 'Vergonha' (Embarrassment)?",
+        "options": [
+          { "value": "a", "label": "Para se sentir mal." },
+          { "value": "b", "label": "Se você não está envergonhado do seu MVO, você lançou tarde demais. A vergonha é um sinal de velocidade." },
+          { "value": "c", "label": "Para ser rude com os clientes." },
+          { "value": "d", "label": "Para ter um produto perfeito." }
+        ],
+        "explanation": "A vergonha significa que você priorizou a velocidade sobre a perfeição, o que é essencial para a validação rápida.",
+        "hint": "Sinal de velocidade.",
+        "correctAnswer": "b",
+        "bookExample": "A velocidade é mais importante que a qualidade no início."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'O Custo da Inação' (Cost of Inaction)?",
+        "options": [
+          { "value": "a", "label": "O custo do produto." },
+          { "value": "b", "label": "O valor perdido por não lançar e validar sua ideia, permitindo que o tempo e a oportunidade passem." },
+          { "value": "c", "label": "O custo do marketing." },
+          { "value": "d", "label": "O custo do feedback." }
+        ],
+        "explanation": "O custo da inação é sempre maior do que o custo de um lançamento rápido e imperfeito.",
+        "hint": "Oportunidade perdida.",
+        "correctAnswer": "b",
+        "bookExample": "O maior risco é não correr nenhum risco."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel da 'Comunidade de Apoio' no MDW?",
+        "options": [
+          { "value": "a", "label": "Apenas para obter dinheiro." },
+          { "value": "b", "label": "Ter um grupo de pares ou mentores que te forçam a agir e te responsabilizam pelo lançamento em 48 horas." },
+          { "value": "c", "label": "Apenas para obter feedback." },
+          { "value": "d", "label": "Apenas para obter ideias." }
+        ],
+        "explanation": "A responsabilidade externa é crucial para superar a procrastinação.",
+        "hint": "Responsabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Se você quer ir rápido, vá sozinho. Se você quer ir longe, vá acompanhado."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'O Teste do Amigo' (The Friend Test)?",
+        "options": [
+          { "value": "a", "label": "Pedir a opinião de amigos." },
+          { "value": "b", "label": "Evitar perguntar a amigos e familiares se eles gostam da sua ideia, pois eles darão respostas lisonjeiras e não confiáveis." },
+          { "value": "c", "label": "Pedir dinheiro a amigos." },
+          { "value": "d", "label": "Pedir feedback a amigos." }
+        ],
+        "explanation": "O feedback de amigos é inútil para a validação. Você precisa de feedback de clientes pagantes.",
+        "hint": "Lisonja.",
+        "correctAnswer": "b",
+        "bookExample": "Sua mãe vai te amar de qualquer jeito. O mercado não."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Medo do Julgamento'?",
+        "options": [
+          { "value": "a", "label": "Medo de ser criticado por concorrentes." },
+          { "value": "b", "label": "O medo de que amigos, familiares ou o público julguem sua ideia ou seu produto imperfeito, levando à inação." },
+          { "value": "c", "label": "Medo de perder dinheiro." },
+          { "value": "d", "label": "Medo de ter sucesso." }
+        ],
+        "explanation": "O MDW combate o medo do julgamento focando em dados de compra, que são objetivos.",
+        "hint": "Subjetividade.",
+        "correctAnswer": "b",
+        "bookExample": "O julgamento é a prisão do empreendedor."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Ação' na superação do medo?",
+        "options": [
+          { "value": "a", "label": "Ação é irrelevante." },
+          { "value": "b", "label": "A ação rápida (lançar em 48h) é o antídoto para o medo e a ansiedade." },
+          { "value": "c", "label": "Ação aumenta o medo." },
+          { "value": "d", "label": "Ação deve ser lenta." }
+        ],
+        "explanation": "A ação gera momentum e aprendizado, reduzindo a incerteza.",
+        "hint": "Antídoto.",
+        "correctAnswer": "b",
+        "bookExample": "A ação é o antídoto para o desespero."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Perfeccionismo' no contexto MDW?",
+        "options": [
+          { "value": "a", "label": "Um sinal de alta qualidade." },
+          { "value": "b", "label": "Uma forma de procrastinação que impede o lançamento e a obtenção de feedback real." },
+          { "value": "c", "label": "Um requisito para o sucesso." },
+          { "value": "d", "label": "Uma virtude." }
+        ],
+        "explanation": "O perfeccionismo é o inimigo da velocidade e da validação.",
+        "hint": "Procrastinação disfarçada.",
+        "correctAnswer": "b",
+        "bookExample": "Feito é melhor que perfeito."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "A Criação de Conteúdo que Vende: Copywriting Focado na Dor",
+    "teaser": "✍️ Pare de falar sobre *você*. Comece a descrever a **dor** do cliente de forma tão vívida que ele sinta que você está lendo a mente dele. Isso vende.",
+    "level1": "O conteúdo que você cria (seja um post, um e-mail ou uma landing page) deve ser focado em três coisas: 1) Identificar a dor do nicho, 2) Apresentar o MVO como a cura, 3) Pedir a ação (o Ask).",
+    "level2": "Não escreva sobre você. Escreva sobre o cliente e o problema dele. Use a linguagem exata que o cliente usa para descrever a dor. Isso cria ressonância imediata e atrai o tráfego qualificado.",
+    "level3": "Ruim: 'Nosso software tem 10 funcionalidades incríveis.' Bom: 'Pare de perder 5 horas por semana em planilhas: A solução de 48 horas para [Nicho Específico]' (Headline focada no benefício e na dor).",
+    "recapitulation": [
+      "'Copywriting Focado na Dor' é mais eficaz do que o focado no prazer (Motivação de Compra).",
+      "A 'Clareza' é a chave na Landing Page: O cliente deve entender o valor em 5 segundos.",
+      "O 'Call to Action' (CTA) deve ser único e focado na ação de compra (o Ask).",
+      "Use a 'Linguagem do Cliente' (as palavras exatas que ele usa) para criar ressonância.",
+      "A 'Headline Focada no Benefício' vende o resultado (o buraco na parede), não o recurso (a furadeira).",
+      "Use a 'Urgência' no Copywriting (escassez/tempo limitado) para combater a inação do cliente."
+    ],
+    "practicalChecklist": [
+      "Use depoimentos/fóruns de nicho para coletar 10 'palavras de dor' que seu cliente usa.",
+      "Reescreva sua Landing Page para ter 80% do foco no problema do cliente (a dor).",
+      "Crie uma 'Headline Focada no Benefício' de 5 segundos que prometa o resultado.",
+      "Simplifique o CTA para uma única ação clara (Ex: 'Compre Agora e Resolva X').",
+      "Integre 'Copywriting de Prova Social' (depoimentos de primeiros clientes) na sua Landing Page.",
+      "Aplique o conceito de 'Copywriting de Clareza': Escreva de forma simples para que o cliente não precise pensar muito."
+    ],
+    "conclusionMessage": "O conteúdo MDW é focado em resolver o problema do nicho e direcionar o tráfego para o MVO, usando a dor como gancho.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é 'Copywriting Focado na Dor'?",
+        "options": [
+          { "value": "a", "label": "Focar nos recursos do produto." },
+          { "value": "b", "label": "Usar a linguagem para descrever o problema do cliente de forma vívida, fazendo-o sentir a dor antes de apresentar a solução." },
+          { "value": "c", "label": "Focar no preço." },
+          { "value": "d", "label": "Focar na história da empresa." }
+        ],
+        "explanation": "As pessoas são mais motivadas a evitar a dor do que a buscar o prazer.",
+        "hint": "Motivação de compra.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas não compram o que você vende; elas compram a solução para o problema que as está matando."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o papel da 'Clareza' na landing page?",
+        "options": [
+          { "value": "a", "label": "Ter um design bonito." },
+          { "value": "b", "label": "O cliente deve entender o que você vende, para quem e por que em 5 segundos." },
+          { "value": "c", "label": "Ter muitos textos." },
+          { "value": "d", "label": "Ter muitos links." }
+        ],
+        "explanation": "A confusão mata a conversão. A clareza é a chave.",
+        "hint": "5 segundos.",
+        "correctAnswer": "b",
+        "bookExample": "Se você confunde, você perde."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Call to Action' (CTA) no MDW?",
+        "options": [
+          { "value": "a", "label": "Um botão genérico." },
+          { "value": "b", "label": "Uma instrução clara e única que diz ao cliente exatamente o que fazer em seguida (ex: 'Compre Agora e Resolva X')." },
+          { "value": "c", "label": "Um link para o blog." },
+          { "value": "d", "label": "Um link para o currículo." }
+        ],
+        "explanation": "O CTA deve ser focado na ação de compra ou no próximo passo de validação.",
+        "hint": "Próximo passo.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não diz ao cliente o que fazer, ele não fará nada."
+      },
+      {
+        "id": "4",
+        "question": "Por que você deve usar a 'Linguagem do Cliente'?",
+        "options": [
+          { "value": "a", "label": "Para parecer mais inteligente." },
+          { "value": "b", "label": "Usar as palavras exatas que o cliente usa para descrever o problema, criando ressonância e confiança imediata." },
+          { "value": "c", "label": "Para ser genérico." },
+          { "value": "d", "label": "Para ser formal." }
+        ],
+        "explanation": "A linguagem do cliente é encontrada em fóruns, depoimentos e conversas de vendas.",
+        "hint": "Ressonância.",
+        "correctAnswer": "b",
+        "bookExample": "Fale a língua do seu cliente, não a sua."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Headline Focada no Benefício'?",
+        "options": [
+          { "value": "a", "label": "Um título que descreve o produto." },
+          { "value": "b", "label": "Um título que promete o resultado que o cliente deseja (o benefício) em vez de apenas descrever o recurso." },
+          { "value": "c", "label": "Um título longo." },
+          { "value": "d", "label": "Um título genérico." }
+        ],
+        "explanation": "O benefício é o que vende. O recurso é apenas o 'como'.",
+        "hint": "Resultado prometido.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas não compram recursos; elas compram soluções."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Copywriting de Prova Social'?",
+        "options": [
+          { "value": "a", "label": "Focar em dados técnicos." },
+          { "value": "b", "label": "Usar depoimentos e estudos de caso para provar que a solução funciona para pessoas como o cliente." },
+          { "value": "c", "label": "Focar em promessas vazias." },
+          { "value": "d", "label": "Focar em si mesmo." }
+        ],
+        "explanation": "A prova social reduz o risco percebido e aumenta a conversão.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O que você diz sobre si mesmo é marketing. O que os outros dizem sobre você é prova."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Urgência' no Copywriting?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Criar um senso de escassez ou tempo limitado para forçar a decisão imediata (ex: 'Oferta válida por 48 horas')." },
+          { "value": "c", "label": "Apenas para produtos baratos." },
+          { "value": "d", "label": "Apenas para clientes grandes." }
+        ],
+        "explanation": "A urgência combate a procrastinação do cliente.",
+        "hint": "Ação imediata.",
+        "correctAnswer": "b",
+        "bookExample": "A inação é o maior assassino de negócios. Use a urgência para combatê-la."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Copywriting de Clareza'?",
+        "options": [
+          { "value": "a", "label": "Usar jargões complexos." },
+          { "value": "b", "label": "Escrever de forma simples e direta, focando no resultado, para que o cliente não precise pensar muito." },
+          { "value": "c", "label": "Escrever textos longos." },
+          { "value": "d", "label": "Escrever sobre a história da empresa." }
+        ],
+        "explanation": "A clareza é a chave para a conversão. O cliente deve entender o valor imediatamente.",
+        "hint": "Fácil de entender.",
+        "correctAnswer": "b",
+        "bookExample": "Se você confunde, você perde."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Métricas de Validação Rápida: Ação vs. Vaidade",
+    "teaser": "📊 Ignore as curtidas. A única métrica que importa é o **dinheiro no bolso**. O dinheiro é o seu placar. Se não paga as contas, é vaidade.",
+    "level1": "Métricas de vaidade (Vanity Metrics) são números que parecem bons, mas não se traduzem em receita (ex: visualizações de página). O MDW foca em métricas acionáveis (Actionable Metrics) que provam a demanda e a lucratividade.",
+    "level2": "A única métrica que importa nas primeiras 48 horas é: 'Quantas pessoas pagaram?' Se você não está medindo o pagamento, você está medindo a vaidade. Depois, você mede a Taxa de Conversão (Conversion Rate) e o Custo de Aquisição de Cliente (CAC).",
+    "level3": "Ruim: Relatar 1000 visualizações na Landing Page. Bom: Relatar 5 pagamentos (Taxa de Conversão de 0.5%) e focar em otimizar *essa* taxa.",
+    "recapitulation": [
+      "A métrica de validação mais importante é o **Número de Clientes Pagantes** (O Teste do $1).",
+      "'Taxa de Conversão' é a porcentagem de visitantes que completam a ação desejada (compra/inscrição paga).",
+      "'Custo de Aquisição de Cliente' (CAC) deve ser o foco para garantir que a aquisição seja lucrativa.",
+      "'Métricas de Vaidade' (Visualizações, Curtidas) são números que não refletem o crescimento real do negócio.",
+      "Foco na 'Simplicidade' da medição: Meça apenas 1-3 métricas críticas (Vendas Diárias, Taxa de Conversão).",
+      "O 'LTV' (Lifetime Value) deve ser pelo menos 3:1 em relação ao CAC (LTV > 3x CAC)."
+    ],
+    "practicalChecklist": [
+      "Instale o rastreamento básico para medir a Taxa de Conversão (cliques no botão de compra).",
+      "Ignore o número de visualizações do site. Concentre-se no número de **conversas de vendas** e **pagamentos**.",
+      "Calcule o CAC (Custo de Tráfego/Conversas + Custo de Tempo) para as 48 horas.",
+      "Defina o LTV (Valor de Vida do Cliente) inicial (MVO + 1 Upsell potencial).",
+      "Revise suas métricas de acordo com a regra: 'Se não está gerando dinheiro ou aprendizado, é vaidade'.",
+      "Foque na 'Métrica de Retenção' para o MVO (Quantos clientes do MVO continuaram usando/comprando?)."
+    ],
+    "conclusionMessage": "O MDW foca em métricas de ação (pagamento, compromisso), não em métricas de vaidade (visualizações, curtidas).",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a métrica de validação mais importante nas primeiras 48 horas?",
+        "options": [
+          { "value": "a", "label": "Visualizações de página." },
+          { "value": "b", "label": "Número de clientes pagantes (o Teste do $1)." },
+          { "value": "c", "label": "Curtidas nas redes sociais." },
+          { "value": "d", "label": "Tempo gasto no site." }
+        ],
+        "explanation": "O dinheiro é a única prova de que o cliente tem um problema que ele está disposto a resolver.",
+        "hint": "Dinheiro.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro é o seu placar. Se o placar está baixo, você está perdendo."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Taxa de Conversão' (Conversion Rate)?",
+        "options": [
+          { "value": "a", "label": "O número de visitantes." },
+          { "value": "b", "label": "A porcentagem de visitantes que completam a ação desejada (ex: compra, inscrição paga)." },
+          { "value": "c", "label": "O número de e-mails." },
+          { "value": "d", "label": "O número de cliques." }
+        ],
+        "explanation": "A taxa de conversão é a medida da eficácia da sua oferta e landing page.",
+        "hint": "Eficácia da oferta.",
+        "correctAnswer": "b",
+        "bookExample": "Otimizar a conversão é a forma mais rápida de aumentar a receita."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Custo de Aquisição de Cliente' (CAC)?",
+        "options": [
+          { "value": "a", "label": "O preço do produto." },
+          { "value": "b", "label": "O custo total de marketing e vendas dividido pelo número de novos clientes adquiridos." },
+          { "value": "c", "label": "O custo de produção." },
+          { "value": "d", "label": "O custo do tempo." }
+        ],
+        "explanation": "Você deve garantir que o Valor de Vida do Cliente (LTV) seja maior que o CAC.",
+        "hint": "Custo de marketing.",
+        "correctAnswer": "b",
+        "bookExample": "Se você gasta R$ 100 para adquirir um cliente que só paga R$ 50, você está falido."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Métricas de Vaidade' (Vanity Metrics)?",
+        "options": [
+          { "value": "a", "label": "Métricas que geram receita." },
+          { "value": "b", "label": "Métricas que fazem você se sentir bem, mas não refletem o crescimento real do negócio (ex: seguidores, visualizações)." },
+          { "value": "c", "label": "Métricas acionáveis." },
+          { "value": "d", "label": "Métricas de lucro." }
+        ],
+        "explanation": "O MDW exige foco em métricas que levam à ação e ao crescimento.",
+        "hint": "Ego.",
+        "correctAnswer": "b",
+        "bookExample": "Não se apaixone por métricas que não pagam as contas."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel da 'Simplicidade' na medição?",
+        "options": [
+          { "value": "a", "label": "Medir tudo." },
+          { "value": "b", "label": "Focar em 1-3 métricas críticas que realmente movem o ponteiro (ex: Vendas Diárias, Taxa de Conversão)." },
+          { "value": "c", "label": "Ignorar as métricas." },
+          { "value": "d", "label": "Usar ferramentas complexas." }
+        ],
+        "explanation": "A complexidade na medição leva à paralisia. Mantenha o foco no essencial.",
+        "hint": "Foco no essencial.",
+        "correctAnswer": "b",
+        "bookExample": "O que é medido é gerenciado. Meça o que importa."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'LTV' (Lifetime Value) e por que é crucial?",
+        "options": [
+          { "value": "a", "label": "O preço do produto." },
+          { "value": "b", "label": "O valor total que um cliente gasta com você durante todo o relacionamento. É crucial para justificar o CAC." },
+          { "value": "c", "label": "O custo de produção." },
+          { "value": "d", "label": "O tempo de vida do produto." }
+        ],
+        "explanation": "O LTV é o que permite que você gaste mais para adquirir clientes do que a concorrência.",
+        "hint": "Receita total por cliente.",
+        "correctAnswer": "b",
+        "bookExample": "O negócio que pode gastar mais para adquirir um cliente, vence."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Métrica de Retenção' (Retention Metric)?",
+        "options": [
+          { "value": "a", "label": "Medir quantos novos clientes você tem." },
+          { "value": "b", "label": "Medir quantos clientes continuam usando ou pagando pelo seu produto ao longo do tempo (prova de valor de longo prazo)." },
+          { "value": "c", "label": "Medir o tráfego." },
+          { "value": "d", "label": "Medir o lucro." }
+        ],
+        "explanation": "A retenção é a prova de que você resolveu o problema de forma sustentável.",
+        "hint": "Valor de longo prazo.",
+        "correctAnswer": "b",
+        "bookExample": "A aquisição é vaidade; a retenção é sanidade."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a proporção ideal de LTV para CAC?",
+        "options": [
+          { "value": "a", "label": "1:1." },
+          { "value": "b", "label": "Pelo menos 3:1 (LTV deve ser 3 vezes maior que o CAC)." },
+          { "value": "c", "label": "1:3." },
+          { "value": "d", "label": "10:1." }
+        ],
+        "explanation": "Uma proporção de 3:1 garante que o negócio seja lucrativo e escalável.",
+        "hint": "Lucratividade.",
+        "correctAnswer": "b",
+        "bookExample": "Se o seu LTV/CAC não é 3:1, você tem um hobby, não um negócio."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "O Funil de Vendas de 7 Dígitos: Tripwire e Upsell",
+    "teaser": "⚙️ Seu funil deve ser uma máquina previsível. Use um *Tripwire* para quebrar o gelo e o *Upsell* para aumentar o LTV. É a diferença entre um hobby e um negócio escalável.",
+    "level1": "O funil de vendas MDW é simples: Tráfego (Comunidades/Outreach) -> MVO (Landing Page) -> Pagamento -> Retenção. A chave para 7 dígitos é otimizar cada etapa, especialmente a retenção (LTV).",
+    "level2": "Depois de validar o MVO, você precisa de um funil que funcione sem você. Isso significa automatizar a aquisição de leads (ex: e-mail marketing) e focar em aumentar o Valor de Vida do Cliente (LTV) através de upsells e retenção.",
+    "level3": "Ruim: Tentar vender o MVP (R$ 500/mês) para um lead frio. Bom: Usar o MVO (R$ 50) como um 'Tripwire' para converter o lead, e depois oferecer o MVP como Upsell principal.",
+    "recapitulation": [
+      "'Tripwire' (oferta de baixo custo) converte leads frios em clientes pagantes, quebrando a barreira inicial da compra.",
+      "'Upsell' (oferta de maior valor) é a chave para aumentar o LTV e alcançar a escala de 7 dígitos.",
+      "A 'Automação' do funil (E-mail Funnel) garante a escala sem intervenção manual constante.",
+      "A 'Simplicidade' do funil minimiza o 'drop-off' (perda de clientes nas etapas).",
+      "'Downsell' (oferta de menor custo) mantém o cliente no funil se ele rejeitar o Upsell.",
+      "O 'Lead Magnet' (Recurso gratuito) é a ferramenta de aquisição de e-mails mais eficaz."
+    ],
+    "practicalChecklist": [
+      "Defina seu 'Tripwire' (algo de R$ 10-R$ 50 que resolve um micro-problema do nicho).",
+      "Defina seu 'Core Offer' (Oferta Principal - seu MVP) e o preço do Upsell.",
+      "Crie um 'Lead Magnet' (Checklist, Template) e use-o para construir sua Lista de E-mail.",
+      "Rascunhe um 'Funil de E-mail' de 3 e-mails automatizados (Lead Magnet -> Conteúdo de Valor -> Tripwire/Ask).",
+      "Otimize a Taxa de Conversão do Tripwire (o objetivo é ter o cliente pagante).",
+      "Revise seu funil para garantir que o LTV seja pelo menos 3x maior que o CAC."
+    ],
+    "conclusionMessage": "O funil de 7 dígitos é construído sobre a base de um nicho validado e uma oferta de alto valor, focando em automação e retenção.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é 'Tripwire' no funil de vendas?",
+        "options": [
+          { "value": "a", "label": "O produto principal." },
+          { "value": "b", "label": "Uma oferta de baixo custo e alto valor (ex: um e-book de R$ 10) usada para converter leads frios em clientes pagantes rapidamente." },
+          { "value": "c", "label": "Um produto caro." },
+          { "value": "d", "label": "Um serviço gratuito." }
+        ],
+        "explanation": "O tripwire quebra a barreira inicial da compra, tornando o upsell mais fácil.",
+        "hint": "Primeira compra fácil.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo do tripwire não é o lucro, mas a conversão do lead em cliente."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Upsell' no funil MDW?",
+        "options": [
+          { "value": "a", "label": "Vender um produto mais barato." },
+          { "value": "b", "label": "Oferecer um produto ou serviço de maior valor (ex: consultoria, software premium) para clientes que já compraram o MVO/Tripwire." },
+          { "value": "c", "label": "Oferecer um desconto." },
+          { "value": "d", "label": "Oferecer de graça." }
+        ],
+        "explanation": "O upsell é a chave para aumentar o LTV e alcançar os 7 dígitos.",
+        "hint": "Aumento de valor.",
+        "correctAnswer": "b",
+        "bookExample": "É 10 vezes mais fácil vender para um cliente existente do que para um novo."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Automação' no funil de 7 dígitos?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Automatizar a aquisição de leads e a entrega do produto para garantir a escala sem intervenção manual." },
+          { "value": "c", "label": "Apenas para o cliente." },
+          { "value": "d", "label": "Apenas para o consultor." }
+        ],
+        "explanation": "A automação é o que transforma o funil em um sistema escalável.",
+        "hint": "Escalabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está automatizando, você está construindo um emprego, não um negócio."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Funil de E-mail' (Email Funnel)?",
+        "options": [
+          { "value": "a", "label": "Enviar e-mails aleatórios." },
+          { "value": "b", "label": "Uma sequência automatizada de e-mails que educa o lead, constrói confiança e o move em direção à compra do MVO/MVP." },
+          { "value": "c", "label": "Apenas a newsletter." },
+          { "value": "d", "label": "Apenas o e-mail de boas-vindas." }
+        ],
+        "explanation": "O funil de e-mail automatiza o processo de vendas e qualificação.",
+        "hint": "Automação de vendas.",
+        "correctAnswer": "b",
+        "bookExample": "Seu funil de e-mail é o seu vendedor mais dedicado."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel da 'Simplicidade' no funil?",
+        "options": [
+          { "value": "a", "label": "O funil deve ser complexo." },
+          { "value": "b", "label": "O funil deve ter o mínimo de etapas possível para evitar a perda de clientes (drop-off)." },
+          { "value": "c", "label": "O funil deve ser longo." },
+          { "value": "d", "label": "O funil deve ser caro." }
+        ],
+        "explanation": "Cada etapa adicionada no funil reduz a conversão.",
+        "hint": "Minimizar etapas.",
+        "correctAnswer": "b",
+        "bookExample": "Um funil simples e otimizado é melhor do que um funil complexo e quebrado."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Downsell'?",
+        "options": [
+          { "value": "a", "label": "Oferecer um produto mais caro." },
+          { "value": "b", "label": "Oferecer um produto de menor custo para clientes que rejeitaram o upsell ou a oferta principal, mantendo-os no funil." },
+          { "value": "c", "label": "Oferecer um desconto." },
+          { "value": "d", "label": "Oferecer de graça." }
+        ],
+        "explanation": "O downsell garante que você capture a receita, mesmo que o cliente não esteja pronto para o produto principal.",
+        "hint": "Manter no funil.",
+        "correctAnswer": "b",
+        "bookExample": "Sempre tenha uma oferta de baixo custo para capturar o cliente que hesita."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Lead Magnet' (Ímã de Leads) no funil?",
+        "options": [
+          { "value": "a", "label": "Um produto caro." },
+          { "value": "b", "label": "Um recurso gratuito e de alto valor (ex: e-book, checklist, template) oferecido em troca do e-mail do cliente." },
+          { "value": "c", "label": "Um anúncio pago." },
+          { "value": "d", "label": "Um depoimento." }
+        ],
+        "explanation": "O Lead Magnet é a ferramenta de aquisição de leads mais eficaz.",
+        "hint": "Troca de valor.",
+        "correctAnswer": "b",
+        "bookExample": "Seu Lead Magnet deve resolver um pequeno problema para que o cliente confie em você para resolver o grande problema."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Lista de E-mail' na escala?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "É o ativo de marketing mais valioso, pois você controla a comunicação e pode vender repetidamente sem custo de aquisição." },
+          { "value": "c", "label": "Apenas para newsletters." },
+          { "value": "d", "label": "Apenas para clientes grandes." }
+        ],
+        "explanation": "A lista de e-mail é o seu canal de vendas direto e mais lucrativo.",
+        "hint": "Controle.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro está na lista."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "O Poder da Restrição e do Foco: Criatividade Sob Pressão",
+    "teaser": "⛓️ Dê graças às suas restrições (tempo, dinheiro). Elas são sua **maior vantagem**. A necessidade é a mãe da invenção. Sem restrição, você procrastina.",
+    "level1": "O MDW é baseado na restrição de 48 horas. Essa restrição não é um obstáculo; é uma vantagem. Ela força você a tomar decisões rápidas, a evitar o Feature Creep e a focar apenas nas atividades que geram receita imediata.",
+    "level2": "Se você tivesse todo o tempo e dinheiro do mundo, você construiria um produto perfeito que ninguém quer. A restrição força você a ser engenhoso e a usar o que já tem (ferramentas simples, comunidades existentes).",
+    "level3": "Ruim: Esperar ter R$ 5.000 para contratar um designer. Bom: Usar um template gratuito (restrição de dinheiro) para lançar em 48h.",
+    "recapitulation": [
+      "A 'Restrição de Tempo' (48 horas) combate a Paralisia por Análise e força a priorização.",
+      "'Foco no Único': Identificar a única atividade (HLA) que terá o maior impacto (obter o primeiro pagamento).",
+      "A Restrição força a 'Simplicidade' no MVO, o que acelera o lançamento e a clareza.",
+      "'Bootstrapping' (Autofinanciamento) é uma restrição financeira que força o foco no lucro imediato.",
+      "A 'Restrição de Recursos' leva à 'Criatividade' e à engenhosidade (soluções não óbvias e de baixo custo).",
+      "'Eliminação' é crucial: Remova tarefas e recursos que não contribuem para a validação e a receita imediata."
+    ],
+    "practicalChecklist": [
+      "Liste 3 recursos caros/demorados que você está *tentando* evitar e encontre a solução 'simples' para cada um.",
+      "Defina seu 'Foco no Único' para as próximas 48 horas (Ex: Fazer 10 'Ask' com clientes em potencial).",
+      "Use 'Time Blocking' para agendar e proteger rigorosamente o tempo dedicado a HLAs.",
+      "Seja radical na 'Eliminação': Corte qualquer tarefa que não leve diretamente ao pagamento.",
+      "Lembre-se: O propósito da restrição é forçar você a encontrar a 'Oportunidade de Alto Valor' com o menor esforço.",
+      "Use as restrições como vantagem competitiva: Você está validando a ideia mais rápido e mais barato do que qualquer concorrente."
+    ],
+    "conclusionMessage": "Restrições (tempo, dinheiro, recursos) forçam o foco no essencial e geram criatividade, sendo a base do sucesso MDW.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Como a 'Restrição de Tempo' (48 horas) beneficia o empreendedor?",
+        "options": [
+          { "value": "a", "label": "Permite que ele durma mais." },
+          { "value": "b", "label": "Força a priorização do MVO e da validação, combatendo o perfeccionismo." },
+          { "value": "c", "label": "Garante que o produto seja perfeito." },
+          { "value": "d", "label": "Permite que ele planeje mais." }
+        ],
+        "explanation": "A restrição de tempo é a cura para a paralisia por análise.",
+        "hint": "Ação imediata.",
+        "correctAnswer": "b",
+        "bookExample": "A pressão do tempo é o que transforma uma ideia em um negócio."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Foco no Único' (Focus on the One Thing)?",
+        "options": [
+          { "value": "a", "label": "Fazer muitas coisas ao mesmo tempo." },
+          { "value": "b", "label": "Identificar a única atividade que terá o maior impacto no seu negócio (ex: obter o primeiro pagamento) e dedicar 80% do seu tempo a ela." },
+          { "value": "c", "label": "Focar em tarefas administrativas." },
+          { "value": "d", "label": "Focar em métricas de vaidade." }
+        ],
+        "explanation": "O foco no único garante que você não se distraia com tarefas de baixa alavancagem.",
+        "hint": "Maior impacto.",
+        "correctAnswer": "b",
+        "bookExample": "Se você tem duas prioridades, você não tem nenhuma."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Simplicidade' na restrição?",
+        "options": [
+          { "value": "a", "label": "A simplicidade é irrelevante." },
+          { "value": "b", "label": "A restrição força a simplicidade no MVO e na comunicação, o que aumenta a velocidade e a clareza." },
+          { "value": "c", "label": "A simplicidade é um sinal de fraqueza." },
+          { "value": "d", "label": "A simplicidade é apenas para produtos baratos." }
+        ],
+        "explanation": "A simplicidade é o resultado da restrição e a chave para o lançamento rápido.",
+        "hint": "Clareza e velocidade.",
+        "correctAnswer": "b",
+        "bookExample": "A complexidade é o inimigo da execução."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Bootstrapping' (Autofinanciamento) no MDW?",
+        "options": [
+          { "value": "a", "label": "Obter investimento de risco." },
+          { "value": "b", "label": "Construir o negócio usando apenas a receita gerada pelas vendas, forçando a disciplina financeira e o foco no lucro." },
+          { "value": "c", "label": "Gastar muito dinheiro." },
+          { "value": "d", "label": "Não ter lucro." }
+        ],
+        "explanation": "O bootstrapping força o foco no que realmente importa: o cliente pagante.",
+        "hint": "Lucro imediato.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro do cliente é o melhor capital de risco."
+      },
+      {
+        "id": "5",
+        "question": "Como a 'Restrição de Recursos' (falta de dinheiro) ajuda na criatividade?",
+        "options": [
+          { "value": "a", "label": "Ela não ajuda." },
+          { "value": "b", "label": "Força o empreendedor a encontrar soluções não óbvias e de baixo custo (ex: usar ferramentas gratuitas, fazer outreach manual)." },
+          { "value": "c", "label": "Força a contratação de mais pessoas." },
+          { "value": "d", "label": "Força a construção de software complexo." }
+        ],
+        "explanation": "A necessidade é a mãe da invenção. A restrição força a engenhosidade.",
+        "hint": "Engenhosidade.",
+        "correctAnswer": "b",
+        "bookExample": "A criatividade floresce sob restrições."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Time Blocking' (Bloqueio de Tempo) na gestão de restrições?",
+        "options": [
+          { "value": "a", "label": "Deixar o tempo livre." },
+          { "value": "b", "label": "Agendar blocos de tempo ininterruptos para HLAs (ex: 2 horas para outreach) e proteger esse tempo rigorosamente." },
+          { "value": "c", "label": "Agendar reuniões longas." },
+          { "value": "d", "label": "Agendar apenas tarefas administrativas." }
+        ],
+        "explanation": "O Time Blocking garante que o trabalho mais importante (vendas e validação) seja feito.",
+        "hint": "Tempo protegido.",
+        "correctAnswer": "b",
+        "bookExample": "Se não está no seu calendário, não existe."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Eliminação' na restrição?",
+        "options": [
+          { "value": "a", "label": "Adicionar mais tarefas." },
+          { "value": "b", "label": "Remover tarefas e recursos que não contribuem diretamente para a validação e a receita imediata." },
+          { "value": "c", "label": "Focar em tarefas complexas." },
+          { "value": "d", "label": "Focar em tarefas de baixa alavancagem." }
+        ],
+        "explanation": "O MDW é sobre fazer menos, mas com mais impacto.",
+        "hint": "Foco no essencial.",
+        "correctAnswer": "b",
+        "bookExample": "O sucesso não é sobre fazer mais, mas sobre fazer o que realmente importa."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Oportunidade de Alto Valor'?",
+        "options": [
+          { "value": "a", "label": "Qualquer ideia que surge." },
+          { "value": "b", "label": "Uma ideia que resolve um problema doloroso para um nicho acessível e que pode ser validada rapidamente." },
+          { "value": "c", "label": "Uma ideia que é fácil de construir." },
+          { "value": "d", "label": "Uma ideia que é barata." }
+        ],
+        "explanation": "O MDW foca em oportunidades que têm o maior potencial de retorno em 48 horas.",
+        "hint": "ROI rápido.",
+        "correctAnswer": "b",
+        "bookExample": "Não persiga todas as ideias; persiga as que têm o maior potencial de validação."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "O Ciclo de Feedback e a Iteração: Construção Contínua",
+    "teaser": "🔄 Seu produto não está pronto, está **evoluindo**. Faça 'Micro-Lançamentos' constantes e deixe o feedback dos clientes pagantes guiar sua próxima (e rápida) iteração.",
+    "level1": "O ciclo de feedback é o motor do crescimento. Depois de lançar e vender, você deve coletar feedback, analisar os dados de compra e refinar o MVO/MVP. Este ciclo deve ser rápido e contínuo.",
+    "level2": "Não espere por grandes lançamentos. Faça micro-lançamentos diários ou semanais. Cada iteração deve ser baseada em uma hipótese clara (ex: 'Se eu adicionar o recurso X, a taxa de conversão aumentará em 5%').",
+    "level3": "Ruim: Fazer uma grande atualização a cada 6 meses. Bom: Fazer um 'Micro-Lançamento' de um novo template a cada 2 semanas e testar o impacto na Taxa de Retenção.",
+    "recapitulation": [
+      "'Micro-Lançamento' (atualizações pequenas e frequentes) acelera o aprendizado e reduz o risco.",
+      "Cada mudança deve ser baseada em uma 'Hipótese' clara que pode ser testada e medida (Não adivinhe; teste).",
+      "'Pivot' (mudança de estratégia) é uma iteração de alto nível, baseada em feedback validado.",
+      "O 'Feedback Negativo' de clientes pagantes é um presente valioso para refinar a oferta.",
+      "'Métrica de Retenção' mede o valor de longo prazo (Quantos clientes continuam pagando?).",
+      "Use o 'Ciclo de Construir-Medir-Aprender' como espinha dorsal: Lançamento rápido, dados objetivos, aprendizado."
+    ],
+    "practicalChecklist": [
+      "Defina um ciclo de iteração semanal (Ex: Segunda-feira: Revisão de Dados; Sexta-feira: Micro-Lançamento).",
+      "Crie uma 'Lista de Iterações' baseada apenas em feedback validado (comportamento de compra e pedidos de clientes pagantes).",
+      "Se tiver que Pivotar, use os dados do MVO para guiar a nova direção (Ex: O problema Y era mais doloroso que o X).",
+      "Use Testes A/B simples (Landing Page 1 vs. Landing Page 2) para validar suas hipóteses.",
+      "Priorize a 'Velocidade' na iteração: Quanto mais rápido você consertar o que está quebrado, mais rápido você cresce.",
+      "A disciplina é na iteração: Mantenha o foco em 'Iteração Baseada em Dados', não em opiniões."
+    ],
+    "conclusionMessage": "O sucesso MDW é um ciclo contínuo de feedback e iteração. O produto nunca está 'pronto'; ele está sempre evoluindo com base nos dados de compra.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é 'Micro-Lançamento'?",
+        "options": [
+          { "value": "a", "label": "Um grande evento de lançamento." },
+          { "value": "b", "label": "Pequenas atualizações e testes de recursos lançados frequentemente para obter feedback rápido e contínuo." },
+          { "value": "c", "label": "Um lançamento que falha." },
+          { "value": "d", "label": "Um lançamento para amigos." }
+        ],
+        "explanation": "Micro-lançamentos reduzem o risco e aceleram o aprendizado.",
+        "hint": "Atualizações frequentes.",
+        "correctAnswer": "b",
+        "bookExample": "O sucesso é a soma de pequenos experimentos diários."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o papel da 'Hipótese' na iteração?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Cada mudança no produto ou marketing deve ser baseada em uma hipótese clara que pode ser testada e medida (ex: Aumentar o preço aumentará a percepção de valor)." },
+          { "value": "c", "label": "Apenas para cientistas." },
+          { "value": "d", "label": "Apenas para grandes empresas." }
+        ],
+        "explanation": "A iteração sem hipótese é apenas adivinhação.",
+        "hint": "Teste e medição.",
+        "correctAnswer": "b",
+        "bookExample": "Não adivinhe; teste."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Pivot' (Pivô)?",
+        "options": [
+          { "value": "a", "label": "Mudar o preço." },
+          { "value": "b", "label": "Mudar a estratégia ou o produto principal com base no feedback validado (ex: Mudar de software para consultoria)." },
+          { "value": "c", "label": "Mudar o nome da empresa." },
+          { "value": "d", "label": "Mudar o design." }
+        ],
+        "explanation": "O pivô é um sinal de que você está aprendendo e se adaptando ao mercado.",
+        "hint": "Mudança de direção.",
+        "correctAnswer": "b",
+        "bookExample": "O fracasso não é fatal, mas a incapacidade de mudar pode ser."
+      },
+      {
+        "id": "4",
+        "question": "Como você lida com o 'Feedback Negativo'?",
+        "options": [
+          { "value": "a", "label": "Ignora." },
+          { "value": "b", "label": "Vê como um presente. É a informação mais valiosa para refinar o produto e a oferta." },
+          { "value": "c", "label": "Pede desculpas." },
+          { "value": "d", "label": "Ataca o cliente." }
+        ],
+        "explanation": "O feedback negativo de clientes pagantes é o seu mapa para o sucesso.",
+        "hint": "Presente.",
+        "correctAnswer": "b",
+        "bookExample": "O feedback negativo é a única coisa que te impede de construir o produto errado."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel da 'Métrica de Retenção' (Retention Metric)?",
+        "options": [
+          { "value": "a", "label": "Medir quantos novos clientes você tem." },
+          { "value": "b", "label": "Medir quantos clientes continuam usando ou pagando pelo seu produto ao longo do tempo (prova de valor de longo prazo)." },
+          { "value": "c", "label": "Medir o tráfego." },
+          { "value": "d", "label": "Medir o lucro." }
+        ],
+        "explanation": "A retenção é a prova de que você resolveu o problema de forma sustentável.",
+        "hint": "Valor de longo prazo.",
+        "correctAnswer": "b",
+        "bookExample": "A aquisição é vaidade; a retenção é sanidade."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Iteração Baseada em Dados'?",
+        "options": [
+          { "value": "a", "label": "Fazer mudanças baseadas em opiniões." },
+          { "value": "b", "label": "Fazer mudanças no produto ou marketing apenas quando os dados (vendas, conversão, retenção) indicarem a necessidade." },
+          { "value": "c", "label": "Fazer mudanças aleatórias." },
+          { "value": "d", "label": "Fazer mudanças lentas." }
+        ],
+        "explanation": "O MDW é orientado por dados. Não desperdice tempo em mudanças não validadas.",
+        "hint": "Dados objetivos.",
+        "correctAnswer": "b",
+        "bookExample": "O que é medido é gerenciado. Meça o que importa."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Ciclo de Construir-Medir-Aprender'?",
+        "options": [
+          { "value": "a", "label": "Um ciclo lento." },
+          { "value": "b", "label": "O processo contínuo de criar uma versão mínima, lançar, coletar dados e usar o aprendizado para a próxima iteração." },
+          { "value": "c", "label": "Um ciclo que foca apenas na construção." },
+          { "value": "d", "label": "Um ciclo que ignora o feedback." }
+        ],
+        "explanation": "Este ciclo é a espinha dorsal do Lean Startup e do MDW.",
+        "hint": "Aprendizado contínuo.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo não é construir, mas aprender o mais rápido possível."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Velocidade' no ciclo de feedback?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A iteração deve ser o mais rápida possível (horas ou dias) para evitar desperdiçar tempo construindo o produto errado." },
+          { "value": "c", "label": "A iteração deve ser lenta." },
+          { "value": "d", "label": "A iteração deve ser cara." }
+        ],
+        "explanation": "O MDW é sobre ciclos de aprendizado rápidos. A lentidão é o inimigo.",
+        "hint": "Ciclos rápidos.",
+        "correctAnswer": "b",
+        "bookExample": "A velocidade é a nova moeda dos negócios."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "A Construção de Ativos de Marketing: Lista de E-mail e IP",
+    "teaser": "🧱 Depois do sprint de 48h, comece a construir o seu **castelo**. Seu ativo mais valioso é sua Lista de E-mail (seu canal controlado) e seu IP (seu conhecimento alavancado).",
+    "level1": "O alcance manual é ótimo para as primeiras 48 horas, mas não escala. Para alcançar 7 dígitos, você precisa de ativos de marketing que trabalhem para você 24/7. O ativo mais importante é a sua lista de e-mail e o seu IP (Propriedade Intelectual).",
+    "level2": "Comece a criar conteúdo que atrai seu nicho (Marketing de Atração). Use um 'Lead Magnet' (ímã de leads) para capturar e-mails. A lista de e-mail é o seu canal de vendas mais valioso, pois você controla a comunicação.",
+    "level3": "Ruim: Postar em redes sociais e ter zero controle. Bom: Criar um checklist gratuito (Lead Magnet) e usá-lo para capturar e-mails, vendendo o MVO/MVP através de um 'Funil de E-mail' automatizado.",
+    "recapitulation": [
+      "A 'Lista de E-mail' é o ativo de marketing mais valioso (você controla o canal e pode vender repetidamente).",
+      "'Lead Magnet' (recurso gratuito de alto valor) é o principal motor de crescimento da lista.",
+      "'Marketing de Atração' (IP/Conteúdo que atrai o cliente) é a chave para a escala passiva.",
+      "A 'Consistência' na criação de conteúdo/newsletters é vital para construir confiança.",
+      "IP (Propriedade Intelectual) é a metodologia/modelo que pode ser revendido (ex: cursos online) ou usado para posicionar sua expertise.",
+      "A 'Automação' da entrega de IP e do Funil de E-mail transforma o IP em renda passiva real."
+    ],
+    "practicalChecklist": [
+      "Crie seu primeiro 'Lead Magnet' (Checklist ou Template simples) em 4 horas.",
+      "Configure um serviço de e-mail (Mailchimp, ActiveCampaign) e crie um Formulário de Inscrição.",
+      "Crie um 'Funil de E-mail' automatizado de 3 e-mails (Boas-vindas -> Conteúdo Valioso -> Ask/Tripwire).",
+      "Comece a 'Construir em Público' seu IP (compartilhando insights/metodologia) uma vez por semana.",
+      "Use as comunidades de nicho como canais de distribuição para o seu Lead Magnet (Content Seeding).",
+      "Defina um 'Teste de Mercado' para um futuro produto de IP (Ex: Pré-venda de um curso simples para a sua lista)."
+    ],
+    "conclusionMessage": "Após o lançamento MDW, o foco muda para a construção de ativos de marketing (IP, lista de e-mail) que geram tráfego passivo e previsível.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o ativo de marketing mais valioso para o empreendedor MDW em escala?",
+        "options": [
+          { "value": "a", "label": "Seguidores nas redes sociais." },
+          { "value": "b", "label": "A lista de e-mail (e-mail list)." },
+          { "value": "c", "label": "O site bonito." },
+          { "value": "d", "label": "Anúncios pagos." }
+        ],
+        "explanation": "Você não controla as redes sociais, mas controla sua lista de e-mail. É o seu canal de vendas direto.",
+        "hint": "Controle.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro está na lista."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Lead Magnet' (Ímã de Leads)?",
+        "options": [
+          { "value": "a", "label": "Um produto caro." },
+          { "value": "b", "label": "Um recurso gratuito e de alto valor (ex: e-book, checklist, template) oferecido em troca do e-mail do cliente." },
+          { "value": "c", "label": "Um anúncio pago." },
+          { "value": "d", "label": "Um depoimento." }
+        ],
+        "explanation": "O Lead Magnet é a ferramenta de aquisição de leads mais eficaz.",
+        "hint": "Troca de valor.",
+        "correctAnswer": "b",
+        "bookExample": "Seu Lead Magnet deve resolver um pequeno problema para que o cliente confie em você para resolver o grande problema."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Marketing de Atração' (Attraction Marketing)?",
+        "options": [
+          { "value": "a", "label": "Fazer cold calls." },
+          { "value": "b", "label": "Criar IP e conteúdo que atrai o cliente ideal, em vez de persegui-lo." },
+          { "value": "c", "label": "Fazer anúncios pagos." },
+          { "value": "d", "label": "Participar de feiras." }
+        ],
+        "explanation": "O marketing de atração é a chave para a escala passiva.",
+        "hint": "Ímã.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo é que o cliente diga: 'Eu preciso disso', não 'Eu preciso de um vendedor'."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel da 'Consistência' na criação de conteúdo?",
+        "options": [
+          { "value": "a", "label": "Publicar apenas quando tiver tempo." },
+          { "value": "b", "label": "Manter uma frequência previsível (ex: newsletter semanal) para construir confiança e manter a marca na mente do cliente." },
+          { "value": "c", "label": "Publicar uma vez por ano." },
+          { "value": "d", "label": "Focar apenas na qualidade." }
+        ],
+        "explanation": "A consistência é mais importante que a perfeição para construir ativos de marketing.",
+        "hint": "Frequência.",
+        "correctAnswer": "b",
+        "bookExample": "A visibilidade é um músculo que precisa ser exercitado regularmente."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Funil de E-mail' (Email Funnel)?",
+        "options": [
+          { "value": "a", "label": "Enviar e-mails aleatórios." },
+          { "value": "b", "label": "Uma sequência automatizada de e-mails que educa o lead, constrói confiança e o move em direção à compra do MVO/MVP." },
+          { "value": "c", "label": "Apenas a newsletter." },
+          { "value": "d", "label": "Apenas o e-mail de boas-vindas." }
+        ],
+        "explanation": "O funil de e-mail automatiza o processo de vendas e qualificação.",
+        "hint": "Automação de vendas.",
+        "correctAnswer": "b",
+        "bookExample": "Seu funil de e-mail é o seu vendedor mais dedicado."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Propriedade Intelectual (IP)' no contexto MDW?",
+        "options": [
+          { "value": "a", "label": "Apenas patentes e marcas registradas." },
+          { "value": "b", "label": "Qualquer metodologia, modelo, livro ou artigo que você criou e que pode ser revendido ou usado para posicionar sua expertise." },
+          { "value": "c", "label": "O nome da sua empresa." },
+          { "value": "d", "label": "O seu currículo." }
+        ],
+        "explanation": "IP é o que permite que você escale seu conhecimento e se posicione como um líder de pensamento.",
+        "hint": "Conhecimento revendível.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não tem IP, você está vendendo apenas sua força de trabalho. Se você tem IP, você está vendendo seu cérebro."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Automação' na venda de IP?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Automatizar a entrega, o marketing e o pagamento do produto de IP para garantir a escala sem intervenção manual." },
+          { "value": "c", "label": "Apenas para o cliente." },
+          { "value": "d", "label": "Apenas para o consultor." }
+        ],
+        "explanation": "A automação é o que transforma o IP em renda passiva real.",
+        "hint": "Renda passiva.",
+        "correctAnswer": "b",
+        "bookExample": "Se você tem que tocar no produto para vendê-lo, ele não é um produto de IP escalável."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Teste de Mercado' (Market Testing) para IP?",
+        "options": [
+          { "value": "a", "label": "Lançar o produto sem feedback." },
+          { "value": "b", "label": "Lançar uma versão beta do produto para um pequeno grupo de clientes para obter feedback e validar o preço antes do lançamento em massa." },
+          { "value": "c", "label": "Vender o produto de graça." },
+          { "value": "d", "label": "Apenas perguntar aos amigos." }
+        ],
+        "explanation": "O teste de mercado minimiza o risco de lançar um produto que ninguém quer.",
+        "hint": "Validação.",
+        "correctAnswer": "b",
+        "bookExample": "Não gaste 6 meses construindo um produto que ninguém quer. Teste o mercado primeiro."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "A Estrutura de Equipe Mínima: Delegação e Foco",
+    "teaser": "🤝 Não contrate um CEO. Contrate um robô (automação) ou um faz-tudo (VA/Freelancer) para as tarefas de R$ 10/hora. Seu tempo é para o trabalho de R$ 1.000/hora.",
+    "level1": "Para manter a lucratividade e a velocidade, o MDW exige uma equipe mínima. Você deve evitar contratações caras e focar em freelancers ou assistentes virtuais para tarefas de baixa alavancagem (ex: suporte, administração, design básico).",
+    "level2": "Não contrate um CEO. Contrate um assistente virtual para gerenciar sua caixa de entrada e tarefas repetitivas. Seu tempo é o recurso mais caro. Use-o apenas para atividades que geram receita direta ou IP.",
+    "level3": "Ruim: Responder a todos os e-mails de suporte. Bom: Delegar o suporte ao cliente a um Assistente Virtual por R$ 50/hora e usar o tempo livre para fechar uma venda de R$ 5.000 (HLA).",
+    "recapitulation": [
+      "A primeira delegação deve ser de **Tarefas Administrativas e de Suporte** (baixa alavancagem).",
+      "'Time Audit' (Auditoria de Tempo) revela onde você está desperdiçando seu recurso mais valioso.",
+      "Evite contratar 'cedo demais', pois aumenta os custos fixos antes de ter receita previsível.",
+      "'Contratação Baseada em Resultados' (freelancers por entregável) alinha incentivos e reduz custos.",
+      "'Documentação' (SOPs) é a chave para a delegação consistente e sem sua intervenção.",
+      "'Estrutura Enxuta' e 'Automação' garantem a máxima margem de lucro e velocidade de iteração."
+    ],
+    "practicalChecklist": [
+      "Faça uma 'Auditoria de Tempo' de 1 semana (Rastreie seu tempo em blocos de 30 minutos).",
+      "Identifique as 3 tarefas que você faz que não são HLAs (Criação de IP, Vendas, Otimização).",
+      "Escreva um SOP (Procedimento Operacional Padrão) simples para uma das tarefas identificadas.",
+      "Busque um Assistente Virtual (VA) por hora para começar a delegar tarefas de baixo valor.",
+      "Lembre-se: Você é o Arquiteto de Sistemas; seu foco é na 'High-Leverage Activity' (HLA).",
+      "Use a Automação para evitar a necessidade de contratação de pessoal de baixo valor (Escala sem Custo)."
+    ],
+    "conclusionMessage": "O empreendedor MDW deve permanecer enxuto, delegando apenas tarefas de baixa alavancagem para liberar tempo para HLAs (vendas e IP).",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a primeira função que o empreendedor MDW deve delegar?",
+        "options": [
+          { "value": "a", "label": "Vendas." },
+          { "value": "b", "label": "Tarefas administrativas e de suporte de baixa alavancagem." },
+          { "value": "c", "label": "Criação de IP." },
+          { "value": "d", "label": "Estratégia." }
+        ],
+        "explanation": "Delegar tarefas repetitivas e de baixo valor libera o tempo do fundador para atividades de alto valor.",
+        "hint": "Repetição e baixo valor.",
+        "correctAnswer": "b",
+        "bookExample": "Se você está fazendo tarefas de R$ 10 por hora, você está perdendo a oportunidade de fazer tarefas de R$ 1.000 por hora."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Time Audit' (Auditoria de Tempo)?",
+        "options": [
+          { "value": "a", "label": "Medir o tempo gasto em reuniões." },
+          { "value": "b", "label": "Rastrear como você gasta seu tempo por uma semana para identificar tarefas de baixa alavancagem que podem ser eliminadas ou delegadas." },
+          { "value": "c", "label": "Medir o tempo de sono." },
+          { "value": "d", "label": "Medir o tempo de lazer." }
+        ],
+        "explanation": "Você não pode gerenciar o que não mede. A auditoria de tempo revela onde você está desperdiçando seu recurso mais valioso.",
+        "hint": "Rastreamento de tempo.",
+        "correctAnswer": "b",
+        "bookExample": "O tempo é o seu recurso mais valioso. Proteja-o implacavelmente."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de contratar 'cedo demais'?",
+        "options": [
+          { "value": "a", "label": "Aumentar a receita." },
+          { "value": "b", "label": "Aumentar os custos fixos antes de ter receita previsível, matando a lucratividade e a velocidade." },
+          { "value": "c", "label": "Reduzir o trabalho." },
+          { "value": "d", "label": "Aumentar a equipe." }
+        ],
+        "explanation": "Contratações devem ser feitas apenas quando a receita justificar e a tarefa puder ser claramente delegada.",
+        "hint": "Custo fixo.",
+        "correctAnswer": "b",
+        "bookExample": "O custo fixo é o inimigo da liberdade financeira."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Contratação Baseada em Resultados'?",
+        "options": [
+          { "value": "a", "label": "Contratar por hora." },
+          { "value": "b", "label": "Contratar freelancers ou VAs com base em entregáveis específicos (resultados), em vez de tempo gasto." },
+          { "value": "c", "label": "Contratar por salário fixo." },
+          { "value": "d", "label": "Contratar amigos." }
+        ],
+        "explanation": "O foco deve ser no resultado que o contratado entrega, alinhando os incentivos.",
+        "hint": "Foco no entregável.",
+        "correctAnswer": "b",
+        "bookExample": "Pague por valor, não por tempo."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel da 'Documentação' na delegação?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Criar processos claros e documentados (SOPs) para que as tarefas delegadas possam ser executadas de forma consistente e sem a sua intervenção." },
+          { "value": "c", "label": "Apenas para fins legais." },
+          { "value": "d", "label": "Apenas para o cliente." }
+        ],
+        "explanation": "A documentação transforma o conhecimento em um sistema delegável.",
+        "hint": "Sistema delegável.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode documentar, você não pode delegar."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Estrutura Enxuta' (Lean Structure)?",
+        "options": [
+          { "value": "a", "label": "Ter muitos funcionários." },
+          { "value": "b", "label": "Manter a equipe e os custos operacionais mínimos para maximizar a margem de lucro e a velocidade de iteração." },
+          { "value": "c", "label": "Ter um escritório caro." },
+          { "value": "d", "label": "Focar em tarefas administrativas." }
+        ],
+        "explanation": "A estrutura enxuta é essencial para o bootstrapping e a lucratividade do MDW.",
+        "hint": "Custos mínimos.",
+        "correctAnswer": "b",
+        "bookExample": "O custo fixo é o inimigo da liberdade financeira."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'High-Leverage Activity' (HLA) na gestão de tempo?",
+        "options": [
+          { "value": "a", "label": "Responder a todos os e-mails." },
+          { "value": "b", "label": "Atividades que geram um retorno desproporcionalmente alto (ex: criação de IP, otimização de funil de vendas)." },
+          { "value": "c", "label": "Tarefas administrativas." },
+          { "value": "d", "label": "Reuniões longas." }
+        ],
+        "explanation": "O empreendedor MDW foca em HLAs para maximizar a receita por hora.",
+        "hint": "ROI do tempo.",
+        "correctAnswer": "b",
+        "bookExample": "Se você está fazendo tarefas de R$ 10 por hora, você está perdendo a oportunidade de fazer tarefas de R$ 1.000 por hora."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Automação' na estrutura de equipe mínima?",
+        "options": [
+          { "value": "a", "label": "Substituir todos os funcionários." },
+          { "value": "b", "label": "Automatizar tarefas repetitivas para evitar a necessidade de contratação de pessoal de baixo valor." },
+          { "value": "c", "label": "Apenas para o cliente." },
+          { "value": "d", "label": "Apenas para o consultor." }
+        ],
+        "explanation": "A automação é a forma mais barata e rápida de escalar sem aumentar os custos fixos.",
+        "hint": "Escala sem custo.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está automatizando, você está construindo um emprego, não um negócio."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "O Legado e a Liberdade do Empreendedor: Construindo Ativos",
+    "teaser": "👑 O objetivo final não é só dinheiro. É **Liberdade** de Tempo e Escolha. Construa um ativo (um negócio que funciona sem você) e viva o legado por design.",
+    "level1": "A liberdade do empreendedor é a capacidade de escolher como, quando e com quem trabalhar. Isso é alcançado através da construção de um negócio lucrativo, escalável e que não depende da sua presença constante (alavancagem e automação).",
+    "level2": "O MDW não é apenas sobre ganhar dinheiro rápido; é sobre construir um ativo que te liberta. O legado é o impacto que você deixa no seu nicho. O sucesso é ter a opção de não trabalhar e ainda assim ter receita.",
+    "level3": "Ruim: Estar 'preso' a projetos de consultoria para pagar as contas. Bom: Ter o negócio gerando R$ 10.000/mês em receita passiva (IP e automação), permitindo que você escolha trabalhar apenas em projetos de paixão.",
+    "recapitulation": [
+      "'Liberdade de Tempo' é ter controle sobre sua agenda, não pela ausência de trabalho, mas pela escolha.",
+      "A 'Paixão' pelo problema (não pela solução) sustenta a resiliência no longo prazo.",
+      "'Construir um Ativo' é criar um negócio que gera receita passiva ou pode ser vendido (não um emprego).",
+      "O MDW reduz a ansiedade de 'e se' (incerteza) através da 'Ação Rápida', o que melhora a Saúde Mental.",
+      "Um 'Legado Simples' (metodologia clara, produto focado) é mais fácil de ser replicado e ter um impacto duradouro.",
+      "'Trabalho por Escolha' é a capacidade de selecionar projetos/clientes que se alinham com seus valores, sem a pressão financeira."
+    ],
+    "practicalChecklist": [
+      "Defina sua visão de 'Liberdade de Tempo' (Quantas horas/dia/mês você quer trabalhar? Em quê?).",
+      "Identifique seu 'Propósito/Legado' (O que você quer que as pessoas digam que você resolveu em seu nicho?).",
+      "Avalie seus ativos atuais: Quais geram receita passiva? Quais consomem seu tempo?",
+      "Crie um plano para transformar seu 'melhor IP' (metodologia) em um produto vendável (Ativo).",
+      "Mantenha a 'Disciplina' na gestão financeira e no Time Blocking para proteger seu tempo e liberdade.",
+      "Pense na 'Venda da Prática': Como você tornaria seu negócio atraente para um comprador amanhã (sistemas, IP, receita previsível)?"
+    ],
+    "conclusionMessage": "O objetivo final do MDW é construir um negócio que te sirva, gerando liberdade financeira e a capacidade de trabalhar por escolha, não por necessidade.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é 'Liberdade de Tempo' (Time Freedom)?",
+        "options": [
+          { "value": "a", "label": "Trabalhar 24 horas por dia." },
+          { "value": "b", "label": "Ter controle sobre sua agenda e poder dedicar tempo a atividades de alta alavancagem ou lazer, sem a pressão da necessidade financeira." },
+          { "value": "c", "label": "Ter muitos clientes." },
+          { "value": "d", "label": "Ter um salário alto." }
+        ],
+        "explanation": "A liberdade de tempo é o resultado da automação e da alavancagem.",
+        "hint": "Controle da agenda.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo não é ter mais dinheiro, mas ter mais tempo."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o papel da 'Paixão' no sucesso de longo prazo?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A paixão pelo problema do nicho é o que sustenta o empreendedor através dos desafios da iteração e da escala." },
+          { "value": "c", "label": "A paixão é apenas para hobbies." },
+          { "value": "d", "label": "A paixão é um sinal de fraqueza." }
+        ],
+        "explanation": "O sucesso de longo prazo exige resiliência, que é alimentada pela paixão.",
+        "hint": "Resiliência.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não ama o problema, você desistirá quando as coisas ficarem difíceis."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Construir um Ativo'?",
+        "options": [
+          { "value": "a", "label": "Construir um emprego." },
+          { "value": "b", "label": "Criar um negócio que pode ser vendido ou que gera receita passiva, independentemente do seu tempo ativo." },
+          { "value": "c", "label": "Ter muitos clientes." },
+          { "value": "d", "label": "Ter um produto complexo." }
+        ],
+        "explanation": "Um ativo é algo que coloca dinheiro no seu bolso, mesmo quando você não está trabalhando.",
+        "hint": "Dinheiro sem tempo.",
+        "correctAnswer": "b",
+        "bookExample": "O empreendedor de 7 dígitos constrói ativos, não tarefas."
+      },
+      {
+        "id": "4",
+        "question": "Como o MDW se relaciona com a 'Saúde Mental'?",
+        "options": [
+          { "value": "a", "label": "Exige trabalhar 24/7." },
+          { "value": "b", "label": "Ao forçar a ação rápida e a validação, reduz a ansiedade do 'e se' e permite que o empreendedor saiba rapidamente se deve continuar ou pivotar." },
+          { "value": "c", "label": "É irrelevante." },
+          { "value": "d", "label": "Aumenta o estresse." }
+        ],
+        "explanation": "A incerteza é a principal causa de estresse. O MDW resolve a incerteza rapidamente.",
+        "hint": "Redução de incerteza.",
+        "correctAnswer": "b",
+        "bookExample": "A ação é o antídoto para o desespero."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel da 'Simplicidade' no legado?",
+        "options": [
+          { "value": "a", "label": "O legado deve ser complexo." },
+          { "value": "b", "label": "Um legado simples (uma metodologia clara, um produto focado) é mais fácil de ser replicado, vendido e ter um impacto duradouro." },
+          { "value": "c", "label": "A simplicidade é irrelevante." },
+          { "value": "d", "label": "O legado deve ser longo." }
+        ],
+        "explanation": "A complexidade morre. A simplicidade perdura.",
+        "hint": "Durabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O legado mais poderoso é aquele que pode ser ensinado e replicado."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Trabalho por Escolha' (Work by Choice)?",
+        "options": [
+          { "value": "a", "label": "Trabalhar apenas quando quiser." },
+          { "value": "b", "label": "A capacidade de escolher os projetos, clientes e horários que se alinham com seus valores e paixões, sem a pressão da necessidade financeira." },
+          { "value": "c", "label": "Trabalhar de graça." },
+          { "value": "d", "label": "Trabalhar muito." }
+        ],
+        "explanation": "O objetivo final é a autonomia.",
+        "hint": "Autonomia.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões trabalha porque quer, não porque precisa."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Venda da Prática' (Selling the Practice)?",
+        "options": [
+          { "value": "a", "label": "Apenas fechar a porta." },
+          { "value": "b", "label": "Vender sua prática de consultoria (que tem IP, sistemas e fluxo de caixa previsível) como um ativo de negócios." },
+          { "value": "c", "label": "Vender seu IP separadamente." },
+          { "value": "d", "label": "Vender seus clientes." }
+        ],
+        "explanation": "Uma prática de milhões é um ativo vendável, não apenas um emprego.",
+        "hint": "Ativo vendável.",
+        "correctAnswer": "b",
+        "bookExample": "Se sua prática não pode ser vendida, ela não é um negócio; é um emprego glorificado."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Disciplina' na criação de um legado?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A disciplina na criação de IP, na gestão financeira e na proteção do tempo é o que garante o sucesso de longo prazo." },
+          { "value": "c", "label": "A disciplina é apenas para o trabalho." },
+          { "value": "d", "label": "A disciplina é apenas para o marketing." }
+        ],
+        "explanation": "O sucesso de longo prazo é o resultado de hábitos diários disciplinados.",
+        "hint": "Hábitos diários.",
+        "correctAnswer": "b",
+        "bookExample": "O sucesso não é um evento; é um processo."
+      }
+    ]
+  }
+]

@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote Caps 5-8 - O Teste da Mãe</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #f57c00; /* Laranja */
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: #f57c00; /* Laranja */
+            color: #fff;
+            padding: 12px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .title {
+            font-size: 56px;
+            font-weight: bold;
+            color: #e65100; /* Laranja Escuro */
+            font-family: 'Caveat', cursive;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        
+        .subtitle {
+            font-size: 26px;
+            color: #f57c00; /* Laranja */
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUT */
+        .grid-4 { /* Adaptado para 2x2 */
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        .section-5 { border-left-color: #f57c00; } /* Laranja */
+        .section-6 { border-left-color: #1976d2; } /* Azul */
+        .section-7 { border-left-color: #c2185b; } /* Rosa */
+        .section-8 { border-left-color: #388e3c; } /* Verde */
+        
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-5 .section-title { color: #f57c00; }
+        .section-6 .section-title { color: #1976d2; }
+        .section-7 .section-title { color: #c2185b; }
+        .section-8 .section-title { color: #388e3c; }
+        
+        .section-emoji {
+            font-size: 36px;
+        }
+        
+        .item {
+            font-size: 16px;
+            line-height: 1.7;
+            color: #555;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        /* SOLUTION BOX (Resumo) */
+        .solution {
+            background: linear-gradient(135deg, #c8e6c9 0%, #a5d6a7 100%); /* Verde claro */
+            border: 4px solid #2e7d32; /* Verde escuro */
+            padding: 40px;
+            border-radius: 12px;
+            text-align: center;
+            margin: 40px 0;
+        }
+        
+        .solution-title {
+            font-size: 32px;
+            color: #1b5e20; /* Verde bem escuro */
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .solution-emoji {
+            font-size: 70px;
+            margin: 15px 0;
+        }
+        
+        .solution-text {
+            font-size: 20px;
+            color: #1b5e20;
+            font-weight: bold;
+        }
+        
+        .solution-sub {
+            font-size: 16px;
+            color: #2e7d32;
+            margin-top: 15px;
+            font-style: italic;
+        }
+        
+        /* INSIGHT BOX */
+        .insight {
+            background: #fff9c4; /* Amarelo claro */
+            border-left: 6px solid #fbc02d; /* Amarelo */
+            padding: 35px;
+            border-radius: 10px;
+        }
+        
+        .insight-title {
+            font-size: 26px;
+            color: #f57f17; /* Amarelo escuro */
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .insight-text {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #555;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #f57f17;
+            background: rgba(251, 192, 45, 0.15);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-4 {
+                grid-template-columns: 1fr;
+            }
+            
+            .title {
+                font-size: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 5-8</div>
+            <div class="title">🕵️‍♂️ O Processo de Validação: Encontrando a Dor</div>
+            <div class="subtitle">(Pare de adivinhar e comece a investigar)</div>
+        </div>
+        
+        <div class="grid-4">
+            <div class="section section-5">
+                <div class="section-title">
+                    <span class="section-emoji">🔥</span>
+                    A Dor é Real?
+                </div>
+                <div class="item">
+                    <span class="item-label">Busque o "Custo da Dor".</span> Se o cliente não gasta <b>Tempo (⏰)</b>, <b>Dinheiro ($)</b> ou <b>Esforço (🔧)</b> para resolver o problema, ele não é real.
+                </div>
+            </div>
+            
+            <div class="section section-6">
+                <div class="section-title">
+                    <span class="section-emoji">📍</span>
+                    Onde Dói?
+                </div>
+                <div class="item">
+                    <span class="item-label">Mapeie o "Contexto".</span> O problema não existe no vácuo. Descubra o "gatilho": <b>Onde, Quando e Com quem</b> ele acontece?
+                </div>
+            </div>
+
+            <div class="section section-7">
+                <div class="section-title">
+                    <span class="section-emoji">💬</span>
+                    Como Perguntar?
+                </div>
+                <div class="item">
+                    <span class="item-label">Estruture a Entrevista.</span> Comece pedindo <b>conselho</b>. Deixe o cliente falar <b>80%</b> do tempo. Termine com um <b>comprometimento</b> (próximo passo).
+                </div>
+            </div>
+            
+            <div class="section section-8">
+                <div class="section-title">
+                    <span class="section-emoji">🎯</span>
+                    Onde Encontrar?
+                </div>
+                <div class="item">
+                    <span class="item-label">Vá ao "Ambiente Natural".</span> Encontre clientes onde eles já estão (fóruns, eventos). <b>Evite pesquisas genéricas (surveys)</b> e foque no seu nicho.
+                </div>
+            </div>
+        </div>
+        
+        <div class="solution">
+            <div class="solution-title">✅ O PROCESSO DE VALIDAÇÃO</div>
+            <div class="solution-emoji">🔎</div>
+            <div class="solution-text">SEJA UM DETETIVE DA DOR</div>
+            <div class="solution-sub">Sua missão: encontrar a Dor (Cap 5) em seu Contexto (Cap 6), usando a Entrevista (Cap 7) no Ambiente Natural (Cap 8).</div>
+        </div>
+        
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                O Insight Chave: A Prova da Dor
+            </div>
+            <div class="insight-text">
+                A melhor evidência de um problema real é uma <span class="highlight">"gambiarra"</span> (como uma planilha complexa ou um processo manual). 
+                <br><br>
+                Ela prova que a dor é tão grande que o cliente já está <span class="highlight">gastando esforço ativamente</span> para resolvê-la, mesmo com as ferramentas erradas.
+            </div>
+        </div>
+    </div>
+</body>
+</html>

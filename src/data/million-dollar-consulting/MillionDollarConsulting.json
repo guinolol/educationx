@@ -1,0 +1,2801 @@
+[
+  {
+    "id": 1,
+    "title": "A Mentalidade do Consultor de Milhões",
+    "teaser": "💸 Pare de vender horas! O cliente não quer a 'viagem', quer o 'destino'. Descubra como ser um **Investimento**, não um Custo.",
+    "level1": "A mentalidade é o alicerce de uma prática de consultoria de sucesso. Você deve se ver como um parceiro de negócios que resolve problemas críticos, e não como um 'faz-tudo' que vende horas. O foco deve ser sempre no Retorno sobre o Investimento (ROI) que você proporciona ao cliente.",
+    "level2": "Em vez de pensar 'Quanto tempo isso vai levar?', pense 'Qual valor isso vai gerar?'. Se você vende tempo, você é um custo. Se você vende resultados, você é um investimento. Mude sua identidade de 'prestador de serviços' para 'solucionador de problemas de alto impacto'.",
+    "level3": "Ruim: 'O que posso fazer nas 20 horas que me pagarem?' Bom: 'O problema X custa R$ 500.000, minha solução de R$ 50.000 vai gerar um ROI de 5x.'",
+    "recapitulation": [
+      "Foco principal: **Valor** e **Impacto** nos resultados de negócios (ROI).",
+      "Consultor de milhões vende o **destino**, não a viagem (resultado, não atividade).",
+      "Vender tempo = Custo (o cliente quer reduzir).",
+      "Vender valor = Investimento (o cliente quer maximizar).",
+      "O risco é inerente ao alto valor (garanta esforço, não resultado).",
+      "É crucial negociar com o **Economic Buyer** (autoridade final e interesse em ROI).",
+      "Posicione seu serviço como **Investimento**, não despesa.",
+      "A **Confiança** é a base para a venda de Valor-Baseado (VBF)."
+    ],
+    "practicalChecklist": [
+      "**Mude sua 'identidade'**: Pare de se apresentar como 'prestador de serviços' e use 'parceiro estratégico/solucionador de problemas de alto impacto'.",
+      "**Calcule o ROI antes do preço**: Não invente um preço. Calcule o custo do problema do cliente para ancorar seu VBF (Value-Based Fee).",
+      "**Fale com o Comprador Econômico**: Identifique e direcione sua comunicação para quem pode aprovar o investimento e entende o ROI.",
+      "**Crie Escassez**: Posicione-se como um especialista único em um nicho específico, não um generalista.",
+      "**Estabeleça a Confiança Cedo**: Use depoimentos e estudos de caso para quebrar a objeção de confiança antes da negociação."
+    ],
+    "conclusionMessage": "O consultor de milhões foca em valor e resultados de negócios, não em tempo e tarefas. Sua mentalidade é de parceiro estratégico, não de fornecedor.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o foco principal do consultor de milhões?",
+        "options": [
+          { "value": "a", "label": "O número de horas trabalhadas." },
+          { "value": "b", "label": "O valor e o impacto nos resultados de negócios do cliente." },
+          { "value": "c", "label": "A complexidade da metodologia." },
+          { "value": "d", "label": "A satisfação pessoal do consultor." }
+        ],
+        "explanation": "O foco deve ser sempre no valor percebido e mensurável que o cliente obtém, o que justifica taxas mais altas.",
+        "hint": "Pense em ROI.",
+        "correctAnswer": "b",
+        "bookExample": "Você não é pago pelo tempo que leva, mas pelo valor que entrega."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'vender o destino, não a viagem'?",
+        "options": [
+          { "value": "a", "label": "Focar na metodologia de trabalho." },
+          { "value": "b", "label": "Focar no resultado final e nos benefícios, não nas atividades e tarefas." },
+          { "value": "c", "label": "Garantir que o projeto seja rápido." },
+          { "value": "d", "label": "Evitar detalhes técnicos." }
+        ],
+        "explanation": "O cliente compra a solução para o problema (o destino), não o processo de consultoria (a viagem).",
+        "hint": "Resultado final.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não se importa com o seu processo; ele se importa com o que o seu processo fará por ele."
+      },
+      {
+        "id": "3",
+        "question": "Qual é a 'Escolha do Tolo' (Fool's Choice) na consultoria?",
+        "options": [
+          { "value": "a", "label": "Escolher entre trabalhar muito ou pouco." },
+          { "value": "b", "label": "A crença de que você deve escolher entre ser honesto e ser gentil." },
+          { "value": "c", "label": "A crença de que você deve escolher entre cobrar por hora ou cobrar por valor." },
+          { "value": "d", "label": "Escolher entre clientes grandes ou pequenos." }
+        ],
+        "explanation": "A Escolha do Tolo é a falsa dicotomia que nos impede de buscar o Diálogo (que combina honestidade e segurança).",
+        "hint": "Falsa dicotomia.",
+        "correctAnswer": "c",
+        "bookExample": "A Escolha do Tolo é quando pensamos que temos que escolher entre ser honesto e ser gentil."
+      },
+      {
+        "id": "4",
+        "question": "Como o consultor de milhões lida com o risco?",
+        "options": [
+          { "value": "a", "label": "Evita riscos a todo custo." },
+          { "value": "b", "label": "Assume riscos calculados, pois o cliente está pagando pelo resultado, não pela garantia." },
+          { "value": "c", "label": "Transfere todo o risco para o cliente." },
+          { "value": "d", "label": "Oferece garantias de devolução do dinheiro." }
+        ],
+        "explanation": "O consultor de milhões entende que o risco é inerente ao alto valor. Ele não garante o resultado, mas garante o esforço e a expertise.",
+        "hint": "Risco e recompensa.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está disposto a assumir riscos, você não está disposto a ser pago por valor."
+      },
+      {
+        "id": "5",
+        "question": "O que é o 'Economic Buyer' (Comprador Econômico)?",
+        "options": [
+          { "value": "a", "label": "O gerente que aprova o orçamento." },
+          { "value": "b", "label": "A pessoa que tem a autoridade final para liberar os fundos e o interesse em resultados de negócios." },
+          { "value": "c", "label": "O usuário final do seu serviço." },
+          { "value": "d", "label": "O departamento de compras." }
+        ],
+        "explanation": "O Economic Buyer é a única pessoa que pode dizer 'sim' e tem o poder de liberar o dinheiro. É com ele que você deve negociar o valor.",
+        "hint": "Autoridade e ROI.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está falando com o Economic Buyer, você está falando com a pessoa errada."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a principal diferença entre 'Custo' e 'Investimento' na perspectiva do cliente?",
+        "options": [
+          { "value": "a", "label": "Custo é pago em dinheiro; Investimento é pago em tempo." },
+          { "value": "b", "label": "Custo é uma despesa que não gera retorno; Investimento é um gasto que se espera que gere um ROI significativo." },
+          { "value": "c", "label": "Não há diferença." },
+          { "value": "d", "label": "Custo é para consultores; Investimento é para funcionários." }
+        ],
+        "explanation": "O consultor de milhões posiciona seu serviço como um investimento, focando no retorno financeiro que ele trará.",
+        "hint": "Retorno esperado.",
+        "correctAnswer": "b",
+        "bookExample": "Se o cliente vê você como um custo, ele tentará reduzir seu preço. Se ele vê você como um investimento, ele tentará maximizar seu uso."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Escassez' na consultoria?",
+        "options": [
+          { "value": "a", "label": "Ter poucos clientes." },
+          { "value": "b", "label": "A percepção de que seu tempo e expertise são limitados e valiosos, aumentando a demanda." },
+          { "value": "c", "label": "Trabalhar em nichos muito pequenos." },
+          { "value": "d", "label": "Cobrar preços baixos." }
+        ],
+        "explanation": "A escassez é criada ao se posicionar como um especialista único, não como um generalista facilmente substituível.",
+        "hint": "Único e valioso.",
+        "correctAnswer": "b",
+        "bookExample": "A escassez é o que permite que você dite seus termos, não o cliente."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Confiança' (Trust) na venda de consultoria de alto valor?",
+        "options": [
+          { "value": "a", "label": "É irrelevante, o que importa é a metodologia." },
+          { "value": "b", "label": "É o fator mais importante. O cliente só pagará alto valor se confiar que você pode entregar o resultado prometido." },
+          { "value": "c", "label": "É importante apenas para clientes pequenos." },
+          { "value": "d", "label": "É construída apenas após o projeto ser concluído." }
+        ],
+        "explanation": "A confiança é a base para a venda de Valor-Baseado (Value-Based Fees - VBF). Sem confiança, o cliente só comprará tempo.",
+        "hint": "Base do VBF.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é a moeda da consultoria de alto valor."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "O Princípio da Visibilidade e Credibilidade",
+    "teaser": "💡 Seu conhecimento é segredo? Então você não existe! Saiba como criar **Propriedade Intelectual (IP)** para atrair o Economic Buyer.",
+    "level1": "A visibilidade não é sobre ser famoso, mas sobre ser conhecido pelo seu público-alvo como o especialista que resolve um problema específico. A credibilidade é o que transforma a visibilidade em negócios. Elas são a base do 'Marketing de Atração'.",
+    "level2": "Se você não está publicando, falando ou sendo citado, você não existe para o Economic Buyer. Credibilidade é a prova de que você sabe o que está fazendo, geralmente demonstrada através de Propriedade Intelectual (IP) e resultados passados.",
+    "level3": "Ruim: Networking tradicional e cold calls. Bom: Publicar um artigo semanal sobre 'Os 3 Erros de X' (seu nicho), criando IP que atrai clientes pré-qualificados.",
+    "recapitulation": [
+      "**Visibilidade** é ser visto; **Credibilidade** é ser respeitado.",
+      "Visibilidade sem Credibilidade = Barulho (irrelevante).",
+      "A forma mais rápida de construir Credibilidade é com **Propriedade Intelectual (IP)** original (livros, modelos, artigos).",
+      "O **Strong Platform** (Marca + IP + Presença) atrai clientes passivamente.",
+      "**Frequência** é crucial: Mantenha uma presença constante e previsível.",
+      "Networking tradicional é ineficaz: Foco em 'quem conhece você', não em quem você conhece.",
+      "Trabalho gratuito **desvaloriza** sua expertise e atrai clientes que só buscam barganha."
+    ],
+    "practicalChecklist": [
+      "**Crie seu IP**: Comece com 1 artigo de 500 palavras por semana sobre a dor crítica do seu nicho e publique no LinkedIn/Blog.",
+      "**Teste seu Posicionamento**: Se você não consegue se apresentar em 1 frase, sua marca não está clara.",
+      "**Priorize Atração**: Dedique 20% do seu tempo de trabalho à criação e distribuição de IP, não à perseguição de leads.",
+      "**Transforme Experiência em Ativo**: Crie um modelo ou metodologia com nome próprio (IP) baseado em um resultado de projeto bem-sucedido.",
+      "**Diga 'Não' ao Gratuito**: Recuse-se a fazer 'mini-consultoria' de graça. Sua expertise é um ativo pago."
+    ],
+    "conclusionMessage": "Você não pode ser o melhor segredo guardado. A visibilidade (ser visto) e a credibilidade (ser respeitado) são essenciais para atrair clientes de alto valor.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a diferença entre 'Visibilidade' e 'Credibilidade'?",
+        "options": [
+          { "value": "a", "label": "Visibilidade é ser visto; Credibilidade é ser respeitado." },
+          { "value": "b", "label": "Visibilidade é para clientes grandes; Credibilidade é para clientes pequenos." },
+          { "value": "c", "label": "Não há diferença." },
+          { "value": "d", "label": "Credibilidade é mais importante que Visibilidade." }
+        ],
+        "explanation": "Você precisa de ambos. A visibilidade atrai a atenção; a credibilidade converte essa atenção em negócios.",
+        "hint": "Atenção vs. Respeito.",
+        "correctAnswer": "a",
+        "bookExample": "Visibilidade sem credibilidade é barulho. Credibilidade sem visibilidade é irrelevância."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a forma mais eficaz de construir credibilidade rapidamente?",
+        "options": [
+          { "value": "a", "label": "Ter um cartão de visita caro." },
+          { "value": "b", "label": "Desenvolver e publicar Propriedade Intelectual (IP) original." },
+          { "value": "c", "label": "Fazer muitas cold calls." },
+          { "value": "d", "label": "Oferecer descontos." }
+        ],
+        "explanation": "IP (livros, artigos, modelos) posiciona você como um pensador original e um especialista, não apenas um executor.",
+        "hint": "Pensamento original.",
+        "correctAnswer": "b",
+        "bookExample": "Sua Propriedade Intelectual é o seu bilhete de entrada para a mesa do Economic Buyer."
+      },
+      {
+        "id": "3",
+        "question": "O que é um 'Strong Platform' (Plataforma Forte)?",
+        "options": [
+          { "value": "a", "label": "Um software de gestão de projetos." },
+          { "value": "b", "label": "A combinação de sua marca, IP, presença online e reputação que atrai clientes passivamente." },
+          { "value": "c", "label": "Um escritório físico impressionante." },
+          { "value": "d", "label": "Uma grande equipe de vendas." }
+        ],
+        "explanation": "Uma plataforma forte permite que os clientes venham até você, em vez de você ter que persegui-los.",
+        "hint": "Atração passiva.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo é que o cliente diga: 'Eu preciso do Alan Weiss', não 'Eu preciso de um consultor'."
+      },
+      {
+        "id": "4",
+        "question": "Por que o networking tradicional (troca de cartões) é ineficaz para o consultor de milhões?",
+        "options": [
+          { "value": "a", "label": "É muito caro." },
+          { "value": "b", "label": "Foca em 'quem você conhece' em vez de 'quem conhece você' e no valor que você oferece." },
+          { "value": "c", "label": "É muito demorado." },
+          { "value": "d", "label": "É muito formal." }
+        ],
+        "explanation": "O consultor de milhões foca em criar valor para que as pessoas o procurem, em vez de buscar ativamente contatos aleatórios.",
+        "hint": "Atração vs. Perseguição.",
+        "correctAnswer": "b",
+        "bookExample": "O networking eficaz é sobre ser um ímã, não um caçador."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel da 'Frequência' na visibilidade?",
+        "options": [
+          { "value": "a", "label": "Publicar uma vez por ano." },
+          { "value": "b", "label": "Manter uma presença constante e previsível (ex: um artigo semanal, um podcast mensal) para permanecer na mente do cliente." },
+          { "value": "c", "label": "Publicar apenas quando tiver tempo." },
+          { "value": "d", "label": "Focar apenas na qualidade, não na frequência." }
+        ],
+        "explanation": "A consistência é mais importante do que a perfeição. A frequência garante que você seja lembrado.",
+        "hint": "Consistência.",
+        "correctAnswer": "b",
+        "bookExample": "A visibilidade é um músculo que precisa ser exercitado regularmente."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Propriedade Intelectual (IP)' na consultoria?",
+        "options": [
+          { "value": "a", "label": "Apenas patentes e marcas registradas." },
+          { "value": "b", "label": "Qualquer metodologia, modelo, livro ou artigo que você criou e que pode ser revendido ou usado para posicionar sua expertise." },
+          { "value": "c", "label": "O nome da sua empresa." },
+          { "value": "d", "label": "O seu currículo." }
+        ],
+        "explanation": "IP é o que permite que você escale seu conhecimento e se posicione como um líder de pensamento.",
+        "hint": "Conhecimento revendível.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não tem IP, você está vendendo apenas sua força de trabalho. Se você tem IP, você está vendendo seu cérebro."
+      },
+      {
+        "id": "7",
+        "question": "Por que o consultor de milhões deve evitar 'trabalho gratuito' (free work)?",
+        "options": [
+          { "value": "a", "label": "Para economizar tempo." },
+          { "value": "b", "label": "O trabalho gratuito desvaloriza sua expertise e atrai clientes que só buscam barganha, não valor." },
+          { "value": "c", "label": "É ilegal." },
+          { "value": "d", "label": "Porque o cliente não vai gostar do resultado." }
+        ],
+        "explanation": "Se você dá seu trabalho de graça, você ensina o cliente a não valorizá-lo. O valor deve ser estabelecido desde o início.",
+        "hint": "Valor percebido.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não se valoriza, ninguém mais o fará."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o objetivo de ter uma 'Marca Pessoal' forte?",
+        "options": [
+          { "value": "a", "label": "Ser famoso." },
+          { "value": "b", "label": "Criar uma diferenciação clara no mercado e justificar taxas premium." },
+          { "value": "c", "label": "Atrair clientes de baixo valor." },
+          { "value": "d", "label": "Ter um logotipo bonito." }
+        ],
+        "explanation": "A marca pessoal é o que faz você ser a única escolha óbvia para o problema do cliente.",
+        "hint": "Diferenciação.",
+        "correctAnswer": "b",
+        "bookExample": "Sua marca pessoal é a promessa que você faz ao mercado."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "A Arte da Prospecção de Alto Valor",
+    "teaser": "🎯 Pare de caçar. Seja o ímã! Aprenda a usar sua credibilidade para atrair o Economic Buyer com problemas **críticos**.",
+    "level1": "A prospecção não é um jogo de números, mas um jogo de qualidade. Você deve focar em conversas com o Economic Buyer sobre os resultados de negócios que ele precisa, e não sobre o seu currículo ou metodologia. O objetivo é a atração passiva.",
+    "level2": "Use sua Propriedade Intelectual (IP) para iniciar conversas, transformando 'cold calls' em 'warm conversations'. O objetivo da primeira interação é sempre obter permissão para a próxima etapa (o diagnóstico), não fechar a venda.",
+    "level3": "Ruim: 'Eu sou um consultor de estratégia, quer marcar um café?' Bom: 'Li seu artigo sobre X. Estamos enfrentando o problema que você descreveu. Podemos conversar sobre como sua IP se aplica?'",
+    "recapitulation": [
+      "Erro principal: Focar em si mesmo (currículo) em vez do **problema e resultado do cliente**.",
+      "**Introduções Quentes** (referências) são a fonte de leads mais eficaz (confiança transferida).",
+      "Transforme cada conversa fria em 2-3 Introduções Quentes para crescimento **exponencial**.",
+      "O objetivo da primeira interação é sempre agendar a **próxima etapa** (diagnóstico).",
+      "O **Marketing de Atração** usa o IP como ímã para que os clientes venham até você.",
+      "É crucial **qualificar** rapidamente (orçamento, autoridade, problema crítico) para proteger seu tempo.",
+      "Use o **E-mail de Fechamento** ('closing the loop') para reativar clientes em silêncio (tática de escassez).",
+      "O **Posicionamento de Nicho** atrai o cliente certo para o problema certo."
+    ],
+    "practicalChecklist": [
+      "**Pratique o Elevador Pitch de Valor**: 'Eu ajudo [Tipo de Cliente] a resolver [Problema Crítico] resultando em [Ganho Mensurável]'.",
+      "**Solicite Referências Ativamente**: Ao final de um projeto bem-sucedido, peça intencionalmente 2-3 introduções quentes.",
+      "**Use IP para Prospecção**: Em vez de currículo, envie um artigo ou modelo seu que aborde diretamente o problema do Economic Buyer (por e-mail ou LinkedIn).",
+      "**Qualifique Sem Medo**: Na primeira interação, pergunte diretamente sobre o **custo da inação** para qualificar o orçamento e a urgência.",
+      "**Tenha Coragem de Dizer 'Não'**: Recuse educadamente leads que não se encaixam no seu nicho ou que tentam te contratar por hora."
+    ],
+    "conclusionMessage": "A prospecção de alto valor foca em atrair o Economic Buyer com problemas críticos, usando a visibilidade e o IP como ímãs, em vez de perseguir leads frios.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal erro na prospecção de consultoria?",
+        "options": [
+          { "value": "a", "label": "Focar em problemas de baixo impacto." },
+          { "value": "b", "label": "Focar em si mesmo (currículo, experiência) em vez de focar nos problemas e resultados do cliente." },
+          { "value": "c", "label": "Cobrar muito caro." },
+          { "value": "d", "label": "Não ter um site." }
+        ],
+        "explanation": "O cliente só se importa com o que você pode fazer por ele. O foco deve ser sempre no 'E daí?' (So what?) para o negócio dele.",
+        "hint": "Foco no cliente.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não se importa com o seu passado; ele se importa com o futuro que você pode criar para ele."
+      },
+      {
+        "id": "2",
+        "question": "O que é uma 'Introdução Quente' (Warm Introduction)?",
+        "options": [
+          { "value": "a", "label": "Uma ligação feita em um dia quente." },
+          { "value": "b", "label": "Uma introdução feita por um contato mútuo que já estabeleceu credibilidade para você." },
+          { "value": "c", "label": "Uma ligação para um cliente que você já conhece." },
+          { "value": "d", "label": "Um e-mail de marketing." }
+        ],
+        "explanation": "Introduções quentes são a fonte de leads mais eficaz, pois a confiança é transferida do intermediário para você.",
+        "hint": "Confiança transferida.",
+        "correctAnswer": "b",
+        "bookExample": "Uma introdução quente vale dez cold calls."
+      },
+      {
+        "id": "3",
+        "question": "Como escalar suas conversas frias ao longo do tempo?",
+        "options": [
+          { "value": "a", "label": "Fazer mais cold calls por dia." },
+          { "value": "b", "label": "Transformar cada conversa fria em 2-3 introduções quentes." },
+          { "value": "c", "label": "Comprar listas de emails maiores." },
+          { "value": "d", "label": "Contratar mais pessoas para fazer cold calls." }
+        ],
+        "explanation": "Transforme cada conversa fria em 2-3 introduções quentes. Isso cria crescimento exponencial em vez de linear.",
+        "hint": "Exponencial > Linear.",
+        "correctAnswer": "b",
+        "bookExample": "Meta: cada cold call gera 2 introduções. Em 5 gerações, você tem 32 conversas quentes de uma única cold call original."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o objetivo da primeira interação com um potencial cliente?",
+        "options": [
+          { "value": "a", "label": "Vender o projeto imediatamente." },
+          { "value": "b", "label": "Obter permissão para continuar a conversa e agendar a próxima etapa (o diagnóstico)." },
+          { "value": "c", "label": "Apresentar seu currículo completo." },
+          { "value": "d", "label": "Fazer um pitch de vendas de 30 minutos." }
+        ],
+        "explanation": "O objetivo é sempre avançar o relacionamento, não fechar a venda na primeira tentativa.",
+        "hint": "Próxima etapa.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo de toda interação é obter a próxima interação."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Marketing de Atração' (Attraction Marketing)?",
+        "options": [
+          { "value": "a", "label": "Fazer anúncios pagos." },
+          { "value": "b", "label": "Usar IP e visibilidade para fazer com que os clientes venham até você, em vez de você ir até eles." },
+          { "value": "c", "label": "Fazer ligações frias." },
+          { "value": "d", "label": "Participar de feiras de negócios." }
+        ],
+        "explanation": "O marketing de atração é a base da prática de milhões, pois atrai clientes que já valorizam sua expertise.",
+        "hint": "Ímã.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não persegue clientes; ele os atrai."
+      },
+      {
+        "id": "6",
+        "question": "Por que é crucial qualificar o cliente rapidamente?",
+        "options": [
+          { "value": "a", "label": "Para impressioná-lo." },
+          { "value": "b", "label": "Para evitar desperdiçar tempo com clientes que não têm orçamento, autoridade ou um problema crítico." },
+          { "value": "c", "label": "Para garantir que o projeto seja fácil." },
+          { "value": "d", "label": "Para fechar a venda mais rápido." }
+        ],
+        "explanation": "O tempo é seu recurso mais valioso. Qualificação rigorosa garante que você só trabalhe em oportunidades de alto valor.",
+        "hint": "Tempo é dinheiro.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões tem a coragem de dizer 'não' a clientes que não se encaixam."
+      },
+      {
+        "id": "7",
+        "question": "Qual é a melhor forma de abordar um cliente que está em 'Silêncio' (não responde)?",
+        "options": [
+          { "value": "a", "label": "Enviar e-mails diários." },
+          { "value": "b", "label": "Enviar um e-mail de 'fechamento' (closing the loop) que assume que o projeto não é mais uma prioridade para ele, forçando uma resposta." },
+          { "value": "c", "label": "Ligar para o chefe dele." },
+          { "value": "d", "label": "Desistir imediatamente." }
+        ],
+        "explanation": "O e-mail de fechamento é uma tática de escassez que muitas vezes reativa o cliente, pois ele não quer perder a oportunidade.",
+        "hint": "Assuma o fim.",
+        "correctAnswer": "b",
+        "bookExample": "O silêncio não é um 'não'; é uma oportunidade para reengajar com uma nova tática."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Posicionamento de Nicho' (Niche Positioning)?",
+        "options": [
+          { "value": "a", "label": "Trabalhar apenas em uma cidade pequena." },
+          { "value": "b", "label": "Focar em um problema específico para um público específico, permitindo que você se torne o especialista indiscutível." },
+          { "value": "c", "label": "Ser um generalista para atrair mais clientes." },
+          { "value": "d", "label": "Cobrar preços baixos." }
+        ],
+        "explanation": "O nicho permite que você cobre taxas premium, pois você é o único que resolve aquele problema específico de forma única.",
+        "hint": "Especialista vs. Generalista.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro está nos nichos. Se você tenta ser tudo para todos, você não é nada para ninguém."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "A Fase de Diagnóstico: Quantificando o Problema",
+    "teaser": "💀 Se o cliente não sente a dor, ele não paga pela cura. Aprenda a quantificar o custo do problema para justificar qualquer VBF.",
+    "level1": "A fase de diagnóstico é a mais crucial. Seu objetivo é fazer o cliente admitir o custo financeiro de seu problema (a 'dor'). Se o cliente não consegue quantificar a dor, ele não pode justificar o investimento na cura (seu preço).",
+    "level2": "Não comece a falar sobre o que você fará (a solução). Comece perguntando 'Quanto isso está custando para você?' O cliente deve se convencer de que o problema é caro o suficiente para justificar o seu preço de alto valor. Você está fechando o 'Gap' entre o estado atual e o estado desejado.",
+    "level3": "Ruim: 'Vou melhorar sua comunicação.' Bom: 'A má comunicação custa X horas de gerentes por mês, totalizando R$ Y por ano. O que acontece se você não resolver isso?'",
+    "recapitulation": [
+      "Objetivo: **Quantificar o custo financeiro da dor** (Custo da Inação).",
+      "O **Gap Analysis** é a diferença entre a situação atual e a desejada, e seu preço é uma fração do valor de fechar esse Gap.",
+      "Pergunta mais poderosa: **'O que acontece se você não resolver este problema?'** (Custo da Inação).",
+      "Não seja um 'Order Taker': Desafie a solução proposta e foque na **causa raiz** do problema.",
+      "Evite 'mini-consultoria' gratuita: Não dê a cura de graça; seu foco é no diagnóstico da dor.",
+      "Use a **Escuta Ativa** para que o cliente se convença da gravidade do problema com suas próprias palavras.",
+      "O diagnóstico também deve ter um **Escopo Fixo** e, idealmente, ser pago.",
+      "Objeção 'Sem Orçamento' se resolve voltando ao **Custo da Inação** ('Como você pode se dar ao luxo de *não* resolver?')."
+    ],
+    "practicalChecklist": [
+      "**Formule 5 perguntas de Custo da Dor**: Desenvolva perguntas que transformem um problema qualitativo em um custo mensal/anual mensurável (ex: horas perdidas x custo/hora).",
+      "**Proteja seu Tempo (Diagnóstico)**: Não ofereça um diagnóstico 'gratuito' e aberto. Ofereça uma 'Sessão de Estratégia' de 1-2h com escopo fixo e preço (baixo VBF) ou com um limite de tempo rígido.",
+      "**Use o Silêncio Estrategicamente**: Após o cliente quantificar a dor, faça uma pausa. Deixe-o sentir o peso da informação.",
+      "**Não Dê a Solução (Cura)**: Mantenha o foco na descrição do problema e em como a solução fechará a Lacuna. Guarde o 'como fazer' para o projeto pago.",
+      "**Prepare a Ancoragem de Preço**: Termine a fase de diagnóstico com o cliente concordando que o problema custa, no mínimo, 'X' (Ancoragem)."
+    ],
+    "conclusionMessage": "O diagnóstico não é sobre a solução, mas sobre a dor. Você deve quantificar o custo do problema do cliente para justificar o seu preço.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo da fase de diagnóstico?",
+        "options": [
+          { "value": "a", "label": "Apresentar sua metodologia." },
+          { "value": "b", "label": "Quantificar o custo financeiro do problema do cliente (a dor)." },
+          { "value": "c", "label": "Fazer amizade com o Economic Buyer." },
+          { "value": "d", "label": "Garantir que o cliente goste de você." }
+        ],
+        "explanation": "A quantificação da dor é o que permite a transição para o Value-Based Fee (VBF).",
+        "hint": "Custo da dor.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode quantificar o problema, você não pode justificar o preço."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Gap Analysis' (Análise de Lacuna)?",
+        "options": [
+          { "value": "a", "label": "A diferença entre o que o cliente quer e o que ele pode pagar." },
+          { "value": "b", "label": "A diferença entre a situação atual do cliente (a dor) e a situação desejada (o ganho)." },
+          { "value": "c", "label": "A diferença entre o seu preço e o preço do concorrente." },
+          { "value": "d", "label": "A diferença entre o tempo planejado e o tempo real." }
+        ],
+        "explanation": "Seu trabalho é fechar essa lacuna. O preço que você cobra é uma pequena fração do valor de fechar essa lacuna.",
+        "hint": "Atual vs. Desejado.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra quando a dor de permanecer na situação atual é maior do que a dor de mudar."
+      },
+      {
+      "id": "3",
+      "question": "Qual é a pergunta mais poderosa a ser feita durante o diagnóstico?",
+      "options": [
+        { "value": "a", "label": "Qual é o seu orçamento?" },
+        { "value": "b", "label": "O que acontece se você não resolver este problema?" },
+        { "value": "c", "label": "Qual é a sua metodologia favorita?" },
+        { "value": "d", "label": "Quantas horas você espera que eu trabalhe?" }
+      ],
+      "explanation": "Esta pergunta força o cliente a confrontar o custo da inação, aumentando a urgência e o valor percebido da sua intervenção.",
+      "hint": "Custo da inação.",
+      "correctAnswer": "b",
+      "bookExample": "O medo da perda é um motivador de compra mais forte do que a esperança de ganho."
+    },
+      {
+        "id": "4",
+        "question": "O que significa 'Não ser um 'Order Taker' (Tirador de Pedidos)?",
+        "options": [
+          { "value": "a", "label": "Recusar-se a fazer o que o cliente pede." },
+          { "value": "b", "label": "Desafiar a solução proposta pelo cliente e focar no problema real por trás da solicitação." },
+          { "value": "c", "label": "Apenas aceitar pedidos por escrito." },
+          { "value": "d", "label": "Fazer exatamente o que o cliente pede." }
+        ],
+        "explanation": "Muitas vezes, o cliente diagnostica mal o próprio problema. Seu valor está em diagnosticar a causa raiz, não em executar a solução errada.",
+        "hint": "Causa raiz.",
+        "correctAnswer": "b",
+        "bookExample": "Se o cliente soubesse a solução, ele não precisaria de você."
+      },
+      {
+        "id": "5",
+        "question": "Por que você deve evitar dar 'mini-consultoria' gratuita durante o diagnóstico?",
+        "options": [
+          { "value": "a", "label": "Para manter o mistério." },
+          { "value": "b", "label": "Você resolve o problema dele de graça, e ele não tem mais incentivo para te contratar." },
+          { "value": "c", "label": "O cliente não vai entender." },
+          { "value": "d", "label": "É antiético." }
+        ],
+        "explanation": "Se você der a solução, você perde a oportunidade de ser pago para implementá-la. Mantenha o foco no diagnóstico da dor.",
+        "hint": "Não dê a cura de graça.",
+        "correctAnswer": "b",
+        "bookExample": "O diagnóstico é sobre a dor. A proposta é sobre a cura."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel da 'Escuta Ativa' no diagnóstico?",
+        "options": [
+          { "value": "a", "label": "Apenas concordar com o cliente." },
+          { "value": "b", "label": "Permitir que o cliente se convença da gravidade do problema, usando suas próprias palavras e dados." },
+          { "value": "c", "label": "Focar em planejar sua próxima pergunta." },
+          { "value": "d", "label": "Falar mais do que o cliente." }
+        ],
+        "explanation": "O cliente deve ser o principal orador. Seu trabalho é guiar a conversa para a quantificação da dor.",
+        "hint": "O cliente se convence.",
+        "correctAnswer": "b",
+        "bookExample": "O melhor vendedor é o cliente que se convence."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Escopo Fixo' (Fixed Scope) na fase de diagnóstico?",
+        "options": [
+          { "value": "a", "label": "O cliente define o escopo." },
+          { "value": "b", "label": "O consultor define o escopo do diagnóstico de forma clara e limitada, para evitar que o cliente peça trabalho gratuito." },
+          { "value": "c", "label": "O escopo muda constantemente." },
+          { "value": "d", "label": "O escopo é muito amplo." }
+        ],
+        "explanation": "Mesmo o diagnóstico deve ter um escopo e um preço. Não faça um 'diagnóstico gratuito' que se estende indefinidamente.",
+        "hint": "Limites claros.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não define o escopo, o cliente o fará por você, e geralmente será muito maior do que você esperava."
+      },
+      {
+        "id": "8",
+        "question": "Como você lida com um cliente que diz 'Não temos orçamento para isso'?",
+        "options": [
+          { "value": "a", "label": "Reduz o preço imediatamente." },
+          { "value": "b", "label": "Volta à quantificação da dor: 'Entendo. Mas se o problema está custando R$ 500.000, como você pode se dar ao luxo de não resolvê-lo?'" },
+          { "value": "c", "label": "Muda de assunto." },
+          { "value": "d", "label": "Oferece um plano de pagamento." }
+        ],
+        "explanation": "O orçamento é uma desculpa. O problema é a falta de valor percebido. Reafirme o custo da inação.",
+        "hint": "Custo da inação.",
+        "correctAnswer": "b",
+        "bookExample": "O orçamento é flexível quando o valor é alto o suficiente."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Dominando o Value-Based Fee (VBF)",
+    "teaser": "👑 Chega de escravidão por hora! O VBF é a sua declaração de valor. Aprenda a cobrar uma **fração do resultado** que você entrega.",
+    "level1": "Value-Based Fee (VBF) significa que você cobra uma taxa fixa baseada no valor percebido ou potencial que você entrega, e não nas horas que você gasta. É o divisor de águas entre o consultor de 'tempo' e o consultor de 'milhões'.",
+    "level2": "O VBF alinha seus interesses com os do cliente: quanto mais rápido você entrega o resultado, melhor para ambos. A fórmula mental é: **VBF = Valor do Resultado (ROI) x Porcentagem de Participação (10-20%)**. Seu preço é uma fração do ganho do cliente, garantindo um ROI positivo para ele.",
+    "level3": "Ruim: 'Minha taxa é de R$ 500/hora.' Bom: 'O resultado de X meses de trabalho é uma economia de R$ 100.000. Meu VBF por esse resultado é de R$ 20.000 (ROI de 5x).'",
+    "recapitulation": [
+      "VBF **desvincula** receita do tempo (potencial de ganhos exponenciais).",
+      "VBF alinha interesses: Cliente quer resultado rápido; Consultor maximiza lucro.",
+      "Fórmula Mental: VBF = **ROI do Cliente x Porcentagem de Participação**.",
+      "A principal objeção ao VBF é a **falta de confiança** ou a **não quantificação do valor**.",
+      "Recuse-se a dar a 'taxa diária' - mantenha a linha do **impacto**.",
+      "O VBF exige um **Escopo Fixo** e claro, pois qualquer expansão se torna um novo VBF.",
+      "O VBF é mais seguro para o cliente do que a hora (custo final previsível e foco no resultado).",
+      "Uma **Proposta de Valor** clara justifica o VBF."
+    ],
+    "practicalChecklist": [
+      "**Mantenha a Linha (VBF)**: Se o cliente perguntar a taxa por hora, reafirme: 'Não cobro por tempo, cobro por impacto. Meu VBF para o resultado X é de Y, pois o problema custa Z.'",
+      "**Crie um Fee Schedule Interno**: Tenha VBFs pré-calculados para projetos padronizados para apresentar o preço com confiança e rapidez.",
+      "**Negocie o Escopo, Não o Preço**: Se o cliente pedir um preço menor, diga: 'Posso reduzir o VBF, mas teremos que reduzir o escopo para um resultado menor. Qual parte do ROI você quer cortar?'",
+      "**Use o Pagamento Antecipado**: Exija uma parte significativa do VBF antes de começar (teste de compromisso).",
+      "**Prepare-se para a Objeção de Confiança**: Tenha depoimentos e estudos de caso prontos para justificar por que você pode entregar o valor."
+    ],
+    "conclusionMessage": "O VBF é a única forma de ser pago pelo seu valor, e não pelo seu tempo. Ele exige coragem, confiança e a capacidade de quantificar o ROI.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal vantagem do Value-Based Fee (VBF) para o consultor?",
+        "options": [
+          { "value": "a", "label": "Garantir que o cliente pague menos." },
+          { "value": "b", "label": "Desvincular a receita do tempo, permitindo ganhos exponenciais e maior lucratividade." },
+          { "value": "c", "label": "Evitar o risco." },
+          { "value": "d", "label": "Trabalhar menos." }
+        ],
+        "explanation": "O VBF permite que você seja pago pelo seu conhecimento e resultados, não pela sua presença física.",
+        "hint": "Desvinculação de tempo.",
+        "correctAnswer": "b",
+        "bookExample": "Se você cobra por hora, você está limitando seu potencial de ganhos ao número de horas que você pode trabalhar."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a principal objeção do cliente ao VBF?",
+        "options": [
+          { "value": "a", "label": "O preço é muito baixo." },
+          { "value": "b", "label": "O cliente não confia que você entregará o valor prometido (falta de confiança)." },
+          { "value": "c", "label": "O cliente não gosta de taxas fixas." },
+          { "value": "d", "label": "O cliente quer que você trabalhe mais horas." }
+        ],
+        "explanation": "A objeção ao VBF é quase sempre uma objeção à confiança ou à falta de quantificação do valor.",
+        "hint": "Confiança e valor.",
+        "correctAnswer": "b",
+        "bookExample": "O VBF é um teste de confiança. Se o cliente não confia em você, ele insistirá em controlar seu tempo."
+      },
+      {
+        "id": "3",
+        "question": "O que você deve fazer se o cliente insistir em saber sua 'taxa diária'?",
+        "options": [
+          { "value": "a", "label": "Dizer a taxa diária imediatamente." },
+          { "value": "b", "label": "Reafirmar o VBF e o valor do resultado, dizendo que você não cobra por tempo, mas por impacto." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Oferecer um desconto." }
+        ],
+        "explanation": "Você deve manter a linha. Se você ceder à taxa diária, você perde o posicionamento de valor.",
+        "hint": "Mantenha a linha.",
+        "correctAnswer": "b",
+        "bookExample": "Se você ceder à taxa diária, você está dizendo ao cliente que seu tempo é mais importante do que seu valor."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Escopo Fixo' (Fixed Scope) no contexto do VBF?",
+        "options": [
+          { "value": "a", "label": "O escopo pode mudar a qualquer momento." },
+          { "value": "b", "label": "O escopo é claramente definido e limitado. Qualquer mudança no escopo resulta em um novo VBF." },
+          { "value": "c", "label": "O escopo é muito amplo." },
+          { "value": "d", "label": "O cliente define o escopo." }
+        ],
+        "explanation": "O VBF só funciona com um escopo claro. O 'Scope Creep' (expansão do escopo) destrói a lucratividade do VBF.",
+        "hint": "Limites claros.",
+        "correctAnswer": "b",
+        "bookExample": "O VBF é um contrato de resultados, não um contrato de tempo. O escopo define o resultado."
+      },
+      {
+        "id": "5",
+        "question": "Qual é a fórmula mental para calcular um VBF?",
+        "options": [
+          { "value": "a", "label": "Custo + Lucro." },
+          { "value": "b", "label": "Valor do Resultado para o Cliente (ROI) x Porcentagem de Participação (geralmente 10-20%)." },
+          { "value": "c", "label": "Horas Estimadas x Taxa Diária." },
+          { "value": "d", "label": "Preço do Concorrente - 10%." }
+        ],
+        "explanation": "Você deve cobrar uma fração do valor que você gera. Isso garante que o cliente sempre tenha um ROI positivo.",
+        "hint": "Fração do ROI.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não sabe o valor que está gerando, você não pode cobrar um VBF."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Fee Schedule' (Tabela de Taxas)?",
+        "options": [
+          { "value": "a", "label": "Uma lista de preços por hora." },
+          { "value": "b", "label": "Uma lista de VBFs pré-definidos para diferentes tipos de projetos ou resultados, permitindo negociação rápida." },
+          { "value": "c", "label": "Uma lista de descontos." },
+          { "value": "d", "label": "Um cronograma de pagamento." }
+        ],
+        "explanation": "Ter uma tabela de taxas baseada em valor permite que você apresente o preço com confiança e rapidez.",
+        "hint": "Preços pré-definidos.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não inventa o preço na hora; ele o apresenta com confiança."
+      },
+      {
+        "id": "7",
+        "question": "Por que o VBF é mais seguro para o cliente do que a cobrança por hora?",
+        "options": [
+          { "value": "a", "label": "O VBF é mais barato." },
+          { "value": "b", "label": "O VBF elimina o risco de custos inesperados e garante que o foco seja no resultado, não no tempo gasto." },
+          { "value": "c", "label": "O VBF é mais flexível." },
+          { "value": "d", "label": "O VBF é mais rápido." }
+        ],
+        "explanation": "O cliente sabe exatamente o que vai pagar pelo resultado. A cobrança por hora é um cheque em branco.",
+        "hint": "Previsibilidade de custo.",
+        "correctAnswer": "b",
+        "bookExample": "O VBF é a forma mais ética de cobrar, pois o cliente só paga se o valor for percebido."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Value Proposition' (Proposta de Valor)?",
+        "options": [
+          { "value": "a", "label": "Seu currículo." },
+          { "value": "b", "label": "Uma declaração clara e concisa do benefício que você entrega ao cliente e como ele se diferencia da concorrência." },
+          { "value": "c", "label": "O preço do seu serviço." },
+          { "value": "d", "label": "Sua metodologia." }
+        ],
+        "explanation": "A proposta de valor é o que justifica o VBF. Ela deve ser focada no resultado de negócios.",
+        "hint": "Benefício + Diferenciação.",
+        "correctAnswer": "b",
+        "bookExample": "Sua proposta de valor deve ser tão clara que o cliente possa repeti-la para o chefe dele."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "A Proposta de Valor e o Contrato",
+    "teaser": "📜 Uma proposta não é um livro. É a formalização de um acordo já fechado: Problema, Resultado e **o VBF já aceito**.",
+    "level1": "A proposta de consultoria deve ser curta (máximo 3 páginas) e focada em três coisas: o problema que você diagnosticou, o resultado que você entregará (o VBF) e o escopo fixo. Não é um documento de 50 páginas sobre sua história.",
+    "level2": "O cliente já está convencido do valor antes de receber a proposta (graças ao diagnóstico). A proposta é apenas a formalização do acordo. O contrato deve ser simples, focando no 'O Quê' (escopo) e no 'Quanto' (VBF), não no 'Como' (metodologia).",
+    "level3": "Ruim: Proposta de 10 páginas detalhando cada reunião. Bom: Proposta de 3 páginas: Resumo Executivo (Custo do Problema + VBF + ROI) e Escopo Fixo Claro.",
+    "recapitulation": [
+      "Tamanho ideal da proposta: **1 a 3 páginas** (o cliente já está convencido).",
+      "Foco da proposta: **Problema Diagnosticado + Resultado Prometido + VBF**.",
+      "O **Contrato Simples** (1-2 páginas) formaliza o escopo e o VBF, evitando jargões legais desnecessários.",
+      "A **Metodologia** deve ser mencionada brevemente (apenas para dar confiança), mas não dominar o documento.",
+      "O **Pagamento Antecipado** é crucial (teste de compromisso e fluxo de caixa).",
+      "A objeção 'Preço Alto' se resolve reafirmando o **Custo do Problema e o ROI** ('Comparado a quê?').",
+      "O **Escopo Fixo** protege o consultor do 'Scope Creep' e garante a lucratividade.",
+      "A aceitação é baseada na **Confiança** construída no diagnóstico, não na beleza da proposta."
+    ],
+    "practicalChecklist": [
+      "**Use um Modelo Simples**: Reduza sua proposta para um modelo de 3 páginas que possa ser preenchido rapidamente após o diagnóstico.",
+      "**Destaque o ROI**: A primeira página deve ter o resumo executivo, com números que reafirmam o valor do investimento (Ancoragem).",
+      "**Defina o Escopo Rigorosamente**: Liste claramente o que **será** entregue e o que **não será** entregue para evitar 'Scope Creep'.",
+      "**Exija Pagamento Antecipado**: Defina o pagamento de 30-50% do VBF como a condição inicial para a mobilização do projeto.",
+      "**Mantenha a Metodologia Breve**: Use um ou dois slides (se apresentar) ou parágrafos (se escrito) sobre a metodologia. O foco é no **resultado**."
+    ],
+    "conclusionMessage": "A proposta não é um documento de vendas, mas um resumo do acordo de valor. O contrato deve ser simples e focado no escopo e no VBF.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o tamanho ideal de uma proposta de consultoria de alto valor?",
+        "options": [
+          { "value": "a", "label": "Mais de 50 páginas." },
+          { "value": "b", "label": "Curta, geralmente 1 a 3 páginas." },
+          { "value": "c", "label": "O tamanho não importa." },
+          { "value": "d", "label": "Apenas um e-mail." }
+        ],
+        "explanation": "Se a proposta for longa, significa que você não fez o diagnóstico corretamente. O cliente já deve estar convencido.",
+        "hint": "Curta e direta.",
+        "correctAnswer": "b",
+        "bookExample": "A proposta é um resumo do acordo, não um livro."
+      },
+      {
+        "id": "2",
+        "question": "O que deve ser o foco principal da proposta?",
+        "options": [
+          { "value": "a", "label": "Sua experiência e currículo." },
+          { "value": "b", "label": "O problema diagnosticado, o resultado prometido e o VBF." },
+          { "value": "c", "label": "A metodologia detalhada." },
+          { "value": "d", "label": "As horas estimadas." }
+        ],
+        "explanation": "O cliente compra o resultado. A proposta deve reforçar o ROI.",
+        "hint": "ROI e VBF.",
+        "correctAnswer": "b",
+        "bookExample": "A proposta deve ser um documento de negócios, não um documento de marketing."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Contrato Simples' (Simple Contract)?",
+        "options": [
+          { "value": "a", "label": "Um contrato verbal." },
+          { "value": "b", "label": "Um contrato de 1 a 2 páginas que formaliza o escopo, o VBF e as condições de pagamento, evitando jargões legais complexos." },
+          { "value": "c", "label": "Um contrato de 50 páginas." },
+          { "value": "d", "label": "Um contrato que pode ser quebrado facilmente." }
+        ],
+        "explanation": "A complexidade legal desnecessária cria desconfiança. O contrato deve ser uma formalização do acordo mútuo.",
+        "hint": "Confiança e clareza.",
+        "correctAnswer": "b",
+        "bookExample": "O contrato é um documento de confiança, não um documento de guerra."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel da 'Metodologia' na proposta?",
+        "options": [
+          { "value": "a", "label": "Deve ser o foco principal." },
+          { "value": "b", "label": "Deve ser mencionada brevemente, apenas para dar confiança, mas não deve dominar a proposta." },
+          { "value": "c", "label": "Deve ser omitida." },
+          { "value": "d", "label": "Deve ser detalhada em 10 páginas." }
+        ],
+        "explanation": "O cliente compra o resultado, não a metodologia. O excesso de detalhes técnicos distrai do valor.",
+        "hint": "Resultado > Metodologia.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não se importa com o motor do carro; ele se importa com a velocidade e o conforto."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Pagamento Antecipado' (Up-front Payment) e por que é crucial?",
+        "options": [
+          { "value": "a", "label": "O pagamento é feito apenas no final." },
+          { "value": "b", "label": "Uma parte significativa do VBF é paga antes do início do projeto, garantindo o compromisso do cliente e o fluxo de caixa do consultor." },
+          { "value": "c", "label": "O pagamento é feito em parcelas iguais." },
+          { "value": "d", "label": "O pagamento é feito por hora." }
+        ],
+        "explanation": "O pagamento antecipado é um teste de compromisso. Se o cliente não está disposto a pagar antecipadamente, ele não está totalmente comprometido com o resultado.",
+        "hint": "Compromisso.",
+        "correctAnswer": "b",
+        "bookExample": "O pagamento antecipado é o teste de fogo do VBF."
+      },
+      {
+        "id": "6",
+        "question": "Como você lida com a objeção 'Seu preço é muito alto'?",
+        "options": [
+          { "value": "a", "label": "Reduz o preço imediatamente." },
+          { "value": "b", "label": "Reafirma o custo do problema e o ROI: 'Comparado a quê? O custo do seu problema é X. Meu preço é Y. O ROI é claro.'" },
+          { "value": "c", "label": "Muda de assunto." },
+          { "value": "d", "label": "Pede desculpas." }
+        ],
+        "explanation": "O preço só é alto se o valor percebido for baixo. Volte ao diagnóstico e ao custo da inação.",
+        "hint": "Volte ao ROI.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é apenas um problema na ausência de valor."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Escopo Fixo' (Fixed Scope) na proposta?",
+        "options": [
+          { "value": "a", "label": "O escopo pode mudar a qualquer momento." },
+          { "value": "b", "label": "Uma descrição clara e limitada do que será entregue, com a ressalva de que qualquer trabalho fora desse escopo exigirá um novo VBF." },
+          { "value": "c", "label": "O escopo é muito amplo." },
+          { "value": "d", "label": "O cliente define o escopo." }
+        ],
+        "explanation": "O escopo fixo protege o consultor contra o 'Scope Creep' e garante a lucratividade do VBF.",
+        "hint": "Proteção de lucratividade.",
+        "correctAnswer": "b",
+        "bookExample": "O escopo fixo é o seu seguro contra o trabalho gratuito."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Confiança' na aceitação da proposta?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A proposta é apenas um formalismo. A aceitação é baseada na confiança construída durante o diagnóstico." },
+          { "value": "c", "label": "A proposta constrói a confiança." },
+          { "value": "d", "label": "A confiança é construída após a aceitação." }
+        ],
+        "explanation": "Se o cliente não confia em você, ele não aceitará o VBF, independentemente do quão boa seja a proposta.",
+        "hint": "Confiança primeiro.",
+        "correctAnswer": "b",
+        "bookExample": "A proposta é o resultado de uma conversa, não o início dela."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "A Execução e a Gestão do Cliente",
+    "teaser": "🚀 Entregue o resultado, não o cronograma. Descubra como 'Quick Wins' e comunicação focada em **ROI** garantem a próxima venda.",
+    "level1": "A execução é a entrega da promessa. O consultor de milhões foca em 'Quick Wins' (vitórias rápidas) para manter o momentum e a confiança. A gestão do cliente é sobre gerenciar as expectativas e garantir que o Economic Buyer veja o progresso em termos de resultados de negócios.",
+    "level2": "Não envie relatórios de progresso de 50 páginas. Envie um resumo executivo focado em **ROI**. Mantenha o Economic Buyer informado sobre o progresso do negócio, não do cronograma. O objetivo é manter o VBF validado e abrir a porta para a venda contínua.",
+    "level3": "Ruim: 'Fiz 40 horas de reuniões e relatórios esta semana.' Bom: 'Graças à nossa ação, a rotatividade de funcionários caiu 5% este mês, economizando R$ 25.000.'",
+    "recapitulation": [
+      "**Quick Wins** (Vitórias Rápidas) constroem confiança e validam o VBF no início do projeto.",
+      "Erro na comunicação: Focar em **Atividades** e horas, em vez de **Resultados de Negócios** (ROI).",
+      "O 'Gerenciamento do Cliente' é, na verdade, 'Gerenciamento do **Economic Buyer**' (Mantenha-o informado sobre o ROI).",
+      "**Scope Creep** (Expansão do Escopo) é uma nova oportunidade de venda. Reafirme o escopo fixo e apresente um **novo VBF**.",
+      "Documente o progresso para criar **Estudos de Caso** e **IP** futuros.",
+      "Seja um **Parceiro, Não um Empregado**: Mantenha a independência e desafie o cliente quando necessário (foco no resultado).",
+      "Lide com a **Resistência à Mudança** voltando ao diagnóstico (custo da inação).",
+      "A **Revisão Pós-Projeto** é a chave para quantificar o ROI final, obter depoimentos e identificar a **Próxima Venda**."
+    ],
+    "practicalChecklist": [
+      "**Priorize um 'Quick Win'**: No primeiro mês, foque em uma entrega de alto impacto para validar o VBF e criar momentum.",
+      "**Crie Relatórios de ROI de 3 Linhas**: Elimine relatórios longos. Envie um e-mail conciso ao Economic Buyer focado no resultado financeiro alcançado.",
+      "**Use o 'Novo VBF' Contra Scope Creep**: Quando o cliente pedir algo fora do escopo, diga: 'Isso é um trabalho novo e valioso. Vamos conversar sobre um novo VBF para essa entrega.'",
+      "**Documente o Processo (para você)**: Transforme as 'melhores práticas' de cada projeto em modelos e metodologias (IP).",
+      "**Prepare o Terreno para a Próxima Venda**: Na metade do projeto, pergunte: 'O que está te tirando o sono que não seja este projeto?'"
+    ],
+    "conclusionMessage": "A execução deve ser focada em resultados rápidos e visíveis. A gestão do cliente é sobre manter o Economic Buyer informado sobre o ROI, não sobre o seu cronograma.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que são 'Quick Wins' (Vitórias Rápidas) na execução?",
+        "options": [
+          { "value": "a", "label": "Resultados pequenos e irrelevantes." },
+          { "value": "b", "label": "Resultados visíveis e de alto impacto entregues no início do projeto para construir confiança e momentum." },
+          { "value": "c", "label": "Resultados que levam muito tempo para serem alcançados." },
+          { "value": "d", "label": "Resultados que não são quantificáveis." }
+        ],
+        "explanation": "As vitórias rápidas validam o VBF e garantem que o cliente continue engajado.",
+        "hint": "Momentum e Confiança.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente precisa ver que o investimento está valendo a pena o mais rápido possível."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o principal erro na comunicação de progresso com o cliente?",
+        "options": [
+          { "value": "a", "label": "Focar demais no ROI." },
+          { "value": "b", "label": "Focar nas atividades e horas trabalhadas em vez de focar nos resultados de negócios alcançados." },
+          { "value": "c", "label": "Comunicar muito pouco." },
+          { "value": "d", "label": "Comunicar muito tarde." }
+        ],
+        "explanation": "O cliente não se importa com o seu esforço; ele se importa com o resultado. Mantenha o foco no ROI.",
+        "hint": "Resultado > Esforço.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não paga pelo seu suor; ele paga pelo seu cérebro."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'Gerenciar o Economic Buyer'?",
+        "options": [
+          { "value": "a", "label": "Fazer tudo o que ele pede." },
+          { "value": "b", "label": "Manter o Economic Buyer informado sobre o progresso do ROI e garantir que ele continue a apoiar o projeto." },
+          { "value": "c", "label": "Evitar o Economic Buyer." },
+          { "value": "d", "label": "Focar apenas nos gerentes de projeto." }
+        ],
+        "explanation": "O Economic Buyer é o seu campeão. Você deve garantir que ele tenha as informações necessárias para justificar o VBF internamente.",
+        "hint": "Campeão interno.",
+        "correctAnswer": "b",
+        "bookExample": "Se o Economic Buyer não está feliz, ninguém está feliz."
+      },
+      {
+        "id": "4",
+        "question": "Como você lida com o 'Scope Creep' (Expansão do Escopo) durante a execução?",
+        "options": [
+          { "value": "a", "label": "Faz o trabalho extra de graça." },
+          { "value": "b", "label": "Reconhece a nova necessidade, reafirma o escopo fixo e apresenta um novo VBF para o trabalho adicional." },
+          { "value": "c", "label": "Ignora o pedido." },
+          { "value": "d", "label": "Pede desculpas." }
+        ],
+        "explanation": "O Scope Creep é uma nova oportunidade de venda, não um trabalho gratuito. Mantenha a disciplina do VBF.",
+        "hint": "Nova venda.",
+        "correctAnswer": "b",
+        "bookExample": "O Scope Creep é o inimigo da lucratividade. Trate-o como uma nova oportunidade de negócio."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel da 'Documentação' na execução?",
+        "options": [
+          { "value": "a", "label": "Apenas para fins legais." },
+          { "value": "b", "label": "Registrar o progresso, os resultados e as lições aprendidas para criar estudos de caso e IP futuros." },
+          { "value": "c", "label": "É irrelevante." },
+          { "value": "d", "label": "Apenas para o cliente." }
+        ],
+        "explanation": "A documentação é a matéria-prima para o seu marketing de atração e credibilidade futura.",
+        "hint": "Estudos de caso.",
+        "correctAnswer": "b",
+        "bookExample": "Cada projeto concluído é um ativo de marketing."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Ser um Parceiro, Não um Empregado' na execução?",
+        "options": [
+          { "value": "a", "label": "Fazer o que o cliente manda." },
+          { "value": "b", "label": "Manter a independência, desafiar o cliente quando necessário e focar no resultado, não na obediência." },
+          { "value": "c", "label": "Trabalhar no escritório do cliente." },
+          { "value": "d", "label": "Ter um contrato de longo prazo." }
+        ],
+        "explanation": "O cliente paga pelo seu julgamento e expertise, não pela sua submissão.",
+        "hint": "Independência.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões é um parceiro de negócios, não um funcionário temporário."
+      },
+      {
+        "id": "7",
+        "question": "Como você lida com a 'Resistência à Mudança' do cliente?",
+        "options": [
+          { "value": "a", "label": "Força a mudança." },
+          { "value": "b", "label": "Reconhece a resistência, volta ao diagnóstico (custo da inação) e usa a confiança para guiar o cliente." },
+          { "value": "c", "label": "Desiste do projeto." },
+          { "value": "d", "label": "Culpa o cliente." }
+        ],
+        "explanation": "A resistência é natural. Você deve reafirmar o valor e o propósito mútuo.",
+        "hint": "Reafirme o valor.",
+        "correctAnswer": "b",
+        "bookExample": "A resistência é um sinal de que o cliente está com medo. Use a confiança para acalmá-lo."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o objetivo da 'Revisão Pós-Projeto' (Post-Project Review)?",
+        "options": [
+          { "value": "a", "label": "Apenas para receber o pagamento final." },
+          { "value": "b", "label": "Quantificar o ROI final, obter depoimentos e identificar a próxima oportunidade de venda (venda contínua)." },
+          { "value": "c", "label": "Pedir desculpas por erros." },
+          { "value": "d", "label": "Focar apenas nos erros." }
+        ],
+        "explanation": "A revisão é a sua chance de fechar o ciclo de vendas e garantir a próxima venda.",
+        "hint": "Próxima venda.",
+        "correctAnswer": "b",
+        "bookExample": "O fim de um projeto é o início do próximo."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "A Venda Contínua e o Relacionamento",
+    "teaser": "💰 Seu melhor cliente é o cliente atual. Descubra como transformar um projeto em um **relacionamento de longo prazo** e receita previsível.",
+    "level1": "A maior fonte de receita para o consultor de milhões é a venda contínua para clientes existentes. Isso é alcançado ao focar em ser um parceiro de longo prazo, sempre buscando a próxima oportunidade de agregar valor. O custo de aquisição é zero; a confiança é alta.",
+    "level2": "Você deve ser proativo. Não espere o projeto acabar. Durante a execução, identifique ativamente o próximo problema crítico que pode resolver. O objetivo é se tornar um 'Trusted Advisor' (Conselheiro de Confiança) que é consultado sobre decisões estratégicas, não apenas um fornecedor pontual.",
+    "level3": "Ruim: Dizer 'Te ligo quando precisar'. Bom: 'Agora que resolvemos a rotatividade, qual é o próximo problema de R$ 500.000 que está tirando seu sono?'",
+    "recapitulation": [
+      "Fonte mais lucrativa: **Venda Contínua** para clientes existentes (custo de aquisição zero).",
+      "**Client Retention** (Retenção) é o resultado de entregar valor consistentemente.",
+      "Você deve ser **Proativo** na identificação da próxima dor crítica do cliente.",
+      "O objetivo é ser o **Trusted Advisor** (Conselheiro de Confiança) consultado sobre estratégia, não apenas execução.",
+      "A **Generosidade** (valor inesperado, como insights ou introduções) lubrifica o relacionamento de longo prazo.",
+      "**Alavancagem** (IP, produtos) é a chave para a escala e a receita passiva.",
+      "Mantenha a **Disciplina de Preço**: Recuse-se a negociar o VBF após o acordo de valor (reduza o escopo se necessário).",
+      "O **Acompanhamento (Follow-up) regular** (mensal/trimestral) é a chave para a venda contínua."
+    ],
+    "practicalChecklist": [
+      "**Crie um Alerta de 'Próxima Dor'**: Crie uma rotina para perguntar ao Economic Buyer sobre 'os próximos 3 grandes problemas' no meio e no fim de cada projeto.",
+      "**Transforme-se em Trusted Advisor**: Ofereça um insight não relacionado ao projeto atual que adicione valor estratégico (Generosidade).",
+      "**Proponha uma Taxa de Retenção (Retainer)**: Ao final do projeto, proponha uma taxa mensal fixa para 'Acesso Contínuo e Conselho Estratégico'.",
+      "**Use a Revisão Pós-Projeto como Venda**: Na reunião final, foque 80% no ROI alcançado e 20% na próxima oportunidade de valor (a próxima dor).",
+      "**Não Dê Descontos**: Reafirme o valor do VBF e, se a negociação for insistente, sugira a redução do escopo para um 'mini-projeto' com um VBF menor."
+    ],
+    "conclusionMessage": "O consultor de milhões não busca clientes, mas sim relacionamentos de longo prazo. A venda contínua é o resultado de entregar valor consistentemente.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a fonte de receita mais lucrativa para o consultor de milhões?",
+        "options": [
+          { "value": "a", "label": "Novos clientes de cold call." },
+          { "value": "b", "label": "Venda contínua e expansão de projetos com clientes existentes." },
+          { "value": "c", "label": "Venda de livros." },
+          { "value": "d", "label": "Palestras." }
+        ],
+        "explanation": "Clientes existentes já confiam em você e já aceitaram o VBF. O custo de aquisição é zero.",
+        "hint": "Custo de aquisição zero.",
+        "correctAnswer": "b",
+        "bookExample": "É 10 vezes mais fácil vender para um cliente existente do que para um novo."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Client Retention' (Retenção de Cliente)?",
+        "options": [
+          { "value": "a", "label": "Manter o cliente por um ano." },
+          { "value": "b", "label": "A capacidade de manter o cliente engajado em projetos contínuos, tornando-se um recurso permanente." },
+          { "value": "c", "label": "Fazer o cliente assinar um contrato de longo prazo." },
+          { "value": "d", "label": "Dar descontos." }
+        ],
+        "explanation": "A retenção é o resultado de entregar valor consistentemente e manter o foco no ROI.",
+        "hint": "Valor contínuo.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não tem clientes; ele tem relacionamentos de longo prazo."
+      },
+      {
+        "id": "3",
+        "question": "Como você identifica a próxima oportunidade de venda em um cliente existente?",
+        "options": [
+          { "value": "a", "label": "Esperando que ele ligue." },
+          { "value": "b", "label": "Perguntando ativamente sobre os próximos problemas críticos de negócios e quantificando a dor." },
+          { "value": "c", "label": "Enviando um e-mail de marketing." },
+          { "value": "d", "label": "Focando apenas no projeto atual." }
+        ],
+        "explanation": "Você deve ser proativo. O cliente pode não saber que você pode resolver o próximo problema.",
+        "hint": "Proatividade.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões é um caçador de problemas, não um solucionador de tarefas."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Trusted Advisor' (Conselheiro de Confiança)?",
+        "options": [
+          { "value": "a", "label": "Alguém que dá conselhos gratuitos." },
+          { "value": "b", "label": "Um parceiro estratégico que é consultado sobre decisões críticas de negócios, independentemente do projeto atual." },
+          { "value": "c", "label": "Um amigo do CEO." },
+          { "value": "d", "label": "Um funcionário sênior." }
+        ],
+        "explanation": "O Trusted Advisor tem a confiança do Economic Buyer para influenciar a estratégia.",
+        "hint": "Influência estratégica.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo final é ser o primeiro a ser chamado quando um problema crítico surge."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel da 'Generosidade' no relacionamento com o cliente?",
+        "options": [
+          { "value": "a", "label": "Fazer trabalho gratuito." },
+          { "value": "b", "label": "Oferecer valor inesperado (insights, introduções, ideias) que não estão no escopo, mas que fortalecem o relacionamento." },
+          { "value": "c", "label": "Dar presentes caros." },
+          { "value": "d", "label": "Dar descontos." }
+        ],
+        "explanation": "A generosidade cria reciprocidade e fortalece a confiança, mas não deve ser confundida com trabalho gratuito.",
+        "hint": "Valor inesperado.",
+        "correctAnswer": "b",
+        "bookExample": "A generosidade é o lubrificante do relacionamento de longo prazo."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Alavancagem' (Leverage) na consultoria?",
+        "options": [
+          { "value": "a", "label": "Trabalhar mais horas." },
+          { "value": "b", "label": "A capacidade de gerar receita que não depende diretamente do seu tempo (ex: IP, produtos, subcontratação)." },
+          { "value": "c", "label": "Cobrar preços baixos." },
+          { "value": "d", "label": "Ter muitos clientes pequenos." }
+        ],
+        "explanation": "A alavancagem é a chave para a prática de milhões, pois permite que você escale seu impacto e sua receita.",
+        "hint": "Receita desvinculada do tempo.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está alavancando seu tempo, você está limitando seu potencial de ganhos."
+      },
+      {
+        "id": "7",
+        "question": "Como você lida com um cliente que tenta 'negociar' o VBF após o acordo de valor?",
+        "options": [
+          { "value": "a", "label": "Cede um pouco para fechar o negócio." },
+          { "value": "b", "label": "Reafirma o valor e o escopo fixo, e se recusa a negociar o preço, a menos que o escopo seja reduzido." },
+          { "value": "c", "label": "Muda de assunto." },
+          { "value": "d", "label": "Pede desculpas." }
+        ],
+        "explanation": "Negociar o VBF após o acordo de valor destrói o posicionamento. Mantenha a linha.",
+        "hint": "Disciplina de preço.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o preço. Se o cliente quer um preço menor, ele deve aceitar um resultado menor."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel do 'Acompanhamento' (Follow-up) após o projeto?",
+        "options": [
+          { "value": "a", "label": "Apenas para garantir que o pagamento final seja feito." },
+          { "value": "b", "label": "Manter contato regular (mensal/trimestral) para monitorar o ROI e identificar novas oportunidades." },
+          { "value": "c", "label": "É irrelevante." },
+          { "value": "d", "label": "Apenas para pedir referências." }
+        ],
+        "explanation": "O acompanhamento proativo é a chave para a venda contínua.",
+        "hint": "Proatividade.",
+        "correctAnswer": "b",
+        "bookExample": "O acompanhamento é o que transforma um projeto em um relacionamento."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "O Poder da Propriedade Intelectual (IP)",
+    "teaser": "🧠 Não venda seu tempo, venda seu cérebro. Seu IP é o seu **ativo escalável** que atrai, vende e gera receita passiva.",
+    "level1": "Propriedade Intelectual (IP) é qualquer coisa que você cria que pode ser revendida ou usada para posicionar sua expertise (modelos, metodologias, livros, cursos). O IP é o que permite que você ganhe dinheiro enquanto dorme, escalando seu conhecimento.",
+    "level2": "Transforme o trabalho repetitivo em um modelo ou metodologia (IP) que pode ser vendido para vários clientes. Isso transforma seu tempo em um ativo escalável. O IP posiciona você como um líder de pensamento, atrai clientes e justifica as taxas premium.",
+    "level3": "Ruim: Recriar uma planilha de diagnóstico para cada cliente. Bom: Vender o acesso e a aplicação do seu 'Modelo de Otimização X' (Propriedade Intelectual) para vários clientes.",
+    "recapitulation": [
+      "IP é o ativo que **alavanca** seu tempo e gera receita desvinculada das suas horas.",
+      "O risco de não ter IP: Ser um **commodity** facilmente substituível e competir por preço.",
+      "Crie uma **Metodologia Proprietária** (com nome próprio) para criar marca e diferenciar-se.",
+      "O melhor método de **Proteção** é a constante criação de novo IP (inovar mais rápido que os copiadores).",
+      "Transforme serviços em **Produtos de Consultoria** (workshops, avaliações padronizadas) para alavancar seu tempo.",
+      "O IP é seu **ímã de Marketing de Atração** e seu cartão de visita mais poderoso.",
+      "**Licenciamento de IP** gera receita passiva (royalties pelo uso da sua metodologia).",
+      "A **Simplicidade** na criação de IP é crucial: o valor deve ser fácil de entender e aplicar."
+    ],
+    "practicalChecklist": [
+      "**Reserve Tempo para Criar IP**: Use 'Time Blocking' (Bloqueio de Tempo) na sua agenda para criar e refinar seu IP (não para responder e-mail).",
+      "**Nomeie sua Metodologia**: Dê um nome de marca ao seu processo principal (ex: 'Ciclo de Transformação 5D').",
+      "**Transforme Entregáveis em Produtos**: Pegue seu melhor entregável de projeto e o empacote como um 'Produto de Diagnóstico' de baixo custo e alto valor (ex: e-book, mini-curso).",
+      "**Use o IP na Prospecção**: Em vez de vender, envie seu IP (artigo, modelo) para o Economic Buyer para iniciar uma conversa de 'alto nível'.",
+      "**Concentre-se na Escala**: Pense em como você pode vender o mesmo conhecimento para 100 pessoas em um mês (ex: Curso Online/Webinar Pago) em vez de 1."
+    ],
+    "conclusionMessage": "IP é o seu ativo mais valioso. Ele escala seu conhecimento, atrai clientes e justifica taxas premium. Você deve criar, proteger e alavancar seu IP.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal função do IP para o consultor de milhões?",
+        "options": [
+          { "value": "a", "label": "Garantir que o cliente não roube suas ideias." },
+          { "value": "b", "label": "Alavancar seu tempo, escalar seu conhecimento e justificar taxas premium." },
+          { "value": "c", "label": "Apenas para fins de publicação." },
+          { "value": "d", "label": "Tornar o trabalho mais complexo." }
+        ],
+        "explanation": "O IP é o seu motor de crescimento. Ele permite que você venda o mesmo conhecimento repetidamente.",
+        "hint": "Escalabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não tem IP, você está vendendo apenas sua força de trabalho. Se você tem IP, você está vendendo seu cérebro."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Metodologia Proprietária'?",
+        "options": [
+          { "value": "a", "label": "Uma metodologia que todos usam." },
+          { "value": "b", "label": "Um processo ou modelo único que você desenvolveu e nomeou, que se torna parte do seu IP e diferencia você." },
+          { "value": "c", "label": "Um software caro." },
+          { "value": "d", "label": "Um segredo industrial." }
+        ],
+        "explanation": "Nomear sua metodologia cria uma marca e a torna um ativo vendável.",
+        "hint": "Marca e Diferenciação.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não nomeia sua metodologia, você não pode vendê-la."
+      },
+      {
+        "id": "3",
+        "question": "Como você 'Protege' seu IP?",
+        "options": [
+          { "value": "a", "label": "Apenas com patentes." },
+          { "value": "b", "label": "Com direitos autorais (copyright), marcas registradas e, mais importante, pela constante criação de novo IP." },
+          { "value": "c", "label": "Mantendo-o em segredo." },
+          { "value": "d", "label": "Com contratos longos." }
+        ],
+        "explanation": "A melhor proteção é a constante inovação. Se você está sempre à frente, ninguém pode te copiar.",
+        "hint": "Inovação contínua.",
+        "correctAnswer": "b",
+        "bookExample": "A melhor defesa é um bom ataque (criação contínua de IP)."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Produto de Consultoria' (Consulting Product)?",
+        "options": [
+          { "value": "a", "label": "Um serviço personalizado." },
+          { "value": "b", "label": "Um serviço padronizado e empacotado (baseado em IP) que pode ser vendido repetidamente com pouca variação." },
+          { "value": "c", "label": "Um software." },
+          { "value": "d", "label": "Um livro." }
+        ],
+        "explanation": "Produtos de consultoria (ex: workshops, avaliações padronizadas) são a forma mais fácil de alavancar seu tempo.",
+        "hint": "Padronização.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões transforma serviços em produtos para escalar."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de não ter IP?",
+        "options": [
+          { "value": "a", "label": "Você trabalha menos." },
+          { "value": "b", "label": "Você está sempre vendendo seu tempo e é facilmente substituível por um concorrente mais barato." },
+          { "value": "c", "label": "Você ganha mais dinheiro." },
+          { "value": "d", "label": "Você tem mais tempo livre." }
+        ],
+        "explanation": "Sem IP, você é um commodity. O IP é a sua diferenciação.",
+        "hint": "Commodity.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não tem IP, você está competindo em preço."
+      },
+      {
+        "id": "6",
+        "question": "Como o IP ajuda na prospecção?",
+        "options": [
+          { "value": "a", "label": "Ele não ajuda." },
+          { "value": "b", "label": "Ele atrai clientes que já estão pré-qualificados pela sua expertise e estabelece credibilidade instantânea." },
+          { "value": "c", "label": "Ele permite que você faça cold calls mais eficazes." },
+          { "value": "d", "label": "Ele reduz o preço." }
+        ],
+        "explanation": "O IP é o seu ímã de marketing de atração.",
+        "hint": "Marketing de atração.",
+        "correctAnswer": "b",
+        "bookExample": "O IP é o seu cartão de visita mais poderoso."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Licenciamento de IP'?",
+        "options": [
+          { "value": "a", "label": "Vender seu IP para sempre." },
+          { "value": "b", "label": "Permitir que outras pessoas ou empresas usem seu IP (metodologia, curso) mediante o pagamento de uma taxa (royalties)." },
+          { "value": "c", "label": "Dar seu IP de graça." },
+          { "value": "d", "label": "Usar o IP de outra pessoa." }
+        ],
+        "explanation": "O licenciamento é uma forma de alavancagem que gera receita passiva.",
+        "hint": "Receita passiva.",
+        "correctAnswer": "b",
+        "bookExample": "O licenciamento é a chave para a liberdade financeira na consultoria."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Simplicidade' na criação de IP?",
+        "options": [
+          { "value": "a", "label": "O IP deve ser complexo." },
+          { "value": "b", "label": "O IP deve ser fácil de entender e aplicar, para que o cliente possa ver o valor rapidamente." },
+          { "value": "c", "label": "A simplicidade é irrelevante." },
+          { "value": "d", "label": "O IP deve ser longo." }
+        ],
+        "explanation": "A complexidade confunde. A simplicidade vende.",
+        "hint": "Fácil de entender.",
+        "correctAnswer": "b",
+        "bookExample": "O IP mais eficaz é aquele que pode ser explicado em uma frase."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "A Gestão do Tempo e a Produtividade",
+    "teaser": "⏳ Pare de gerenciar o tempo, gerencie sua **Energia** e Alavancagem. Livre-se das tarefas de R$ 10/hora para fazer o trabalho de R$ 1.000/hora.",
+    "level1": "A gestão do tempo tradicional (focar em listas de tarefas) é ineficaz. O consultor de milhões foca em 'High-Leverage Activities' (HLAs - Atividades de Alta Alavancagem) que geram o maior ROI para o seu tempo.",
+    "level2": "Seu tempo deve ser gasto em: 1) Prospecção/Marketing (HLAs), 2) Entrega de Valor (consultoria) e 3) Criação de IP (HLAs). Tudo o mais deve ser delegado ou eliminado. Além disso, gerencie sua energia: aloque tarefas críticas para seus momentos de pico de foco.",
+    "level3": "Ruim: Responder a todos os e-mails imediatamente e fazer sua própria contabilidade. Bom: Bloquear 3 horas ininterruptas para criar IP e delegar todas as tarefas administrativas e de baixo valor.",
+    "recapitulation": [
+      "**HLAs** (Atividades de Alta Alavancagem) = Atividades que geram retorno desproporcional (IP, Prospecção do Economic Buyer).",
+      "Regra de **80/20** (Pareto): 80% da sua receita vem de 20% dos seus clientes/atividades.",
+      "Priorize a **Energia, Não o Tempo**: Faça as tarefas mais críticas nos momentos de pico de energia.",
+      "A **Delegação** de tarefas de baixa alavancagem (R$ 10/hora) libera tempo para HLAs (R$ 1.000/hora).",
+      "**Time Blocking** (Bloqueio de Tempo) é essencial para proteger o tempo de foco ininterrupto para HLAs.",
+      "Seja **Implacável Contra Interrupções**: Proteja seu tempo de alta alavancagem como seu ativo mais valioso.",
+      "O **Descanso** é um investimento na clareza mental e na energia, não um custo.",
+      "A **Procrastinação de Alto Valor** é estratégica: adie o que não importa para focar no que realmente move o ponteiro (ROI)."
+    ],
+    "practicalChecklist": [
+      "**Faça o Teste 80/20**: Identifique os 20% de clientes que geram 80% da sua receita e foque neles. Pense em 'demitir' os 80% que consomem seu tempo.",
+      "**Implemente o Time Blocking**: Bloqueie 2-4 horas por dia (ininterruptas) para HLAs (Criação de IP, Prospecção). Não agende reuniões neste tempo.",
+      "**Delegue o Mínimo de R$ 100/hora**: Se uma tarefa pode ser feita por alguém que cobra menos do que seu mínimo por hora, delegue-a (ex: contabilidade, design, e-mail administrativo).",
+      "**Gerencie a Energia**: Identifique seu 'horário de pico' (manhã, tarde) e agende HLAs para este período.",
+      "**Crie um Processo de 'Fechamento' Diário**: No final do dia, defina 1-3 HLAs para começar no dia seguinte, garantindo que você comece com foco no valor."
+    ],
+    "conclusionMessage": "O consultor de milhões gerencia sua energia, não seu tempo. O foco é em atividades de alto valor que geram receita e IP.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que são 'High-Leverage Activities' (HLAs)?",
+        "options": [
+          { "value": "a", "label": "Tarefas administrativas." },
+          { "value": "b", "label": "Atividades que geram um retorno desproporcionalmente alto para o tempo investido (ex: criação de IP, prospecção de Economic Buyers)." },
+          { "value": "c", "label": "Reuniões longas." },
+          { "value": "d", "label": "Responder a todos os e-mails imediatamente." }
+        ],
+        "explanation": "O consultor de milhões prioriza HLAs para maximizar a receita por hora.",
+        "hint": "ROI do tempo.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está fazendo HLAs, você está trabalhando para o seu negócio, não no seu negócio."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a regra de '80/20' (Princípio de Pareto) na consultoria?",
+        "options": [
+          { "value": "a", "label": "80% do seu tempo deve ser gasto em tarefas administrativas." },
+          { "value": "b", "label": "80% da sua receita vem de 20% dos seus clientes ou atividades." },
+          { "value": "c", "label": "80% dos clientes são fáceis." },
+          { "value": "d", "label": "80% do seu trabalho é fácil." }
+        ],
+        "explanation": "Foque nos 20% de clientes/atividades que geram 80% da sua receita. Elimine ou delegue o resto.",
+        "hint": "Foco no que importa.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões tem a coragem de demitir os 80% de clientes que consomem seu tempo e geram pouca receita."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'Gerenciar a Energia, Não o Tempo'?",
+        "options": [
+          { "value": "a", "label": "Trabalhar apenas quando estiver motivado." },
+          { "value": "b", "label": "Alocar as tarefas mais críticas (HLAs) para os momentos de pico de energia e as tarefas de baixa alavancagem para os momentos de baixa energia." },
+          { "value": "c", "label": "Dormir mais." },
+          { "value": "d", "label": "Trabalhar 24 horas por dia." }
+        ],
+        "explanation": "A qualidade do seu trabalho depende da sua energia. Use sua energia de forma estratégica.",
+        "hint": "Pico de energia.",
+        "correctAnswer": "b",
+        "bookExample": "Não é sobre quanto tempo você trabalha, mas sobre o quão bem você trabalha quando trabalha."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel da 'Delegação' na prática de milhões?",
+        "options": [
+          { "value": "a", "label": "É um sinal de fraqueza." },
+          { "value": "b", "label": "Delegar tarefas de baixa alavancagem (administrativas, contabilidade) para liberar tempo para HLAs." },
+          { "value": "c", "label": "Delegar a consultoria principal." },
+          { "value": "d", "label": "Delegar a prospecção." }
+        ],
+        "explanation": "Você só deve fazer o que só você pode fazer. Tudo o mais deve ser delegado.",
+        "hint": "Foco no único.",
+        "correctAnswer": "b",
+        "bookExample": "Se você está fazendo tarefas de R$ 10 por hora, você está perdendo a oportunidade de fazer tarefas de R$ 1.000 por hora."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Time Blocking' (Bloqueio de Tempo)?",
+        "options": [
+          { "value": "a", "label": "Deixar o tempo livre." },
+          { "value": "b", "label": "Agendar blocos de tempo ininterruptos para HLAs (ex: 2 horas para criação de IP) e proteger esse tempo rigorosamente." },
+          { "value": "c", "label": "Agendar reuniões longas." },
+          { "value": "d", "label": "Agendar apenas tarefas administrativas." }
+        ],
+        "explanation": "O Time Blocking garante que o trabalho mais importante seja feito, em vez de ser consumido por urgências.",
+        "hint": "Tempo protegido.",
+        "correctAnswer": "b",
+        "bookExample": "Se não está no seu calendário, não existe."
+      },
+      {
+        "id": "6",
+        "question": "Como você lida com a 'Interrupção' (Interruption)?",
+        "options": [
+          { "value": "a", "label": "Aceita todas as interrupções." },
+          { "value": "b", "label": "Cria barreiras (ex: silenciar notificações, trabalhar em locais isolados) para proteger o tempo de alta alavancagem." },
+          { "value": "c", "label": "Culpa o parceiro." },
+          { "value": "d", "label": "Trabalha em ambientes barulhentos." }
+        ],
+        "explanation": "A interrupção destrói a produtividade. Você deve ser implacável em proteger seu tempo de foco.",
+        "hint": "Foco ininterrupto.",
+        "correctAnswer": "b",
+        "bookExample": "O custo de uma interrupção é muito maior do que o tempo que ela leva."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel do 'Descanso' na produtividade de milhões?",
+        "options": [
+          { "value": "a", "label": "É um luxo desnecessário." },
+          { "value": "b", "label": "É essencial para manter a energia e a clareza mental necessárias para o trabalho de alto valor." },
+          { "value": "c", "label": "É um sinal de preguiça." },
+          { "value": "d", "label": "É apenas para o final de semana." }
+        ],
+        "explanation": "O trabalho de alto valor exige alta energia. O descanso é um investimento, não um custo.",
+        "hint": "Investimento em energia.",
+        "correctAnswer": "b",
+        "bookExample": "Você não pode ter ideias de milhões de dólares se estiver exausto."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Procrastinação de Alto Valor'?",
+        "options": [
+          { "value": "a", "label": "Adiar tarefas importantes." },
+          { "value": "b", "label": "Adiar tarefas de baixa alavancagem para focar em tarefas de alta alavancagem." },
+          { "value": "c", "label": "Adiar o descanso." },
+          { "value": "d", "label": "Adiar a prospecção." }
+        ],
+        "explanation": "É a arte de adiar o que não importa para focar no que realmente move o ponteiro.",
+        "hint": "Foco no ROI.",
+        "correctAnswer": "b",
+        "bookExample": "A procrastinação de alto valor é uma estratégia de produtividade."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "A Estrutura de Taxas e o Posicionamento",
+    "teaser": "💵 Seu preço não é um cálculo; é uma **declaração de valor**. Livre-se do preço por hora para ser um Investment Banker de insights.",
+    "level1": "Sua estrutura de taxas é uma declaração de posicionamento. Ela deve ser simples, baseada em valor (VBF) e projetada para maximizar a receita. O cliente não deve fazer cálculos complexos; ele deve apenas ver o ROI claro.",
+    "level2": "Evite taxas por hora ou diárias a todo custo. Use taxas fixas (VBF) para projetos de escopo bem definido e taxas de retenção (Retainer) para acesso contínuo. O preço deve ser alto o suficiente para que o cliente sinta que está fazendo um investimento sério, não comprando um 'faz-tudo'.",
+    "level3": "Ruim: 'Meu dia custa R$ 5.000.' Bom: 'Nosso VBF para otimizar a cadeia de suprimentos é de R$ 80.000, gerando um ROI de 4x.'",
+    "recapitulation": [
+      "Taxa por hora é o **principal inimigo** do consultor de milhões (limita ganhos e posiciona como custo).",
+      "**Retainer Fee** (Taxa de Retenção) garante receita previsível e posiciona você como **Trusted Advisor** (acesso contínuo à sua mente).",
+      "Taxas de Retenção só são aceitas se houver **alta confiança** no seu valor estratégico.",
+      "**Evite Descontos**: Se o cliente precisa de um preço menor, **reduza o escopo**, não o preço (mantenha o valor por unidade de entrega).",
+      "Use **Ancoragem de Preço**: Apresente o custo do problema (âncora) antes de apresentar o VBF.",
+      "A estrutura de taxas deve ser **simples** para evitar confusão e desconfiança.",
+      "Defina uma **Taxa de Retenção Mínima** para garantir que você só trabalhe com clientes de alto valor.",
+      "Seu preço deve ser baseado no **valor que você entrega**, e não no preço do mercado (você é único)."
+    ],
+    "practicalChecklist": [
+      "**Elimine a Taxa por Hora**: Atualize todos os seus materiais para remover qualquer menção a taxas horárias/diárias.",
+      "**Crie Opções de VBF**: Tenha 3 faixas de VBF (Ex: Básico, Ouro, Platina) para o mesmo serviço, focadas em diferentes níveis de resultado.",
+      "**Mantenha o Limite**: Se pressionado por um preço menor, mude a conversa para: 'Para reduzir o preço em X, teremos que remover o resultado Y. Podemos fazer isso?'",
+      "**Proponha Retainer Proativamente**: Para clientes com quem você já entregou um projeto VBF, proponha uma taxa de retenção mensal para 'aconselhamento estratégico e acompanhamento de ROI'.",
+      "**Ancore o Preço**: Sempre comece a conversa de preço recapitulando o custo do problema que o cliente concordou (Ex: 'Dado que o problema custa R$ 100.000/ano...')."
+    ],
+    "conclusionMessage": "Sua estrutura de taxas é uma declaração de posicionamento. Ela deve ser simples, baseada em valor e projetada para maximizar a receita.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal problema da 'Taxa por Hora' (Hourly Rate)?",
+        "options": [
+          { "value": "a", "label": "É muito alta." },
+          { "value": "b", "label": "Limita o potencial de ganhos, incentiva o cliente a controlar seu tempo e posiciona você como um custo." },
+          { "value": "c", "label": "É muito baixa." },
+          { "value": "d", "label": "É muito flexível." }
+        ],
+        "explanation": "A taxa por hora é o inimigo do consultor de milhões.",
+        "hint": "Limite de ganhos.",
+        "correctAnswer": "b",
+        "bookExample": "Se você cobra por hora, você está vendendo seu tempo, que é o seu recurso mais limitado."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Retainer Fee' (Taxa de Retenção)?",
+        "options": [
+          { "value": "a", "label": "Uma taxa paga no final do projeto." },
+          { "value": "b", "label": "Uma taxa mensal fixa paga para ter acesso contínuo à sua expertise e conselho estratégico, independentemente do tempo gasto." },
+          { "value": "c", "label": "Uma taxa por hora." },
+          { "value": "d", "label": "Uma taxa baseada em resultados." }
+        ],
+        "explanation": "A taxa de retenção garante receita previsível e posiciona você como um Trusted Advisor.",
+        "hint": "Acesso contínuo.",
+        "correctAnswer": "b",
+        "bookExample": "A taxa de retenção é o seu salário de Trusted Advisor."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Confiança' na aceitação de taxas de retenção?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A taxa de retenção só é aceita se o cliente tiver alta confiança em seu valor estratégico." },
+          { "value": "c", "label": "A taxa de retenção constrói a confiança." },
+          { "value": "d", "label": "A confiança é construída após a aceitação." }
+        ],
+        "explanation": "A taxa de retenção é o ápice da confiança. O cliente está pagando pelo seu cérebro, não pelo seu tempo.",
+        "hint": "Confiança máxima.",
+        "correctAnswer": "b",
+        "bookExample": "Ninguém paga uma taxa de retenção a um consultor que não confia."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Taxa de Desempenho' (Contingency Fee)?",
+        "options": [
+          { "value": "a", "label": "Uma taxa fixa." },
+          { "value": "b", "label": "Uma taxa baseada em uma porcentagem dos resultados financeiros alcançados (deve ser usada com cautela)." },
+          { "value": "c", "label": "Uma taxa por hora." },
+          { "value": "d", "label": "Uma taxa de retenção." }
+        ],
+        "explanation": "A taxa de desempenho pode ser usada, mas o consultor de milhões prefere o VBF, pois a taxa de desempenho pode criar conflitos de interesse.",
+        "hint": "Porcentagem do ganho.",
+        "correctAnswer": "b",
+        "bookExample": "Use a taxa de desempenho apenas quando o resultado for facilmente mensurável e você tiver controle sobre a execução."
+      },
+      {
+        "id": "5",
+        "question": "Por que você deve evitar 'Descontos'?",
+        "options": [
+          { "value": "a", "label": "O cliente vai pedir mais." },
+          { "value": "b", "label": "O desconto desvaloriza sua expertise e atrai clientes que só se importam com o preço." },
+          { "value": "c", "label": "É ilegal." },
+          { "value": "d", "label": "O cliente não vai gostar." }
+        ],
+        "explanation": "Se o cliente precisa de um preço menor, reduza o escopo, não o preço. Mantenha o valor por unidade de entrega.",
+        "hint": "Reduza o escopo, não o preço.",
+        "correctAnswer": "b",
+        "bookExample": "O desconto é o inimigo do valor."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Ancoragem de Preço' (Price Anchoring)?",
+        "options": [
+          { "value": "a", "label": "Cobrar um preço baixo." },
+          { "value": "b", "label": "Apresentar o custo do problema (a âncora) antes de apresentar o seu preço (o VBF), para que o VBF pareça pequeno em comparação." },
+          { "value": "c", "label": "Cobrar um preço alto." },
+          { "value": "d", "label": "Apresentar o preço primeiro." }
+        ],
+        "explanation": "A ancoragem é uma tática psicológica que valida o VBF. O cliente deve ver o custo da inação primeiro.",
+        "hint": "Custo da inação primeiro.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é relativo. Ancore-o no custo do problema."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Simplicidade' na estrutura de taxas?",
+        "options": [
+          { "value": "a", "label": "A estrutura deve ser complexa." },
+          { "value": "b", "label": "A estrutura deve ser fácil de entender para que o cliente possa aceitá-la rapidamente e com confiança." },
+          { "value": "c", "label": "A simplicidade é irrelevante." },
+          { "value": "d", "label": "A estrutura deve ser longa." }
+        ],
+        "explanation": "A complexidade gera desconfiança e atrasa a decisão.",
+        "hint": "Fácil aceitação.",
+        "correctAnswer": "b",
+        "bookExample": "Se o cliente precisa de uma planilha para entender seu preço, seu preço está errado."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Taxa de Retenção Mínima' (Minimum Retainer)?",
+        "options": [
+          { "value": "a", "label": "Uma taxa de retenção que pode ser negociada." },
+          { "value": "b", "label": "O valor mínimo que você aceita para ser um Trusted Advisor, garantindo que você só trabalhe com clientes de alto valor." },
+          { "value": "c", "label": "Uma taxa de retenção muito baixa." },
+          { "value": "d", "label": "Uma taxa de retenção que muda a cada mês." }
+        ],
+        "explanation": "Definir um mínimo garante que você não desperdice tempo com clientes que não valorizam seu acesso contínuo.",
+        "hint": "Filtro de valor.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não tem um mínimo, você está dizendo ao mercado que seu tempo não tem valor."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "A Gestão de Clientes Difíceis",
+    "teaser": "🚫 Clientes difíceis são um sintoma de um processo de venda falho. Aprenda a 'demitir' os clientes que **destroem sua paz** e lucratividade.",
+    "level1": "Clientes difíceis (microgerenciadores, atrasos de pagamento, 'scope creep') são um sintoma de um processo de vendas falho. Você falhou em estabelecer o VBF e a confiança, ou você não falou com o Economic Buyer. O consultor de milhões tem a coragem de 'demitir' clientes que consomem recursos de alto valor.",
+    "level2": "A solução para clientes difíceis é voltar à clareza: reafirme o escopo fixo, o VBF e o foco no resultado. Se o cliente continua a microgerenciar, ele não confia em você. O trabalho para imediatamente em caso de atraso de pagamento, sem desculpas.",
+    "level3": "Ruim: Ceder ao 'Scope Creep' e aceitar atrasos. Bom: 'Nosso contrato é sobre o resultado X. O trabalho Y está fora do escopo e exigirá um novo VBF de R$ Z. Queremos avançar com uma nova proposta?'",
+    "recapitulation": [
+      "Principal causa de clientes difíceis: **Falta de clareza no escopo**, falta de confiança ou falha em falar com o Economic Buyer.",
+      "**Demissão de Cliente** é uma ferramenta de gestão: Protege sua lucratividade e paz de espírito.",
+      "Se o pagamento atrasar: **Pare o trabalho imediatamente** e comunique a suspensão ao Economic Buyer (você não é um banco).",
+      "**Microgerenciamento** é um sinal de falta de confiança. Resolva reafirmando o VBF e o foco no resultado, não nas atividades.",
+      "A **Documentação** clara (escopo, VBF, comunicação) é sua melhor defesa contra disputas e 'Scope Creep'.",
+      "Lide com o **Scope Creep** reafirmando o escopo fixo e apresentando um **novo VBF** (nova oportunidade de venda).",
+      "A **Gestão de Expectativas** deve ser rigorosa desde o início (o que será entregue e o que não será).",
+      "A **Coragem** de dizer 'não' a clientes ruins protege sua marca e seu tempo de alto valor."
+    ],
+    "practicalChecklist": [
+      "**Crie um 'Contrato Simples' Rigoroso**: Use seu contrato de 1-2 páginas para deixar claro que: 1) o VBF é fixo, 2) o escopo é fechado, 3) o trabalho para em caso de atraso no pagamento.",
+      "**Implemente a Regra do Scope Creep**: Crie uma frase padrão para responder a pedidos extras: 'Isso é uma ótima ideia! Está fora do nosso escopo atual, e exigirá um Novo VBF de R$ X. Gostaria que eu preparasse uma mini-proposta?'",
+      "**Qualifique a Confiança**: Se o cliente tentar negociar o VBF, isso é um sinal. Considere 'demitir' se a falta de confiança persistir.",
+      "**Responda ao Microgerenciamento com ROI**: Em vez de detalhes da tarefa, responda ao microgerenciador com o progresso do resultado (Ex: 'Em relação ao nosso objetivo de ROI, estamos no caminho certo, conforme o Quick Win da semana passada').",
+      "**Use sua Reserva de Capital**: Mantenha uma reserva financeira que lhe dê a coragem de 'demitir' clientes ruins sem medo."
+    ],
+    "conclusionMessage": "Clientes difíceis são geralmente clientes que não confiam em você ou que não foram devidamente qualificados. A solução é voltar ao diagnóstico e à segurança.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal causa de um cliente se tornar 'difícil'?",
+        "options": [
+          { "value": "a", "label": "O cliente é inerentemente mau." },
+          { "value": "b", "label": "Falta de clareza no escopo, falta de confiança ou falha em falar com o Economic Buyer." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O consultor é muito bom." }
+        ],
+        "explanation": "O problema é quase sempre estrutural, não pessoal. Corrija o processo de vendas.",
+        "hint": "Processo falho.",
+        "correctAnswer": "b",
+        "bookExample": "Clientes difíceis são um sintoma de um diagnóstico fraco."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Demissão de Cliente' (Firing a Client)?",
+        "options": [
+          { "value": "a", "label": "Apenas terminar o projeto." },
+          { "value": "b", "label": "Terminar o relacionamento com um cliente que consistentemente destrói sua lucratividade, paz de espírito ou reputação." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Ignorar o cliente." }
+        ],
+        "explanation": "O consultor de milhões tem a coragem de proteger seu tempo e sua marca. Clientes ruins consomem recursos que poderiam ser usados em clientes bons.",
+        "hint": "Proteção de recursos.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões tem a coragem de dizer 'não' a clientes que não se encaixam."
+      },
+      {
+        "id": "3",
+        "question": "Como você lida com um cliente que atrasa o pagamento?",
+        "options": [
+          { "value": "a", "label": "Continua o trabalho e espera." },
+          { "value": "b", "label": "Para o trabalho imediatamente e comunica ao Economic Buyer que o projeto está suspenso até que o pagamento seja recebido." },
+          { "value": "c", "label": "Pede desculpas." },
+          { "value": "d", "label": "Dá um desconto." }
+        ],
+        "explanation": "O pagamento é um teste de compromisso. Você deve ser firme e profissional. O trabalho para quando o pagamento para.",
+        "hint": "Firmeza profissional.",
+        "correctAnswer": "b",
+        "bookExample": "Você não é um banco. Seu trabalho é ser um consultor."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Microgerenciamento' (Micromanagement) e como você o resolve?",
+        "options": [
+          { "value": "a", "label": "É um sinal de que o cliente está feliz." },
+          { "value": "b", "label": "É um sinal de falta de confiança. Resolva reafirmando o VBF e o foco no resultado, não nas atividades." },
+          { "value": "c", "label": "É um sinal de que o cliente quer mais trabalho." },
+          { "value": "d", "label": "É um sinal de que o preço é muito baixo." }
+        ],
+        "explanation": "O microgerenciamento é a tentativa do cliente de controlar o tempo, pois ele não confia no resultado.",
+        "hint": "Foco no resultado.",
+        "correctAnswer": "b",
+        "bookExample": "O microgerenciamento é o inimigo do VBF."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel da 'Documentação' na gestão de clientes difíceis?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Documentar o escopo, o VBF e as comunicações é crucial para se proteger contra o 'Scope Creep' e disputas." },
+          { "value": "c", "label": "Apenas para fins de marketing." },
+          { "value": "d", "label": "Apenas para o cliente." }
+        ],
+        "explanation": "A clareza escrita é sua melhor defesa contra mal-entendidos.",
+        "hint": "Defesa legal e de escopo.",
+        "correctAnswer": "b",
+        "bookExample": "Se não está por escrito, não existe."
+      },
+      {
+        "id": "6",
+        "question": "Como você lida com um cliente que tenta 'mudar o escopo' após o contrato?",
+        "options": [
+          { "value": "a", "label": "Faz o trabalho extra de graça." },
+          { "value": "b", "label": "Reconhece a nova necessidade, reafirma o escopo fixo e apresenta um novo VBF para o trabalho adicional." },
+          { "value": "c", "label": "Ignora o pedido." },
+          { "value": "d", "label": "Pede desculpas." }
+        ],
+        "explanation": "Mantenha a disciplina do VBF. O Scope Creep é uma nova oportunidade de venda.",
+        "hint": "Nova venda.",
+        "correctAnswer": "b",
+        "bookExample": "O Scope Creep é o inimigo da lucratividade. Trate-o como uma nova oportunidade de negócio."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Gestão de Expectativas'?",
+        "options": [
+          { "value": "a", "label": "Prometer mais do que você pode entregar." },
+          { "value": "b", "label": "Garantir que o cliente entenda exatamente o que será entregue (escopo) e o que não será entregue, desde o início." },
+          { "value": "c", "label": "Focar apenas no resultado." },
+          { "value": "d", "label": "Focar apenas no tempo." }
+        ],
+        "explanation": "Expectativas não gerenciadas são a principal causa de insatisfação do cliente.",
+        "hint": "Clareza de escopo.",
+        "correctAnswer": "b",
+        "bookExample": "A insatisfação é a diferença entre a expectativa e a realidade."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Coragem' na gestão de clientes difíceis?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Ter a coragem de confrontar o cliente sobre o comportamento destrutivo e de demitir clientes ruins." },
+          { "value": "c", "label": "Ter a coragem de dar descontos." },
+          { "value": "d", "label": "Ter a coragem de trabalhar de graça." }
+        ],
+        "explanation": "A coragem protege sua marca e sua lucratividade.",
+        "hint": "Proteção de marca.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não tem medo de perder um cliente ruim."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "A Alavancagem e a Escala",
+    "teaser": "📈 Seu limite é seu tempo. Quebre o teto de vidro da receita usando **IP e Subcontratação** para vender 100x mais conhecimento.",
+    "level1": "Alavancagem é a chave para quebrar o teto de vidro da receita. Se você só vende seu tempo, você está limitado. A alavancagem permite que você venda seu conhecimento para centenas de pessoas simultaneamente ou use o tempo de outros de forma estratégica.",
+    "level2": "Pense em como transformar seu conhecimento em produtos (IP) que podem ser vendidos sem sua presença física (cursos, livros, ferramentas). A **Subcontratação Estratégica** de tarefas de baixa alavancagem libera seu tempo para as HLAs (criação de IP, prospecção).",
+    "level3": "Ruim: Fazer tudo sozinho e apenas vender consultoria 1-a-1. Bom: Vender um workshop de 2 dias (baseado no seu IP) para 20 pessoas por R$ 100.000 em vez de 1 projeto de consultoria de R$ 50.000.",
+    "recapitulation": [
+      "**Alavancagem** é a capacidade de gerar receita que **não depende** do seu tempo direto (IP, produtos, subcontratação).",
+      "Forma mais comum de Alavancagem: **Criação e Venda de IP** em formatos escaláveis (cursos, modelos).",
+      "**Subcontratação Estratégica** libera seu tempo das tarefas de baixa alavancagem (R$ 10/hora).",
+      "Uma **Marca Pessoal** forte permite que você cobre taxas premium por produtos de IP.",
+      "**Renda Passiva** (Passive Income) = Receita gerada pelo IP que não requer seu tempo ativo.",
+      "Risco de focar apenas em consultoria 1-a-1: Você está **limitado** pelo seu tempo.",
+      "**Joint Venture** (Parceria Estratégica) alavanca o alcance e a credibilidade de outros.",
+      "A **Tecnologia** é a ferramenta para automatizar tarefas de baixa alavancagem e entregar IP em escala."
+    ],
+    "practicalChecklist": [
+      "**Avalie 20% do seu Tempo**: Liste as tarefas que você fez na última semana e delegue ou automatize as 20% que têm o menor ROI (baixa alavancagem).",
+      "**Crie seu Primeiro Produto IP**: Pegue um modelo ou workshop de sucesso e o grave em vídeo/escreva em e-book para vender por R$ 500-R$ 2.000 (comece a gerar renda passiva).",
+      "**Identifique um Subcontratado Estratégico**: Contrate um assistente virtual (VA) ou freelancer para gerenciar sua caixa de entrada, redes sociais ou contabilidade (R$ 10/hora).",
+      "**Considere a Mentoria em Grupo**: Venda o seu tempo de forma alavancada, oferecendo coaching/mentoria para 10-20 pessoas em grupo, em vez de 1-a-1.",
+      "**Crie um Funil de IP**: Use seu produto de baixo valor (e-book) como ímã para gerar leads qualificados para sua consultoria de alto valor."
+    ],
+    "conclusionMessage": "A escala é alcançada através da alavancagem do seu tempo, principalmente através da criação e venda de Propriedade Intelectual (IP) e da subcontratação estratégica.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é 'Alavancagem' (Leverage) na consultoria?",
+        "options": [
+          { "value": "a", "label": "Trabalhar mais horas." },
+          { "value": "b", "label": "A capacidade de gerar receita que não depende diretamente do seu tempo (IP, produtos, subcontratação)." },
+          { "value": "c", "label": "Cobrar preços baixos." },
+          { "value": "d", "label": "Ter muitos clientes pequenos." }
+        ],
+        "explanation": "A alavancagem é o que permite o crescimento exponencial.",
+        "hint": "Receita desvinculada do tempo.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não vende tempo; ele vende alavancagem."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a forma mais comum de alavancagem para o consultor?",
+        "options": [
+          { "value": "a", "label": "Contratar muitos funcionários." },
+          { "value": "b", "label": "Criação e venda de Propriedade Intelectual (IP) em formatos escaláveis (cursos, livros, modelos)." },
+          { "value": "c", "label": "Fazer parcerias." },
+          { "value": "d", "label": "Fazer cold calls." }
+        ],
+        "explanation": "O IP é o seu ativo mais escalável. Ele permite que você venda seu conhecimento repetidamente.",
+        "hint": "Ativo escalável.",
+        "correctAnswer": "b",
+        "bookExample": "O IP é o seu bilhete para a liberdade financeira."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Subcontratação Estratégica'?",
+        "options": [
+          { "value": "a", "label": "Contratar consultores mais caros." },
+          { "value": "b", "label": "Delegar tarefas de baixa alavancagem (ex: design, pesquisa, administração) para liberar seu tempo para HLAs." },
+          { "value": "c", "label": "Subcontratar a consultoria principal." },
+          { "value": "d", "label": "Fazer todo o trabalho sozinho." }
+        ],
+        "explanation": "Você deve subcontratar tudo o que não é uma Atividade de Alta Alavancagem.",
+        "hint": "Foco no único.",
+        "correctAnswer": "b",
+        "bookExample": "Se você está fazendo tarefas de R$ 10 por hora, você está perdendo a oportunidade de fazer tarefas de R$ 1.000 por hora."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel da 'Marca Pessoal' na alavancagem?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Uma marca forte permite que você venda produtos de IP a taxas premium, pois o valor está ligado ao seu nome." },
+          { "value": "c", "label": "A marca pessoal é apenas para consultoria individual." },
+          { "value": "d", "label": "A marca pessoal é apenas para clientes pequenos." }
+        ],
+        "explanation": "O IP é vendido com base na sua credibilidade. A marca pessoal é a credibilidade.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O IP é o produto. Sua marca é o marketing."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Passive Income' (Renda Passiva) na consultoria?",
+        "options": [
+          { "value": "a", "label": "Dinheiro ganho em projetos de consultoria." },
+          { "value": "b", "label": "Receita gerada por IP (ex: vendas de livros, cursos online, licenciamento) que não requer seu tempo ativo." },
+          { "value": "c", "label": "Dinheiro ganho em palestras." },
+          { "value": "d", "label": "Dinheiro ganho em networking." }
+        ],
+        "explanation": "A renda passiva é a chave para a liberdade financeira e a escala.",
+        "hint": "Dinheiro sem tempo.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões busca a liberdade de não ter que trabalhar para ganhar dinheiro."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de focar apenas na 'Consultoria Individual' (One-to-One)?",
+        "options": [
+          { "value": "a", "label": "Você ganha muito dinheiro." },
+          { "value": "b", "label": "Você está limitado pelo seu tempo e não pode escalar sua receita." },
+          { "value": "c", "label": "Você tem mais tempo livre." },
+          { "value": "d", "label": "Você tem menos clientes." }
+        ],
+        "explanation": "A consultoria individual é a base, mas a alavancagem é a escala.",
+        "hint": "Limite de tempo.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões usa a consultoria individual para criar o IP que ele pode vender em escala."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Joint Venture' (Parceria Estratégica)?",
+        "options": [
+          { "value": "a", "label": "Contratar um funcionário." },
+          { "value": "b", "label": "Uma parceria com outra empresa ou consultor para alcançar um mercado maior ou oferecer um serviço complementar." },
+          { "value": "c", "label": "Uma fusão de empresas." },
+          { "value": "d", "label": "Uma competição." }
+        ],
+        "explanation": "Parcerias estratégicas são uma forma de alavancar o alcance e a credibilidade de outros.",
+        "hint": "Alcance mútuo.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não tenta fazer tudo sozinho; ele alavanca os recursos de outros."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Tecnologia' na alavancagem?",
+        "options": [
+          { "value": "a", "label": "Apenas para comunicação." },
+          { "value": "b", "label": "Automatizar tarefas de baixa alavancagem e entregar IP em escala (ex: plataformas de cursos, CRM)." },
+          { "value": "c", "label": "É irrelevante." },
+          { "value": "d", "label": "Apenas para contabilidade." }
+        ],
+        "explanation": "A tecnologia é a ferramenta que permite a escala do IP.",
+        "hint": "Automação e Escala.",
+        "correctAnswer": "b",
+        "bookExample": "A tecnologia é o seu assistente de vendas 24/7."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "O Marketing de Atração e a Marca",
+    "teaser": "🧲 Seja o ímã, não o caçador. Use a **Liderança de Pensamento** e a **Consistência** para que os Economic Buyers venham até você.",
+    "level1": "O marketing de atração é o oposto do marketing de perseguição. Você gasta tempo criando conteúdo (IP) que atrai o Economic Buyer que já está procurando a sua solução. Sua marca pessoal deve ser sinônimo da solução para um problema específico.",
+    "level2": "A **Liderança de Pensamento** (Thought Leadership) é o que justifica o VBF. Você não está apenas executando; você está definindo o futuro do seu nicho. A consistência na publicação de IP de alta qualidade constrói a confiança necessária para que o cliente pague taxas premium.",
+    "level3": "Ruim: Postar aleatoriamente e falar sobre muitos assuntos. Bom: Publicar semanalmente um insight provocativo sobre um problema específico, criando uma 'âncora' mental na mente do cliente.",
+    "recapitulation": [
+      "**Marketing de Atração** usa o IP para fazer os clientes virem até você (Ímã).",
+      "A **Consistência** (Frequência e Tom) constrói a credibilidade e o reconhecimento.",
+      "**Liderança de Pensamento** posiciona você como uma autoridade que define tendências, justificando o VBF.",
+      "A mensagem de marketing deve ser **clara e concisa** (clareza vende; confusão mata a venda).",
+      "Crie um sistema proativo de **Marketing de Referência** (peça ativamente por introduções quentes).",
+      "Evite **Generalidades**: O dinheiro está nos nichos. Seja o especialista em algo.",
+      "**Marketing de Conteúdo** (IP distribuído) é o seu vendedor 24/7.",
+      "A **Autenticidade** na marca constrói confiança e atrai clientes alinhados com seus valores."
+    ],
+    "practicalChecklist": [
+      "**Defina seu Nicho de 1 Frase**: Ex: 'Eu ajudo CEOs de SaaS a reduzir o Churn de clientes em 30% em 6 meses.'",
+      "**Crie um Calendário de Conteúdo**: Planeje 12 semanas de conteúdo focado no problema do seu nicho (ex: 1 artigo por semana).",
+      "**Solicite Depoimentos/Referências Ativamente**: Após cada 'Quick Win', peça ao cliente para gravar um vídeo ou escrever 3 linhas sobre o resultado de negócios (ROI).",
+      "**Faça Conteúdo 'Provocativo'**: Não concorde com o senso comum. Desafie a forma como o mercado pensa sobre o problema (Isso é Liderança de Pensamento).",
+      "**Use Múltiplos Canais**: Publique seu IP em 2-3 plataformas onde o Economic Buyer está (Ex: LinkedIn, Podcast, Newsletter por Email)."
+    ],
+    "conclusionMessage": "O marketing de atração usa sua IP e sua marca para fazer com que os clientes venham até você, eliminando a necessidade de prospecção fria.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é 'Marketing de Atração'?",
+        "options": [
+          { "value": "a", "label": "Fazer anúncios pagos." },
+          { "value": "b", "label": "Usar IP e visibilidade para fazer com que os clientes venham até você, em vez de você ir até eles." },
+          { "value": "c", "label": "Fazer ligações frias." },
+          { "value": "d", "label": "Participar de feiras de negócios." }
+        ],
+        "explanation": "O marketing de atração é a base da prática de milhões, pois atrai clientes que já valorizam sua expertise.",
+        "hint": "Ímã.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não persegue clientes; ele os atrai."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o papel da 'Consistência' no marketing de atração?",
+        "options": [
+          { "value": "a", "label": "Publicar uma vez por ano." },
+          { "value": "b", "label": "Manter uma presença constante e previsível (frequência) para construir confiança e credibilidade ao longo do tempo." },
+          { "value": "c", "label": "Publicar apenas quando tiver tempo." },
+          { "value": "d", "label": "Focar apenas na qualidade, não na frequência." }
+        ],
+        "explanation": "A consistência é mais importante do que a perfeição. A frequência garante que você seja lembrado.",
+        "hint": "Frequência.",
+        "correctAnswer": "b",
+        "bookExample": "A visibilidade é um músculo que precisa ser exercitado regularmente."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Thought Leadership' (Liderança de Pensamento)?",
+        "options": [
+          { "value": "a", "label": "Ser o mais inteligente da sala." },
+          { "value": "b", "label": "Posicionar-se como uma autoridade reconhecida em seu nicho, através da criação de IP original e provocativo." },
+          { "value": "c", "label": "Fazer o que todos os outros estão fazendo." },
+          { "value": "d", "label": "Ter um título de CEO." }
+        ],
+        "explanation": "A liderança de pensamento é o que justifica o VBF. Você não está apenas executando; você está definindo o futuro do seu nicho.",
+        "hint": "Autoridade e IP.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não segue tendências; ele as cria."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel da 'Simplicidade' na sua mensagem de marketing?",
+        "options": [
+          { "value": "a", "label": "A mensagem deve ser complexa." },
+          { "value": "b", "label": "A mensagem deve ser clara e concisa, focada no problema que você resolve e no resultado que você entrega." },
+          { "value": "c", "label": "A simplicidade é irrelevante." },
+          { "value": "d", "label": "A mensagem deve ser longa." }
+        ],
+        "explanation": "A confusão mata a venda. A clareza atrai o cliente certo.",
+        "hint": "Clareza vende.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não consegue explicar o que faz em uma frase, você não sabe o que faz."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Marketing de Referência' (Referral Marketing)?",
+        "options": [
+          { "value": "a", "label": "Pagar por referências." },
+          { "value": "b", "label": "Criar um sistema proativo para solicitar e receber introduções quentes de clientes satisfeitos e contatos estratégicos." },
+          { "value": "c", "label": "Esperar que as referências cheguem." },
+          { "value": "d", "label": "Fazer cold calls." }
+        ],
+        "explanation": "As referências são a fonte de leads mais qualificada. Você deve ter um sistema para solicitá-las.",
+        "hint": "Sistema proativo.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não espera por referências; ele as exige."
+      },
+      {
+        "id": "6",
+        "question": "Por que você deve evitar 'Generalidades' em seu marketing?",
+        "options": [
+          { "value": "a", "label": "Para atrair mais clientes." },
+          { "value": "b", "label": "A generalidade posiciona você como um commodity. O foco deve ser em um nicho específico e um problema específico." },
+          { "value": "c", "label": "A generalidade é mais fácil." },
+          { "value": "d", "label": "A generalidade é mais barata." }
+        ],
+        "explanation": "O dinheiro está nos nichos. Seja o especialista em algo, não o generalista em tudo.",
+        "hint": "Nicho.",
+        "correctAnswer": "b",
+        "bookExample": "Se você tenta ser tudo para todos, você não é nada para ninguém."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Marketing de Conteúdo' (Content Marketing)?",
+        "options": [
+          { "value": "a", "label": "Fazer anúncios pagos." },
+          { "value": "b", "label": "Criar e distribuir IP (artigos, vídeos, podcasts) para educar o mercado e atrair clientes de forma orgânica." },
+          { "value": "c", "label": "Fazer cold calls." },
+          { "value": "d", "label": "Participar de feiras de negócios." }
+        ],
+        "explanation": "O marketing de conteúdo é a espinha dorsal do marketing de atração.",
+        "hint": "IP distribuído.",
+        "correctAnswer": "b",
+        "bookExample": "O conteúdo é o seu vendedor 24/7."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Autenticidade' na marca pessoal?",
+        "options": [
+          { "value": "a", "label": "Fingir ser outra pessoa." },
+          { "value": "b", "label": "Ser genuíno e transparente em sua comunicação, o que constrói confiança e atrai clientes que se alinham com seus valores." },
+          { "value": "c", "label": "Ser formal e distante." },
+          { "value": "d", "label": "Ser o mais inteligente da sala." }
+        ],
+        "explanation": "A autenticidade é a base da confiança. As pessoas compram de quem elas gostam e confiam.",
+        "hint": "Confiança.",
+        "correctAnswer": "b",
+        "bookExample": "Sua marca pessoal é a promessa que você faz ao mercado. Seja fiel a ela."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "A Gestão Financeira e a Lucratividade",
+    "teaser": "💸 Ganhar dinheiro é fácil. Reter é a arte. Sua meta: **Margem de Lucro acima de 50%** e liberdade de capital para dizer 'não'.",
+    "level1": "O consultor de milhões não apenas ganha muito dinheiro; ele retém muito dinheiro. A gestão financeira é sobre disciplina, focada em maximizar a receita de alto valor (VBF) e minimizar os custos de baixa alavancagem.",
+    "level2": "Sua meta de margem de lucro deve ser alta (acima de 50%) porque você vende conhecimento (IP), que tem baixo custo de produção. Use o VBF para maximizar a receita e a subcontratação para minimizar os custos operacionais. A disciplina financeira garante a segurança para que você possa tomar decisões estratégicas.",
+    "level3": "Ruim: Gastar com escritório luxuoso e software desnecessário. Bom: Investir 10% da receita em IP (ativo) e manter uma reserva de capital de 6 meses (segurança).",
+    "recapitulation": [
+      "Meta de **Margem de Lucro**: **Acima de 50%** (VBF + IP garantem isso).",
+      "Maximize a receita de VBF e minimize os **Custos de Baixa Alavancagem** (despesas que não geram ROI).",
+      "**Investimento em IP** é um custo de **Alta Alavancagem** que gera receita futura.",
+      "**Taxas de Retenção e Pagamentos Antecipados** garantem um **Fluxo de Caixa Previsível**.",
+      "Use a **Sazonalidade** (baixa temporada) para criar IP e investir em marketing de atração (não para descansar).",
+      "Mantenha uma **Reserva de Capital** de 6-12 meses para ter a segurança de dizer 'não' a clientes ruins.",
+      "A **Contabilidade** deve ser uma ferramenta ativa para monitorar o ROI e a margem, não apenas para impostos.",
+      "O **Preço de Mercado** é o que o cliente está disposto a pagar pelo seu valor único, não o preço do concorrente."
+    ],
+    "practicalChecklist": [
+      "**Monitore a Margem Ativamente**: Calcule a margem de lucro de cada projeto VBF para garantir que ela esteja acima de 50%.",
+      "**Crie um Fundo de Reserva**: Separe 10% da receita de cada projeto para um 'Fundo de Reserva de Capital' (meta: 6 meses de despesas).",
+      "**Orçamento de IP**: Aloque um orçamento (tempo e dinheiro) mensal para a criação e produção de novo IP (é o seu investimento mais importante).",
+      "**Revise Custos de Baixa Alavancagem**: Faça uma auditoria anual para eliminar softwares, assinaturas ou despesas de escritório que não geram ROI.",
+      "**Implemente Pagamentos em Etapas**: Divida o VBF em 3-4 pagamentos (Ex: 40% inicial, 30% no meio, 30% no final) para garantir o fluxo de caixa previsível."
+    ],
+    "conclusionMessage": "A lucratividade é o resultado de uma gestão financeira disciplinada, focada em maximizar a receita de alto valor e minimizar os custos de baixa alavancagem.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a meta de 'Margem de Lucro' para o consultor de milhões?",
+        "options": [
+          { "value": "a", "label": "10%." },
+          { "value": "b", "label": "Acima de 50%." },
+          { "value": "c", "label": "20%." },
+          { "value": "d", "label": "O lucro não importa." }
+        ],
+        "explanation": "A alta margem é possível porque o VBF desvincula a receita do tempo, e o IP tem custo de produção baixo.",
+        "hint": "Alta margem.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não é um empregado; ele é um empresário. O lucro é a medida do sucesso."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Custo de Baixa Alavancagem'?",
+        "options": [
+          { "value": "a", "label": "Investimento em IP." },
+          { "value": "b", "label": "Despesas que não geram um retorno significativo (ex: escritório caro, viagens desnecessárias, software não utilizado)." },
+          { "value": "c", "label": "Salário do consultor." },
+          { "value": "d", "label": "Marketing de atração." }
+        ],
+        "explanation": "Minimize os custos de baixa alavancagem para maximizar a margem.",
+        "hint": "Despesas desnecessárias.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões é frugal com o que não importa e generoso com o que importa (IP e desenvolvimento pessoal)."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel do 'Investimento em IP' na gestão financeira?",
+        "options": [
+          { "value": "a", "label": "É um custo desnecessário." },
+          { "value": "b", "label": "É um investimento de alta alavancagem que gera receita passiva e escala futura." },
+          { "value": "c", "label": "É um custo de baixa alavancagem." },
+          { "value": "d", "label": "É irrelevante." }
+        ],
+        "explanation": "O IP é o seu ativo mais valioso. Você deve investir consistentemente em sua criação.",
+        "hint": "Ativo escalável.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões investe em ativos, não em passivos."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Fluxo de Caixa Previsível'?",
+        "options": [
+          { "value": "a", "label": "Receita que muda a cada mês." },
+          { "value": "b", "label": "Receita garantida por taxas de retenção e pagamentos antecipados, permitindo planejamento financeiro." },
+          { "value": "c", "label": "Receita de cold calls." },
+          { "value": "d", "label": "Receita de descontos." }
+        ],
+        "explanation": "A previsibilidade é a chave para a estabilidade e o crescimento. O VBF e as taxas de retenção garantem isso.",
+        "hint": "Estabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não vive de cheque em cheque; ele vive de previsibilidade."
+      },
+      {
+        "id": "5",
+        "question": "Como você lida com a 'Sazonalidade' na consultoria?",
+        "options": [
+          { "value": "a", "label": "Aceita a baixa receita em alguns meses." },
+          { "value": "b", "label": "Usa a baixa temporada para criar IP e focar em marketing de atração, garantindo receita futura." },
+          { "value": "c", "label": "Tira férias longas." },
+          { "value": "d", "label": "Reduz o preço." }
+        ],
+        "explanation": "A baixa temporada é o momento de investir em alavancagem, não de descansar.",
+        "hint": "Investimento em IP.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões transforma o tempo de inatividade em tempo de investimento."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Reserva de Capital' (Capital Reserve)?",
+        "options": [
+          { "value": "a", "label": "Dinheiro para gastar em luxos." },
+          { "value": "b", "label": "Manter uma reserva de 6 a 12 meses de despesas operacionais para garantir a estabilidade em tempos de baixa receita." },
+          { "value": "c", "label": "Dinheiro para dar descontos." },
+          { "value": "d", "label": "Dinheiro para pagar impostos." }
+        ],
+        "explanation": "A reserva de capital é a sua segurança. Ela permite que você diga 'não' a clientes ruins.",
+        "hint": "Segurança e Coragem.",
+        "correctAnswer": "b",
+        "bookExample": "A liberdade financeira é a capacidade de dizer 'não' sem medo."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Contabilidade' na prática de milhões?",
+        "options": [
+          { "value": "a", "label": "Apenas para pagar impostos." },
+          { "value": "b", "label": "Monitorar ativamente as métricas de lucratividade (margem, ROI) para tomar decisões estratégicas." },
+          { "value": "c", "label": "É irrelevante." },
+          { "value": "d", "label": "Apenas para o governo." }
+        ],
+        "explanation": "Você deve conhecer seus números. A contabilidade é uma ferramenta de gestão, não apenas de conformidade.",
+        "hint": "Gestão por números.",
+        "correctAnswer": "b",
+        "bookExample": "O que é medido é gerenciado."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Preço de Mercado' (Market Pricing)?",
+        "options": [
+          { "value": "a", "label": "O preço que todos os concorrentes cobram." },
+          { "value": "b", "label": "O preço que o mercado está disposto a pagar pelo seu valor único, que geralmente é muito maior do que o preço dos concorrentes." },
+          { "value": "c", "label": "O preço mais baixo." },
+          { "value": "d", "label": "O preço mais alto." }
+        ],
+        "explanation": "Seu preço é uma declaração de posicionamento. Se você é único, seu preço deve ser único.",
+        "hint": "Valor único.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não se preocupa com o preço dos concorrentes; ele se preocupa com o valor que ele entrega."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "A Venda de Produtos de IP",
+    "teaser": "🎁 Transforme seu cérebro em prateleiras. Venda seu conhecimento empacotado para **escalar sua receita** sem vender tempo.",
+    "level1": "A venda de produtos de IP (cursos, modelos, ferramentas) é a forma mais eficaz de alavancar seu conhecimento e gerar receita passiva. Você vende o acesso ao conhecimento em um formato empacotado e escalável, desvinculado do seu tempo ativo.",
+    "level2": "O produto de IP deve resolver um problema específico e ser precificado com base no valor que entrega (VBF), não no custo de produção. O produto de IP de baixo custo (livros, webinars) serve como um 'funil' para atrair e qualificar leads para a consultoria de alto valor.",
+    "level3": "Ruim: Vender um curso a R$ 97. Bom: Vender um workshop de 2 dias por R$ 5.000 (Produto de Alto Valor) ou um e-book de R$ 97 que leva o cliente ao VBF de R$ 50.000.",
+    "recapitulation": [
+      "Principal vantagem: Gera **Receita Passiva** e alavanca o conhecimento sem depender do tempo ativo.",
+      "O **Funil de IP** usa produtos de baixo custo para atrair e qualificar leads para a consultoria de alto valor.",
+      "A **Qualidade do IP** deve ser alta, pois é uma representação direta da sua marca e credibilidade.",
+      "**Licenciamento de Metodologia** gera receita passiva (royalties pelo uso da sua IP).",
+      "Precificação de IP: Baseada no **Valor (VBF)** que o produto entrega, não no custo/tempo de produção.",
+      "Foque em **Produtos de Alto Valor** (preço premium) para maximizar a receita por transação.",
+      "A **Automação** da entrega, marketing e pagamento do IP é crucial para a verdadeira receita passiva.",
+      "Use o **Teste de Mercado** (versão beta) para validar o preço e o interesse antes do lançamento em massa."
+    ],
+    "practicalChecklist": [
+      "**Identifique 3 Produtos de IP**: Escolha 3 problemas diferentes que você resolve e crie um produto IP para cada um (Ex: E-book, Modelo de Planilha, Mini-Curso).",
+      "**Crie um 'Tripwire' (IP de Baixo Custo)**: Crie um IP de entrada (ex: um e-book por R$ 49) para atrair leads e colocá-los no seu funil de e-mail.",
+      "**Precifique com VBF**: Calcule o ganho potencial do cliente e precifique o produto de IP como uma pequena fração desse ganho (Ex: um curso que economiza R$ 10k deve custar R$ 1k-R$ 2k).",
+      "**Automatize a Venda**: Use plataformas (Hotmart, Udemy, etc.) para automatizar a venda e a entrega do IP (isto é renda passiva).",
+      "**Use o IP como Qualificador**: O cliente que compra e usa seu IP é um lead de consultoria altamente qualificado."
+    ],
+    "conclusionMessage": "Produtos de IP (cursos, workshops, ferramentas) são a forma mais eficaz de alavancar seu conhecimento e gerar receita passiva, escalando seu impacto.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal vantagem da venda de produtos de IP?",
+        "options": [
+          { "value": "a", "label": "Garantir que o cliente pague menos." },
+          { "value": "b", "label": "Gerar receita passiva e alavancar o conhecimento sem depender do seu tempo ativo." },
+          { "value": "c", "label": "Evitar o risco." },
+          { "value": "d", "label": "Trabalhar menos." }
+        ],
+        "explanation": "A venda de IP é a chave para a escala e a liberdade financeira.",
+        "hint": "Escalabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões vende o mesmo conhecimento repetidamente."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Funil de IP' (IP Funnel)?",
+        "options": [
+          { "value": "a", "label": "Um funil de vendas tradicional." },
+          { "value": "b", "label": "Usar produtos de IP de baixo custo (ex: livros, webinars) para atrair e qualificar leads para a consultoria de alto valor." },
+          { "value": "c", "label": "Um funil de marketing de atração." },
+          { "value": "d", "label": "Um funil de vendas complexo." }
+        ],
+        "explanation": "O IP de baixo custo é o seu 'teste de compromisso' para o cliente.",
+        "hint": "Qualificação de leads.",
+        "correctAnswer": "b",
+        "bookExample": "O livro é o seu cartão de visita mais barato e mais eficaz."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Qualidade' na criação de produtos de IP?",
+        "options": [
+          { "value": "a", "label": "A qualidade é irrelevante." },
+          { "value": "b", "label": "A qualidade deve ser alta, pois o produto de IP é uma representação da sua marca e credibilidade." },
+          { "value": "c", "label": "A qualidade deve ser baixa para que o cliente compre a consultoria." },
+          { "value": "d", "label": "A qualidade é apenas para o cliente." }
+        ],
+        "explanation": "O produto de IP é o seu embaixador. Ele deve ser excelente.",
+        "hint": "Embaixador da marca.",
+        "correctAnswer": "b",
+        "bookExample": "Se o seu produto de IP é ruim, o cliente assumirá que sua consultoria também é."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Licenciamento de Metodologia'?",
+        "options": [
+          { "value": "a", "label": "Vender sua metodologia para sempre." },
+          { "value": "b", "label": "Permitir que outras empresas ou consultores usem sua metodologia proprietária mediante o pagamento de uma taxa (royalties)." },
+          { "value": "c", "label": "Dar sua metodologia de graça." },
+          { "value": "d", "label": "Usar a metodologia de outra pessoa." }
+        ],
+        "explanation": "O licenciamento é uma forma de alavancagem que gera receita passiva e escala seu impacto.",
+        "hint": "Receita passiva.",
+        "correctAnswer": "b",
+        "bookExample": "O licenciamento é a chave para a liberdade financeira na consultoria."
+      },
+      {
+        "id": "5",
+        "question": "Como você precifica um produto de IP?",
+        "options": [
+          { "value": "a", "label": "Baseado no custo de produção." },
+          { "value": "b", "label": "Baseado no valor que o produto entrega ao cliente (VBF), não no tempo que levou para criá-lo." },
+          { "value": "c", "label": "Baseado no preço do concorrente." },
+          { "value": "d", "label": "Baseado no número de páginas." }
+        ],
+        "explanation": "O preço deve ser uma fração do ROI que o produto proporciona.",
+        "hint": "VBF.",
+        "correctAnswer": "b",
+        "bookExample": "O preço do seu produto de IP é uma declaração de valor."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Produto de Alto Valor' (High-Value Product)?",
+        "options": [
+          { "value": "a", "label": "Um produto barato." },
+          { "value": "b", "label": "Um produto de IP que resolve um problema crítico e é vendido a um preço premium (ex: um workshop de 2 dias por R$ 5.000)." },
+          { "value": "c", "label": "Um produto que não resolve um problema." },
+          { "value": "d", "label": "Um produto que é vendido em massa." }
+        ],
+        "explanation": "O consultor de milhões foca em produtos de alto valor para maximizar a receita por transação.",
+        "hint": "Preço premium.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não vende produtos de R$ 10; ele vende produtos de R$ 1.000 ou mais."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Automação' na venda de IP?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Automatizar a entrega, o marketing e o pagamento do produto de IP para garantir a escala sem intervenção manual." },
+          { "value": "c", "label": "Apenas para o cliente." },
+          { "value": "d", "label": "Apenas para o consultor." }
+        ],
+        "explanation": "A automação é o que transforma o IP em renda passiva real.",
+        "hint": "Renda passiva.",
+        "correctAnswer": "b",
+        "bookExample": "Se você tem que tocar no produto para vendê-lo, ele não é um produto de IP escalável."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Teste de Mercado' (Market Testing) para IP?",
+        "options": [
+          { "value": "a", "label": "Lançar o produto sem feedback." },
+          { "value": "b", "label": "Lançar uma versão beta do produto para um pequeno grupo de clientes para obter feedback e validar o preço antes do lançamento em massa." },
+          { "value": "c", "label": "Vender o produto de graça." },
+          { "value": "d", "label": "Apenas perguntar aos amigos." }
+        ],
+        "explanation": "O teste de mercado minimiza o risco de lançar um produto que ninguém quer.",
+        "hint": "Validação.",
+        "correctAnswer": "b",
+        "bookExample": "Não gaste 6 meses construindo um produto que ninguém quer. Teste o mercado primeiro."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "A Gestão da Marca Pessoal e Reputação",
+    "teaser": "🛡️ Sua reputação é o seu VBF mais valioso. Use a **Consistência** e a **Liderança de Pensamento** para ser o único nome na mente do cliente.",
+    "level1": "Sua marca pessoal é a promessa que você faz ao mercado e é o seu ativo mais valioso. Ela é construída através da sua visibilidade, credibilidade e da consistência da sua mensagem. Uma marca forte permite que você dite seus termos e cobre taxas premium.",
+    "level2": "Seja intencional sobre o que você publica e quais resultados você destaca. O objetivo é que o mercado veja você como a única solução óbvia (o especialista indiscutível) para o problema que você resolve. A consistência é mais importante do que a perfeição.",
+    "level3": "Ruim: Mudar de nicho a cada 6 meses e ignorar feedback. Bom: Manter o foco em 'Otimização de Supply Chain' por anos, publicando IP consistente e respondendo a críticas de forma estratégica.",
+    "recapitulation": [
+      "**Marca Pessoal** é a percepção que o mercado tem de você (o que dizem quando você não está na sala).",
+      "A **Consistência** (mensagem, tom, nicho) é o alicerce da credibilidade.",
+      "**Gestão de Reputação**: Monitore e responda estrategicamente a críticas/feedback negativo.",
+      "**Depoimentos e Provas Sociais** são cruciais para validar sua expertise e justificar o VBF.",
+      "**Posicionamento de Especialista** justifica taxas premium (Nicho > Generalista).",
+      "A **Crítica** deve ser respondida de forma profissional e estratégica, reafirmando seus valores (não ataque o crítico).",
+      "Use uma **Plataforma de Visibilidade** (múltiplos canais) para distribuir seu IP e alcançar o Economic Buyer.",
+      "A **Paixão** pelo seu nicho e pelo resultado do cliente é um poderoso fator de atração e diferenciação."
+    ],
+    "practicalChecklist": [
+      "**Audite sua Marca**: Peça a 3-5 pessoas-alvo (Economic Buyers) para descreverem o que você faz em 1 frase (Se não for claro, reformule).",
+      "**Crie um 'Dossiê de Prova Social'**: Mantenha uma pasta digital com todos os depoimentos de ROI (texto e vídeo) e use-os em suas propostas e marketing.",
+      "**Cumpra a Consistência**: Mantenha a frequência semanal/mensal de publicação de IP, mesmo que a qualidade não seja 10/10 no início.",
+      "**Monitore e Responda**: Configure alertas de busca para seu nome e empresa. Responda a críticas com profissionalismo, focando no resultado e no aprendizado.",
+      "**Crie Âncoras Mentais**: Use histórias ou analogias repetitivas em seu IP que sejam facilmente ligadas ao seu nome e ao problema que você resolve."
+    ],
+    "conclusionMessage": "Sua marca pessoal é o seu ativo mais valioso. Ela deve ser gerenciada ativamente para garantir que você seja percebido como o especialista indiscutível em seu nicho.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é 'Marca Pessoal' (Personal Brand)?",
+        "options": [
+          { "value": "a", "label": "Seu logotipo." },
+          { "value": "b", "label": "A percepção que o mercado tem de você, baseada em sua expertise, IP e resultados." },
+          { "value": "c", "label": "Seu currículo." },
+          { "value": "d", "label": "Seu preço." }
+        ],
+        "explanation": "Sua marca é o que as pessoas dizem sobre você quando você não está na sala.",
+        "hint": "Percepção.",
+        "correctAnswer": "b",
+        "bookExample": "Sua marca pessoal é a promessa que você faz ao mercado."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o papel da 'Consistência' na marca pessoal?",
+        "options": [
+          { "value": "a", "label": "Mudar de nicho frequentemente." },
+          { "value": "b", "label": "Manter uma mensagem, tom e qualidade consistentes em todas as plataformas para construir confiança e reconhecimento." },
+          { "value": "c", "label": "Ser imprevisível." },
+          { "value": "d", "label": "Focar apenas na qualidade, não na consistência." }
+        ],
+        "explanation": "A consistência é a chave para a credibilidade. O cliente deve saber o que esperar de você.",
+        "hint": "Previsibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "A marca é construída em repetição e consistência."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Gestão de Reputação'?",
+        "options": [
+          { "value": "a", "label": "Ignorar críticas." },
+          { "value": "b", "label": "Monitorar ativamente o que é dito sobre você e sua marca, e responder estrategicamente a críticas ou feedback negativo." },
+          { "value": "c", "label": "Apenas pedir depoimentos." },
+          { "value": "d", "label": "Focar apenas no positivo." }
+        ],
+        "explanation": "A reputação é frágil. Você deve protegê-la ativamente.",
+        "hint": "Proteção de marca.",
+        "correctAnswer": "b",
+        "bookExample": "Uma reputação leva 20 anos para ser construída e 5 minutos para ser destruída."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel dos 'Depoimentos' (Testimonials)?",
+        "options": [
+          { "value": "a", "label": "Apenas para o site." },
+          { "value": "b", "label": "Provas sociais que validam sua expertise e resultados, e que devem ser solicitadas ativamente após cada projeto bem-sucedido." },
+          { "value": "c", "label": "São irrelevantes." },
+          { "value": "d", "label": "Apenas para clientes pequenos." }
+        ],
+        "explanation": "Depoimentos são a prova de que você entrega o que promete. Eles são cruciais para a credibilidade.",
+        "hint": "Prova social.",
+        "correctAnswer": "b",
+        "bookExample": "O que você diz sobre si mesmo é marketing. O que os outros dizem sobre você é prova."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Posicionamento de Especialista'?",
+        "options": [
+          { "value": "a", "label": "Ser um generalista." },
+          { "value": "b", "label": "Focar em um nicho específico e um problema específico para se tornar o especialista indiscutível, justificando taxas premium." },
+          { "value": "c", "label": "Cobrar preços baixos." },
+          { "value": "d", "label": "Trabalhar em muitas áreas." }
+        ],
+        "explanation": "O especialista é pago por seu conhecimento único. O generalista é pago por seu tempo.",
+        "hint": "Nicho.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro está nos nichos. Seja o especialista em algo, não o generalista em tudo."
+      },
+      {
+        "id": "6",
+        "question": "Como você lida com a 'Crítica' (Criticism)?",
+        "options": [
+          { "value": "a", "label": "Ignora e espera que desapareça." },
+          { "value": "b", "label": "Responde de forma profissional e estratégica, usando a crítica como uma oportunidade para reafirmar seus valores e expertise." },
+          { "value": "c", "label": "Ataca o crítico." },
+          { "value": "d", "label": "Pede desculpas." }
+        ],
+        "explanation": "A crítica é inevitável. Sua resposta define sua marca.",
+        "hint": "Resposta estratégica.",
+        "correctAnswer": "b",
+        "bookExample": "A forma como você lida com a adversidade define sua marca."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Plataforma de Visibilidade'?",
+        "options": [
+          { "value": "a", "label": "Apenas o seu site." },
+          { "value": "b", "label": "O conjunto de canais (livros, palestras, mídias sociais, artigos) que você usa para distribuir seu IP e alcançar o Economic Buyer." },
+          { "value": "c", "label": "Apenas as mídias sociais." },
+          { "value": "d", "label": "Apenas as palestras." }
+        ],
+        "explanation": "Você deve ter múltiplos canais para garantir que sua mensagem alcance o público certo.",
+        "hint": "Múltiplos canais.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não coloca todos os ovos na mesma cesta de marketing."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Paixão' na marca pessoal?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A paixão pelo seu nicho e pelo resultado do cliente é contagiante e atrai clientes de alto valor." },
+          { "value": "c", "label": "A paixão é apenas para hobbies." },
+          { "value": "d", "label": "A paixão é um sinal de fraqueza." }
+        ],
+        "explanation": "As pessoas compram de quem é apaixonado pelo que faz.",
+        "hint": "Energia e Atração.",
+        "correctAnswer": "b",
+        "bookExample": "A paixão é o seu diferencial mais poderoso."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "A Arte de Dizer 'Não'",
+    "teaser": "🛑 O 'não' é o seu maior trunfo. Use-o para proteger sua **lucratividade** e sua **sanidade** de clientes e tarefas de baixo valor.",
+    "level1": "O consultor de milhões tem a coragem de dizer 'não'. Dizer 'sim' a tudo destrói sua lucratividade e posicionamento. Você deve ser seletivo sobre com quem você trabalha (clientes) e o que você faz (tarefas).",
+    "level2": "Cada 'não' a um cliente ruim ou a uma tarefa de baixa alavancagem é um 'sim' a um cliente de alto valor e a uma Atividade de Alta Alavancagem (HLA). Recuse trabalho gratuito, negociações de VBF e 'scope creep'. A autoconfiança no seu valor é o que lhe dá essa coragem.",
+    "level3": "Ruim: Fazer um diagnóstico de 2 semanas de graça. Bom: Dizer 'Não faço diagnósticos gratuitos, mas ofereço minha 'Avaliação Estratégica Rápida' por um VBF de R$ 3.000 para definir o problema e o ROI em 2 horas.'",
+    "recapitulation": [
+      "Dizer 'não' à negociação do VBF protege seu **posicionamento de valor**.",
+      "**Demissão de Cliente** é uma decisão empresarial para proteger sua lucratividade.",
+      "**Trabalho Gratuito** desvaloriza sua expertise (sempre ofereça uma alternativa paga).",
+      "**Qualificação Rigorosa** é o seu filtro de tempo (diga 'não' a leads sem orçamento ou autoridade).",
+      "Dizer 'não' ao **Scope Creep** reafirma o escopo fixo e gera uma **nova oportunidade de venda** (Novo VBF).",
+      "O risco de dizer 'sim' a tarefas de baixa alavancagem: **Perda de tempo** que poderia ser gasto em IP/Prospecção (HLAs).",
+      "Seu **Preço de Referência** (VBF) deve ser inegociável (a menos que o escopo mude).",
+      "A **Confiança** em seu próprio valor lhe dá a coragem de dizer 'não' a oportunidades ruins."
+    ],
+    "practicalChecklist": [
+      "**Crie um 'Não' Padrão**: Tenha um script educado e firme para dizer 'não' ao trabalho gratuito e à negociação (Ex: 'Agradeço o interesse, mas só trabalho com VBF. Posso reduzir o escopo para caber no seu orçamento?').",
+      "**Defina um Limite de Tolerância**: Defina internamente o que o fará 'demitir' um cliente (Ex: 2 atrasos de pagamento; 3 tentativas de 'scope creep'; microgerenciamento constante).",
+      "**Use a Qualificação como Desculpa**: Use os critérios de qualificação (Orçamento, Autoridade, Dor Crítica) para justificar o 'não' de forma profissional ('Com base no que entendi, este projeto não tem a urgência/orçamento necessário para um resultado de alto valor.').",
+      "**Priorize os HLAs**: Revise sua agenda diariamente e cancele ou adie qualquer reunião/tarefa que não seja uma Atividade de Alta Alavancagem (diga 'não' à urgência de outros).",
+      "**Seja Firme no Scope Creep**: Nunca faça o trabalho extra. Apresente um 'Change Order' com um Novo VBF em 24 horas."
+    ],
+    "conclusionMessage": "Dizer 'não' a clientes ruins, trabalho gratuito e tarefas de baixa alavancagem é a chave para proteger sua marca, seu tempo e sua lucratividade.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Por que é crucial dizer 'não' a clientes que tentam negociar o VBF?",
+        "options": [
+          { "value": "a", "label": "Para ser rude." },
+          { "value": "b", "label": "A negociação destrói o posicionamento de valor e atrai clientes que só se importam com o preço." },
+          { "value": "c", "label": "Para fechar a venda mais rápido." },
+          { "value": "d", "label": "Para ser mais flexível." }
+        ],
+        "explanation": "O VBF é uma declaração de valor. Negociá-lo é negociar seu valor.",
+        "hint": "Posicionamento.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o preço. Se o cliente quer um preço menor, ele deve aceitar um resultado menor."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Demissão de Cliente' (Firing a Client)?",
+        "options": [
+          { "value": "a", "label": "Apenas terminar o projeto." },
+          { "value": "b", "label": "Terminar o relacionamento com um cliente que consistentemente destrói sua lucratividade, paz de espírito ou reputação." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Ignorar o cliente." }
+        ],
+        "explanation": "O consultor de milhões tem a coragem de proteger seu tempo e sua marca.",
+        "hint": "Proteção de recursos.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões tem a coragem de dizer 'não' a clientes que não se encaixam."
+      },
+      {
+        "id": "3",
+        "question": "Como você lida com um pedido de 'trabalho gratuito' (free work)?",
+        "options": [
+          { "value": "a", "label": "Faz o trabalho de graça para impressionar." },
+          { "value": "b", "label": "Diz 'não' e oferece uma alternativa paga de baixo custo (ex: um produto de IP) ou um diagnóstico pago." },
+          { "value": "c", "label": "Pede desculpas." },
+          { "value": "d", "label": "Muda de assunto." }
+        ],
+        "explanation": "O trabalho gratuito desvaloriza sua expertise. Sempre ofereça uma alternativa paga.",
+        "hint": "Alternativa paga.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não se valoriza, ninguém mais o fará."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel da 'Qualificação' na arte de dizer 'não'?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A qualificação rigorosa (orçamento, autoridade, problema crítico) permite que você diga 'não' a leads ruins antes de investir tempo." },
+          { "value": "c", "label": "A qualificação é apenas para clientes grandes." },
+          { "value": "d", "label": "A qualificação é apenas para clientes pequenos." }
+        ],
+        "explanation": "A qualificação é o seu filtro de tempo.",
+        "hint": "Filtro de tempo.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões tem a coragem de dizer 'não' a clientes que não se encaixam."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Dizer Não ao Scope Creep'?",
+        "options": [
+          { "value": "a", "label": "Fazer o trabalho extra de graça." },
+          { "value": "b", "label": "Reafirmar o escopo fixo e apresentar um novo VBF para o trabalho adicional." },
+          { "value": "c", "label": "Ignorar o pedido." },
+          { "value": "d", "label": "Pede desculpas." }
+        ],
+        "explanation": "O Scope Creep é uma nova oportunidade de venda, não um trabalho gratuito.",
+        "hint": "Nova venda.",
+        "correctAnswer": "b",
+        "bookExample": "O Scope Creep é o inimigo da lucratividade. Trate-o como uma nova oportunidade de negócio."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de dizer 'sim' a tarefas de baixa alavancagem?",
+        "options": [
+          { "value": "a", "label": "Você ganha mais dinheiro." },
+          { "value": "b", "label": "Você perde tempo que poderia ser gasto em HLAs (criação de IP, prospecção de alto valor)." },
+          { "value": "c", "label": "Você tem mais tempo livre." },
+          { "value": "d", "label": "Você tem menos clientes." }
+        ],
+        "explanation": "O tempo é seu recurso mais valioso. Proteja-o.",
+        "hint": "Foco no ROI.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões é implacável em proteger seu tempo de alta alavancagem."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Preço de Referência' (Reference Pricing)?",
+        "options": [
+          { "value": "a", "label": "O preço que o cliente espera." },
+          { "value": "b", "label": "O preço que você estabelece como o seu padrão (VBF), que serve como referência para todas as negociações." },
+          { "value": "c", "label": "O preço do concorrente." },
+          { "value": "d", "label": "O preço mais baixo." }
+        ],
+        "explanation": "Seu preço de referência deve ser alto e inegociável (a menos que o escopo mude).",
+        "hint": "Padrão de valor.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não tem um preço de referência, o cliente o criará por você, e será baixo."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Confiança' na capacidade de dizer 'não'?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A confiança em seu próprio valor e expertise é o que lhe dá a coragem de dizer 'não' a oportunidades ruins." },
+          { "value": "c", "label": "A confiança é construída após o 'não'." },
+          { "value": "d", "label": "A confiança é apenas para clientes bons." }
+        ],
+        "explanation": "A autoconfiança é a base da prática de milhões.",
+        "hint": "Autoconfiança.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não precisa de um cliente; o cliente precisa dele."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "O Domínio do 'The Mom Test'",
+    "teaser": "🤫 O cliente mente para você porque te adora. Use o **Teste da Mãe** para fazer perguntas que revelam a verdade sobre a dor real e o orçamento.",
+    "level1": "O 'The Mom Test' (O Teste da Mãe) é a arte de fazer perguntas que revelam a verdade, em vez de perguntas que buscam validação. O cliente quer ser gentil e lisonjeá-lo. Você deve evitar perguntas sobre o futuro ('Você compraria?') ou a opinião dele.",
+    "level2": "Foque em perguntas sobre o **Comportamento Passado** e o custo real do problema (Fatos, não Opiniões). O comportamento passado é o melhor preditor de compra e valor. O objetivo é fazer o cliente quantificar a dor com base em ações e custos reais, e não em hipóteses.",
+    "level3": "Ruim: 'Você acha que minha metodologia resolveria seu problema?' Bom: 'Quanto esse problema te custou em tempo/dinheiro no último mês, e o que você fez para tentar resolvê-lo?'",
+    "recapitulation": [
+      "Erro a evitar: **Perguntas de Validação/Lisonja** (levam a respostas não confiáveis).",
+      "Foco: Perguntar sobre o **Comportamento Passado** (ações concretas e custos reais).",
+      "Pergunta-chave do Diagnóstico: **'Quanto isso está custando para você agora?'** (Quantificação da Dor).",
+      "Evite **Perguntas de Vaidade** (perguntas que te fazem sentir bem, mas não fornecem dados úteis).",
+      "Se o cliente falar sobre **Solução**, redirecione gentilmente para o **Problema e a Causa Raiz** ('Por que você acha que essa solução é necessária?').",
+      "Foque em **Fatos Mensuráveis** (dados, eventos específicos) em vez de opiniões genéricas.",
+      "A **Curiosidade Genuína** constrói confiança e leva ao diagnóstico preciso.",
+      "Use **Perguntas de Compromisso** para garantir o avanço (agendar a próxima etapa)."
+    ],
+    "practicalChecklist": [
+      "**Crie uma Lista de 'Perguntas Proibidas'**: Elimine 'Você compraria?', 'Você acha que seria bom?', 'Qual é a sua opinião sobre minha ideia?' do seu vocabulário.",
+      "**Crie 5 Perguntas de Comportamento Passado**: Desenvolva perguntas que exijam uma resposta baseada em fatos (Ex: 'Descreva a última vez que você tentou resolver isso. O que aconteceu?').",
+      "**Mantenha o Foco no 'Dinheiro'**: Em cada conversa de diagnóstico, faça pelo menos uma pergunta que quantifique o custo (dor) em tempo, dinheiro ou recursos.",
+      "**Use a Redireção Suave**: Quando o cliente começar a falar sobre a solução, diga: 'Entendo. Antes de falar sobre o *como*, podemos voltar um passo? O que o motivou a buscar essa solução? Qual é a dor por trás disso?'",
+      "**Avalie a Intensidade da Dor**: Use perguntas sobre 'O que acontece se não resolver?' (Custo da Inação) para avaliar se o problema é realmente crítico (e não apenas um 'nice-to-have')."
+    ],
+    "conclusionMessage": "O 'The Mom Test' é a arte de fazer perguntas que revelam a verdade sobre o problema do cliente, em vez de perguntas que buscam validação.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal erro que o 'The Mom Test' ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "Fazer perguntas muito longas." },
+          { "value": "b", "label": "Fazer perguntas que buscam validação ou lisonja, levando a respostas não confiáveis." },
+          { "value": "c", "label": "Fazer perguntas sobre o passado." },
+          { "value": "d", "label": "Fazer perguntas sobre o preço." }
+        ],
+        "explanation": "O cliente quer ser gentil. Você deve forçá-lo a falar sobre fatos e comportamento real.",
+        "hint": "Lisonja.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente mente para você porque ele gosta de você."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Perguntar sobre o Comportamento Passado'?",
+        "options": [
+          { "value": "a", "label": "Perguntar sobre o que o cliente fará no futuro." },
+          { "value": "b", "label": "Perguntar sobre as ações concretas que o cliente tomou para resolver o problema no passado (o que ele realmente valoriza)." },
+          { "value": "c", "label": "Perguntar sobre a opinião dele." },
+          { "value": "d", "label": "Perguntar sobre o preço." }
+        ],
+        "explanation": "O comportamento passado é o melhor preditor do comportamento futuro. As ações falam mais alto que as palavras.",
+        "hint": "Ações concretas.",
+        "correctAnswer": "b",
+        "bookExample": "Não pergunte o que eles fariam; pergunte o que eles fizeram."
+      },
+      {
+        "id": "3",
+        "question": "Qual é a pergunta que ajuda a quantificar a 'Dor' (Pain)?",
+        "options": [
+          { "value": "a", "label": "Você gosta da minha ideia?" },
+          { "value": "b", "label": "Quanto isso está custando para você agora, em termos de tempo, dinheiro ou recursos?" },
+          { "value": "c", "label": "Você me contrataria?" },
+          { "value": "d", "label": "Qual é a sua opinião?" }
+        ],
+        "explanation": "A quantificação da dor é o que justifica o VBF. O cliente deve admitir o custo.",
+        "hint": "Custo da inação.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra quando a dor de permanecer na situação atual é maior do que a dor de mudar."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Perguntas de Vaidade' (Vanity Questions)?",
+        "options": [
+          { "value": "a", "label": "Perguntas sobre o preço." },
+          { "value": "b", "label": "Perguntas que buscam elogios ou validação (ex: 'Você acha que eu sou um bom consultor?')." },
+          { "value": "c", "label": "Perguntas sobre o passado." },
+          { "value": "d", "label": "Perguntas sobre o futuro." }
+        ],
+        "explanation": "Perguntas de vaidade não fornecem informações úteis e apenas alimentam o ego do consultor.",
+        "hint": "Ego.",
+        "correctAnswer": "b",
+        "bookExample": "Se a pergunta te faz sentir bem, provavelmente é uma pergunta ruim."
+      },
+      {
+        "id": "5",
+        "question": "Como você lida com um cliente que só fala sobre 'Soluções'?",
+        "options": [
+          { "value": "a", "label": "Aceita a solução dele." },
+          { "value": "b", "label": "Gentilmente redireciona a conversa para o problema e o custo da inação (o 'porquê' por trás da solução)." },
+          { "value": "c", "label": "Muda de assunto." },
+          { "value": "d", "label": "Foca apenas na solução." }
+        ],
+        "explanation": "O cliente geralmente diagnostica mal o próprio problema. Seu valor está em diagnosticar a causa raiz.",
+        "hint": "Causa raiz.",
+        "correctAnswer": "b",
+        "bookExample": "Se o cliente soubesse a solução, ele não precisaria de você."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Focar em Fatos, Não em Opiniões'?",
+        "options": [
+          { "value": "a", "label": "Perguntar o que o cliente pensa." },
+          { "value": "b", "label": "Perguntar sobre dados mensuráveis, eventos específicos e ações concretas, em vez de sentimentos ou opiniões genéricas." },
+          { "value": "c", "label": "Perguntar sobre o futuro." },
+          { "value": "d", "label": "Perguntar sobre o preço." }
+        ],
+        "explanation": "Fatos são a base para o VBF. Opiniões são subjetivas e não justificam o preço.",
+        "hint": "Mensurável.",
+        "correctAnswer": "b",
+        "bookExample": "Fatos são a única coisa que não pode ser contestada."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Curiosidade Genuína' no diagnóstico?",
+        "options": [
+          { "value": "a", "label": "Fingir interesse." },
+          { "value": "b", "label": "Ter um interesse real em entender o problema do cliente, o que leva a perguntas mais profundas e a um diagnóstico mais preciso." },
+          { "value": "c", "label": "Focar em planejar sua próxima pergunta." },
+          { "value": "d", "label": "Falar mais do que o cliente." }
+        ],
+        "explanation": "A curiosidade genuína constrói confiança e revela a verdade.",
+        "hint": "Confiança.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões é um detetive, não um vendedor."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Perguntas de Compromisso' (Commitment Questions)?",
+        "options": [
+          { "value": "a", "label": "Perguntas sobre o preço." },
+          { "value": "b", "label": "Perguntas que pedem ao cliente para se comprometer com a próxima etapa (ex: 'Podemos agendar a próxima reunião para discutir a proposta?')." },
+          { "value": "c", "label": "Perguntas sobre o passado." },
+          { "value": "d", "label": "Perguntas sobre o futuro." }
+        ],
+        "explanation": "O objetivo de toda interação é obter a próxima interação. As perguntas de compromisso garantem o avanço.",
+        "hint": "Próxima etapa.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo de toda interação é obter a próxima interação."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "O Legado e a Liberdade Financeira",
+    "teaser": "🕊️ O objetivo final não é ser rico, é ser **livre**. Saiba como seu IP se torna um ativo para a venda da prática e sua autonomia.",
+    "level1": "A liberdade financeira não é apenas sobre ter dinheiro; é sobre ter opções. O consultor de milhões constrói uma prática que pode funcionar sem ele, através da alavancagem do IP e da criação de sistemas, permitindo que ele trabalhe por escolha, não por necessidade.",
+    "level2": "Seu legado é o impacto que você deixa no mercado através do seu IP (metodologia, modelos). O objetivo é construir um ativo vendável, em vez de apenas um emprego. Uma prática com IP e fluxo de caixa previsível pode ser vendida por um múltiplo da receita, garantindo a aposentadoria com autonomia.",
+    "level3": "Ruim: Ter que trabalhar todos os dias para gerar receita. Bom: Ter 50% da receita vindo da venda de IP e **Retainer Fees**, garantindo autonomia e a venda da prática como um ativo valioso.",
+    "recapitulation": [
+      "**Liberdade Financeira** = Receita Passiva (IP) suficiente para cobrir despesas (Trabalhar por Escolha).",
+      "**Legado** = O impacto duradouro que você deixa no mercado através do seu IP (metodologia/modelos).",
+      "Objetivo Final: **Vender sua Prática** como um ativo de negócios (com IP e sistemas), não apenas fechar a porta.",
+      "A **Automação** de tarefas e a venda de IP é crucial para desvincular a receita do tempo.",
+      "**Trabalho por Escolha** é a capacidade de selecionar projetos e clientes alinhados com seus valores, sem pressão financeira.",
+      "Risco: Focar apenas na Consultoria Individual (limita a escala e a criação de legado vendável).",
+      "**Mentoria e Coaching** (em grupo) são formas alavancadas de vender seu conhecimento e criar legado.",
+      "A **Disciplina** na criação de IP e na gestão financeira é o que garante o sucesso e a liberdade de longo prazo."
+    ],
+    "practicalChecklist": [
+      "**Crie um 'Plano de Saída'**: Defina como você gostaria que sua prática parecesse para ser vendida (Ex: 50% da receita via IP e Retainer).",
+      "**Foque no IP Passivo**: Programe a criação e o lançamento de pelo menos 1 produto de renda passiva (IP) por trimestre.",
+      "**Automatize a Prospecção**: Use seu IP para automatizar a geração de leads (Ex: Isca digital gratuita + Funil de e-mail).",
+      "**Invista em Mentoria de Alto Valor**: Participe de programas de coaching/mentoria para acelerar a aquisição de conhecimento (o tempo de outra pessoa é a sua alavancagem).",
+      "**Pratique o 'Trabalho por Escolha'**: A partir de agora, diga 'não' a 1 cliente/projeto por mês que não esteja 100% alinhado com seu valor/paixão, usando a liberdade que você está construindo."
+    ],
+    "conclusionMessage": "O objetivo final da prática de milhões é a liberdade financeira e a criação de um legado através do seu IP, permitindo que você escolha como e quando trabalhar.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é 'Liberdade Financeira' na consultoria?",
+        "options": [
+          { "value": "a", "label": "Ter muito dinheiro no banco." },
+          { "value": "b", "label": "Ter receita passiva (IP) suficiente para cobrir suas despesas, permitindo que você trabalhe por escolha, não por necessidade." },
+          { "value": "c", "label": "Ter muitos clientes." },
+          { "value": "d", "label": "Ter um salário alto." }
+        ],
+        "explanation": "A liberdade é a capacidade de escolher.",
+        "hint": "Escolha e Receita Passiva.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não trabalha por dinheiro; ele trabalha por paixão."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o papel do 'Legado' na prática de milhões?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "O impacto duradouro que você deixa no mercado através do seu IP e da sua metodologia, que continua a gerar valor após sua aposentadoria." },
+          { "value": "c", "label": "Apenas para fins de marketing." },
+          { "value": "d", "label": "Apenas para a família." }
+        ],
+        "explanation": "O legado é a medida do seu impacto de longo prazo.",
+        "hint": "Impacto duradouro.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões não constrói um emprego; ele constrói um ativo."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Venda da Prática' (Selling the Practice)?",
+        "options": [
+          { "value": "a", "label": "Apenas fechar a porta." },
+          { "value": "b", "label": "Vender sua prática de consultoria (que tem IP, sistemas e fluxo de caixa previsível) como um ativo de negócios." },
+          { "value": "c", "label": "Vender seu IP separadamente." },
+          { "value": "d", "label": "Vender seus clientes." }
+        ],
+        "explanation": "Uma prática de milhões é um ativo vendável, não apenas um emprego.",
+        "hint": "Ativo vendável.",
+        "correctAnswer": "b",
+        "bookExample": "Se sua prática não pode ser vendida, ela não é um negócio; é um emprego glorificado."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel da 'Automação' na liberdade financeira?",
+        "options": [
+          { "value": "a", "label": "Apenas para comunicação." },
+          { "value": "b", "label": "Automatizar tarefas de baixa alavancagem e a venda de IP para liberar seu tempo e garantir a receita passiva." },
+          { "value": "c", "label": "É irrelevante." },
+          { "value": "d", "label": "Apenas para contabilidade." }
+        ],
+        "explanation": "A automação é a chave para desvincular a receita do tempo.",
+        "hint": "Desvinculação de tempo.",
+        "correctAnswer": "b",
+        "bookExample": "A automação é o seu assistente de vendas 24/7."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Trabalho por Escolha' (Work by Choice)?",
+        "options": [
+          { "value": "a", "label": "Trabalhar apenas quando quiser." },
+          { "value": "b", "label": "A capacidade de escolher os projetos, clientes e horários que se alinham com seus valores e paixões, sem a pressão da necessidade financeira." },
+          { "value": "c", "label": "Trabalhar de graça." },
+          { "value": "d", "label": "Trabalhar muito." }
+        ],
+        "explanation": "O objetivo final é a autonomia.",
+        "hint": "Autonomia.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões trabalha porque quer, não porque precisa."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de focar apenas na 'Receita de Consultoria Individual'?",
+        "options": [
+          { "value": "a", "label": "Você ganha muito dinheiro." },
+          { "value": "b", "label": "Você está limitado pelo seu tempo e não pode alcançar a liberdade financeira ou criar um legado escalável." },
+          { "value": "c", "label": "Você tem mais tempo livre." },
+          { "value": "d", "label": "Você tem menos clientes." }
+        ],
+        "explanation": "A consultoria individual é a base, mas o IP é a escala.",
+        "hint": "Limite de tempo.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões usa a consultoria individual para criar o IP que ele pode vender em escala."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Mentoria e Coaching' na prática de milhões?",
+        "options": [
+          { "value": "a", "label": "Uma forma de ganhar dinheiro rápido." },
+          { "value": "b", "label": "Uma forma de alavancar seu conhecimento e criar um legado, vendendo seu tempo em um formato de alto valor e escalável." },
+          { "value": "c", "label": "Uma forma de trabalhar de graça." },
+          { "value": "d", "label": "Uma forma de trabalhar mais." }
+        ],
+        "explanation": "Mentoria e coaching são formas de vender seu cérebro em um formato de alto valor.",
+        "hint": "Venda de cérebro.",
+        "correctAnswer": "b",
+        "bookExample": "O consultor de milhões vende seu conhecimento em todos os formatos possíveis."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Disciplina' na criação de um legado?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A disciplina na criação de IP, na gestão financeira e na proteção do tempo é o que garante o sucesso de longo prazo." },
+          { "value": "c", "label": "A disciplina é apenas para o trabalho." },
+          { "value": "d", "label": "A disciplina é apenas para o marketing." }
+        ],
+        "explanation": "O sucesso de longo prazo é o resultado de hábitos diários disciplinados.",
+        "hint": "Hábitos diários.",
+        "correctAnswer": "b",
+        "bookExample": "O sucesso não é um evento; é um processo."
+      }
+    ]
+  }
+]

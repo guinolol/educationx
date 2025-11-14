@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote Capítulos 13-16 - Pirâmide de Minto</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #7b1fa2;
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: #7b1fa2;
+            color: #fff;
+            padding: 12px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .title {
+            font-size: 56px;
+            font-weight: bold;
+            color: #4a148c;
+            font-family: 'Caveat', cursive;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        
+        .subtitle {
+            font-size: 26px;
+            color: #7b1fa2;
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUTS */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }
+        
+        .section-1 { border-left-color: #1976d2; }
+        .section-2 { border-left-color: #f57c00; }
+        .section-3 { border-left-color: #c2185b; }
+        .section-4 { border-left-color: #00796b; }
+        .section-5 { border-left-color: #7b1fa2; }
+        
+        .section-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-1 .section-title { color: #1976d2; }
+        .section-2 .section-title { color: #f57c00; }
+        .section-3 .section-title { color: #c2185b; }
+        .section-4 .section-title { color: #00796b; }
+        .section-5 .section-title { color: #7b1fa2; }
+        
+        .section-emoji {
+            font-size: 32px;
+        }
+        
+        .item {
+            font-size: 15px;
+            line-height: 1.6;
+            color: #555;
+            margin-bottom: 12px;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        /* CHAPTER DIVIDER */
+        .chapter-divider {
+            background: linear-gradient(90deg, #7b1fa2 0%, #4a148c 100%);
+            height: 3px;
+            margin: 50px 0;
+            border-radius: 2px;
+        }
+        
+        .chapter-header {
+            font-size: 32px;
+            font-weight: bold;
+            color: #4a148c;
+            margin-bottom: 30px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        /* DEDUCTION BOX */
+        .deduction-box {
+            background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+            border: 4px solid #1976d2;
+            border-radius: 12px;
+            padding: 40px;
+            margin-bottom: 40px;
+        }
+        
+        .deduction-title {
+            font-size: 28px;
+            color: #0d47a1;
+            font-weight: bold;
+            margin-bottom: 25px;
+            font-family: 'Caveat', cursive;
+            text-align: center;
+        }
+        
+        .syllogism {
+            background: #fff;
+            padding: 25px;
+            border-radius: 8px;
+            border-left: 6px solid #1976d2;
+            margin: 15px 0;
+            font-size: 16px;
+            line-height: 1.8;
+        }
+        
+        .syllogism-label {
+            font-weight: bold;
+            color: #0d47a1;
+            margin-bottom: 8px;
+        }
+        
+        /* INDUCTION BOX */
+        .induction-box {
+            background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
+            border: 4px solid #f57c00;
+            border-radius: 12px;
+            padding: 40px;
+            margin-bottom: 40px;
+        }
+        
+        .induction-title {
+            font-size: 28px;
+            color: #e65100;
+            font-weight: bold;
+            margin-bottom: 25px;
+            font-family: 'Caveat', cursive;
+            text-align: center;
+        }
+        
+        .facts-list {
+            background: #fff;
+            padding: 25px;
+            border-radius: 8px;
+            border-left: 6px solid #f57c00;
+            margin: 15px 0;
+            font-size: 15px;
+            line-height: 1.8;
+        }
+        
+        /* COMPARISON BOX */
+        .comparison-box {
+            background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
+            border: 4px solid #7b1fa2;
+            border-radius: 12px;
+            padding: 40px;
+            margin-bottom: 40px;
+        }
+        
+        .comparison-title {
+            font-size: 28px;
+            color: #4a148c;
+            font-weight: bold;
+            margin-bottom: 25px;
+            font-family: 'Caveat', cursive;
+            text-align: center;
+        }
+        
+        .comparison-split {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-top: 25px;
+        }
+        
+        .comparison-part {
+            background: #fff;
+            padding: 25px;
+            border-radius: 8px;
+            border-left: 6px solid #7b1fa2;
+        }
+        
+        .comparison-part-title {
+            font-size: 20px;
+            font-weight: bold;
+            color: #4a148c;
+            margin-bottom: 15px;
+        }
+        
+        /* PARAGRAPH STRUCTURE */
+        .paragraph-box {
+            background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+            border: 4px solid #2e7d32;
+            border-radius: 12px;
+            padding: 40px;
+            margin-bottom: 40px;
+        }
+        
+        .paragraph-title {
+            font-size: 28px;
+            color: #1b5e20;
+            font-weight: bold;
+            margin-bottom: 25px;
+            font-family: 'Caveat', cursive;
+            text-align: center;
+        }
+        
+        .paragraph-example {
+            background: #fff;
+            padding: 25px;
+            border-radius: 8px;
+            border-left: 6px solid #2e7d32;
+            margin: 15px 0;
+            font-size: 15px;
+            line-height: 1.8;
+        }
+        
+        .topic-sentence {
+            background: #ffeb3b;
+            padding: 12px;
+            border-radius: 4px;
+            font-weight: bold;
+            color: #f57c00;
+            margin-bottom: 12px;
+        }
+        
+        .support-sentences {
+            color: #666;
+        }
+        
+        /* TITLES SECTION */
+        .titles-box {
+            background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+            border: 4px solid #c2185b;
+            border-radius: 12px;
+            padding: 40px;
+            margin-bottom: 40px;
+        }
+        
+        .titles-title {
+            font-size: 28px;
+            color: #880e4f;
+            font-weight: bold;
+            margin-bottom: 25px;
+            font-family: 'Caveat', cursive;
+            text-align: center;
+        }
+        
+        .titles-example {
+            background: #fff;
+            padding: 25px;
+            border-radius: 8px;
+            border-left: 6px solid #c2185b;
+            margin: 15px 0;
+        }
+        
+        .title-example-label {
+            font-weight: bold;
+            color: #880e4f;
+            margin-bottom: 10px;
+        }
+        
+        /* KEY INSIGHT */
+        .insight {
+            background: #fff3e0;
+            border-left: 6px solid #ff6b6b;
+            padding: 35px;
+            border-radius: 10px;
+            margin-bottom: 40px;
+        }
+        
+        .insight-title {
+            font-size: 26px;
+            color: #ff6b6b;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .insight-text {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #555;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #ff6b6b;
+            background: rgba(255, 107, 107, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-2, .grid-3, .comparison-split {
+                grid-template-columns: 1fr;
+            }
+            
+            .title {
+                font-size: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- TITLE -->
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 1️⃣3️⃣-1️⃣6️⃣</div>
+            <div class="title">🎯 Lógica & Estrutura de Escrita</div>
+            <div class="subtitle">(Pensamento rigoroso + Comunicação clara)</div>
+        </div>
+        
+        <!-- CAP 13 -->
+        <div class="chapter-divider"></div>
+        <div class="chapter-header">📍 Capítulo 13: A Lógica da Dedução - O Silogismo</div>
+        
+        <div class="deduction-box">
+            <div class="deduction-title">⛓️ Premissa 1 + Premissa 2 = Conclusão Inevitável</div>
+            
+            <div class="syllogism">
+                <div class="syllogism-label">📌 Premissa Maior (Regra Geral):</div>
+                "Todos os nossos clientes valorizam a velocidade"
+            </div>
+            
+            <div class="syllogism">
+                <div class="syllogism-label">📌 Premissa Menor (Fato Específico):</div>
+                "O novo sistema é 50% mais rápido"
+            </div>
+            
+            <div class="syllogism" style="background: #ffeb3b; border-left-color: #f57c00; color: #f57c00; font-weight: bold;">
+                <div class="syllogism-label" style="color: #e65100;">✅ Conclusão (Implicação):</div>
+                "Nossos clientes valorizarão o novo sistema"
+            </div>
+        </div>
+        
+        <div class="grid-2">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">💪</span>
+                    A Força
+                </div>
+                <div class="item">
+                    A conclusão é <span class="item-label">inevitável</span> se as premissas são aceitas.
+                </div>
+                <div class="item" style="margin-top: 15px;">
+                    Muito persuasivo e rigoroso.
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">⚠️</span>
+                    O Risco
+                </div>
+                <div class="item">
+                    Se o leitor rejeita uma premissa, <span class="item-label">toda a cadeia falha.</span>
+                </div>
+                <div class="item" style="margin-top: 15px;">
+                    A premissa mais fraca é o limite.
+                </div>
+            </div>
+        </div>
+        
+        <div class="insight">
+            <div class="insight-title">
+                <span>⛓️</span>
+                O Silogismo
+            </div>
+            <div class="insight-text">
+                A Dedução funciona como uma corrente: <span class="highlight">tão forte quanto o seu elo mais fraco.</span> Use-a quando precisar de rigor lógico máximo. Cuidado: pode ser tedioso em excesso!
+            </div>
+        </div>
+        
+        <!-- CAP 14 -->
+        <div class="chapter-divider"></div>
+        <div class="chapter-header">📍 Capítulo 14: A Lógica da Indução - Agrupamento de Fatos</div>
+        
+        <div class="induction-box">
+            <div class="induction-title">📋 Fato A + Fato B + Fato C = Conclusão por Inferência</div>
+            
+            <div class="facts-list">
+                <div class="syllogism-label">📌 Fato 1:</div>
+                Vendas caíram 10% no último trimestre
+            </div>
+            
+            <div class="facts-list">
+                <div class="syllogism-label">📌 Fato 2:</div>
+                A retenção de clientes caiu 5%
+            </div>
+            
+            <div class="facts-list">
+                <div class="syllogism-label">📌 Fato 3:</div>
+                O custo de aquisição subiu 20%
+            </div>
+            
+            <div class="facts-list" style="background: #ffeb3b; border-left-color: #f57c00; color: #f57c00; font-weight: bold;">
+                <div class="syllogism-label" style="color: #e65100;">✅ Conclusão (Inferência):</div>
+                "A lucratividade do cliente está em risco"
+            </div>
+        </div>
+        
+        <div class="grid-2">
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">⚡</span>
+                    A Força
+                </div>
+                <div class="item">
+                    <span class="item-label">Rápida e memorável.</span> O leitor infere a conclusão naturalmente.
+                </div>
+                <div class="item" style="margin-top: 15px;">
+                    Mais comum em relatórios de negócios.
+                </div>
+            </div>
+            
+            <div class="section section-3">
+                <div class="section-title">
+                    <span class="section-emoji">⚠️</span>
+                    O Risco
+                </div>
+                <div class="item">
+                    Se os fatos não forem <span class="item-label">claramente relacionados,</span> o leitor não entende.
+                </div>
+                <div class="item" style="margin-top: 15px;">
+                    Exige homogeneidade e MECE.
+                </div>
+            </div>
+        </div>
+        
+        <!-- COMPARISON -->
+        <div class="comparison-box">
+            <div class="comparison-title">🎯 Dedução vs. Indução</div>
+            
+            <div class="comparison-split">
+                <div class="comparison-part">
+                    <div class="comparison-part-title">⛓️ Dedução</div>
+                    <div class="item">
+                        <span class="item-label">Estrutura:</span> Silogismo
+                    </div>
+                    <div class="item" style="margin-top: 12px;">
+                        <span class="item-label">Resultado:</span> Inevitabilidade
+                    </div>
+                    <div class="item" style="margin-top: 12px;">
+                        <span class="item-label">Uso:</span> Lógica crítica
+                    </div>
+                    <div class="item" style="margin-top: 12px;">
+                        <span class="item-label">Tom:</span> Rigoroso
+                    </div>
+                </div>
+                
+                <div class="comparison-part" style="border-left-color: #f57c00;">
+                    <div class="comparison-part-title" style="color: #e65100;">📋 Indução</div>
+                    <div class="item">
+                        <span class="item-label">Estrutura:</span> Agrupamento
+                    </div>
+                    <div class="item" style="margin-top: 12px;">
+                        <span class="item-label">Resultado:</span> Inferência
+                    </div>
+                    <div class="item" style="margin-top: 12px;">
+                        <span class="item-label">Uso:</span> Comunicação rápida
+                    </div>
+                    <div class="item" style="margin-top: 12px;">
+                        <span class="item-label">Tom:</span> Amigável
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="insight">
+            <div class="insight-title">
+                <span>🎯</span>
+                Escolha Sábio
+            </div>
+            <div class="insight-text">
+                <span class="highlight">Dedução</span> quando você precisa provar algo com rigor. <span class="highlight">Indução</span> quando você precisa comunicar rapidamente. Na maioria dos negócios, <span class="highlight">Indução é o caminho!</span>
+            </div>
+        </div>
+        
+        <!-- CAP 15 -->
+        <div class="chapter-divider"></div>
+        <div class="chapter-header">📍 Capítulo 15: O Parágrafo Piramidal</div>
+        
+        <div class="paragraph-box">
+            <div class="paragraph-title">📝 Uma Mini-Pirâmide em Cada Parágrafo</div>
+            
+            <div class="paragraph-example">
+                <div class="topic-sentence">
+                    🎯 Tópico Frasal: "A redução de custos operacionais é a nossa prioridade"
+                </div>
+                <div class="support-sentences">
+                    Isso será alcançado através de três ações principais: (1) Negociação com fornecedores por desconto de 10%, (2) Otimização de processos para reduzir tempo de operação, e (3) Corte estratégico de despesas de viagem não essenciais.
+                </div>
+            </div>
+        </div>
+        
+        <div class="grid-3">
+            <div class="section section-4">
+                <div class="section-title">
+                    <span class="section-emoji">🎯</span>
+                    Tópico Frasal
+                </div>
+                <div class="item">
+                    Primeira frase = Topo da mini-pirâmide.
+                </div>
+                <div class="item" style="margin-top: 15px;">
+                    Uma única ideia clara e afirmativa.
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">📌</span>
+                    Frases de Suporte
+                </div>
+                <div class="item">
+                    Detalham e provam o Tópico Frasal.
+                </div>
+                <div class="item" style="margin-top: 15px;">
+                    Dados, exemplos, evidências.
+                </div>
+            </div>
+            
+            <div class="section section-3">
+                <div class="section-title">
+                    <span class="section-emoji">✨</span>
+                    O Benefício
+                </div>
+                <div class="item">
+                    <span class="item-label">Clareza instantânea:</span> O leitor entende o ponto no primeiro parágrafo.
+                </div>
+            </div>
+        </div>
+        
+        <div class="grid-2">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">❌</span>
+                    RUIM
+                </div>
+                <div class="item">
+                    Começar com um detalhe ou dado bruto → Confusão
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">✅</span>
+                    BOM
+                </div>
+                <div class="item">
+                    Começar com a conclusão → Clareza instantânea
+                </div>
+            </div>
+        </div>
+        
+        <!-- CAP 16 -->
+        <div class="chapter-divider"></div>
+        <div class="chapter-header">📍 Capítulo 16: Títulos e Subtítulos como Afirmações</div>
+        
+        <div class="titles-box">
+            <div class="titles-title">📑 O Esqueleto é a Pirâmide</div>
+            
+            <div class="titles-example">
+                <div class="title-example-label">❌ TÓPICO (Ruim):</div>
+                <div class="item">
+                    "Análise de Custos"
+                </div>
+                <div class="item" style="margin-top: 12px; color: #c2185b;">
+                    ⚠️ O leitor não sabe qual é a conclusão
+                </div>
+            </div>
+            
+            <div class="titles-example">
+                <div class="title-example-label">✅ AFIRMAÇÃO (Bom):</div>
+                <div class="item">
+                    "A Análise de Custos Revela uma Oportunidade de Redução de 15%"
+                </div>
+                <div class="item" style="margin-top: 12px; color: #2e7d32;">
+                    ✨ A conclusão é cristalina
+                </div>
+            </div>
+        </div>
+        
+        <div class="grid-2">
+            <div class="section section-5">
+                <div class="section-title">
+                    <span class="section-emoji">🎯</span>
+                    A Função
+                </div>
+                <div class="item">
+                    Os títulos são o <span class="item-label">esqueleto do documento.</span>
+                </div>
+                <div class="item" style="margin-top: 15px;">
+                    Lendo apenas os títulos, o leitor entende a história completa.
+                </div>
+            </div>
+            
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">✨</span>
+                    A Chave
+                </div>
+                <div class="item">
+                    Títulos devem ser <span class="item-label">afirmações, não tópicos.</span>
+                </div>
+                <div class="item" style="margin-top: 15px;">
+                    Cada título responde à pergunta do nível acima.
+                </div>
+            </div>
+        </div>
+        
+        <div class="paragraph-example">
+            <div style="font-weight: bold; color: #4a148c; margin-bottom: 15px; font-size: 17px;">
+                📋 Exemplo de Hierarquia de Títulos:
+            </div>
+            <div style="color: #666; line-height: 2;">
+                <strong style="color: #4a148c;">Título Principal:</strong> Devemos mudar a estratégia de vendas
+                <br>
+                <strong style="color: #2e7d32;">↳ Subtítulo 2.1:</strong> O modelo B2B aumentará a margem de lucro em 20%
+                <br>
+                <strong style="color: #2e7d32;">↳ Subtítulo 2.2:</strong> A implementação pode ocorrer em 6 meses
+                <br>
+                <strong style="color: #2e7d32;">↳ Subtítulo 2.3:</strong> O investimento inicial será de $500K
+            </div>
+        </div>
+        
+        <!-- FINAL INSIGHT -->
+        <div class="chapter-divider"></div>
+        <div class="insight" style="margin-top: 50px;">
+            <div class="insight-title">
+                <span>🏆</span>
+                Os 20 Capítulos em Uma Frase
+            </div>
+            <div class="insight-text">
+                <strong style="color: #ff6b6b; font-size: 17px;">Construa sua Pirâmide de baixo para cima com dados MECE.</strong> Apresente-a de cima para baixo com Resposta Primeiro. Use <span class="highlight">Dedução para rigor</span> e <span class="highlight">Indução para velocidade.</span> Estruture cada parágrafo e título como mini-pirâmides. <strong style="color: #1976d2;">Resultado: comunicação irresistivelmente clara, lógica e memorável!</strong>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

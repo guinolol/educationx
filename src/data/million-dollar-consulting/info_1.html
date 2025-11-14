@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote Caps 1-4: Consultor de Milhões</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #1976d2; /* Changed color */
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: #1976d2; /* Changed color */
+            color: #fff;
+            padding: 12px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .title {
+            font-size: 56px;
+            font-weight: bold;
+            color: #1565c0; /* Changed color */
+            font-family: 'Caveat', cursive;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        
+        .subtitle {
+            font-size: 26px;
+            color: #1976d2; /* Changed color */
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUT */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .section-1 { border-left-color: #1976d2; }
+        .section-2 { border-left-color: #f57c00; }
+        .section-3 { border-left-color: #c2185b; }
+        .section-4 { border-left-color: #2e7d32; } /* New style for cap 4 */
+        
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-1 .section-title { color: #1976d2; }
+        .section-2 .section-title { color: #f57c00; }
+        .section-3 .section-title { color: #c2185b; }
+        .section-4 .section-title { color: #2e7d32; } /* New style for cap 4 */
+        
+        .section-emoji {
+            font-size: 36px;
+        }
+        
+        .item {
+            font-size: 16px;
+            line-height: 1.7;
+            color: #555;
+            margin-bottom: 10px; /* Added margin */
+        }
+        
+        .item:last-child {
+            margin-bottom: 0;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        /* REACTIONS SECTION */
+        .reactions {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .reaction-box {
+            background: #fff;
+            border: 3px dashed;
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        
+        .reaction-violence {
+            border-color: #ff4444;
+            background: rgba(255, 68, 68, 0.05);
+        }
+        
+        .reaction-silence {
+            border-color: #00796b;
+            background: rgba(0, 121, 107, 0.05);
+        }
+        
+        .reaction-emoji {
+            font-size: 60px;
+            margin-bottom: 15px;
+        }
+        
+        .reaction-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .reaction-violence .reaction-title { color: #ff4444; }
+        .reaction-silence .reaction-title { color: #00796b; }
+        
+        .reaction-desc {
+            font-size: 15px;
+            color: #666;
+            line-height: 1.6;
+        }
+        
+        .x-mark {
+            font-size: 32px;
+            margin-bottom: 8px;
+        }
+        
+        .section-subtitle {
+            font-size: 20px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        
+        /* SOLUTION BOX */
+        .solution {
+            background: linear-gradient(135deg, #e1f5fe 0%, #b3e5fc 100%); /* Changed color */
+            border: 4px solid #0277bd; /* Changed color */
+            padding: 40px;
+            border-radius: 12px;
+            text-align: center;
+            margin: 40px 0;
+        }
+        
+        .solution-title {
+            font-size: 32px;
+            color: #01579b; /* Changed color */
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .solution-emoji {
+            font-size: 70px;
+            margin: 15px 0;
+        }
+        
+        .solution-text {
+            font-size: 20px;
+            color: #01579b; /* Changed color */
+            font-weight: bold;
+        }
+        
+        .solution-sub {
+            font-size: 16px;
+            color: #0277bd; /* Changed color */
+            margin-top: 15px;
+            font-style: italic;
+        }
+        
+        /* INSIGHT BOX */
+        .insight {
+            background: #f3e5f5;
+            border-left: 6px solid #7b1fa2;
+            padding: 35px;
+            border-radius: 10px;
+        }
+        
+        .insight-title {
+            font-size: 26px;
+            color: #7b1fa2;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .insight-text {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #555;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #7b1fa2;
+            background: rgba(123, 31, 162, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-2, .reactions {
+                grid-template-columns: 1fr;
+            }
+            
+            .title {
+                font-size: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 1-4</div>
+            <div class="title">🧠 Mentalidade ➡️ Prospecção: O Caminho do Milhão</div>
+            <div class="subtitle">(De Vendedor de Horas a Parceiro de Valor)</div>
+        </div>
+        
+        <div class="grid-2">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">🧠</span>
+                    Cap 1: A Mentalidade
+                </div>
+                <div class="item">
+                    <span class="item-label">Foco:</span> Vender <span style="font-weight:bold; color: #1976d2;">Valor e ROI</span>, não tempo e tarefas.
+                </div>
+                 <div class="item">
+                    <span class="item-label">Identidade:</span> Você é um <span style="font-weight:bold;">Investimento</span>, não um Custo.
+                </div>
+                <div class="item">
+                    <span class="item-label">Público:</span> Fale com o <span style="font-weight:bold;">"Economic Buyer"</span> (quem assina o cheque), não com o RH.
+                </div>
+                <div class="item">
+                    <span class="item-label">Moeda:</span> A <span style="font-weight:bold;">Confiança</span> é a base para vender valor.
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">📢</span>
+                    Cap 2: Visibilidade
+                </div>
+                <div class="item">
+                    <span class="item-label">Visibilidade:</span> Ser <span style="font-weight:bold; color: #f57c00;">visto</span> pelo seu público-alvo.
+                </div>
+                 <div class="item">
+                    <span class="item-label">Credibilidade:</span> Ser <span style="font-weight:bold;">respeitado</span> como o especialista.
+                </div>
+                <div class="item">
+                    <span class="item-label">Ativo:</span> Crie <span style="font-weight:bold;">Propriedade Intelectual (IP)</span> - artigos, livros, modelos.
+                </div>
+                <div class="item">
+                    <span class="item-label">Plataforma:</span> Sua IP e marca atraem clientes passivamente.
+                </div>
+            </div>
+            
+            <div class="section section-3">
+                <div class="section-title">
+                    <span class="section-emoji">🧲</span>
+                    Cap 3: Prospecção
+                </div>
+                <div class="item">
+                    <span class="item-label">Atração:</span> Use sua IP como <span style="font-weight:bold; color: #c2185b;">ímã</span>. Clientes vêm até você.
+                </div>
+                 <div class="item">
+                    <span class="item-label">Foco:</span> No <span style="font-weight:bold;">problema do cliente</span>, não no seu currículo.
+                </div>
+                <div class="item">
+                    <span class="item-label">Qualificação:</span> Seja rápido em dizer 'não' a clientes ruins.
+                </div>
+                <div class="item">
+                    <span class="item-label">Nicho:</span> Seja o <span style="font-weight:bold;">único especialista</span> para um problema específico.
+                </div>
+            </div>
+            
+            <div class="section section-4">
+                <div class="section-title">
+                    <span class="section-emoji">🩺</span>
+                    Cap 4: O Diagnóstico
+                </div>
+                <div class="item">
+                    <span class="item-label">Foco na Dor:</span> <span style="font-weight:bold; color: #2e7d32;">Quantifique o custo</span> do problema ANTES de falar da solução.
+                </div>
+                 <div class="item">
+                    <span class="item-label">Gap Analysis:</span> Mostre a lacuna entre o 'Atual' (dor) e o 'Desejado' (ganho).
+                </div>
+                <div class="item">
+                    <span class="item-label">A Pergunta:</span> "O que acontece se você <span style="font-weight:bold;">não</span> resolver isso?"
+                </div>
+                <div class="item">
+                    <span class="item-label">Posição:</span> Não seja um "tirador de pedidos". Desafie o cliente.
+                </div>
+            </div>
+        </div>
+        
+        <div class="section-subtitle">😤 O Modelo Antigo (O que EVITAR):</div>
+        <div class="reactions">
+            <div class="reaction-box reaction-violence">
+                <div class="x-mark">❌</div>
+                <div class="reaction-emoji">⏱️</div>
+                <div class="reaction-title">O VENDEDOR DE HORAS</div>
+                <div class="reaction-desc">"Me pague pelo meu tempo."<br>Foca em tarefas, é visto como custo, persegue clientes, fala com a pessoa errada.</div>
+            </div>
+            <div class="reaction-box reaction-silence">
+                <div class="x-mark">❌</div>
+                <div class="reaction-emoji">🤫</div>
+                <div class="reaction-title">O SEGREDO BEM GUARDADO</div>
+                <div class="reaction-desc">"Eu sou bom, mas ninguém sabe."<br>Tem credibilidade, mas zero visibilidade. Dá a solução de graça no diagnóstico.</div>
+            </div>
+        </div>
+        
+        <div class="solution">
+            <div class="solution-title">✅ O MODELO DE MILHÕES</div>
+            <div class="solution-emoji">💡</div>
+            <div class="solution-text">VALOR BASEADO EM RESULTADOS</div>
+            <div class="solution-sub">Seu preço é uma fração da DOR (quantificada) que você se propõe a resolver.</div>
+        </div>
+        
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                A Grande Virada
+            </div>
+            <div class="insight-text">
+                Você não é pago pelo seu <span class="highlight">tempo</span>, você é pago pela sua <span class="highlight">perspectiva</span>.
+                <br><br>
+                Deixe de ser um "par de mãos" (executor) e se torne um <span class="highlight">parceiro estratégico</span> (investimento).
+                <br><br>
+                <span class="highlight">Sua IP atrai, seu Diagnóstico ancora o valor, e sua Confiança fecha o negócio.</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

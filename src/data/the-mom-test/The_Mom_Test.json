@@ -1,0 +1,3322 @@
+[
+  {
+    "id": 1,
+    "title": "A Regra de Ouro: Pergunte sobre a Vida, Não sobre a Ideia",
+    "teaser": "🤫 Sua mãe te ama e vai mentir. Descubra a ÚNICA pergunta que te dá a verdade nua e crua sobre seu cliente.",
+    "level1": "O 'Teste da Mãe' é um conjunto de regras simples para criar conversas com clientes que não te enganam. A regra central é focar em aprender sobre os problemas reais que o cliente enfrenta, perguntando sobre **experiências passadas** e **fatos concretos**, em vez de opiniões ou hipóteses futuras.",
+    "level2": "Evite falar sobre sua ideia a todo custo, pois isso ativa a 'polidez' do cliente, resultando em elogios vazios e 'Sim' falsos. O comportamento passado do cliente é o melhor preditor de comportamento futuro. Se o cliente já agiu, o problema é real.",
+    "level3": "Pergunta Ruim: 'Você usaria um aplicativo que organiza suas finanças?' Pergunta Boa: 'Conte-me sobre a **última vez** que você tentou organizar suas finanças. O que você **fez**?'",
+    "recapitulation": [
+      "Regra de Ouro: Foco no que **fizeram** no **passado**, não no que **fariam** no **futuro**.",
+      "O passado é o único lugar onde as pessoas dizem a verdade.",
+      "Evite ativamente falar sobre sua ideia (o 'elefante na sala').",
+      "Elogios são a morte da validação – ignore-os.",
+      "Busque fatos concretos e evidências de **ação** ou **gasto**."
+    ],
+    "practicalChecklist": [
+      "✅ **80/20 Rule:** Deixe o cliente falar 80% do tempo.",
+      "✅ **Converse sobre a Vida:** Comece pedindo conselho sobre o problema, não feedback sobre sua ideia.",
+      "✅ **Ignore Elogios:** Se for elogiado, redirecione imediatamente para o passado ('O que te fez pensar nisso?').",
+      "✅ **Busque o Custo da Dor:** Pergunte o que já gastaram (tempo, dinheiro, esforço) para resolver.",
+      "✅ **Level 1 Action:** Escreva 3 perguntas focadas no passado para sua próxima entrevista."
+    ],
+    "conclusionMessage": "A Regra de Ouro é: Pergunte sobre a vida deles, não sobre a sua ideia. Foco em fatos passados e concretos, não em opiniões ou hipóteses futuras.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo do 'Teste da Mãe'?",
+        "options": [
+          { "value": "a", "label": "Obter elogios e encorajamento para sua ideia." },
+          { "value": "b", "label": "Criar conversas que forneçam dados concretos e não tendenciosos sobre os problemas do cliente." },
+          { "value": "c", "label": "Vender o produto o mais rápido possível." },
+          { "value": "d", "label": "Validar o preço ideal do produto." }
+        ],
+        "explanation": "O objetivo é obter a verdade, focando em fatos e comportamentos, não em opiniões gentis.",
+        "hint": "Foco na verdade.",
+        "correctAnswer": "b",
+        "bookExample": "Se você está vendendo algo, você está fazendo errado. Você deve estar aprendendo."
+      },
+      {
+        "id": "2",
+        "question": "Qual tipo de informação é considerada 'dado concreto' e mais valiosa?",
+        "options": [
+          { "value": "a", "label": "Opiniões sobre o futuro ('Eu usaria isso')." },
+          { "value": "b", "label": "Fatos sobre o comportamento passado ('Eu gastei R$ 500 na semana passada com isso')." },
+          { "value": "c", "label": "Elogios sobre a sua ideia ('Sua ideia é genial')." },
+          { "value": "d", "label": "Sugestões de recursos ('Você deveria adicionar um botão verde')." }
+        ],
+        "explanation": "O comportamento passado é o melhor preditor de comportamento futuro. Fatos são inegáveis.",
+        "hint": "O que já aconteceu.",
+        "correctAnswer": "b",
+        "bookExample": "O passado é o único lugar onde as pessoas dizem a verdade."
+      },
+      {
+        "id": "3",
+        "question": "Por que é perigoso falar sobre sua ideia durante a entrevista?",
+        "options": [
+          { "value": "a", "label": "Porque o cliente pode roubar a ideia." },
+          { "value": "b", "label": "Porque isso induz o cliente a dar respostas polidas e elogiosas, em vez de feedback honesto." },
+          { "value": "c", "label": "Porque você pode esquecer o que ia dizer." },
+          { "value": "d", "label": "Porque a conversa fica muito longa." }
+        ],
+        "explanation": "As pessoas querem ser gentis. Falar sobre sua ideia ativa o modo 'elogio' e desativa o modo 'problema'.",
+        "hint": "Gentileza excessiva.",
+        "correctAnswer": "b",
+        "bookExample": "Sua ideia é o elefante na sala. Não o alimente."
+      },
+      {
+        "id": "4",
+        "question": "Qual destas é uma 'Pergunta Ruim' (Bad Question)?",
+        "options": [
+          { "value": "a", "label": "O que te frustra no seu trabalho diário?" },
+          { "value": "b", "label": "Quanto você pagaria por uma solução para esse problema?" },
+          { "value": "c", "label": "Como você resolveu esse problema na semana passada?" },
+          { "value": "d", "label": "O que você tentou fazer para resolver isso antes?" }
+        ],
+        "explanation": "Perguntar sobre o preço futuro é uma hipótese. O cliente não sabe o que pagaria até que o problema seja resolvido.",
+        "hint": "Foco no futuro e dinheiro.",
+        "correctAnswer": "b",
+        "bookExample": "Se eles não estão pagando agora, eles não pagarão depois."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Manter o Foco no Cliente'?",
+        "options": [
+          { "value": "a", "label": "Falar sobre como sua solução é perfeita para ele." },
+          { "value": "b", "label": "Garantir que 80% do tempo de fala seja do cliente, focando em suas experiências, problemas e vida." },
+          { "value": "c", "label": "Fazer perguntas de 'Sim/Não'." },
+          { "value": "d", "label": "Anotar apenas os elogios." }
+        ],
+        "explanation": "Você está lá para aprender, não para ensinar ou vender. O cliente é o especialista na vida dele.",
+        "hint": "Proporção de fala.",
+        "correctAnswer": "b",
+        "bookExample": "Você tem duas orelhas e uma boca. Use-as nessa proporção."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de perguntar 'Você acha que isso é uma boa ideia?'",
+        "options": [
+          { "value": "a", "label": "O cliente pode dizer 'Não'." },
+          { "value": "b", "label": "O cliente se sente obrigado a ser positivo, resultando em um 'Sim' falso e inútil." },
+          { "value": "c", "label": "A conversa fica muito técnica." },
+          { "value": "d", "label": "Você perde o foco no problema." }
+        ],
+        "explanation": "Essa é a pergunta mais perigosa, pois busca validação emocional, não dados concretos.",
+        "hint": "Validação emocional.",
+        "correctAnswer": "b",
+        "bookExample": "Se você perguntar se é uma boa ideia, eles dirão que sim."
+      },
+      {
+        "id": "7",
+        "question": "O que você deve buscar em uma conversa para provar que um problema é real?",
+        "options": [
+          { "value": "a", "label": "Entusiasmo sobre sua solução." },
+          { "value": "b", "label": "Evidências de que o cliente já está gastando tempo, dinheiro ou esforço para contornar o problema." },
+          { "value": "c", "label": "Uma promessa de compra futura." },
+          { "value": "d", "label": "Uma lista de recursos que eles gostariam de ter." }
+        ],
+        "explanation": "Se o problema é real, ele já está custando algo ao cliente.",
+        "hint": "Custo atual.",
+        "correctAnswer": "b",
+        "bookExample": "Se eles não estão tentando resolver, eles não têm o problema."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a melhor forma de iniciar uma conversa com um cliente potencial?",
+        "options": [
+          { "value": "a", "label": "Apresentando seu pitch de vendas." },
+          { "value": "b", "label": "Pedindo ajuda ou conselho sobre um problema que você está tentando entender." },
+          { "value": "c", "label": "Perguntando se ele tem 5 minutos para falar sobre sua ideia." },
+          { "value": "d", "label": "Dizendo que você tem a solução perfeita para ele." }
+        ],
+        "explanation": "Pedir conselho desarma a defensiva e faz a pessoa se sentir importante e disposta a compartilhar.",
+        "hint": "Humildade e aprendizado.",
+        "correctAnswer": "b",
+        "bookExample": "Peça conselho, não feedback."
+      },
+      {
+        "id": "9",
+        "question": "O que é um 'Elogio' (Compliment) na entrevista?",
+        "options": [
+          { "value": "a", "label": "Uma declaração sobre o passado ('Eu usei X na semana passada')." },
+          { "value": "b", "label": "Qualquer coisa que faça o cliente se sentir bem sobre você ou sua ideia, mas que não contenha dados concretos." },
+          { "value": "c", "label": "Uma crítica construtiva." },
+          { "value": "d", "label": "Uma pergunta aberta." }
+        ],
+        "explanation": "Elogios são vazios de dados e devem ser ignorados ou transformados em perguntas sobre o passado.",
+        "hint": "Vazio de dados.",
+        "correctAnswer": "b",
+        "bookExample": "Elogios são a morte da validação."
+      },
+      {
+        "id": "10",
+        "question": "Se um cliente diz: 'Eu adoraria usar isso!', qual deve ser sua resposta?",
+        "options": [
+          { "value": "a", "label": "Ótimo! Quando você quer comprar?" },
+          { "value": "b", "label": "Obrigado! Mas me diga, o que você fez na última vez que teve esse problema?" },
+          { "value": "c", "label": "Sim, eu sei que é uma ótima ideia!" },
+          { "value": "d", "label": "Que bom! Você pode me dar um depoimento?" }
+        ],
+        "explanation": "Você deve ignorar o elogio e redirecionar a conversa para o comportamento passado e concreto.",
+        "hint": "Redirecionamento para o passado.",
+        "correctAnswer": "b",
+        "bookExample": "Transforme elogios em fatos."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Perguntas Ruins vs. Perguntas Boas",
+    "teaser": "💣 Uma pergunta ruim pode DESTRUIR sua startup. Aprenda a trocar hipóteses de 'Sim/Não' por histórias de dor e custo.",
+    "level1": "A qualidade da sua conversa é determinada pela qualidade das suas perguntas. Perguntas ruins focam em **opiniões, futuro e sua solução**. Elas induzem 'Sim' falsos. Perguntas boas são **abertas**, focam em **ações passadas** e forçam o cliente a descrever um evento real.",
+    "level2": "Sempre que você ouvir uma opinião ('Eu faria...') ou uma sugestão ('Você deveria...'), você está fazendo a pergunta errada. Você deve buscar a 'história' por trás da opinião: O que aconteceu? Como você se sentiu? O que você fez para resolver?",
+    "level3": "Ruim: 'Você compraria isso?' Bom: 'O que você **comprou** para tentar resolver isso no ano passado?' O foco é em uma **decisão passada** (ação real), não em uma **intenção futura** (hipótese)."
+    ,
+    "recapitulation": [
+      "Perguntas Ruins = Opinião, Futuro, Sua Ideia.",
+      "Perguntas Boas = Ação Passada, Dor, Contexto.",
+      "Evite perguntas de 'Sim/Não' sobre o problema ('Você tem X problema?').",
+      "Busque a **história** (o que aconteceu, como se sentiu, o que fez) por trás de cada declaração.",
+      "Ignore o 'Eu faria/Eu acho' e busque o **'Eu fiz'**."
+    ],
+    "practicalChecklist": [
+      "✅ **Ruim->Bom Swap:** Liste 5 perguntas 'ruins' que você faria e as reescreva para focar no 'Eu fiz'.",
+      "✅ **Mantenha Aberto:** Use 'Conte-me sobre...', 'O que te fez...' em vez de 'Você faria...'.",
+      "✅ **Ancore no Passado:** Sempre que o cliente falar sobre o futuro, ancore a conversa em um evento passado específico.",
+      "✅ **Filtro de Sugestão:** Quando ouvir uma sugestão, pergunte: 'Por que isso é importante? O que você está tentando fazer que não consegue agora?'",
+      "✅ **Level 2 Action:** Interrompa-se 3 vezes em sua próxima entrevista para não falar da sua solução."
+    ],
+    "conclusionMessage": "Perguntas ruins focam em opiniões, futuro e sua ideia. Perguntas boas focam em experiências passadas, problemas e o contexto do cliente.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a característica principal de uma 'Pergunta Ruim'?",
+        "options": [
+          { "value": "a", "label": "É muito longa." },
+          { "value": "b", "label": "Ela contém sua ideia ou solução, induzindo o cliente a dar feedback tendencioso." },
+          { "value": "c", "label": "É muito curta." },
+          { "value": "d", "label": "É muito específica." }
+        ],
+        "explanation": "Se a pergunta menciona sua solução, ela está contaminada.",
+        "hint": "Contaminação.",
+        "correctAnswer": "b",
+        "bookExample": "Não coloque sua ideia na boca do cliente."
+      },
+      {
+        "id": "2",
+        "question": "Qual destas é uma 'Pergunta Boa' (Good Question)?",
+        "options": [
+          { "value": "a", "label": "Você acha que este recurso seria útil?" },
+          { "value": "b", "label": "O que te fez decidir mudar de fornecedor da última vez?" },
+          { "value": "c", "label": "Você pagaria R$ 50 por mês por isso?" },
+          { "value": "d", "label": "Você tem esse problema com frequência?" }
+        ],
+        "explanation": "Focar na decisão de mudança passada revela a dor e o custo de troca reais.",
+        "hint": "Decisão passada.",
+        "correctAnswer": "b",
+        "bookExample": "Pergunte sobre decisões, não sobre intenções."
+      },
+      {
+        "id": "3",
+        "question": "Se o cliente diz: 'Eu faria isso de forma diferente', o que você deve perguntar em seguida?",
+        "options": [
+          { "value": "a", "label": "Como você faria?" },
+          { "value": "b", "label": "O que você fez da última vez que tentou fazer isso?" },
+          { "value": "c", "label": "Por que você não fez isso antes?" },
+          { "value": "d", "label": "Você acha que minha ideia é ruim?" }
+        ],
+        "explanation": "O 'Eu faria' é uma hipótese. Você deve ancorar a conversa em um evento passado e concreto.",
+        "hint": "Ancoragem no passado.",
+        "correctAnswer": "b",
+        "bookExample": "Ignore o 'Eu faria'. Busque o 'Eu fiz'."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de fazer perguntas que buscam 'Sugestões de Recursos'?",
+        "options": [
+          { "value": "a", "label": "Você pode construir o produto errado, baseado em desejos superficiais, não em necessidades reais." },
+          { "value": "b", "label": "O cliente pode roubar sua ideia." },
+          { "value": "c", "label": "A conversa fica muito curta." },
+          { "value": "d", "label": "Você perde o foco no preço." }
+        ],
+        "explanation": "O cliente é especialista no problema, não na solução. Sugestões de recursos são distrações.",
+        "hint": "Solução errada.",
+        "correctAnswer": "a",
+        "bookExample": "Se você constrói recursos que ninguém usa, você falhou."
+      },
+      {
+        "id": "5",
+        "question": "O que você deve fazer quando o cliente começa a dar um 'Elogio'?",
+        "options": [
+          { "value": "a", "label": "Aceitar e agradecer." },
+          { "value": "b", "label": "Transformar o elogio em uma pergunta sobre o passado ou o problema subjacente." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "Elogios são a morte da validação. Você deve usá-los como uma ponte para o problema real.",
+        "hint": "Ponte para o problema.",
+        "correctAnswer": "b",
+        "bookExample": "Elogios são a morte da validação."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a diferença entre 'Opinião' e 'Fato' na entrevista?",
+        "options": [
+          { "value": "a", "label": "Opinião é o que eles dizem que farão; Fato é o que eles dizem que farão." },
+          { "value": "b", "label": "Opinião é o que eles acham; Fato é o que eles fizeram (comportamento passado)." },
+          { "value": "c", "label": "Opinião é o que eles fizeram; Fato é o que eles acham." },
+          { "value": "d", "label": "Não há diferença, ambos são igualmente valiosos." }
+        ],
+        "explanation": "Fatos são baseados em ações e eventos concretos. Opiniões são baseadas em sentimentos e hipóteses.",
+        "hint": "Ação vs. Sentimento.",
+        "correctAnswer": "b",
+        "bookExample": "Fatos são a única coisa que importa."
+      },
+      {
+        "id": "7",
+        "question": "Se o cliente diz: 'Eu acho que este problema é muito grande', o que você deve buscar?",
+        "options": [
+          { "value": "a", "label": "Concordar com ele." },
+          { "value": "b", "label": "Evidências de que ele já tentou resolver o problema e falhou (o custo da dor)." },
+          { "value": "c", "label": "Perguntar se ele pagaria por uma solução." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Eu acho' é uma opinião. Você precisa de evidências de que o problema é grande o suficiente para justificar uma solução.",
+        "hint": "Custo da dor.",
+        "correctAnswer": "b",
+        "bookExample": "Se o problema é grande, ele já está custando algo."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de perguntar 'Você tem esse problema?'",
+        "options": [
+          { "value": "a", "label": "O cliente pode dizer 'Sim' por polidez, sem que o problema seja real ou doloroso." },
+          { "value": "b", "label": "O cliente pode dizer 'Não'." },
+          { "value": "c", "label": "A conversa fica muito longa." },
+          { "value": "d", "label": "Você perde o foco no preço." }
+        ],
+        "explanation": "Perguntas de 'Sim/Não' sobre problemas são perigosas. É melhor perguntar 'Conte-me sobre a última vez que você teve esse problema'.",
+        "hint": "Polidez.",
+        "correctAnswer": "a",
+        "bookExample": "O 'Sim' fácil é o inimigo da verdade."
+      },
+      {
+        "id": "9",
+        "question": "O que você deve fazer se o cliente começar a falar sobre sua ideia?",
+        "options": [
+          { "value": "a", "label": "Encorajá-lo a continuar." },
+          { "value": "b", "label": "Gentilmente redirecionar a conversa para o problema e o comportamento passado." },
+          { "value": "c", "label": "Anotar todas as sugestões de recursos." },
+          { "value": "d", "label": "Encerrar a conversa." }
+        ],
+        "explanation": "Você deve manter o foco no problema, não na solução. Redirecione a conversa.",
+        "hint": "Redirecionamento.",
+        "correctAnswer": "b",
+        "bookExample": "Não alimente o elefante na sala."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o objetivo de perguntar 'O que você fez para resolver isso?'",
+        "options": [
+          { "value": "a", "label": "Obter sugestões de recursos." },
+          { "value": "b", "label": "Descobrir o custo real (tempo, dinheiro, esforço) que o cliente já está pagando para contornar o problema." },
+          { "value": "c", "label": "Validar o preço ideal do produto." },
+          { "value": "d", "label": "Fazer o cliente se sentir inteligente." }
+        ],
+        "explanation": "A solução atual do cliente (mesmo que seja uma gambiarra) revela a dor e a urgência.",
+        "hint": "Gambiarra.",
+        "correctAnswer": "b",
+        "bookExample": "A solução atual é o seu concorrente mais perigoso."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "O Problema do Elogio e da Polidez",
+    "teaser": "🚨 Elogios são a morte da sua startup! Entenda por que a gentileza do cliente é seu maior inimigo e como desarmá-la.",
+    "level1": "As pessoas são inerentemente gentis e querem evitar o conflito, especialmente com um amigo ou empreendedor entusiasmado. Elas darão **elogios** ('Sua ideia é ótima!') e **'Sim' falsos** para te fazer sentir bem. O problema é que esses dados são inúteis e te levam a construir algo que ninguém quer.",
+    "level2": "O elogio é um 'ruído' que deve ser ignorado. Sempre que você ouvir algo que te faz sentir bem, ligue o alarme e use-o como uma ponte para o passado: 'Isso é ótimo, mas me diga, **o que você fez ontem** para resolver esse problema?'",
+    "level3": "A polidez é um mecanismo social. Você deve treinar-se para **ignorar o elogio** e **buscar a dor real** que o cliente está tentando esconder. O objetivo é quebrar a fachada de gentileza, focando em fatos concretos e emoções fortes (frustração, raiva, custo)."
+    ,
+    "recapitulation": [
+      "Polidez e Elogios = **'Sim' Falso** e dados inúteis.",
+      "Elogio é a morte da validação.",
+      "Sempre use o elogio como uma **ponte para o passado**.",
+      "Busque o **Custo da Dor Emocional** (frustração, raiva) por trás da polidez.",
+      "O 'Sim' de um amigo é o mais perigoso de todos."
+    ],
+    "practicalChecklist": [
+      "✅ **Alarme de Elogio:** Sempre que o cliente elogiar sua ideia, respire e redirecione com 'Eu realmente aprecio, mas... me conte sobre o que você fez...'.",
+      "✅ **Busque a Cicatriz:** Pergunte 'O que te frustrou mais?' ou 'O que te fez desistir?' para encontrar a dor emocional.",
+      "✅ **Foco na Ação:** Se o cliente disser 'Eu adoraria usar isso!', peça um comprometimento (ver lição 9) em vez de agradecer.",
+      "✅ **Rotule a Polidez:** Se necessário, use **empatia tática** ('Parece que você está tentando ser gentil...') para quebrar o gelo.",
+      "✅ **Level 3 Action:** Em sua próxima entrevista com um amigo, foque apenas em dados acionáveis e ignore completamente o que ele disser sobre sua ideia."
+    ],
+    "conclusionMessage": "Elogios e polidez são a morte da validação. Você deve treinar-se para ignorar elogios e buscar a dor real por trás deles.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Por que a polidez é o maior inimigo da validação?",
+        "options": [
+          { "value": "a", "label": "Porque as pessoas são rudes." },
+          { "value": "b", "label": "Porque a polidez leva a 'Sim' falsos e elogios, mascarando a falta de dor real." },
+          { "value": "c", "label": "Porque a conversa fica muito curta." },
+          { "value": "d", "label": "Porque o cliente não tem tempo." }
+        ],
+        "explanation": "A polidez é um mecanismo social que impede a honestidade brutal necessária para a validação.",
+        "hint": "Mecanismo social.",
+        "correctAnswer": "b",
+        "bookExample": "A polidez é a morte da validação."
+      },
+      {
+        "id": "2",
+        "question": "Se o cliente diz: 'Eu acho que você deveria adicionar um recurso X', o que você deve fazer?",
+        "options": [
+          { "value": "a", "label": "Anotar o recurso X e adicioná-lo ao roadmap." },
+          { "value": "b", "label": "Perguntar: 'Por que você precisa desse recurso? O que você está tentando fazer que não consegue agora?'" },
+          { "value": "c", "label": "Dizer que você já pensou nisso." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Sugestões de recursos são distrações. Você deve cavar para encontrar o problema subjacente que motivou a sugestão.",
+        "hint": "Problema subjacente.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente é especialista no problema, não na solução."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de aceitar um 'Sim' de um amigo ou familiar?",
+        "options": [
+          { "value": "a", "label": "Eles podem roubar sua ideia." },
+          { "value": "b", "label": "O 'Sim' é quase sempre um 'Sim' falso, motivado pelo desejo de te apoiar e não pela dor real." },
+          { "value": "c", "label": "Eles não têm dinheiro." },
+          { "value": "d", "label": "Eles falam demais." }
+        ],
+        "explanation": "Amigos e familiares são a 'Mãe' figurativa. Eles não querem te desapontar.",
+        "hint": "Apoio emocional.",
+        "correctAnswer": "b",
+        "bookExample": "Sua mãe te ama. Ela não fará o Teste da Mãe."
+      },
+      {
+        "id": "4",
+        "question": "Como você transforma um elogio ('Sua ideia é incrível!') em dados úteis?",
+        "options": [
+          { "value": "a", "label": "Agradecendo e encerrando a conversa." },
+          { "value": "b", "label": "Perguntando sobre o comportamento passado que o elogio implica ('O que te fez pensar nisso? Qual foi a última vez que você teve esse problema?')." },
+          { "value": "c", "label": "Perguntando se ele quer investir." },
+          { "value": "d", "label": "Perguntando se ele conhece alguém que usaria." }
+        ],
+        "explanation": "O elogio é um sinal de que você tocou em algo. Use-o para voltar ao passado e ao problema.",
+        "hint": "Sinal de algo tocado.",
+        "correctAnswer": "b",
+        "bookExample": "Elogios são a morte da validação."
+      },
+      {
+        "id": "5",
+        "question": "O que você deve fazer se o cliente começar a falar sobre 'Recursos' que ele gostaria?",
+        "options": [
+          { "value": "a", "label": "Anotar e prometer que serão construídos." },
+          { "value": "b", "label": "Perguntar: 'Por que isso é importante? O que você está tentando alcançar com esse recurso?'" },
+          { "value": "c", "label": "Dizer que você não tem tempo para construir isso." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O cliente projeta soluções. Você deve buscar a motivação por trás da projeção.",
+        "hint": "Motivação.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente é especialista no problema, não na solução."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de perguntar 'Você pagaria por isso?'",
+        "options": [
+          { "value": "a", "label": "O cliente pode dizer 'Não'." },
+          { "value": "b", "label": "O cliente pode dizer 'Sim' (hipótese) sem ter a intenção real de pagar, resultando em dados financeiros inúteis." },
+          { "value": "c", "label": "A conversa fica muito longa." },
+          { "value": "d", "label": "Você perde o foco no problema." }
+        ],
+        "explanation": "Perguntas sobre preço futuro são inúteis. O foco deve ser no que eles já pagaram no passado.",
+        "hint": "Hipótese financeira.",
+        "correctAnswer": "b",
+        "bookExample": "Se eles não estão pagando agora, eles não pagarão depois."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Cavar Fundo' (Digging Deeper) após uma resposta superficial?",
+        "options": [
+          { "value": "a", "label": "Fazer a mesma pergunta de novo." },
+          { "value": "b", "label": "Usar perguntas de acompanhamento ('Por que isso aconteceu?', 'O que você fez em seguida?') para obter detalhes concretos e emocionais." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Falar sobre sua ideia." }
+        ],
+        "explanation": "Detalhes concretos e emocionais são a chave para a verdade.",
+        "hint": "Detalhes.",
+        "correctAnswer": "b",
+        "bookExample": "A verdade está nos detalhes."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a melhor forma de lidar com a 'Polidez' de um cliente?",
+        "options": [
+          { "value": "a", "label": "Aceitar e agradecer." },
+          { "value": "b", "label": "Ignorar o elogio e redirecionar a conversa para o passado e o problema." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A polidez deve ser tratada como ruído. Redirecione para o sinal (o problema).",
+        "hint": "Ruído.",
+        "correctAnswer": "b",
+        "bookExample": "Ignore o ruído. Foque no sinal."
+      },
+      {
+        "id": "9",
+        "question": "Se o cliente diz: 'Eu acho que este problema é muito importante', o que você deve perguntar?",
+        "options": [
+          { "value": "a", "label": "Por que você acha isso?" },
+          { "value": "b", "label": "O que você fez na última vez que esse problema te custou tempo ou dinheiro?" },
+          { "value": "c", "label": "Você está pronto para comprar?" },
+          { "value": "d", "label": "Você conhece alguém que tem esse problema?" }
+        ],
+        "explanation": "O 'Eu acho' é uma opinião. Você precisa de evidências de que o problema é importante (custo real).",
+        "hint": "Custo real.",
+        "correctAnswer": "b",
+        "bookExample": "A importância é medida pelo custo."
+      },
+      {
+        "id": "10",
+        "question": "O que é um 'Sim' de Confirmação (Confirmation Yes)?",
+        "options": [
+          { "value": "a", "label": "Um 'Sim' que leva à compra." },
+          { "value": "b", "label": "Um 'Sim' dado por polidez ou para encerrar a conversa, sem comprometimento real." },
+          { "value": "c", "label": "Um 'Sim' que leva a um novo recurso." },
+          { "value": "d", "label": "Um 'Sim' que leva a um novo cliente." }
+        ],
+        "explanation": "O 'Sim' de confirmação é inútil e deve ser evitado.",
+        "hint": "Inútil.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' fácil é o inimigo da verdade."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Evitando Hipóteses e o Futuro",
+    "teaser": "🔮 O futuro é uma mentira. Não perca tempo perguntando 'o que faria', vá direto ao 'o que fez' para ter dados de verdade.",
+    "level1": "As pessoas são péssimas em prever seu próprio comportamento futuro. Perguntas hipotéticas (que começam com 'Se' ou 'Você faria') geram dados inúteis e levam a uma falsa sensação de segurança. O foco deve ser **100% no passado e no presente**.",
+    "level2": "Sua única fonte de dados confiável é o **comportamento passado e concreto**. Se o problema é real, o cliente já tem uma **história** sobre como tentou resolvê-lo (o 'Eu fiz'). Se ele só tem previsões (o 'Eu faria'), o problema não é urgente ou não existe.",
+    "level3": "Você deve **ancorar a conversa** em eventos específicos. Em vez de perguntar 'Com que frequência você usaria?', pergunte 'Quantas vezes você **fez** X no último mês?'. O que foi feito é um fato; o que será feito é uma fantasia. Ignore o 'Se' e o 'Talvez'."
+    ,
+    "recapitulation": [
+      "O futuro é uma mentira; Intenção não é Ação.",
+      "Ignore o 'Se', 'Talvez' e o 'Eu Faria'.",
+      "Ancore a conversa em **eventos específicos** e **data/horário**.",
+      "Busque a **frequência passada** (quantas vezes ocorreu) em vez da frequência futura.",
+      "Se não há uma história de **ação passada**, não há problema real."
+    ],
+    "practicalChecklist": [
+      "✅ **Ancoragem Imediata:** Se o cliente disser 'Eu usaria isso', responda 'Isso é ótimo, mas me conte sobre a última vez que você teve esse problema. O que aconteceu?'",
+      "✅ **Foco na História:** Sempre que possível, substitua perguntas gerais por 'Conte-me sobre a **última vez** que...' (ex: 'Que tipo de impacto isso teve?').",
+      "✅ **Generalização -> Específico:** Se o cliente generalizar ('Eu sempre faço isso'), peça um exemplo específico e recente ('Conte-me sobre a última vez, semana passada...').",
+      "✅ **Sacrifício Passado:** Pergunte o que o cliente **adiou ou sacrificou** para resolver o problema na última vez (prova de prioridade).",
+      "✅ **Level 1 Action:** Escreva um lembrete no seu bloco de notas: **'PASSADO > FUTURO'**."
+    ],
+    "conclusionMessage": "O futuro é uma mentira. Nunca pergunte o que o cliente faria. Pergunte o que ele fez. Foco em fatos passados e concretos.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o risco de perguntar sobre o comportamento futuro do cliente?",
+        "options": [
+          { "value": "a", "label": "O cliente pode roubar sua ideia." },
+          { "value": "b", "label": "As respostas são hipóteses não confiáveis, pois as pessoas não conseguem prever suas ações futuras." },
+          { "value": "c", "label": "A conversa fica muito longa." },
+          { "value": "d", "label": "Você perde o foco no problema." }
+        ],
+        "explanation": "A intenção não é ação. O futuro é uma mentira.",
+        "hint": "Intenção vs. Ação.",
+        "correctAnswer": "b",
+        "bookExample": "O futuro é uma mentira."
+      },
+      {
+        "id": "2",
+        "question": "Qual destas perguntas é a mais eficaz para obter dados concretos?",
+        "options": [
+          { "value": "a", "label": "Você acha que este problema vai piorar no futuro?" },
+          { "value": "b", "label": "Conte-me sobre a última vez que você teve que lidar com X. O que aconteceu?" },
+          { "value": "c", "label": "Você usaria um produto que resolvesse X?" },
+          { "value": "d", "label": "Qual é o seu orçamento para resolver X no próximo ano?" }
+        ],
+        "explanation": "Focar em uma história específica e passada (o que aconteceu) gera dados concretos e emocionais.",
+        "hint": "História específica.",
+        "correctAnswer": "b",
+        "bookExample": "Busque histórias, não previsões."
+      },
+      {
+        "id": "3",
+        "question": "Se o cliente diz: 'Eu compraria isso se tivesse o recurso Y', o que você deve fazer?",
+        "options": [
+          { "value": "a", "label": "Prometer construir o recurso Y." },
+          { "value": "b", "label": "Perguntar: 'O que você está fazendo agora para contornar a falta do recurso Y?'" },
+          { "value": "c", "label": "Dizer que o recurso Y é muito caro." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O cliente está projetando uma solução. Você deve voltar ao problema que ele está tentando resolver.",
+        "hint": "Projeção de solução.",
+        "correctAnswer": "b",
+        "bookExample": "Ignore o 'se'. Foque no 'agora'."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Ancorar a Conversa'?",
+        "options": [
+          { "value": "a", "label": "Falar sobre o preço." },
+          { "value": "b", "label": "Manter o foco em eventos específicos e concretos que já ocorreram, em vez de generalizações." },
+          { "value": "c", "label": "Falar sobre sua ideia." },
+          { "value": "d", "label": "Fazer perguntas de 'Sim/Não'." }
+        ],
+        "explanation": "A ancoragem em fatos passados garante que você esteja coletando dados reais.",
+        "hint": "Fatos passados.",
+        "correctAnswer": "b",
+        "bookExample": "Ancore a conversa em eventos específicos."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de perguntar 'Com que frequência você faria X?'",
+        "options": [
+          { "value": "a", "label": "O cliente pode dizer 'Nunca'." },
+          { "value": "b", "label": "A resposta é uma hipótese. É melhor perguntar 'Com que frequência você fez X no último mês?'" },
+          { "value": "c", "label": "A conversa fica muito longa." },
+          { "value": "d", "label": "Você perde o foco no problema." }
+        ],
+        "explanation": "Frequência futura é uma suposição. Frequência passada é um fato.",
+        "hint": "Frequência.",
+        "correctAnswer": "b",
+        "bookExample": "O que eles fariam é irrelevante. O que eles fizeram é tudo."
+      },
+      {
+        "id": "6",
+        "question": "Se o cliente diz: 'Eu acho que este problema é muito caro', o que você deve perguntar?",
+        "options": [
+          { "value": "a", "label": "Quanto você pagaria para resolver?" },
+          { "value": "b", "label": "Quanto você gastou na última vez que tentou resolver isso, e o que aconteceu?" },
+          { "value": "c", "label": "Você está pronto para comprar?" },
+          { "value": "d", "label": "Você conhece alguém que tem esse problema?" }
+        ],
+        "explanation": "O 'Eu acho' é uma opinião. Você precisa de evidências do custo real (dinheiro, tempo, esforço).",
+        "hint": "Custo real.",
+        "correctAnswer": "b",
+        "bookExample": "O custo é medido pelo que já foi gasto."
+      },
+      {
+        "id": "7",
+        "question": "O que você deve fazer se o cliente começar a generalizar ('Eu sempre faço isso')?",
+        "options": [
+          { "value": "a", "label": "Aceitar a generalização." },
+          { "value": "b", "label": "Pedir um exemplo específico e recente ('Conte-me sobre a última vez que você fez isso')." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Falar sobre sua ideia." }
+        ],
+        "explanation": "Generalizações são perigosas. Você precisa de detalhes concretos para validar a dor.",
+        "hint": "Detalhes.",
+        "correctAnswer": "b",
+        "bookExample": "Generalizações são a morte da validação."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de perguntar 'Você me indicaria para seus amigos?'",
+        "options": [
+          { "value": "a", "label": "O cliente pode dizer 'Não'." },
+          { "value": "b", "label": "A indicação futura é uma hipótese. É melhor buscar uma 'Moeda de Comprometimento' real." },
+          { "value": "c", "label": "A conversa fica muito longa." },
+          { "value": "d", "label": "Você perde o foco no problema." }
+        ],
+        "explanation": "O NPS (Net Promoter Score) é uma métrica de intenção, não de ação. Busque ação.",
+        "hint": "Intenção vs. Ação.",
+        "correctAnswer": "b",
+        "bookExample": "O que eles fariam é irrelevante. O que eles fizeram é tudo."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Ignorar o 'Se' e o 'Talvez'?",
+        "options": [
+          { "value": "a", "label": "Focar apenas em perguntas de 'Sim/Não'." },
+          { "value": "b", "label": "Descartar qualquer resposta que contenha hipóteses ou intenções futuras, focando apenas em fatos concretos." },
+          { "value": "c", "label": "Falar sobre sua ideia." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Se' e o 'Talvez' são sinais de que a conversa está no território da fantasia.",
+        "hint": "Fantasia.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Se' e o 'Talvez' são a morte da validação."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de testar a urgência de um problema?",
+        "options": [
+          { "value": "a", "label": "Perguntar se o problema é urgente." },
+          { "value": "b", "label": "Perguntar o que o cliente fez na última vez que o problema ocorreu e quão rápido ele agiu para resolvê-lo." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A urgência é medida pela ação passada, não pela declaração de urgência.",
+        "hint": "Ação passada.",
+        "correctAnswer": "b",
+        "bookExample": "A urgência é medida pela ação, não pela palavra."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "O Problema é Real? Buscando Evidências de Dor",
+    "teaser": "💰 Um problema só é real se custar algo. Seu único foco é encontrar o 'Custo da Dor' que o cliente já está pagando.",
+    "level1": "Muitas pessoas têm 'problemas' que não são dolorosos o suficiente para justificar uma solução paga. Um problema só é real se o cliente já estiver pagando o **'Custo da Dor'** — ou seja, gastando **tempo, dinheiro ou esforço** para contorná-lo.",
+    "level2": "Se o cliente não está ativamente tentando resolver o problema (mesmo que com uma 'gambiarra' ou uma solução manual), ele não é um problema. A solução atual do cliente (seja um e-mail, uma planilha ou um software antigo) é o seu **concorrente mais perigoso**.",
+    "level3": "Seja um detetive e **quantifique a dor**. Em vez de 'Você se importa com a organização?', pergunte 'Quanto tempo você **gasta** por semana organizando X manualmente?'. O número é a prova de que o problema é real e vale a pena resolver."
+    ,
+    "recapitulation": [
+      "Problema Real = Já está custando Tempo, Dinheiro, ou Esforço.",
+      "Busque a **Gambiarra** (a solução atual) – é a prova de ação.",
+      "A solução atual é seu concorrente mais perigoso.",
+      "**Quantifique a Dor:** Pergunte por números, horas e custos passados.",
+      "Busque a **Dor Emocional** (frustração, vergonha) – o motor da compra."
+    ],
+    "practicalChecklist": [
+      "✅ **Quantifique o Tempo:** Pergunte 'Quanto tempo isso te custou?' ou 'Quantas horas você gasta por mês fazendo isso?'",
+      "✅ **Identifique a Gambiarra:** Pergunte 'O que você está fazendo agora para contornar isso?' ou 'Qual é a sua solução atual?'",
+      "✅ **Dor Emocional:** Pergunte 'Como isso te faz sentir?' ou 'Qual é o pior momento que você teve por causa disso?'",
+      "✅ **Evite Problemas Pequenos:** Se a dor não for aguda ou frequente (problemas raros), descarte o cliente para economizar tempo.",
+      "✅ **Level 2 Action:** Em sua próxima entrevista, tente obter um número exato para o Custo da Dor."
+    ],
+    "conclusionMessage": "Um problema só é real se o cliente já estiver gastando tempo, dinheiro ou esforço para resolvê-lo. Busque o 'Custo da Dor'.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é o 'Custo da Dor' (Pain Cost)?",
+        "options": [
+          { "value": "a", "label": "O preço que você cobra pelo produto." },
+          { "value": "b", "label": "O tempo, dinheiro, esforço ou frustração que o cliente já está gastando para contornar o problema." },
+          { "value": "c", "label": "O custo de construir o produto." },
+          { "value": "d", "label": "O custo de marketing." }
+        ],
+        "explanation": "O Custo da Dor é a evidência de que o problema é real e vale a pena resolver.",
+        "hint": "Evidência de valor.",
+        "correctAnswer": "b",
+        "bookExample": "Se o problema é real, ele já está custando algo."
+      },
+      {
+        "id": "2",
+        "question": "Qual destas perguntas ajuda a quantificar o Custo da Dor?",
+        "options": [
+          { "value": "a", "label": "Você acha que este problema é grande?" },
+          { "value": "b", "label": "Quanto tempo você gasta por semana fazendo X manualmente?" },
+          { "value": "c", "label": "Você compraria uma solução que economizasse tempo?" },
+          { "value": "d", "label": "O que você faria se tivesse mais tempo?" }
+        ],
+        "explanation": "Quantificar o tempo gasto (foco no passado/presente) é uma forma de medir a dor.",
+        "hint": "Quantificação.",
+        "correctAnswer": "b",
+        "bookExample": "Números são a linguagem da dor."
+      },
+      {
+        "id": "3",
+        "question": "Se o cliente diz: 'Eu uso uma planilha para resolver isso', o que isso indica?",
+        "options": [
+          { "value": "a", "label": "Que ele não tem dinheiro para sua solução." },
+          { "value": "b", "label": "Que o problema é real e ele já está gastando esforço (a planilha é a solução atual/concorrente)." },
+          { "value": "c", "label": "Que ele é muito organizado." },
+          { "value": "d", "label": "Que ele não precisa de ajuda." }
+        ],
+        "explanation": "A planilha é a 'gambiarra' que prova que o problema é real e que ele está disposto a gastar esforço para resolvê-lo.",
+        "hint": "Gambiarra.",
+        "correctAnswer": "b",
+        "bookExample": "A solução atual é o seu concorrente mais perigoso."
+      },
+      {
+        "id": "4",
+        "question": "O que você deve fazer se o cliente não conseguir dar um exemplo específico de quando o problema ocorreu?",
+        "options": [
+          { "value": "a", "label": "Assumir que o problema não é real ou doloroso o suficiente." },
+          { "value": "b", "label": "Ajudá-lo a lembrar de um exemplo." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Falar sobre sua ideia." }
+        ],
+        "explanation": "Se não há história, não há problema real. Um problema real deixa cicatrizes (memórias).",
+        "hint": "Cicatrizes.",
+        "correctAnswer": "a",
+        "bookExample": "Se não há história, não há problema."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de focar em 'Problemas de Baixa Frequência'?",
+        "options": [
+          { "value": "a", "label": "O cliente pode ficar entediado." },
+          { "value": "b", "label": "Mesmo que a dor seja alta, a baixa frequência significa que o cliente não terá urgência em pagar por uma solução." },
+          { "value": "c", "label": "A conversa fica muito longa." },
+          { "value": "d", "label": "Você perde o foco no preço." }
+        ],
+        "explanation": "A frequência é crucial. Problemas raros não geram receita sustentável.",
+        "hint": "Sustentabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Problemas raros são problemas raros."
+      },
+      {
+        "id": "6",
+        "question": "Se o cliente diz: 'Eu não me importo com esse problema', o que você deve fazer?",
+        "options": [
+          { "value": "a", "label": "Tentar convencê-lo de que ele se importa." },
+          { "value": "b", "label": "Aceitar a resposta e buscar um cliente que realmente se importe (segmentação)." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Não tente convencer. Se ele não se importa, ele não é seu cliente ideal.",
+        "hint": "Cliente ideal.",
+        "correctAnswer": "b",
+        "bookExample": "Não tente convencer. Apenas aprenda."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Buscar a Dor Emocional'?",
+        "options": [
+          { "value": "a", "label": "Fazer o cliente chorar." },
+          { "value": "b", "label": "Perguntar sobre como o problema o faz sentir (frustrado, envergonhado, irritado) para medir a intensidade da dor." },
+          { "value": "c", "label": "Falar sobre sua ideia." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A emoção é o motor da compra. A dor emocional é um forte indicador de que o cliente pagará.",
+        "hint": "Motor da compra.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas compram soluções para problemas emocionais."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a melhor forma de testar se o cliente tem autoridade para resolver o problema?",
+        "options": [
+          { "value": "a", "label": "Perguntar se ele é o chefe." },
+          { "value": "b", "label": "Perguntar o que ele fez na última vez que o problema ocorreu e se ele teve que pedir permissão para resolver." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A ação passada revela a autoridade real. Se ele agiu, ele tem autoridade.",
+        "hint": "Ação passada.",
+        "correctAnswer": "b",
+        "bookExample": "Negocie com quem pode executar."
+      },
+      {
+        "id": "9",
+        "question": "O que você deve fazer se o cliente começar a falar sobre 'Problemas de Terceiros'?",
+        "options": [
+          { "value": "a", "label": "Anotar e seguir em frente." },
+          { "value": "b", "label": "Redirecionar a conversa para a dor pessoal dele ('Mas como isso te afeta diretamente?')." },
+          { "value": "c", "label": "Falar sobre sua ideia." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Você só deve resolver problemas que são dolorosos para a pessoa que está na sua frente.",
+        "hint": "Dor pessoal.",
+        "correctAnswer": "b",
+        "bookExample": "Resolva a dor do seu cliente, não a dor do amigo dele."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o risco de focar em 'Problemas Pequenos'?",
+        "options": [
+          { "value": "a", "label": "O cliente pode ficar entediado." },
+          { "value": "b", "label": "O cliente pode gostar da sua solução, mas não o suficiente para pagar ou mudar seu comportamento." },
+          { "value": "c", "label": "A conversa fica muito longa." },
+          { "value": "d", "label": "Você perde o foco no preço." }
+        ],
+        "explanation": "Problemas pequenos não geram receita. Busque problemas que valem a pena resolver.",
+        "hint": "Receita.",
+        "correctAnswer": "b",
+        "bookExample": "Se o problema é pequeno, a solução será pequena."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "O Contexto Importa: Entendendo o Ambiente do Problema",
+    "teaser": "🌍 Um problema não existe no vácuo. Entenda o 'onde, quando e com quem' ele acontece para focar sua solução.",
+    "level1": "Um problema é sempre ligado a um **contexto** ('O problema de organização só acontece quando estou no escritório, às sextas-feiras, com pressa'). Entender o **ambiente, tempo e pessoas envolvidas** ajuda a refinar o nicho, a solução e o pitch de marketing.",
+    "level2": "Você precisa saber exatamente **quando e onde a dor acontece** para identificar o **gatilho** e a frequência. Se você não sabe o contexto, você não sabe quem é seu cliente ou qual é o problema real. O contexto define a **relevância** do problema.",
+    "level3": "Em vez de 'Você tem problemas de comunicação?', pergunte 'Conte-me sobre a última vez que a comunicação falhou. **Onde** você estava, **com quem** você estava falando e **o que** aconteceu logo antes?'. Isso mapeia o contexto e a falha da solução atual."
+    ,
+    "recapitulation": [
+      "O Problema só existe dentro de um **Contexto** (onde, quando, com quem).",
+      "Busque o **Gatilho** – o evento que inicia a dor.",
+      "Mapeie as **Ferramentas Atuais** (concorrentes) e o momento em que elas **falham**.",
+      "A **Frequência** passada é a chave para medir a urgência e o potencial de receita.",
+      "Contexto é crucial para o marketing e o design da solução."
+    ],
+    "practicalChecklist": [
+      "✅ **Mapeamento 5W:** Faça perguntas que cubram o 'Onde, Quando, Com Quem, O Que e Por Que' o problema aconteceu na **última vez**.",
+      "✅ **Falha da Solução Atual:** Pergunte 'O que aconteceu quando você usou X para resolver?' ou 'O que impediu sua solução atual de funcionar desta vez?'",
+      "✅ **Gatilho da Dor:** Pergunte 'O que aconteceu imediatamente antes de você perceber que tinha esse problema?'",
+      "✅ **Foco na Prioridade:** Pergunte o que foi sacrificado para lidar com o problema (prova de que ele é prioridade).",
+      "✅ **Level 1 Action:** Use o contexto mapeado para escrever a **primeira frase do seu próximo pitch** (ex: 'Para gerentes que têm problemas de comunicação...')."
+    ],
+    "conclusionMessage": "O contexto (onde, quando, com quem, por que) é crucial. O problema só existe dentro de um contexto específico. Você deve mapear o ambiente do problema.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que significa 'Mapear o Contexto'?",
+        "options": [
+          { "value": "a", "label": "Desenhar um mapa do escritório do cliente." },
+          { "value": "b", "label": "Entender o ambiente, o tempo, as ferramentas e as pessoas envolvidas quando o problema ocorre." },
+          { "value": "c", "label": "Falar sobre sua ideia." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O contexto define a relevância do problema.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "O problema só existe dentro de um contexto."
+      },
+      {
+        "id": "2",
+        "question": "Qual destas perguntas ajuda a descobrir o 'Gatilho' do problema?",
+        "options": [
+          { "value": "a", "label": "Você acha que este problema é grande?" },
+          { "value": "b", "label": "O que aconteceu imediatamente antes de você perceber que tinha esse problema?" },
+          { "value": "c", "label": "Você compraria uma solução para isso?" },
+          { "value": "d", "label": "O que você faria se tivesse mais tempo?" }
+        ],
+        "explanation": "O gatilho é o evento que inicia a dor. É crucial para o marketing e o design da solução.",
+        "hint": "Início da dor.",
+        "correctAnswer": "b",
+        "bookExample": "O gatilho é o momento em que a dor começa."
+      },
+      {
+        "id": "3",
+        "question": "Se o cliente diz: 'Eu resolvo isso com o Excel', o que você deve perguntar para entender o contexto?",
+        "options": [
+          { "value": "a", "label": "Por que você não usa o Google Sheets?" },
+          { "value": "b", "label": "Onde você estava e o que estava fazendo quando percebeu que o Excel não era suficiente?" },
+          { "value": "c", "label": "Você acha que o Excel é ruim?" },
+          { "value": "d", "label": "Você pagaria por uma alternativa ao Excel?" }
+        ],
+        "explanation": "Você está buscando o momento de frustração que prova que a solução atual (Excel) falha em um contexto específico.",
+        "hint": "Momento de falha.",
+        "correctAnswer": "b",
+        "bookExample": "A dor é mais clara no momento da falha."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Entender as Ferramentas Atuais' do cliente?",
+        "options": [
+          { "value": "a", "label": "Saber quais softwares ele usa." },
+          { "value": "b", "label": "Saber quais soluções (mesmo que gambiarras) ele usa para resolver o problema e o que o impede de usá-las de forma eficaz." },
+          { "value": "c", "label": "Falar sobre sua ideia." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "As ferramentas atuais são seus concorrentes. Entender suas falhas é a chave para o seu posicionamento.",
+        "hint": "Concorrência.",
+        "correctAnswer": "b",
+        "bookExample": "A solução atual é o seu concorrente mais perigoso."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de ignorar o contexto?",
+        "options": [
+          { "value": "a", "label": "O cliente pode ficar entediado." },
+          { "value": "b", "label": "Você pode construir uma solução que resolve o problema, mas que não se encaixa na rotina ou no ambiente do cliente." },
+          { "value": "c", "label": "A conversa fica muito longa." },
+          { "value": "d", "label": "Você perde o foco no preço." }
+        ],
+        "explanation": "A usabilidade e a adoção dependem do encaixe no contexto diário.",
+        "hint": "Encaixe na rotina.",
+        "correctAnswer": "b",
+        "bookExample": "O contexto é o rei."
+      },
+      {
+        "id": "6",
+        "question": "Se o cliente diz: 'Eu resolvo isso com um e-mail', o que você deve perguntar para cavar fundo?",
+        "options": [
+          { "value": "a", "label": "Por que você não usa o Slack?" },
+          { "value": "b", "label": "O que acontece quando você envia esse e-mail? Qual é o risco de ele ser ignorado ou mal interpretado?" },
+          { "value": "c", "label": "Você acha que o e-mail é ruim?" },
+          { "value": "d", "label": "Você pagaria por uma alternativa ao e-mail?" }
+        ],
+        "explanation": "Você está buscando a falha da solução atual (e-mail) e o custo dessa falha (risco, tempo).",
+        "hint": "Falha e risco.",
+        "correctAnswer": "b",
+        "bookExample": "A dor é mais clara no momento da falha."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Entender a Frequência' do problema?",
+        "options": [
+          { "value": "a", "label": "Saber se o problema é raro." },
+          { "value": "b", "label": "Saber com que frequência o problema ocorreu no passado (ex: 'Quantas vezes isso aconteceu no último mês?')." },
+          { "value": "c", "label": "Falar sobre sua ideia." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A frequência é crucial para medir a urgência e o potencial de receita.",
+        "hint": "Urgência e receita.",
+        "correctAnswer": "b",
+        "bookExample": "Frequência é a chave para a urgência."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de perguntar 'O que você faria se tivesse X?'",
+        "options": [
+          { "value": "a", "label": "O cliente pode dizer 'Nada'." },
+          { "value": "b", "label": "Essa é uma pergunta hipotética que leva a respostas de fantasia, não a dados concretos." },
+          { "value": "c", "label": "A conversa fica muito longa." },
+          { "value": "d", "label": "Você perde o foco no problema." }
+        ],
+        "explanation": "O 'Se' e o 'Talvez' são a morte da validação.",
+        "hint": "Fantasia.",
+        "correctAnswer": "b",
+        "bookExample": "O futuro é uma mentira."
+      },
+      {
+        "id": "9",
+        "question": "O que você deve fazer se o cliente começar a falar sobre 'Problemas de Outras Pessoas'?",
+        "options": [
+          { "value": "a", "label": "Anotar e seguir em frente." },
+          { "value": "b", "label": "Redirecionar a conversa para a dor pessoal dele ('Mas como isso te afeta diretamente?')." },
+          { "value": "c", "label": "Falar sobre sua ideia." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Você só deve resolver problemas que são dolorosos para a pessoa que está na sua frente.",
+        "hint": "Dor pessoal.",
+        "correctAnswer": "b",
+        "bookExample": "Resolva a dor do seu cliente, não a dor do amigo dele."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de testar a 'Prioridade' do problema?",
+        "options": [
+          { "value": "a", "label": "Perguntar se o problema é prioridade." },
+          { "value": "b", "label": "Perguntar o que ele adiou ou sacrificou para resolver esse problema na última vez." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A prioridade é medida pelo sacrifício passado, não pela declaração de prioridade.",
+        "hint": "Sacrifício.",
+        "correctAnswer": "b",
+        "bookExample": "A prioridade é medida pela ação, não pela palavra."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "O Processo de Entrevista: Estrutura e Fluxo",
+    "teaser": "🛠️ Não entre na conversa sem um plano! Domine as 4 fases: Introdução, Perguntas, Transição e Comprometimento.",
+    "level1": "Uma entrevista eficaz não é aleatória; ela segue um fluxo para maximizar a coleta de dados concretos: 1. **Introdução** (desarmar a polidez, pedir conselho); 2. **Perguntas** (cavar fundo no problema e contexto); 3. **Transição** (ligar a dor validada à sua ideia, brevemente); 4. **Comprometimento** (próximos passos concretos).",
+    "level2": "Mantenha o foco no cliente (**80% do tempo de fala**). Só fale sobre sua ideia na 'Transição', e apenas se o cliente tiver revelado uma **dor real e aguda**. O objetivo da entrevista não é vender, mas garantir o próximo passo, o **Comprometimento**.",
+    "level3": "O silêncio é seu amigo. Não interrompa o cliente; ouse cavar fundo com perguntas de acompanhamento. Termine a conversa sempre com um **Comprometimento** (ver lição 9), pois isso transforma um 'Sim' verbal em um **'Sim' de ação**."
+    ,
+    "recapitulation": [
+      "Estrutura: Introdução → Perguntas → Transição → Comprometimento.",
+      "Introdução = Pedir Conselhos (desarmar a polidez).",
+      "Proporção de Fala = **80% do cliente**.",
+      "Só fale da ideia depois de **validar a dor aguda** (Transição).",
+      "O Silêncio e a Escuta Ativa são suas armas mais poderosas.",
+      "Objetivo Final: Um **Comprometimento Concreto**."
+    ],
+    "practicalChecklist": [
+      "✅ **Intro Script:** Use 'Estou tentando entender como as pessoas gerenciam X. Você teria 15 minutos para me dar um conselho sobre o problema?'",
+      "✅ **Use a Dor como Ponte:** Na Transição, diga: 'Com base no quanto você está frustrado com X, eu estava pensando em algo que pode ajudar. É uma solução para X que...'.",
+      "✅ **Anotação de Citações:** Anote as palavras exatas que o cliente usa para descrever a dor (linguagem de marketing).",
+      "✅ **Comprometimento Imediato:** Termine com 'O que você sugere que eu faça em seguida?' ou 'Podemos nos encontrar na próxima semana para eu te mostrar o protótipo?'.",
+      "✅ **Level 3 Action:** Graças aos fatos coletados, você deve ser capaz de criar um 'Pedido de Comprometimento' adaptado à dor dele."
+    ],
+    "conclusionMessage": "A entrevista deve ser estruturada para maximizar a coleta de dados concretos: Introdução (pedir conselho), Perguntas (foco no passado), Transição (para a ideia, se necessário) e Comprometimento (próximos passos).",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o objetivo da 'Introdução' na entrevista?",
+        "options": [
+          { "value": "a", "label": "Apresentar sua ideia e o preço." },
+          { "value": "b", "label": "Desarmar a polidez do cliente, pedindo conselho e estabelecendo que você está ali para aprender." },
+          { "value": "c", "label": "Fazer o cliente se sentir culpado." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Pedir conselho desarma a defensiva e faz a pessoa se sentir importante.",
+        "hint": "Desarmamento.",
+        "correctAnswer": "b",
+        "bookExample": "Peça conselho, não feedback."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a regra de ouro para a 'Proporção de Fala' na entrevista?",
+        "options": [
+          { "value": "a", "label": "Você deve falar 80% do tempo." },
+          { "value": "b", "label": "O cliente deve falar 80% do tempo, focando em suas histórias e problemas." },
+          { "value": "c", "label": "A proporção deve ser 50/50." },
+          { "value": "d", "label": "Você deve falar apenas sobre sua ideia." }
+        ],
+        "explanation": "Você está lá para aprender. O cliente é o especialista na vida dele.",
+        "hint": "Especialista.",
+        "correctAnswer": "b",
+        "bookExample": "Você tem duas orelhas e uma boca. Use-as nessa proporção."
+      },
+      {
+        "id": "3",
+        "question": "Quando é o momento certo para 'Falar sobre sua Ideia'?",
+        "options": [
+          { "value": "a", "label": "Logo no início, para obter feedback imediato." },
+          { "value": "b", "label": "Somente após o cliente ter revelado uma dor real e você ter coletado dados concretos sobre o problema." },
+          { "value": "c", "label": "No meio da conversa, para quebrar o gelo." },
+          { "value": "d", "label": "Nunca." }
+        ],
+        "explanation": "Falar sobre a ideia antes de entender a dor contamina a conversa. Use a ideia apenas para buscar um comprometimento.",
+        "hint": "Dor real.",
+        "correctAnswer": "b",
+        "bookExample": "Sua ideia é o elefante na sala. Não o alimente até que seja necessário."
+      },
+      {
+        "id": "4",
+        "question": "O que é a 'Transição' na entrevista?",
+        "options": [
+          { "value": "a", "label": "O momento de encerrar a conversa." },
+          { "value": "b", "label": "O momento de ligar a dor real do cliente à sua solução, buscando um 'Comprometimento'." },
+          { "value": "c", "label": "O momento de falar sobre o preço." },
+          { "value": "d", "label": "O momento de pedir um depoimento." }
+        ],
+        "explanation": "A transição é a ponte entre o problema e o próximo passo (comprometimento).",
+        "hint": "Ponte.",
+        "correctAnswer": "b",
+        "bookExample": "Use a dor que você encontrou para justificar o próximo passo."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Interromper' o cliente?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você perde informações cruciais e quebra o rapport, fazendo o cliente se fechar." },
+          { "value": "c", "label": "A conversa fica muito longa." },
+          { "value": "d", "label": "Você perde o foco no preço." }
+        ],
+        "explanation": "A escuta ativa é crucial. Deixe o cliente falar.",
+        "hint": "Escuta ativa.",
+        "correctAnswer": "b",
+        "bookExample": "O silêncio é seu amigo. Use-o."
+      },
+      {
+        "id": "6",
+        "question": "O que você deve fazer se o cliente começar a divagar?",
+        "options": [
+          { "value": "a", "label": "Deixá-lo divagar." },
+          { "value": "b", "label": "Gentilmente redirecionar a conversa para o último ponto concreto que ele mencionou ('Você mencionou X, conte-me mais sobre isso')." },
+          { "value": "c", "label": "Falar sobre sua ideia." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Redirecione para o último fato concreto para manter o foco.",
+        "hint": "Foco.",
+        "correctAnswer": "b",
+        "bookExample": "Mantenha o foco no que importa."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o objetivo de 'Anotar as Citações' do cliente?",
+        "options": [
+          { "value": "a", "label": "Para usá-las em depoimentos." },
+          { "value": "b", "label": "Para capturar a linguagem exata que o cliente usa para descrever a dor (crucial para o marketing)." },
+          { "value": "c", "label": "Para provar que ele está mentindo." },
+          { "value": "d", "label": "Para mudar de assunto." }
+        ],
+        "explanation": "A linguagem do cliente é a linguagem que você deve usar no seu marketing.",
+        "hint": "Linguagem de marketing.",
+        "correctAnswer": "b",
+        "bookExample": "Use as palavras deles para vender para eles."
+      },
+      {
+        "id": "8",
+        "question": "O que significa 'Terminar com um Comprometimento'?",
+        "options": [
+          { "value": "a", "label": "Pedir para ele comprar o produto." },
+          { "value": "b", "label": "Definir um próximo passo concreto e de baixo risco (ex: 'Podemos nos encontrar na próxima semana para eu te mostrar o protótipo?')." },
+          { "value": "c", "label": "Pedir um elogio." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O comprometimento é a prova de que a conversa foi valiosa e que o cliente está disposto a investir algo (tempo, reputação).",
+        "hint": "Próximo passo.",
+        "correctAnswer": "b",
+        "bookExample": "O comprometimento é a prova de que a conversa foi valiosa."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Fazer um Pitch' muito cedo?",
+        "options": [
+          { "value": "a", "label": "O cliente pode roubar sua ideia." },
+          { "value": "b", "label": "Você perde a oportunidade de aprender sobre a dor real e recebe feedback contaminado pela sua solução." },
+          { "value": "c", "label": "A conversa fica muito longa." },
+          { "value": "d", "label": "Você perde o foco no preço." }
+        ],
+        "explanation": "O pitch deve ser reservado para o final, após a validação da dor.",
+        "hint": "Contaminação.",
+        "correctAnswer": "b",
+        "bookExample": "Não venda. Aprenda."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de 'Encerrar' a entrevista?",
+        "options": [
+          { "value": "a", "label": "Perguntando se ele tem mais perguntas." },
+          { "value": "b", "label": "Agradecendo pelo tempo e definindo o próximo passo (comprometimento)." },
+          { "value": "c", "label": "Pedindo um depoimento." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O encerramento deve ser profissional e focado na ação futura.",
+        "hint": "Ação futura.",
+        "correctAnswer": "b",
+        "bookExample": "Termine com um próximo passo concreto."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Encontrando Clientes: Onde e Como Abordar",
+    "teaser": "🔍 Vá à caça! Encontre seus Early Adopters no habitat natural deles e use a 'abordagem do conselho' para abrir a porta.",
+    "level1": "Você deve ir onde seus clientes ideais (seus **Early Adopters**) se reúnem em seu **ambiente natural** (online ou offline). Evite ambientes artificiais como pesquisas online genéricas ou amigos. O objetivo é falar com pessoas que têm o problema de forma **aguda** e estão ativamente buscando (ou pagando por) uma solução.",
+    "level2": "A **abordagem de 'pedir conselho'** é a mais eficaz. Ela desarma a defensiva do cliente, fazendo-o se sentir importante e disposto a compartilhar. O segredo é manter a conversa **leve** e **focada neles**. Se perguntarem sobre sua ideia no início, dê uma resposta vaga e redirecione para o problema deles.",
+    "level3": "Sempre peça um tempo curto (ex: 15 minutos) e seja flexível. Seu pitch de abertura deve ser sobre **o problema que você está investigando**, não sobre a solução que você está construindo. Isso garante que o foco permaneça na dor e no comportamento passado."
+    ,
+    "recapitulation": [
+      "Busque **Early Adopters** (dor aguda) em seu **Ambiente Natural**.",
+      "Abordagem = Pedir **Conselho/Ajuda** para entender um problema.",
+      "Mantenha a conversa **Leve** (sem pressão de venda).",
+      "Evite **Pesquisas Online Genéricas** (superficialidade).",
+      "Se o cliente perguntar da ideia, dê uma **resposta vaga** e redirecione para a dor dele."
+    ],
+    "practicalChecklist": [
+      "✅ **Nichos Naturais:** Identifique 3 fóruns, grupos ou eventos onde seu nicho ideal já está falando sobre o problema.",
+      "✅ **Cold Outreach Script:** Use 'Estou investigando o problema X em [nicho]. Você teria 15 minutos para me dar um conselho sobre sua experiência passada com isso?'",
+      "✅ **Tempo Curto:** Sempre peça 15 minutos; se o cliente tiver o problema real, a conversa se estenderá naturalmente.",
+      "✅ **Resposta Vaga:** Treine uma frase como 'É algo que ajuda com X, mas estou mais interessado em saber como você lida com isso **agora**.'",
+      "✅ **Level 2 Action:** Envie 5 mensagens de 'pedido de conselho' para clientes em potencial esta semana."
+    ],
+    "conclusionMessage": "Vá onde seus clientes estão, em seu ambiente natural. Aborde-os pedindo conselho e mantendo a conversa leve e focada neles.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o melhor lugar para encontrar clientes para entrevistas?",
+        "options": [
+          { "value": "a", "label": "Em pesquisas online genéricas." },
+          { "value": "b", "label": "Em seu ambiente natural (eventos, fóruns, grupos) onde eles já estão falando sobre o problema." },
+          { "value": "c", "label": "Em sua lista de e-mail de amigos e familiares." },
+          { "value": "d", "label": "Em anúncios pagos." }
+        ],
+        "explanation": "O ambiente natural garante que você está falando com pessoas que realmente se importam com o problema.",
+        "hint": "Ambiente real.",
+        "correctAnswer": "b",
+        "bookExample": "Vá onde seus clientes estão."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a melhor 'Abordagem' para iniciar a conversa?",
+        "options": [
+          { "value": "a", "label": "Dizer que você tem uma ideia que vai mudar a vida deles." },
+          { "value": "b", "label": "Pedir conselho ou ajuda para entender um problema que você está investigando." },
+          { "value": "c", "label": "Perguntar se ele tem dinheiro para investir." },
+          { "value": "d", "label": "Fazer um pitch de 30 segundos." }
+        ],
+        "explanation": "Pedir conselho desarma a defensiva e faz a pessoa se sentir importante.",
+        "hint": "Humildade.",
+        "correctAnswer": "b",
+        "bookExample": "Peça conselho, não feedback."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'Manter a Conversa Leve'?",
+        "options": [
+          { "value": "a", "label": "Falar sobre o clima." },
+          { "value": "b", "label": "Evitar a pressão de venda e manter o foco no aprendizado, garantindo que o cliente se sinta confortável para ser honesto." },
+          { "value": "c", "label": "Falar sobre sua ideia." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A leveza é crucial para obter a verdade. A pressão gera 'Sim' falsos.",
+        "hint": "Pressão.",
+        "correctAnswer": "b",
+        "bookExample": "Mantenha a conversa leve e focada neles."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de usar 'Pesquisas Online Genéricas' (Surveys)?",
+        "options": [
+          { "value": "a", "label": "Você obtém muitos dados." },
+          { "value": "b", "label": "As respostas são superficiais, hipotéticas e carecem do contexto e da profundidade emocional de uma conversa real." },
+          { "value": "c", "label": "A pesquisa fica muito longa." },
+          { "value": "d", "label": "Você perde o foco no problema." }
+        ],
+        "explanation": "Pesquisas são boas para quantificar, mas péssimas para descobrir a dor real.",
+        "hint": "Profundidade.",
+        "correctAnswer": "b",
+        "bookExample": "Pesquisas são para quantificar o que você já sabe, não para descobrir o que você não sabe."
+      },
+      {
+        "id": "5",
+        "question": "O que você deve fazer se o cliente perguntar sobre 'Sua Ideia' no início da conversa?",
+        "options": [
+          { "value": "a", "label": "Fazer um pitch completo." },
+          { "value": "b", "label": "Dar uma resposta vaga e redirecionar a conversa para o problema dele ('É sobre X, mas estou mais interessado em como você lida com isso agora')." },
+          { "value": "c", "label": "Dizer que é segredo." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Mantenha a ideia vaga para evitar a contaminação e volte ao problema.",
+        "hint": "Vagueza.",
+        "correctAnswer": "b",
+        "bookExample": "Não alimente o elefante na sala."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de 'Pagar' por entrevistas?",
+        "options": [
+          { "value": "a", "label": "O cliente pode roubar sua ideia." },
+          { "value": "b", "label": "O cliente pode se sentir motivado a te agradar para obter o pagamento, resultando em 'Sim' falsos e dados tendenciosos." },
+          { "value": "c", "label": "A conversa fica muito longa." },
+          { "value": "d", "label": "Você perde o foco no problema." }
+        ],
+        "explanation": "O pagamento contamina a motivação. O cliente ideal deve ser motivado pela dor, não pelo dinheiro.",
+        "hint": "Motivação.",
+        "correctAnswer": "b",
+        "bookExample": "Se você paga, você obtém a resposta que eles acham que você quer."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Focar no Nicho' ao encontrar clientes?",
+        "options": [
+          { "value": "a", "label": "Falar com o máximo de pessoas possível." },
+          { "value": "b", "label": "Focar em um segmento específico de clientes que compartilha o mesmo problema e contexto (ex: 'Gerentes de Marketing em Startups de SaaS')." },
+          { "value": "c", "label": "Falar apenas com amigos." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O nicho é crucial para a validação. Problemas genéricos não geram soluções específicas.",
+        "hint": "Especificidade.",
+        "correctAnswer": "b",
+        "bookExample": "Comece pequeno. Domine um nicho."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a melhor forma de 'Agendar' a entrevista?",
+        "options": [
+          { "value": "a", "label": "Pedir 1 hora do tempo dele." },
+          { "value": "b", "label": "Pedir 15 minutos para 'entender um problema' e ser flexível com o tempo." },
+          { "value": "c", "label": "Dizer que você tem a solução perfeita para ele." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O tempo é a moeda mais valiosa. Peça pouco tempo e entregue valor.",
+        "hint": "Tempo.",
+        "correctAnswer": "b",
+        "bookExample": "Peça 15 minutos. Entregue 30."
+      },
+      {
+        "id": "9",
+        "question": "O que você deve fazer se o cliente for 'Muito Ocupado'?",
+        "options": [
+          { "value": "a", "label": "Desistir." },
+          { "value": "b", "label": "Rotular a pressão ('Parece que você está sob muita pressão') e perguntar 'Como você lida com X quando está ocupado?'" },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A ocupação é um Cisne Negro. Você deve cavar mais fundo para entender como a ocupação afeta o problema.",
+        "hint": "Cisne Negro.",
+        "correctAnswer": "b",
+        "bookExample": "A ocupação é a porta de entrada para a verdade."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o risco de 'Falar sobre Dinheiro' na introdução?",
+        "options": [
+          { "value": "a", "label": "O cliente pode roubar sua ideia." },
+          { "value": "b", "label": "O cliente se fecha e a conversa se torna uma negociação, em vez de uma sessão de aprendizado." },
+          { "value": "c", "label": "A conversa fica muito longa." },
+          { "value": "d", "label": "Você perde o foco no problema." }
+        ],
+        "explanation": "O dinheiro deve ser discutido apenas após a validação da dor e do comprometimento.",
+        "hint": "Fechamento.",
+        "correctAnswer": "b",
+        "bookExample": "Não fale sobre dinheiro até que o problema seja real."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "O Comprometimento: A Prova de que o Problema é Real",
+    "teaser": "💍 O único 'Sim' que importa. Transforme um 'Sim' verbal em um 'Sim' de **ação** para provar o valor real.",
+    "level1": "Um **'Sim' verbal é inútil**. O único 'Sim' que importa é o **'Sim' de Comprometimento**. Isso significa que o cliente está disposto a dar algo de valor — **tempo, reputação ou dinheiro** — para avançar na solução do problema. O comprometimento é o próximo passo concreto e de baixo risco.",
+    "level2": "O objetivo de cada entrevista de validação é obter um comprometimento. Se o cliente não está disposto a dar um pequeno passo (ex: marcar a próxima reunião, fazer uma introdução), ele **não tem o problema de forma aguda** ou **não confia em você**.",
+    "level3": "Use a dor que você validou como **justificativa** para o próximo passo. Em vez de 'Você compraria?', pergunte 'Com base no quão frustrado você está com X, o próximo passo lógico seria eu te mostrar um protótipo em 10 minutos na próxima semana. O que você acha?'. O comprometimento é a única métrica de sucesso da entrevista."
+    ,
+    "recapitulation": [
+      "O **'Sim' de Comprometimento** é o único que vale.",
+      "Comprometimento = Investimento de **Tempo, Dinheiro ou Reputação**.",
+      "O objetivo de cada reunião é a **próxima reunião**.",
+      "Use a **dor validada** para justificar o próximo passo.",
+      "Comprometimento é a prova de que a conversa foi valiosa e acionável."
+    ],
+    "practicalChecklist": [
+      "✅ **Peça o Próximo Passo:** Termine toda conversa com 'O que você sugere que eu faça em seguida?' ou 'Podemos nos encontrar na próxima semana para...?'",
+      "✅ **Busque a Reputação:** Peça 'Você pode me apresentar ao seu colega que tem o mesmo problema?' (alto risco de reputação, alto valor).",
+      "✅ **Moeda de Baixo Risco:** Peça um investimento pequeno de tempo ('5 minutos na próxima semana para te mostrar um rascunho').",
+      "✅ **Teste a Recusa:** Se ele recusar, pergunte 'O que te impede de dizer 'Sim' para isso agora?' (busque o Cisne Negro/objeção oculta).",
+      "✅ **Level 3 Action:** Não saia de uma entrevista sem um próximo passo concreto (agendado!)."
+    ],
+    "conclusionMessage": "O comprometimento é a prova de que o cliente está disposto a investir algo (tempo, reputação, dinheiro) para resolver o problema. É o único 'Sim' que importa.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é o 'Sim' de Comprometimento?",
+        "options": [
+          { "value": "a", "label": "Um 'Sim' que leva à compra imediata." },
+          { "value": "b", "label": "Um próximo passo concreto e de baixo risco que exige que o cliente invista algo de valor (tempo, reputação, dinheiro)." },
+          { "value": "c", "label": "Um 'Sim' dado por polidez." },
+          { "value": "d", "label": "Um 'Sim' que leva a um novo recurso." }
+        ],
+        "explanation": "O comprometimento é a prova de que a conversa foi valiosa e que o cliente está disposto a agir.",
+        "hint": "Ação e investimento.",
+        "correctAnswer": "b",
+        "bookExample": "O comprometimento é a prova de que a conversa foi valiosa."
+      },
+      {
+        "id": "2",
+        "question": "Qual destas é uma 'Moeda de Comprometimento' (Commitment Currency) valiosa?",
+        "options": [
+          { "value": "a", "label": "Um elogio sobre sua ideia." },
+          { "value": "b", "label": "Uma introdução a um decisor ou a um cliente potencial." },
+          { "value": "c", "label": "Uma promessa de compra futura." },
+          { "value": "d", "label": "Uma sugestão de recurso." }
+        ],
+        "explanation": "A reputação (introdução) é uma moeda valiosa, pois o cliente está arriscando sua credibilidade por você.",
+        "hint": "Risco de reputação.",
+        "correctAnswer": "b",
+        "bookExample": "O comprometimento é a prova de que a conversa foi valiosa."
+      },
+      {
+        "id": "3",
+        "question": "Se o cliente diz: 'Eu adoraria te ajudar, mas estou muito ocupado', o que você deve buscar?",
+        "options": [
+          { "value": "a", "label": "Desistir." },
+          { "value": "b", "label": "Um comprometimento de tempo menor ('Podemos falar por 5 minutos na próxima semana?')." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A ocupação é um Cisne Negro. Busque um comprometimento de tempo menor para testar a prioridade.",
+        "hint": "Prioridade.",
+        "correctAnswer": "b",
+        "bookExample": "Se eles não têm 5 minutos, eles não têm o problema."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Comprometimento Financeiro' na fase de validação?",
+        "options": [
+          { "value": "a", "label": "Pedir para ele comprar o produto final." },
+          { "value": "b", "label": "Pedir um pré-pagamento, um depósito ou um investimento de baixo risco (ex: 'Você pagaria R$ 50 para ter acesso antecipado?')." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O dinheiro é a prova máxima de que o problema é real e que a solução vale a pena.",
+        "hint": "Prova máxima.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro é a prova de que o problema é real."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de aceitar um 'Comprometimento Verbal' sem ação?",
+        "options": [
+          { "value": "a", "label": "O cliente pode roubar sua ideia." },
+          { "value": "b", "label": "O comprometimento verbal é um 'Sim' falso que não se traduz em ação ou receita." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no problema." }
+        ],
+        "explanation": "Ação é a única coisa que importa. O verbal é inútil.",
+        "hint": "Ação.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' verbal é inútil."
+      },
+      {
+        "id": "6",
+        "question": "Se o cliente diz: 'Eu posso te dar feedback por e-mail', o que você deve fazer?",
+        "options": [
+          { "value": "a", "label": "Aceitar e enviar o e-mail." },
+          { "value": "b", "label": "Buscar um comprometimento de tempo mais valioso ('Podemos fazer uma ligação de 10 minutos para eu te mostrar o protótipo?')." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O feedback por e-mail é de baixo valor. Busque o tempo dele, que é mais valioso.",
+        "hint": "Valor do tempo.",
+        "correctAnswer": "b",
+        "bookExample": "O tempo é a moeda mais valiosa."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Comprometimento de Reputação'?",
+        "options": [
+          { "value": "a", "label": "Pedir um depoimento." },
+          { "value": "b", "label": "Pedir uma introdução a um decisor ou a um cliente potencial, arriscando a credibilidade do cliente." },
+          { "value": "c", "label": "Falar sobre sua ideia." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O risco de reputação é um forte indicador de que o cliente acredita em você.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O comprometimento de reputação é a prova de que eles acreditam em você."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a melhor forma de 'Pedir um Comprometimento'?",
+        "options": [
+          { "value": "a", "label": "De forma agressiva." },
+          { "value": "b", "label": "De forma natural, como o próximo passo lógico após a validação da dor ('Com base no que você me disse, o próximo passo seria X. O que você acha?')." },
+          { "value": "c", "label": "De forma passiva." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O comprometimento deve ser o resultado natural da conversa, não uma surpresa.",
+        "hint": "Naturalidade.",
+        "correctAnswer": "b",
+        "bookExample": "O comprometimento é o próximo passo lógico."
+      },
+      {
+        "id": "9",
+        "question": "O que você deve fazer se o cliente 'Recusar' o comprometimento?",
+        "options": [
+          { "value": "a", "label": "Tentar convencê-lo." },
+          { "value": "b", "label": "Agradecer e perguntar o que o impede de avançar (buscando o Cisne Negro)." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A recusa é um sinal de que o problema não é real ou que há um Cisne Negro (objeção oculta).",
+        "hint": "Cisne Negro.",
+        "correctAnswer": "b",
+        "bookExample": "A recusa é a porta de entrada para a verdade."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o risco de 'Não Pedir Comprometimento'?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você sai da conversa com 'Sim' falsos e sem dados concretos sobre a intenção real de agir do cliente." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no problema." }
+        ],
+        "explanation": "O comprometimento é a única métrica de sucesso da entrevista.",
+        "hint": "Métrica de sucesso.",
+        "correctAnswer": "b",
+        "bookExample": "O comprometimento é a única coisa que importa."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "A Moeda do Comprometimento: Dinheiro, Tempo e Reputação",
+    "teaser": "💸 Nem todo 'Sim' tem o mesmo peso. As três moedas de Comprometimento revelam o quão real e urgente é o problema.",
+    "level1": "O comprometimento pode ser pago em três 'moedas': **Dinheiro, Tempo e Reputação**. O **Dinheiro** (pagamento, depósito) é a moeda mais forte. O **Tempo** (reunião, teste de protótipo) é a mais comum. A **Reputação** (introdução a um decisor) é um forte sinal de confiança, pois o cliente arrisca sua credibilidade por você.",
+    "level2": "Você deve buscar a **moeda mais forte** que o cliente está disposto a dar. O dinheiro é a prova máxima de que o problema é real e que sua solução vale a pena. Mesmo um pequeno **pré-pagamento** (ex: R$ 10) é mais valioso do que 100 elogios.",
+    "level3": "Se o cliente não está disposto a investir **nenhuma das três moedas**, ele não é seu cliente ideal. Use a **recusa** em dar a moeda mais forte (dinheiro) como um sinal para buscar a próxima mais fraca (tempo), testando a prioridade do problema."
+    ,
+    "recapitulation": [
+      "Três Moedas: **Dinheiro** (mais forte), **Tempo**, e **Reputação**.",
+      "Dinheiro = Prova máxima de dor e valor.",
+      "Reputação = Prova de confiança e credibilidade.",
+      "Tempo = Prova de prioridade e urgência.",
+      "O 'Sim' de comprometimento é a única métrica de sucesso da entrevista."
+    ],
+    "practicalChecklist": [
+      "✅ **Teste Financeiro:** Peça um pequeno depósito ou pré-pagamento para acesso antecipado ('Você pagaria R$ 20 para ser o primeiro a testar?').",
+      "✅ **Teste de Reputação:** Peça uma introdução a um decisor ('Com base no que você me disse, você pode me apresentar ao seu chefe para falar sobre a dor que ele está sentindo?').",
+      "✅ **Teste de Tempo:** Peça um comprometimento de tempo específico e de alto esforço ('Podemos nos encontrar por 30 minutos para eu te mostrar um protótipo complexo?').",
+      "✅ **Transforme Elogio em Ação:** Se o cliente elogiar, use a alavanca ('Isso é ótimo! Se você realmente acredita, você pode investir 15 minutos para me apresentar ao...').",
+      "✅ **Level 2 Action:** Em sua próxima entrevista com um Early Adopter, tente obter um **Comprometimento Financeiro** de baixo risco."
+    ],
+    "conclusionMessage": "As três moedas de comprometimento são: Dinheiro (o mais forte), Tempo (o mais comum) e Reputação (o mais arriscado para o cliente). Busque sempre a moeda mais forte.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a 'Moeda de Comprometimento' mais forte?",
+        "options": [
+          { "value": "a", "label": "Tempo." },
+          { "value": "b", "label": "Dinheiro (pagamento, depósito, pré-venda)." },
+          { "value": "c", "label": "Reputação (introduções)." },
+          { "value": "d", "label": "Elogios." }
+        ],
+        "explanation": "O dinheiro é a prova máxima de que o problema é real e que a solução vale a pena.",
+        "hint": "Prova máxima.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro é a prova de que o problema é real."
+      },
+      {
+        "id": "2",
+        "question": "O que o 'Comprometimento de Tempo' (Time Commitment) prova?",
+        "options": [
+          { "value": "a", "label": "Que o cliente tem muito tempo livre." },
+          { "value": "b", "label": "Que o problema é importante o suficiente para ele sacrificar seu recurso mais escasso (tempo) para resolvê-lo." },
+          { "value": "c", "label": "Que ele é muito educado." },
+          { "value": "d", "label": "Que ele quer roubar sua ideia." }
+        ],
+        "explanation": "O tempo é a moeda mais escassa. O sacrifício de tempo é um forte indicador de prioridade.",
+        "hint": "Sacrifício.",
+        "correctAnswer": "b",
+        "bookExample": "O tempo é a moeda mais valiosa."
+      },
+      {
+        "id": "3",
+        "question": "Se o cliente oferece uma 'Introdução' a um decisor, o que isso significa?",
+        "options": [
+          { "value": "a", "label": "Que ele é muito gentil." },
+          { "value": "b", "label": "Que ele está disposto a arriscar sua reputação, indicando que ele realmente acredita na sua solução." },
+          { "value": "Que ele não tem dinheiro." },
+          { "value": "Que ele quer roubar sua ideia." }
+        ],
+        "explanation": "O risco de reputação é um forte indicador de confiança.",
+        "hint": "Confiança.",
+        "correctAnswer": "b",
+        "bookExample": "O comprometimento de reputação é a prova de que eles acreditam em você."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de aceitar apenas 'Elogios' como comprometimento?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Elogios não são moedas de comprometimento e não se traduzem em ação ou receita." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no problema." }
+        ],
+        "explanation": "Elogios são vazios de dados e devem ser ignorados.",
+        "hint": "Vazio de dados.",
+        "correctAnswer": "b",
+        "bookExample": "Elogios são a morte da validação."
+      },
+      {
+        "id": "5",
+        "question": "O que você deve fazer se o cliente disser: 'Eu posso te dar feedback por e-mail'?",
+        "options": [
+          { "value": "a", "label": "Aceitar e enviar o e-mail." },
+          { "value": "b", "label": "Buscar um comprometimento de tempo mais valioso ('Podemos fazer uma ligação de 10 minutos para eu te mostrar o protótipo?')." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O feedback por e-mail é de baixo valor. Busque o tempo dele, que é mais valioso.",
+        "hint": "Valor do tempo.",
+        "correctAnswer": "b",
+        "bookExample": "O tempo é a moeda mais valiosa."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a melhor forma de testar o 'Comprometimento Financeiro' na fase inicial?",
+        "options": [
+          { "value": "a", "label": "Perguntar se ele pagaria R$ 100." },
+          { "value": "b", "label": "Pedir um pequeno depósito ou pré-pagamento para acesso antecipado (ex: R$ 10)." },
+          { "value": "Falar sobre o preço." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O dinheiro é a prova máxima. Mesmo um pequeno valor é um comprometimento real.",
+        "hint": "Prova máxima.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro é a prova de que o problema é real."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Comprometimento de Esforço'?",
+        "options": [
+          { "value": "a", "label": "Pedir para ele fazer um trabalho para você." },
+          { "value": "b", "label": "Pedir para ele gastar esforço para te ajudar (ex: preencher um formulário detalhado, testar um protótipo complexo)." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O esforço é uma forma de tempo. O cliente só investe esforço se o problema for real.",
+        "hint": "Investimento de esforço.",
+        "correctAnswer": "b",
+        "bookExample": "O esforço é a prova de que o problema é real."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Não Pedir a Moeda Mais Forte'?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você pode obter um 'Sim' fácil (tempo) que não se traduz em um 'Sim' de compra (dinheiro)." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no problema." }
+        ],
+        "explanation": "Busque sempre a moeda mais forte para maximizar a validação.",
+        "hint": "Validação máxima.",
+        "correctAnswer": "b",
+        "bookExample": "Busque o comprometimento mais forte que você puder obter."
+      },
+      {
+        "id": "9",
+        "question": "O que você deve fazer se o cliente 'Recusar' o comprometimento financeiro?",
+        "options": [
+          { "value": "a", "label": "Desistir." },
+          { "value": "b", "label": "Aceitar a recusa e buscar um comprometimento de tempo ou reputação (moeda mais fraca)." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A recusa do dinheiro é um sinal, mas você pode testar se o problema é real com moedas mais fracas.",
+        "hint": "Teste de prioridade.",
+        "correctAnswer": "b",
+        "bookExample": "Se eles não pagam, eles não têm o problema. Mas talvez eles tenham tempo."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de 'Transformar um Elogio' em comprometimento?",
+        "options": [
+          { "value": "a", "label": "Agradecer e encerrar." },
+          { "value": "b", "label": "Dizer: 'Isso é ótimo! Se você realmente acredita nisso, você pode me apresentar ao seu chefe para falar sobre o problema?'" },
+          { "value": "Falar sobre o preço." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "Use o elogio como alavanca para pedir um comprometimento de reputação.",
+        "hint": "Alavanca.",
+        "correctAnswer": "b",
+        "bookExample": "Use o elogio para pedir algo de valor."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "O Segredo da Venda: Não Venda, Aprenda",
+    "teaser": "🤫 O segredo dos grandes fundadores: Se você está vendendo, você está fazendo errado. A venda é o resultado do aprendizado.",
+    "level1": "O objetivo da entrevista de validação **NÃO É VENDER**, mas sim **APRENDER**. O modo 'venda' ativa a defensiva do cliente e contamina o feedback. O modo 'aprendizado' (o do detetive) desarma a defensiva e permite que o cliente revele a verdade sobre sua dor.",
+    "level2": "A venda só deve ocorrer se o cliente, após revelar uma dor real e aguda, **pedir ativamente a solução**. Se você tiver que forçar a venda, você falhou na validação. O cliente deve se sentir no controle, e o melhor jeito de fazer isso é pedindo conselho.",
+    "level3": "Use a regra da **Proporção de Fala (80/20)** e o poder do **Silêncio**. O silêncio após uma pergunta encoraja o cliente a revelar mais detalhes valiosos (os **Cisnes Negros**). **Ignore ativamente** qualquer impulso de fazer um pitch ou falar da sua solução antes de validar a dor e o comprometimento."
+    ,
+    "recapitulation": [
+      "Mentalidade de **Aprendiz/Detetive**, não de Vendedor.",
+      "A Defensiva impede a Honestidade; **Pedir Conselhos** a desarma.",
+      "O cliente deve falar **80% do tempo**.",
+      "O **Silêncio** e a **Escuta Ativa** revelam o Cisne Negro (informação desconhecida).",
+      "A venda é o **resultado natural** de resolver uma dor real."
+    ],
+    "practicalChecklist": [
+      "✅ **Anotação de Dor:** Conte quantos minutos o cliente fala ininterruptamente sobre a dor dele (mais é melhor).",
+      "✅ **Pergunta de Redirecionamento:** Se começar a falar da sua ideia, diga: 'Espere, isso é interessante. Mas antes, me conte mais sobre [a dor dele].'",
+      "✅ **Busque a Emoção:** Pergunte 'O que te fez sentir frustrado?'. A emoção é o motor da compra.",
+      "✅ **Teste o Preço:** Nunca pergunte 'Quanto pagaria?'. Pergunte 'Quanto já gastou para resolver isso?' (comportamento passado).",
+      "✅ **Level 1 Action:** Cronometre 80% do tempo de fala para o cliente em sua próxima reunião (o que significa que você fala apenas 20%)."
+    ],
+    "conclusionMessage": "O objetivo da entrevista de validação não é vender, mas sim aprender. A venda é o resultado natural de resolver um problema real e doloroso.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a mentalidade correta ao entrar em uma entrevista de validação?",
+        "options": [
+          { "value": "a", "label": "Mentalidade de Vendedor (Pitching)." },
+          { "value": "b", "label": "Mentalidade de Aprendiz/Detetive (Escuta Ativa)." },
+          { "value": "c", "label": "Mentalidade de Investidor." },
+          { "value": "d", "label": "Mentalidade de Crítico." }
+        ],
+        "explanation": "Você está ali para descobrir a verdade, não para convencer.",
+        "hint": "Descoberta.",
+        "correctAnswer": "b",
+        "bookExample": "Se você está vendendo algo, você está fazendo errado. Você deve estar aprendendo."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Desarmar a Defensiva' do cliente?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Usar a introdução de 'pedir conselho' e manter o foco no problema dele, não na sua solução." },
+          { "value": "c", "label": "Falar sobre sua ideia." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A defensiva impede a honestidade. A humildade a desarma.",
+        "hint": "Humildade.",
+        "correctAnswer": "b",
+        "bookExample": "Peça conselho, não feedback."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de 'Fazer um Pitch' muito cedo?",
+        "options": [
+          { "value": "a", "label": "O cliente pode roubar sua ideia." },
+          { "value": "b", "label": "Você contamina a conversa, recebe 'Sim' falsos e perde a oportunidade de aprender sobre a dor real." },
+          { "value": "c", "label": "A conversa fica muito longa." },
+          { "value": "d", "label": "Você perde o foco no preço." }
+        ],
+        "explanation": "A contaminação é o maior risco.",
+        "hint": "Contaminação.",
+        "correctAnswer": "b",
+        "bookExample": "Não alimente o elefante na sala."
+      },
+      {
+        "id": "4",
+        "question": "O que você deve fazer se o cliente disser: 'Eu não tenho esse problema'?",
+        "options": [
+          { "value": "a", "label": "Tentar convencê-lo de que ele tem." },
+          { "value": "b", "label": "Agradecer e perguntar se ele conhece alguém que tem (se for um nicho adjacente)." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Não tente convencer. Aceite a resposta e siga em frente.",
+        "hint": "Aceitação.",
+        "correctAnswer": "b",
+        "bookExample": "Não tente convencer. Apenas aprenda."
+      },
+      {
+        "id": "5",
+        "question": "Qual é a melhor forma de 'Testar o Preço' na fase de validação?",
+        "options": [
+          { "value": "a", "label": "Perguntar quanto ele pagaria." },
+          { "value": "b", "label": "Perguntar quanto ele já gastou para resolver o problema e buscar um comprometimento financeiro de baixo risco." },
+          { "value": "Falar sobre o preço." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O preço é validado pelo comportamento passado e pelo comprometimento real.",
+        "hint": "Comportamento passado.",
+        "correctAnswer": "b",
+        "bookExample": "O custo é medido pelo que já foi gasto."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Vender a Próxima Reunião'?",
+        "options": [
+          { "value": "a", "label": "Vender o produto final." },
+          { "value": "b", "label": "Garantir que o próximo passo (comprometimento) seja definido e aceito pelo cliente." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O objetivo de cada reunião é garantir a próxima (o comprometimento).",
+        "hint": "Próximo passo.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo de cada reunião é a próxima reunião."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o risco de 'Focar em Soluções' em vez de problemas?",
+        "options": [
+          { "value": "a", "label": "O cliente pode roubar sua ideia." },
+          { "value": "b", "label": "Você constrói o produto errado, baseado em recursos superficiais, em vez de resolver a dor real." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no preço." }
+        ],
+        "explanation": "O cliente é especialista no problema, não na solução.",
+        "hint": "Especialista.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente é especialista no problema, não na solução."
+      },
+      {
+        "id": "8",
+        "question": "O que você deve fazer se o cliente começar a 'Elogiar' sua ideia?",
+        "options": [
+          { "value": "a", "label": "Aceitar e agradecer." },
+          { "value": "b", "label": "Ignorar o elogio e redirecionar a conversa para o passado e o problema ('O que te fez pensar nisso?')." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "Elogios são a morte da validação. Redirecione para o sinal (o problema).",
+        "hint": "Ruído.",
+        "correctAnswer": "b",
+        "bookExample": "Elogios são a morte da validação."
+      },
+      {
+        "id": "9",
+        "question": "Qual é a melhor forma de 'Encerrar' a entrevista?",
+        "options": [
+          { "value": "a", "label": "Perguntando se ele tem mais perguntas." },
+          { "value": "b", "label": "Agradecendo pelo tempo e definindo o próximo passo (comprometimento)." },
+          { "value": "Pedindo um depoimento." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O encerramento deve ser profissional e focado na ação futura.",
+        "hint": "Ação futura.",
+        "correctAnswer": "b",
+        "bookExample": "Termine com um próximo passo concreto."
+      },
+      {
+        "id": "10",
+        "question": "O que significa 'Buscar a Dor Emocional'?",
+        "options": [
+          { "value": "a", "label": "Fazer o cliente chorar." },
+          { "value": "b", "label": "Perguntar sobre como o problema o faz sentir (frustrado, envergonhado, irritado) para medir a intensidade da dor." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A emoção é o motor da compra. A dor emocional é um forte indicador de que o cliente pagará.",
+        "hint": "Motor da compra.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas compram soluções para problemas emocionais."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Segmentação de Clientes: Quem Você Deve Ouvir",
+    "teaser": "🎯 Pare de atirar no escuro. Focar em Early Adopters específicos é o segredo para ter um produto 'Obviamente Incrível'.",
+    "level1": "Nem todos os clientes são iguais. Você deve ser brutalmente honesto e focar apenas nos **Early Adopters** (Adotantes Iniciais) que: 1. Têm o problema de forma **aguda**; 2. **Já tentaram resolvê-lo**; 3. Têm **Autoridade** e **Orçamento** para pagar. Ignorar a segmentação leva a dados diluídos.",
+    "level2": "O 'Sim' de um cliente que não tem autoridade (o **Não-Decisor**) ou orçamento é inútil. Você deve testar a autoridade e o orçamento com perguntas sobre o **comportamento passado** ('Quem autorizou o último gasto com X?'). O nicho (segmento específico) é a chave para a validação inicial.",
+    "level3": "Seja o mais específico possível ao definir seu nicho (ex: 'Gerentes de Marketing em Startups de SaaS com mais de 50 funcionários'). A **especificidade** permite que você encontre a **dor aguda** e construa uma solução que seja **'Obviamente Incrível'** para esse grupo, em vez de 'ok' para todos."
+    ,
+    "recapitulation": [
+      "Foco em **Early Adopters** com **Dor Aguda**.",
+      "**Diluição** do nicho leva a dados inúteis.",
+      "Valide a **Autoridade** e o **Orçamento** com perguntas sobre **ação passada**.",
+      "O 'Sim' do não-decisor é inútil.",
+      "A **Especificidade** do nicho é a chave para o sucesso inicial."
+    ],
+    "practicalChecklist": [
+      "✅ **Teste de Autoridade:** Pergunte 'O que você teve que fazer da última vez que o problema ocorreu? Teve que pedir permissão para resolver?'",
+      "✅ **Teste de Orçamento:** Pergunte 'Qual foi o último gasto da sua empresa para resolver X? Quem autorizou?'",
+      "✅ **Ponte para o Decisor:** Se for um não-decisor, peça uma introdução ('Como garantimos que seu chefe esteja a bordo?').",
+      "✅ **Critérios de Descarte:** Defina 3 critérios claros de descarte (ex: Não tem orçamento, Não tentou resolver antes, Problema de baixa frequência).",
+      "✅ **Level 3 Action:** Refine seu nicho ideal (demográfico, comportamental, dor) em uma única frase e use-a para guiar suas próximas 5 entrevistas."
+    ],
+    "conclusionMessage": "Você deve segmentar seus clientes e focar apenas naqueles que têm o problema de forma aguda e que têm autoridade e orçamento para resolvê-lo.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Quem são os 'Early Adopters' (Adotantes Iniciais)?",
+        "options": [
+          { "value": "a", "label": "Pessoas que compram qualquer coisa nova." },
+          { "value": "b", "label": "Pessoas que têm o problema de forma aguda, já tentaram resolvê-lo e estão ativamente buscando uma solução." },
+          { "value": "c", "label": "Pessoas que dão muitos elogios." },
+          { "value": "d", "label": "Pessoas que não têm dinheiro." }
+        ],
+        "explanation": "Os Early Adopters são os únicos que pagarão por uma solução imperfeita.",
+        "hint": "Dor aguda.",
+        "correctAnswer": "b",
+        "bookExample": "Os Early Adopters são a chave para a validação."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de 'Diluir' seu nicho?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você obtém dados genéricos e superficiais que não levam a uma solução específica e valiosa." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no preço." }
+        ],
+        "explanation": "A especificidade é a chave para a validação.",
+        "hint": "Especificidade.",
+        "correctAnswer": "b",
+        "bookExample": "Se você tenta agradar a todos, você não agrada a ninguém."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'Autoridade e Orçamento' na segmentação?",
+        "options": [
+          { "value": "a", "label": "O cliente tem que ser rico." },
+          { "value": "b", "label": "O cliente tem o poder de decisão e o dinheiro para pagar pela solução." },
+          { "value": "O cliente tem que ser o chefe." },
+          { "value": "O cliente tem que ser o mais inteligente." }
+        ],
+        "explanation": "Negocie com quem pode executar. Se ele não tem autoridade/orçamento, ele é um 'Não-Decisor'.",
+        "hint": "Poder de decisão.",
+        "correctAnswer": "b",
+        "bookExample": "Negocie com quem pode executar."
+      },
+      {
+        "id": "4",
+        "question": "Como você pode testar a 'Autoridade' do cliente?",
+        "options": [
+          { "value": "a", "label": "Perguntar se ele é o chefe." },
+          { "value": "b", "label": "Perguntar o que ele fez na última vez que o problema ocorreu e se ele teve que pedir permissão para resolver." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A ação passada revela a autoridade real.",
+        "hint": "Ação passada.",
+        "correctAnswer": "b",
+        "bookExample": "A ação é a prova da autoridade."
+      },
+      {
+        "id": "5",
+        "question": "O que você deve fazer se o cliente for um 'Não-Decisor'?",
+        "options": [
+          { "value": "a", "label": "Encerrar a conversa." },
+          { "value": "b", "label": "Usar a empatia tática para entender a dor dele e pedir uma introdução ao decisor ('Como garantiremos que seu chefe esteja a bordo?')." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Não-Decisor' pode ser uma ponte para o decisor real.",
+        "hint": "Ponte.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' do não-decisor é inútil."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de focar em clientes que 'Não Têm Orçamento'?",
+        "options": [
+          { "value": "a", "label": "Eles podem roubar sua ideia." },
+          { "value": "b", "label": "Eles podem ter o problema, mas não a capacidade de pagar, resultando em validação de problema, mas não de modelo de negócio." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no problema." }
+        ],
+        "explanation": "A validação do modelo de negócio é crucial. O problema deve ser resolvível com dinheiro.",
+        "hint": "Modelo de negócio.",
+        "correctAnswer": "b",
+        "bookExample": "O problema deve ser resolvível com dinheiro."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Focar na Dor Aguda'?",
+        "options": [
+          { "value": "a", "label": "Focar em problemas raros." },
+          { "value": "b", "label": "Focar em problemas que causam frustração, custo ou risco significativos e que o cliente está ativamente tentando resolver." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A dor aguda é o motor da compra.",
+        "hint": "Motor da compra.",
+        "correctAnswer": "b",
+        "bookExample": "A dor aguda é a chave para a urgência."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a melhor forma de 'Testar o Orçamento' na fase inicial?",
+        "options": [
+          { "value": "a", "label": "Perguntar quanto ele pagaria." },
+          { "value": "b", "label": "Perguntar quanto ele já gastou para resolver o problema e buscar um comprometimento financeiro de baixo risco." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O orçamento é validado pelo comportamento passado e pelo comprometimento real.",
+        "hint": "Comportamento passado.",
+        "correctAnswer": "b",
+        "bookExample": "O custo é medido pelo que já foi gasto."
+      },
+      {
+        "id": "9",
+        "question": "O que você deve fazer se o cliente for 'Muito Gentil' e der muitos elogios?",
+        "options": [
+          { "value": "a", "label": "Aceitar e agradecer." },
+          { "value": "b", "label": "Rotular a polidez ('Parece que você está sendo muito gentil') e buscar um comprometimento de reputação (introdução)." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A polidez é um sinal de que você não está obtendo a verdade. Busque um comprometimento real.",
+        "hint": "Verdade.",
+        "correctAnswer": "b",
+        "bookExample": "A polidez é a morte da validação."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o risco de 'Ignorar a Segmentação'?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você constrói uma solução genérica que não resolve a dor aguda de ninguém, resultando em um produto medíocre." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no problema." }
+        ],
+        "explanation": "A especificidade é a chave para o sucesso.",
+        "hint": "Especificidade.",
+        "correctAnswer": "b",
+        "bookExample": "O nicho é a chave para o sucesso."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "O Problema do 'Sim' Falso: Lidando com a Polidez",
+    "teaser": "🛡️ O 'Sim' é a armadilha mais comum. Aprenda a buscar o 'Não' honesto ou o 'Sim' de comprometimento, que é o único que liberta.",
+    "level1": "O **'Sim' falso** é o maior inimigo da validação. Ele é dado por **polidez**, medo de conflito ou falta de autoridade. O cliente quer ser gentil, e um 'Sim' fácil o tira da conversa. O **'Não' honesto** é um presente, pois revela a verdade e as objeções reais.",
+    "level2": "Você deve **provocar o 'Não' honesto** usando a **Empatia Tática** (técnica de negociação, não de venda). Perguntas que esperam um 'Não' (ex: 'É uma má hora para falar sobre isso?', 'Você está me dizendo para ir embora?') fazem o cliente se sentir no controle e seguro para ser honesto.",
+    "level3": "Use o **Espelhamento** ('Sim?') e a **Rotulagem** ('Parece que você está muito confortável com isso') para testar a autenticidade do 'Sim'. Se um 'Sim' for dado muito rapidamente, ele é quase sempre falso. O objetivo final é o **'Sim' de Comprometimento** (o 'Sim' de ação e investimento)."
+    ,
+    "recapitulation": [
+      "O **'Sim' Falso** é a morte lenta do negócio.",
+      "O **'Não' é o Novo 'Sim'** (revela objeções e dá controle ao cliente).",
+      "Use perguntas que **Esperam um 'Não'** (Empatia Tática).",
+      "Rotule a Polidez ('Parece que você está sendo muito gentil') para neutralizá-la.",
+      "Busque o **'Sim' de Comprometimento**, não o de Confirmação."
+    ],
+    "practicalChecklist": [
+      "✅ **Provocação do 'Não':** Use perguntas como 'Você acha que esta é uma má ideia?' ou 'Parece que esta é uma causa perdida para você, estou certo?'.",
+      "✅ **Espelhamento:** Se o cliente disser 'Sim', repita 'Sim?' com entonação de pergunta para forçá-lo a expandir.",
+      "✅ **Rotulagem da Objeção:** Se houver hesitação, rotule ('Parece que há um obstáculo que não estamos vendo') para revelar o **Cisne Negro**.",
+      "✅ **Teste de Comprometimento:** Se o 'Sim' for muito fácil, siga imediatamente com um pedido de comprometimento ('Se você realmente acredita, me apresente ao seu chefe').",
+      "✅ **Level 2 Action:** Em sua próxima entrevista, force o 'Não' honesto 3 vezes."
+    ],
+    "conclusionMessage": "O 'Sim' falso é o maior inimigo. Ele é dado por polidez, medo de conflito ou falta de autoridade. Você deve buscar o 'Não' honesto ou o 'Sim' de comprometimento.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é o 'Sim' Falso?",
+        "options": [
+          { "value": "a", "label": "Um acordo sobre o preço." },
+          { "value": "b", "label": "Um 'Sim' dado por polidez, para evitar conflito ou por falta de autoridade, que não leva à execução." },
+          { "value": "Um 'Sim' que leva a um novo recurso." },
+          { "value": "Um 'Sim' que leva a um novo cliente." }
+        ],
+        "explanation": "O 'Sim' falso é perigoso porque cria uma falsa sensação de segurança.",
+        "hint": "Falsa segurança.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' falso é a morte lenta da negociação."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a melhor forma de 'Provocar o 'Não' Honestos'?",
+        "options": [
+          { "value": "a", "label": "Ameaçando o cliente." },
+          { "value": "b", "label": "Fazendo perguntas que esperam um 'Não' ('É uma má hora para falar sobre isso?', 'Você está me dizendo para ir embora?')." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Não' faz o cliente se sentir no controle e seguro para ser honesto.",
+        "hint": "Controle.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Não' é o novo 'Sim'."
+      },
+      {
+        "id": "3",
+        "question": "O que você deve fazer se o cliente disser 'Sim' muito rapidamente?",
+        "options": [
+          { "value": "a", "label": "Aceitar e seguir em frente." },
+          { "value": "b", "label": "Usar o espelhamento ('Sim?') ou a rotulagem ('Parece que você está muito confortável com isso') para testar a autenticidade." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Sim' rápido é um sinal de alerta. Você deve cavar mais fundo.",
+        "hint": "Alerta.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' rápido é o inimigo da execução."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de 'Evitar o Conflito' na entrevista?",
+        "options": [
+          { "value": "a", "label": "Você parece mais gentil." },
+          { "value": "b", "label": "Você perde a oportunidade de descobrir as objeções reais e o cliente se sente desrespeitado por não ter limites." },
+          { "value": "Você fala demais." },
+          { "value": "Você perde o foco." }
+        ],
+        "explanation": "O conflito controlado (o 'Não' honesto) é produtivo.",
+        "hint": "Produtividade.",
+        "correctAnswer": "b",
+        "bookExample": "O conflito é a porta de entrada para a intimidade."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Rotular a Polidez'?",
+        "options": [
+          { "value": "a", "label": "Concordar que a situação é boa." },
+          { "value": "b", "label": "Verbalizar que o cliente está sendo gentil ('Parece que você está tentando ser educado') para forçá-lo a ser honesto." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A rotulagem neutraliza a emoção e a polidez.",
+        "hint": "Neutralização.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule a polidez para neutralizá-la."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a função da pergunta 'O que te impede de dizer 'Não' agora?'",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Forçar o cliente a revelar a objeção oculta ou o medo que está impedindo o comprometimento total." },
+          { "value": "Mudar de assunto." },
+          { "value": "Ficar em silêncio." }
+        ],
+        "explanation": "Essa pergunta busca o Cisne Negro final.",
+        "hint": "Cisne Negro.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Não' é a porta de entrada para a verdade."
+      },
+      {
+        "id": "7",
+        "question": "O que o negociador deve fazer se o cliente hesitar em responder?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Usar o espelhamento ou a rotulagem para entender a hesitação ('Parece que há um obstáculo que não estamos vendo')." },
+          { "value": "Ameaçar o cliente." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A hesitação é um sinal de Cisne Negro.",
+        "hint": "Sinal de Cisne Negro.",
+        "correctAnswer": "b",
+        "bookExample": "A hesitação é a porta de entrada para a verdade."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a diferença entre o 'Sim' de Confirmação e o 'Sim' de Comprometimento?",
+        "options": [
+          { "value": "a", "label": "Nenhuma." },
+          { "value": "b", "label": "O 'Sim' de Confirmação é superficial, e o 'Sim' de Comprometimento é sobre a ação e o investimento de valor." },
+          { "value": "O 'Sim' de Confirmação é mais rápido." },
+          { "value": "O 'Sim' de Comprometimento é mais importante." }
+        ],
+        "explanation": "O foco deve ser na ação, não apenas na intenção.",
+        "hint": "Ação vs. Intenção.",
+        "correctAnswer": "b",
+        "bookExample": "O acordo é inútil sem a execução."
+      },
+      {
+        "id": "9",
+        "question": "O que o 'Sim' Falso ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "O silêncio." },
+          { "value": "b", "label": "O 'Não' honesto e a oportunidade de descobrir a objeção real." },
+          { "value": "O contato visual." },
+          { "value": "O preço alto." }
+        ],
+        "explanation": "O 'Sim' falso é a armadilha mais comum.",
+        "hint": "Armadilha.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' é a armadilha mais comum."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de lidar com um cliente que usa 'Talvez' repetidamente?",
+        "options": [
+          { "value": "a", "label": "Aceitar o 'Talvez'." },
+          { "value": "b", "label": "Rotular o 'Talvez' ('Parece que você está incerto') e buscar o 'Não' honesto ('É uma má ideia para você?')." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Talvez' é um 'Sim' falso disfarçado. Você deve buscar a clareza.",
+        "hint": "Clareza.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Talvez' é a morte lenta da negociação."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "O Problema do 'Eu Faria': Ignorando Intenções Futuras",
+    "teaser": "🛑 Intenção não paga contas. Treine-se para ignorar qualquer declaração que projete o futuro e volte ao comportamento passado.",
+    "level1": "As pessoas, incluindo você, são otimistas sobre o futuro. Qualquer declaração que comece com 'Eu faria', 'Eu compraria' ou 'Eu usaria' é uma **intenção futura** — um dado **inútil** para a validação. O futuro é uma fantasia; o passado é a realidade.",
+    "level2": "O **comportamento passado é o único dado concreto**. Sempre que ouvir uma intenção futura, use-a como um gatilho para **redirecionar a conversa** para o 'Eu fiz'. O cliente pode *querer* usar sua solução, mas se ele *nunca fez nada* para resolver o problema, o problema não é real ou não é prioridade.",
+    "level3": "Ignore o 'se' e o 'talvez'. Se o cliente diz: 'Eu compraria isso se fosse mais barato', ele está falando de uma **hipótese**. A resposta certa é: 'Quanto você **gastou** na última vez que tentou resolver isso, e o que aconteceu?'. O custo passado é a prova de que ele valoriza a solução (ou a dor)."
+    ,
+    "recapitulation": [
+      "Ignore 'Eu Faría', 'Eu Compraria', 'Eu Usaria'.",
+      "**Intenção** é inútil; **Ação Passada** é tudo.",
+      "O **Comportamento Passado** é o único preditor confiável.",
+      "Use a intenção futura como um **gatilho de redirecionamento** para o passado.",
+      "Se não há **sacrifício passado**, não há prioridade real."
+    ],
+    "practicalChecklist": [
+      "✅ **Redirecionamento Rígido:** Se o cliente falar sobre o futuro, use a frase 'Isso é muito bom, mas vamos falar de **agora** (ou **antes**). O que você está fazendo para resolver isso hoje?'",
+      "✅ **Ancoragem em Números:** Pergunte 'Se você faria isso com frequência, quantas vezes **fez** isso no último mês?'.",
+      "✅ **Teste de Preço Passado:** Troque 'Quanto pagaria?' por 'Quanto você já gastou (dinheiro, tempo) para contornar o problema?'.",
+      "✅ **Foco na Dor:** Se o cliente sugerir um recurso futuro, pergunte 'Qual é a dor que você está tentando resolver com esse recurso?'.",
+      "✅ **Level 1 Action:** Corte qualquer pergunta da sua lista que comece com 'Se' ou 'Você faria'."
+    ],
+    "conclusionMessage": "Ignore qualquer declaração que comece com 'Eu faria', 'Eu compraria' ou 'Eu usaria'. Essas são intenções futuras e não são dados concretos.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que o 'Eu Faria' (I Would) representa na entrevista?",
+        "options": [
+          { "value": "a", "label": "Um comprometimento real." },
+          { "value": "b", "label": "Uma intenção futura não confiável (hipótese)." },
+          { "value": "Um elogio." },
+          { "value": "Um fato concreto." }
+        ],
+        "explanation": "O 'Eu faria' é uma fantasia. O futuro é uma mentira.",
+        "hint": "Fantasia.",
+        "correctAnswer": "b",
+        "bookExample": "Ignore o 'Eu faria'. Busque o 'Eu fiz'."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a melhor forma de lidar com o 'Eu Faria'?",
+        "options": [
+          { "value": "a", "label": "Anotar e seguir em frente." },
+          { "value": "b", "label": "Redirecionar a conversa para o comportamento passado ('O que você fez na última vez que teve esse problema?')." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O comportamento passado é o único dado confiável.",
+        "hint": "Comportamento passado.",
+        "correctAnswer": "b",
+        "bookExample": "O passado é o único lugar onde as pessoas dizem a verdade."
+      },
+      {
+        "id": "3",
+        "question": "Se o cliente diz: 'Eu compraria isso se fosse mais barato', o que você deve perguntar?",
+        "options": [
+          { "value": "a", "label": "Quanto você pagaria?" },
+          { "value": "b", "label": "Quanto você gastou na última vez que tentou resolver isso, e o que aconteceu?" },
+          { "value": "Você está pronto para comprar?" },
+          { "value": "Você conhece alguém que tem esse problema?" }
+        ],
+        "explanation": "O 'Eu compraria' é uma hipótese. Você precisa de evidências do custo real (dinheiro, tempo, esforço).",
+        "hint": "Custo real.",
+        "correctAnswer": "b",
+        "bookExample": "O custo é medido pelo que já foi gasto."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Focar no Sacrifício Passado'?",
+        "options": [
+          { "value": "a", "label": "Falar sobre o preço." },
+          { "value": "b", "label": "Perguntar o que o cliente adiou ou sacrificou para resolver o problema na última vez (prova de prioridade)." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O sacrifício passado é a prova de que o problema é prioridade.",
+        "hint": "Prioridade.",
+        "correctAnswer": "b",
+        "bookExample": "A prioridade é medida pela ação, não pela palavra."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Acreditar' no 'Eu Faria'?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você constrói um produto baseado em intenções, não em necessidades reais, resultando em um produto que ninguém compra." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no problema." }
+        ],
+        "explanation": "A intenção não é ação. O futuro é uma mentira.",
+        "hint": "Ação.",
+        "correctAnswer": "b",
+        "bookExample": "O que eles fariam é irrelevante. O que eles fizeram é tudo."
+      },
+      {
+        "id": "6",
+        "question": "Se o cliente diz: 'Eu acho que este problema é muito importante', o que você deve perguntar?",
+        "options": [
+          { "value": "a", "label": "Por que você acha isso?" },
+          { "value": "b", "label": "O que você fez na última vez que esse problema te custou tempo ou dinheiro?" },
+          { "value": "Você está pronto para comprar?" },
+          { "value": "Você conhece alguém que tem esse problema?" }
+        ],
+        "explanation": "O 'Eu acho' é uma opinião. Você precisa de evidências de que o problema é importante (custo real).",
+        "hint": "Custo real.",
+        "correctAnswer": "b",
+        "bookExample": "A importância é medida pelo custo."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Ignorar Sugestões de Recursos'?",
+        "options": [
+          { "value": "a", "label": "Fazer o cliente se sentir ignorado." },
+          { "value": "b", "label": "Descartar as soluções projetadas pelo cliente e focar no problema subjacente que motivou a sugestão." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O cliente é especialista no problema, não na solução.",
+        "hint": "Especialista.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente é especialista no problema, não na solução."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a melhor forma de 'Testar a Urgência'?",
+        "options": [
+          { "value": "a", "label": "Perguntar se o problema é urgente." },
+          { "value": "b", "label": "Perguntar o que o cliente fez na última vez que o problema ocorreu e quão rápido ele agiu para resolvê-lo." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A urgência é medida pela ação passada, não pela declaração de urgência.",
+        "hint": "Ação passada.",
+        "correctAnswer": "b",
+        "bookExample": "A urgência é medida pela ação, não pela palavra."
+      },
+      {
+        "id": "9",
+        "question": "O que você deve fazer se o cliente começar a 'Generalizar'?",
+        "options": [
+          { "value": "a", "label": "Aceitar a generalização." },
+          { "value": "b", "label": "Pedir um exemplo específico e recente ('Conte-me sobre a última vez que você fez isso')." },
+          { "value": "Mudar de assunto." },
+          { "value": "Falar sobre sua ideia." }
+        ],
+        "explanation": "Generalizações são perigosas. Você precisa de detalhes concretos para validar a dor.",
+        "hint": "Detalhes.",
+        "correctAnswer": "b",
+        "bookExample": "Generalizações são a morte da validação."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o risco de 'Focar em Problemas de Baixa Frequência'?",
+        "options": [
+          { "value": "a", "label": "O cliente pode ficar entediado." },
+          { "value": "b", "label": "Mesmo que a dor seja alta, a baixa frequência significa que o cliente não terá urgência em pagar por uma solução." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no preço." }
+        ],
+        "explanation": "A frequência é crucial. Problemas raros não geram receita sustentável.",
+        "hint": "Sustentabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Problemas raros são problemas raros."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "O Plano de Jogo: Definindo Metas para Cada Entrevista",
+    "teaser": "♟️ Não jogue xadrez sem um plano. Cada entrevista deve testar a **Hipótese Mais Arriscada** do seu negócio.",
+    "level1": "Não entre em uma entrevista sem um **Plano de Jogo** claro e uma **Meta Específica**. Sua meta deve ser testar a **Hipótese Mais Arriscada** do seu negócio (ex: 'Ninguém pagará o suficiente' ou 'O problema não é frequente o bastante').",
+    "level2": "A meta deve ser um **fato concreto a ser descoberto**, não uma opinião a ser validada (Meta Ruim: 'Obter feedback positivo'. Meta Boa: 'Descobrir se o cliente gastou mais de R$ 500 no último ano com X'). O plano de jogo garante que você colete dados úteis para tomar decisões de **Seguir, Pivotar ou Parar**.",
+    "level3": "Seja flexível. Se o cliente desviar do plano e revelar um **Cisne Negro** (dor inesperada, mas aguda), **siga o desvio**. O Cisne Negro é mais valioso que o plano. Mas se o desvio for irrelevante (ex: sugestões de recursos), redirecione gentilmente para a sua meta principal."
+    ,
+    "recapitulation": [
+      "Meta de Entrevista = Testar a **Hipótese Mais Arriscada**.",
+      "Hipótese Mais Arriscada = O que pode **matar seu negócio** se estiver errado.",
+      "A Meta deve ser um **Fato Concreto** a ser descoberto.",
+      "Seja Flexível: o **Cisne Negro** (descoberta inesperada) é mais valioso que o plano.",
+      "A entrevista falhou se a meta não foi atingida (não coletou o fato)."
+    ],
+    "practicalChecklist": [
+      "✅ **Defina a Hipótese:** Antes de cada entrevista, escreva 'Acreditamos que [nicho] está disposto a pagar [preço] porque [dor aguda]'.",
+      "✅ **Meta SMART:** Defina uma meta específica e mensurável (ex: 'Descobrir o custo da dor').",
+      "✅ **Lista de Perguntas-Chave:** Leve 3-5 perguntas-chave que, se respondidas, validam ou invalidam sua meta.",
+      "✅ **Decisão Pós-Entrevista:** Imediatamente após, decida: 'Atingi a meta? O que aprendi que me fará Pivotar ou Seguir?'.",
+      "✅ **Level 3 Action:** Classifique suas 5 hipóteses mais arriscadas e use o plano de jogo para testar a mais crítica primeiro."
+    ],
+    "conclusionMessage": "Cada entrevista deve ter uma meta clara e específica (ex: 'Validar se o problema X é agudo para o Segmento Y'). O objetivo é testar a hipótese mais arriscada.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é a 'Hipótese Mais Arriscada' (Riskiest Assumption)?",
+        "options": [
+          { "value": "a", "label": "A parte da sua ideia que é mais difícil de construir." },
+          { "value": "b", "label": "A suposição fundamental sobre seu cliente ou problema que, se estiver errada, destrói seu negócio." },
+          { "value": "O preço mais alto que você pode cobrar." },
+          { "value": "O recurso mais complexo." }
+        ],
+        "explanation": "Foque em testar o que pode matar seu negócio primeiro.",
+        "hint": "Morte do negócio.",
+        "correctAnswer": "b",
+        "bookExample": "Teste a hipótese que, se estiver errada, destrói seu negócio."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o objetivo de 'Definir uma Meta' para cada entrevista?",
+        "options": [
+          { "value": "a", "label": "Garantir que a conversa seja longa." },
+          { "value": "b", "label": "Garantir que você colete dados específicos e úteis para testar sua hipótese mais arriscada." },
+          { "value": "Fazer o cliente se sentir importante." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A meta garante o foco e a produtividade.",
+        "hint": "Foco e produtividade.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não sabe o que está procurando, você não encontrará nada."
+      },
+      {
+        "id": "3",
+        "question": "Qual destas é uma 'Meta de Entrevista' eficaz?",
+        "options": [
+          { "value": "a", "label": "Obter 5 elogios sobre minha ideia." },
+          { "value": "b", "label": "Descobrir se o cliente já gastou dinheiro para resolver o problema X no último ano." },
+          { "value": "Perguntar se ele compraria meu produto." },
+          { "value": "Falar sobre o preço." }
+        ],
+        "explanation": "Focar no comportamento passado (gasto de dinheiro) é a melhor forma de testar a dor e o orçamento.",
+        "hint": "Comportamento passado.",
+        "correctAnswer": "b",
+        "bookExample": "A meta deve ser um fato concreto a ser descoberto."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Iterar o Plano de Jogo'?",
+        "options": [
+          { "value": "a", "label": "Mudar de ideia a cada entrevista." },
+          { "value": "b", "label": "Ajustar as perguntas e as hipóteses com base nos dados coletados nas entrevistas anteriores." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O processo de validação é um ciclo de aprendizado contínuo.",
+        "hint": "Ciclo de aprendizado.",
+        "correctAnswer": "b",
+        "bookExample": "Aprenda, ajuste, repita."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Não Ter um Plano de Jogo'?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você coleta dados aleatórios e superficiais, resultando em validação ineficaz." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no preço." }
+        ],
+        "explanation": "A aleatoriedade é o inimigo da validação.",
+        "hint": "Aleatoriedade.",
+        "correctAnswer": "b",
+        "bookExample": "Um plano de jogo ruim é melhor do que nenhum plano."
+      },
+      {
+        "id": "6",
+        "question": "O que você deve fazer se a entrevista 'Desviar' do plano?",
+        "options": [
+          { "value": "a", "label": "Forçar o cliente a voltar ao tópico." },
+          { "value": "b", "label": "Seguir o desvio se ele levar a uma dor real e inesperada (Cisne Negro), mas redirecionar gentilmente se for irrelevante." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O Cisne Negro é mais valioso que o plano. Seja flexível, mas focado.",
+        "hint": "Flexibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Cisne Negro é a informação que você não sabia que não sabia."
+      },
+      {
+        "id": "7",
+        "question": "Qual é a função da 'Transição' no plano de jogo?",
+        "options": [
+          { "value": "a", "label": "O momento de encerrar a conversa." },
+          { "value": "b", "label": "O momento de ligar a dor validada à sua solução, buscando um 'Comprometimento'." },
+          { "value": "O momento de falar sobre o preço." },
+          { "value": "O momento de pedir um depoimento." }
+        ],
+        "explanation": "A transição é a ponte entre o problema e o próximo passo (comprometimento).",
+        "hint": "Ponte.",
+        "correctAnswer": "b",
+        "bookExample": "Use a dor que você encontrou para justificar o próximo passo."
+      },
+      {
+        "id": "8",
+        "question": "O que significa 'Testar o Nicho' no plano de jogo?",
+        "options": [
+          { "value": "a", "label": "Falar com o máximo de pessoas possível." },
+          { "value": "b", "label": "Garantir que as perguntas sejam específicas para o contexto e a dor do seu segmento ideal." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A especificidade é a chave para o nicho.",
+        "hint": "Especificidade.",
+        "correctAnswer": "b",
+        "bookExample": "O nicho é a chave para o sucesso."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Focar em Perguntas Fáceis'?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você obtém 'Sim' fáceis e dados superficiais que não testam a hipótese mais arriscada." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no preço." }
+        ],
+        "explanation": "As perguntas devem ser difíceis e focadas na dor real.",
+        "hint": "Dor real.",
+        "correctAnswer": "b",
+        "bookExample": "Perguntas fáceis levam a respostas fáceis e inúteis."
+      },
+      {
+        "id": "10",
+        "question": "O que você deve fazer se a entrevista 'Falhar' (não atingir a meta)?",
+        "options": [
+          { "value": "a", "label": "Desistir." },
+          { "value": "b", "label": "Aprender com a falha, ajustar o plano de jogo e buscar o próximo cliente." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A falha é aprendizado. O ciclo de validação é contínuo.",
+        "hint": "Aprendizado.",
+        "correctAnswer": "b",
+        "bookExample": "A falha é apenas um passo para o sucesso."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Notas e Documentação: Capturando e Analisando os Dados",
+    "teaser": "🧠 Não confie na memória. Sua mente vai te enganar. Saiba como capturar a verdade e ignorar o ruído.",
+    "level1": "A **memória é falha** e altamente suscetível ao **Viés de Confirmação** (lembrar dos elogios, esquecer os problemas). Você deve anotar apenas 3 coisas: 1. **Citações Exatas** do cliente; 2. **Fatos Concretos** (o que ele fez, quanto gastou); 3. O nível de **Comprometimento** (o próximo passo).",
+    "level2": "Ignore o 'ruído' durante a anotação (elogios, sugestões de recursos, opiniões). O **linguajar exato do cliente** para descrever a dor é a **linguagem do seu marketing** — o que você deve usar no seu pitch. Se você não anotou, não aconteceu.",
+    "level3": "A análise não deve focar em uma única entrevista, mas em **padrões recorrentes** de dor, contexto e comportamento em várias entrevistas. Compartilhe os **dados brutos** (citações, fatos) com sua equipe para evitar o viés de confirmação coletivo."
+    ,
+    "recapitulation": [
+      "Memória é falha → use **Anotação Imediata**.",
+      "Prioridade: **Citações Exatas**, **Fatos Concretos**, **Comprometimento**.",
+      "Ignore **Elogios** e **Sugestões de Recursos** (ruído).",
+      "A **Linguagem do Cliente** é a linguagem do seu Marketing/Pitch.",
+      "Análise = Busque **Padrões Recorrentes** (estatística), não anedotas."
+    ],
+    "practicalChecklist": [
+      "✅ **Modo Citação:** Use aspas sempre que anotar uma frase importante do cliente sobre a dor ou o custo.",
+      "✅ **Foco no Fato:** Circule ou sublinhe qualquer número, hora ou custo mencionado pelo cliente.",
+      "✅ **Documentação do Comprometimento:** Anote o próximo passo agendado e a moeda de comprometimento (ex: 'Comprometimento de Tempo: 30 minutos de call na próxima terça').",
+      "✅ **Análise de Padrão:** Após 5 entrevistas, liste os 3 problemas mais citados e os 3 maiores 'Custos da Dor' recorrentes.",
+      "✅ **Level 2 Action:** Compartilhe as 3 citações mais chocantes sobre a dor com sua equipe hoje."
+    ],
+    "conclusionMessage": "Anote citações exatas, fatos concretos e o nível de comprometimento. Ignore elogios e sugestões de recursos. A análise deve ser objetiva.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que você deve priorizar ao fazer anotações?",
+        "options": [
+          { "value": "a", "label": "Elogios e sugestões de recursos." },
+          { "value": "b", "label": "Citações exatas, fatos concretos (comportamento passado) e o nível de comprometimento." },
+          { "value": "O preço que você quer cobrar." },
+          { "value": "O nome do cliente." }
+        ],
+        "explanation": "Fatos e a linguagem do cliente são os dados mais valiosos.",
+        "hint": "Fatos e linguagem.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não anotou, não aconteceu."
+      },
+      {
+        "id": "2",
+        "question": "Por que é importante anotar as 'Citações Exatas' do cliente?",
+        "options": [
+          { "value": "a", "label": "Para provar que ele está mentindo." },
+          { "value": "b", "label": "Para capturar a linguagem exata que ele usa para descrever a dor (crucial para o marketing e o pitch)." },
+          { "value": "Para mudar de assunto." },
+          { "value": "Para fazer o cliente se sentir importante." }
+        ],
+        "explanation": "A linguagem do cliente é a linguagem que você deve usar no seu marketing.",
+        "hint": "Linguagem de marketing.",
+        "correctAnswer": "b",
+        "bookExample": "Use as palavras deles para vender para eles."
+      },
+      {
+        "id": "3",
+        "question": "O que você deve fazer com 'Sugestões de Recursos'?",
+        "options": [
+          { "value": "a", "label": "Anotar e prometer que serão construídos." },
+          { "value": "b", "label": "Ignorar a sugestão, mas anotar o problema subjacente que a motivou." },
+          { "value": "Dizer que você não tem tempo para construir isso." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O cliente é especialista no problema, não na solução. Foque no problema.",
+        "hint": "Problema subjacente.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente é especialista no problema, não na solução."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de 'Confiar na Memória'?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você tende a lembrar dos elogios e esquecer os fatos concretos e as objeções (viés de confirmação)." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no preço." }
+        ],
+        "explanation": "O viés de confirmação é o inimigo da validação.",
+        "hint": "Viés.",
+        "correctAnswer": "b",
+        "bookExample": "A memória é falha. Anote tudo."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Analisar Padrões' nos dados?",
+        "options": [
+          { "value": "a", "label": "Focar em uma única entrevista." },
+          { "value": "b", "label": "Buscar temas recorrentes de dor, contexto e comportamento em várias entrevistas." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A validação é estatística. Padrões recorrentes indicam um problema real.",
+        "hint": "Estatística.",
+        "correctAnswer": "b",
+        "bookExample": "Padrões são a chave para a verdade."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a melhor forma de 'Documentar o Comprometimento'?",
+        "options": [
+          { "value": "a", "label": "Anotar 'Ele disse Sim'." },
+          { "value": "b", "label": "Anotar o próximo passo concreto e a moeda de comprometimento (ex: 'Agendou reunião de 30 minutos para protótipo')." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O comprometimento deve ser específico e mensurável.",
+        "hint": "Mensurável.",
+        "correctAnswer": "b",
+        "bookExample": "O comprometimento é a única coisa que importa."
+      },
+      {
+        "id": "7",
+        "question": "O que você deve fazer se o cliente 'Não Quiser ser Gravado'?",
+        "options": [
+          { "value": "a", "label": "Insistir na gravação." },
+          { "value": "b", "label": "Respeitar a decisão e focar em anotações manuais detalhadas (citações exatas)." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O rapport é mais importante que a gravação. Respeite a privacidade.",
+        "hint": "Rapport.",
+        "correctAnswer": "b",
+        "bookExample": "O rapport é a cola da confiança."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Focar em Opiniões' na análise?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você constrói um produto baseado em desejos superficiais, não em necessidades reais (viés de confirmação)." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no preço." }
+        ],
+        "explanation": "Opiniões são inúteis. Fatos são tudo.",
+        "hint": "Fatos.",
+        "correctAnswer": "b",
+        "bookExample": "Opiniões são a morte da validação."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Documentar o Contexto'?",
+        "options": [
+          { "value": "a", "label": "Anotar o nome do cliente." },
+          { "value": "b", "label": "Anotar o ambiente, o tempo e as ferramentas envolvidas quando o problema ocorreu." },
+          { "value": "Mudar de assunto." },
+          { "value": "Falar sobre sua ideia." }
+        ],
+        "explanation": "O contexto define a relevância do problema.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "O problema só existe dentro de um contexto."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de 'Compartilhar as Notas' com a equipe?",
+        "options": [
+          { "value": "a", "label": "Apenas os elogios." },
+          { "value": "b", "label": "Citações exatas, fatos concretos e o nível de comprometimento (dados brutos)." },
+          { "value": "Apenas as sugestões de recursos." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A equipe deve ter acesso aos dados brutos para evitar o viés de confirmação.",
+        "hint": "Dados brutos.",
+        "correctAnswer": "b",
+        "bookExample": "Compartilhe os dados brutos, não suas conclusões."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "O Problema do 'Recurso': Evitando que o Cliente Projete Soluções",
+    "teaser": "💡 O cliente é mestre no problema, não na solução. Transforme sugestões de recursos em pistas valiosas sobre a dor.",
+    "level1": "O cliente é **especialista no problema**, não na solução. Quando ele sugere um recurso ('Você deveria adicionar um botão verde'), ele está projetando uma solução que pode ser ineficaz ou desnecessária. O recurso é o **ruído**; o problema é o **sinal**.",
+    "level2": "Você deve **ignorar o recurso** e usá-lo como um **gatilho** para cavar fundo no **problema subjacente**. A pergunta a ser feita é: **'Por que você precisa desse recurso? O que você está tentando fazer que não consegue agora?'** O objetivo é entender a dor que a sugestão do recurso tenta aliviar.",
+    "level3": "Se você construir recursos baseados apenas em sugestões, você corre o risco de criar um produto complexo e caro que ninguém usa, pois ele não resolve a **dor aguda fundamental**. O foco deve ser sempre em **transformar o recurso em problema** e validar o custo da inação."
+    ,
+    "recapitulation": [
+      "O cliente é especialista no **Problema**, não na **Solução**.",
+      "Recursos sugeridos são **Ruído**.",
+      "Use a pergunta **'Por que isso é importante?'** para encontrar o problema subjacente.",
+      "Recursos baseados em sugestões levam a um **produto complexo e inútil**.",
+      "Valide a necessidade do recurso pelo **custo da inação passada**."
+    ],
+    "practicalChecklist": [
+      "✅ **Filtro 'Por Que?':** Toda vez que o cliente sugerir um recurso, pergunte: 'O que você fez na última vez que precisou disso e qual foi o custo de não tê-lo?'",
+      "✅ **Ignorar Sugestões:** Treine-se a não anotar sugestões de recursos, apenas o problema subjacente que você descobrir.",
+      "✅ **Foco no Fluxo de Trabalho:** Se for uma integração, pergunte 'Qual é o problema de fluxo de trabalho que essa integração resolveria? Qual é o custo de fazer isso manualmente?'.",
+      "✅ **Insistência como Sinal:** Se o cliente insistir no recurso, rotule a insistência e cave mais fundo (é um sinal de dor profunda).",
+      "✅ **Level 1 Action:** Escreva 'BUSQUE O PROBLEMA' na sua mão para a próxima entrevista."
+    ],
+    "conclusionMessage": "O cliente é especialista no problema, não na solução. Ignore sugestões de recursos e use-as como um gatilho para cavar fundo no problema subjacente.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que o cliente está fazendo quando sugere um 'Recurso'?",
+        "options": [
+          { "value": "a", "label": "Dando um elogio." },
+          { "value": "b", "label": "Projetando uma solução para um problema que ele não consegue articular claramente." },
+          { "value": "Dando um comprometimento." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O cliente projeta soluções. Você deve buscar o problema.",
+        "hint": "Projeção.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente é especialista no problema, não na solução."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a melhor forma de lidar com uma 'Sugestão de Recurso'?",
+        "options": [
+          { "value": "a", "label": "Anotar e prometer que será construído." },
+          { "value": "b", "label": "Perguntar 'Por que isso é importante? O que você está tentando fazer que não consegue agora?'" },
+          { "value": "Dizer que você não tem tempo para construir isso." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Por que' leva ao problema subjacente.",
+        "hint": "Problema subjacente.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Por que' é a chave para o cofre."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de 'Construir Recursos' sugeridos pelo cliente?",
+        "options": [
+          { "value": "a", "label": "O cliente pode roubar sua ideia." },
+          { "value": "b", "label": "Você constrói recursos que ninguém usa, pois eles não resolvem a dor real e aguda." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no preço." }
+        ],
+        "explanation": "Recursos baseados em sugestões são a morte do produto.",
+        "hint": "Morte do produto.",
+        "correctAnswer": "b",
+        "bookExample": "Se você constrói recursos que ninguém usa, você falhou."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Ignorar o Ruído'?",
+        "options": [
+          { "value": "a", "label": "Focar apenas em perguntas de 'Sim/Não'." },
+          { "value": "b", "label": "Descartar elogios, sugestões de recursos e hipóteses, focando apenas em fatos concretos e dor." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O ruído distrai do sinal (o problema).",
+        "hint": "Sinal.",
+        "correctAnswer": "b",
+        "bookExample": "Ignore o ruído. Foque no sinal."
+      },
+      {
+        "id": "5",
+        "question": "Se o cliente diz: 'Eu preciso de uma integração com X', o que você deve perguntar?",
+        "options": [
+          { "value": "a", "label": "Você pagaria por essa integração?" },
+          { "value": "b", "label": "O que você está tentando fazer com X que não consegue agora? Qual é o custo de fazer isso manualmente?" },
+          { "value": "Dizer que a integração é muito cara." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A integração é um recurso. Você deve buscar o problema de fluxo de trabalho que ela tenta resolver.",
+        "hint": "Fluxo de trabalho.",
+        "correctAnswer": "b",
+        "bookExample": "O recurso é a solução. Busque o problema."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de 'Focar em Soluções' na fase de validação?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você perde a oportunidade de descobrir a dor real e constrói algo que não resolve o problema fundamental." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no preço." }
+        ],
+        "explanation": "O foco deve ser 100% no problema.",
+        "hint": "Problema.",
+        "correctAnswer": "b",
+        "bookExample": "O problema é o rei."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Transformar o Recurso em Problema'?",
+        "options": [
+          { "value": "a", "label": "Dizer que o recurso é ruim." },
+          { "value": "b", "label": "Usar a sugestão de recurso como um gatilho para perguntar sobre o comportamento passado e a dor que o recurso tenta aliviar." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O recurso é a pista. O problema é o tesouro.",
+        "hint": "Tesouro.",
+        "correctAnswer": "b",
+        "bookExample": "O recurso é a pista. O problema é o tesouro."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a melhor forma de 'Testar a Necessidade' de um recurso?",
+        "options": [
+          { "value": "a", "label": "Perguntar se ele usaria." },
+          { "value": "b", "label": "Perguntar o que ele fez na última vez que precisou desse recurso e qual foi o custo de não tê-lo." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A necessidade é medida pelo custo da inação passada.",
+        "hint": "Custo da inação.",
+        "correctAnswer": "b",
+        "bookExample": "A necessidade é medida pela ação, não pela palavra."
+      },
+      {
+        "id": "9",
+        "question": "O que você deve fazer se o cliente 'Insistir' em um recurso?",
+        "options": [
+          { "value": "a", "label": "Prometer construir." },
+          { "value": "b", "label": "Rotular a insistência ('Parece que este recurso é muito importante para você') e cavar mais fundo no problema subjacente." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A insistência é um sinal de dor. Você deve cavar mais fundo.",
+        "hint": "Sinal de dor.",
+        "correctAnswer": "b",
+        "bookExample": "A insistência é a porta de entrada para a verdade."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o risco de 'Focar em Recursos' em vez de problemas?",
+        "options": [
+          { "value": "a", "label": "O cliente pode ficar entediado." },
+          { "value": "b", "label": "Você constrói um produto complexo e caro que não resolve a dor aguda de ninguém." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no preço." }
+        ],
+        "explanation": "A simplicidade é a chave para o sucesso. Foque no problema fundamental.",
+        "hint": "Simplicidade.",
+        "correctAnswer": "b",
+        "bookExample": "O problema é o rei."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "O Problema do 'Amigo': Entrevistando Pessoas que te Conhecem",
+    "teaser": "❤️ O amor é cego. Seu amigo e sua mãe te amam e vão mentir. Seja o mais rigoroso possível para obter a verdade.",
+    "level1": "Amigos e familiares são a **'Mãe' figurativa**. Eles te amam e não querem te desapontar, então darão 'Sim' falsos e elogios. Eles são a fonte mais perigosa de feedback e o maior risco de **Viés de Confirmação**.",
+    "level2": "Ao entrevistar alguém que te conhece, você deve ser **brutalmente honesto** e **o mais rigoroso possível**. **Não fale sobre sua ideia.** Fale apenas sobre a **vida dele** e os problemas que ele enfrenta. O objetivo é que ele se esqueça que você é o criador da ideia.",
+    "level3": "Descarte todos os elogios. O único feedback válido de um amigo é o **fato concreto** sobre o comportamento passado (o que ele fez, quanto gastou) e o **Comprometimento de Reputação** ('Se você realmente acredita, me apresente ao seu chefe'). O 'Sim' deles é inútil sem uma moeda de comprometimento real."
+    ,
+    "recapitulation": [
+      "Amigos e Família = **'Sim' Falso** (Viés de Confirmação).",
+      "Seja **Brutalmente Honesto** com a análise do feedback deles.",
+      "Regra de Ouro: **Foque na vida deles**, não na sua ideia.",
+      "Descarte todos os **Elogios** (ruído).",
+      "O único feedback válido é o **Fato Concreto** e o **Comprometimento de Reputação**."
+    ],
+    "practicalChecklist": [
+      "✅ **O Elefante na Sala:** Peça a um amigo para se concentrar no problema dele e evite que ele fale sobre sua ideia.",
+      "✅ **Foco na Dor Pessoal:** Se ele falar sobre o problema de um terceiro (ex: 'Meu colega tem esse problema'), redirecione para a dor pessoal dele ('Mas como isso te afeta **diretamente**?').",
+      "✅ **Teste de Reputação:** Peça um Comprometimento de Reputação ('Você me apresentaria ao seu chefe para falar sobre este problema?').",
+      "✅ **Ignorar Sugestões:** Lembre-se, mesmo sugestões de amigos são ruído (lição 17).",
+      "✅ **Level 3 Action:** Faça uma 'Auditoria de Amigos' — descarte 80% do feedback recebido de amigos, focando apenas nos fatos e comprometimentos."
+    ],
+    "conclusionMessage": "Amigos e familiares são a 'Mãe' figurativa. Eles darão 'Sim' falsos e elogios. Você deve ser extremamente rigoroso ao entrevistá-los, focando apenas em fatos concretos.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Por que amigos e familiares são a fonte mais perigosa de feedback?",
+        "options": [
+          { "value": "a", "label": "Eles podem roubar sua ideia." },
+          { "value": "b", "label": "Eles dão 'Sim' falsos e elogios por polidez e amor, contaminando seus dados." },
+          { "value": "Eles não têm dinheiro." },
+          { "value": "Eles falam demais." }
+        ],
+        "explanation": "O amor e a polidez são o inimigo da validação.",
+        "hint": "Amor e polidez.",
+        "correctAnswer": "b",
+        "bookExample": "Sua mãe te ama. Ela não fará o Teste da Mãe."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a regra de ouro ao entrevistar um amigo?",
+        "options": [
+          { "value": "a", "label": "Falar sobre sua ideia." },
+          { "value": "b", "label": "Focar 100% no comportamento passado e na dor dele, ignorando qualquer elogio ou sugestão de recurso." },
+          { "value": "Pedir um depoimento." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O foco deve ser na vida dele, não na sua ideia.",
+        "hint": "Vida dele.",
+        "correctAnswer": "b",
+        "bookExample": "Foque na vida deles, não na sua ideia."
+      },
+      {
+        "id": "3",
+        "question": "O que você deve fazer se um amigo começar a 'Elogiar' sua ideia?",
+        "options": [
+          { "value": "a", "label": "Aceitar e agradecer." },
+          { "value": "b", "label": "Ignorar o elogio e redirecionar a conversa para o passado ('O que te fez pensar nisso? Qual foi a última vez que você teve esse problema?')." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "Elogios são a morte da validação. Redirecione para o sinal (o problema).",
+        "hint": "Ruído.",
+        "correctAnswer": "b",
+        "bookExample": "Elogios são a morte da validação."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de 'Não Pedir Comprometimento' a um amigo?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você obtém um 'Sim' falso que não se traduz em ação ou receita, mesmo que o problema seja real." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no preço." }
+        ],
+        "explanation": "O comprometimento é a única prova de que o problema é real e que a solução vale a pena.",
+        "hint": "Prova.",
+        "correctAnswer": "b",
+        "bookExample": "O comprometimento é a única coisa que importa."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Ser Brutalmente Honesto' ao analisar o feedback de amigos?",
+        "options": [
+          { "value": "a", "label": "Dizer que a ideia deles é ruim." },
+          { "value": "b", "label": "Descartar todos os elogios e focar apenas nos fatos concretos e no comprometimento (ou na falta dele)." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A honestidade brutal é necessária para evitar o viés de confirmação.",
+        "hint": "Viés.",
+        "correctAnswer": "b",
+        "bookExample": "Seja brutalmente honesto com o feedback de amigos."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a melhor forma de 'Testar o Preço' com um amigo?",
+        "options": [
+          { "value": "a", "label": "Perguntar quanto ele pagaria." },
+          { "value": "b", "label": "Perguntar quanto ele já gastou para resolver o problema e buscar um comprometimento financeiro de baixo risco." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O preço é validado pelo comportamento passado e pelo comprometimento real.",
+        "hint": "Comportamento passado.",
+        "correctAnswer": "b",
+        "bookExample": "O custo é medido pelo que já foi gasto."
+      },
+      {
+        "id": "7",
+        "question": "O que você deve fazer se um amigo 'Insistir' em dar sugestões de recursos?",
+        "options": [
+          { "value": "a", "label": "Prometer construir." },
+          { "value": "b", "label": "Rotular a insistência ('Parece que este recurso é muito importante para você') e cavar mais fundo no problema subjacente." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A insistência é um sinal de dor. Você deve cavar mais fundo.",
+        "hint": "Sinal de dor.",
+        "correctAnswer": "b",
+        "bookExample": "A insistência é a porta de entrada para a verdade."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Focar em Problemas de Terceiros' com amigos?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "O amigo pode falar sobre problemas de outras pessoas, desviando o foco da dor pessoal dele (que é o que você pode validar)." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no preço." }
+        ],
+        "explanation": "Foque na dor pessoal. Problemas de terceiros são irrelevantes.",
+        "hint": "Dor pessoal.",
+        "correctAnswer": "b",
+        "bookExample": "Resolva a dor do seu cliente, não a dor do amigo dele."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Usar a Linguagem do Cliente'?",
+        "options": [
+          { "value": "a", "label": "Falar como ele." },
+          { "value": "b", "label": "Anotar as citações exatas para usar no marketing e no pitch." },
+          { "value": "Mudar de assunto." },
+          { "value": "Falar sobre sua ideia." }
+        ],
+        "explanation": "A linguagem do cliente é a linguagem que você deve usar no seu marketing.",
+        "hint": "Linguagem de marketing.",
+        "correctAnswer": "b",
+        "bookExample": "Use as palavras deles para vender para eles."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de 'Encerrar' a entrevista com um amigo?",
+        "options": [
+          { "value": "a", "label": "Perguntando se ele tem mais perguntas." },
+          { "value": "b", "label": "Agradecendo pelo tempo e definindo o próximo passo (comprometimento)." },
+          { "value": "Pedindo um depoimento." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O encerramento deve ser profissional e focado na ação futura.",
+        "hint": "Ação futura.",
+        "correctAnswer": "b",
+        "bookExample": "Termine com um próximo passo concreto."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "O Foco no Nicho: Por que Começar Pequeno é Crucial",
+    "teaser": "⛰️ Você não pode escalar o Monte Everest em um dia. Domine um nicho apertado para construir sua base e ter sucesso.",
+    "level1": "O erro mais comum é tentar resolver um problema genérico para todos. Você deve **começar pequeno** e **dominar um nicho específico** com uma **dor aguda**. A **especificidade** é a chave para a validação, o marketing e a construção de um produto 'Obviamente Incrível'.",
+    "level2": "A validação só é válida se for em um nicho. Se você não consegue validar o problema e o comprometimento em um segmento específico (ex: 'Gerentes de Marketing em Startups de SaaS'), você não conseguirá em um mercado maior. A **diluição** do nicho leva a dados diluídos e a uma solução medíocre.",
+    "level3": "Use os dados de contexto, dor e comportamento coletados para **refinar continuamente seu nicho**. Se você encontrar um subsegmento com dor mais aguda e maior orçamento, **pivote o nicho**. Concentre-se em quem tem a dor mais forte e o dinheiro para pagar, e construa a solução para eles."
+    ,
+    "recapitulation": [
+      "Regra de Ouro: **Comece Pequeno** e **Domine um Nicho**.",
+      "A **Especificidade** do nicho é a chave para a dor aguda e o sucesso.",
+      "**Diluir o nicho** leva a dados inúteis e soluções genéricas.",
+      "Use **dados de comportamento** para **Refinar o Nicho**.",
+      "O nicho deve ter **Dor Aguda** e **Orçamento/Autoridade**."
+    ],
+    "practicalChecklist": [
+      "✅ **Defina Seu Nicho:** Escreva uma frase que defina exatamente quem você está entrevistando (ex: 'Pequenos empresários que usam ativamente o Trello para gerenciar equipes remotas').",
+      "✅ **Foco na Dor Aguda:** Em cada entrevista, pergunte se o problema é 'Top 3' em sua lista de prioridades (se não for, descarte-o).",
+      "✅ **Teste de Autoridade:** Garanta que seu nicho tenha autoridade e orçamento para pagar (lição 12).",
+      "✅ **Use a Linguagem do Nicho:** Use as citações e termos específicos que eles usam para descrever o problema (crucial para o marketing).",
+      "✅ **Level 2 Action:** Após 3 entrevistas, ajuste seu nicho para ser 50% mais específico."
+    ],
+    "conclusionMessage": "Comece pequeno. Domine um nicho específico com uma dor aguda. A especificidade é a chave para a validação e o sucesso inicial.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o risco de 'Começar Grande' (Generalizar o Problema)?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você obtém dados diluídos e constrói uma solução genérica que não resolve a dor aguda de ninguém." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no preço." }
+        ],
+        "explanation": "A especificidade é a chave para o sucesso.",
+        "hint": "Especificidade.",
+        "correctAnswer": "b",
+        "bookExample": "Se você tenta agradar a todos, você não agrada a ninguém."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Domínio do Nicho'?",
+        "options": [
+          { "value": "a", "label": "Ter muitos clientes." },
+          { "value": "b", "label": "Ter uma compreensão profunda da dor, do contexto e do comportamento do seu segmento ideal." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O domínio do nicho é a base para a expansão.",
+        "hint": "Base.",
+        "correctAnswer": "b",
+        "bookExample": "Domine um nicho antes de expandir."
+      },
+      {
+        "id": "3",
+        "question": "Qual é a melhor forma de 'Refinar o Nicho'?",
+        "options": [
+          { "value": "a", "label": "Falar com mais pessoas." },
+          { "value": "b", "label": "Usar os dados de contexto e comportamento coletados nas entrevistas para identificar padrões de dor aguda em um subsegmento." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O refinamento é baseado em dados concretos.",
+        "hint": "Dados concretos.",
+        "correctAnswer": "b",
+        "bookExample": "O nicho é refinado pela dor."
+      },
+      {
+        "id": "4",
+        "question": "O que você deve fazer se o cliente 'Não se Encaixar' no seu nicho ideal?",
+        "options": [
+          { "value": "a", "label": "Tentar convencê-lo de que ele se encaixa." },
+          { "value": "b", "label": "Agradecer e encerrar a conversa, focando nos clientes que se encaixam." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "Foque nos clientes que têm a dor aguda. Não perca tempo com quem não se encaixa.",
+        "hint": "Foco.",
+        "correctAnswer": "b",
+        "bookExample": "Não perca tempo com quem não é seu cliente ideal."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Ignorar a Autoridade e o Orçamento' no nicho?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você valida o problema, mas não o modelo de negócio (o cliente não pode pagar ou decidir)." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no problema." }
+        ],
+        "explanation": "O problema deve ser resolvível com dinheiro e autoridade.",
+        "hint": "Modelo de negócio.",
+        "correctAnswer": "b",
+        "bookExample": "Negocie com quem pode executar."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Focar na Linguagem do Nicho'?",
+        "options": [
+          { "value": "a", "label": "Falar como eles." },
+          { "value": "b", "label": "Usar as citações exatas e os termos específicos que o nicho usa para descrever a dor e a solução." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A linguagem do nicho é a chave para o marketing eficaz.",
+        "hint": "Marketing.",
+        "correctAnswer": "b",
+        "bookExample": "Use as palavras deles para vender para eles."
+      },
+      {
+        "id": "7",
+        "question": "Qual é a função da 'Especificidade' na validação?",
+        "options": [
+          { "value": "a", "label": "Fazer a conversa ser mais longa." },
+          { "value": "b", "label": "Garantir que você está resolvendo um problema real e agudo para um grupo definido, facilitando a construção e o marketing." },
+          { "value": "Fazer o cliente se sentir importante." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A especificidade é a chave para o sucesso.",
+        "hint": "Sucesso.",
+        "correctAnswer": "b",
+        "bookExample": "A especificidade é a chave para o sucesso."
+      },
+      {
+        "id": "8",
+        "question": "O que você deve fazer se o cliente 'Generalizar' sobre o nicho?",
+        "options": [
+          { "value": "a", "label": "Aceitar a generalização." },
+          { "value": "b", "label": "Pedir um exemplo específico e recente ('Conte-me sobre a última vez que você fez isso')." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "Generalizações são perigosas. Você precisa de detalhes concretos para validar a dor.",
+        "hint": "Detalhes.",
+        "correctAnswer": "b",
+        "bookExample": "Generalizações são a morte da validação."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Mudar de Nicho' muito cedo?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você dilui seus dados e perde o foco na dor aguda, voltando ao problema de generalização." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no preço." }
+        ],
+        "explanation": "Domine um nicho antes de expandir.",
+        "hint": "Domínio.",
+        "correctAnswer": "b",
+        "bookExample": "Domine um nicho antes de expandir."
+      },
+      {
+        "id": "10",
+        "question": "O que significa 'Focar na Dor Aguda' no nicho?",
+        "options": [
+          { "value": "a", "label": "Focar em problemas raros." },
+          { "value": "b", "label": "Focar em problemas que causam frustração, custo ou risco significativos e que o cliente está ativamente tentando resolver." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A dor aguda é o motor da compra.",
+        "hint": "Motor da compra.",
+        "correctAnswer": "b",
+        "bookExample": "A dor aguda é a chave para a urgência."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Conclusão: Transformando Dados em Decisões",
+    "teaser": "🛑 Seguir, Pivotar ou Parar? Aprenda a tomar decisões racionais com base em fatos e descarte o apego à sua ideia.",
+    "level1": "O objetivo final da validação é tomar **decisões informadas**. Você deve usar os **dados concretos** (fatos, custo da dor, comprometimento) para decidir se deve **Seguir** no caminho atual, **Pivotar** (mudar a estratégia, o nicho ou o problema) ou **Parar** a ideia.",
+    "level2": "**Não se apegue à sua ideia. Apegue-se à verdade.** Se os dados (comportamento passado e comprometimento) não validam sua hipótese mais arriscada, você deve pivotar ou parar. O apego à ideia leva ao **Viés de Confirmação** e à construção de algo que ninguém quer.",
+    "level3": "**Pivotar** é um sinal de aprendizado, não de falha. É um ajuste de curso baseado em novos dados. O sucesso é o resultado de **aprender rápido** e tomar decisões racionais e difíceis. Comemore a **descoberta da verdade** (o 'Não' honesto e o comprometimento), não apenas os elogios."
+    ,
+    "recapitulation": [
+      "Decisões Racionais: **Seguir, Pivotar ou Parar**.",
+      "Critério de Decisão = **Fatos Concretos** e **Comprometimento**.",
+      "**Não se apegue à Ideia**; Apegue-se à **Verdade**.",
+      "**Pivotar** é um ajuste de curso baseado em aprendizado, não uma falha.",
+      "**Aprender Rápido** é a chave para o sucesso (teste a hipótese mais arriscada primeiro)."
+    ],
+    "practicalChecklist": [
+      "✅ **Filtro de Decisão:** Para cada entrevista, pergunte: 'O que aprendi que me faria Pivotar ou Parar?'.",
+      "✅ **Método de Parada:** Defina um critério de parada (ex: 'Se 10 Early Adopters com dor aguda se recusarem a dar um Comprometimento de Tempo, eu paro').",
+      "✅ **Compartilhe os Dados Brutos:** Apresente os dados (citações, fatos) para a equipe e deixe-os tirar suas próprias conclusões (evite viés).",
+      "✅ **Foco em Métricas de Ação:** Ignore métricas de vaidade (número de elogios) e foque em métricas de ação (número de comprometimentos).",
+      "✅ **Level 3 Action:** No final do seu ciclo de validação, faça uma decisão **'Seguir, Pivotar ou Parar'** e comunique a mudança de estratégia com base nos fatos (citações e comprometimentos)."
+    ],
+    "conclusionMessage": "A validação é um processo contínuo. Use os dados concretos (fatos e comprometimento) para tomar decisões de 'Seguir', 'Pivotar' ou 'Parar'.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal critério para tomar decisões após a validação?",
+        "options": [
+          { "value": "a", "label": "O número de elogios recebidos." },
+          { "value": "b", "label": "Fatos concretos sobre o comportamento passado e o nível de comprometimento (dinheiro, tempo, reputação)." },
+          { "value": "O número de sugestões de recursos." },
+          { "value": "A opinião dos amigos." }
+        ],
+        "explanation": "Fatos e comprometimento são os únicos dados que importam.",
+        "hint": "Fatos e comprometimento.",
+        "correctAnswer": "b",
+        "bookExample": "Fatos e comprometimento são a única coisa que importa."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Pivotar' (Pivot)?",
+        "options": [
+          { "value": "a", "label": "Desistir da ideia." },
+          { "value": "b", "label": "Mudar a estratégia, o nicho ou o problema a ser resolvido com base nos dados coletados." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O pivot é um ajuste de curso baseado em aprendizado.",
+        "hint": "Ajuste de curso.",
+        "correctAnswer": "b",
+        "bookExample": "O pivot é um ajuste de curso baseado em aprendizado."
+      },
+      {
+        "id": "3",
+        "question": "Quando você deve considerar 'Parar' a ideia?",
+        "options": [
+          { "value": "a", "label": "Após o primeiro 'Não'." },
+          { "value": "b", "label": "Quando os dados concretos (comportamento passado e comprometimento) indicam consistentemente que o problema não é real ou que o cliente não pagará." },
+          { "value": "Quando o cliente dá muitos elogios." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "Parar é uma decisão racional baseada em dados, não em emoção.",
+        "hint": "Decisão racional.",
+        "correctAnswer": "b",
+        "bookExample": "Parar é uma decisão racional baseada em dados."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de 'Apegar-se à Ideia'?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você ignora os dados e continua construindo algo que ninguém quer (viés de confirmação)." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no preço." }
+        ],
+        "explanation": "O apego é o inimigo da validação.",
+        "hint": "Inimigo.",
+        "correctAnswer": "b",
+        "bookExample": "Não se apegue à sua ideia. Apegue-se à verdade."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Aprender Rápido'?",
+        "options": [
+          { "value": "a", "label": "Fazer muitas entrevistas em um dia." },
+          { "value": "b", "label": "Testar a hipótese mais arriscada o mais rápido possível para tomar decisões de 'Seguir', 'Pivotar' ou 'Parar'." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A velocidade de aprendizado é a chave para o sucesso.",
+        "hint": "Velocidade.",
+        "correctAnswer": "b",
+        "bookExample": "A velocidade de aprendizado é a chave para o sucesso."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a função da 'Transparência' na análise de dados?",
+        "options": [
+          { "value": "a", "label": "Fazer o cliente se sentir importante." },
+          { "value": "b", "label": "Compartilhar os dados brutos (citações, fatos) com a equipe para garantir que todos estejam alinhados com a verdade." },
+          { "value": "Fazer uma concessão." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A transparência evita o viés de confirmação na equipe.",
+        "hint": "Alinhamento.",
+        "correctAnswer": "b",
+        "bookExample": "Compartilhe os dados brutos, não suas conclusões."
+      },
+      {
+        "id": "7",
+        "question": "O que você deve fazer se os dados 'Contradizerem' sua hipótese inicial?",
+        "options": [
+          { "value": "a", "label": "Ignorar os dados." },
+          { "value": "b", "label": "Aceitar a contradição, ajustar a hipótese e pivotar ou parar a ideia." },
+          { "value": "Falar sobre sua ideia." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "A verdade é mais importante que a hipótese.",
+        "hint": "Verdade.",
+        "correctAnswer": "b",
+        "bookExample": "A verdade é mais importante que a hipótese."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Focar em Métricas de Vaidade' (Vanity Metrics)?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você se sente bem com números que não se traduzem em receita ou crescimento real (ex: número de downloads sem uso)." },
+          { "value": "A conversa fica muito longa." },
+          { "value": "Você perde o foco no preço." }
+        ],
+        "explanation": "Métricas de vaidade são perigosas. Foque em métricas de ação e receita.",
+        "hint": "Ação e receita.",
+        "correctAnswer": "b",
+        "bookExample": "Métricas de vaidade são a morte do negócio."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'O Problema é o Rei'?",
+        "options": [
+          { "value": "a", "label": "A solução é mais importante." },
+          { "value": "b", "label": "O foco deve ser sempre na dor aguda do cliente, pois é o que impulsiona a compra." },
+          { "value": "Mudar de assunto." },
+          { "value": "Falar sobre sua ideia." }
+        ],
+        "explanation": "O problema é o motor da compra.",
+        "hint": "Motor da compra.",
+        "correctAnswer": "b",
+        "bookExample": "O problema é o rei."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de 'Celebrar o Sucesso' na validação?",
+        "options": [
+          { "value": "a", "label": "Comemorar o número de elogios." },
+          { "value": "b", "label": "Comemorar a descoberta de um problema real e a obtenção de um comprometimento concreto." },
+          { "value": "Comemorar o número de sugestões de recursos." },
+          { "value": "Mudar de assunto." }
+        ],
+        "explanation": "O sucesso é medido pelo aprendizado e pela ação.",
+        "hint": "Aprendizado e ação.",
+        "correctAnswer": "b",
+        "bookExample": "Celebre o aprendizado, não o elogio."
+      }
+    ]
+  }
+]

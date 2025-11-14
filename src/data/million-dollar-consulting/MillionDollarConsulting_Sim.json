@@ -1,0 +1,1897 @@
+[
+{
+  "simulationId": 1,
+  "title": "💸 Simulação: Fechando o Contrato de $1 Milhão (12 Passos)",
+  "introduction": "Você conseguiu uma reunião com o *Economic Buyer*, o CEO de uma empresa de médio porte, que está perdendo **R$ 800.000 anuais** devido à alta rotatividade de funcionários (dor já quantificada). Ele ligou para você após ler um dos seus artigos. A boa notícia é que ele está pronto para conversar. A má notícia é que ele começa a reunião perguntando: 'Quanto custa a sua hora?' Sua missão é reverter essa mentalidade de 'custo' para 'investimento' e fechar o projeto com a mentalidade de milhões em 12 passos críticos.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "A Mentalidade do Consultor de Milhões",
+      "narrative": "Você senta-se na mesa de reunião. O CEO, Sr. Silva, vai direto ao ponto: 'Obrigado por vir. Ouvi dizer que você é bom. Estou perdendo R$ 800.000 com o problema de rotatividade. **Quanto custa sua hora?**' 😩 Você sente a armadilha de ser reduzido a um 'prestador de serviços' que vende tempo. **Qual é sua melhor resposta para reverter o foco para ROI?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Começo com uma longa explicação: 'Minha hora é R$ 1.500, mas meu valor é baseado em minha metodologia exclusiva que economizou $X para outros clientes...'",
+          "feedback": "⚠️ Você caiu na armadilha! Ao citar sua taxa por hora, você se posicionou como um *custo* (Mentalidade de Generalista), mesmo tentando falar sobre valor. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Respondo: 'Meu foco não é a hora, Sr. Silva. É o ROI. Quanto desses R$ 800.000 você gostaria de salvar, e qual seria o impacto desse lucro na sua próxima meta?'",
+          "feedback": "✅ Perfeito! Você 'vende o destino, não a viagem'. Seu foco está 100% no Retorno sobre o Investimento (ROI), posicionando-o como um *investimento*. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Minha hora é R$ 2.000. Podemos fechar um pacote de 100 horas por R$ 200.000, com 10% de desconto à vista.'",
+          "feedback": "❌ Resposta de 'faz-tudo'. Você vendeu tempo, não valor. O CEO agora o vê como uma commodity cara. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Ignoro a pergunta e pergunto: 'Qual é o histórico de rotatividade nos últimos 5 anos?'.",
+          "feedback": "❓ Você evitou a armadilha do preço por hora, mas perdeu a oportunidade de redefinir o diálogo para 'Valor'. Aceitável, mas não incisivo. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "A Arte da Prospecção de Alto Valor",
+      "narrative": "O Sr. Silva aceita o foco no ROI (Step 1). Ele menciona ter lido seu artigo: 'Gostei do seu artigo, mas o problema é complexo demais para 1 pessoa. Preciso de uma equipe. E já recebi outras propostas mais robustas.' Ele está em um 'Silêncio' (dúvida) e você precisa reengajar. **Como você usa táticas de prospecção para qualificar a conversa e avançar, focando na 'próxima etapa'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pergunto: 'Sr. Silva, dado que a rotatividade de R$ 800.000 é um problema crítico, você está apto a aprovar um investimento de pelo menos R$ 150.000 para resolver isso?'",
+          "feedback": "✅ Perfeito! Você qualifica o cliente *rapidamente* em termos de orçamento e autoridade. Isso evita desperdiçar tempo e eleva seu status. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'Posso trazer mais pessoas da minha equipe para impressioná-lo. Vamos fazer outra reunião na semana que vem com a minha equipe.'",
+          "feedback": "⚠️ Você está tentando impressionar, em vez de qualificar. O objetivo da primeira interação é obter permissão para a próxima etapa, não inflar sua equipe. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Os outros consultores focam em currículo. Eu foco em resultados. Qual é o problema real que eles não conseguiram resolver?'",
+          "feedback": "❓ Você está focado em si mesmo e nos concorrentes, em vez de nos problemas e resultados do cliente. Focar na dor dele é melhor do que focar neles. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Reduzo o preço: 'Podemos começar com R$ 50.000. Apenas para provar meu valor. Se você gostar, continuamos.'",
+          "feedback": "❌ Você optou por 'trabalho gratuito' ou subvalorizado. Isso desvaloriza sua expertise e atrai clientes que só buscam barganha, não valor. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Fase de Diagnóstico: Quantificando o Problema",
+      "narrative": "O Sr. Silva concorda com o potencial investimento de R$ 150.000 (Step 2). Ele te diz: 'Nossa gerente de RH acha que o problema é o salário baixo, e me pediu para aumentar o orçamento de folha. Minha equipe já diagnosticou que o problema é de Custo.' 🧐 Ele está sendo um 'Tirador de Pedidos', propondo a solução errada. **O que você faz para voltar ao diagnóstico da CAUSA RAIZ?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Concordo: 'Entendo. Então farei um estudo sobre o aumento ideal de salários para a sua empresa.'",
+          "feedback": "❌ Você aceitou ser um 'Order Taker' (Tirador de Pedidos). Seu valor é desafiar a solução proposta e focar no problema real. Ele pode estar diagnosticando mal. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunto: 'Sr. Silva, qual é o custo real se o aumento de salário de R$ 150.000 não resolver o problema de rotatividade de R$ 800.000?'",
+          "feedback": "✅ Excelente! Você desafia a solução dele (Não é um Order Taker) e retorna imediatamente à 'Quantificação da Dor' e ao 'custo da inação'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Isso é interessante. Eu tenho um modelo de diagnóstico de 5 passos. Vou lhe dar os 3 primeiros passos para você testar internamente.'",
+          "feedback": "⚠️ Você está dando 'mini-consultoria' gratuita (dando a cura), perdendo a oportunidade de ser pago para fazer o diagnóstico. Foco na dor, não na cura. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pergunto: 'Poderia me detalhar a 'Gap Analysis'? Qual é a situação atual, e a situação desejada, se o salário não for o problema?'",
+          "feedback": "❓ Você está voltando à raiz do problema, focando na 'Análise de Lacuna'. Uma excelente pergunta de diagnóstico. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Princípio da Visibilidade e Credibilidade",
+      "narrative": "O Sr. Silva está impressionado com sua abordagem (Step 3). Ele sorri e diz: 'Gosto do seu foco no risco. Você é muito mais incisivo do que os outros. Quero mais de você.' Ele te pede para enviar imediatamente mais exemplos de clientes no setor dele. **Como você usa sua credibilidade e IP de forma eficaz neste momento de alta confiança?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Envio um e-mail com 15 estudos de caso e um currículo de 5 páginas para mostrar toda a sua experiência. Abundância de informação.",
+          "feedback": "❌ Você gerou 'ruído'. Credibilidade é sobre foco e Escassez. O CEO não vai ler 15 estudos de caso. Você deve enviar seu melhor IP focado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'Não envio currículo, mas meu livro 'O Preço da Rotatividade' detalha o modelo que usarei. Vou enviar a você uma cópia com uma dedicatória.'",
+          "feedback": "✅ Perfeito! Você usa sua Propriedade Intelectual (IP) como seu bilhete de entrada. O livro é o que o posiciona como um 'líder de pensamento' e não como um executor. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunto: 'Qual é o seu canal de comunicação favorito? Vou me manter ativo nele. Me siga no LinkedIn para acompanhar meus artigos semanais.'",
+          "feedback": "❓ Você está focando em 'Frequência' e 'Plataforma Forte', o que é excelente para Visibilidade. Mas, neste momento, o CEO precisa de prova de Credibilidade (IP). (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Vou pedir para um ex-cliente nosso do seu setor te ligar para dar uma 'Introdução Quente' sobre o nosso trabalho.'",
+          "feedback": "⚠️ Boa tática (Introdução Quente), mas não é o ativo mais eficaz neste momento. Usar o seu próprio IP é mais rápido e garante que a narrativa seja sua. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "A Mentalidade do Consultor de Milhões",
+      "narrative": "O Sr. Silva recebeu o seu livro (Step 4) e gostou da sua tática, mas está muito preocupado com a implementação. Ele diz: 'Se eu contratar você, você garante 100% que essa rotatividade de R$ 800.000 vai cair em 50%? Eu preciso dessa garantia.' **Como você lida com a expectativa de risco, mantendo sua mentalidade de valor?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Digo: 'Absolutamente! Eu garanto 100%. Se não cair, eu devolvo o seu dinheiro.'",
+          "feedback": "❌ Você assumiu todo o risco. O consultor de milhões assume riscos calculados, mas não garante o resultado final, pois a execução depende do cliente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'Eu garanto que trarei minha expertise e o modelo do livro. O resultado, contudo, é uma parceria. Se você não está disposto a assumir o risco, você não está pronto para o alto valor.'",
+          "feedback": "✅ Perfeito! Você assume riscos calculados, mas não o resultado final. Você vende expertise e esforço, não garantia. Você usa a mentalidade de 'parceiro estratégico'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Posso dar 80% de garantia de redução de rotatividade. Isso é um bom meio termo. Mas o preço vai subir.'",
+          "feedback": "⚠️ Você ainda está tentando vender uma 'garantia'. Isso enfraquece a Mentalidade. Você deve focar no valor, não na promessa. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pergunto: 'Se o resultado final fosse a redução de R$ 800.000, você pagaria R$ 500.000? O que é um ROI aceitável para você?'",
+          "feedback": "❓ Você está retornando à mentalidade de ROI, que é excelente. Mas não aborda diretamente a preocupação dele sobre a garantia e o risco. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "A Arte da Prospecção de Alto Valor",
+      "narrative": "A conversa avança e você envia sua proposta. A Secretária do CEO, Maria, liga para dizer que ele está muito ocupado e não pode responder sua ligação ou e-mail. Ela diz que ele 'dará um retorno em breve'. 🤫 O cliente entrou em 'Silêncio' de Prospecção. **O que você faz para 'fechar o loop' de forma profissional e reativar o lead?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Envio um e-mail a cada 2 dias para o Sr. Silva perguntando se ele recebeu a proposta. 'Follow up' constante.",
+          "feedback": "❌ Você está sendo 'caçador'. Isso é Prospecção tradicional, não de alto valor. Você não está adicionando valor, apenas sendo chato. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Envio um e-mail para o Sr. Silva: 'Sr. Silva, dado que não tivemos um retorno, assumo que este projeto não é mais uma prioridade. Se isso mudar, me avise. Vou fechar o loop.'",
+          "feedback": "✅ Perfeito! O e-mail de 'fechamento' (closing the loop) é uma tática de escassez que muitas vezes reativa o cliente, pois ele não quer perder a oportunidade (medo da perda). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ligo para a Secretária Maria e peço para ela dizer ao Sr. Silva que você tem uma 'oferta por tempo limitado'.",
+          "feedback": "⚠️ Você está adicionando urgência, mas sem valor. É uma tática de venda de baixo valor. O CEO de milhões não reage a isso. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Ligo para um contato mútuo e peço para ele enviar uma 'Introdução Quente' de acompanhamento. Isso faz o trabalho sujo por você.",
+          "feedback": "❓ Esta é uma ótima tática para 'escalar' o seu networking. É a segunda melhor opção, mas o 'e-mail de fechamento' é mais direto e poderoso para quebrar o silêncio. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "A Fase de Diagnóstico: Quantificando o Problema",
+      "narrative": "O e-mail de fechamento funcionou (Step 6)! O Sr. Silva liga, dizendo: 'Desculpe, a semana foi louca. Sua proposta de R$ 180.000 é alta. Não estou vendo o ROI claro o suficiente.' Ele não está convencido de que o custo da dor é maior que o custo da cura. **Como você usa o diagnóstico para reafirmar a 'dor' e o 'ganho'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu me defendo: 'Mas a minha metodologia X é a mais completa do mercado. Os concorrentes não oferecem isso!'",
+          "feedback": "❌ Você se defendeu e focou na 'viagem' (metodologia), não no 'destino' (ganho). O cliente só se importa com o que isso faz por ele. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunto: 'Sr. Silva, se o seu time perder mais um ano, os R$ 800.000 em rotatividade viram R$ 1.6 Milhão em 2 anos. Minha proposta de R$ 180.000 é 11% desse custo. Você consegue se dar ao luxo de ignorar 89% desse ganho?'",
+          "feedback": "✅ Perfeito! Você retorna à Quantificação da Dor, usando a 'Escuta Ativa' dele e multiplicando o custo da inação para justificar seu preço como um investimento. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ofereço um projeto menor: 'Podemos fechar o primeiro mês por R$ 30.000 e focar apenas na área de Vendas, que é a mais crítica.'",
+          "feedback": "⚠️ Você está aceitando reduzir o preço e o escopo sem reafirmar o valor. Isso pode ser visto como fraqueza e leva a um 'escopo fixo' mal definido. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pergunto: 'Qual é o seu orçamento real? Se você me disser o número, eu ajusto minha proposta.'",
+          "feedback": "❓ Você está delegando a decisão de preço para o cliente. Embora direto, o consultor de milhões define o valor primeiro e o preço depois. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Princípio da Visibilidade e Credibilidade",
+      "narrative": "O CEO fica em silêncio por um momento (Step 7), considerando o custo da inação. Ele então diz: 'Você tem um ponto. Mas você está no mercado há apenas 5 anos. O que faz sua expertise ser mais valiosa do que a de alguém com 20 anos?' Ele está questionando sua Credibilidade em relação à Longevidade. **Como você se posiciona para vencer a experiência com sua 'Marca Pessoal' e seu IP?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Digo: 'Experiência não é tudo. Eu trouxe o modelo de 'retenção X' do Vale do Silício, que é novo. Os outros são obsoletos. Minha Marca Pessoal foca em inovação.'",
+          "feedback": "✅ Perfeito! Você usa sua 'Marca Pessoal' para criar uma diferenciação clara: Inovação e IP Único versus Obsoleto. Sua expertise é escassa. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Mudo de assunto: 'Podemos falar sobre isso depois. Qual a sua opinião sobre o meu preço de R$ 180.000?'",
+          "feedback": "❌ Você evitou o desafio de credibilidade. Sem credibilidade, ele não pagará o preço. O diálogo precisa de segurança. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Minha experiência é mais focada. Eu sou o único que publica 1 artigo por semana sobre este nicho. Minha frequência me mantém afiado.'",
+          "feedback": "❓ Você está usando 'Frequência' para reforçar a Visibilidade. É bom, mas não é tão forte quanto a comparação Inovação vs. Obsoleto. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Pergunto: 'Quais são os resultados dos consultores de 20 anos que você conhece? Eles resolveram o problema de rotatividade?'",
+          "feedback": "⚠️ Você está tentando desvalorizar o concorrente em vez de valorizar a si mesmo. Isso é uma tática de venda fraca. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "A Mentalidade do Consultor de Milhões",
+      "narrative": "O Sr. Silva está no limite da decisão (Step 8). Ele diz: 'Eu entendo a inovação. Mas R$ 180.000 é muito dinheiro. Eu tenho a 'Escolha do Tolo': pago isso ou meu time faz de graça. Por que eu devo pagar você, e não apenas tentar nós mesmos?' **Como você quebra essa 'Escolha do Tolo' dele, voltando à Mentalidade de Investimento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Digo: 'Você está enfrentando a 'Escolha do Tolo' – pensar que precisa escolher entre tempo (seu time 'de graça') e resultado (meu investimento). Você não precisa escolher. Minha expertise lhe dará ambos: resultado e o tempo do seu time.'",
+          "feedback": "✅ Perfeito! Você identifica a falsa dicotomia ('Escolha do Tolo') e a quebra, mostrando que seu serviço combina o melhor dos mundos (resultado + tempo economizado). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'Você não pode ter sucesso se seu time tentar fazer isso. Eles não têm o conhecimento.'",
+          "feedback": "❌ Você atacou a capacidade do time dele. Isso gera defensividade e mata a Mentalidade de 'Parceiro Estratégico'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Você tem razão. Vamos tentar algo diferente. Eu cobro por hora, mas apenas R$ 500. Assim fica mais fácil.'",
+          "feedback": "❌ Você voltou a vender 'tempo'. O Consultor de Milhões não vende tempo, mas sim resultados. Você perdeu a Mentalidade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunto: 'Se seu time pudesse resolver, por que a rotatividade de R$ 800.000 ainda existe? Sua equipe é custo; eu sou investimento.'",
+          "feedback": "❓ Você está voltando à mentalidade de Investimento vs. Custo e desafiando o time dele, o que é arriscado, mas eficaz para a argumentação. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "A Arte da Prospecção de Alto Valor",
+      "narrative": "A conversa chegou ao final. O Sr. Silva diz: 'Você me deu muito o que pensar. Vou conversar com meu CFO. Te dou um retorno na próxima semana.' 🗓️ É hora de encerrar e definir a 'próxima etapa'. **Qual é a melhor forma de fechar a interação para garantir que o projeto avance, evitando o próximo 'silêncio'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aperto a mão dele e digo: 'Ótimo, aguardo seu retorno na próxima semana. Tenha um bom dia.'",
+          "feedback": "❌ Você deixou a 'próxima etapa' no controle dele. O objetivo de toda interação é obter a próxima interação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'Perfeito. Para garantir que economizamos tempo, vou colocar em sua agenda um follow-up de 15 minutos na próxima terça-feira às 10h. Se o CFO aprovar antes, cancelamos.'",
+          "feedback": "✅ Exatamente! Você usa a tática de Prospecção de 'avançar a agenda' e assumir o controle da 'próxima etapa', forçando a decisão. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Vou enviar para o CFO um novo e-mail com a proposta reduzida em 10%. Isso deve ajudar na decisão.'",
+          "feedback": "⚠️ Você está tentando evitar o silêncio oferecendo um desconto, o que desvaloriza o seu preço (Mentalidade do Consultor de Milhões). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pergunto: 'O que o CFO precisa ver de diferente para aprovar? Diga-me e eu o convenço.'",
+          "feedback": "❓ Você está tentando ser um 'faz-tudo' e tentando convencer outra pessoa. Seu foco deve ser no Sr. Silva (Economic Buyer). (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "A Fase de Diagnóstico: Quantificando o Problema",
+      "narrative": "Uma semana depois (Step 10), o CEO liga. Ele diz: 'Ótimas notícias! O CFO aprovou os R$ 180.000. Mas ele disse que só quer um projeto que abranja **apenas a área comercial**, que ele acha ser a mais crítica. Ele quer um 'Escopo Fixo' definido.' **Como você garante que o escopo seja definido por você, mantendo o foco no valor (e não apenas na área comercial)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Concordo imediatamente: 'Ótimo! Então vamos focar 100% na área comercial. O cliente sempre tem razão.'",
+          "feedback": "❌ Você se tornou um 'Order Taker' novamente. O consultor define o escopo do problema para o qual ele é a solução. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'Perfeito. O projeto de R$ 180.000 é um **Diagnóstico de Foco Fixo** de 6 semanas, que cobrirá *toda* a empresa. O resultado será um 'Roadmap' de 3 meses de impacto que foca 70% na área comercial (se for a maior dor), mas garante que não erramos o diagnóstico da causa raiz.'",
+          "feedback": "✅ Exatamente! Você define o 'Escopo Fixo' (Fixed Scope) para o diagnóstico, garantindo que o escopo seja claro, mas cobrindo o necessário para não 'curar' a solução errada. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'R$ 180.000 cobre apenas a área comercial. Para o resto, precisamos de mais R$ 100.000.'",
+          "feedback": "⚠️ Você está adicionando mais custo imediatamente. Melhor seria mostrar que a causa raiz pode estar fora do Comercial e que a Fase 1 (R$ 180.000) é para *confirmar* a causa raiz. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pergunto: 'Qual é o custo exato da rotatividade apenas na área comercial? Vamos quantificar essa dor primeiro.'",
+          "feedback": "❓ Você está voltando à Quantificação da Dor, o que é bom, mas você precisa primeiro firmar o escopo do projeto já aprovado. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Princípio da Visibilidade e Credibilidade",
+      "narrative": "Contrato assinado! 🎉 O Sr. Silva diz: 'Adorei a forma como você conduziu a venda. Você se posiciona de forma única.' Ele pergunta: 'Como você conseguiu essa visibilidade? Eu encontrei você lendo seu artigo na web.' **Qual é a conclusão da sua estratégia, resumindo o Princípio da Visibilidade?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Respondo: 'Eu faço muito networking. Conheço todo mundo no setor. É a chave.'",
+          "feedback": "❌ Resposta de Networking tradicional. O consultor de milhões é um ímã (Visibilidade), não um caçador (Networking). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'É a combinação de 'Marca Pessoal' forte com Propriedade Intelectual (IP) única. Eu não persigo clientes; eu os atraio. A Frequência do meu conteúdo garante que eu seja visto como o especialista.'",
+          "feedback": "✅ Perfeito! Você resume o Marketing de Atração: Marca, IP, Frequência e Posicionamento de Nicho. Você é um ímã que atrai clientes pré-qualificados. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Contratei uma agência de marketing para fazer anúncios pagos. É caro, mas funciona.'",
+          "feedback": "⚠️ O marketing de milhões foca na atração orgânica baseada em IP, não em anúncios pagos (o que é mais comum em baixo valor). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Tudo se resume a ser um especialista em um nicho muito pequeno. A visibilidade é uma consequência natural da escassez.'",
+          "feedback": "❓ Você acertou no 'Posicionamento de Nicho' e 'Escassez', que são cruciais, mas a 'Frequência' e a 'Marca' também são componentes essenciais. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 2,
+  "title": "💰 Simulação: Da Proposta ao Pagamento Antecipado (12 Passos)",
+  "introduction": "Você está na fase de fechamento de um projeto de alto valor. O cliente, que já teve seu problema (a dor) quantificado, recebeu sua proposta de VBF (Value-Based Fee) de R$ 150.000, com um pagamento antecipado (Up-Front) de 40%. Sua missão é dominar as objeções finais do VBF, formalizar a proposta em um contrato simples e, em seguida, iniciar a execução com foco em resultados de negócios e na venda contínua. Prepare-se para 12 decisões que definirão sua lucratividade e o futuro do relacionamento com o cliente.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Dominando o Value-Based Fee (VBF)",
+      "narrative": "O CEO, Sr. Almeida, olha para sua proposta de VBF de R$ 150.000. 🤨 Ele franze a testa: 'R$ 150.000 é muito dinheiro. Honestamente, sua taxa diária deve ser de uns R$ 5.000. Por que você não me cobra por 30 dias de trabalho?' Ele está tentando forçá-lo de volta à mentalidade de *tempo*. **Como você reafirma o VBF, mantendo o foco no impacto e não nas horas?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Digo: 'Minha taxa diária é R$ 7.500, então R$ 150.000 é apenas 20 dias. Você está fazendo um ótimo negócio!'",
+          "feedback": "❌ Você caiu na armadilha do tempo! Ao citar uma taxa diária, você perdeu o posicionamento de valor e deu ao cliente uma nova métrica para negociar. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Respondo: 'Nós não cobramos por tempo, cobramos por valor. Este VBF de R$ 150.000 é uma fração do R$ 750.000 que você ganhará, e garante que o seu foco e o meu estejam 100% no resultado, não no meu relógio.'",
+          "feedback": "✅ Perfeito! Você reafirma a disciplina do VBF, alinha os incentivos e ressalta que o cliente tem a ganhar com essa estrutura de preço. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Mudo de assunto: 'Entendo. Que tal falarmos sobre a minha metodologia que garante o resultado?'",
+          "feedback": "⚠️ Você evitou a objeção principal sem resolvê-la. O cliente continua inseguro sobre o VBF e pode voltar a questionar a taxa diária depois. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Este preço é baseado na minha Tabela de Taxas (Fee Schedule) para este tipo de resultado, que é fixo. Não podemos alterar, mas posso estender o prazo de pagamento.'",
+          "feedback": "❓ Você usou a tática do 'Fee Schedule' e manteve a linha, o que é bom, mas não foi tão didático e poderoso quanto explicar o alinhamento do VBF. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "A Proposta de Valor e o Contrato",
+      "narrative": "O Sr. Almeida aceita o VBF (Step 1), mas questiona o documento: 'Sua proposta tem 3 páginas. O do meu outro consultor tinha 40. Não está faltando detalhes sobre a metodologia e o cronograma? Preciso de um documento completo.' **Como você defende a Proposta Curta e Simples, mantendo o foco no acordo de valor?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Digo: 'Você tem razão. Vou pedir para minha equipe expandir para 50 páginas com todos os gráficos de metodologia e cronograma detalhado.'",
+          "feedback": "❌ A Proposta não é um livro. Se ela é longa, significa que o cliente ainda não está convencido do valor. Você gastou tempo precioso em algo que não deveria ser o foco. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Respondo: 'A proposta é o resumo do nosso acordo: o problema ($X), o resultado (50% de melhoria) e o VBF. Você já está convencido, este é apenas o formalismo. A metodologia será compartilhada na execução.'",
+          "feedback": "✅ Perfeito! A proposta é a formalização de um acordo, não um documento de vendas. Você a mantém focada no Problema, Resultado e VBF. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Podemos usar um contrato de 50 páginas do meu jurídico, se isso o fizer sentir mais seguro, mas ele é cheio de jargões que não interessam.'",
+          "feedback": "❓ Você está disposto a ceder, mas ressalta o ônus do excesso de complexidade legal. O Contrato Simples é preferível, mas você manteve a opção. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Pergunto: 'O que o meu concorrente colocou na proposta dele? Vou incluir o mesmo, mas com meus dados.'",
+          "feedback": "⚠️ Você está se comparando a concorrentes e perdendo a chance de se posicionar como único. Foco no seu IP, não no dele. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Execução e a Gestão do Cliente",
+      "narrative": "O contrato é assinado. O projeto de R$ 150.000 começa. Você precisa de uma 'Vitória Rápida' (Quick Win) no primeiro mês para manter o momentum e justificar o VBF. Sua equipe identifica uma melhoria na comunicação interna que pode gerar R$ 15.000 de economia mensal. **Como você comunica esse 'Quick Win' ao CEO, Sr. Almeida, para maximizar o impacto?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Envio um e-mail com 5 parágrafos descrevendo as atividades, reuniões e horas que sua equipe gastou para implementar a melhoria.",
+          "feedback": "❌ Você focou nas atividades e horas trabalhadas, em vez dos resultados de negócios. O cliente paga pelo cérebro, não pelo suor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Envio um e-mail de 2 linhas: 'Sr. Almeida, o primeiro Quick Win está no ar. A melhoria de comunicação já está nos economizando $15.000 por mês. Estamos no caminho do ROI. Próxima reunião em 2 semanas.'",
+          "feedback": "✅ Perfeito! Você comunica o 'Quick Win' de forma concisa e focada no ROI. Isso mantém o momentum e 'Gerencia o Economic Buyer'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Envio um relatório de progresso para o gerente de projeto, esperando que ele repasse a informação ao CEO.",
+          "feedback": "⚠️ Você não está 'Gerenciando o Economic Buyer' diretamente. O CEO é seu campeão e deve ser informado de forma clara e direta sobre o ROI. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Guardo a informação para a reunião trimestral, para ter mais coisas para falar.",
+          "feedback": "❓ Você perdeu a chance de um 'Quick Win'. O cliente precisa ver que o investimento está valendo a pena o mais rápido possível para construir confiança. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "A Venda Contínua e o Relacionamento",
+      "narrative": "O projeto está no meio, a execução vai bem (Step 3). O Sr. Almeida te liga para pedir um conselho sobre uma nova iniciativa de negócios, **completamente fora do escopo do projeto atual**. Ele está te vendo como um 'Trusted Advisor'. **Qual é o seu melhor movimento para nutrir a 'Venda Contínua' e a relação de Conselheiro de Confiança?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Digo: 'Isso está fora do escopo. Preciso criar um novo VBF de R$ 50.000 apenas para a reunião de aconselhamento.'",
+          "feedback": "❌ Você está sendo rígido e não-generoso, o que prejudica a relação de 'Trusted Advisor' e a 'Venda Contínua'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Ofereço 15 minutos de conselho gratuito sobre o tópico, e pergunto: 'Qual é a dor financeira desse novo problema?' (Quantificação da dor).",
+          "feedback": "✅ Perfeito! Você usa a 'Generosidade' (conselho breve) para nutrir o relacionamento e imediatamente tenta 'identificar a próxima oportunidade de venda' (Venda Contínua) ao quantificar a nova dor. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Mudo de assunto e pergunto: 'Como podemos garantir que o projeto atual termine mais rápido?'",
+          "feedback": "⚠️ Você evitou a oportunidade de ser um 'Trusted Advisor'. O cliente está te entregando um problema novo e você o ignora. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Vou reservar duas horas na próxima semana para discutir isso. Posso enviar um novo 'Contrato Simples' por e-mail, por um VBF de R$ 10.000?'",
+          "feedback": "❓ Você está sendo proativo, o que é bom, mas o pedido de R$ 10.000 imediatamente pode quebrar a percepção de 'Generosidade'. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Dominando o Value-Based Fee (VBF)",
+      "narrative": "Você enviou a proposta de VBF de R$ 150.000, mas o Sr. Almeida insiste no 'Pagamento Antecipado' (Up-front Payment) de 40%. Ele diz: 'Não costumo pagar 40% antes. Vamos dividir em 5 parcelas iguais após a entrega.' Ele está questionando sua confiança. **Como você defende o pagamento antecipado como um teste de compromisso?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Cedo: 'Tudo bem. Se você pagar 20% agora, eu aceito o resto em 5 parcelas.'",
+          "feedback": "❌ Você cedeu no 'teste de compromisso'. O pagamento antecipado garante o seu fluxo de caixa e o compromisso do cliente com o resultado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Respondo: 'O pagamento antecipado não é um teste de fluxo de caixa, é um teste de compromisso. Garante que seu time e você estejam 100% comprometidos em me ajudar a alcançar o resultado que justifica o VBF. Caso contrário, não podemos começar.'",
+          "feedback": "✅ Perfeito! Você defende o Up-front Payment como um teste de compromisso e uma aliança de resultados, o que é o cerne do VBF. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Posso dar 10% de desconto no VBF se você pagar os 40% antecipadamente.'",
+          "feedback": "⚠️ Você está desvalorizando seu preço (VBF) para obter o pagamento antecipado. Melhor manter o preço e focar no princípio do compromisso. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Entendo. O custo do projeto é R$ 150.000. Se pagarmos antecipadamente, reduzimos o VBF para R$ 140.000.'",
+          "feedback": "❓ Você está ligando o preço ao pagamento, o que é aceitável em finanças, mas enfraquece a disciplina do VBF. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "A Proposta de Valor e o Contrato",
+      "narrative": "Você está redigindo o contrato final. O Sr. Almeida pede para incluir uma cláusula: 'O contrato deve ter um detalhamento de todas as 100 horas que você estima gastar e uma penalidade se você exceder 100 horas.' 📝 Ele ainda está preso à mentalidade de *tempo*. **Como você defende o Contrato Simples (focado em VBF e Escopo Fixo), não em horas?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Removo a menção a 'horas' e substituo pela frase: 'O Consultor concorda em entregar o resultado dentro do Escopo Fixo por este VBF.'",
+          "feedback": "✅ Perfeito! Você defende o 'Contrato Simples' focado no Escopo Fixo e no VBF, mantendo o acordo de valor e protegendo-se contra o risco de tempo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Concordo com a cláusula. 'Tudo bem, incluirei um teto de 100 horas para o projeto de R$ 150.000. Se exceder, farei de graça.'",
+          "feedback": "❌ Você assumiu o risco de trabalhar de graça. O VBF é um 'contrato de resultados', não um contrato de tempo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Meu advogado não permite que eu use um Contrato Simples. Temos que usar o modelo legal de 50 páginas.'",
+          "feedback": "⚠️ Você está usando o advogado como escudo, mas o Contrato Simples é uma escolha sua para manter a confiança e a clareza. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Sugiro: 'Em vez de 100 horas, vamos colocar um limite de 120 horas no contrato. Um pouco de folga.'",
+          "feedback": "❓ Você está negociando horas, não valor. Isso é uma pequena concessão que pode enfraquecer o princípio do VBF. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "A Execução e a Gestão do Cliente",
+      "narrative": "Você está no meio do projeto. Um gerente de nível médio começa a pedir tarefas que são *ligeiramente* fora do 'Escopo Fixo', dizendo que 'fazem sentido'. Ele está tentando causar um 'Scope Creep'. **Como você lida com o 'Scope Creep', mantendo a disciplina do VBF e transformando-o em uma nova oportunidade?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Digo: 'Entendido. Faremos essas tarefas, mas preciso que o Sr. Almeida aprove uma extensão do VBF de R$ 20.000 para este novo trabalho.'",
+          "feedback": "✅ Perfeito! Você reconhece a nova necessidade, reafirma o Escopo Fixo e imediatamente apresenta um novo VBF. O 'Scope Creep' é uma nova venda. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Faço o trabalho extra de graça. Não quero incomodar o CEO por um 'pequeno' Scope Creep.",
+          "feedback": "❌ Você fez 'trabalho gratuito'. O Scope Creep é o inimigo da lucratividade. Você ensinou o cliente que pode pedir trabalho extra de graça. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Isso é crucial, mas está fora do escopo. Você precisa fazer essa tarefa internamente ou contratar outro consultor.'",
+          "feedback": "⚠️ Você manteve a linha, mas não ofereceu uma solução de valor (um novo VBF). Você foi rígido demais, o que pode prejudicar a 'Venda Contínua'. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Posso fazer, mas preciso que você me ajude a reduzir o escopo em outro lugar do projeto para compensar.'",
+          "feedback": "❓ Você está tentando trocar trabalho. É melhor apresentar um novo VBF, que é a disciplina do Consultor de Milhões. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "A Venda Contínua e o Relacionamento",
+      "narrative": "O projeto está finalizado e o ROI foi alcançado. Você está na 'Revisão Pós-Projeto' com o Sr. Almeida. Ele está muito feliz. **Qual é o seu foco principal nesta reunião para maximizar a 'Venda Contínua'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Focar em receber o pagamento final e pedir que ele preencha uma pesquisa de satisfação.",
+          "feedback": "❌ Você está focando em 'tarefas' e 'transação', não em 'relacionamento' e 'venda contínua'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'Agora que resolvemos o problema A (rotatividade) e quantificamos o ROI de R$ 400.000, qual é o próximo problema de R$ 500.000 que está tirando seu sono? (Identificação da próxima dor).' ",
+          "feedback": "✅ Perfeito! O objetivo da Revisão Pós-Projeto é quantificar o ROI final e identificar a próxima dor para iniciar a 'Venda Contínua'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunto: 'Você pode me dar 5 referências de CEOs amigos seus?'.",
+          "feedback": "⚠️ Pedir referências é bom, mas o cliente existente (Venda Contínua) é a fonte de receita mais lucrativa. Foque nele primeiro. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Entrego um relatório de 30 páginas sobre a metodologia que usamos, para documentação interna dele.",
+          "feedback": "❓ Você está focando em documentação (que é bom para Credibilidade futura), mas perde a chance de fechar o ciclo de vendas para o próximo projeto. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Dominando o Value-Based Fee (VBF)",
+      "narrative": "O Sr. Almeida gostou da Venda Contínua (Step 8), mas ele diz: 'Eu quero um contrato de Retenção de Longo Prazo. Eu pago R$ 5.000 mensais e você me dá 5 horas de consultoria por mês.' 🤯 Ele está tentando converter seu VBF em um contrato de *horas* a longo prazo. **Como você defende a Alavancagem e a Retenção de Cliente baseada em valor, não em tempo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Digo: 'Excelente! Fechamos R$ 5.000 por 5 horas. Mas se você usar mais que 5 horas, cobrarei extra.'",
+          "feedback": "❌ Você aceitou ser um 'empregado por hora' a longo prazo. Isso elimina a Alavancagem e o VBF. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'Prefiro um contrato de **Conselheiro de Confiança** de R$ 10.000 por mês, sem limite de horas, focado em **alcançar 3 metas estratégicas anuais**. Meu valor é a **influência estratégica**, não o tempo.'",
+          "feedback": "✅ Perfeito! Você defende a 'Alavancagem' (receita desvinculada do tempo) e a 'Retenção de Cliente' como um 'Trusted Advisor', vendendo o destino final. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'R$ 5.000 é muito pouco. Eu só aceito R$ 20.000 por 5 horas de consultoria mensal. Negócio ou nada.'",
+          "feedback": "⚠️ Você está defendendo um preço alto por hora, o que é um preço de 'tempo'. A mentalidade de milhões foca em valor. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Prefiro um VBF de R$ 80.000 a cada 6 meses, focado em 2 grandes projetos. Isso garante ROI e não tempo.'",
+          "feedback": "❓ Você defende o VBF, o que é muito bom. Mas a proposta de 'Trusted Advisor' é a melhor para a retenção contínua e a venda contínua. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "A Proposta de Valor e o Contrato",
+      "narrative": "O Sr. Almeida aceita o Contrato de Conselheiro de Confiança (Step 9). Ele diz: 'Ótimo. Mas inclua na Proposta de Valor que você me dará 5% de desconto em qualquer projeto futuro.' **Como você reage a esse pedido de desconto na Proposta de Valor, mantendo sua disciplina de preço?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Concordo, incluo a cláusula na Proposta de Valor e no contrato.",
+          "feedback": "❌ Você aceitou negociar o preço *após* o acordo de valor. Isso desvaloriza sua disciplina de preço. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'A Proposta de Valor é sobre o benefício e a diferenciação, não sobre o preço. O preço é fixo. Mas eu prometo focar no ROI, o que é melhor do que qualquer desconto.'",
+          "feedback": "✅ Perfeito! Você reafirma que a 'Proposta de Valor' é Benefício + Diferenciação (sem preço) e se recusa a negociar o VBF, o que mantém a disciplina. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Posso dar o desconto, mas apenas se a cláusula de Pagamento Antecipado for de 50%.'",
+          "feedback": "⚠️ Você está negociando preço por termos, o que é aceitável, mas enfraquece a disciplina de preço no longo prazo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Seu preço é o preço. Se você quer 5% de desconto, eu reduzo o Escopo Fixo do projeto em 5%.'",
+          "feedback": "❓ Você mantém a linha de que a redução de preço deve vir com redução de valor/escopo, o que é bom, mas o melhor é não negociar o preço. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "A Execução e a Gestão do Cliente",
+      "narrative": "Você está gerenciando o projeto e um membro da equipe do Sr. Almeida está resistindo ativamente às suas sugestões. O gerente-alvo está com 'medo da mudança'. 😡 **Como você usa a 'Gestão do Cliente' para lidar com a 'Resistência à Mudança' e reativar o engajamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Digo ao membro da equipe: 'Ou você coopera, ou eu o denuncio ao CEO.'",
+          "feedback": "❌ Você usou a 'autoridade' do CEO, o que pode resolver a curto prazo, mas mata a colaboração e a confiança. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Volto ao CEO: 'Sr. Almeida, o gerente X está resistindo. Vamos voltar ao diagnóstico: 'O custo da inação (R$ 800.000) é maior do que a dor de mudar?' Peça a ele para quantificar o risco.'",
+          "feedback": "✅ Perfeito! Você 'Gerencia o Economic Buyer', pedindo a ele para intervir com base no diagnóstico e no custo da inação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Decido fazer o trabalho dele por ele para evitar o confronto e garantir que o projeto avance.",
+          "feedback": "⚠️ Você se tornou um 'faz-tudo' e não um 'parceiro'. Você perdeu a independência (Ser um Parceiro, Não um Empregado). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Ignoro o gerente-alvo e continuo a execução com o resto da equipe, esperando que ele se canse e coopere.",
+          "feedback": "❓ A 'Resistência à Mudança' não desaparece. Você precisa confrontá-la, usando o diagnóstico como arma. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "A Venda Contínua e o Relacionamento",
+      "narrative": "O projeto está totalmente concluído, a retenção de longo prazo (Conselheiro de Confiança) foi estabelecida e você está definindo o 'Acompanhamento' (Follow-up) para o próximo ano. **Qual é o seu plano mais eficaz para garantir que o relacionamento gere vendas contínuas?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Digo: 'Entro em contato no final do ano fiscal. Enquanto isso, mande um e-mail se precisar de algo.'",
+          "feedback": "❌ Você deixou o acompanhamento e a 'Venda Contínua' no controle do cliente. Isso é passividade, não proatividade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'Vou agendar um 'check-in' trimestral de 30 minutos com você, focado apenas no ROI e no que podemos fazer para ir além. Entre as reuniões, vou enviar um insight valioso por mês.'",
+          "feedback": "✅ Perfeito! Você usa o 'Acompanhamento Proativo' e a 'Generosidade' (insights) para monitorar o ROI e identificar novas dores, garantindo a Venda Contínua e a 'Retenção de Cliente'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Vou monitorar o ROI por 6 meses e te dar um relatório anual. Não vamos nos falar antes disso.'",
+          "feedback": "⚠️ O acompanhamento deve ser mais frequente e baseado em interações (check-ins), não apenas em relatórios. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Sugiro: 'Vamos nos encontrar para almoçar todos os meses. É uma forma de nos conhecermos melhor.'",
+          "feedback": "❓ Você está focando no relacionamento pessoal. É bom, mas o acompanhamento de milhões é focado no ROI e na estratégia. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 3,
+  "title": "💡 Simulação: Escalando com IP e Protegendo a Lucratividade (12 Passos)",
+  "introduction": "Você fechou um grande projeto (Simulação 2), o que provou o seu valor. Agora, você tem tempo e capital limitados. Sua meta é parar de vender tempo, alavancar seu conhecimento através de Propriedade Intelectual (IP) e proteger rigorosamente sua produtividade e lucratividade contra distrações e clientes 'difíceis'. Prepare-se para tomar 12 decisões críticas sobre onde focar seu tempo e como estruturar suas taxas para o próximo nível de escala.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "O Poder da Propriedade Intelectual (IP)",
+      "narrative": "Você acaba de perceber que passou 200 horas criando um 'Modelo de Otimização de Processos' para seu último cliente. 🧠 Você se sente exausto. Você está fazendo o mesmo trabalho repetidamente. **Qual é sua 'High-Leverage Activity' (HLA) para transformar esse trabalho em um ativo escalável?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Tiro uma semana de folga. Estou muito cansado para pensar em mais trabalho.",
+          "feedback": "❌ Você não está usando seu tempo para 'Alavancagem'. O descanso é importante, mas o primeiro passo é capturar o IP enquanto ele está fresco. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Formalizo o processo em um 'Modelo de Otimização Rápida de 5 Passos', nomeio e o registro como minha 'Metodologia Proprietária' (IP).",
+          "feedback": "✅ Perfeito! Você transforma um serviço de tempo em um 'Produto de Consultoria' (IP), que pode ser vendido repetidamente, alavancando seu tempo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Envio o modelo para o cliente e peço um depoimento. Isso já é o suficiente.",
+          "feedback": "⚠️ Você focou apenas no resultado do cliente, não na escalabilidade para você. Você perdeu a chance de gerar receita passiva. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu o vendo para um concorrente que não tem IP, por uma taxa única.",
+          "feedback": "❓ Você gerou receita, mas perdeu a 'Alavancagem'. O melhor é Licenciar o IP ou usá-lo para justificar taxas maiores. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "A Gestão do Tempo e a Produtividade",
+      "narrative": "Você senta-se para fazer a 'HLA' mais importante do dia: escrever o e-book sobre sua nova 'Metodologia Proprietária' (Criação de IP). 📞 O telefone toca, o e-mail pisca, e o WhatsApp insiste. Você tem apenas 2 horas de pico de energia. **Como você protege este tempo para maximizar a produtividade?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Respondo aos 5 e-mails 'urgentes' primeiro e depois começo a escrever. Não posso ser indelicado.",
+          "feedback": "❌ Você sucumbiu à 'Interrupção' e à 'Procrastinação de Baixo Valor'. Você gastou seu tempo de pico de energia em tarefas que não geram receita nem IP. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Uso o 'Time Blocking': desligo todos os dispositivos, coloco uma placa de 'Não Perturbe' e uso as 2 horas exclusivamente para o e-book (HLA).",
+          "feedback": "✅ Perfeito! Você protegeu seu 'Tempo de Foco' rigorosamente, alocando a tarefa mais crítica para o seu 'Pico de Energia' (Gestão da Energia). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Escrevo o e-book enquanto respondo a e-mails. Multi-tarefa é a chave da produtividade.",
+          "feedback": "⚠️ O multi-tarefa destrói a qualidade do seu trabalho de alto valor (IP). O consultor de milhões foca na qualidade, não na quantidade de tarefas. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Deleguo o e-book para um assistente. Minha hora é muito cara para escrever IP.",
+          "feedback": "❓ Você está delegando a 'Criação de IP', que é a sua HLA mais importante. Você só deve delegar tarefas de baixa alavancagem. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Estrutura de Taxas e o Posicionamento",
+      "narrative": "Você está prospecçãoando um novo cliente. O Economic Buyer adora o seu 'Modelo de Otimização Rápida de 5 Passos' (IP) e quer que você o implemente. Ele pede uma taxa por hora, alegando que o VBF parece 'injusto' se o projeto for rápido. **Como você usa sua estrutura de taxas para posicionar o VBF e ancorar o preço no custo do problema?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Digo: 'Entendo. Minha hora é R$ 2.500. Se o projeto levar 40 horas, o preço é R$ 100.000.'",
+          "feedback": "❌ Você caiu na armadilha da 'Taxa por Hora', limitando seu potencial de ganhos e se posicionando como um custo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Respondo: 'O custo do problema que o meu modelo resolve é de R$ 600.000 anuais (Ancoragem). Meu VBF de R$ 120.000 (20% do valor) garante que, se eu resolver em 10 horas ou 100, o foco é no R$ 600.000 que você ganhará.'",
+          "feedback": "✅ Perfeito! Você usa a 'Ancoragem de Preço' (custo da inação) antes de apresentar o VBF, e defende a disciplina do valor sobre o tempo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu me recuso: 'Eu só faço VBF. Não vou aceitar nada menos, mesmo que perca o cliente.'",
+          "feedback": "⚠️ Você manteve a disciplina, mas o Consultor de Milhões busca o 'Diálogo'. Você poderia ter educado o cliente sobre o ROI. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Vou dar 10% de desconto no VBF para que pareça mais justo.'",
+          "feedback": "❓ Você está recorrendo a 'Descontos'. Melhor seria reduzir o escopo se o cliente quisesse um preço menor. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "A Gestão de Clientes Difíceis",
+      "narrative": "Você está no meio de um projeto (já fechado, VBF R$ 80.000) e o Economic Buyer liga. 😡 Ele está furioso porque a equipe dele está 'fazendo hora' e ele exige um relatório semanal de todas as horas que você e sua equipe trabalharam (Microgerenciamento). **Como você resolve este 'Microgerenciamento' e 'dificuldade', voltando à causa raiz (confiança e VBF)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Digo: 'Sinto muito, mas isso é um sinal de que você não confia no VBF. Vou suspender o projeto até voltarmos à clareza do escopo e da confiança.'",
+          "feedback": "✅ Perfeito! Você 'Para o Trabalho' e volta à causa raiz (confiança e VBF). Isso é uma 'Demissão de Cliente' temporária que protege sua lucratividade e ensina o cliente. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Concordo: 'Tudo bem, vou fazer o relatório de horas, mas precisarei de 5 horas a mais por semana, o que vou incluir no seu VBF.'",
+          "feedback": "❌ Você sucumbiu ao 'Microgerenciamento', mas tentou compensar. O relatório de horas mata o princípio do VBF. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Envio um e-mail com 50 páginas de documentação de progresso, mas sem horas, para sobrecarregá-lo com informação.",
+          "feedback": "⚠️ Você está tentando punir o cliente, em vez de educá-lo sobre o valor. O problema é a confiança, não a informação. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Vamos marcar uma reunião para reconfirmar a 'Gestão de Expectativas' e o escopo. O foco é no resultado final.'",
+          "feedback": "❓ Você está voltando à 'Gestão de Expectativas' e ao 'Escopo', o que é bom, mas o melhor é confrontar a falta de confiança e a interrupção. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "O Poder da Propriedade Intelectual (IP)",
+      "narrative": "Você decide transformar o e-book (IP) em um workshop online para alavancar seu tempo. 🚀 Seu assistente sugere que você crie o conteúdo 'personalizado' para cada comprador, para garantir mais vendas. **Como você usa o IP para maximizar a 'Alavancagem' e a 'Escalabilidade' em vez de tempo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Crio um 'Produto de Consultoria' padronizado e empacotado, baseado no IP, que pode ser vendido 100 vezes com pouca ou nenhuma variação (Escalabilidade)." ,
+          "feedback": "✅ Perfeito! O 'Produto de Consultoria' (IP) é a forma mais eficaz de 'Alavancar' seu conhecimento e gerar receita que não depende do seu tempo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Mantenho-o em segredo, vendendo-o apenas para 5 clientes por ano. A escassez é a chave.",
+          "feedback": "⚠️ Você está usando a 'Escassez', que é boa, mas perdeu a 'Escalabilidade' e a 'Alavancagem' do IP digital. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Crio uma versão personalizada para cada cliente. O cliente precisa sentir que é único.",
+          "feedback": "❌ Você está vendendo tempo, não IP. A personalização de IP mata a 'Alavancagem'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Vendo a ideia do workshop para outra empresa e recebo uma taxa de Licenciamento de IP (Royalties).",
+          "feedback": "❓ O 'Licenciamento de IP' é excelente para receita passiva. Mas vender o seu próprio 'Produto de Consultoria' é a melhor forma de escalar. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "A Gestão do Tempo e a Produtividade",
+      "narrative": "Você revisa sua agenda (Step 2) e percebe que 80% do seu tempo está sendo gasto respondendo a e-mails e fazendo tarefas administrativas. 🤯 Sua receita está estagnada. **Como você aplica o Princípio de Pareto (Regra 80/20) para otimizar sua produtividade?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Delegar ou automatizar 80% das tarefas administrativas para liberar tempo para as 'High-Leverage Activities' (HLAs) de criação de IP e prospecção.",
+          "feedback": "✅ Perfeito! Você aplica o '80/20' e a 'Delegação' para focar nas atividades que geram 80% da sua receita e IP (HLAs). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Contratar 3 novos consultores para assumir parte das tarefas administrativas.",
+          "feedback": "⚠️ Você está resolvendo um problema de 'Delegação' com uma solução de 'expansão de equipe' cara. Isso não é eficiente para uma prática enxuta. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Trabalhar 14 horas por dia para conseguir fazer tudo.",
+          "feedback": "❌ Você está ignorando a 'Gestão da Energia'. Trabalhar mais horas não aumenta a qualidade do seu trabalho de alto valor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Reduzir o tempo de resposta a e-mails para 5 minutos por e-mail, mas ainda respondê-los todos.",
+          "feedback": "❓ Você está otimizando a tarefa errada (e-mail é de baixa alavancagem). Melhor seria delegá-lo ou bloqueá-lo. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "A Estrutura de Taxas e o Posicionamento",
+      "narrative": "Você está desenvolvendo uma nova 'Taxa de Retenção Mínima' para seus clientes de Conselheiro de Confiança. Seu parceiro diz que o preço deve ser baixo para atrair mais clientes. **Qual é o seu melhor argumento para manter uma Taxa de Retenção Mínima ALTA, como um filtro de valor?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O preço deve ser baixo para ser competitivo no mercado. Negociamos o mínimo em R$ 3.000.",
+          "feedback": "❌ Você se posicionou como um commodity. O 'Mínimo' deve ser alto para que o cliente sinta que está fazendo um investimento sério. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'Nossa Taxa de Retenção Mínima é R$ 10.000, e não é negociável. É um filtro de valor que garante que só trabalharemos com clientes que confiam em nosso valor estratégico.'",
+          "feedback": "✅ Perfeito! A 'Taxa de Retenção Mínima' é uma declaração de posicionamento. Ela garante receita previsível e posiciona você como um 'Trusted Advisor' de alto valor. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Propongo uma 'Taxa de Desempenho' de 10% de todos os resultados futuros, em vez da Taxa de Retenção Mínima.",
+          "feedback": "⚠️ A 'Taxa de Desempenho' é arriscada e cria conflitos. A 'Taxa de Retenção' é melhor para receita previsível (Alavancagem). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'A Taxa de Retenção é R$ 8.000, mas podemos negociar para R$ 6.000 se ele pagar 12 meses antecipadamente.'",
+          "feedback": "❓ Você está negociando a taxa em troca de pagamento antecipado, o que é bom para fluxo de caixa, mas enfraquece a disciplina do preço mínimo. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "A Gestão de Clientes Difíceis",
+      "narrative": "Um cliente antigo, que você sabe ser problemático (sempre atrasa o pagamento, muda o escopo), pede um projeto. Você está lotado, mas sente a pressão. 😬 **Como você usa a 'Coragem' e a Gestão de Clientes Difíceis para proteger sua lucratividade?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aceito o projeto. O dinheiro é bom e 'Demissão de Cliente' não é profissional.",
+          "feedback": "❌ Você aceitou um cliente que destrói sua lucratividade e paz de espírito. Você está trabalhando para o seu negócio, não no seu negócio. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'Agradeço, mas nosso 'Escopo Fixo' e 'Taxa Mínima' atual não se alinham com este projeto. Recomendo o consultor X.' (Demissão de Cliente elegante).",
+          "feedback": "✅ Perfeito! Você usa a 'Coragem' e a 'Disciplina de Preço' para 'Demissão de Cliente', protegendo seu tempo para clientes de alto valor. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Eu aceito, mas preciso do pagamento de 100% antecipado e vou cobrar 50% a mais pelo risco de atraso.'",
+          "feedback": "❓ Você está se protegendo financeiramente, o que é bom, mas o melhor é não aceitar clientes que consomem sua energia. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Só aceito se você se comprometer por escrito a não atrasar o pagamento e não mudar o escopo.'",
+          "feedback": "⚠️ O contrato por escrito é bom, mas 'Clientes Difíceis' não mudam de comportamento facilmente. O risco continua alto. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "O Poder da Propriedade Intelectual (IP)",
+      "narrative": "Você publicou um artigo sobre sua 'Metodologia Proprietária' (IP) e um concorrente menor começou a usá-la em suas propostas. 😡 **Como você 'Protege' seu IP, mantendo o foco em 'Inovação Contínua'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Envio uma carta de 'cessar e desistir' e uma notificação de direitos autorais, ameaçando com um processo judicial. ",
+          "feedback": "⚠️ Você usou a proteção legal. É necessário, mas a melhor proteção é a 'Inovação Contínua' (Step c). Isso é reativo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Ignoro. A cópia é a melhor forma de elogio. Continuo trabalhando.",
+          "feedback": "❌ Você permitiu que seu 'ativo mais valioso' fosse desvalorizado, o que prejudica sua 'Escassez' e 'Credibilidade'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Começo imediatamente a trabalhar na 'versão 2.0' da minha Metodologia (Novo IP), tornando a versão copiada obsoleta em 6 meses.",
+          "feedback": "✅ Perfeito! A melhor defesa é um bom ataque. A 'Proteção de IP' mais eficaz é a 'Inovação Contínua', mantendo-se sempre à frente da concorrência. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Ligo para o concorrente e peço para ele comprar a 'Licença de IP' (Royalties) por um preço justo.",
+          "feedback": "❓ O 'Licenciamento de IP' é uma forma de Alavancagem, o que é muito bom. Mas a 'Inovação Contínua' é a defesa de longo prazo do seu posicionamento. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "A Gestão do Tempo e a Produtividade",
+      "narrative": "É meio-dia e você gastou 3 horas no WhatsApp e na mídia social. Você está exausto (baixa energia). Sua próxima tarefa é um e-mail de prospecção para um Economic Buyer (HLA). 😴 **Como você gerencia sua energia para o resto do dia?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Forço-me a fazer o e-mail de prospecção. Preciso ser disciplinado.",
+          "feedback": "❌ Você está alocando uma 'HLA' para um momento de 'Baixa Energia'. A qualidade da sua prospecção será baixa. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Faço uma pausa de 30 minutos (Descanso) para restaurar a energia. Depois, mudo o e-mail de prospecção (HLA) para amanhã de manhã (Pico de Energia).",
+          "feedback": "✅ Perfeito! Você usa o 'Descanso' como investimento e aloca as 'HLAs' para momentos de 'Pico de Energia' (Gerenciamento de Energia). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Mudo para uma tarefa de baixa alavancagem, como arquivar documentos antigos. Isso não exige muita energia.",
+          "feedback": "❓ Você está aplicando a 'Procrastinação de Alto Valor' corretamente. Mas o melhor é adicionar o 'Descanso' para maximizar a energia. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Mando uma mensagem para o Economic Buyer no WhatsApp. É mais rápido.",
+          "feedback": "⚠️ Você está usando o canal errado para uma 'HLA' (prospecção). O Economic Buyer prefere comunicação mais formal e pensada. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "A Estrutura de Taxas e o Posicionamento",
+      "narrative": "Um novo cliente potencial está hesitante com seu VBF e pergunta: 'Qual é o seu 'Hourly Rate' para que eu possa compará-lo com outros consultores?' 😒 **Qual é a sua melhor resposta para reancorar o preço no valor, e não nas horas, e por que a taxa por hora é uma má ideia?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo a ele a taxa: 'Minha hora é R$ 2.000. Mas o VBF é melhor porque meu tempo é escasso.'" ,
+          "feedback": "❌ Você cedeu à 'Taxa por Hora', limitando seu potencial de ganhos e se posicionando como um custo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'O problema da 'Taxa por Hora' é que ela limita meu potencial de ganhos e incentiva você a me microgerenciar. Prefiro focar no resultado de R$ 500.000 (VBF), que é o que você realmente compra.'",
+          "feedback": "✅ Perfeito! Você educa o cliente sobre a desvantagem da 'Taxa por Hora' e reafirma que o VBF é uma estrutura de ganhos (Alavancagem), não de custo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Meu preço é o preço. Se você quer comparar, compare o ROI, não o Hourly Rate.'",
+          "feedback": "❓ Você está voltando ao ROI, o que é bom, mas não educou o cliente sobre o motivo pelo qual a 'Taxa por Hora' é ruim para *ele*. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Minha taxa por hora é R$ 500, mas o projeto tem um custo mínimo de R$ 100.000.'",
+          "feedback": "⚠️ Você está dando um preço baixo por hora, o que destrói o posicionamento. Você está misturando VBF e taxa por hora. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "A Gestão de Clientes Difíceis",
+      "narrative": "Você encerrou um projeto, mas o cliente (que já pagou 100%) está lhe enviando e-mails diários de 'follow-up' pedindo para 'revisitar' partes do trabalho, tentando estender a consultoria (Scope Creep/Microgerenciamento). 😠 **Como você usa a 'Gestão de Expectativas' e a 'Documentação' para encerrar o ciclo do projeto?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Digo: 'Sinto muito, mas o escopo do contrato está totalmente concluído. Qualquer trabalho adicional exigirá um novo VBF, que estou feliz em propor. (Nova Venda).'",
+          "feedback": "✅ Perfeito! Você usa a 'Gestão de Expectativas' e a 'Disciplina do VBF' para traçar uma linha clara e transformar o 'Scope Creep' em uma nova oportunidade de venda. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Aceito as revisões, mas digo a ele que vou limitar a 3 horas de trabalho extra. Quero manter a paz.",
+          "feedback": "❌ Você aceitou um 'Scope Creep' limitado. O consultor de milhões não trabalha de graça. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Ignoro os e-mails e paro de responder. O projeto está pago. Não tenho mais obrigação.",
+          "feedback": "⚠️ Você resolve o problema, mas prejudica sua reputação e a chance de 'Venda Contínua' futura. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Entendido. Vou te dar 3 meses de consultoria gratuita de 'follow-up' para garantir que você esteja 100% satisfeito.'",
+          "feedback": "❓ Você está sendo excessivamente generoso. O 'Scope Fixo' é seu seguro. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 4,
+  "title": "🚀 Simulação: Alavancagem, Escala e Renda Passiva (12 Passos)",
+  "introduction": "Você garantiu um fluxo de receita estável com sua consultoria de VBF, mas agora está limitado pelas 2.000 horas do ano. Sua próxima meta é quebrar o teto de vidro e alcançar a escala. Isso exige a criação de produtos de IP para gerar 'Renda Passiva', o domínio do 'Marketing de Atração' e uma gestão financeira rigorosa para manter uma margem de lucro acima de 50%. Prepare-se para tomar 12 decisões que definirão a sua 'liberdade de tempo'.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "A Alavancagem e a Escala",
+      "narrative": "Você está sobrecarregado. Sua receita é alta, mas 90% dela vem da sua consultoria 'One-to-One'. 😰 O que você faz para sair dessa 'prisão de tempo' e começar a gerar 'Alavancagem'? Seu principal ativo é sua Metodologia Proprietária (IP). **Qual é o seu primeiro passo para transformar seu tempo em um ativo escalável?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Contratar 3 novos consultores. Isso liberará 3x o meu tempo.",
+          "feedback": "❌ Você está trocando seu tempo pelo tempo de outros (escala linear). O primeiro passo é 'Alavancar' seu conhecimento, não sua equipe. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Transformo a Metodologia Proprietária em um 'Produto de Consultoria' (curso online), que pode ser vendido a centenas de pessoas simultaneamente (Renda Passiva).",
+          "feedback": "✅ Perfeito! Você usa o 'IP' para criar 'Alavancagem', desvinculando sua receita do seu tempo. Isso é o primeiro passo para a escala exponencial. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Cobro o dobro da minha taxa por hora. Isso é a forma mais rápida de aumentar o lucro.",
+          "feedback": "⚠️ Você aumentou a margem, o que é bom, mas ainda está limitado pelas 2.000 horas. Isso não resolve o problema de 'Escala'. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Faço uma 'Joint Venture' (Parceria Estratégica) com uma grande empresa para alcançar um mercado maior.",
+          "feedback": "❓ A parceria é uma boa forma de 'Alavancagem de Alcance', mas a melhor forma de alavancar sua *receita* é através da criação de 'IP'. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Marketing de Atração e a Marca",
+      "narrative": "Você lançou seu novo curso (Produto de IP, Step 1). Agora, precisa de um fluxo constante de clientes de alto valor. 🎣 Você está tentado a fazer anúncios no Facebook. **Qual é o melhor uso do seu tempo para criar um 'Marketing de Atração' sustentável?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ligo para 500 CEOs por semana (prospecção fria). Vendas diretas funcionam melhor.",
+          "feedback": "❌ Você voltou ao 'Marketing de Perseguição'. O marketing de atração usa o IP como um ímã. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Escrevo e publico um artigo semanal (Consistência) sobre seu nicho, usando a Metodologia Proprietária para posicionar sua 'Marca Pessoal' como 'Thought Leader'.",
+          "feedback": "✅ Perfeito! O 'Marketing de Conteúdo' (IP distribuído) com 'Consistência' cria uma 'Liderança de Pensamento', atraindo clientes que já estão pré-qualificados (Marketing de Atração). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Crio um logotipo e um site caros. A 'Marca Pessoal' é tudo sobre design.",
+          "feedback": "⚠️ O design é importante, mas a 'Marca Pessoal' é a sua promessa de valor (IP e Credibilidade), não apenas a estética. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Foco em ser 'genérico' e vender para o maior número possível de pessoas. Não quero limitar meu nicho.",
+          "feedback": "❓ Você está ignorando a regra do nicho. A 'Generalidade' posiciona você como um commodity. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Gestão Financeira e a Lucratividade",
+      "narrative": "Sua receita de VBF e de Renda Passiva está crescendo. Você está com 60% de Margem de Lucro (Excelente). Seu contador sugere que você alugue um escritório de alto padrão para 'parecer mais profissional' (Custo de Baixa Alavancagem). **Como você usa a 'Gestão Financeira' para maximizar a lucratividade e o ROI?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Concordo. O escritório de alto padrão é um 'Custo de Alta Alavancagem' que aumenta a credibilidade.",
+          "feedback": "❌ O escritório de alto padrão é um 'Custo de Baixa Alavancagem'. Ele não gera ROI direto. Minimize custos que não geram receita. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo ao contador para automatizar a contabilidade (Tecnologia) e investir o dinheiro do aluguel em 'Criação de Novo IP' (Investimento em IP).",
+          "feedback": "✅ Perfeito! Você minimiza 'Custos de Baixa Alavancagem' e maximiza 'Investimento em IP', que é um 'Custo de Alta Alavancagem'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Alugo o escritório, mas cobro a despesa de volta dos clientes (aumento do VBF).",
+          "feedback": "⚠️ Você está transferindo um custo desnecessário para o cliente, o que pode prejudicar o VBF. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pego o dinheiro e coloco em uma 'Reserva de Capital' para cobrir 12 meses de despesas. A segurança é tudo.",
+          "feedback": "❓ Criar a 'Reserva de Capital' é uma excelente disciplina. Mas o melhor uso do lucro excedente é o 'Investimento em IP' (Alavancagem). (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "A Venda de Produtos de IP",
+      "narrative": "Você está planejando o preço do seu curso online (Produto de IP). O concorrente vende um curso semelhante por R$ 500. Seu curso usa sua Metodologia Proprietária (IP). **Como você precifica seu produto para maximizar o lucro, evitando o 'Preço de Mercado' dos concorrentes?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Precifico o curso em R$ 497. Preciso ser competitivo (Preço de Mercado).",
+          "feedback": "❌ Você se vendeu barato. Seu IP é único. Precificar perto do concorrente desvaloriza sua expertise. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Precifico em R$ 1.997 (Preço Premium), focando no valor (VBF) que o curso entrega, não no preço do concorrente. Ele é o funil para a consultoria de alto valor.",
+          "feedback": "✅ Perfeito! O preço deve ser baseado no 'VBF' e ser um 'Preço Premium'. Isso posiciona o produto como de 'Alto Valor' e um 'Funil de IP' eficaz. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Precifico em R$ 5.000, mas dou 90% de desconto para todos que comprarem no primeiro dia.",
+          "feedback": "⚠️ O 'Desconto' desvaloriza o produto e atrai clientes que só buscam barganha. Mantenha o preço alto e defenda o valor. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Ofereço o curso gratuitamente, transformando-o em um 'Isca Digital' para consultoria. Custo zero para o cliente.",
+          "feedback": "❓ Você está usando a tática de 'Funil de IP', o que é bom, mas o produto de 'Alto Valor' deve ter um preço de teste de compromisso. (2/3 ★),",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "A Alavancagem e a Escala",
+      "narrative": "Você tem um novo projeto de consultoria de alto valor, mas ele exige pesquisa e design intensivos (tarefas de baixa alavancagem). 😫 **Como você usa a 'Alavancagem' para liberar seu tempo, mantendo a responsabilidade e o controle do projeto?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu me forço a fazer a pesquisa e o design. É mais barato e garante a qualidade.",
+          "feedback": "❌ Você está fazendo 'Tarefas de Baixa Alavancagem'. Seu tempo é o ativo mais valioso; use-o para 'HLAs'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu uso a 'Subcontratação Estratégica': delego a pesquisa e o design a freelancers e uso o tempo liberado para criar mais IP e prospectar novos clientes.",
+          "feedback": "✅ Perfeito! A 'Subcontratação Estratégica' libera seu tempo para as 'HLAs' (IP e Prospecção), permitindo a 'Alavancagem' de seus resultados. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu digo ao cliente que ele precisa contratar a própria equipe de design e pesquisa.",
+          "feedback": "⚠️ Você está delegando a responsabilidade para o cliente, o que prejudica a experiência e o valor percebido. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu reduzo o escopo do projeto para eliminar a necessidade de pesquisa e design. Simplificação é a chave.",
+          "feedback": "❓ Você está simplificando o escopo, o que é bom para a 'Gestão de Expectativas', mas perde a oportunidade de alavancar o projeto. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O Marketing de Atração e a Marca",
+      "narrative": "Seu 'Marketing de Atração' está funcionando e você tem um fluxo de leads qualificados do seu curso online (Funil de IP). Um lead pergunta: 'Você parece bom, mas qual é o seu 'Market Pricing' e o que faz seu IP ser melhor do que o de todos os outros?' **Como você usa sua 'Marca Pessoal' para justificar o preço premium e a 'Escassez'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Digo: 'Minha Marca Pessoal é mais antiga. Tenho 20 anos de experiência.'",
+          "feedback": "❌ Você está focando em 'tempo', não em 'valor'. A Marca Pessoal é a sua promessa de valor único. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'Meu preço é 'Market Pricing' para clientes que buscam resultados de 6 dígitos. Minha 'Marca Pessoal' e IP são especializados em 'Nicho X', tornando-me o único 'Thought Leader' para o seu problema.'",
+          "feedback": "✅ Perfeito! Você usa a 'Marca Pessoal' e o 'Nicho' para criar 'Escassez' e 'Credibilidade', justificando o preço premium. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Eu sou mais autêntico do que os outros. As pessoas confiam em mim.'",
+          "feedback": "⚠️ A 'Autenticidade' é importante para a 'Confiança', mas não é o argumento principal para justificar o preço premium. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Meu curso tem a melhor avaliação do mercado. É o melhor em qualidade.'",
+          "feedback": "❓ Você está focando na 'Qualidade' do produto. Isso é bom, mas o argumento mais forte é a sua 'Liderança de Pensamento' e o seu 'Nicho' exclusivo. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "A Gestão Financeira e a Lucratividade",
+      "narrative": "Você está monitorando suas métricas de lucratividade (Step 3). Você percebe que 80% do seu tempo está sendo gasto em projetos que geram apenas 20% da sua receita. 📉 **Como você usa a 'Gestão Financeira' para aplicar a Regra 80/20 e maximizar o ROI do seu tempo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu demito os clientes que geram 80% da receita e gasto 80% do meu tempo. Preciso focar no lucro bruto.",
+          "feedback": "❌ Você inverteu a Regra 80/20. Você deve 'Demissão de Cliente' aqueles que consomem 80% do seu tempo por 20% da receita. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu 'Demito de Cliente' os 80% de clientes que geram 20% da minha receita e uso o tempo liberado para 'HLAs' (IP e Prospecção de alto valor).",
+          "feedback": "✅ Perfeito! Você aplica a 'Regra 80/20' e a 'Coragem' para eliminar 'Custos de Baixa Alavancagem' (clientes que consomem tempo/recursos). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu dedico 50% do meu tempo aos clientes de 20% e 50% aos clientes de 80%. Justo e equilibrado.",
+          "feedback": "⚠️ Você está tentando ser 'justo', mas está perdendo o foco no 'ROI do Tempo'. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu aumento o VBF dos clientes de 20% em 50% e espero que eles paguem.",
+          "feedback": "❓ Você está tentando corrigir a margem, mas é melhor 'Demissão de Cliente' e focar na 'Venda Contínua' de alto valor. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "A Venda de Produtos de IP",
+      "narrative": "Você está lançando um novo produto de IP (ferramenta de diagnóstico automatizada). 🛠️ Você está pronto para o lançamento, mas seu mentor sugere 'Market Testing'. **Qual é o melhor 'Teste de Mercado' para validar o preço e a aceitação do seu Produto de IP?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Lanço o produto imediatamente com o preço de R$ 5.000 (Preço Premium). O mercado me dirá se está certo.",
+          "feedback": "❌ Você está assumindo um grande risco. O 'Teste de Mercado' minimiza o risco de lançar um produto que ninguém quer. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Lançar uma 'Versão Beta' para 10 clientes de confiança, cobrando 50% do preço. Peço feedback detalhado e validação do preço.",
+          "feedback": "✅ Perfeito! O 'Teste de Mercado' com um pequeno grupo valida o 'VBF' e minimiza o risco antes do lançamento em massa (Escala). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dou a ferramenta de graça para todos os clientes antigos. 'Generosidade' é a chave.",
+          "feedback": "⚠️ A 'Generosidade' é boa, mas você precisa validar o preço e a aceitação do mercado (VBF). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pergunto aos meus amigos se eles comprariam por R$ 5.000. O feedback pessoal é suficiente.",
+          "feedback": "❓ Você está fazendo um 'Teste de Mercado' inadequado. Você precisa de feedback de clientes que realmente pagariam. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "A Alavancagem e a Escala",
+      "narrative": "Você está procurando a próxima oportunidade de 'Alavancagem'. Um colega sugere que você 'Licencie' sua Metodologia Proprietária (IP) para outras empresas de consultoria. 🤝 **Como você usa o 'Licenciamento de IP' para gerar Renda Passiva e escalar sua marca?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu vendo minha Metodologia por um preço único e alto. É a forma mais rápida de dinheiro.",
+          "feedback": "❌ Você perdeu a 'Renda Passiva'. O 'Licenciamento' gera royalties contínuos (Alavancagem de Receita). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Crio um 'Programa de Licenciamento' que cobra uma taxa anual (Royalties) para outras empresas usarem o IP sob minha supervisão (Escala de Marca).",
+          "feedback": "✅ Perfeito! O 'Licenciamento de Metodologia' gera 'Renda Passiva' e escala sua marca sem consumir seu tempo ativo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Faço uma 'Joint Venture' (Parceria Estratégica) onde eu faço o trabalho e eles me dão 50% da receita. Risco compartilhado.",
+          "feedback": "⚠️ A parceria é boa, mas você ainda está vendendo seu tempo. O 'Licenciamento' vende o conhecimento. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu dou a Metodologia de graça. O 'Marketing de Atração' é mais importante que a 'Renda Passiva'.",
+          "feedback": "❓ Você está desvalorizando seu 'IP'. O IP deve ser vendido. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Marketing de Atração e a Marca",
+      "narrative": "Você recebe um convite para ser o palestrante principal em uma conferência. É uma oportunidade de 'Thought Leadership' (Liderança de Pensamento). 🎙️ **Como você usa este evento para maximizar o 'Marketing de Atração' e a 'Credibilidade'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Uso a palestra para vender meu curso online diretamente e pedir para todos comprarem no local. Foco em vendas diretas.",
+          "feedback": "❌ Você transformou um evento de 'Liderança de Pensamento' em um 'Pitch de Vendas'. Isso prejudica a 'Credibilidade'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Foco a palestra na minha 'Metodologia Proprietária' (IP), dou a solução para o problema deles e peço aos interessados em aplicar o modelo para baixar meu e-book gratuito (Funil de IP).",
+          "feedback": "✅ Perfeito! Você usa a palestra para construir 'Credibilidade' e 'Liderança de Pensamento', e a direciona para o seu 'Funil de IP' (Marketing de Atração). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Falo sobre a história da minha empresa e minha experiência. Credenciais de longo prazo são o que importa.",
+          "feedback": "⚠️ Você está focando em 'si mesmo' (currículo) e não no 'valor' (solução). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Falo sobre tendências genéricas do mercado. Não quero revelar meu 'IP' no palco.",
+          "feedback": "❓ Você está perdendo a chance de construir 'Liderança de Pensamento'. Você deve dar o 'O quê' de graça, mas vender o 'Como'. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "A Gestão Financeira e a Lucratividade",
+      "narrative": "Um cliente de VBF atrasa o pagamento de R$ 30.000. Ele diz que 'o CFO está de férias e o dinheiro será liberado em 3 semanas'. 😤 Você precisa de 'Fluxo de Caixa Previsível'. **Como você usa a 'Gestão Financeira' para ser firme e proteger seu 'Fluxo de Caixa'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Continua o trabalho. Não quero perder um cliente por causa de um atraso de 3 semanas.",
+          "feedback": "❌ Você aceitou um risco financeiro. O 'Pagamento é um Teste de Compromisso'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'Entendo o problema do CFO. No entanto, o contrato exige o pagamento em dia. O projeto está suspenso até que o pagamento seja recebido. Não sou um banco.' (Firmeza Profissional).",
+          "feedback": "✅ Perfeito! Você usa a 'Firmeza Profissional' para proteger seu 'Fluxo de Caixa Previsível' e reafirmar o contrato. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Vou dar um desconto de 5% se você me pagar em 1 semana.'",
+          "feedback": "⚠️ Você está tentando trocar preço por pagamento, o que desvaloriza o VBF. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Ligo para o CFO de férias. Preciso do dinheiro imediatamente.",
+          "feedback": "❓ Você está sendo excessivamente agressivo e antipático. A 'Firmeza Profissional' é melhor que a agressividade. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "A Venda de Produtos de IP",
+      "narrative": "Você está revisando seu 'Funil de IP' (Step 10). Muitos clientes compram seu e-book de R$ 50, mas poucos compram o curso de R$ 1.997 (Funil de IP quebrado). 🧱 **Como você usa os produtos de IP para 'Qualificar' e 'Avançar' leads para a consultoria de alto valor?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Reduzo o preço do curso para R$ 500 para aumentar as vendas.",
+          "feedback": "❌ Você reduziu o preço, o que prejudica a 'Margem de Lucro' e não resolve a 'Qualificação de Leads'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Crio um 'Produto de Alto Valor' intermediário (um workshop de 4h por R$ 497) entre o e-book e a consultoria para testar o compromisso e a qualificação dos leads (Funil de IP).",
+          "feedback": "✅ Perfeito! Você usa um produto de 'Alto Valor' intermediário para 'Qualificar' os leads e avançá-los no 'Funil de IP', o que aumenta a taxa de conversão para a consultoria. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu ligo para todos os compradores de e-book. Venda direta de consultoria. Mãos à obra.",
+          "feedback": "⚠️ Você está gastando 'Tempo de Alta Alavancagem' em leads de baixo compromisso. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Aumento o preço da consultoria para R$ 100.000 para forçar os leads a se qualificarem mais rápido.",
+          "feedback": "❓ Você está forçando a 'Qualificação' pelo preço. Melhor seria criar um produto intermediário (Funil de IP) para testar o compromisso. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 5,
+  "title": "👑 Simulação: Protegendo a Marca e Encontrando a Verdade (12 Passos)",
+  "introduction": "Sua marca pessoal está forte, e sua reputação como 'Thought Leader' está consolidada (Graças ao seu IP). Agora, você está enfrentando o próximo nível de desafios: gerenciar a fama (e a crítica), ter a coragem de dizer 'não' a clientes que não se encaixam e usar a arte do 'The Mom Test' para encontrar a verdade sobre o problema do cliente, garantindo que você só trabalhe em projetos de legado e liberdade financeira. Prepare-se para 12 decisões que protegerão o seu ativo mais valioso: o seu nome.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "A Gestão da Marca Pessoal e Reputação",
+      "narrative": "Você publicou um artigo polêmico sobre seu nicho (Liderança de Pensamento). 😠 Um concorrente influente responde com uma crítica pública, questionando sua metodologia e insinuando que seu trabalho é superficial. Sua 'Reputação' está em jogo. **Como você usa sua 'Marca Pessoal' para responder estrategicamente?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ignoro a crítica. A controvérsia desaparece por si só. Não dou palco a ele (Ignorar Críticas).",
+          "feedback": "❌ Você deixou a crítica sem resposta, permitindo que a narrativa negativa persista. A 'Gestão de Reputação' exige uma resposta profissional e estratégica. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Respondo de forma profissional, reafirmando minha 'Metodologia Proprietária' (IP) com fatos (Resultados) e o meu 'Posicionamento de Especialista' (Crítica Estratégica).",
+          "feedback": "✅ Perfeito! Você transforma a 'Crítica' em uma oportunidade para reafirmar seu 'IP' e sua 'Expertise' com fatos. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ataco o currículo do concorrente, expondo suas falhas. Ele precisa ser silenciado.",
+          "feedback": "⚠️ Você respondeu, mas de forma emocional. Isso prejudica sua 'Marca Pessoal' e 'Paixão'. Mantenha a resposta profissional. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pego a crítica e a transformo em uma pergunta para os meus seguidores: 'O que vocês acham?' (Prova Social).",
+          "feedback": "❓ Você está usando a 'Prova Social' para a defesa, o que é bom, mas o melhor é uma resposta direta e baseada em fatos. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "A Arte de Dizer 'Não'",
+      "narrative": "Um cliente liga pedindo uma consultoria, mas logo tenta negociar seu VBF de R$ 75.000 para R$ 40.000. Ele diz: 'Se você não negociar, não posso fechar. Não me faça dizer 'não'.' 🤨 Você está em uma situação de teste de preço. **Qual é sua melhor resposta para 'Dizer Não' à negociação de preço?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Concordo: 'Tudo bem, R$ 40.000. Eu não quero perder o cliente.'",
+          "feedback": "❌ Você cedeu. Negociar o VBF destrói o 'Posicionamento de Valor'. Você está dizendo que seu preço é elástico. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Respondo: 'Meu VBF de R$ 75.000 é o 'Preço de Referência' para este escopo fixo. Se você precisar de um preço de R$ 40.000, teremos que reduzir o escopo em 50%.'",
+          "feedback": "✅ Perfeito! Você usa o 'Preço de Referência' e a disciplina de 'Dizer Não' à negociação. Você reduz o escopo em vez do preço. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'O preço é o preço. Se você não pode pagar, recomendo um consultor mais barato.'",
+          "feedback": "⚠️ Você foi firme, mas o Consultor de Milhões oferece uma alternativa (redução de escopo) para manter o diálogo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Posso dar 10% de desconto. Não posso fazer mais do que isso.'",
+          "feedback": "❓ Você está oferecendo um 'Desconto'. Melhor é manter a disciplina de preço, mas aceitável para clientes que já confiam. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "O Domínio do 'The Mom Test'",
+      "narrative": "Você está diagnosticando um novo cliente potencial. Ele diz: 'Eu **acharia** seu curso online muito útil, e **definitivamente** eu compraria sua consultoria para resolver meu problema.' 🤥 Você reconhece a 'Perguntas de Vaidade'. **Como você usa o 'The Mom Test' para encontrar a verdade?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Digo: 'Excelente! É ótimo ouvir isso. Vamos fechar a consultoria hoje.'",
+          "feedback": "❌ Você aceitou a 'Lisonja'. O cliente está sendo gentil, não comprometido. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunto: 'O que você fez na semana passada para tentar resolver este problema? E quanto você gastou nisso (Comportamento Passado)?' ",
+          "feedback": "✅ Perfeito! Você usa o 'The Mom Test' para focar no 'Comportamento Passado' e na 'Quantificação da Dor', que são fatos, e não opiniões. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunto: 'Você me considera um especialista? Qual é o meu melhor ativo?' (Perguntas de Vaidade).",
+          "feedback": "⚠️ Você está focando em 'Perguntas de Vaidade'. Isso alimenta seu ego, mas não encontra a verdade. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Eu acho que você precisa de uma solução mais barata. Meu preço é muito alto para você.'",
+          "feedback": "❓ Você está sendo excessivamente cético. Melhor é usar as perguntas para descobrir a verdade. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Legado e a Liberdade Financeira",
+      "narrative": "Você alcançou a 'Liberdade Financeira' (Renda Passiva cobre despesas). 🎉 Um investidor oferece um valor alto para comprar sua prática de consultoria (Venda da Prática). Sua prática tem IP, sistemas e um fluxo de caixa previsível. **Qual é o seu foco principal ao considerar a 'Venda da Prática'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Vendo imediatamente. O dinheiro é muito bom para recusar. É o fim da linha.",
+          "feedback": "❌ Você pode ter vendido por um preço baixo. O foco deve ser no 'Legado' e no 'Impacto' que você deixa. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Avalio o preço (múltiplo da receita) e o 'Legado' (se meu IP e metodologia continuarão a gerar valor para o mercado).",
+          "feedback": "✅ Perfeito! A 'Venda da Prática' é o ápice da 'Liberdade Financeira' e do 'Legado'. O foco é no ativo vendável (IP e sistemas). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu me recuso. Eu amo o que faço e não quero parar de trabalhar. 'Trabalho por Escolha' é melhor.",
+          "feedback": "⚠️ O 'Trabalho por Escolha' é o objetivo, mas a 'Venda da Prática' é a prova de que você construiu um ativo (Legado). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu vendo apenas a minha lista de clientes, e não o meu IP. O IP é meu ativo mais valioso.",
+          "feedback": "❓ Vender o IP (Licenciamento) é bom, mas a 'Venda da Prática' completa (IP + Sistemas) é o que gera o maior múltiplo (Legado e Valor). (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "A Gestão da Marca Pessoal e Reputação",
+      "narrative": "Você tem um depoimento de um CEO de alto nível. Ele é muito genérico ('Ótimo trabalho!'). Você precisa de 'Prova Social' forte para sua 'Marca Pessoal' (Posicionamento de Especialista). **Como você solicita um 'Depoimento' mais poderoso?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aceito o depoimento. Qualquer prova social é melhor do que nada.",
+          "feedback": "❌ Você aceitou um depoimento fraco. A 'Marca Pessoal' exige prova social que quantifique o resultado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Peço a ele para se concentrar no 'Problema X' que resolvemos e no 'Resultado Quantificável' ($X em ROI) que ele obteve (Depoimento Estratégico).",
+          "feedback": "✅ Perfeito! Você guia o CEO a focar no problema e no ROI. Isso é 'Prova Social' forte que reforça seu 'Posicionamento de Especialista'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Por favor, escreva um depoimento sobre como eu sou o melhor consultor que você já contratou.' (Perguntas de Vaidade).",
+          "feedback": "⚠️ Você está focando em vaidade. O foco deve ser no 'Resultado'. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pergunto: 'Qual é a sua 'Plataforma de Visibilidade' favorita? Posso publicar lá?'",
+          "feedback": "❓ Você está focando no canal, e não na mensagem. O conteúdo é mais importante que o canal. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "A Arte de Dizer 'Não'",
+      "narrative": "Você recebeu uma proposta para um projeto de R$ 20.000 (baixo VBF), mas ele exige 80% do seu tempo por 3 meses e não se alinha com seu 'Posicionamento de Especialista' (Baixa Alavancagem). 😬 **Você está com as finanças apertadas. Como você usa o 'The Mom Test' para dizer 'não' a esta 'Má Oportunidade'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aceito o projeto. O dinheiro é apertado. Posso fazer o trabalho à noite. (Comprometimento de Tempo).",
+          "feedback": "❌ Você disse 'sim' a uma 'Má Oportunidade', destruindo seu tempo de 'HLAs' e sua lucratividade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'Agradeço, mas nosso 'Mínimo de Preço' e 'Escopo Fixo' atual não se alinham. Recomendo o consultor X.' (Demissão de Cliente).",
+          "feedback": "✅ Perfeito! Você aplica a 'Qualificação' e a 'Coragem' de dizer 'não' a clientes que consomem recursos. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Só aceito se você pagar R$ 100.000. O preço precisa ser o dobro do valor.'",
+          "feedback": "⚠️ Você está defendendo o preço, mas está perdendo tempo. O melhor é 'Demissão de Cliente' rapidamente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu peço para ele pagar 100% antecipadamente e uso o dinheiro para investir em meu IP. (Risco Financeiro).",
+          "feedback": "❓ Você está se protegendo financeiramente, mas o risco de tempo e desvio de foco é alto. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Domínio do 'The Mom Test'",
+      "narrative": "O cliente potencial está convencido do problema, mas diz: 'Eu **acho** que minha equipe implementará sua solução em 3 semanas. Você **acha** que isso é realista?' (O Teste da Mãe - Solução e Opinião). **Como você foca em 'Fatos' e 'Comportamento Passado'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Respondo: 'Sim, eu acho que é realista. Minha solução é a melhor.'",
+          "feedback": "❌ Você deu uma 'Opinião' não factível. O 'The Mom Test' exige fatos, não validação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunto: 'Qual foi o último projeto de '3 semanas' que sua equipe concluiu com sucesso? E o que aconteceu depois?' (Fatos e Comportamento Passado).",
+          "feedback": "✅ Perfeito! Você usa o 'The Mom Test' para focar em 'Fatos' e no 'Comportamento Passado' da equipe dele, revelando a verdade sobre a capacidade de execução. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Vamos discutir o preço. Isso é o mais importante agora.'",
+          "feedback": "⚠️ Você está mudando de assunto. O preço só é justificado pelo problema. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pergunto: 'Qual é o seu orçamento real? Vamos ser honestos.'",
+          "feedback": "❓ Você está focando na 'Quantificação da Dor' (Orçamento), o que é bom, mas o problema é a capacidade de execução (Solução). (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Legado e a Liberdade Financeira",
+      "narrative": "Você está planejando os próximos 5 anos. Seu foco é no 'Legado'. Qual deve ser sua 'High-Leverage Activity' (HLA) principal para garantir que sua marca continue a gerar valor e impacto sem seu tempo ativo (Legado e Renda Passiva)?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Contratar mais consultores e gerenciar uma grande equipe. (Escala de Tempo).",
+          "feedback": "❌ Você está construindo uma 'Agência', não um 'Legado' baseado em IP. Isso é escala de tempo, não de conhecimento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Investir 20% do meu tempo na 'Criação e Licenciamento de IP' e na 'Mentoria/Coaching' de outros consultores (Alavancagem de Conhecimento).",
+          "feedback": "✅ Perfeito! O 'Legado' é construído através da 'Alavancagem do Conhecimento' (IP e Mentoria), que gera 'Renda Passiva' e escala o impacto. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Apenas trabalhar com clientes de alto valor. O dinheiro resolve tudo.",
+          "feedback": "⚠️ Você está focado em 'Receita', e não em 'Legado'. O dinheiro é o meio, não o fim. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Focar em 'Palestras Remuneradas'. É uma forma de vender meu tempo caro. (Venda de Tempo).",
+          "feedback": "❓ A palestra é uma forma de 'Marketing de Atração' e 'Venda de Tempo'. O 'IP' é o melhor para a 'Liberdade Financeira'. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "A Gestão da Marca Pessoal e Reputação",
+      "narrative": "Você está escolhendo novos canais para distribuir seu IP. Você tem a opção de fazer um podcast ou de escrever um livro. 📚 **Qual é a 'Plataforma de Visibilidade' mais poderosa para reforçar sua 'Liderança de Pensamento' e 'Marca Pessoal' de longo prazo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Crio um podcast diário. A 'Frequência' é tudo.",
+          "feedback": "⚠️ O podcast é bom para 'Frequência', mas não tem o mesmo peso de 'Liderança de Pensamento' de um livro. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Escrevo um 'Livro' (IP de Alto Valor). Ele é a 'Plataforma de Visibilidade' mais poderosa, garantindo credibilidade imediata e 'Thought Leadership'.",
+          "feedback": "✅ Perfeito! O livro é o 'IP Definitivo' que confere 'Liderança de Pensamento' e 'Credibilidade' instantânea. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Crio um perfil no TikTok. É onde o público está.",
+          "feedback": "❌ O TikTok é bom para 'Visibilidade', mas não para 'Credibilidade' com o 'Economic Buyer'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Foco em enviar e-mails de prospecção fria. O contato direto é o que converte.",
+          "feedback": "❓ Você está misturando 'Marketing de Atração' com 'Perseguição'. O e-mail deve ser nutrido pelo 'IP'. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "A Arte de Dizer 'Não'",
+      "narrative": "Um cliente potencial não qualificado (sem orçamento e sem autoridade) liga e pede 30 minutos do seu tempo para 'aprender mais sobre o meu problema'. ⏱️ **Como você usa o 'Não Estratégico' para proteger seu tempo de alta alavancagem?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Concordo: 'Tudo bem, 30 minutos de diagnóstico gratuito. Não posso ser indelicado.'",
+          "feedback": "❌ Você violou o princípio de 'Dizer Não' ao trabalho gratuito e à 'Má Qualificação'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'Não ofereço consultoria gratuita. Mas se você comprar meu e-book (Produto de IP de baixo custo), você pode ter 30 minutos de 'Mentoria Rápida'.' (Alternativa Paga).",
+          "feedback": "✅ Perfeito! Você disse 'não' ao trabalho gratuito e ofereceu uma 'Alternativa Paga' que alavanca seu 'IP' (Funil de IP). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu o ignoro. Ele não tem orçamento.",
+          "feedback": "⚠️ Você protegeu seu tempo, mas perdeu a chance de convertê-lo em um cliente de 'Produto de IP'. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Sim, mas minha taxa é R$ 1.000 por 30 minutos.' (Preço Proibitivo).",
+          "feedback": "❓ Você está usando um 'Preço Proibitivo'. Melhor seria oferecer o 'IP' como alternativa. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Domínio do 'The Mom Test'",
+      "narrative": "Durante o diagnóstico, o cliente só fala sobre a 'Metodologia' que ele espera que você use (Foco na Solução). Ele não fala sobre a dor. 😵 **Como você redireciona a conversa para o problema, usando o 'The Mom Test' para encontrar a causa raiz?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aceito: 'Tudo bem, vamos usar essa metodologia. Eu sou flexível.'",
+          "feedback": "❌ Você se tornou um 'Order Taker'. O cliente está focado na solução errada. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunto: 'Eu entendo a importância da metodologia. Mas o que acontece se você não resolver o problema AGORA? Qual é o custo da inação em 6 meses?' (Custo da Inação).",
+          "feedback": "✅ Perfeito! Você usa o 'The Mom Test' (Custo da Inação) para forçar o cliente a confrontar a dor, voltando à causa raiz. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu dou a ele a minha 'Metodologia Proprietária' gratuitamente. Assim ele confia em mim.",
+          "feedback": "⚠️ Você está dando 'mini-consultoria' gratuita, o que é um risco. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Você está focado na solução, mas precisamos de 'Fatos'. Qual foi o último evento que fez você procurar um consultor?' (Foco em Fatos).",
+          "feedback": "❓ Você está usando o 'Foco em Fatos', o que é bom, mas a 'Causa Raiz' mais eficaz é o custo da inação. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Legado e a Liberdade Financeira",
+      "narrative": "Sua 'Marca Pessoal' é o seu maior ativo (Step 1). Você está considerando o que fazer com a receita passiva de seus produtos de IP. 💰 **Qual é o seu melhor movimento para garantir a 'Liberdade Financeira' e o 'Legado' de longo prazo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Gasto o dinheiro em luxos. Eu mereço. (Foco em Consumo).",
+          "feedback": "❌ Você está focando em 'Consumo' em vez de 'Investimento'. O dinheiro deve gerar mais dinheiro (Liberdade Financeira). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Invisto a receita passiva em 'Ativos' (ex: fundos, imóveis) até que a 'Renda Passiva' cubra totalmente as despesas (Liberdade Financeira).",
+          "feedback": "✅ Perfeito! O objetivo é a 'Liberdade Financeira' (Renda Passiva > Despesas), o que permite o 'Trabalho por Escolha' (Legado). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Apenas deixo o dinheiro no banco. É seguro e garantido. (Baixo ROI).",
+          "feedback": "⚠️ Você está sendo muito conservador. O dinheiro deve ser 'Alavancado' para gerar mais Renda Passiva. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Invisto em mais software e um escritório mais caro. (Custo de Baixa Alavancagem).",
+          "feedback": "❓ Você está gastando em 'Custos de Baixa Alavancagem'. O foco deve ser em 'Ativos Geradores de Renda'. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+}
+]

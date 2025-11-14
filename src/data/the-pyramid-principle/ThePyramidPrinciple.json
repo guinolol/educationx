@@ -1,0 +1,3285 @@
+[
+  {
+    "id": 1,
+    "title": "A Lógica da Pirâmide: Resposta Primeiro",
+    "teaser": "🔺 Pare de enrolar! O segredo é: **Conclusão no topo, argumentos embaixo.** Descubra por que a Resposta deve vir antes de tudo.",
+    "level1": "O Princípio da Pirâmide exige que você comece com a ideia principal (a Resposta) e a apoie com argumentos agrupados logicamente. Isso garante que o leitor ou ouvinte compreenda imediatamente o ponto principal.",
+    "level2": "A mente só pode reter de 3 a 7 ideias por vez. Se você começar pelos detalhes, sobrecarrega o leitor. Começar pela Resposta fornece o contexto necessário para processar os detalhes com clareza.",
+    "level3": "Minto argumenta que a abordagem 'História Primeiro' (fatos, dados, conclusão) é o caminho mais longo e ineficiente. A Pirâmide é a estrutura que reflete como a mente processa informações hierarquicamente.",
+    "recapitulation": [
+      "Regra fundamental: Comece sempre com a Resposta.",
+      "O objetivo é clareza e retenção imediata.",
+      "A mente processa melhor a informação em grupos hierárquicos (topo, meio, base).",
+      "Evite a abordagem 'História Primeiro' em comunicações importantes.",
+      "O relacionamento (vertical) e o agrupamento (horizontal) das ideias são cruciais."
+    ],
+    "practicalChecklist": [
+      "Ao redigir um e-mail/relatório, escreva a primeira frase como a Resposta/Conclusão principal.",
+      "Verifique se o seu 'topo da pirâmide' (Resposta) é uma afirmação, não um tópico.",
+      "Teste o seu documento perguntando a si mesmo: 'Se o leitor só lesse a primeira frase, ele entenderia o meu ponto?'",
+      "Antes de começar a escrever, estruture sua ideia em 3 níveis (Resposta, Razões, Dados)."
+    ],
+    "conclusionMessage": "O Princípio da Pirâmide exige que você comece com a ideia principal (a Resposta) e a apoie com argumentos agrupados logicamente.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a regra fundamental do Princípio da Pirâmide?",
+        "options": [
+          { "value": "a", "label": "Apresentar todos os dados antes da conclusão." },
+          { "value": "b", "label": "Começar com a ideia principal (a Resposta) e depois apresentar os argumentos de suporte." },
+          { "value": "c", "label": "Usar apenas argumentos dedutivos." },
+          { "value": "d", "label": "Manter o documento com menos de 10 páginas." }
+        ],
+        "explanation": "A clareza é alcançada ao fornecer a resposta imediatamente, permitindo que o leitor processe os detalhes em um contexto.",
+        "hint": "O topo da estrutura.",
+        "correctAnswer": "b",
+        "bookExample": "A mente só pode reter cerca de três a sete itens de informação de uma vez."
+      },
+      {
+        "id": "2",
+        "question": "Por que a Minto argumenta que a abordagem 'Resposta Primeiro' é superior?",
+        "options": [
+          { "value": "a", "label": "É mais rápido de escrever." },
+          { "value": "b", "label": "Facilita a compreensão e a retenção da informação pelo leitor, pois ele já sabe o ponto principal." },
+          { "value": "c", "label": "Permite esconder argumentos fracos." },
+          { "value": "d", "label": "É a forma mais comum de comunicação." }
+        ],
+        "explanation": "A mente humana busca padrões e a hierarquia da pirâmide fornece esse padrão imediatamente.",
+        "hint": "Retenção e processamento mental.",
+        "correctAnswer": "b",
+        "bookExample": "O leitor só pode absorver ideias se elas estiverem estruturadas hierarquicamente."
+      },
+      {
+        "id": "3",
+        "question": "O que deve estar no nível imediatamente abaixo da ideia principal (Resposta)?",
+        "options": [
+          { "value": "a", "label": "Detalhes e dados brutos." },
+          { "value": "b", "label": "As principais categorias de argumentos que suportam a Resposta (os pontos-chave)." },
+          { "value": "c", "label": "A introdução histórica do problema." },
+          { "value": "d", "label": "A conclusão final." }
+        ],
+        "explanation": "Cada nível deve ser um resumo das ideias abaixo dele.",
+        "hint": "O primeiro nível de suporte.",
+        "correctAnswer": "b",
+        "bookExample": "As ideias em cada nível devem ser um resumo das ideias agrupadas abaixo delas."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de usar a abordagem tradicional (História Primeiro)?",
+        "options": [
+          { "value": "a", "label": "O documento fica muito curto." },
+          { "value": "b", "label": "O leitor pode se perder nos detalhes e não entender o ponto principal até o final, perdendo o foco." },
+          { "value": "c", "label": "O autor não consegue escrever." },
+          { "value": "d", "label": "A pirâmide fica invertida." }
+        ],
+        "explanation": "A abordagem tradicional sobrecarrega a memória de curto prazo do leitor.",
+        "hint": "Sobrecarga mental.",
+        "correctAnswer": "b",
+        "bookExample": "A mente do leitor só pode reter cerca de três a sete itens de informação de uma vez."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Agrupar Ideias' na Pirâmide?",
+        "options": [
+          { "value": "a", "label": "Colocar todas as ideias juntas." },
+          { "value": "b", "label": "Organizar as ideias de suporte em categorias lógicas (máximo de 3 a 7 por grupo)." },
+          { "value": "c", "label": "Usar cores diferentes para cada ideia." },
+          { "value": "d", "label": "Focar apenas em argumentos dedutivos." }
+        ],
+        "explanation": "O agrupamento facilita a digestão da informação e a construção da estrutura hierárquica.",
+        "hint": "Organização por categorias.",
+        "correctAnswer": "b",
+        "bookExample": "A mente humana naturalmente agrupa ideias semelhantes."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel da 'Introdução' na estrutura da Pirâmide?",
+        "options": [
+          { "value": "a", "label": "Apresentar a Resposta." },
+          { "value": "b", "label": "Estabelecer o contexto (Situação, Complicação, Pergunta) antes de apresentar a Resposta." },
+          { "value": "c", "label": "Apresentar todos os dados brutos." },
+          { "value": "d", "label": "Fazer uma piada." }
+        ],
+        "explanation": "A introdução prepara o leitor para a Resposta, garantindo que ele entenda por que a Resposta é relevante.",
+        "hint": "Contexto.",
+        "correctAnswer": "b",
+        "bookExample": "A introdução deve ser um resumo da história que o leitor já conhece."
+      },
+      {
+        "id": "7",
+        "question": "O que é a 'Relação Vertical' na Pirâmide?",
+        "options": [
+          { "value": "a", "label": "A ligação entre ideias no mesmo nível." },
+          { "value": "b", "label": "A ligação entre uma ideia e as ideias que a suportam no nível abaixo (Pergunta/Resposta)." },
+          { "value": "c", "label": "A ligação entre a introdução e a conclusão." },
+          { "value": "d", "label": "A ligação entre o autor e o leitor." }
+        ],
+        "explanation": "A relação vertical garante que cada ponto seja suportado por evidências ou sub-argumentos.",
+        "hint": "Suporte hierárquico.",
+        "correctAnswer": "b",
+        "bookExample": "Cada ponto deve levantar uma pergunta que é respondida pelos pontos abaixo."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o principal benefício para o autor ao usar o Princípio da Pirâmide?",
+        "options": [
+          { "value": "a", "label": "Ele pode escrever mais rápido." },
+          { "value": "b", "label": "Força o autor a pensar de forma clara e lógica antes de começar a escrever." },
+          { "value": "c", "label": "Ele pode usar mais jargões." },
+          { "value": "d", "label": "Ele pode ignorar a audiência." }
+        ],
+        "explanation": "A clareza na escrita é um reflexo da clareza no pensamento.",
+        "hint": "Clareza mental.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não consegue estruturar seu pensamento, você não consegue estruturar sua escrita."
+      },
+      {
+        "id": "9",
+        "question": "O que é o 'Ponto Principal' (Main Point) na Pirâmide?",
+        "options": [
+          { "value": "a", "label": "O último parágrafo." },
+          { "value": "b", "label": "A ideia única e central que você quer que o leitor leve, colocada no topo." },
+          { "value": "c", "label": "Uma lista de fatos." },
+          { "value": "d", "label": "A Complicação." }
+        ],
+        "explanation": "Tudo na pirâmide deve convergir para suportar o Ponto Principal.",
+        "hint": "O topo da pirâmide.",
+        "correctAnswer": "b",
+        "bookExample": "O Ponto Principal deve ser uma afirmação, não um tópico."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o número ideal de sub-ideias para suportar uma ideia no nível acima?",
+        "options": [
+          { "value": "a", "label": "Apenas uma." },
+          { "value": "b", "label": "Três a sete." },
+          { "value": "c", "label": "Mais de dez." },
+          { "value": "d", "label": "Qualquer número." }
+        ],
+        "explanation": "A memória de curto prazo só consegue processar eficientemente de 3 a 7 itens.",
+        "hint": "Limite da memória de trabalho.",
+        "correctAnswer": "b",
+        "bookExample": "O número mágico é 7, mais ou menos 2."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "A Introdução: O Fluxo SCQ (Situação, Complicação, Pergunta)",
+    "teaser": "🎬 Sua introdução deve ser um trailer de cinema! Use a fórmula **SCQ** para prender o leitor e fazê-lo implorar pela Resposta.",
+    "level1": "A Introdução é a única parte que não segue a regra 'Resposta Primeiro'. Ela usa o fluxo SCQ (Situação, Complicação, Pergunta) para levar o leitor do que ele já sabe ao problema, culminando na Pergunta que a Resposta do topo da Pirâmide irá resolver.",
+    "level2": "A Situação (S) estabelece o contexto factual e inquestionável. A Complicação (C) é o evento que quebra essa normalidade e cria a tensão. A Pergunta (Q) é a questão lógica que a Complicação levanta.",
+    "level3": "O fluxo SCQ cria um 'gancho' narrativo, garantindo que o leitor entenda a relevância da sua Resposta antes mesmo de lê-la. A Resposta é colocada imediatamente após a Pergunta, iniciando a Pirâmide.",
+    "recapitulation": [
+      "A Introdução é a única exceção à regra 'Resposta Primeiro'.",
+      "SCQ = Situação (Contexto) → Complicação (Tensão) → Pergunta (Gancho).",
+      "A Situação deve ser um fato aceito, a Complicação é o 'porém'.",
+      "A Pergunta é o elo direto para a Resposta principal.",
+      "A Introdução cria relevância e engajamento."
+    ],
+    "practicalChecklist": [
+      "Defina a Situação: Qual é o terreno comum entre você e o leitor?",
+      "Identifique a Complicação: Qual é o problema ou evento que exige uma resposta?",
+      "Formule a Pergunta: Qual é a questão exata que a sua Resposta resolve?",
+      "Teste o fluxo: Leia S, C, Q e veja se ele leva naturalmente à sua Resposta.",
+      "Mantenha a Introdução concisa, focada e relevante para o leitor."
+    ],
+    "conclusionMessage": "A Introdução deve usar o fluxo SCQ para contextualizar o leitor, garantindo que ele entenda a Pergunta que a sua Resposta no topo da Pirâmide irá resolver.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a única parte da Pirâmide que não segue a regra 'Resposta Primeiro'?",
+        "options": [
+          { "value": "a", "label": "O primeiro nível de suporte." },
+          { "value": "b", "label": "A Introdução." },
+          { "value": "c", "label": "A conclusão." },
+          { "value": "d", "label": "Os dados brutos." }
+        ],
+        "explanation": "A Introdução precisa construir o contexto antes de entregar a resposta.",
+        "hint": "O início da comunicação.",
+        "correctAnswer": "b",
+        "bookExample": "A Introdução é a ponte entre o que o leitor sabe e o que você está prestes a dizer."
+      },
+      {
+        "id": "2",
+        "question": "O que representa a 'Situação' (S) no fluxo SCQ?",
+        "options": [
+          { "value": "a", "label": "O problema principal." },
+          { "value": "b", "label": "O contexto conhecido e aceito pelo leitor (o cenário normal)." },
+          { "value": "c", "label": "A Resposta." },
+          { "value": "d", "label": "A solução proposta." }
+        ],
+        "explanation": "A Situação estabelece o ponto de partida comum.",
+        "hint": "O cenário de fundo.",
+        "correctAnswer": "b",
+        "bookExample": "A Situação deve ser uma afirmação que o leitor aceita como verdadeira."
+      },
+      {
+        "id": "3",
+        "question": "O que representa a 'Complicação' (C) no fluxo SCQ?",
+        "options": [
+          { "value": "a", "label": "O que o leitor já sabe." },
+          { "value": "b", "label": "O evento que quebra a normalidade da Situação e cria a necessidade de uma resposta." },
+          { "value": "c", "label": "A Resposta final." },
+          { "value": "d", "label": "Os dados de suporte." }
+        ],
+        "explanation": "A Complicação é o 'porém' que gera a Pergunta.",
+        "hint": "O evento disruptivo.",
+        "correctAnswer": "b",
+        "bookExample": "A Complicação deve ser um evento que muda o estado da Situação."
+      },
+      {
+        "id": "4",
+        "question": "O que representa a 'Pergunta' (Q) no fluxo SCQ?",
+        "options": [
+          { "value": "a", "label": "A Resposta que você dará." },
+          { "value": "b", "label": "A questão que surge na mente do leitor após a Complicação, e que a Pirâmide irá resolver." },
+          { "value": "c", "label": "Uma lista de perguntas de acompanhamento." },
+          { "value": "d", "label": "O resumo da Situação." }
+        ],
+        "explanation": "A Pergunta é o link direto para a Resposta no topo da Pirâmide.",
+        "hint": "O elo com o topo.",
+        "correctAnswer": "b",
+        "bookExample": "A Pergunta deve ser a questão que o leitor faria se estivesse na sala."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de pular a Complicação na Introdução?",
+        "options": [
+          { "value": "a", "label": "A Pirâmide fica muito alta." },
+          { "value": "b", "label": "O leitor não entende por que a Resposta é importante ou por que ele precisa ler o resto do documento." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Situação fica muito longa." }
+        ],
+        "explanation": "A Complicação cria a tensão e a relevância.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "A Complicação é o motor da sua comunicação."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o tom ideal para a Situação?",
+        "options": [
+          { "value": "a", "label": "Controverso." },
+          { "value": "b", "label": "Neutro e factual, algo que o leitor aceita sem questionar." },
+          { "value": "c", "label": "Agressivo." },
+          { "value": "d", "label": "Emocional." }
+        ],
+        "explanation": "A Situação deve ser o terreno comum.",
+        "hint": "Terreno comum.",
+        "correctAnswer": "b",
+        "bookExample": "Comece com o que é conhecido e aceito."
+      },
+      {
+        "id": "7",
+        "question": "Onde a Resposta (o Ponto Principal) deve ser colocada em relação ao fluxo SCQ?",
+        "options": [
+          { "value": "a", "label": "Antes da Situação." },
+          { "value": "b", "label": "Imediatamente após a Pergunta (Q), iniciando a Pirâmide." },
+          { "value": "c", "label": "No meio da Complicação." },
+          { "value": "d", "label": "No final do documento." }
+        ],
+        "explanation": "O SCQ leva à Pergunta, e a Resposta resolve essa Pergunta, iniciando a estrutura hierárquica.",
+        "hint": "Resolução da Pergunta.",
+        "correctAnswer": "b",
+        "bookExample": "A Resposta é a primeira coisa que o leitor deve ver após a Introdução."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o principal benefício do fluxo SCQ para o leitor?",
+        "options": [
+          { "value": "a", "label": "Ele se sente mais inteligente." },
+          { "value": "b", "label": "Ele é guiado logicamente para o ponto de interesse, garantindo engajamento imediato." },
+          { "value": "c", "label": "Ele pode pular a Complicação." },
+          { "value": "d", "label": "Ele pode escrever sua própria Pirâmide." }
+        ],
+        "explanation": "O SCQ cria um 'gancho' narrativo.",
+        "hint": "Engajamento.",
+        "correctAnswer": "b",
+        "bookExample": "A Introdução deve ser um espelho da mente do leitor."
+      },
+      {
+        "id": "9",
+        "question": "Se a Situação é 'Nossas vendas estão estáveis há 3 anos' e a Complicação é 'Um novo concorrente entrou no mercado', qual seria a Pergunta mais provável?",
+        "options": [
+          { "value": "a", "label": "Qual é o nome do concorrente?" },
+          { "value": "b", "label": "Como devemos responder à nova ameaça competitiva para manter nossa posição?" },
+          { "value": "c", "label": "Devemos demitir a equipe de vendas?" },
+          { "value": "d", "label": "Qual é o nosso lucro?" }
+        ],
+        "explanation": "A Pergunta deve ser a questão lógica que a Complicação levanta.",
+        "hint": "Ação necessária.",
+        "correctAnswer": "b",
+        "bookExample": "A Pergunta deve ser a questão que o leitor faria se estivesse na sala."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o erro mais comum ao escrever a Situação?",
+        "options": [
+          { "value": "a", "label": "Torná-la muito curta." },
+          { "value": "b", "label": "Incluir informações que o leitor não aceita como verdadeiras ou que são controversas." },
+          { "value": "c", "label": "Torná-la muito longa." },
+          { "value": "d", "label": "Usar a Complicação." }
+        ],
+        "explanation": "A Situação deve ser o ponto de partida inquestionável.",
+        "hint": "Inquestionável.",
+        "correctAnswer": "b",
+        "bookExample": "A Situação deve ser um fato histórico ou uma verdade aceita."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "A Regra MECE: Mutuamente Exclusivo, Coletivamente Exaustivo",
+    "teaser": "🔑 O padrão ouro da consultoria: Suas categorias de argumentos não podem se misturar ou deixar nada de fora. **Seja MECE!**",
+    "level1": "MECE (Mutually Exclusive, Collectively Exhaustive) é a regra de ouro para estruturar os argumentos de suporte. Ela garante que seus argumentos sejam lógicos e completos.",
+    "level2": "Mutuamente Exclusivo (ME) significa que cada ponto de suporte é distinto e não se sobrepõe a outro (evitando confusão). Coletivamente Exaustivo (CE) significa que, juntos, os pontos cobrem todas as áreas relevantes do problema (garantindo completude).",
+    "level3": "A regra MECE é fundamental em todos os níveis de agrupamento da Pirâmide (horizontalmente). Falhar no MECE sugere um pensamento preguiçoso ou incompleto.",
+    "recapitulation": [
+      "MECE é o padrão de agrupamento lógico para todos os níveis de suporte.",
+      "ME (Mutuamente Exclusivo) = Sem sobreposição de ideias.",
+      "CE (Coletivamente Exaustivo) = Cobertura total do tópico.",
+      "Seus argumentos de Nível 2 devem ser MECE.",
+      "O não-MECE quebra a lógica e a credibilidade."
+    ],
+    "practicalChecklist": [
+      "Liste seus principais argumentos de suporte (Nível 2).",
+      "Teste o ME (Exclusividade): Se um argumento for verdadeiro, o outro pode ser? Se sim, reagrupe.",
+      "Teste o CE (Exaustividade): Alguma área importante ficou de fora? Se sim, adicione ou crie uma categoria mais ampla.",
+      "Use categorias universais (Pessoas, Processos, Tecnologia) ou temporais (Passado, Presente, Futuro) para forçar o MECE.",
+      "A cada novo nível de detalhe, verifique se os sub-pontos são MECE."
+    ],
+    "conclusionMessage": "A regra MECE é o padrão ouro para agrupar ideias. Ela garante que seus argumentos sejam completos (Exaustivos) e que não haja sobreposição (Exclusivos).",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que significa 'Mutuamente Exclusivo' (ME) na regra MECE?",
+        "options": [
+          { "value": "a", "label": "Os argumentos devem ser longos." },
+          { "value": "b", "label": "Cada argumento de suporte deve ser distinto e não deve haver sobreposição entre eles." },
+          { "value": "c", "label": "Os argumentos devem ser controversos." },
+          { "value": "d", "label": "Os argumentos devem ser dedutivos." }
+        ],
+        "explanation": "A exclusividade garante clareza e evita confusão.",
+        "hint": "Sem sobreposição.",
+        "correctAnswer": "b",
+        "bookExample": "A sobreposição confunde o leitor e sugere pensamento preguiçoso."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Coletivamente Exaustivo' (CE) na regra MECE?",
+        "options": [
+          { "value": "a", "label": "Os argumentos devem ser curtos." },
+          { "value": "b", "label": "Juntos, os argumentos de suporte devem cobrir todas as áreas relevantes do problema ou da Resposta." },
+          { "value": "c", "label": "Os argumentos devem ser emocionais." },
+          { "value": "d", "label": "Os argumentos devem ser apenas três." }
+        ],
+        "explanation": "A exaustividade garante que você não deixou de fora um ponto crucial.",
+        "hint": "Cobertura total.",
+        "correctAnswer": "b",
+        "bookExample": "A exaustividade garante que você pensou em todas as possibilidades."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o principal benefício de usar a regra MECE?",
+        "options": [
+          { "value": "a", "label": "Acelera a escrita." },
+          { "value": "b", "label": "Garante que o pensamento do autor seja completo e que a estrutura seja logicamente sólida." },
+          { "value": "c", "label": "Permite usar mais dados." },
+          { "value": "d", "label": "Torna o documento mais longo." }
+        ],
+        "explanation": "MECE é a prova de que o autor pensou de forma estruturada.",
+        "hint": "Solidez lógica.",
+        "correctAnswer": "b",
+        "bookExample": "A estrutura MECE é a base da credibilidade."
+      },
+      {
+        "id": "4",
+        "question": "Se você está dividindo um problema de negócios, qual é um exemplo de agrupamento MECE?",
+        "options": [
+          { "value": "a", "label": "Pessoas, Processos, Tecnologia." },
+          { "value": "b", "label": "Vendas, Marketing, Publicidade." },
+          { "value": "c", "label": "Custo, Preço, Lucro." },
+          { "value": "d", "label": "Ontem, Hoje, Amanhã." }
+        ],
+        "explanation": "Pessoas, Processos e Tecnologia são categorias distintas que, juntas, cobrem a maioria dos aspectos operacionais de uma empresa.",
+        "hint": "Categorias operacionais.",
+        "correctAnswer": "a",
+        "bookExample": "Use categorias universais (tempo, estrutura, processo) para garantir MECE."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de ter argumentos que se sobrepõem (Não ME)?",
+        "options": [
+          { "value": "a", "label": "O leitor fica entediado." },
+          { "value": "b", "label": "O leitor se confunde sobre a distinção dos pontos e questiona a lógica do autor." },
+          { "value": "c", "label": "O autor precisa escrever mais." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "A sobreposição sugere que o autor não pensou claramente sobre as categorias.",
+        "hint": "Confusão do leitor.",
+        "correctAnswer": "b",
+        "bookExample": "A sobreposição é o inimigo da clareza."
+      },
+      {
+        "id": "6",
+        "question": "Se você está usando o tempo como base para o agrupamento, qual é a estrutura MECE?",
+        "options": [
+          { "value": "a", "label": "Passado, Presente, Futuro." },
+          { "value": "b", "label": "Ontem, Hoje, Amanhã, Depois de Amanhã." },
+          { "value": "c", "label": "Manhã, Tarde, Noite." },
+          { "value": "d", "label": "Início, Meio, Fim." }
+        ],
+        "explanation": "Passado, Presente e Futuro cobrem exaustivamente o tempo e são mutuamente exclusivos.",
+        "hint": "Divisão temporal.",
+        "correctAnswer": "a",
+        "bookExample": "O tempo é uma das formas mais fáceis de garantir MECE."
+      },
+      {
+        "id": "7",
+        "question": "O que o autor deve fazer se não conseguir encontrar categorias MECE?",
+        "options": [
+          { "value": "a", "label": "Usar a lista de ideias sem agrupamento." },
+          { "value": "b", "label": "Revisitar a Pergunta e a Resposta para garantir que o problema foi definido corretamente." },
+          { "value": "c", "label": "Pedir ajuda a um colega." },
+          { "value": "d", "label": "Focar apenas em argumentos dedutivos." }
+        ],
+        "explanation": "A dificuldade em estruturar geralmente reflete a falta de clareza na definição do problema.",
+        "hint": "Redefinição do problema.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza da estrutura depende da clareza do pensamento."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de ter argumentos que não são Coletivamente Exaustivos (Não CE)?",
+        "options": [
+          { "value": "a", "label": "O leitor fica entediado." },
+          { "value": "b", "label": "O leitor sente que o autor deixou de fora uma área importante, questionando a competência da análise." },
+          { "value": "c", "label": "O autor precisa escrever menos." },
+          { "value": "d", "label": "A Pirâmide fica muito estreita." }
+        ],
+        "explanation": "A falta de exaustividade sugere que a análise é incompleta.",
+        "hint": "Incompletude.",
+        "correctAnswer": "b",
+        "bookExample": "A exaustividade é a prova de que você pensou em tudo."
+      },
+      {
+        "id": "9",
+        "question": "A regra MECE se aplica a quais níveis da Pirâmide?",
+        "options": [
+          { "value": "a", "label": "Apenas ao topo." },
+          { "value": "b", "label": "A todos os níveis abaixo da Resposta, onde as ideias são agrupadas para suportar a ideia acima." },
+          { "value": "c", "label": "Apenas à Introdução." },
+          { "value": "d", "label": "Apenas aos dados brutos." }
+        ],
+        "explanation": "A lógica MECE deve ser mantida em toda a estrutura de suporte.",
+        "hint": "Estrutura de suporte.",
+        "correctAnswer": "b",
+        "bookExample": "A Pirâmide é uma série de agrupamentos MECE."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o erro mais comum ao tentar criar categorias MECE?",
+        "options": [
+          { "value": "a", "label": "Usar muitas categorias." },
+          { "value": "b", "label": "Usar categorias que são muito amplas ou que se sobrepõem (falha em ME)." },
+          { "value": "c", "label": "Usar categorias que são muito específicas." },
+          { "value": "d", "label": "Usar categorias que são muito curtas." }
+        ],
+        "explanation": "A sobreposição é o erro mais frequente, pois é difícil encontrar categorias que sejam verdadeiramente distintas.",
+        "hint": "Distinção.",
+        "correctAnswer": "b",
+        "bookExample": "A sobreposição é o inimigo da clareza."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Relações Horizontais: Dedução vs. Indução",
+    "teaser": "👯 Seus argumentos se movem lado a lado. Eles formam uma cadeia de lógica (Dedução) ou uma lista de fatos (Indução)?",
+    "level1": "As ideias agrupadas em um mesmo nível (horizontalmente) devem ter uma relação lógica clara. Essa relação pode ser Dedução ou Indução. Ambas devem seguir o princípio MECE.",
+    "level2": "A Dedução (mais rigorosa) forma um silogismo: Premissa Geral + Fato Específico = Conclusão Inevitável (a ideia superior). É mais persuasiva, mas menos comum em relatórios de negócios.",
+    "level3": "A Indução (mais comum em negócios) é o agrupamento de fatos ou razões semelhantes (ex: Razão 1, Razão 2, Razão 3). A conclusão (ideia superior) é uma inferência tirada da lista, sendo mais rápida de ler e memorizar.",
+    "recapitulation": [
+      "Relação Horizontal = Ligação entre ideias no mesmo nível.",
+      "Dedução = Silogismo (P1 + P2 = Conclusão Inevitável).",
+      "Indução = Lista de fatos/razões semelhantes que, juntas, suportam a ideia superior.",
+      "A Indução é mais rápida para comunicação de negócios.",
+      "Não misture Dedução e Indução no mesmo agrupamento horizontal."
+    ],
+    "practicalChecklist": [
+      "Identifique o tipo de suporte: Você está *provando* (Dedução) ou *apoiando* (Indução) a ideia superior?",
+      "Se for Dedução: Garanta que todas as suas premissas sejam aceitas pelo leitor.",
+      "Se for Indução: Certifique-se de que todos os itens da lista sejam logicamente homogêneos (todos problemas, todos passos, etc.).",
+      "Use Indução para listas de 3 a 7 itens de suporte."
+    ],
+    "conclusionMessage": "As ideias em um mesmo nível da Pirâmide devem se relacionar horizontalmente, seja por um argumento dedutivo (silogismo) ou indutivo (agrupamento de fatos semelhantes).",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que define uma relação 'DEDUTIVA' entre ideias em um mesmo nível?",
+        "options": [
+          { "value": "a", "label": "As ideias são agrupadas por similaridade." },
+          { "value": "b", "label": "As ideias formam uma sequência lógica (silogismo) onde a primeira afirmação leva à segunda, e ambas levam à conclusão acima." },
+          { "value": "c", "label": "As ideias são independentes." },
+          { "value": "d", "label": "As ideias são controversas." }
+        ],
+        "explanation": "A dedução é uma cadeia de raciocínio.",
+        "hint": "Cadeia de raciocínio.",
+        "correctAnswer": "b",
+        "bookExample": "A dedução é a forma mais rigorosa de suporte lógico."
+      },
+      {
+        "id": "2",
+        "question": "O que define uma relação 'INDUTIVA' entre ideias em um mesmo nível?",
+        "options": [
+          { "value": "a", "label": "As ideias formam uma sequência temporal." },
+          { "value": "b", "label": "As ideias são agrupadas porque são semelhantes e, juntas, suportam a ideia principal acima." },
+          { "value": "c", "label": "As ideias são contraditórias." },
+          { "value": "d", "label": "As ideias são longas." }
+        ],
+        "explanation": "A indução é um agrupamento de evidências.",
+        "hint": "Agrupamento por similaridade.",
+        "correctAnswer": "b",
+        "bookExample": "A indução é a forma mais comum de suporte em relatórios de negócios."
+      },
+      {
+        "id": "3",
+        "question": "Qual tipo de relação horizontal é mais comum em relatórios de negócios?",
+        "options": [
+          { "value": "a", "label": "Dedução." },
+          { "value": "b", "label": "Indução (agrupamento de razões, problemas ou soluções)." },
+          { "value": "c", "label": "Relação vertical." },
+          { "value": "d", "label": "Nenhuma." }
+        ],
+        "explanation": "Relatórios de negócios geralmente listam razões ou problemas que, juntos, levam a uma conclusão.",
+        "hint": "Listas de razões.",
+        "correctAnswer": "b",
+        "bookExample": "A indução é mais fácil de construir e mais rápida de ler."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de misturar Dedução e Indução no mesmo grupo horizontal?",
+        "options": [
+          { "value": "a", "label": "O leitor fica entediado." },
+          { "value": "b", "label": "Quebra a lógica da Pirâmide, pois o leitor não consegue entender a relação entre os pontos." },
+          { "value": "c", "label": "O autor precisa escrever mais." },
+          { "value": "d", "label": "A Pirâmide fica muito estreita." }
+        ],
+        "explanation": "A consistência na relação horizontal é crucial para a clareza.",
+        "hint": "Consistência lógica.",
+        "correctAnswer": "b",
+        "bookExample": "Mantenha a consistência lógica em cada agrupamento."
+      },
+      {
+        "id": "5",
+        "question": "Se você está usando a Dedução, qual é a ordem correta dos argumentos?",
+        "options": [
+          { "value": "a", "label": "Conclusão, Premissa 1, Premissa 2." },
+          { "value": "b", "label": "Premissa 1 (Afirmação Geral), Premissa 2 (Afirmação Específica), Conclusão (Implicação)." },
+          { "value": "c", "label": "Premissa 2, Premissa 1, Conclusão." },
+          { "value": "d", "label": "Conclusão, Premissa 2, Premissa 1." }
+        ],
+        "explanation": "A dedução segue o formato de silogismo clássico.",
+        "hint": "Silogismo.",
+        "correctAnswer": "b",
+        "bookExample": "A dedução deve ser uma sequência de passos lógicos."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o principal benefício da Dedução?",
+        "options": [
+          { "value": "a", "label": "É mais rápido de escrever." },
+          { "value": "b", "label": "É mais persuasivo, pois a conclusão é inevitável se as premissas forem aceitas." },
+          { "value": "c", "label": "É mais fácil de ler." },
+          { "value": "d", "label": "É mais comum." }
+        ],
+        "explanation": "A inevitabilidade lógica é altamente persuasiva.",
+        "hint": "Persuasão lógica.",
+        "correctAnswer": "b",
+        "bookExample": "Use a dedução quando a lógica for o ponto principal."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o principal benefício da Indução?",
+        "options": [
+          { "value": "a", "label": "É mais rigoroso logicamente." },
+          { "value": "b", "label": "É mais fácil de ler e memorizar, pois agrupa ideias semelhantes sob um único ponto." },
+          { "value": "c", "label": "É mais longo." },
+          { "value": "d", "label": "É mais difícil de escrever." }
+        ],
+        "explanation": "A indução é mais amigável para a memória de curto prazo.",
+        "hint": "Amigável para a memória.",
+        "correctAnswer": "b",
+        "bookExample": "A indução é a forma mais comum de comunicação de negócios."
+      },
+      {
+        "id": "8",
+        "question": "O que a 'Relação Horizontal' garante?",
+        "options": [
+          { "value": "a", "label": "Que a Pirâmide seja alta." },
+          { "value": "b", "label": "Que as ideias no mesmo nível sejam logicamente conectadas e sigam a regra MECE." },
+          { "value": "c", "label": "Que a Introdução seja curta." },
+          { "value": "d", "label": "Que a Resposta seja controversa." }
+        ],
+        "explanation": "A relação horizontal é a coesão interna de cada grupo.",
+        "hint": "Coesão interna.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza da Pirâmide depende da clareza das relações horizontais e verticais."
+      },
+      {
+        "id": "9",
+        "question": "Se você está listando 'Três Razões para o Sucesso', qual tipo de relação horizontal você está usando?",
+        "options": [
+          { "value": "a", "label": "Dedução." },
+          { "value": "b", "label": "Indução." },
+          { "value": "c", "label": "Vertical." },
+          { "value": "d", "label": "Silogismo." }
+        ],
+        "explanation": "Listar razões é um agrupamento por similaridade (Indução).",
+        "hint": "Agrupamento.",
+        "correctAnswer": "b",
+        "bookExample": "A Indução é a lista de fatos que, juntos, suportam uma ideia."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o erro mais comum ao usar a Dedução?",
+        "options": [
+          { "value": "a", "label": "Usar muitas premissas." },
+          { "value": "b", "label": "Ter uma premissa que não é aceita como verdadeira pelo leitor, invalidando a conclusão." },
+          { "value": "c", "label": "Usar premissas muito curtas." },
+          { "value": "d", "label": "Usar premissas muito longas." }
+        ],
+        "explanation": "Se o leitor rejeita uma premissa, toda a cadeia dedutiva falha.",
+        "hint": "Aceitação da premissa.",
+        "correctAnswer": "b",
+        "bookExample": "A força da dedução é igual à força da sua premissa mais fraca."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "A Relação Vertical: Pergunta e Resposta",
+    "teaser": "🪜 Como a Pirâmide se mantém em pé? Cada ponto de cima deve gerar uma Pergunta que é respondida pelo nível de baixo. É o diálogo lógico!",
+    "level1": "A relação vertical é a espinha dorsal da Pirâmide, conectando a Resposta principal aos argumentos de suporte. Ela é uma série contínua de 'Pergunta e Resposta' de cima para baixo.",
+    "level2": "Cada ideia em um nível superior (ex: 'Devemos investir em IA') levanta uma pergunta implícita na mente do leitor (ex: 'Por quê?'). As ideias no nível imediatamente abaixo (Nível 2) devem responder a essa pergunta de forma completa (MECE).",
+    "level3": "Essa relação garante que o leitor nunca se perca, pois cada ponto é uma resposta lógica ao ponto anterior. A quebra da relação vertical (salto lógico) é o erro mais grave, pois desmorona a credibilidade.",
+    "recapitulation": [
+      "Relação Vertical = Ligação entre diferentes níveis da Pirâmide.",
+      "Princípio: Ideia Superior levanta uma Pergunta → Ideias Inferiores fornecem a Resposta MECE.",
+      "Perguntas mais comuns: 'Por que isso é verdade?' ou 'Como faremos isso?'.",
+      "A falha vertical (salto lógico) quebra a clareza e a credibilidade.",
+      "A Resposta no topo resolve a Pergunta da Introdução (SCQ)."
+    ],
+    "practicalChecklist": [
+      "Em cada nível, leia a ideia superior e pergunte: 'Qual pergunta natural isso levanta na mente do leitor?'",
+      "Verifique se o próximo nível responde *diretamente* a essa pergunta.",
+      "Garanta que a resposta no nível inferior seja MECE (se a pergunta é 'Como?', a resposta deve ser os passos MECE).",
+      "Evite 'saltos lógicos' onde a conclusão não é diretamente suportada pelos fatos abaixo."
+    ],
+    "conclusionMessage": "A relação vertical garante que cada ideia na Pirâmide seja uma resposta direta à pergunta levantada pela ideia imediatamente acima dela.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que a 'Relação Vertical' garante na Pirâmide?",
+        "options": [
+          { "value": "a", "label": "Que todas as ideias sejam do mesmo tipo." },
+          { "value": "b", "label": "Que a ideia superior seja suportada logicamente pelas ideias inferiores (Pergunta/Resposta)." },
+          { "value": "c", "label": "Que a Pirâmide seja larga." },
+          { "value": "d", "label": "Que a Introdução seja longa." }
+        ],
+        "explanation": "A relação vertical é o suporte hierárquico.",
+        "hint": "Suporte hierárquico.",
+        "correctAnswer": "b",
+        "bookExample": "A Pirâmide é construída através de um diálogo contínuo de Pergunta e Resposta."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a pergunta implícita mais comum que uma ideia superior levanta?",
+        "options": [
+          { "value": "a", "label": "O que é isso?" },
+          { "value": "b", "label": "Por que isso é verdade? ou Como você fará isso?" },
+          { "value": "c", "label": "Quando isso acontecerá?" },
+          { "value": "d", "label": "Quem fará isso?" }
+        ],
+        "explanation": "As ideias de suporte geralmente respondem a 'Por que' (razões) ou 'Como' (ações).",
+        "hint": "Razões ou ações.",
+        "correctAnswer": "b",
+        "bookExample": "A ideia superior deve ser uma afirmação que levanta uma questão na mente do leitor."
+      },
+      {
+        "id": "3",
+        "question": "O que acontece se a ideia inferior não responder diretamente à pergunta levantada pela ideia superior?",
+        "options": [
+          { "value": "a", "label": "O leitor fica feliz." },
+          { "value": "b", "label": "A lógica da Pirâmide é quebrada, e o leitor se sente confuso ou desorientado." },
+          { "value": "c", "label": "O autor precisa escrever mais." },
+          { "value": "d", "label": "A Pirâmide fica mais forte." }
+        ],
+        "explanation": "A quebra da relação vertical é o erro mais grave na estrutura.",
+        "hint": "Quebra de lógica.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza da Pirâmide depende da clareza da relação vertical."
+      },
+      {
+        "id": "4",
+        "question": "Se a ideia superior é 'Devemos mudar o foco para o mercado B', e as ideias inferiores são 'O mercado B é maior' e 'O mercado B tem menos concorrência', qual é a pergunta implícita?",
+        "options": [
+          { "value": "a", "label": "O que é o mercado B?" },
+          { "value": "b", "label": "Por que devemos mudar o foco para o mercado B?" },
+          { "value": "c", "label": "Como faremos a mudança?" },
+          { "value": "d", "label": "Quem fará a mudança?" }
+        ],
+        "explanation": "As ideias inferiores fornecem as razões ('Por que') para a afirmação superior.",
+        "hint": "Razões.",
+        "correctAnswer": "b",
+        "bookExample": "As ideias inferiores devem ser a resposta MECE à pergunta superior."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de ter mais de 7 ideias em um nível inferior?",
+        "options": [
+          { "value": "a", "label": "A relação vertical é quebrada." },
+          { "value": "b", "label": "O leitor não consegue reter todas as ideias, e o autor deve agrupá-las em categorias MECE mais amplas." },
+          { "value": "c", "label": "A relação horizontal é quebrada." },
+          { "value": "d", "label": "O autor precisa escrever menos." }
+        ],
+        "explanation": "O limite de 7 itens é crucial para a retenção.",
+        "hint": "Limite da memória.",
+        "correctAnswer": "b",
+        "bookExample": "O número mágico é 7, mais ou menos 2."
+      },
+      {
+        "id": "6",
+        "question": "O que o autor deve fazer se a ideia superior for uma 'Ação' (ex: 'Devemos fazer X')?",
+        "options": [
+          { "value": "a", "label": "As ideias inferiores devem ser as razões ('Por que') ou os passos ('Como') para realizar a ação." },
+          { "value": "b", "label": "As ideias inferiores devem ser os dados brutos." },
+          { "value": "c", "label": "As ideias inferiores devem ser a Complicação." },
+          { "value": "d", "label": "As ideias inferiores devem ser a Situação." }
+        ],
+        "explanation": "Ações levantam perguntas sobre justificação ou implementação.",
+        "hint": "Justificação ou implementação.",
+        "correctAnswer": "a",
+        "bookExample": "Ações levantam a questão 'Como?' ou 'Por que?'"
+      },
+      {
+        "id": "7",
+        "question": "O que o autor deve fazer se a ideia superior for uma 'Conclusão' (ex: 'O problema é Y')?",
+        "options": [
+          { "value": "a", "label": "As ideias inferiores devem ser os dados ou fatos que provam que a conclusão é verdadeira ('O que leva a essa conclusão?')." },
+          { "value": "b", "label": "As ideias inferiores devem ser as ações." },
+          { "value": "c", "label": "As ideias inferiores devem ser a Complicação." },
+          { "value": "d", "label": "As ideias inferiores devem ser a Situação." }
+        ],
+        "explanation": "Conclusões exigem evidências.",
+        "hint": "Evidências.",
+        "correctAnswer": "a",
+        "bookExample": "Conclusões levantam a questão 'O que te faz dizer isso?'"
+      },
+      {
+        "id": "8",
+        "question": "Qual é o principal benefício de manter a relação vertical clara?",
+        "options": [
+          { "value": "a", "label": "O documento fica mais longo." },
+          { "value": "b", "label": "Garante que o leitor nunca se perca, pois cada ponto é uma resposta lógica ao ponto anterior." },
+          { "value": "c", "label": "O autor pode usar mais jargões." },
+          { "value": "d", "label": "A Pirâmide fica mais larga." }
+        ],
+        "explanation": "A clareza vertical é a espinha dorsal da comunicação.",
+        "hint": "Espinha dorsal.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza da Pirâmide é a clareza do seu pensamento."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Testar a Relação Vertical'?",
+        "options": [
+          { "value": "a", "label": "Perguntar a um colega se ele entende." },
+          { "value": "b", "label": "Garantir que a ideia superior levante uma pergunta e que as ideias inferiores a respondam de forma MECE." },
+          { "value": "c", "label": "Contar o número de palavras." },
+          { "value": "d", "label": "Usar cores diferentes." }
+        ],
+        "explanation": "O teste é a aplicação da regra Pergunta/Resposta.",
+        "hint": "Pergunta/Resposta.",
+        "correctAnswer": "b",
+        "bookExample": "Se a relação vertical falhar, a Pirâmide desmorona."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o erro mais comum ao tentar manter a relação vertical?",
+        "options": [
+          { "value": "a", "label": "Usar muitas ideias." },
+          { "value": "b", "label": "As ideias inferiores não são MECE, ou não respondem diretamente à pergunta superior." },
+          { "value": "c", "label": "Usar ideias muito curtas." },
+          { "value": "d", "label": "Usar ideias muito longas." }
+        ],
+        "explanation": "A falha em MECE ou a irrelevância são os principais problemas.",
+        "hint": "Irrelevância ou incompletude.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza da Pirâmide depende da clareza da relação vertical."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Construindo a Pirâmide de Baixo para Cima",
+    "teaser": "🏗️ Como um bom construtor: A apresentação é de cima para baixo (Resposta Primeiro), mas o processo de criação é **de baixo para cima!**",
+    "level1": "Embora a comunicação seja 'Resposta Primeiro' (de cima para baixo), o processo de pensamento e estruturação deve ser 'de baixo para cima'. Isso significa que a conclusão deve emergir dos dados, e não ser imposta a eles.",
+    "level2": "Você deve começar com os dados e fatos brutos (base), agrupá-los em conclusões lógicas (Nível 2, usando Indução/MECE) e, em seguida, usar essas conclusões para formar a ideia principal no topo (Resposta).",
+    "level3": "Construir de baixo para cima garante que sua Resposta seja robusta e inquestionável, baseada em uma base sólida de evidências. Tentar impor uma conclusão aos dados resulta em lógica fraca ou forçada.",
+    "recapitulation": [
+      "Apresentação = De cima para baixo (Resposta Primeiro).",
+      "Processo de Construção/Pensamento = De baixo para cima (Dados Primeiro).",
+      "Comece com fatos → Agrupe em conclusões (Indução/MECE) → Resuma na Resposta principal.",
+      "O objetivo é que a Resposta *emerja* das evidências, não seja *imposta* a elas.",
+      "A base da Pirâmide é a força da sua credibilidade."
+    ],
+    "practicalChecklist": [
+      "Colete todos os dados e fatos relevantes (sua base de evidências).",
+      "Agrupe esses dados por similaridade em 3 a 7 categorias (Teste a Homogeneidade e o MECE).",
+      "Crie uma afirmação (Conclusão) que encapsule o significado de cada grupo (Este é o seu Nível 2).",
+      "Use o Nível 2 para criar o Ponto Principal (Resposta) no topo da Pirâmide.",
+      "Sempre verifique se a sua Resposta reflete a realidade dos dados na base."
+    ],
+    "conclusionMessage": "Construir de baixo para cima é o processo de refinar os dados brutos em conclusões lógicas, garantindo que a estrutura seja sólida antes de definir a Resposta final.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a ordem correta para o processo de pensamento ao construir a Pirâmide?",
+        "options": [
+          { "value": "a", "label": "Resposta, Argumentos, Dados." },
+          { "value": "b", "label": "Dados Brutos, Agrupamento (MECE), Conclusão (Resposta)." },
+          { "value": "c", "label": "Introdução, Resposta, Conclusão." },
+          { "value": "d", "label": "Complicação, Situação, Pergunta." }
+        ],
+        "explanation": "O pensamento deve ser indutivo (de baixo para cima) para garantir que a conclusão seja baseada em evidências.",
+        "hint": "Evidências primeiro.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza na escrita é um reflexo da clareza no pensamento."
+      },
+      {
+        "id": "2",
+        "question": "O que acontece se o autor tentar construir a Pirâmide de cima para baixo (Resposta primeiro)?",
+        "options": [
+          { "value": "a", "label": "O documento fica mais persuasivo." },
+          { "value": "b", "label": "O autor pode forçar os dados a se encaixarem em uma conclusão predeterminada, resultando em uma lógica fraca." },
+          { "value": "c", "label": "O documento fica mais curto." },
+          { "value": "d", "label": "A regra MECE é garantida." }
+        ],
+        "explanation": "A conclusão deve emergir dos dados, não ser imposta a eles.",
+        "hint": "Conclusão forçada.",
+        "correctAnswer": "b",
+        "bookExample": "Não force a lógica. Deixe a lógica emergir."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel dos 'Dados Brutos' no nível mais baixo da Pirâmide?",
+        "options": [
+          { "value": "a", "label": "Serem a Resposta." },
+          { "value": "b", "label": "Serem a base factual e inquestionável que suporta as conclusões acima." },
+          { "value": "c", "label": "Serem a Complicação." },
+          { "value": "d", "label": "Serem a Introdução." }
+        ],
+        "explanation": "Os dados brutos são a evidência primária.",
+        "hint": "Evidência primária.",
+        "correctAnswer": "b",
+        "bookExample": "Os fatos são a base da sua credibilidade."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Agrupamento por Similaridade' ao construir de baixo para cima?",
+        "options": [
+          { "value": "a", "label": "Agrupar ideias que se contradizem." },
+          { "value": "b", "label": "Agrupar fatos ou dados que levam à mesma conclusão lógica (Indução)." },
+          { "value": "c", "label": "Agrupar ideias em ordem alfabética." },
+          { "value": "d", "label": "Agrupar ideias em ordem de importância." }
+        ],
+        "explanation": "O agrupamento indutivo é a forma mais comum de refinar dados em conclusões.",
+        "hint": "Indução.",
+        "correctAnswer": "b",
+        "bookExample": "A mente humana naturalmente agrupa ideias semelhantes."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de ter um 'Salto Lógico' (Logical Leap) entre os níveis?",
+        "options": [
+          { "value": "a", "label": "O documento fica muito longo." },
+          { "value": "b", "label": "O leitor não consegue seguir a lógica e questiona a validade da conclusão." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "Cada nível deve ser uma resposta direta e lógica ao nível acima.",
+        "hint": "Quebra de lógica vertical.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza da Pirâmide depende da clareza da relação vertical."
+      },
+      {
+        "id": "6",
+        "question": "O que o autor deve fazer se os dados brutos não se encaixarem em categorias MECE?",
+        "options": [
+          { "value": "a", "label": "Forçar o encaixe." },
+          { "value": "b", "label": "Revisitar a definição do problema e a Pergunta para encontrar um novo agrupamento lógico." },
+          { "value": "c", "label": "Ignorar os dados que não se encaixam." },
+          { "value": "d", "label": "Mudar a Resposta." }
+        ],
+        "explanation": "A estrutura MECE deve ser natural, não forçada.",
+        "hint": "Naturalidade.",
+        "correctAnswer": "b",
+        "bookExample": "Se a estrutura não for MECE, o pensamento não está claro."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o principal benefício de construir de baixo para cima?",
+        "options": [
+          { "value": "a", "label": "Garante que a Introdução seja curta." },
+          { "value": "b", "label": "Garante que a Resposta final seja robusta e inquestionável, baseada em fatos." },
+          { "value": "c", "label": "Permite usar mais jargões." },
+          { "value": "d", "label": "O leitor se sente mais inteligente." }
+        ],
+        "explanation": "A robustez da conclusão é o objetivo.",
+        "hint": "Robustez.",
+        "correctAnswer": "b",
+        "bookExample": "A força da sua Pirâmide é determinada pela força da sua base."
+      },
+      {
+        "id": "8",
+        "question": "O que significa 'Resumir' ao subir de nível na Pirâmide?",
+        "options": [
+          { "value": "a", "label": "Repetir as ideias do nível inferior." },
+          { "value": "b", "label": "Criar uma nova afirmação que encapsula o significado coletivo das ideias do nível inferior." },
+          { "value": "c", "label": "Fazer uma pergunta." },
+          { "value": "d", "label": "Usar a Complicação." }
+        ],
+        "explanation": "Cada nível superior é um resumo do nível inferior.",
+        "hint": "Encapsulamento.",
+        "correctAnswer": "b",
+        "bookExample": "As ideias em cada nível devem ser um resumo das ideias agrupadas abaixo delas."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o erro mais comum ao resumir de baixo para cima?",
+        "options": [
+          { "value": "a", "label": "O resumo é muito curto." },
+          { "value": "b", "label": "O resumo não é uma conclusão, mas apenas um tópico ou uma lista de ideias." },
+          { "value": "c", "label": "O resumo é muito longo." },
+          { "value": "d", "label": "O resumo é muito controverso." }
+        ],
+        "explanation": "O Ponto Principal deve ser uma afirmação, não um tópico.",
+        "hint": "Afirmação.",
+        "correctAnswer": "b",
+        "bookExample": "O Ponto Principal deve ser uma afirmação, não um tópico."
+      },
+      {
+        "id": "10",
+        "question": "O que a 'Relação Vertical' de baixo para cima ajuda a testar?",
+        "options": [
+          { "value": "a", "label": "A aceitação do leitor." },
+          { "value": "b", "label": "Se a conclusão superior é logicamente suportada pelos argumentos inferiores." },
+          { "value": "c", "label": "A clareza da Introdução." },
+          { "value": "d", "label": "A regra MECE." }
+        ],
+        "explanation": "O teste de suporte lógico é a essência da construção de baixo para cima.",
+        "hint": "Suporte lógico.",
+        "correctAnswer": "b",
+        "bookExample": "A Pirâmide é construída através de um diálogo contínuo de Pergunta e Resposta."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "A Estrutura da Introdução: O Ponto de Partida",
+    "teaser": "🤝 Comece a história pelo que todos concordam. O 'S' da Situação é o seu **terreno comum**, inquestionável e relevante.",
+    "level1": "A Situação (S) é o primeiro elemento do fluxo SCQ. Ela deve ser uma afirmação factual, neutra e inquestionável que o leitor aceita como verdadeira. Isso estabelece o terreno comum e a credibilidade.",
+    "level2": "O propósito é criar uma ponte de alinhamento com o leitor. Você não pode começar com a Complicação (o problema) se o leitor não estiver alinhado com o contexto (a Situação).",
+    "level3": "A Situação deve ser concisa e relevante para o problema que será introduzido (a Complicação), mas não deve incluir a Complicação ou a Resposta. É o 'cenário normal' antes da reviravolta.",
+    "recapitulation": [
+      "Situação (S) = Contexto conhecido e aceito pelo leitor.",
+      "Deve ser factual, neutra e inquestionável.",
+      "Cria alinhamento e credibilidade inicial.",
+      "Deve ser concisa e relevante para a Complicação.",
+      "Evite começar com opiniões controversas."
+    ],
+    "practicalChecklist": [
+      "Identifique o ponto de partida que seu público-alvo já aceita (ex: 'O mercado de SaaS cresceu 15%').",
+      "Escreva a Situação em uma ou duas frases, no máximo.",
+      "Teste se a sua Situação é *necessária* para entender o contexto do problema.",
+      "Evite incluir a Complicação ou a Resposta na Situação – espere o momento certo no fluxo SCQ."
+    ],
+    "conclusionMessage": "A Introdução deve começar com a Situação (o que é conhecido) para estabelecer um ponto de partida inquestionável com o leitor.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o propósito principal da 'Situação' na Introdução?",
+        "options": [
+          { "value": "a", "label": "Apresentar a Resposta." },
+          { "value": "b", "label": "Estabelecer um ponto de partida factual e inquestionável que o leitor aceita como verdadeiro." },
+          { "value": "c", "label": "Criar controvérsia." },
+          { "value": "d", "label": "Fazer uma pergunta." }
+        ],
+        "explanation": "A Situação é o terreno comum.",
+        "hint": "Terreno comum.",
+        "correctAnswer": "b",
+        "bookExample": "Comece com o que é conhecido e aceito."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o tom ideal para a Situação?",
+        "options": [
+          { "value": "a", "label": "Emocional." },
+          { "value": "b", "label": "Neutro e factual." },
+          { "value": "c", "label": "Agressivo." },
+          { "value": "d", "label": "Controverso." }
+        ],
+        "explanation": "A Situação deve ser um fato, não uma opinião.",
+        "hint": "Fato.",
+        "correctAnswer": "b",
+        "bookExample": "A Situação deve ser uma afirmação que o leitor aceita como verdadeira."
+      },
+      {
+        "id": "3",
+        "question": "O que a Situação deve evitar?",
+        "options": [
+          { "value": "a", "label": "Ser muito curta." },
+          { "value": "b", "label": "Incluir a Complicação ou a Resposta." },
+          { "value": "c", "label": "Ser muito longa." },
+          { "value": "d", "label": "Ser muito detalhada." }
+        ],
+        "explanation": "A Situação deve ser apenas o cenário, sem o problema ou a solução.",
+        "hint": "Cenário.",
+        "correctAnswer": "b",
+        "bookExample": "A Situação é o cenário normal."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de começar a Introdução com a Complicação?",
+        "options": [
+          { "value": "a", "label": "O leitor se sente engajado." },
+          { "value": "b", "label": "O leitor pode não entender o contexto do problema, perdendo a relevância da Complicação." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito alta." }
+        ],
+        "explanation": "O contexto (Situação) deve vir antes do problema (Complicação).",
+        "hint": "Contexto.",
+        "correctAnswer": "b",
+        "bookExample": "A Situação é a ponte entre o que o leitor sabe e o que você está prestes a dizer."
+      },
+      {
+        "id": "5",
+        "question": "O que a Situação deve fazer para preparar o leitor para a Complicação?",
+        "options": [
+          { "value": "a", "label": "Ser muito longa." },
+          { "value": "b", "label": "Ser relevante para o problema que será apresentado, mas sem revelar o problema em si." },
+          { "value": "c", "label": "Ser muito curta." },
+          { "value": "d", "label": "Ser muito detalhada." }
+        ],
+        "explanation": "A Situação deve ser o cenário onde a Complicação irá ocorrer.",
+        "hint": "Cenário.",
+        "correctAnswer": "b",
+        "bookExample": "A Situação deve ser o ponto de partida inquestionável."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o erro mais comum ao escrever a Situação?",
+        "options": [
+          { "value": "a", "label": "Torná-la muito curta." },
+          { "value": "b", "label": "Incluir informações que o leitor não aceita como verdadeiras ou que são controversas." },
+          { "value": "c", "label": "Torná-la muito longa." },
+          { "value": "d", "label": "Usar a Complicação." }
+        ],
+        "explanation": "A Situação deve ser o ponto de partida inquestionável.",
+        "hint": "Inquestionável.",
+        "correctAnswer": "b",
+        "bookExample": "A Situação deve ser um fato histórico ou uma verdade aceita."
+      },
+      {
+        "id": "7",
+        "question": "O que a Situação deve fazer para o leitor?",
+        "options": [
+          { "value": "a", "label": "Fazer uma pergunta." },
+          { "value": "b", "label": "Fazer o leitor se sentir confortável e alinhado com o autor." },
+          { "value": "c", "label": "Criar tensão." },
+          { "value": "d", "label": "Apresentar a Resposta." }
+        ],
+        "explanation": "O alinhamento inicial é crucial para a credibilidade.",
+        "hint": "Alinhamento.",
+        "correctAnswer": "b",
+        "bookExample": "A Introdução deve ser um espelho da mente do leitor."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a diferença entre a Situação e a Complicação?",
+        "options": [
+          { "value": "a", "label": "Nenhuma, são a mesma coisa." },
+          { "value": "b", "label": "A Situação é o cenário normal, e a Complicação é o evento que quebra essa normalidade." },
+          { "value": "c", "label": "A Situação é a Resposta, e a Complicação é a Pergunta." },
+          { "value": "d", "label": "A Situação é a Conclusão, e a Complicação são os dados." }
+        ],
+        "explanation": "A Complicação é o motor da comunicação.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "A Complicação deve ser um evento que muda o estado da Situação."
+      },
+      {
+        "id": "9",
+        "question": "Se a Situação é 'Nossa empresa tem 10 anos de mercado', qual seria uma Complicação relevante?",
+        "options": [
+          { "value": "a", "label": "Nossas vendas cresceram 10%." },
+          { "value": "b", "label": "A tecnologia que usamos está obsoleta e o concorrente lançou um produto superior." },
+          { "value": "c", "label": "Temos 100 funcionários." },
+          { "value": "d", "label": "O mercado está estável." }
+        ],
+        "explanation": "A Complicação deve ser o evento que cria a necessidade de uma resposta.",
+        "hint": "Necessidade de resposta.",
+        "correctAnswer": "b",
+        "bookExample": "A Complicação é o motor da sua comunicação."
+      },
+      {
+        "id": "10",
+        "question": "O que a Situação deve evitar para manter o foco?",
+        "options": [
+          { "value": "a", "label": "Ser muito curta." },
+          { "value": "b", "label": "Incluir detalhes irrelevantes ou tangenciais." },
+          { "value": "c", "label": "Ser muito longa." },
+          { "value": "d", "label": "Ser muito detalhada." }
+        ],
+        "explanation": "A Situação deve ser concisa e relevante.",
+        "hint": "Concisão.",
+        "correctAnswer": "b",
+        "bookExample": "A Introdução deve ser um resumo da história que o leitor já conhece."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "A Estrutura da Introdução: A Complicação e a Pergunta",
+    "teaser": "🚨 S, C, Q: A Complicação é o **ponto de virada** (o 'mas', o 'porém'). Ela gera a Pergunta que sua Pirâmide resolve!",
+    "level1": "A Complicação (C) é o evento que quebra a normalidade da Situação e cria a tensão. Ela é o problema que exige uma resposta e serve como o motor da sua comunicação.",
+    "level2": "A Pergunta (Q) é a questão lógica que surge na mente do leitor após a Complicação (ex: 'O que devemos fazer?'). A Resposta no topo da Pirâmide (o Ponto Principal) é a solução para essa Pergunta.",
+    "level3": "O risco é ter uma Complicação que o leitor não aceita como verdadeira ou relevante, o que o fará rejeitar a urgência da Pergunta e a validade da Resposta. A Introdução deve ter apenas uma Complicação/Pergunta principal.",
+    "recapitulation": [
+      "Complicação (C) = O evento que muda o estado da Situação (o 'problema').",
+      "C cria a tensão e a necessidade de uma solução.",
+      "Pergunta (Q) = A questão que a Complicação levanta na mente do leitor.",
+      "A Resposta (topo da Pirâmide) resolve a Pergunta (Q).",
+      "Mantenha o foco: Uma Pirâmide resolve apenas uma Pergunta principal."
+    ],
+    "practicalChecklist": [
+      "Defina a Complicação: Qual é a *ação* ou *mudança* que quebra a Situação (ex: 'A concorrência lançou X').",
+      "Formule a Pergunta de forma clara e direta (ex: 'Como podemos responder?').",
+      "Teste a relevância: O seu público-alvo realmente se importa com essa Complicação?",
+      "Garanta que o seu Ponto Principal seja uma resposta direta e concisa à sua Pergunta (Q)."
+    ],
+    "conclusionMessage": "A Complicação deve ser o evento que quebra a normalidade da Situação, e a Pergunta deve ser a questão lógica que a Complicação levanta, preparando o leitor para a Resposta.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o papel da 'Complicação' na Introdução?",
+        "options": [
+          { "value": "a", "label": "Apresentar a Resposta." },
+          { "value": "b", "label": "Introduzir o problema ou a mudança que exige uma resposta, quebrando a normalidade da Situação." },
+          { "value": "c", "label": "Fazer uma pergunta." },
+          { "value": "d", "label": "Estabelecer o terreno comum." }
+        ],
+        "explanation": "A Complicação é o motor da comunicação.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "A Complicação deve ser um evento que muda o estado da Situação."
+      },
+      {
+        "id": "2",
+        "question": "O que a 'Pergunta' deve fazer?",
+        "options": [
+          { "value": "a", "label": "Ser muito longa." },
+          { "value": "b", "label": "Ser a questão lógica que a Complicação levanta, e que a Resposta no topo da Pirâmide irá resolver." },
+          { "value": "c", "label": "Ser muito curta." },
+          { "value": "d", "label": "Ser muito detalhada." }
+        ],
+        "explanation": "A Pergunta é o elo direto para a Resposta.",
+        "hint": "Elo.",
+        "correctAnswer": "b",
+        "bookExample": "A Pergunta deve ser a questão que o leitor faria se estivesse na sala."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de ter uma Complicação que o leitor não aceita como verdadeira?",
+        "options": [
+          { "value": "a", "label": "O leitor se sente engajado." },
+          { "value": "b", "label": "O leitor rejeita a premissa do problema e, consequentemente, a Resposta (o topo da Pirâmide)." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito alta." }
+        ],
+        "explanation": "A credibilidade da Complicação é crucial.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "A Complicação deve ser um evento que o leitor aceita como verdadeiro."
+      },
+      {
+        "id": "4",
+        "question": "O que a Complicação deve evitar?",
+        "options": [
+          { "value": "a", "label": "Ser muito curta." },
+          { "value": "b", "label": "Incluir a Resposta ou a solução." },
+          { "value": "c", "label": "Ser muito longa." },
+          { "value": "d", "label": "Ser muito detalhada." }
+        ],
+        "explanation": "A Complicação deve ser apenas o problema, sem a solução.",
+        "hint": "Problema.",
+        "correctAnswer": "b",
+        "bookExample": "A Complicação é o evento que muda o estado da Situação."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o erro mais comum ao formular a Pergunta?",
+        "options": [
+          { "value": "a", "label": "Torná-la muito curta." },
+          { "value": "b", "label": "Fazer uma pergunta que não é diretamente resolvida pela Resposta no topo da Pirâmide." },
+          { "value": "c", "label": "Torná-la muito longa." },
+          { "value": "d", "label": "Usar a Complicação." }
+        ],
+        "explanation": "A Pergunta deve ser o foco da comunicação.",
+        "hint": "Foco.",
+        "correctAnswer": "b",
+        "bookExample": "A Pergunta deve ser a questão que o leitor faria se estivesse na sala."
+      },
+      {
+        "id": "6",
+        "question": "O que o autor deve fazer se a Complicação for muito complexa?",
+        "options": [
+          { "value": "a", "label": "Simplificar a Complicação." },
+          { "value": "b", "label": "Dividir a Complicação em sub-complicações e usar uma Pirâmide separada para cada uma." },
+          { "value": "c", "label": "Ignorar a Complicação." },
+          { "value": "d", "label": "Mudar a Situação." }
+        ],
+        "explanation": "A clareza exige que cada Pirâmide resolva apenas uma Pergunta principal.",
+        "hint": "Uma Pergunta por Pirâmide.",
+        "correctAnswer": "b",
+        "bookExample": "A mente só pode reter cerca de três a sete itens de informação de uma vez."
+      },
+      {
+        "id": "7",
+        "question": "Onde a Resposta deve ser colocada em relação ao fluxo SCQ?",
+        "options": [
+          { "value": "a", "label": "Antes da Situação." },
+          { "value": "b", "label": "Imediatamente após a Pergunta (Q), iniciando a Pirâmide." },
+          { "value": "c", "label": "No meio da Complicação." },
+          { "value": "d", "label": "No final do documento." }
+        ],
+        "explanation": "O SCQ leva à Pergunta, e a Resposta resolve essa Pergunta, iniciando a estrutura hierárquica.",
+        "hint": "Resolução da Pergunta.",
+        "correctAnswer": "b",
+        "bookExample": "A Resposta é a primeira coisa que o leitor deve ver após a Introdução."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o principal benefício do fluxo SCQ para o autor?",
+        "options": [
+          { "value": "a", "label": "Ele pode escrever mais rápido." },
+          { "value": "b", "label": "Força o autor a definir o problema e o público-alvo antes de escrever a Resposta." },
+          { "value": "c", "label": "Ele pode usar mais jargões." },
+          { "value": "d", "label": "Ele pode ignorar a audiência." }
+        ],
+        "explanation": "O SCQ garante que a comunicação seja relevante para o leitor.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "A Introdução deve ser um espelho da mente do leitor."
+      },
+      {
+        "id": "9",
+        "question": "Se a Situação é 'Temos um orçamento de $1 milhão' e a Complicação é 'O projeto X custará $1.5 milhão', qual seria a Pergunta mais provável?",
+        "options": [
+          { "value": "a", "label": "Qual é o nome do projeto?" },
+          { "value": "b", "label": "Como podemos financiar o projeto X ou reduzir seu custo para caber no orçamento?" },
+          { "value": "c", "label": "Devemos demitir a equipe?" },
+          { "value": "d", "label": "Qual é o nosso lucro?" }
+        ],
+        "explanation": "A Pergunta deve ser a questão lógica que a Complicação levanta.",
+        "hint": "Ação necessária.",
+        "correctAnswer": "b",
+        "bookExample": "A Pergunta deve ser a questão que o leitor faria se estivesse na sala."
+      },
+      {
+        "id": "10",
+        "question": "O que a Introdução deve evitar para manter a clareza?",
+        "options": [
+          { "value": "a", "label": "Ser muito curta." },
+          { "value": "b", "label": "Incluir mais de uma Complicação ou Pergunta principal." },
+          { "value": "c", "label": "Ser muito longa." },
+          { "value": "d", "label": "Ser muito detalhada." }
+        ],
+        "explanation": "Uma Pirâmide, uma Pergunta.",
+        "hint": "Foco.",
+        "correctAnswer": "b",
+        "bookExample": "A mente só pode reter cerca de três a sete itens de informação de uma vez."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "A Regra da Homogeneidade: Ideias no Mesmo Nível",
+    "teaser": "✨ Coerência é rei! Seus argumentos paralelos precisam ser do **mesmo tipo lógico** (todos razões, todos passos, todos problemas).",
+    "level1": "A Regra da Homogeneidade exige que todas as ideias agrupadas horizontalmente em um mesmo nível da Pirâmide sejam do mesmo tipo lógico (ex: todas razões, todas ações, todos problemas).",
+    "level2": "Se você misturar tipos lógicos (ex: uma 'razão' e um 'passo' no mesmo nível), a lógica do agrupamento é quebrada, tornando a regra MECE impossível de ser aplicada de forma eficaz. O leitor se confunde sobre a natureza da relação.",
+    "level3": "A Homogeneidade facilita a retenção e a clareza. Se o leitor souber que está lendo uma lista de 'Razões' ou 'Passos', ele processa a informação mais rapidamente.",
+    "recapitulation": [
+      "Homogeneidade = Ideias em um mesmo nível são do mesmo tipo lógico.",
+      "Exemplos de tipos lógicos: Razões, Passos, Problemas, Estruturas.",
+      "Misturar tipos quebra a lógica do agrupamento e a regra MECE.",
+      "Se a ideia superior é uma 'Ação', as ideias abaixo devem ser 'Passos' ou 'Razões'.",
+      "A clareza do pensamento é refletida na homogeneidade do agrupamento."
+    ],
+    "practicalChecklist": [
+      "Em cada nível, defina qual é o tipo lógico das suas ideias de suporte (ex: 'Estou listando razões').",
+      "Verifique item por item para garantir que todos pertençam à mesma categoria (Homogeneidade).",
+      "Se você encontrar uma ideia que não se encaixa, reagrupe-a ou crie um novo ramo na Pirâmide.",
+      "Teste a Indução: A lista de fatos ou razões é realmente sobre o mesmo tipo de suporte?"
+    ],
+    "conclusionMessage": "A Regra da Homogeneidade exige que todas as ideias em um mesmo nível da Pirâmide sejam do mesmo tipo lógico (todas razões, todas ações, todos problemas, etc.).",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que significa 'Homogeneidade' na Pirâmide?",
+        "options": [
+          { "value": "a", "label": "As ideias são todas do mesmo tamanho." },
+          { "value": "b", "label": "As ideias em um mesmo nível são do mesmo tipo lógico (todas razões, todas ações, etc.)." },
+          { "value": "c", "label": "As ideias são todas controversas." },
+          { "value": "d", "label": "As ideias são todas dedutivas." }
+        ],
+        "explanation": "A homogeneidade é essencial para a aplicação da regra MECE.",
+        "hint": "Tipo lógico.",
+        "correctAnswer": "b",
+        "bookExample": "As ideias em cada agrupamento devem ser logicamente semelhantes."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de quebrar a Regra da Homogeneidade?",
+        "options": [
+          { "value": "a", "label": "O documento fica muito curto." },
+          { "value": "b", "label": "O leitor não consegue entender a relação entre os pontos e a lógica do agrupamento é quebrada." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "A quebra da homogeneidade leva à confusão.",
+        "hint": "Confusão.",
+        "correctAnswer": "b",
+        "bookExample": "Mantenha a consistência lógica em cada agrupamento."
+      },
+      {
+        "id": "3",
+        "question": "Se a ideia superior é 'Devemos fazer X', qual tipo de homogeneidade é esperada no nível abaixo?",
+        "options": [
+          { "value": "a", "label": "Problemas." },
+          { "value": "b", "label": "Razões (Por que fazer X) ou Passos (Como fazer X)." },
+          { "value": "c", "label": "Dados brutos." },
+          { "value": "d", "label": "Conclusões." }
+        ],
+        "explanation": "Ações levantam perguntas sobre justificação ou implementação.",
+        "hint": "Justificação ou implementação.",
+        "correctAnswer": "b",
+        "bookExample": "Ações levantam a questão 'Como?' ou 'Por que?'"
+      },
+      {
+        "id": "4",
+        "question": "O que o autor deve fazer se encontrar ideias heterogêneas em um nível?",
+        "options": [
+          { "value": "a", "label": "Misturar as ideias." },
+          { "value": "b", "label": "Reagrupar as ideias em categorias MECE mais amplas e homogêneas." },
+          { "value": "c", "label": "Ignorar as ideias que não se encaixam." },
+          { "value": "d", "label": "Mudar a Resposta." }
+        ],
+        "explanation": "O reagrupamento é necessário para restaurar a lógica.",
+        "hint": "Reagrupamento.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza da estrutura depende da clareza do pensamento."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o principal benefício da Homogeneidade?",
+        "options": [
+          { "value": "a", "label": "É mais rápido de escrever." },
+          { "value": "b", "label": "Facilita a aplicação da regra MECE e a retenção da informação pelo leitor." },
+          { "value": "c", "label": "É mais persuasivo." },
+          { "value": "d", "label": "É mais comum." }
+        ],
+        "explanation": "A homogeneidade é a base da clareza.",
+        "hint": "Clareza.",
+        "correctAnswer": "b",
+        "bookExample": "A mente só pode reter cerca de três a sete itens de informação de uma vez."
+      },
+      {
+        "id": "6",
+        "question": "Se a ideia superior é 'O problema é X', qual tipo de homogeneidade é esperada no nível abaixo?",
+        "options": [
+          { "value": "a", "label": "Ações." },
+          { "value": "b", "label": "Evidências ou Fatos que provam que o problema X existe." },
+          { "value": "c", "label": "Soluções." },
+          { "value": "d", "label": "Conclusões." }
+        ],
+        "explanation": "Problemas exigem evidências.",
+        "hint": "Evidências.",
+        "correctAnswer": "b",
+        "bookExample": "Conclusões levantam a questão 'O que te faz dizer isso?'"
+      },
+      {
+        "id": "7",
+        "question": "O que a Homogeneidade ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "O leitor se sentir entediado." },
+          { "value": "b", "label": "A sobreposição de ideias (falha em ME)." },
+          { "value": "c", "label": "O autor escrever muito." },
+          { "value": "d", "label": "A Pirâmide ficar muito alta." }
+        ],
+        "explanation": "A homogeneidade é a base da exclusividade mútua.",
+        "hint": "Exclusividade.",
+        "correctAnswer": "b",
+        "bookExample": "A sobreposição é o inimigo da clareza."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o erro mais comum ao tentar manter a Homogeneidade?",
+        "options": [
+          { "value": "a", "label": "Usar muitas ideias." },
+          { "value": "b", "label": "Misturar razões e ações no mesmo nível." },
+          { "value": "c", "label": "Usar ideias muito curtas." },
+          { "value": "d", "label": "Usar ideias muito longas." }
+        ],
+        "explanation": "A mistura de tipos lógicos é o erro mais frequente.",
+        "hint": "Mistura de tipos.",
+        "correctAnswer": "b",
+        "bookExample": "Mantenha a consistência lógica em cada agrupamento."
+      },
+      {
+        "id": "9",
+        "question": "Se você está usando a Indução, qual é a relação com a Homogeneidade?",
+        "options": [
+          { "value": "a", "label": "A Indução não exige Homogeneidade." },
+          { "value": "b", "label": "A Indução é um agrupamento de ideias homogêneas (todas do mesmo tipo) que, juntas, levam a uma conclusão." },
+          { "value": "c", "label": "A Indução é um agrupamento de ideias heterogêneas." },
+          { "value": "d", "label": "A Indução é uma sequência dedutiva." }
+        ],
+        "explanation": "A Indução agrupa fatos semelhantes.",
+        "hint": "Agrupamento.",
+        "correctAnswer": "b",
+        "bookExample": "A Indução é a lista de fatos que, juntos, suportam uma ideia."
+      },
+      {
+        "id": "10",
+        "question": "O que a Homogeneidade ajuda o autor a fazer?",
+        "options": [
+          { "value": "a", "label": "Escrever mais rápido." },
+          { "value": "b", "label": "Garantir que o pensamento seja estruturado e que a lógica seja clara em cada nível." },
+          { "value": "c", "label": "Usar mais jargões." },
+          { "value": "d", "label": "Ignorar a audiência." }
+        ],
+        "explanation": "A clareza na escrita é um reflexo da clareza no pensamento.",
+        "hint": "Clareza mental.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não consegue estruturar seu pensamento, você não consegue estruturar sua escrita."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "A Estrutura da Pirâmide: O Resumo do Resumo",
+    "teaser": "🎯 O topo da sua Pirâmide é a **única ideia** que o leitor deve levar. É o resumo mais conciso de toda a sua lógica.",
+    "level1": "O Ponto Principal (Resposta) no topo da Pirâmide é o resumo do resumo. Ele deve ser a única ideia que o leitor deve reter. É uma afirmação que resolve a Pergunta da Introdução (SCQ).",
+    "level2": "O Ponto Principal não pode ser apenas um tópico (ex: 'Estratégia de Marketing'), mas sim uma afirmação com conclusão (ex: 'Devemos mudar a Estratégia de Marketing para focar em Canais Digitais').",
+    "level3": "Ele deve ser suportado por 3 a 7 argumentos MECE no nível abaixo. Um Ponto Principal fraco (tópico ou sem suporte) compromete todo o documento, pois o leitor não entende o porquê de ler os detalhes.",
+    "recapitulation": [
+      "Ponto Principal = O topo da Pirâmide (a Resposta).",
+      "Deve ser uma afirmação (conclusão), não um tópico.",
+      "É o resumo de todas as ideias e evidências abaixo dele.",
+      "Deve responder diretamente à Pergunta da Introdução (Q).",
+      "É suportado por 3 a 7 argumentos MECE no Nível 2."
+    ],
+    "practicalChecklist": [
+      "Transforme seu tópico principal em uma afirmação clara e concisa (ex: 'Ação + Resultado').",
+      "Verifique se o seu Ponto Principal é uma resposta direta à Pergunta da sua Introdução.",
+      "Certifique-se de que o Ponto Principal seja suportado pelos 3 a 7 argumentos do Nível 2.",
+      "Teste: Se você deletasse todo o resto do documento, o leitor entenderia o seu principal ponto de vista?"
+    ],
+    "conclusionMessage": "O topo da Pirâmide é o resumo do resumo. Ele deve ser a única ideia que o leitor leva, suportada por 3 a 7 argumentos MECE.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que o Ponto Principal (Resposta) no topo da Pirâmide deve ser?",
+        "options": [
+          { "value": "a", "label": "Um tópico." },
+          { "value": "b", "label": "Uma afirmação concisa que resolve a Pergunta da Introdução." },
+          { "value": "c", "label": "Uma lista de fatos." },
+          { "value": "d", "label": "A Complicação." }
+        ],
+        "explanation": "O Ponto Principal deve ser uma afirmação, não um tópico.",
+        "hint": "Afirmação.",
+        "correctAnswer": "b",
+        "bookExample": "O Ponto Principal deve ser uma afirmação, não um tópico."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de ter um Ponto Principal que é apenas um tópico?",
+        "options": [
+          { "value": "a", "label": "O documento fica muito curto." },
+          { "value": "b", "label": "O leitor não entende a conclusão do autor e precisa ler o resto para descobrir o ponto principal." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "O Ponto Principal deve ser a conclusão.",
+        "hint": "Conclusão.",
+        "correctAnswer": "b",
+        "bookExample": "A mente só pode reter cerca de três a sete itens de informação de uma vez."
+      },
+      {
+        "id": "3",
+        "question": "O que o Ponto Principal deve fazer em relação à Pergunta da Introdução?",
+        "options": [
+          { "value": "a", "label": "Ignorar a Pergunta." },
+          { "value": "b", "label": "Responder diretamente à Pergunta." },
+          { "value": "c", "label": "Fazer uma nova pergunta." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A Resposta é a resolução da Pergunta.",
+        "hint": "Resolução.",
+        "correctAnswer": "b",
+        "bookExample": "A Resposta é a primeira coisa que o leitor deve ver após a Introdução."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o número ideal de argumentos de suporte no nível imediatamente abaixo do Ponto Principal?",
+        "options": [
+          { "value": "a", "label": "Apenas um." },
+          { "value": "b", "label": "Três a sete (MECE)." },
+          { "value": "c", "label": "Mais de dez." },
+          { "value": "d", "label": "Qualquer número." }
+        ],
+        "explanation": "O limite de 7 itens é crucial para a retenção.",
+        "hint": "Limite da memória.",
+        "correctAnswer": "b",
+        "bookExample": "O número mágico é 7, mais ou menos 2."
+      },
+      {
+        "id": "5",
+        "question": "O que o Ponto Principal deve evitar?",
+        "options": [
+          { "value": "a", "label": "Ser muito curto." },
+          { "value": "b", "label": "Incluir detalhes ou dados brutos." },
+          { "value": "c", "label": "Ser muito longo." },
+          { "value": "d", "label": "Ser muito detalhado." }
+        ],
+        "explanation": "O Ponto Principal é um resumo, não um detalhe.",
+        "hint": "Resumo.",
+        "correctAnswer": "b",
+        "bookExample": "O Ponto Principal deve ser uma afirmação, não um tópico."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o principal benefício de ter um Ponto Principal claro?",
+        "options": [
+          { "value": "a", "label": "O documento fica mais longo." },
+          { "value": "b", "label": "Garante que o leitor compreenda imediatamente a mensagem e possa processar os detalhes em um contexto." },
+          { "value": "c", "label": "O autor pode usar mais jargões." },
+          { "value": "d", "label": "A Pirâmide fica mais larga." }
+        ],
+        "explanation": "A clareza instantânea é o objetivo.",
+        "hint": "Clareza instantânea.",
+        "correctAnswer": "b",
+        "bookExample": "A mente só pode reter cerca de três a sete itens de informação de uma vez."
+      },
+      {
+        "id": "7",
+        "question": "O que o Ponto Principal deve fazer para o leitor?",
+        "options": [
+          { "value": "a", "label": "Fazer uma pergunta." },
+          { "value": "b", "label": "Fornecer a resposta que ele estava procurando após a Complicação." },
+          { "value": "c", "label": "Criar tensão." },
+          { "value": "d", "label": "Apresentar a Situação." }
+        ],
+        "explanation": "A Resposta é a resolução da tensão.",
+        "hint": "Resolução.",
+        "correctAnswer": "b",
+        "bookExample": "A Resposta é a primeira coisa que o leitor deve ver após a Introdução."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de ter um Ponto Principal que não é suportado pelos argumentos abaixo?",
+        "options": [
+          { "value": "a", "label": "O leitor se sente engajado." },
+          { "value": "b", "label": "A Pirâmide desmorona, pois a relação vertical é quebrada e a credibilidade é perdida." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito alta." }
+        ],
+        "explanation": "A relação vertical é o suporte hierárquico.",
+        "hint": "Suporte hierárquico.",
+        "correctAnswer": "b",
+        "bookExample": "Se a relação vertical falhar, a Pirâmide desmorona."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Testar o Ponto Principal'?",
+        "options": [
+          { "value": "a", "label": "Perguntar a um colega se ele entende." },
+          { "value": "b", "label": "Garantir que ele responda diretamente à Pergunta da Introdução e seja suportado pelos argumentos MECE abaixo." },
+          { "value": "c", "label": "Contar o número de palavras." },
+          { "value": "d", "label": "Usar cores diferentes." }
+        ],
+        "explanation": "O teste é a aplicação da regra Pergunta/Resposta e MECE.",
+        "hint": "Pergunta/Resposta e MECE.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza da Pirâmide é a clareza do seu pensamento."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de garantir que o Ponto Principal seja memorável?",
+        "options": [
+          { "value": "a", "label": "Torná-lo muito longo." },
+          { "value": "b", "label": "Torná-lo conciso, claro e focado na ação ou conclusão principal." },
+          { "value": "c", "label": "Usar muitos detalhes." },
+          { "value": "d", "label": "Usar jargões." }
+        ],
+        "explanation": "A concisão e a clareza são a chave para a retenção.",
+        "hint": "Concisão.",
+        "correctAnswer": "b",
+        "bookExample": "O Ponto Principal deve ser uma afirmação, não um tópico."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "A Estrutura da Pirâmide: O Nível de Suporte Chave",
+    "teaser": "💪 Este é o nível mais importante! O Nível 2 deve ter **3 a 7 pilares MECE** para que sua Resposta não desmorone.",
+    "level1": "O Nível de Suporte Chave (Nível 2) contém os argumentos principais que suportam a Resposta no topo. Ele é o coração da sua lógica de convencimento.",
+    "level2": "Os argumentos devem ser logicamente conectados (relação vertical) ao Ponto Principal e, horizontalmente, devem ser MECE (Mutuamente Exclusivos e Coletivamente Exaustivos) e Homogêneos (do mesmo tipo lógico).",
+    "level3": "Manter de 3 a 7 argumentos garante que o leitor retenha os pontos chave. Se um argumento for muito complexo, ele deve ser a ideia superior de um novo 'mini-pirâmide' (Nível 3) e ser detalhado abaixo.",
+    "recapitulation": [
+      "Nível 2 = Argumentos principais que suportam a Resposta.",
+      "Contém de 3 a 7 ideias (limite da memória de curto prazo).",
+      "As ideias devem ser MECE e Homogêneas.",
+      "O Nível 2 responde a pergunta implícita levantada pelo Ponto Principal ('Por quê?' ou 'Como?').",
+      "Se a ideia for complexa, desça um nível para detalhá-la."
+    ],
+    "practicalChecklist": [
+      "Limite seus argumentos principais a 3-7. Se tiver mais, crie categorias mais amplas.",
+      "Teste o MECE e a Homogeneidade das suas 3-7 ideias (ex: todas são Razões? Todas são Passos?).",
+      "Verifique a relação vertical: A lista de argumentos *prova* a Resposta do topo?",
+      "Certifique-se de que os argumentos do Nível 2 sejam afirmações claras, e não apenas tópicos."
+    ],
+    "conclusionMessage": "O Nível de Suporte Chave (Nível 2) deve conter de 3 a 7 argumentos MECE que, juntos, provam a Resposta no topo da Pirâmide.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal função do Nível de Suporte Chave (Nível 2)?",
+        "options": [
+          { "value": "a", "label": "Apresentar os dados brutos." },
+          { "value": "b", "label": "Fornecer os argumentos MECE que suportam diretamente a Resposta no topo." },
+          { "value": "c", "label": "Fazer uma pergunta." },
+          { "value": "d", "label": "Apresentar a Complicação." }
+        ],
+        "explanation": "O Nível 2 é a espinha dorsal da lógica.",
+        "hint": "Espinha dorsal.",
+        "correctAnswer": "b",
+        "bookExample": "As ideias em cada nível devem ser um resumo das ideias agrupadas abaixo delas."
+      },
+      {
+        "id": "2",
+        "question": "O que a regra MECE garante no Nível 2?",
+        "options": [
+          { "value": "a", "label": "Que os argumentos sejam longos." },
+          { "value": "b", "label": "Que os argumentos sejam distintos e que, juntos, cubram todas as áreas relevantes do problema." },
+          { "value": "c", "label": "Que os argumentos sejam controversos." },
+          { "value": "d", "label": "Que os argumentos sejam dedutivos." }
+        ],
+        "explanation": "MECE é a prova de que o autor pensou de forma estruturada.",
+        "hint": "Solidez lógica.",
+        "correctAnswer": "b",
+        "bookExample": "A estrutura MECE é a base da credibilidade."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de ter mais de 7 argumentos no Nível 2?",
+        "options": [
+          { "value": "a", "label": "A relação vertical é quebrada." },
+          { "value": "b", "label": "O leitor não consegue reter todos os argumentos, e o autor deve agrupá-los em categorias mais amplas." },
+          { "value": "c", "label": "A relação horizontal é quebrada." },
+          { "value": "d", "label": "O autor precisa escrever menos." }
+        ],
+        "explanation": "O limite de 7 itens é crucial para a retenção.",
+        "hint": "Limite da memória.",
+        "correctAnswer": "b",
+        "bookExample": "O número mágico é 7, mais ou menos 2."
+      },
+      {
+        "id": "4",
+        "question": "O que a Homogeneidade exige dos argumentos no Nível 2?",
+        "options": [
+          { "value": "a", "label": "Que sejam todos do mesmo tamanho." },
+          { "value": "b", "label": "Que sejam todos do mesmo tipo lógico (ex: todos razões, todos passos)." },
+          { "value": "c", "label": "Que sejam todos controversos." },
+          { "value": "d", "label": "Que sejam todos dedutivos." }
+        ],
+        "explanation": "A homogeneidade é essencial para a aplicação da regra MECE.",
+        "hint": "Tipo lógico.",
+        "correctAnswer": "b",
+        "bookExample": "As ideias em cada agrupamento devem ser logicamente semelhantes."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o erro mais comum ao formular os argumentos do Nível 2?",
+        "options": [
+          { "value": "a", "label": "Torná-los muito curtos." },
+          { "value": "b", "label": "Ter argumentos que se sobrepõem (falha em ME) ou que não suportam diretamente a Resposta." },
+          { "value": "c", "label": "Torná-los muito longos." },
+          { "value": "d", "label": "Usar a Complicação." }
+        ],
+        "explanation": "A sobreposição e a irrelevância são os principais problemas.",
+        "hint": "Irrelevância ou sobreposição.",
+        "correctAnswer": "b",
+        "bookExample": "A sobreposição é o inimigo da clareza."
+      },
+      {
+        "id": "6",
+        "question": "O que o autor deve fazer se um argumento do Nível 2 for muito complexo?",
+        "options": [
+          { "value": "a", "label": "Simplificar o argumento." },
+          { "value": "b", "label": "Criar um novo nível abaixo (Nível 3) para suportar e detalhar esse argumento complexo." },
+          { "value": "c", "label": "Ignorar o argumento." },
+          { "value": "d", "label": "Mudar a Resposta." }
+        ],
+        "explanation": "A Pirâmide permite a expansão vertical para detalhar a complexidade.",
+        "hint": "Expansão vertical.",
+        "correctAnswer": "b",
+        "bookExample": "Cada ponto deve levantar uma pergunta que é respondida pelos pontos abaixo."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o principal benefício de ter um Nível 2 MECE?",
+        "options": [
+          { "value": "a", "label": "O documento fica mais longo." },
+          { "value": "b", "label": "Garante que o leitor sinta que a análise é completa e que o autor pensou em todas as possibilidades." },
+          { "value": "c", "label": "O autor pode usar mais jargões." },
+          { "value": "d", "label": "A Pirâmide fica mais larga." }
+        ],
+        "explanation": "A exaustividade é a prova de que você pensou em tudo.",
+        "hint": "Exaustividade.",
+        "correctAnswer": "b",
+        "bookExample": "A estrutura MECE é a base da credibilidade."
+      },
+      {
+        "id": "8",
+        "question": "O que a 'Relação Vertical' exige do Nível 2?",
+        "options": [
+          { "value": "a", "label": "Que os argumentos sejam longos." },
+          { "value": "b", "label": "Que os argumentos sejam a resposta direta à pergunta implícita levantada pela Resposta no topo." },
+          { "value": "c", "label": "Que os argumentos sejam controversos." },
+          { "value": "d", "label": "Que os argumentos sejam dedutivos." }
+        ],
+        "explanation": "A relação vertical é o suporte hierárquico.",
+        "hint": "Suporte hierárquico.",
+        "correctAnswer": "b",
+        "bookExample": "A Pirâmide é construída através de um diálogo contínuo de Pergunta e Resposta."
+      },
+      {
+        "id": "9",
+        "question": "Se a Resposta é 'Devemos cortar custos', e o Nível 2 é '1. Reduzir despesas de viagem, 2. Negociar com fornecedores, 3. Demitir 10% da equipe', qual é a relação horizontal?",
+        "options": [
+          { "value": "a", "label": "Dedução." },
+          { "value": "b", "label": "Indução (Agrupamento de Ações)." },
+          { "value": "c", "label": "Vertical." },
+          { "value": "d", "label": "Silogismo." }
+        ],
+        "explanation": "Listar ações é um agrupamento por similaridade (Indução).",
+        "hint": "Agrupamento.",
+        "correctAnswer": "b",
+        "bookExample": "A Indução é a lista de fatos que, juntos, suportam uma ideia."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de garantir que o Nível 2 seja MECE?",
+        "options": [
+          { "value": "a", "label": "Usar o tempo como base (Passado, Presente, Futuro)." },
+          { "value": "b", "label": "Usar categorias universais (Pessoas, Processos, Tecnologia) ou o tempo como base." },
+          { "value": "c", "label": "Usar categorias que se sobrepõem." },
+          { "value": "d", "label": "Usar categorias que são muito específicas." }
+        ],
+        "explanation": "Categorias universais ou temporais são as mais fáceis de garantir MECE.",
+        "hint": "Universalidade.",
+        "correctAnswer": "b",
+        "bookExample": "Use categorias universais (tempo, estrutura, processo) para garantir MECE."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "A Estrutura da Pirâmide: O Nível de Detalhe (Nível 3+)",
+    "teaser": "🔬 Não misture. O Nível 3 é para os **dados brutos** e os detalhes. É a prova factual para o seu argumento de Nível 2.",
+    "level1": "Os níveis inferiores (Nível 3 e abaixo) são usados para fornecer os detalhes, dados, fatos e evidências que suportam os argumentos do Nível 2. Eles são a 'zona de profundidade'.",
+    "level2": "O leitor deve ser capaz de parar em qualquer nível e ainda entender a lógica. O Nível 3 responde à pergunta implícita do Nível 2 (ex: se Nível 2 é 'Redução de Custos', Nível 3 é 'Onde e Quanto' dessa redução).",
+    "level3": "Incluir dados brutos nos níveis superiores (Nível 1 ou 2) sobrecarrega a memória do leitor e dilui a clareza do resumo. Dados muito numerosos devem ser agrupados no Nível 3 e os detalhes completos colocados em um apêndice.",
+    "recapitulation": [
+      "Níveis Inferiores = Zona de profundidade, dados brutos e evidências.",
+      "Nível 3 suporta o Nível 2 (vertical) e é MECE/Homogêneo (horizontal).",
+      "Evite colocar dados brutos nos níveis de resumo (Nível 1 e 2).",
+      "Use apêndices para dados muito numerosos ou complexos, mantendo o Nível 3 conciso.",
+      "A clareza é mantida porque o detalhe é entregue 'sob demanda' (se o leitor perguntar 'Como?')."
+    ],
+    "practicalChecklist": [
+      "Ao escrever, comece com a ideia principal (N1), e só depois insira os detalhes de suporte (N3).",
+      "Verifique a Homogeneidade: Se o N2 é 'Passos', o N3 deve ser os sub-passos MECE.",
+      "Agrupe dados brutos por similaridade antes de resumi-los no N3.",
+      "Garanta que a evidência no N3 seja factual e inquestionável, pronta para suportar o N2."
+    ],
+    "conclusionMessage": "Os níveis inferiores (Nível 3 e abaixo) são usados para fornecer os detalhes, dados e evidências que suportam os argumentos do Nível 2.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal função dos níveis inferiores (Nível 3 e abaixo)?",
+        "options": [
+          { "value": "a", "label": "Apresentar a Resposta." },
+          { "value": "b", "label": "Fornecer os detalhes, dados e evidências que suportam os argumentos do nível imediatamente acima." },
+          { "value": "c", "label": "Fazer uma pergunta." },
+          { "value": "d", "label": "Apresentar a Complicação." }
+        ],
+        "explanation": "Os níveis inferiores são a base factual.",
+        "hint": "Base factual.",
+        "correctAnswer": "b",
+        "bookExample": "Os fatos são a base da sua credibilidade."
+      },
+      {
+        "id": "2",
+        "question": "O que a 'Relação Vertical' exige dos níveis inferiores?",
+        "options": [
+          { "value": "a", "label": "Que sejam todos do mesmo tamanho." },
+          { "value": "b", "label": "Que respondam diretamente à pergunta implícita levantada pelo argumento do nível superior." },
+          { "value": "c", "label": "Que sejam todos controversos." },
+          { "value": "d", "label": "Que sejam todos dedutivos." }
+        ],
+        "explanation": "A relação vertical é o suporte hierárquico.",
+        "hint": "Suporte hierárquico.",
+        "correctAnswer": "b",
+        "bookExample": "A Pirâmide é construída através de um diálogo contínuo de Pergunta e Resposta."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de incluir dados brutos no Nível 2?",
+        "options": [
+          { "value": "a", "label": "O documento fica muito curto." },
+          { "value": "b", "label": "O leitor se perde nos detalhes e não consegue reter o ponto principal do Nível 2." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "O Nível 2 deve ser um resumo, não um detalhe.",
+        "hint": "Resumo.",
+        "correctAnswer": "b",
+        "bookExample": "As ideias em cada nível devem ser um resumo das ideias agrupadas abaixo delas."
+      },
+      {
+        "id": "4",
+        "question": "O que a regra MECE exige dos detalhes no Nível 3?",
+        "options": [
+          { "value": "a", "label": "Que sejam todos do mesmo tamanho." },
+          { "value": "b", "label": "Que sejam distintos e que, juntos, cubram todas as evidências necessárias para suportar o argumento do Nível 2." },
+          { "value": "c", "label": "Que sejam todos controversos." },
+          { "value": "d", "label": "Que sejam todos dedutivos." }
+        ],
+        "explanation": "MECE se aplica a todos os níveis de agrupamento.",
+        "hint": "Agrupamento.",
+        "correctAnswer": "b",
+        "bookExample": "A estrutura MECE é a base da credibilidade."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o principal benefício de ter níveis de detalhe claros?",
+        "options": [
+          { "value": "a", "label": "O documento fica mais longo." },
+          { "value": "b", "label": "Permite que o leitor se aprofunde apenas nos detalhes que lhe interessam, mantendo a clareza geral." },
+          { "value": "c", "label": "O autor pode usar mais jargões." },
+          { "value": "d", "label": "A Pirâmide fica mais larga." }
+        ],
+        "explanation": "A profundidade sob demanda é a chave.",
+        "hint": "Profundidade.",
+        "correctAnswer": "b",
+        "bookExample": "O leitor deve ser capaz de parar em qualquer nível e ainda entender a lógica."
+      },
+      {
+        "id": "6",
+        "question": "O que o autor deve fazer se os dados brutos forem muito numerosos?",
+        "options": [
+          { "value": "a", "label": "Incluir todos os dados no Nível 3." },
+          { "value": "b", "label": "Agrupá-los em categorias MECE no Nível 3 e mover os dados brutos para um apêndice." },
+          { "value": "c", "label": "Ignorar os dados." },
+          { "value": "d", "label": "Mudar a Resposta." }
+        ],
+        "explanation": "A clareza exige que o corpo principal do documento seja conciso.",
+        "hint": "Concisão.",
+        "correctAnswer": "b",
+        "bookExample": "Use apêndices para dados brutos."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o risco de ter um 'Salto Lógico' entre o Nível 3 e o Nível 2?",
+        "options": [
+          { "value": "a", "label": "O documento fica muito curto." },
+          { "value": "b", "label": "O leitor questiona se os dados brutos realmente suportam o argumento do Nível 2." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "A relação vertical deve ser mantida em todos os níveis.",
+        "hint": "Suporte lógico.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza da Pirâmide depende da clareza da relação vertical."
+      },
+      {
+        "id": "8",
+        "question": "O que a Homogeneidade exige dos detalhes no Nível 3?",
+        "options": [
+          { "value": "a", "label": "Que sejam todos do mesmo tamanho." },
+          { "value": "b", "label": "Que sejam todos do mesmo tipo lógico (ex: todos fatos, todos passos)." },
+          { "value": "c", "label": "Que sejam todos controversos." },
+          { "value": "d", "label": "Que sejam todos dedutivos." }
+        ],
+        "explanation": "A homogeneidade é essencial para a aplicação da regra MECE.",
+        "hint": "Tipo lógico.",
+        "correctAnswer": "b",
+        "bookExample": "As ideias em cada agrupamento devem ser logicamente semelhantes."
+      },
+      {
+        "id": "9",
+        "question": "Se o Nível 2 é 'Redução de Custos Operacionais', qual seria um detalhe apropriado para o Nível 3?",
+        "options": [
+          { "value": "a", "label": "Devemos investir em IA." },
+          { "value": "b", "label": "O custo de aquisição subiu 20%." },
+          { "value": "c", "label": "Negociação de 10% com fornecedor X, economizando $50.000." },
+          { "value": "d", "label": "O mercado está pronto." }
+        ],
+        "explanation": "O detalhe deve ser factual e específico para o argumento do Nível 2.",
+        "hint": "Factual e específico.",
+        "correctAnswer": "c",
+        "bookExample": "Os fatos são a base da sua credibilidade."
+      },
+      {
+        "id": "10",
+        "question": "O que o autor deve fazer se o leitor questionar um detalhe do Nível 3?",
+        "options": [
+          { "value": "a", "label": "Ignorar a pergunta." },
+          { "value": "b", "label": "Remeter o leitor ao apêndice ou à fonte original dos dados brutos." },
+          { "value": "c", "label": "Mudar o detalhe." },
+          { "value": "d", "label": "Mudar a Resposta." }
+        ],
+        "explanation": "A Pirâmide deve ser suportada por dados verificáveis.",
+        "hint": "Verificabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Use apêndices para dados brutos."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "A Lógica da Dedução: O Silogismo",
+    "teaser": "🧠 A Dedução é a lógica mais rigorosa. É a prova matemática de que sua conclusão é **inevitável** se as premissas forem aceitas.",
+    "level1": "A Dedução é uma forma de relação horizontal (agrupamento) que segue a lógica do silogismo: Premissa Maior (Regra Geral/Princípio), Premissa Menor (Fato Específico) e a Conclusão (Implicação, que é a ideia superior).",
+    "level2": "É o tipo de suporte onde, se as duas premissas são aceitas como verdadeiras, a conclusão é logicamente inegável. É o modelo mais persuasivo, mas pode ser repetitivo se usado em excesso.",
+    "level3": "O risco é ter uma Premissa Maior que o leitor não aceita, o que invalida toda a cadeia dedutiva. A Dedução deve ser apresentada na ordem lógica do silogismo, embora a conclusão (o topo) seja apresentada primeiro no documento.",
+    "recapitulation": [
+      "Dedução = Prova por silogismo (P1 + P2 = Conclusão).",
+      "P1 (Premissa Maior) = Regra/Princípio Geral.",
+      "P2 (Premissa Menor) = Fato Específico que se encaixa na regra.",
+      "A Conclusão (ideia superior) é logicamente inevitável.",
+      "Use para lógica rigorosa, mas com moderação para evitar tédio."
+    ],
+    "practicalChecklist": [
+      "Use Dedução quando precisar *provar* a conclusão, não apenas apoiá-la.",
+      "Ao estruturar, liste a Premissa Maior, a Menor e verifique se a Conclusão é o resultado lógico.",
+      "Certifique-se de que a Premissa Maior seja uma afirmação que seu público *irá* aceitar (se não for, você precisa de uma mini-pirâmide para provar a P1).",
+      "Mantenha a ordem lógica do silogismo clara para o leitor (P1 → P2 → Conclusão)."
+    ],
+    "conclusionMessage": "A Dedução é uma sequência lógica onde a conclusão é inevitável se as premissas forem aceitas. Ela é usada para provar uma conclusão.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a estrutura básica de um argumento Dedutivo?",
+        "options": [
+          { "value": "a", "label": "Lista de fatos, Conclusão." },
+          { "value": "b", "label": "Premissa Maior (Geral), Premissa Menor (Específica), Conclusão (Implicação)." },
+          { "value": "c", "label": "Situação, Complicação, Pergunta." },
+          { "value": "d", "label": "Ação, Razão, Problema." }
+        ],
+        "explanation": "A dedução segue o formato de silogismo clássico.",
+        "hint": "Silogismo.",
+        "correctAnswer": "b",
+        "bookExample": "A dedução é a forma mais rigorosa de suporte lógico."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o principal objetivo da Dedução na Pirâmide?",
+        "options": [
+          { "value": "a", "label": "Agrupar ideias semelhantes." },
+          { "value": "b", "label": "Provar uma conclusão com rigor lógico, tornando-a inegável se as premissas forem aceitas." },
+          { "value": "c", "label": "Fazer uma lista de ações." },
+          { "value": "d", "label": "Apresentar dados brutos." }
+        ],
+        "explanation": "A inevitabilidade lógica é altamente persuasiva.",
+        "hint": "Persuasão lógica.",
+        "correctAnswer": "b",
+        "bookExample": "Use a dedução quando a lógica for o ponto principal."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de ter uma Premissa Maior que o leitor não aceita?",
+        "options": [
+          { "value": "a", "label": "O documento fica mais longo." },
+          { "value": "b", "label": "Toda a cadeia dedutiva falha, e a conclusão é rejeitada." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "A força da dedução é igual à força da sua premissa mais fraca.",
+        "hint": "Força da premissa.",
+        "correctAnswer": "b",
+        "bookExample": "A força da dedução é igual à força da sua premissa mais fraca."
+      },
+      {
+        "id": "4",
+        "question": "O que a Premissa Maior deve ser?",
+        "options": [
+          { "value": "a", "label": "Um fato específico." },
+          { "value": "b", "label": "Uma afirmação geral e aceita (regra, lei, princípio)." },
+          { "value": "c", "label": "A conclusão." },
+          { "value": "d", "label": "A Complicação." }
+        ],
+        "explanation": "A Premissa Maior estabelece a regra geral.",
+        "hint": "Regra geral.",
+        "correctAnswer": "b",
+        "bookExample": "A Premissa Maior deve ser uma afirmação que o leitor aceita como verdadeira."
+      },
+      {
+        "id": "5",
+        "question": "O que a Premissa Menor deve ser?",
+        "options": [
+          { "value": "a", "label": "Uma afirmação geral." },
+          { "value": "b", "label": "Um fato específico que se encaixa na Premissa Maior." },
+          { "value": "c", "label": "A conclusão." },
+          { "value": "d", "label": "A Complicação." }
+        ],
+        "explanation": "A Premissa Menor aplica a regra geral ao caso específico.",
+        "hint": "Fato específico.",
+        "correctAnswer": "b",
+        "bookExample": "A Premissa Menor deve ser um fato que se encaixa na Premissa Maior."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a ordem correta para apresentar um argumento Dedutivo na Pirâmide?",
+        "options": [
+          { "value": "a", "label": "Conclusão, Premissa Maior, Premissa Menor." },
+          { "value": "b", "label": "Premissa Maior, Premissa Menor, Conclusão." },
+          { "value": "c", "label": "Premissa Menor, Premissa Maior, Conclusão." },
+          { "value": "d", "label": "Conclusão, Premissa Menor, Premissa Maior." }
+        ],
+        "explanation": "A apresentação deve seguir a ordem lógica do silogismo.",
+        "hint": "Ordem lógica.",
+        "correctAnswer": "b",
+        "bookExample": "A dedução deve ser uma sequência de passos lógicos."
+      },
+      {
+        "id": "7",
+        "question": "O que a Dedução ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "O leitor se sentir entediado." },
+          { "value": "b", "label": "O leitor questionar a validade da conclusão, pois a lógica é explícita." },
+          { "value": "c", "label": "O autor escrever muito." },
+          { "value": "d", "label": "A Pirâmide ficar muito alta." }
+        ],
+        "explanation": "A lógica explícita é a chave para a credibilidade.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "A dedução é a forma mais rigorosa de suporte lógico."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de usar a Dedução em excesso?",
+        "options": [
+          { "value": "a", "label": "O documento fica muito curto." },
+          { "value": "b", "label": "O documento pode se tornar repetitivo e tedioso, pois a lógica é muito explícita." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "A Indução é geralmente mais rápida e amigável para o leitor.",
+        "hint": "Tédio.",
+        "correctAnswer": "b",
+        "bookExample": "Use a dedução com moderação."
+      },
+      {
+        "id": "9",
+        "question": "Se a Conclusão é 'Devemos investir em IA', qual seria uma Premissa Maior apropriada?",
+        "options": [
+          { "value": "a", "label": "O custo de aquisição subiu 20%." },
+          { "value": "b", "label": "A IA é a tecnologia mais eficiente para automatizar processos repetitivos." },
+          { "value": "c", "label": "O mercado está pronto." },
+          { "value": "d", "label": "Temos um orçamento de $1 milhão." }
+        ],
+        "explanation": "A Premissa Maior deve ser a regra geral que justifica a ação.",
+        "hint": "Regra geral.",
+        "correctAnswer": "b",
+        "bookExample": "A Premissa Maior deve ser uma afirmação que o leitor aceita como verdadeira."
+      },
+      {
+        "id": "10",
+        "question": "O que a Dedução ajuda o autor a fazer?",
+        "options": [
+          { "value": "a", "label": "Escrever mais rápido." },
+          { "value": "b", "label": "Garantir que o pensamento seja rigoroso e que a conclusão seja logicamente suportada." },
+          { "value": "c", "label": "Usar mais jargões." },
+          { "value": "d", "label": "Ignorar a audiência." }
+        ],
+        "explanation": "O rigor lógico é o objetivo.",
+        "hint": "Rigor lógico.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza na escrita é um reflexo da clareza no pensamento."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "A Lógica da Indução: Agrupamento de Fatos",
+    "teaser": "📝 A Indução é a lógica do negócio. É **a lista** de fatos, problemas ou razões que, juntos, sugerem sua conclusão.",
+    "level1": "A Indução é a forma mais comum de relação horizontal em comunicação de negócios. Ela envolve o agrupamento de 3 a 7 fatos, razões ou problemas semelhantes (Homogêneos) que, juntos, suportam uma ideia principal.",
+    "level2": "Diferente da Dedução (que prova a conclusão), a Indução suporta a conclusão (o leitor *infere* a conclusão a partir da lista). É mais rápida de construir e de ler, sendo mais amigável para a memória de curto prazo.",
+    "level3": "A chave é a Homogeneidade: todos os itens da lista devem ser do mesmo tipo lógico (ex: todas as razões para a queda de vendas). A lista, como um todo, deve ser MECE, garantindo que a inferência do leitor seja completa.",
+    "recapitulation": [
+      "Indução = Suporte por agrupamento de fatos/razões/problemas semelhantes.",
+      "A conclusão é uma *inferência* do leitor, não uma inevitabilidade lógica.",
+      "Mais rápida de ler e construir, ideal para relatórios de negócios.",
+      "Os itens da lista devem ser Homogêneos e o grupo deve ser MECE.",
+      "É a ferramenta ideal para refinar grandes quantidades de dados brutos (base da Pirâmide)."
+    ],
+    "practicalChecklist": [
+      "Use Indução sempre que for listar 3 a 7 razões, passos ou problemas.",
+      "Teste a Homogeneidade: Se o primeiro item é uma 'Razão', todos os outros devem ser 'Razões'.",
+      "Verifique se a lista é MECE (seus itens não se sobrepõem e cobrem o ponto).",
+      "Certifique-se de que a ideia superior seja um resumo *claro* da lista (Relação Vertical clara)."
+    ],
+    "conclusionMessage": "A Indução é o agrupamento de fatos ou ideias semelhantes que, juntos, levam a uma conclusão. Ela é usada para comunicar rapidamente o suporte.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que define um argumento Indutivo?",
+        "options": [
+          { "value": "a", "label": "Uma sequência lógica (silogismo)." },
+          { "value": "b", "label": "Um agrupamento de fatos ou ideias semelhantes que, juntos, suportam uma conclusão." },
+          { "value": "c", "label": "Uma afirmação geral e aceita." },
+          { "value": "d", "label": "Uma afirmação específica." }
+        ],
+        "explanation": "A indução é um agrupamento de evidências.",
+        "hint": "Agrupamento.",
+        "correctAnswer": "b",
+        "bookExample": "A indução é a forma mais comum de suporte em relatórios de negócios."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o principal objetivo da Indução na Pirâmide?",
+        "options": [
+          { "value": "a", "label": "Provar uma conclusão com rigor lógico." },
+          { "value": "b", "label": "Comunicar rapidamente o suporte, facilitando a leitura e a memorização." },
+          { "value": "c", "label": "Fazer uma pergunta." },
+          { "value": "d", "label": "Apresentar a Complicação." }
+        ],
+        "explanation": "A indução é mais amigável para a memória de curto prazo.",
+        "hint": "Amigável para a memória.",
+        "correctAnswer": "b",
+        "bookExample": "A indução é mais fácil de construir e mais rápida de ler."
+      },
+      {
+        "id": "3",
+        "question": "O que a regra da Homogeneidade exige dos fatos em um agrupamento Indutivo?",
+        "options": [
+          { "value": "a", "label": "Que sejam todos do mesmo tamanho." },
+          { "value": "b", "label": "Que sejam todos do mesmo tipo lógico (ex: todos problemas, todas razões)." },
+          { "value": "c", "label": "Que sejam todos controversos." },
+          { "value": "d", "label": "Que sejam todos dedutivos." }
+        ],
+        "explanation": "A homogeneidade é essencial para a aplicação da regra MECE.",
+        "hint": "Tipo lógico.",
+        "correctAnswer": "b",
+        "bookExample": "As ideias em cada agrupamento devem ser logicamente semelhantes."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de ter um agrupamento Indutivo que não é Coletivamente Exaustivo (Não CE)?",
+        "options": [
+          { "value": "a", "label": "O leitor se sente engajado." },
+          { "value": "b", "label": "O leitor sente que o autor deixou de fora uma área importante, questionando a competência da análise." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "A exaustividade é a prova de que você pensou em tudo.",
+        "hint": "Exaustividade.",
+        "correctAnswer": "b",
+        "bookExample": "A exaustividade garante que você pensou em todas as possibilidades."
+      },
+      {
+        "id": "5",
+        "question": "Qual é a ordem correta para apresentar um argumento Indutivo na Pirâmide?",
+        "options": [
+          { "value": "a", "label": "Conclusão, Fato 1, Fato 2." },
+          { "value": "b", "label": "Fato 1, Fato 2, Fato 3, Conclusão (no nível acima)." },
+          { "value": "c", "label": "Fato 2, Fato 1, Fato 3." },
+          { "value": "d", "label": "Conclusão, Fato 2, Fato 1." }
+        ],
+        "explanation": "A Indução é apresentada como uma lista de fatos que, juntos, levam à conclusão no nível superior.",
+        "hint": "Lista de fatos.",
+        "correctAnswer": "b",
+        "bookExample": "A Indução é a lista de fatos que, juntos, suportam uma ideia."
+      },
+      {
+        "id": "6",
+        "question": "O que a Indução ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "O leitor se sentir entediado com a lógica explícita da Dedução." },
+          { "value": "b", "label": "O leitor questionar a validade da conclusão." },
+          { "value": "c", "label": "O autor escrever muito." },
+          { "value": "d", "label": "A Pirâmide ficar muito alta." }
+        ],
+        "explanation": "A Indução é mais rápida e menos tediosa que a Dedução.",
+        "hint": "Tédio.",
+        "correctAnswer": "a",
+        "bookExample": "Use a indução para comunicar rapidamente o suporte."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o risco de usar a Indução em excesso?",
+        "options": [
+          { "value": "a", "label": "O documento fica muito curto." },
+          { "value": "b", "label": "O leitor pode não entender a conclusão se os fatos não forem claramente relacionados (falha na relação vertical)." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "A Indução exige que a conclusão seja clara e que os fatos sejam relevantes.",
+        "hint": "Clareza da conclusão.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza da Pirâmide depende da clareza da relação vertical."
+      },
+      {
+        "id": "8",
+        "question": "O que a Indução ajuda o autor a fazer?",
+        "options": [
+          { "value": "a", "label": "Escrever mais rápido." },
+          { "value": "b", "label": "Organizar grandes quantidades de dados em categorias lógicas e concisas." },
+          { "value": "c", "label": "Usar mais jargões." },
+          { "value": "d", "label": "Ignorar a audiência." }
+        ],
+        "explanation": "A Indução é a ferramenta para refinar dados brutos.",
+        "hint": "Refinamento de dados.",
+        "correctAnswer": "b",
+        "bookExample": "A Indução é a forma mais comum de refinar dados brutos."
+      },
+      {
+        "id": "9",
+        "question": "Se a Conclusão é 'Devemos mudar a estratégia de marketing', qual seria um Fato Indutivo apropriado?",
+        "options": [
+          { "value": "a", "label": "A nova estratégia de marketing é X." },
+          { "value": "b", "label": "O custo de aquisição de clientes subiu 30% em 3 canais diferentes." },
+          { "value": "c", "label": "O mercado está pronto." },
+          { "value": "d", "label": "Temos um orçamento de $1 milhão." }
+        ],
+        "explanation": "O Fato Indutivo deve ser uma evidência que suporta a necessidade de mudança.",
+        "hint": "Evidência.",
+        "correctAnswer": "b",
+        "bookExample": "A Indução é a lista de fatos que, juntos, suportam uma ideia."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a diferença principal entre Dedução e Indução?",
+        "options": [
+          { "value": "a", "label": "A Dedução é mais rápida." },
+          { "value": "b", "label": "A Dedução prova a conclusão (inevitabilidade), enquanto a Indução suporta a conclusão (inferência)." },
+          { "value": "c", "label": "A Indução é mais rigorosa logicamente." },
+          { "value": "d", "label": "A Dedução é mais comum em relatórios de negócios." }
+        ],
+        "explanation": "A diferença reside no rigor lógico e na forma como a conclusão é alcançada.",
+        "hint": "Rigor lógico.",
+        "correctAnswer": "b",
+        "bookExample": "A dedução prova; a indução suporta."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "A Estrutura da Escrita: O Parágrafo Piramidal",
+    "teaser": "🧱 Esqueça o parágrafo tradicional. O Parágrafo Piramidal começa com a **ideia principal (Tópico Frasal)**. Seja direto!",
+    "level1": "O Princípio da Pirâmide se aplica a cada parágrafo. Cada parágrafo deve ser uma mini-pirâmide, começando com uma única ideia principal clara: o Tópico Frasal (Topic Sentence).",
+    "level2": "O Tópico Frasal (a primeira frase) é o topo da mini-pirâmide e deve ser uma afirmação. O resto das frases do parágrafo deve fornecer os detalhes, evidências ou sub-argumentos (o suporte vertical) que comprovam essa afirmação.",
+    "level3": "Isso garante que o leitor compreenda o ponto do parágrafo imediatamente, melhorando drasticamente a velocidade de leitura e a retenção. Se um parágrafo tiver mais de uma ideia principal, ele deve ser dividido.",
+    "recapitulation": [
+      "Cada parágrafo é uma mini-pirâmide.",
+      "Primeira frase = Tópico Frasal (única ideia principal, afirmação).",
+      "Frases seguintes = Suporte vertical (detalhes, evidências, sub-argumentos).",
+      "Garante clareza imediata e melhora a velocidade de leitura.",
+      "Se tiver mais de uma ideia principal, divida o parágrafo."
+    ],
+    "practicalChecklist": [
+      "Revise seus parágrafos: A primeira frase é o ponto principal do parágrafo?",
+      "Certifique-se de que o Tópico Frasal seja uma afirmação, não um tópico (ex: 'A mudança de política é crucial').",
+      "Teste a relação vertical: Cada frase de suporte é uma resposta lógica ao 'Por quê?' ou 'Como?' do Tópico Frasal?",
+      "Mantenha os parágrafos concisos e evite diluir o Tópico Frasal com detalhes excessivos."
+    ],
+    "conclusionMessage": "Cada parágrafo deve ser uma mini-pirâmide, começando com a ideia principal (tópico frasal) e suportada por detalhes e evidências.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é o 'Tópico Frasal' (Topic Sentence) em um parágrafo piramidal?",
+        "options": [
+          { "value": "a", "label": "A última frase do parágrafo." },
+          { "value": "b", "label": "A primeira frase, que apresenta a única ideia principal do parágrafo." },
+          { "value": "c", "label": "Uma lista de fatos." },
+          { "value": "d", "label": "A Complicação." }
+        ],
+        "explanation": "O tópico frasal é o topo da mini-pirâmide.",
+        "hint": "Topo da mini-pirâmide.",
+        "correctAnswer": "b",
+        "bookExample": "Cada parágrafo deve começar com uma afirmação que é suportada pelo resto do parágrafo."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a função das frases seguintes ao Tópico Frasal?",
+        "options": [
+          { "value": "a", "label": "Mudar de assunto." },
+          { "value": "b", "label": "Fornecer os detalhes, evidências ou sub-argumentos que suportam o Tópico Frasal." },
+          { "value": "c", "label": "Fazer uma pergunta." },
+          { "value": "d", "label": "Apresentar a Complicação." }
+        ],
+        "explanation": "As frases seguintes são o suporte vertical.",
+        "hint": "Suporte vertical.",
+        "correctAnswer": "b",
+        "bookExample": "A Pirâmide é construída através de um diálogo contínuo de Pergunta e Resposta."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de ter um parágrafo sem um Tópico Frasal claro?",
+        "options": [
+          { "value": "a", "label": "O documento fica muito curto." },
+          { "value": "b", "label": "O leitor não entende o ponto principal do parágrafo e precisa ler tudo para descobrir a ideia central." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "O Tópico Frasal garante a clareza instantânea.",
+        "hint": "Clareza instantânea.",
+        "correctAnswer": "b",
+        "bookExample": "O leitor só pode absorver ideias se elas estiverem estruturadas hierarquicamente."
+      },
+      {
+        "id": "4",
+        "question": "O que a regra MECE exige das ideias dentro de um parágrafo?",
+        "options": [
+          { "value": "a", "label": "Que sejam todas do mesmo tamanho." },
+          { "value": "b", "label": "Que os detalhes de suporte sejam distintos e que, juntos, cubram o suporte necessário para o Tópico Frasal." },
+          { "value": "c", "label": "Que sejam todas controversas." },
+          { "value": "d", "label": "Que sejam todas dedutivas." }
+        ],
+        "explanation": "MECE se aplica a todos os níveis de agrupamento.",
+        "hint": "Agrupamento.",
+        "correctAnswer": "b",
+        "bookExample": "A estrutura MECE é a base da credibilidade."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o principal benefício de usar o Parágrafo Piramidal?",
+        "options": [
+          { "value": "a", "label": "O documento fica mais longo." },
+          { "value": "b", "label": "Garante que o leitor compreenda o ponto de cada parágrafo rapidamente, melhorando a velocidade de leitura." },
+          { "value": "c", "label": "O autor pode usar mais jargões." },
+          { "value": "d", "label": "A Pirâmide fica mais larga." }
+        ],
+        "explanation": "A velocidade de leitura é otimizada.",
+        "hint": "Velocidade de leitura.",
+        "correctAnswer": "b",
+        "bookExample": "O leitor só pode absorver ideias se elas estiverem estruturadas hierarquicamente."
+      },
+      {
+        "id": "6",
+        "question": "O que o autor deve fazer se um parágrafo tiver mais de uma ideia principal?",
+        "options": [
+          { "value": "a", "label": "Misturar as ideias." },
+          { "value": "b", "label": "Dividir o parágrafo em dois ou mais parágrafos, cada um com seu próprio Tópico Frasal." },
+          { "value": "c", "label": "Ignorar as ideias extras." },
+          { "value": "d", "label": "Mudar a Resposta." }
+        ],
+        "explanation": "Um parágrafo, uma ideia principal.",
+        "hint": "Uma ideia.",
+        "correctAnswer": "b",
+        "bookExample": "Cada parágrafo deve ter apenas uma ideia principal."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o risco de ter um parágrafo muito longo?",
+        "options": [
+          { "value": "a", "label": "O documento fica muito curto." },
+          { "value": "b", "label": "O leitor se perde nos detalhes e a clareza do Tópico Frasal é diluída." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "A concisão é crucial.",
+        "hint": "Concisão.",
+        "correctAnswer": "b",
+        "bookExample": "Mantenha os parágrafos curtos e focados."
+      },
+      {
+        "id": "8",
+        "question": "O que a 'Relação Vertical' exige do parágrafo?",
+        "options": [
+          { "value": "a", "label": "Que as frases sejam longas." },
+          { "value": "b", "label": "Que cada frase de suporte seja uma resposta lógica à pergunta implícita levantada pela frase anterior." },
+          { "value": "c", "label": "Que as frases sejam controversas." },
+          { "value": "d", "label": "Que as frases sejam dedutivas." }
+        ],
+        "explanation": "A relação vertical é o suporte hierárquico.",
+        "hint": "Suporte hierárquico.",
+        "correctAnswer": "b",
+        "bookExample": "A Pirâmide é construída através de um diálogo contínuo de Pergunta e Resposta."
+      },
+      {
+        "id": "9",
+        "question": "Se o Tópico Frasal é 'A nova estratégia de marketing é crucial', qual seria uma frase de suporte apropriada?",
+        "options": [
+          { "value": "a", "label": "O custo de aquisição subiu 20%." },
+          { "value": "b", "label": "O mercado está pronto." },
+          { "value": "c", "label": "A estratégia inclui três pilares: (1) SEO, (2) Mídia Paga e (3) Conteúdo." },
+          { "value": "d", "label": "Temos um orçamento de $1 milhão." }
+        ],
+        "explanation": "A frase de suporte deve detalhar o 'Como' ou 'Por que' do Tópico Frasal.",
+        "hint": "Detalhe.",
+        "correctAnswer": "c",
+        "bookExample": "Cada ponto deve levantar uma pergunta que é respondida pelos pontos abaixo."
+      },
+      {
+        "id": "10",
+        "question": "O que o Parágrafo Piramidal ajuda o autor a fazer?",
+        "options": [
+          { "value": "a", "label": "Escrever mais rápido." },
+          { "value": "b", "label": "Garantir que a lógica seja clara e que o leitor retenha a informação em cada etapa." },
+          { "value": "c", "label": "Usar mais jargões." },
+          { "value": "d", "label": "Ignorar a audiência." }
+        ],
+        "explanation": "A clareza na escrita é um reflexo da clareza no pensamento.",
+        "hint": "Clareza mental.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não consegue estruturar seu pensamento, você não consegue estruturar sua escrita."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "A Estrutura da Escrita: O Uso de Títulos e Subtítulos",
+    "teaser": "🏷️ Seus títulos não são tópicos! Transforme-os em **afirmações conclusivas** para contar toda a história da sua Pirâmide.",
+    "level1": "Na Pirâmide, os títulos e subtítulos devem ser afirmações (conclusões), e não tópicos genéricos (ex: 'Análise de Custos'). Eles devem comunicar a Resposta/Conclusão daquela seção.",
+    "level2": "Se você ler apenas os títulos, deve ser capaz de entender o esqueleto da história (SCQ) e a Resposta principal. Cada título deve ser a Resposta à pergunta implícita do título do nível acima (relação vertical).",
+    "level3": "Usar títulos como afirmações força o autor a pensar claramente antes de escrever o corpo da seção e garante que o leitor compreenda a mensagem principal em uma passada de olhos.",
+    "recapitulation": [
+      "Títulos/Subtítulos devem ser **afirmações (conclusões)**, não tópicos.",
+      "Eles formam o esqueleto lógico da Pirâmide (o resumo de todos os níveis).",
+      "A sequência de títulos deve contar a história completa (SCQ + Resposta).",
+      "Os subtítulos devem ser a Resposta (afirmação) do argumento no nível imediatamente superior.",
+      "Afirmações forçam a clareza do pensamento."
+    ],
+    "practicalChecklist": [
+      "Revise seus títulos e subtítulos, transformando-os em frases com conclusão (ex: 'Análise de Custos' → 'A Análise de Custos Mostra X').",
+      "Leia apenas a sequência de títulos e subtítulos para ver se a lógica vertical se sustenta.",
+      "Teste a Relação Vertical: O título do Nível 2 é a resposta ao 'Por quê?' ou 'Como?' do Título Principal?",
+      "Mantenha os títulos concisos, mas ainda assim conclusivos."
+    ],
+    "conclusionMessage": "Títulos e subtítulos devem ser afirmações (não tópicos) que representam o Ponto Principal da seção, seguindo a lógica da Pirâmide.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que os títulos e subtítulos devem ser na Pirâmide?",
+        "options": [
+          { "value": "a", "label": "Tópicos genéricos." },
+          { "value": "b", "label": "Afirmações que comunicam a conclusão da seção." },
+          { "value": "c", "label": "Perguntas." },
+          { "value": "d", "label": "Dados brutos." }
+        ],
+        "explanation": "Os títulos devem ser a Resposta daquela seção.",
+        "hint": "Resposta.",
+        "correctAnswer": "b",
+        "bookExample": "Os títulos devem ser afirmações, não tópicos."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o principal benefício de usar títulos como afirmações?",
+        "options": [
+          { "value": "a", "label": "O documento fica mais longo." },
+          { "value": "b", "label": "Permite que o leitor entenda a mensagem principal apenas lendo o esqueleto do documento." },
+          { "value": "c", "label": "O autor pode usar mais jargões." },
+          { "value": "d", "label": "A Pirâmide fica mais larga." }
+        ],
+        "explanation": "A clareza do esqueleto é crucial.",
+        "hint": "Esqueleto.",
+        "correctAnswer": "b",
+        "bookExample": "O leitor deve ser capaz de entender a história completa apenas lendo os títulos."
+      },
+      {
+        "id": "3",
+        "question": "O que a 'Relação Vertical' exige dos títulos?",
+        "options": [
+          { "value": "a", "label": "Que sejam todos do mesmo tamanho." },
+          { "value": "b", "label": "Que o título de um nível inferior seja a resposta direta à pergunta implícita levantada pelo título do nível superior." },
+          { "value": "c", "label": "Que sejam todos controversos." },
+          { "value": "d", "label": "Que sejam todos dedutivos." }
+        ],
+        "explanation": "A relação vertical é o suporte hierárquico.",
+        "hint": "Suporte hierárquico.",
+        "correctAnswer": "b",
+        "bookExample": "A Pirâmide é construída através de um diálogo contínuo de Pergunta e Resposta."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de usar títulos genéricos (ex: 'Próximos Passos')?",
+        "options": [
+          { "value": "a", "label": "O documento fica muito curto." },
+          { "value": "b", "label": "O leitor não entende a conclusão da seção e precisa ler o corpo para descobrir o ponto principal." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "Títulos genéricos quebram a clareza.",
+        "hint": "Clareza.",
+        "correctAnswer": "b",
+        "bookExample": "Os títulos devem ser afirmações, não tópicos."
+      },
+      {
+        "id": "5",
+        "question": "O que o autor deve fazer se um título for muito longo?",
+        "options": [
+          { "value": "a", "label": "Dividir o título em dois." },
+          { "value": "b", "label": "Garantir que o título seja conciso, mas que ainda comunique a conclusão principal." },
+          { "value": "c", "label": "Ignorar o título." },
+          { "value": "d", "label": "Mudar a Resposta." }
+        ],
+        "explanation": "A concisão é crucial.",
+        "hint": "Concisão.",
+        "correctAnswer": "b",
+        "bookExample": "Mantenha os títulos concisos e focados."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a função da 'Introdução' em relação aos títulos?",
+        "options": [
+          { "value": "a", "label": "Apresentar todos os títulos." },
+          { "value": "b", "label": "A Introdução (SCQ) deve levar à Resposta, que é o Ponto Principal (o título principal)." },
+          { "value": "c", "label": "Fazer uma pergunta." },
+          { "value": "d", "label": "Apresentar a Complicação." }
+        ],
+        "explanation": "O SCQ é o gancho para o Ponto Principal.",
+        "hint": "Gancho.",
+        "correctAnswer": "b",
+        "bookExample": "A Resposta é a primeira coisa que o leitor deve ver após a Introdução."
+      },
+      {
+        "id": "7",
+        "question": "O que a regra MECE exige dos subtítulos em um mesmo nível?",
+        "options": [
+          { "value": "a", "label": "Que sejam todos do mesmo tamanho." },
+          { "value": "b", "label": "Que sejam distintos e que, juntos, cubram todas as áreas relevantes do argumento do nível superior." },
+          { "value": "c", "label": "Que sejam todos controversos." },
+          { "value": "d", "label": "Que sejam todos dedutivos." }
+        ],
+        "explanation": "MECE se aplica a todos os níveis de agrupamento.",
+        "hint": "Agrupamento.",
+        "correctAnswer": "b",
+        "bookExample": "A estrutura MECE é a base da credibilidade."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o erro mais comum ao usar títulos como afirmações?",
+        "options": [
+          { "value": "a", "label": "Usar muitos títulos." },
+          { "value": "b", "label": "Usar afirmações que não são suportadas pelo corpo da seção." },
+          { "value": "c", "label": "Usar afirmações muito curtas." },
+          { "value": "d", "label": "Usar afirmações muito longas." }
+        ],
+        "explanation": "A afirmação deve ser suportada por evidências.",
+        "hint": "Suporte.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza da Pirâmide depende da clareza da relação vertical."
+      },
+      {
+        "id": "9",
+        "question": "Se o Título Principal é 'Devemos mudar a estratégia de vendas', qual seria um Subtítulo apropriado para o Nível 2?",
+        "options": [
+          { "value": "a", "label": "Análise de Vendas." },
+          { "value": "b", "label": "O Modelo B2B Aumentará a Margem de Lucro em 20%." },
+          { "value": "c", "label": "Próximos Passos." },
+          { "value": "d", "label": "O mercado está pronto." }
+        ],
+        "explanation": "O subtítulo deve ser uma afirmação que suporta o título principal.",
+        "hint": "Afirmação de suporte.",
+        "correctAnswer": "b",
+        "bookExample": "Os títulos devem ser afirmações, não tópicos."
+      },
+      {
+        "id": "10",
+        "question": "O que o uso de títulos como afirmações ajuda o autor a fazer?",
+        "options": [
+          { "value": "a", "label": "Escrever mais rápido." },
+          { "value": "b", "label": "Forçar o pensamento a ser claro e lógico em cada seção antes de escrever o corpo." },
+          { "value": "c", "label": "Usar mais jargões." },
+          { "value": "d", "label": "Ignorar a audiência." }
+        ],
+        "explanation": "A clareza na escrita é um reflexo da clareza no pensamento.",
+        "hint": "Clareza mental.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não consegue estruturar seu pensamento, você não consegue estruturar sua escrita."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "A Estrutura da Escrita: O Fluxo Narrativo",
+    "teaser": "🗺️ Guie o leitor pela sua lógica. O Fluxo Narrativo (SCQ) é a sua 'ponte' para garantir que sua Resposta seja **a coisa certa** a ser dita.",
+    "level1": "O fluxo narrativo (SCQ) na Introdução é a única sequência 'História Primeiro' permitida na Pirâmide. Ela é usada para criar um 'gancho' que engaja o leitor e o leva logicamente à necessidade de ler a Resposta.",
+    "level2": "A história contada (S → C → Q) deve ser um espelho da mente do leitor. Ele deve concordar com a Situação, sentir a urgência da Complicação e, finalmente, formular a Pergunta que sua Pirâmide resolve.",
+    "level3": "A clareza do fluxo garante que a sua Resposta seja relevante e bem-vinda. Se a narrativa for confusa, a Resposta, mesmo que logicamente sólida, pode ser rejeitada por falta de contexto.",
+    "recapitulation": [
+      "Fluxo Narrativo = SCQ (Situação → Complicação → Pergunta).",
+      "É o 'gancho' que engaja o leitor e estabelece a relevância.",
+      "A história deve ser focada no leitor e no problema que ele enfrenta.",
+      "Garante que a Resposta resolva a questão mais relevante na mente do leitor.",
+      "A narrativa do SCQ é a ponte para a lógica da Pirâmide."
+    ],
+    "practicalChecklist": [
+      "Antes de escrever, defina o Ponto de Partida (S) e o Ponto de Tensão (C) do leitor.",
+      "Escreva a Introdução na ordem SCQ para guiar a atenção do leitor.",
+      "Teste o fluxo: Ele move o leitor de forma natural para a Pergunta? (Sem saltos).",
+      "Certifique-se de que a Complicação (C) seja um evento que o leitor considera urgente ou importante."
+    ],
+    "conclusionMessage": "O fluxo narrativo (SCQ) deve ser usado para criar um 'gancho' que engaje o leitor, levando-o logicamente à Resposta.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo do 'Fluxo Narrativo' (SCQ)?",
+        "options": [
+          { "value": "a", "label": "Apresentar todos os dados brutos." },
+          { "value": "b", "label": "Criar um 'gancho' que engaje o leitor e o guie logicamente à Resposta." },
+          { "value": "c", "label": "Fazer uma lista de ações." },
+          { "value": "d", "label": "Apresentar a Complicação." }
+        ],
+        "explanation": "O engajamento é crucial para garantir que o leitor leia a Pirâmide.",
+        "hint": "Engajamento.",
+        "correctAnswer": "b",
+        "bookExample": "A Introdução deve ser um espelho da mente do leitor."
+      },
+      {
+        "id": "2",
+        "question": "O que a 'Situação' deve fazer para o leitor?",
+        "options": [
+          { "value": "a", "label": "Criar tensão." },
+          { "value": "b", "label": "Fazer o leitor se sentir confortável e alinhado com o autor (terreno comum)." },
+          { "value": "c", "label": "Apresentar a Resposta." },
+          { "value": "d", "label": "Fazer uma pergunta." }
+        ],
+        "explanation": "O alinhamento inicial é crucial para a credibilidade.",
+        "hint": "Alinhamento.",
+        "correctAnswer": "b",
+        "bookExample": "Comece com o que é conhecido e aceito."
+      },
+      {
+        "id": "3",
+        "question": "O que a 'Complicação' deve fazer para o leitor?",
+        "options": [
+          { "value": "a", "label": "Resolver o problema." },
+          { "value": "b", "label": "Criar a tensão e a urgência que exigem uma resposta." },
+          { "value": "c", "label": "Apresentar a Situação." },
+          { "value": "d", "label": "Fazer uma pergunta." }
+        ],
+        "explanation": "A Complicação é o motor da comunicação.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "A Complicação deve ser um evento que muda o estado da Situação."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de ter um fluxo narrativo que não leva à Pergunta?",
+        "options": [
+          { "value": "a", "label": "O documento fica muito curto." },
+          { "value": "b", "label": "O leitor não entende por que a Resposta é relevante ou por que ele precisa ler o resto do documento." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "A Pergunta é o elo direto para a Resposta.",
+        "hint": "Elo.",
+        "correctAnswer": "b",
+        "bookExample": "A Pergunta deve ser a questão que o leitor faria se estivesse na sala."
+      },
+      {
+        "id": "5",
+        "question": "O que o autor deve fazer se o leitor não se importar com a Complicação?",
+        "options": [
+          { "value": "a", "label": "Ignorar a Complicação." },
+          { "value": "b", "label": "Revisitar a Situação e a Complicação para garantir que sejam relevantes para o público-alvo." },
+          { "value": "c", "label": "Mudar a Resposta." },
+          { "value": "d", "label": "Fazer uma pergunta." }
+        ],
+        "explanation": "A relevância é crucial para o engajamento.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "A Introdução deve ser um espelho da mente do leitor."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o erro mais comum ao escrever a Introdução?",
+        "options": [
+          { "value": "a", "label": "Torná-la muito curta." },
+          { "value": "b", "label": "Começar com a Resposta ou com a história do autor, em vez do SCQ." },
+          { "value": "c", "label": "Torná-la muito longa." },
+          { "value": "d", "label": "Usar a Complicação." }
+        ],
+        "explanation": "A Introdução deve ser focada no leitor e no problema.",
+        "hint": "Foco no leitor.",
+        "correctAnswer": "b",
+        "bookExample": "A Introdução é a ponte entre o que o leitor sabe e o que você está prestes a dizer."
+      },
+      {
+        "id": "7",
+        "question": "O que o autor deve fazer se a Situação for muito longa?",
+        "options": [
+          { "value": "a", "label": "Dividir a Situação em duas." },
+          { "value": "b", "label": "Resumir a Situação para manter o foco e a concisão." },
+          { "value": "c", "label": "Ignorar a Situação." },
+          { "value": "d", "label": "Mudar a Resposta." }
+        ],
+        "explanation": "A concisão é crucial.",
+        "hint": "Concisão.",
+        "correctAnswer": "b",
+        "bookExample": "Mantenha a Introdução concisa e focada."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o principal benefício de ter um fluxo narrativo claro?",
+        "options": [
+          { "value": "a", "label": "O documento fica mais longo." },
+          { "value": "b", "label": "Garante que o leitor se sinta guiado e que a lógica da Pirâmide seja aceita." },
+          { "value": "c", "label": "O autor pode usar mais jargões." },
+          { "value": "d", "label": "A Pirâmide fica mais larga." }
+        ],
+        "explanation": "A aceitação da lógica é o objetivo.",
+        "hint": "Aceitação.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza da Pirâmide é a clareza do seu pensamento."
+      },
+      {
+        "id": "9",
+        "question": "O que a 'Pergunta' deve fazer para o leitor?",
+        "options": [
+          { "value": "a", "label": "Fazer uma lista de ações." },
+          { "value": "b", "label": "Criar a necessidade de ler a Resposta (o topo da Pirâmide)." },
+          { "value": "c", "label": "Apresentar a Complicação." },
+          { "value": "d", "label": "Apresentar a Situação." }
+        ],
+        "explanation": "A Pergunta é o gancho final.",
+        "hint": "Gancho final.",
+        "correctAnswer": "b",
+        "bookExample": "A Pergunta deve ser a questão que o leitor faria se estivesse na sala."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de garantir que o fluxo narrativo seja eficaz?",
+        "options": [
+          { "value": "a", "label": "Torná-lo muito longo." },
+          { "value": "b", "label": "Garantir que a Situação, Complicação e Pergunta sejam logicamente conectadas e relevantes para o leitor." },
+          { "value": "c", "label": "Usar muitos detalhes." },
+          { "value": "d", "label": "Usar jargões." }
+        ],
+        "explanation": "A conexão lógica e a relevância são a chave.",
+        "hint": "Conexão lógica.",
+        "correctAnswer": "b",
+        "bookExample": "A Introdução deve ser um resumo da história que o leitor já conhece."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "A Estrutura da Escrita: O Uso de Listas",
+    "teaser": "📌 3 a 7 ideias semelhantes? Use uma lista. É a ferramenta de formatação **mais amigável** para a retenção de Indução.",
+    "level1": "Listas (numeradas ou com marcadores) são a forma visual mais clara de apresentar argumentos Indutivos (agrupamentos de ideias semelhantes) e, portanto, são cruciais nos níveis de suporte da Pirâmide.",
+    "level2": "Elas devem ser usadas sempre que você tiver 3 a 7 ideias (o limite da memória de curto prazo) que são Homogêneas (do mesmo tipo lógico) e MECE (Mutuamente Exclusivas e Coletivamente Exaustivas).",
+    "level3": "O uso de listas melhora drasticamente a velocidade de leitura e a retenção. O risco é usá-las para misturar tipos lógicos (ex: uma lista com uma 'Razão' e um 'Passo'), o que quebra a Homogeneidade e confunde o leitor.",
+    "recapitulation": [
+      "Listas são a melhor forma de apresentar argumentos Indutivos (Nível 2+).",
+      "Ideal para grupos de 3 a 7 itens.",
+      "Cada item da lista deve ser Homogêneo e a lista, como um todo, deve ser MECE.",
+      "Melhora a velocidade de leitura e a retenção da informação.",
+      "Se tiver mais de 7 itens, agrupe-os em categorias mais amplas e homogêneas."
+    ],
+    "practicalChecklist": [
+      "Sempre que tiver 3 a 7 ideias de suporte, use listas.",
+      "Revise suas listas para garantir que todos os itens sejam do mesmo tipo lógico (Homogeneidade).",
+      "Verifique o MECE: Os itens são distintos e cobrem o ponto de forma completa?",
+      "Use um Tópico Frasal (ideia superior) que introduza claramente o que a lista representa (ex: 'Isso será alcançado por 3 passos:')."
+    ],
+    "conclusionMessage": "Listas devem ser usadas para apresentar argumentos Indutivos (agrupamentos de ideias semelhantes) e devem seguir a regra MECE.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal função das 'Listas' na Pirâmide?",
+        "options": [
+          { "value": "a", "label": "Apresentar argumentos Dedutivos." },
+          { "value": "b", "label": "Apresentar argumentos Indutivos (agrupamentos de ideias semelhantes) de forma clara e concisa." },
+          { "value": "c", "label": "Fazer uma pergunta." },
+          { "value": "d", "label": "Apresentar a Complicação." }
+        ],
+        "explanation": "Listas são a forma mais comum de Indução.",
+        "hint": "Indução.",
+        "correctAnswer": "b",
+        "bookExample": "A Indução é a lista de fatos que, juntos, suportam uma ideia."
+      },
+      {
+        "id": "2",
+        "question": "O que a regra MECE exige das listas?",
+        "options": [
+          { "value": "a", "label": "Que sejam todas do mesmo tamanho." },
+          { "value": "b", "label": "Que os itens sejam distintos (ME) e que, juntos, cubram o ponto completamente (CE)." },
+          { "value": "c", "label": "Que sejam todas controversas." },
+          { "value": "d", "label": "Que sejam todas dedutivas." }
+        ],
+        "explanation": "MECE é a prova de que o autor pensou de forma estruturada.",
+        "hint": "Solidez lógica.",
+        "correctAnswer": "b",
+        "bookExample": "A estrutura MECE é a base da credibilidade."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de ter itens de lista que se sobrepõem (Não ME)?",
+        "options": [
+          { "value": "a", "label": "O documento fica muito curto." },
+          { "value": "b", "label": "O leitor se confunde sobre a distinção dos pontos e questiona a lógica do agrupamento." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "A sobreposição é o inimigo da clareza.",
+        "hint": "Clareza.",
+        "correctAnswer": "b",
+        "bookExample": "A sobreposição é o inimigo da clareza."
+      },
+      {
+        "id": "4",
+        "question": "O que a Homogeneidade exige dos itens de lista?",
+        "options": [
+          { "value": "a", "label": "Que sejam todos do mesmo tamanho." },
+          { "value": "b", "label": "Que sejam todos do mesmo tipo lógico (ex: todos razões, todos passos)." },
+          { "value": "c", "label": "Que sejam todos controversos." },
+          { "value": "d", "label": "Que sejam todos dedutivos." }
+        ],
+        "explanation": "A homogeneidade é essencial para a aplicação da regra MECE.",
+        "hint": "Tipo lógico.",
+        "correctAnswer": "b",
+        "bookExample": "As ideias em cada agrupamento devem ser logicamente semelhantes."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o número ideal de itens em uma lista?",
+        "options": [
+          { "value": "a", "label": "Apenas um." },
+          { "value": "b", "label": "Três a sete." },
+          { "value": "c", "label": "Mais de dez." },
+          { "value": "d", "label": "Qualquer número." }
+        ],
+        "explanation": "O limite de 7 itens é crucial para a retenção.",
+        "hint": "Limite da memória.",
+        "correctAnswer": "b",
+        "bookExample": "O número mágico é 7, mais ou menos 2."
+      },
+      {
+        "id": "6",
+        "question": "O que o autor deve fazer se uma lista tiver mais de 7 itens?",
+        "options": [
+          { "value": "a", "label": "Incluir todos os itens." },
+          { "value": "b", "label": "Agrupar os itens em categorias MECE mais amplas (criando um novo nível acima)." },
+          { "value": "c", "label": "Ignorar os itens extras." },
+          { "value": "d", "label": "Mudar a Resposta." }
+        ],
+        "explanation": "O agrupamento é necessário para manter a clareza.",
+        "hint": "Agrupamento.",
+        "correctAnswer": "b",
+        "bookExample": "A mente só pode reter cerca de três a sete itens de informação de uma vez."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o principal benefício de usar listas?",
+        "options": [
+          { "value": "a", "label": "O documento fica mais longo." },
+          { "value": "b", "label": "Melhora a velocidade de leitura e a retenção da informação." },
+          { "value": "c", "label": "O autor pode usar mais jargões." },
+          { "value": "d", "label": "A Pirâmide fica mais larga." }
+        ],
+        "explanation": "A velocidade de leitura é otimizada.",
+        "hint": "Velocidade de leitura.",
+        "correctAnswer": "b",
+        "bookExample": "A Indução é mais fácil de construir e mais rápida de ler."
+      },
+      {
+        "id": "8",
+        "question": "O que a 'Relação Vertical' exige da lista?",
+        "options": [
+          { "value": "a", "label": "Que os itens sejam longos." },
+          { "value": "b", "label": "Que a lista, como um todo, seja a resposta direta à pergunta implícita levantada pela ideia superior." },
+          { "value": "c", "label": "Que os itens sejam controversos." },
+          { "value": "d", "label": "Que os itens sejam dedutivos." }
+        ],
+        "explanation": "A lista é o suporte hierárquico.",
+        "hint": "Suporte hierárquico.",
+        "correctAnswer": "b",
+        "bookExample": "A Pirâmide é construída através de um diálogo contínuo de Pergunta e Resposta."
+      },
+      {
+        "id": "9",
+        "question": "Se a ideia superior é 'Devemos fazer X', qual seria uma lista Indutiva apropriada?",
+        "options": [
+          { "value": "a", "label": "P1, P2, Conclusão." },
+          { "value": "b", "label": "Passo 1, Passo 2, Passo 3 (Ações)." },
+          { "value": "c", "label": "Situação, Complicação, Pergunta." },
+          { "value": "d", "label": "Razão 1, Razão 2, Razão 3 (Razões)." }
+        ],
+        "explanation": "A lista deve ser homogênea (todas ações ou todas razões).",
+        "hint": "Homogeneidade.",
+        "correctAnswer": "b",
+        "bookExample": "Ações levantam a questão 'Como?' ou 'Por que?'"
+      },
+      {
+        "id": "10",
+        "question": "Qual é o erro mais comum ao usar listas?",
+        "options": [
+          { "value": "a", "label": "Usar muitas listas." },
+          { "value": "b", "label": "Misturar tipos lógicos (ex: uma razão e um passo) na mesma lista." },
+          { "value": "c", "label": "Usar listas muito curtas." },
+          { "value": "d", "label": "Usar listas muito longas." }
+        ],
+        "explanation": "A mistura de tipos lógicos quebra a homogeneidade.",
+        "hint": "Homogeneidade.",
+        "correctAnswer": "b",
+        "bookExample": "Mantenha a consistência lógica em cada agrupamento."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "A Estrutura da Escrita: O Uso de Palavras de Transição",
+    "teaser": "➡️ As palavras como 'Portanto', 'Além disso' e 'No entanto' são seus **sinais de trânsito**. Use-as para guiar o leitor pela sua lógica.",
+    "level1": "Palavras de transição são cruciais para manter o fluxo lógico (coerência e coesão) da Pirâmide. Elas funcionam como 'sinais' que indicam a relação entre as ideias (vertical e horizontal).",
+    "level2": "O uso incorreto ou a ausência dessas palavras pode fazer com que o leitor se perca na lógica. 'Portanto' indica Dedução/Conclusão, 'Além disso' indica Indução/Agrupamento e 'No entanto' indica Complicação/Contraste.",
+    "level3": "A transição deve ser clara em todos os níveis. Se você está descendo na Pirâmide (detalhando), as palavras de transição devem indicar um suporte. Se está subindo (resumindo), devem indicar uma conclusão.",
+    "recapitulation": [
+      "Palavras de transição são os guias lógicos para o leitor.",
+      "'Portanto' = Indica conclusão ou Dedução.",
+      "'Além disso', 'Em primeiro lugar' = Indicam agrupamento ou Indução.",
+      "'No entanto', 'Mas' = Indicam Complicação ou contraste.",
+      "O mau uso ou a ausência quebra a lógica e a clareza da comunicação."
+    ],
+    "practicalChecklist": [
+      "Use 'No entanto' para ligar a Situação à Complicação (S → C).",
+      "Use 'Portanto' ou 'Em resumo' para apresentar a Resposta após a Pergunta (Q → Resposta).",
+      "Use 'Em primeiro lugar', 'Além disso', 'Finalmente' para listar argumentos Indutivos (Relação Horizontal).",
+      "Revise seu texto, parágrafo por parágrafo, garantindo que as transições entre as frases sejam lógicas."
+    ],
+    "conclusionMessage": "Palavras de transição (ex: 'Portanto', 'Além disso', 'No entanto') devem ser usadas para guiar o leitor através da lógica da Pirâmide.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal função das 'Palavras de Transição'?",
+        "options": [
+          { "value": "a", "label": "Tornar o documento mais longo." },
+          { "value": "b", "label": "Guiar o leitor através da lógica da Pirâmide, indicando a relação entre as ideias." },
+          { "value": "c", "label": "Fazer uma pergunta." },
+          { "value": "d", "label": "Apresentar a Complicação." }
+        ],
+        "explanation": "As palavras de transição são os sinais lógicos.",
+        "hint": "Sinais lógicos.",
+        "correctAnswer": "b",
+        "bookExample": "Use palavras de transição para manter o fluxo lógico."
+      },
+      {
+        "id": "2",
+        "question": "Qual palavra de transição é mais apropriada para indicar uma conclusão (Dedução)?",
+        "options": [
+          { "value": "a", "label": "Além disso." },
+          { "value": "b", "label": "Portanto (Therefore)." },
+          { "value": "c", "label": "No entanto." },
+          { "value": "d", "label": "Em primeiro lugar." }
+        ],
+        "explanation": "'Portanto' indica que a conclusão é uma consequência lógica das premissas.",
+        "hint": "Consequência lógica.",
+        "correctAnswer": "b",
+        "bookExample": "A dedução é a forma mais rigorosa de suporte lógico."
+      },
+      {
+        "id": "3",
+        "question": "Qual palavra de transição é mais apropriada para indicar um agrupamento (Indução)?",
+        "options": [
+          { "value": "a", "label": "Portanto." },
+          { "value": "b", "label": "Além disso (Furthermore) ou Em primeiro lugar." },
+          { "value": "c", "label": "No entanto." },
+          { "value": "d", "label": "Em conclusão." }
+        ],
+        "explanation": "Essas palavras indicam que a ideia é um item em uma lista de suporte.",
+        "hint": "Lista de suporte.",
+        "correctAnswer": "b",
+        "bookExample": "A indução é a lista de fatos que, juntos, suportam uma ideia."
+      },
+      {
+        "id": "4",
+        "question": "Qual palavra de transição é mais apropriada para indicar uma Complicação?",
+        "options": [
+          { "value": "a", "label": "Portanto." },
+          { "value": "b", "label": "No entanto (However) ou Mas." },
+          { "value": "c", "label": "Além disso." },
+          { "value": "d", "label": "Em primeiro lugar." }
+        ],
+        "explanation": "A Complicação quebra a normalidade da Situação.",
+        "hint": "Quebra de normalidade.",
+        "correctAnswer": "b",
+        "bookExample": "A Complicação deve ser um evento que muda o estado da Situação."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de não usar palavras de transição?",
+        "options": [
+          { "value": "a", "label": "O documento fica muito curto." },
+          { "value": "b", "label": "O leitor se perde na lógica e não consegue entender a relação entre as ideias." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "As palavras de transição são a cola da lógica.",
+        "hint": "Cola lógica.",
+        "correctAnswer": "b",
+        "bookExample": "Use palavras de transição para manter o fluxo lógico."
+      },
+      {
+        "id": "6",
+        "question": "O que o autor deve fazer se a transição entre dois parágrafos for difícil?",
+        "options": [
+          { "value": "a", "label": "Ignorar a transição." },
+          { "value": "b", "label": "Revisitar a lógica da Pirâmide para garantir que a relação vertical e horizontal seja clara." },
+          { "value": "c", "label": "Mudar a Resposta." },
+          { "value": "d", "label": "Fazer uma pergunta." }
+        ],
+        "explanation": "A dificuldade na transição é um sinal de falha lógica.",
+        "hint": "Falha lógica.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza da Pirâmide depende da clareza da relação vertical."
+      },
+      {
+        "id": "7",
+        "question": "O que a 'Relação Vertical' exige das palavras de transição?",
+        "options": [
+          { "value": "a", "label": "Que sejam todas do mesmo tamanho." },
+          { "value": "b", "label": "Que indiquem claramente se a ideia seguinte é um suporte (descendo) ou um resumo (subindo)." },
+          { "value": "c", "label": "Que sejam todas controversas." },
+          { "value": "d", "label": "Que sejam todas dedutivas." }
+        ],
+        "explanation": "As palavras de transição guiam o leitor através da hierarquia.",
+        "hint": "Hierarquia.",
+        "correctAnswer": "b",
+        "bookExample": "A Pirâmide é construída através de um diálogo contínuo de Pergunta e Resposta."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de usar palavras de transição de forma incorreta?",
+        "options": [
+          { "value": "a", "label": "O documento fica muito curto." },
+          { "value": "b", "label": "O leitor é guiado para uma conclusão lógica incorreta." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "A transição incorreta quebra a lógica.",
+        "hint": "Quebra de lógica.",
+        "correctAnswer": "b",
+        "bookExample": "Use palavras de transição para manter o fluxo lógico."
+      },
+      {
+        "id": "9",
+        "question": "Se você está subindo na Pirâmide (resumindo), qual palavra de transição é mais apropriada?",
+        "options": [
+          { "value": "a", "label": "Além disso." },
+          { "value": "b", "label": "Em resumo (In summary) ou Em conclusão." },
+          { "value": "c", "label": "No entanto." },
+          { "value": "d", "label": "Em primeiro lugar." }
+        ],
+        "explanation": "Essas palavras indicam que a ideia é um resumo das ideias abaixo.",
+        "hint": "Resumo.",
+        "correctAnswer": "b",
+        "bookExample": "As ideias em cada nível devem ser um resumo das ideias agrupadas abaixo delas."
+      },
+      {
+        "id": "10",
+        "question": "O que as palavras de transição ajudam o autor a fazer?",
+        "options": [
+          { "value": "a", "label": "Escrever mais rápido." },
+          { "value": "b", "label": "Garantir que o fluxo lógico seja claro e que o leitor retenha a informação em cada etapa." },
+          { "value": "c", "label": "Usar mais jargões." },
+          { "value": "d", "label": "Ignorar a audiência." }
+        ],
+        "explanation": "A clareza na escrita é um reflexo da clareza no pensamento.",
+        "hint": "Clareza mental.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não consegue estruturar seu pensamento, você não consegue estruturar sua escrita."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "A Revisão Final: Testando a Lógica da Pirâmide",
+    "teaser": "🔍 Seu último trabalho: **Teste implacável**. Leia só os títulos, verifique a lógica vertical e garanta que sua Pirâmide seja inquebrável.",
+    "level1": "A revisão final deve se concentrar em testar a lógica da Pirâmide, e não apenas a gramática. É a garantia de que a estrutura é sólida e a mensagem é inconfundível.",
+    "level2": "O primeiro passo é ler apenas os títulos e subtítulos (as afirmações) para testar o fluxo lógico geral (esboço). Em seguida, faça o Teste Vertical (Pergunta/Resposta) em cada nível, descendo pela Pirâmide. Depois, faça o Teste Horizontal (MECE e Homogeneidade) em cada agrupamento.",
+    "level3": "O Teste Vertical é o mais importante: se a ideia superior levanta uma pergunta que não é respondida pelo nível abaixo, há um salto lógico (o erro mais grave). A lógica deve ser impecável para manter a credibilidade.",
+    "recapitulation": [
+      "Revisão focada em LÓGICA (vertical e horizontal), não apenas em gramática.",
+      "Passo 1: Ler só títulos para testar o fluxo geral (o esqueleto).",
+      "Teste Vertical: Verificar a cadeia Pergunta → Resposta em cada nível.",
+      "Teste Horizontal: Verificar MECE e Homogeneidade em cada agrupamento.",
+      "Se encontrar uma falha, **não ignore**: corrija a estrutura ou os argumentos."
+    ],
+    "practicalChecklist": [
+      "Leia apenas seus títulos e subtítulos: A história é clara, concisa e conclusiva?",
+      "Para cada ideia (título ou afirmação), pergunte: 'Por que isso é verdade?' ou 'Como isso será feito?'. Verifique se a resposta está no nível inferior.",
+      "Verifique cada lista (N2, N3) para garantir que não haja sobreposição (ME) ou buracos (CE).",
+      "Verifique se o seu Ponto Principal (Resposta) é o resultado lógico inegável da sua base de evidências (construção de baixo para cima)."
+    ],
+    "conclusionMessage": "A revisão final deve focar em testar a lógica da Pirâmide (Vertical e Horizontal) e a clareza da Introdução (SCQ).",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o primeiro passo na revisão final da Pirâmide?",
+        "options": [
+          { "value": "a", "label": "Revisar a gramática." },
+          { "value": "b", "label": "Ler apenas os títulos (afirmações) para testar o fluxo lógico geral." },
+          { "value": "c", "label": "Revisar os dados brutos." },
+          { "value": "d", "label": "Revisar a Introdução." }
+        ],
+        "explanation": "O fluxo lógico geral é o mais importante.",
+        "hint": "Fluxo lógico.",
+        "correctAnswer": "b",
+        "bookExample": "O leitor deve ser capaz de entender a história completa apenas lendo os títulos."
+      },
+      {
+        "id": "2",
+        "question": "O que o 'Teste Vertical' envolve?",
+        "options": [
+          { "value": "a", "label": "Garantir que as ideias sejam homogêneas." },
+          { "value": "b", "label": "Garantir que a ideia superior levante uma pergunta e que as ideias inferiores a respondam diretamente." },
+          { "value": "c", "label": "Garantir que as ideias sejam MECE." },
+          { "value": "d", "label": "Garantir que as ideias sejam dedutivas." }
+        ],
+        "explanation": "O teste é a aplicação da regra Pergunta/Resposta.",
+        "hint": "Pergunta/Resposta.",
+        "correctAnswer": "b",
+        "bookExample": "A Pirâmide é construída através de um diálogo contínuo de Pergunta e Resposta."
+      },
+      {
+        "id": "3",
+        "question": "O que o 'Teste Horizontal' envolve?",
+        "options": [
+          { "value": "a", "label": "Garantir que as ideias sejam longas." },
+          { "value": "b", "label": "Garantir que as ideias em um mesmo nível sejam MECE e Homogêneas." },
+          { "value": "c", "label": "Garantir que as ideias sejam controversas." },
+          { "value": "d", "label": "Garantir que as ideias sejam dedutivas." }
+        ],
+        "explanation": "O teste é a aplicação da regra MECE e Homogeneidade.",
+        "hint": "MECE e Homogeneidade.",
+        "correctAnswer": "b",
+        "bookExample": "A estrutura MECE é a base da credibilidade."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de pular a revisão final?",
+        "options": [
+          { "value": "a", "label": "O documento fica muito curto." },
+          { "value": "b", "label": "A Pirâmide pode conter falhas lógicas (sobreposição, saltos lógicos) que comprometem a clareza e a credibilidade." },
+          { "value": "c", "label": "O autor se confunde." },
+          { "value": "d", "label": "A Pirâmide fica muito larga." }
+        ],
+        "explanation": "A revisão é a garantia de qualidade.",
+        "hint": "Garantia de qualidade.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza da Pirâmide depende da clareza do seu pensamento."
+      },
+      {
+        "id": "5",
+        "question": "O que o autor deve fazer se encontrar uma falha na relação vertical?",
+        "options": [
+          { "value": "a", "label": "Ignorar a falha." },
+          { "value": "b", "label": "Revisar a ideia superior ou as ideias inferiores para garantir que a pergunta seja respondida diretamente." },
+          { "value": "c", "label": "Mudar a Resposta." },
+          { "value": "d", "label": "Fazer uma pergunta." }
+        ],
+        "explanation": "A falha vertical é o erro mais grave.",
+        "hint": "Erro grave.",
+        "correctAnswer": "b",
+        "bookExample": "Se a relação vertical falhar, a Pirâmide desmorona."
+      },
+      {
+        "id": "6",
+        "question": "O que o autor deve fazer se encontrar uma falha na regra MECE?",
+        "options": [
+          { "value": "a", "label": "Ignorar a falha." },
+          { "value": "b", "label": "Reagrupar as ideias em categorias MECE mais amplas ou mais específicas." },
+          { "value": "c", "label": "Mudar a Resposta." },
+          { "value": "d", "label": "Fazer uma pergunta." }
+        ],
+        "explanation": "O reagrupamento é necessário para restaurar a lógica.",
+        "hint": "Reagrupamento.",
+        "correctAnswer": "b",
+        "bookExample": "A sobreposição é o inimigo da clareza."
+      },
+      {
+        "id": "7",
+        "question": "O que o teste da Introdução (SCQ) deve garantir?",
+        "options": [
+          { "value": "a", "label": "Que a Introdução seja longa." },
+          { "value": "b", "label": "Que a Situação, Complicação e Pergunta levem logicamente à Resposta no topo." },
+          { "value": "c", "label": "Que a Introdução seja controversa." },
+          { "value": "d", "label": "Que a Introdução seja dedutiva." }
+        ],
+        "explanation": "O SCQ é o gancho para o Ponto Principal.",
+        "hint": "Gancho.",
+        "correctAnswer": "b",
+        "bookExample": "A Introdução é a ponte entre o que o leitor sabe e o que você está prestes a dizer."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o principal benefício de testar a lógica da Pirâmide?",
+        "options": [
+          { "value": "a", "label": "O documento fica mais longo." },
+          { "value": "b", "label": "Garante que a comunicação seja clara, persuasiva e que o leitor retenha a informação." },
+          { "value": "c", "label": "O autor pode usar mais jargões." },
+          { "value": "d", "label": "A Pirâmide fica mais larga." }
+        ],
+        "explanation": "A clareza e a persuasão são os objetivos.",
+        "hint": "Clareza e persuasão.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza da Pirâmide é a clareza do seu pensamento."
+      },
+      {
+        "id": "9",
+        "question": "O que o autor deve fazer se o Ponto Principal não for suportado pelos argumentos abaixo?",
+        "options": [
+          { "value": "a", "label": "Ignorar a falha." },
+          { "value": "b", "label": "Mudar o Ponto Principal para refletir a conclusão real dos argumentos, ou encontrar novos argumentos de suporte." },
+          { "value": "c", "label": "Mudar a Introdução." },
+          { "value": "d", "label": "Fazer uma pergunta." }
+        ],
+        "explanation": "O Ponto Principal deve emergir dos dados.",
+        "hint": "Emergência.",
+        "correctAnswer": "b",
+        "bookExample": "A força da sua Pirâmide é determinada pela força da sua base."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de garantir que a Pirâmide seja eficaz?",
+        "options": [
+          { "value": "a", "label": "Torná-la muito longa." },
+          { "value": "b", "label": "Garantir que a lógica vertical e horizontal seja impecável e que a Introdução engaje o leitor." },
+          { "value": "c", "label": "Usar muitos detalhes." },
+          { "value": "d", "label": "Usar jargões." }
+        ],
+        "explanation": "A lógica impecável e o engajamento são a chave.",
+        "hint": "Impecabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza da Pirâmide é a clareza do seu pensamento."
+      }
+    ]
+  }
+]

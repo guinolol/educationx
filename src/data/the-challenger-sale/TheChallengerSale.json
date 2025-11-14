@@ -1,0 +1,3302 @@
+[
+  {
+"id": 1,
+    "title": "O Mito do Vendedor Relacionamento",
+    "teaser": "🎭 O vendedor de relacionamento é o **MENOS eficaz** em vendas complexas. O Desafiador é o professor que vence.",
+    "level1": "O livro desafia a crença de que o melhor vendedor é aquele que constrói relacionamentos profundos. Em vendas complexas B2B, os clientes valorizam mais o **INSIGHT** e a capacidade de desafiar seu pensamento do que a amizade.",
+    "level2": "Em vez de ser um 'amigo' do cliente, o vendedor deve ser um **'professor'** que traz novas perspectivas. O relacionamento é importante, mas é construído sobre o valor do insight, não sobre a simpatia pessoal.",
+    "level3": "Ruim: 'O que posso fazer para te ajudar?' Bom: 'Com base no que vi em sua indústria, você está cometendo um erro caro em X. Deixe-me mostrar por quê.'",
+    "recapitulation": [
+      "O Vendedor Relacionamento é o mais comum, mas o **menos eficaz** em vendas complexas.",
+      "Clientes buscam um **Professor** (Insight), não um Amigo (Simpatia).",
+      "**Insight** é a nova moeda de troca; justifica o preço premium.",
+      "O Desafiador vence ao vender a **mudança** e não o produto.",
+      "A **Tensão Construtiva** (desconforto sobre o status quo) é necessária para motivar a ação."
+    ],
+    "practicalChecklist": [
+      "Deixe de tentar ser amigo do cliente – seja um **Professor**.",
+      "Prepare insights contraintuitivos que **desafiem o pensamento** dele.",
+      "Use **dados** para provar que o status quo é insustentável (Custo da Inação).",
+      "Assuma o controle da conversa, guiando o cliente para a sua solução.",
+      "Gere um desconforto (Tensão Construtiva) que force o cliente a agir."
+    ],
+    "conclusionMessage": "O vendedor que foca apenas em construir relacionamentos é o menos eficaz em ambientes de vendas complexas. O Desafiador (Challenger) vence.",    
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual tipo de vendedor é o menos eficaz em vendas complexas, segundo o estudo?",
+        "options": [
+          { "value": "a", "label": "O Desafiador (Challenger)." },
+          { "value": "b", "label": "O Construtor de Relacionamento (Relationship Builder)." },
+          { "value": "c", "label": "O Solucionador de Problemas (Problem Solver)." },
+          { "value": "d", "label": "O Lobo Solitário (Lone Wolf)." }
+        ],
+        "explanation": "O Construtor de Relacionamento tende a ceder demais e não consegue desafiar o pensamento do cliente.",
+        "hint": "Amizade.",
+        "correctAnswer": "b",
+        "bookExample": "O Construtor de Relacionamento é o mais comum, mas o menos eficaz."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a principal característica que os clientes mais valorizam em um vendedor de sucesso?",
+        "options": [
+          { "value": "a", "label": "Simpatia e disponibilidade." },
+          { "value": "b", "label": "A capacidade de ensinar e trazer novas perspectivas (insight)." },
+          { "value": "c", "label": "Preços baixos." },
+          { "value": "d", "label": "Conhecimento técnico profundo do produto." }
+        ],
+        "explanation": "O cliente busca alguém que o ajude a ver o mundo de forma diferente.",
+        "hint": "Perspectiva.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não precisa de um amigo, precisa de um professor."
+      },
+      {
+        "id": "3",
+        "question": "O que o Vendedor Desafiador faz de diferente em relação ao cliente?",
+        "options": [
+          { "value": "a", "label": "Concorda com todas as demandas do cliente." },
+          { "value": "b", "label": "Desafia o pensamento do cliente, ensinando-o sobre problemas que ele não sabia que tinha." },
+          { "value": "c", "label": "Foca em dar descontos." },
+          { "value": "d", "label": "Foca em construir laços pessoais." }
+        ],
+        "explanation": "O Desafiador assume o controle da conversa e reestrutura a visão do cliente.",
+        "hint": "Reestruturação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não vende o que o cliente quer, vende o que ele precisa."
+      },
+      {
+        "id": "4",
+        "question": "Qual dos 5 perfis de vendedor é o mais bem-sucedido em vendas complexas?",
+        "options": [
+          { "value": "a", "label": "O Lobo Solitário." },
+          { "value": "b", "label": "O Desafiador." },
+          { "value": "c", "label": "O Reativo." },
+          { "value": "d", "label": "O Construtor de Relacionamento." }
+        ],
+        "explanation": "O Desafiador representa 39% dos vendedores de alto desempenho.",
+        "hint": "Maioria.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é o perfil dominante de alto desempenho."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Comércio de Insight' (Insight Selling)?",
+        "options": [
+          { "value": "a", "label": "Vender produtos de tecnologia." },
+          { "value": "b", "label": "A troca de informações valiosas e novas perspectivas pelo tempo e atenção do cliente." },
+          { "value": "c", "label": "Vender apenas para clientes que já sabem o que querem." },
+          { "value": "d", "label": "Dar descontos para fechar o negócio." }
+        ],
+        "explanation": "O insight é a moeda de troca do Desafiador.",
+        "hint": "Moeda.",
+        "correctAnswer": "b",
+        "bookExample": "O insight é o que justifica o preço premium."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de focar apenas no relacionamento em vendas B2B?",
+        "options": [
+          { "value": "a", "label": "O cliente se torna muito exigente." },
+          { "value": "b", "label": "O vendedor se torna um 'solucionador de problemas reativo', incapaz de influenciar a estratégia do cliente." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O ciclo de vendas se torna mais rápido." }
+        ],
+        "explanation": "O vendedor relacionamento é visto como um fornecedor, não como um parceiro estratégico.",
+        "hint": "Fornecedor.",
+        "correctAnswer": "b",
+        "bookExample": "O relacionamento sem insight é apenas amizade, não valor."
+      },
+      {
+        "id": "7",
+        "question": "O que o Desafiador faz para 'Assumir o Controle' da conversa?",
+        "options": [
+          { "value": "a", "label": "Fala mais alto que o cliente." },
+          { "value": "b", "label": "Guia o cliente através de uma narrativa estruturada (Teaching) que leva à solução do vendedor." },
+          { "value": "c", "label": "Dá um desconto." },
+          { "value": "d", "label": "Foca em responder a todas as perguntas do cliente." }
+        ],
+        "explanation": "O Desafiador controla o fluxo de informação.",
+        "hint": "Guia.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não espera o cliente pedir; ele diz o que o cliente precisa."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a principal diferença entre o Desafiador e o Solucionador de Problemas?",
+        "options": [
+          { "value": "a", "label": "O Desafiador é mais simpático." },
+          { "value": "b", "label": "O Desafiador ensina o cliente sobre problemas que ele não sabia que tinha; o Solucionador de Problemas resolve apenas o que o cliente já identificou." },
+          { "value": "c", "label": "O Solucionador de Problemas é mais agressivo." },
+          { "value": "d", "label": "O Desafiador é mais barato." }
+        ],
+        "explanation": "O Desafiador cria a demanda; o Solucionador de Problemas reage à demanda existente.",
+        "hint": "Criação de demanda.",
+        "correctAnswer": "b",
+        "bookExample": "O Solucionador de Problemas é um reativo caro."
+      },
+      {
+        "id": "9",
+        "question": "O que é 'Tensão Construtiva' (Constructive Tension)?",
+        "options": [
+          { "value": "a", "label": "Um conflito com o cliente." },
+          { "value": "b", "label": "O desconforto gerado ao desafiar o pensamento do cliente, que é necessário para motivar a mudança." },
+          { "value": "c", "label": "Um desconto." },
+          { "value": "d", "label": "Um elogio." }
+        ],
+        "explanation": "O Desafiador usa a tensão para impulsionar a ação.",
+        "hint": "Desconforto.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está gerando tensão, você não está desafiando."
+      },
+      {
+        "id": "10",
+        "question": "Em que tipo de ambiente de vendas o perfil Desafiador é mais eficaz?",
+        "options": [
+          { "value": "a", "label": "Vendas transacionais simples." },
+          { "value": "b", "label": "Vendas complexas B2B, onde múltiplos stakeholders estão envolvidos e a solução é estratégica." },
+          { "value": "c", "label": "Vendas de varejo." },
+          { "value": "d", "label": "Vendas de baixo valor." }
+        ],
+        "explanation": "A complexidade exige insights e a capacidade de alinhar diferentes visões.",
+        "hint": "Estratégia.",
+        "correctAnswer": "b",
+        "bookExample": "Quanto mais complexa a venda, mais o Desafiador brilha."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Os 5 Perfis de Vendedor",
+    "teaser": "🎯 Apenas 2 tipos de vendedor alcançam **ALTO DESEMPENHO**: Desafiador e Lobo Solitário. Mas só o Desafiador é treinável.",
+    "level1": "O estudo identificou 5 perfis: Relacionamento, Trabalhador Duro, Solucionador Reativo, Lobo Solitário, Desafiador. O Desafiador e o Lobo Solitário são os mais eficazes, mas o Desafiador é o modelo ideal para escalar.",
+    "level2": "O Lobo Solitário é eficaz por **talento inato** e é impossível de gerenciar/replicar. O Desafiador é eficaz por **Habilidades Treináveis** (Ensinar, Adaptar, Assumir Controle).",
+    "level3": "Os **3 Pilares do Desafiador** são a chave para a replicabilidade: **TEACH** (Ensina), **TAILOR** (Adapta a mensagem), **TAKE CONTROL** (Assume o controle da negociação e do processo).",
+    "recapitulation": [
+      "**Desafiador** (39% dos top performers) é o perfil dominante e treinável.",
+      "**Lobo Solitário** é eficaz, mas por instinto (não é escalável).",
+      "Os perfis de Relacionamento, Trabalhador Duro e Solucionador Reativo são menos propensos ao alto desempenho.",
+      "O Desafiador cria demanda ao desafiar o pensamento do cliente.",
+      "A replicabilidade dos 3 Pilares (T-T-T) torna o Desafiador o futuro da área."
+    ],
+    "practicalChecklist": [
+      "Identifique o perfil dominante na sua equipe – e na sua própria atuação.",
+      "Se for outro perfil, comece a focar nos **3 Pilares do Desafiador**.",
+      "Foque no que é treinável: a capacidade de entregar insights.",
+      "Se tiver um Lobo Solitário, extraia seus insights e os sistematize.",
+      "Para a organização, o foco deve ser em construir um **Exército de Desafiadores**."
+    ],
+    "conclusionMessage": "Apenas o Desafiador e o Lobo Solitário se destacam em alto desempenho, mas o Desafiador é o mais replicável e treinável.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual perfil de vendedor é caracterizado por ser autoconfiante, instintivo e difícil de gerenciar?",
+        "options": [
+          { "value": "a", "label": "O Trabalhador Duro." },
+          { "value": "b", "label": "O Lobo Solitário." },
+          { "value": "c", "label": "O Desafiador." },
+          { "value": "d", "label": "O Solucionador de Problemas Reativo." }
+        ],
+        "explanation": "O Lobo Solitário segue suas próprias regras e é eficaz por talento inato.",
+        "hint": "Instinto.",
+        "correctAnswer": "b",
+        "bookExample": "O Lobo Solitário é o 'cowboy' da equipe de vendas."
+      },
+      {
+        "id": "2",
+        "question": "Qual perfil se destaca por ir além, ser automotivado e focar em atividades de vendas (ligações, visitas)?",
+        "options": [
+          { "value": "a", "label": "O Construtor de Relacionamento." },
+          { "value": "b", "label": "O Trabalhador Duro." },
+          { "value": "c", "label": "O Desafiador." },
+          { "value": "d", "label": "O Lobo Solitário." }
+        ],
+        "explanation": "O Trabalhador Duro compensa a falta de insight com esforço.",
+        "hint": "Esforço.",
+        "correctAnswer": "b",
+        "bookExample": "O Trabalhador Duro é o primeiro a chegar e o último a sair."
+      },
+      {
+        "id": "3",
+        "question": "O que o Solucionador de Problemas Reativo tende a fazer?",
+        "options": [
+          { "value": "a", "label": "Desafiar o cliente." },
+          { "value": "b", "label": "Focar em resolver problemas técnicos e de implementação, muitas vezes sem questionar a estratégia do cliente." },
+          { "value": "c", "label": "Ignorar o cliente." },
+          { "value": "d", "label": "Vender apenas para novos clientes." }
+        ],
+        "explanation": "Ele é reativo, focado no pós-venda e na satisfação imediata.",
+        "hint": "Reatividade.",
+        "correctAnswer": "b",
+        "bookExample": "O Solucionador de Problemas é o 'bombeiro' da equipe."
+      },
+      {
+        "id": "4",
+        "question": "Por que o perfil Desafiador é considerado o mais valioso para a organização?",
+        "options": [
+          { "value": "a", "label": "É o mais barato." },
+          { "value": "b", "label": "É o mais eficaz e suas habilidades (ensinar, adaptar, assumir o controle) são treináveis e replicáveis." },
+          { "value": "c", "label": "É o mais simpático." },
+          { "value": "d", "label": "É o mais antigo na empresa." }
+        ],
+        "explanation": "A capacidade de treinar Desafiadores é o que permite a escalabilidade do alto desempenho.",
+        "hint": "Escalabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Você não pode treinar um Lobo Solitário, mas pode treinar um Desafiador."
+      },
+      {
+        "id": "5",
+        "question": "Qual perfil de vendedor é mais propenso a dar descontos para manter a harmonia?",
+        "options": [
+          { "value": "a", "label": "O Desafiador." },
+          { "value": "b", "label": "O Construtor de Relacionamento." },
+          { "value": "c", "label": "O Lobo Solitário." },
+          { "value": "d", "label": "O Trabalhador Duro." }
+        ],
+        "explanation": "O Construtor de Relacionamento prioriza a relação acima do lucro.",
+        "hint": "Harmonia.",
+        "correctAnswer": "b",
+        "bookExample": "O Construtor de Relacionamento tem medo de gerar tensão."
+      },
+      {
+        "id": "6",
+        "question": "Quais são os três pilares do perfil Desafiador?",
+        "options": [
+          { "value": "a", "label": "Simpatia, paciência e preço baixo." },
+          { "value": "b", "label": "Ensinar (Teach), Adaptar (Tailor) e Assumir o Controle (Take Control)." },
+          { "value": "c", "label": "Ouvir, concordar e entregar." },
+          { "value": "d", "label": "Trabalhar duro, ser reativo e ser amigável." }
+        ],
+        "explanation": "Estes são os comportamentos centrais que definem o Desafiador.",
+        "hint": "T-T-T.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um professor, um alfaiate e um controlador."
+      },
+      {
+        "id": "7",
+        "question": "Por que o Lobo Solitário, apesar de eficaz, não é o modelo ideal para a maioria das empresas?",
+        "options": [
+          { "value": "a", "label": "Ele é muito caro." },
+          { "value": "b", "label": "Sua eficácia é baseada em talento inato e é difícil de replicar ou gerenciar em escala." },
+          { "value": "c", "label": "Ele não gosta de trabalhar em equipe." },
+          { "value": "d", "label": "Ele não é simpático." }
+        ],
+        "explanation": "A consistência e a escalabilidade são cruciais para o crescimento da equipe de vendas.",
+        "hint": "Inato.",
+        "correctAnswer": "b",
+        "bookExample": "O Lobo Solitário é um unicórnio, mas você não pode construir um exército de unicórnios."
+      },
+      {
+        "id": "8",
+        "question": "Em um ambiente de vendas complexas, o que o cliente mais precisa de um vendedor?",
+        "options": [
+          { "value": "a", "label": "Um ombro amigo." },
+          { "value": "b", "label": "Ajuda para navegar pela complexidade e alinhar o consenso interno." },
+          { "value": "c", "label": "Um preço mais baixo." },
+          { "value": "d", "label": "Um produto perfeito." }
+        ],
+        "explanation": "A complexidade da decisão interna é o maior desafio do cliente.",
+        "hint": "Consenso.",
+        "correctAnswer": "b",
+        "bookExample": "O maior inimigo da venda é a inação, não a concorrência."
+      },
+      {
+        "id": "9",
+        "question": "Qual perfil de vendedor é mais propenso a se concentrar em resolver problemas de implementação após a venda?",
+        "options": [
+          { "value": "a", "label": "O Desafiador." },
+          { "value": "b", "label": "O Trabalhador Duro." },
+          { "value": "c", "label": "O Solucionador de Problemas Reativo." },
+          { "value": "d", "label": "O Construtor de Relacionamento." }
+        ],
+        "explanation": "O Solucionador de Problemas Reativo é o 'bombeiro' que apaga incêndios.",
+        "hint": "Pós-venda.",
+        "correctAnswer": "c",
+        "bookExample": "O Solucionador de Problemas é ótimo para manter o cliente feliz, mas ruim para fechar novos negócios."
+      },
+      {
+        "id": "10",
+        "question": "O que o Desafiador faz para garantir que o cliente aja?",
+        "options": [
+          { "value": "a", "label": "Ameaça o cliente." },
+          { "value": "b", "label": "Cria um senso de urgência e mostra o custo da inação (o 'Burning Platform')." },
+          { "value": "c", "label": "Dá um desconto." },
+          { "value": "d", "label": "Espera pacientemente." }
+        ],
+        "explanation": "A urgência é criada ao mostrar o risco de manter o status quo.",
+        "hint": "Inação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a mudança, não o produto."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Ensinar (Teach): A Moeda de Troca do Desafiador",
+    "teaser": "💡 Ensinar não é sobre o seu produto, mas sobre o **problema desconhecido** do cliente. Venda a mudança!",
+    "level1": "O primeiro pilar do Desafiador é **Ensinar (Teach)**. Isso significa fornecer insights que o cliente não conhecia, desafiando suas suposições e mostrando um caminho melhor. O ensino deve levar o cliente à sua solução de forma natural.",
+    "level2": "O ensino eficaz é contraintuitivo. Você não está ensinando sobre o seu produto, mas sobre a indústria do cliente e os erros que ele está cometendo. Você está vendendo a **mudança**, não o produto.",
+    "level3": "O objetivo é o **Reframe** (Reestruturação da Visão). O cliente deve ter um momento 'Aha!' e concluir que a sua solução é a única resposta lógica para o novo problema que você identificou.",
+    "recapitulation": [
+      "O Desafiador ensina o cliente a ver seu negócio de uma **nova perspectiva**.",
+      "O ensino deve focar em **problemas que o cliente não sabia que tinha**.",
+      "O objetivo é o **Reframe** (momento 'Aha!'), que destrói o status quo.",
+      "O insight deve ser **Proprietário** (ligado à sua solução) e contraintuitivo.",
+      "A principal alavanca do ensino é o **Custo da Inação** (o medo de perder se não mudar)."
+    ],
+    "practicalChecklist": [
+      "Crie um Insight Proprietário que seja **único** e leve diretamente à sua solução.",
+      "Estruture seu pitch na **Jornada de Ensino** (do Warm-up à Implementação).",
+      "Use **dados** para provar que o status quo é insustentável (Racional).",
+      "Conecte o problema com as **consequências pessoais** (Impacto Emocional).",
+      "Venda a **dor** do status quo e a **cura** da sua solução."
+    ],
+    "conclusionMessage": "Ensinar não é sobre o seu produto, mas sobre o problema do cliente. O objetivo é reestruturar a visão do cliente sobre o seu negócio.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que o Desafiador deve ensinar ao cliente?",
+        "options": [
+          { "value": "a", "label": "Detalhes técnicos do seu produto." },
+          { "value": "b", "label": "Novas perspectivas sobre o negócio do cliente e problemas que ele não sabia que tinha." },
+          { "value": "c", "label": "A história da sua empresa." },
+          { "value": "d", "label": "Como usar o software da concorrência." }
+        ],
+        "explanation": "O insight deve ser sobre o negócio do cliente.",
+        "hint": "Negócio.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador ensina o cliente a pensar de forma diferente."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o objetivo final do processo de Ensino?",
+        "options": [
+          { "value": "a", "label": "Fazer o cliente gostar de você." },
+          { "value": "b", "label": "Levar o cliente a concluir que a solução do vendedor é a única resposta lógica para o problema recém-descoberto." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Aumentar o tempo de reunião." }
+        ],
+        "explanation": "O ensino é uma jornada que culmina na solução do vendedor.",
+        "hint": "Jornada.",
+        "correctAnswer": "b",
+        "bookExample": "O ensino é a ponte entre o problema e a solução."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'Reestruturar a Visão' (Reframe)?",
+        "options": [
+          { "value": "a", "label": "Mudar o preço." },
+          { "value": "b", "label": "Mudar a forma como o cliente entende seu problema e o custo da inação." },
+          { "value": "c", "label": "Mudar o produto." },
+          { "value": "d", "label": "Mudar o contrato." }
+        ],
+        "explanation": "O Reframe é o momento 'Aha!' do cliente.",
+        "hint": "Aha!.",
+        "correctAnswer": "b",
+        "bookExample": "O Reframe é o que faz o cliente dizer: 'Nunca pensei nisso dessa forma!'"
+      },
+      {
+        "id": "4",
+        "question": "Qual é o erro comum ao tentar 'Ensinar'?",
+        "options": [
+          { "value": "a", "label": "Focar demais no cliente." },
+          { "value": "b", "label": "Focar em insights que não levam diretamente à solução do vendedor." },
+          { "value": "c", "label": "Focar demais no preço." },
+          { "value": "d", "label": "Focar demais no relacionamento." }
+        ],
+        "explanation": "O insight deve ser 'ligado' (Wired) à sua solução.",
+        "hint": "Ligação.",
+        "correctAnswer": "b",
+        "bookExample": "O insight deve ser proprietário e levar à sua vantagem competitiva."
+      },
+      {
+        "id": "5",
+        "question": "O que é o 'Custo da Inação' (Cost of Inaction)?",
+        "options": [
+          { "value": "a", "label": "O preço do seu produto." },
+          { "value": "b", "label": "O custo financeiro, operacional ou de risco de manter o status quo e não resolver o problema." },
+          { "value": "c", "label": "O custo de marketing." },
+          { "value": "d", "label": "O custo de software." }
+        ],
+        "explanation": "O Desafiador usa o medo da perda para motivar a ação.",
+        "hint": "Perda.",
+        "correctAnswer": "b",
+        "bookExample": "O medo de perder é duas vezes mais poderoso que a alegria do ganho."
+      },
+      {
+        "id": "6",
+        "question": "Como o Desafiador usa a 'Tensão Construtiva' no ensino?",
+        "options": [
+          { "value": "a", "label": "Para brigar com o cliente." },
+          { "value": "b", "label": "Ao apresentar o insight que desafia o pensamento do cliente, criando um desconforto que motiva a mudança." },
+          { "value": "c", "label": "Para dar um desconto." },
+          { "value": "d", "label": "Para elogiar o cliente." }
+        ],
+        "explanation": "A tensão é o motor da mudança.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "Se não há tensão, não há necessidade de mudança."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Insight Proprietário' (Proprietary Insight)?",
+        "options": [
+          { "value": "a", "label": "Um insight que todos na indústria conhecem." },
+          { "value": "b", "label": "Um insight único que só o vendedor pode oferecer, baseado em dados e experiência, e que leva à sua solução." },
+          { "value": "c", "label": "Um insight sobre o preço." },
+          { "value": "d", "label": "Um insight sobre o produto da concorrência." }
+        ],
+        "explanation": "O insight proprietário é a sua vantagem competitiva.",
+        "hint": "Vantagem.",
+        "correctAnswer": "b",
+        "bookExample": "O insight proprietário é o que te tira da competição de preço."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a estrutura ideal para o Ensino (Teaching)?",
+        "options": [
+          { "value": "a", "label": "Falar sobre o produto, preço e prazo." },
+          { "value": "b", "label": "A Jornada de Ensino (Warm-up, Reframe, Racional, Solução)." },
+          { "value": "c", "label": "Perguntar, ouvir e concordar." },
+          { "value": "d", "label": "Dar um desconto e fechar." }
+        ],
+        "explanation": "A jornada é estruturada para guiar o cliente à conclusão desejada.",
+        "hint": "Estrutura.",
+        "correctAnswer": "b",
+        "bookExample": "O ensino é uma história de 6 passos."
+      },
+      {
+        "id": "9",
+        "question": "O que o Desafiador deve fazer antes de apresentar o insight?",
+        "options": [
+          { "value": "a", "label": "Falar sobre o preço." },
+          { "value": "b", "label": "Fazer um 'Warm-up' (Aquecimento) para construir credibilidade e empatia, mostrando que entende o mundo do cliente." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Falar sobre a concorrência." }
+        ],
+        "explanation": "A credibilidade é a base para o desafio.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Você precisa ganhar o direito de desafiar."
+      },
+      {
+        "id": "10",
+        "question": "O que o cliente deve sentir após o Ensino eficaz?",
+        "options": [
+          { "value": "a", "label": "Que o vendedor é muito simpático." },
+          { "value": "b", "label": "Surpresa, desconforto (pelo problema) e alívio (pela solução)." },
+          { "value": "c", "label": "Que o preço é muito alto." },
+          { "value": "d", "label": "Que ele poderia ter resolvido sozinho." }
+        ],
+        "explanation": "A combinação de dor e solução é o que motiva a compra.",
+        "hint": "Emoção.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a dor e a cura."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Adaptar (Tailor): Alinhando a Mensagem aos Stakeholders",
+    "teaser": "🧵 Em vendas complexas, a decisão é de grupo. Você deve **'costurar'** a mensagem de valor para cada stakeholder.",
+    "level1": "O segundo pilar é **Adaptar (Tailor)**. Em vendas complexas, a decisão é feita por um grupo de pessoas (stakeholders) com diferentes prioridades. O Desafiador adapta a mensagem de insight para cada um.",
+    "level2": "Você não pode usar o mesmo pitch para o CFO e para o Gerente de Operações. O CFO se importa com ROI e risco; o Gerente de Operações se importa com eficiência e facilidade de uso. A mensagem deve ser 'costurada' para cada um.",
+    "level3": "O Desafiador deve identificar o **Mobilizador** (o stakeholder que impulsiona o consenso) e equipá-lo com a mensagem adaptada para que ele possa vender a solução internamente.",
+    "recapitulation": [
+      "A decisão complexa envolve múltiplos **stakeholders** com prioridades diferentes.",
+      "O maior inimigo é o **Consenso de Baixo Denominador Comum** (a escolha mais segura, que é a inação).",
+      "A mensagem deve ser adaptada (Tailor) para ser pessoalmente relevante para cada stakeholder.",
+      "O Desafiador deve encontrar o **Mobilizador** (o campeão interno com influência) e equipá-lo.",
+      "Adaptar a **emoção** (o medo da perda) para o que é relevante para o cargo."
+    ],
+    "practicalChecklist": [
+      "Antes de uma reunião, pesquise as **prioridades e dores** de cada stakeholder.",
+      "Crie diferentes versões do **Impacto Emocional** (perda) para cada função (ex: CEO, CFO, TI).",
+      "Identifique o **Mobilizador** (o cético construtivo) em vez do 'Amigo' (Relationship Builder).",
+      "Forneça materiais (decks, e-mails) prontos para o Mobilizador **vender internamente** a solução.",
+      "Foque em 2-3 prioridades que ressoem com **todo o grupo** para simplificar a decisão."
+    ],
+    "conclusionMessage": "Adaptar é garantir que a mensagem de insight ressoe com os diferentes stakeholders (interessados) na organização do cliente, focando em seus interesses específicos.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que significa 'Adaptar' (Tailor) no contexto do Desafiador?",
+        "options": [
+          { "value": "a", "label": "Mudar o produto para cada cliente." },
+          { "value": "b", "label": "Ajustar a mensagem de valor e o insight para ressoar com as prioridades específicas de cada stakeholder." },
+          { "value": "c", "label": "Dar um desconto personalizado." },
+          { "value": "d", "label": "Mudar o preço." }
+        ],
+        "explanation": "A adaptação é sobre relevância pessoal.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "A mensagem deve ser 'costurada' para o indivíduo."
+      },
+      {
+        "id": "2",
+        "question": "Por que a adaptação é crucial em vendas complexas B2B?",
+        "options": [
+          { "value": "a", "label": "Porque o produto é muito complexo." },
+          { "value": "b", "label": "Porque a decisão é feita por um grupo de stakeholders com prioridades conflitantes." },
+          { "value": "c", "label": "Porque o cliente é muito exigente." },
+          { "value": "d", "label": "Porque o preço é muito alto." }
+        ],
+        "explanation": "O consenso interno é o maior desafio da venda complexa.",
+        "hint": "Consenso.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende para o grupo, não para o indivíduo."
+      },
+      {
+        "id": "3",
+        "question": "Qual é a principal prioridade do CFO (Diretor Financeiro) em uma conversa de vendas?",
+        "options": [
+          { "value": "a", "label": "Facilidade de uso." },
+          { "value": "b", "label": "Retorno sobre o Investimento (ROI) e mitigação de risco." },
+          { "value": "c", "label": "Suporte técnico." },
+          { "value": "d", "label": "Design do produto." }
+        ],
+        "explanation": "O CFO é o guardião do dinheiro e do risco.",
+        "hint": "Dinheiro.",
+        "correctAnswer": "b",
+        "bookExample": "Fale a língua do dinheiro com o CFO."
+      },
+      {
+        "id": "4",
+        "question": "O que o Desafiador deve fazer para descobrir as prioridades de cada stakeholder?",
+        "options": [
+          { "value": "a", "label": "Adivinhar." },
+          { "value": "b", "label": "Fazer perguntas calibradas e pesquisar a função e os objetivos de cada um antes da reunião." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Focar apenas no usuário final." }
+        ],
+        "explanation": "A preparação é a chave para a adaptação.",
+        "hint": "Preparação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não entra em uma reunião sem saber quem está na sala."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Adaptar a Emoção' (Tailoring the Emotion)?",
+        "options": [
+          { "value": "a", "label": "Fazer o cliente chorar." },
+          { "value": "b", "label": "Ajustar a intensidade da dor e do medo da perda para o que é relevante para o stakeholder específico." },
+          { "value": "c", "label": "Focar apenas na alegria." },
+          { "value": "d", "label": "Ignorar a emoção." }
+        ],
+        "explanation": "A dor do Gerente de TI é diferente da dor do CEO.",
+        "hint": "Dor pessoal.",
+        "correctAnswer": "b",
+        "bookExample": "A dor deve ser pessoal e profissional."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de usar a mesma mensagem para todos os stakeholders?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "A mensagem se torna irrelevante para a maioria, resultando em inação e falta de consenso." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O produto é vendido." }
+        ],
+        "explanation": "A irrelevância mata a venda complexa.",
+        "hint": "Irrelevância.",
+        "correctAnswer": "b",
+        "bookExample": "Se você fala com todos, você não fala com ninguém."
+      },
+      {
+        "id": "7",
+        "question": "O que o Desafiador deve fazer para ajudar o cliente a 'Vender Internamente' a solução?",
+        "options": [
+          { "value": "a", "label": "Fazer o trabalho por eles." },
+          { "value": "b", "label": "Fornecer materiais e insights adaptados que os stakeholders possam usar para convencer seus colegas." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no CEO." }
+        ],
+        "explanation": "O Desafiador é um 'vendedor interno' para o cliente.",
+        "hint": "Venda interna.",
+        "correctAnswer": "b",
+        "bookExample": "Seu maior aliado é o campeão que você equipa."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Mobilizador' (Mobilizer) no contexto de vendas?",
+        "options": [
+          { "value": "a", "label": "O cliente que paga." },
+          { "value": "b", "label": "O stakeholder que tem a capacidade de impulsionar o consenso e a mudança dentro da organização." },
+          { "value": "c", "label": "O vendedor." },
+          { "value": "d", "label": "O concorrente." }
+        ],
+        "explanation": "O Mobilizador é o campeão interno que você deve identificar e equipar.",
+        "hint": "Campeão.",
+        "correctAnswer": "b",
+        "bookExample": "Foque nos Mobilizadores, não nos 'Amigos'."
+      },
+      {
+        "id": "9",
+        "question": "Qual é a principal diferença entre o Mobilizador e o 'Amigo' (Friend)?",
+        "options": [
+          { "value": "a", "label": "O Amigo tem mais poder." },
+          { "value": "b", "label": "O Mobilizador tem a capacidade de desafiar o status quo interno; o Amigo apenas concorda e não tem poder de influência." },
+          { "value": "c", "label": "O Mobilizador é mais simpático." },
+          { "value": "d", "label": "O Amigo é mais difícil de encontrar." }
+        ],
+        "explanation": "O Desafiador busca influência, não simpatia.",
+        "hint": "Influência.",
+        "correctAnswer": "b",
+        "bookExample": "O Amigo te dá informações, o Mobilizador te dá o negócio."
+      },
+      {
+        "id": "10",
+        "question": "Como a adaptação da mensagem ajuda a mitigar o risco de inação?",
+        "options": [
+          { "value": "a", "label": "Reduzindo o preço." },
+          { "value": "b", "label": "Ao garantir que todos os stakeholders vejam a relevância da solução, facilitando o consenso e a aprovação." },
+          { "value": "c", "label": "Aumentando o tempo de reunião." },
+          { "value": "d", "label": "Focando apenas no CEO." }
+        ],
+        "explanation": "O consenso é o inimigo da inação.",
+        "hint": "Consenso.",
+        "correctAnswer": "b",
+        "bookExample": "A inação é o maior inimigo da venda complexa."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Assumir o Controle (Take Control): Gerenciando a Negociação",
+    "teaser": "👑 O Desafiador é o especialista: **firme no preço**, flexível no escopo. Não dê descontos de graça.",
+    "level1": "O terceiro pilar é **Assumir o Controle (Take Control)**. Isso não significa ser agressivo, mas sim ser assertivo sobre o valor e o processo. O Desafiador não cede facilmente a descontos e guia o cliente através de uma negociação focada em valor.",
+    "level2": "O Desafiador usa o insight para justificar o preço premium e está disposto a se afastar se o cliente não valorizar a solução. Ele usa a **Concessão Estratégica**: ele só faz uma concessão se o cliente fizer uma em troca.",
+    "level3": "Em negociação, o Desafiador volta ao **Custo da Inação** e ao ROI para reafirmar o valor. Se o cliente insistir no desconto, ele negocia o **escopo** em vez do preço, protegendo a margem.",
+    "recapitulation": [
+      "Assumir o Controle é ser **assertivo** sobre valor e processo.",
+      "O Desafiador usa o insight (Ensino) para justificar o **preço premium**.",
+      "Não negocie contra si mesmo; evite dar descontos sem que o cliente peça.",
+      "Use a **Concessão Estratégica**: nunca dê algo por nada.",
+      "Esteja disposto a se afastar (**Preço de Descarte** / Walk-Away Price) se o cliente não valorizar o insight."
+    ],
+    "practicalChecklist": [
+      "Quando o cliente pedir um desconto, volte ao **ROI e ao Custo da Inação**.",
+      "Responda ao pedido de desconto perguntando: **'O que podemos remover do escopo?'**",
+      "Defina seu **Preço de Descarte** antes de entrar em qualquer negociação.",
+      "Use o **silêncio** na negociação para forçar o cliente a falar primeiro.",
+      "Seja assertivo sobre o **próximo passo** e os prazos (gerenciando o processo)."
+    ],
+    "conclusionMessage": "Assumir o Controle significa gerenciar a negociação de preço e o processo de vendas, focando no valor e não em concessões fáceis.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que significa 'Assumir o Controle' na negociação?",
+        "options": [
+          { "value": "a", "label": "Fazer o cliente se sentir intimidado." },
+          { "value": "b", "label": "Ser assertivo sobre o valor, o preço e o processo de vendas, evitando concessões não estratégicas." },
+          { "value": "c", "label": "Dar um desconto imediatamente." },
+          { "value": "d", "label": "Focar apenas no relacionamento." }
+        ],
+        "explanation": "O controle é sobre gerenciar as expectativas e o valor.",
+        "hint": "Assertividade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não negocia contra si mesmo."
+      },
+      {
+        "id": "2",
+        "question": "Como o Desafiador lida com a objeção de preço?",
+        "options": [
+          { "value": "a", "label": "Reduz o preço imediatamente." },
+          { "value": "b", "label": "Volta ao insight (Ensino) para reafirmar o custo da inação e o ROI, e negocia o escopo em vez do preço." },
+          { "value": "c", "label": "Pede desculpas pelo preço." },
+          { "value": "d", "label": "Muda de assunto." }
+        ],
+        "explanation": "O preço é justificado pelo valor criado.",
+        "hint": "Justificação.",
+        "correctAnswer": "b",
+        "bookExample": "Se o valor é claro, o preço é fácil."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Concessão Estratégica' (Strategic Concession)?",
+        "options": [
+          { "value": "a", "label": "Dar um grande desconto." },
+          { "value": "b", "label": "Fazer uma pequena concessão em troca de algo de valor (ex: prazo mais longo, testemunho) ou reduzir o escopo em vez do preço." },
+          { "value": "c", "label": "Reduzir o preço imediatamente." },
+          { "value": "d", "label": "Aumentar o CODB." }
+        ],
+        "explanation": "Concessões devem ser dolorosas e estratégicas.",
+        "hint": "Troca.",
+        "correctAnswer": "b",
+        "bookExample": "Nunca dê algo por nada."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de 'Negociar contra si mesmo'?",
+        "options": [
+          { "value": "a", "label": "Você fecha o negócio mais rápido." },
+          { "value": "b", "label": "Você reduz o preço sem que o cliente peça, desvalorizando seu trabalho e reduzindo o lucro." },
+          { "value": "c", "label": "Você aumenta o preço." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "O silêncio é seu amigo na negociação.",
+        "hint": "Silêncio.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador usa o silêncio para forçar o cliente a falar primeiro."
+      },
+      {
+        "id": "5",
+        "question": "Como o Desafiador lida com o cliente que exige um processo de vendas longo e burocrático?",
+        "options": [
+          { "value": "a", "label": "Aceita o processo sem questionar." },
+          { "value": "b", "label": "Desafia o processo, propondo um caminho mais rápido e eficiente, focado no resultado." },
+          { "value": "c", "label": "Desiste da venda." },
+          { "value": "d", "label": "Dá um desconto." }
+        ],
+        "explanation": "Assumir o Controle significa gerenciar o processo de vendas, não apenas o preço.",
+        "hint": "Processo.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não é um seguidor de regras; ele é um criador de regras."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Preço de Descarte' (Walk-Away Price)?",
+        "options": [
+          { "value": "a", "label": "O preço mais alto." },
+          { "value": "b", "label": "O preço mínimo que o vendedor aceitará, abaixo do qual ele deve se afastar da negociação." },
+          { "value": "c", "label": "O preço médio." },
+          { "value": "d", "label": "O preço da concorrência." }
+        ],
+        "explanation": "O Desafiador conhece seu valor e seu limite.",
+        "hint": "Limite.",
+        "correctAnswer": "b",
+        "bookExample": "Conheça seu limite e não o ultrapasse."
+      },
+      {
+        "id": "7",
+        "question": "Qual é a principal ferramenta do Desafiador para justificar um preço premium?",
+        "options": [
+          { "value": "a", "label": "Simpatia." },
+          { "value": "b", "label": "O Insight Proprietário (Ensino) que mostra o custo da inação e o ROI da solução." },
+          { "value": "c", "label": "Descontos." },
+          { "value": "d", "label": "Conhecimento técnico." }
+        ],
+        "explanation": "O valor é a única justificativa para o preço alto.",
+        "hint": "Valor.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o valor, não o preço."
+      },
+      {
+        "id": "8",
+        "question": "O que o Desafiador deve fazer se o cliente insistir em um desconto sem reduzir o escopo?",
+        "options": [
+          { "value": "a", "label": "Ceder ao desconto." },
+          { "value": "b", "label": "Reafirmar o valor e estar disposto a se afastar, ou oferecer uma opção de escopo reduzido (Downsell)." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O Desafiador protege a margem e o valor.",
+        "hint": "Proteção.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não tem medo de perder o negócio errado."
+      },
+      {
+        "id": "9",
+        "question": "Como o Desafiador usa a 'Escassez' na negociação?",
+        "options": [
+          { "value": "a", "label": "Dizendo que o produto vai acabar." },
+          { "value": "b", "label": "Criando um senso de urgência sobre o custo da inação e o prazo para aproveitar o insight." },
+          { "value": "c", "label": "Dando um desconto." },
+          { "value": "d", "label": "Aumentando o CODB." }
+        ],
+        "explanation": "A urgência motiva a ação.",
+        "hint": "Urgência.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a mudança agora, não depois."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a principal mentalidade que o Desafiador adota ao Assumir o Controle?",
+        "options": [
+          { "value": "a", "label": "O cliente está sempre certo." },
+          { "value": "b", "label": "Eu sou o especialista e estou aqui para guiar o cliente para o melhor resultado, mesmo que isso gere desconforto." },
+          { "value": "c", "label": "O preço é o mais importante." },
+          { "value": "d", "label": "O relacionamento é o mais importante." }
+        ],
+        "explanation": "O Desafiador assume a posição de autoridade.",
+        "hint": "Autoridade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um consultor, não um atendente de pedidos."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "A Jornada de Ensino (The Commercial Teaching)",
+    "teaser": "🗺️ O roteiro de 6 passos: leve o cliente do 'Eu sei' para o **'Uau, eu não sabia desse problema, e só sua solução serve!'**",
+    "level1": "A Jornada de Ensino é a espinha dorsal da abordagem Desafiadora. É uma história cuidadosamente elaborada que não começa com o produto, mas com a reestruturação da visão do cliente sobre seu próprio negócio. Ela deve ser emocionalmente ressonante e logicamente convincente.",
+    "level2": "A jornada tem 6 passos: 1. **Warm-up** (Credibilidade), 2. **Reframe** (Insight), 3. **Racional** (Dados), 4. **Impacto** (Dor Pessoal), 5. **Solução** (Novo Caminho), 6. **Implementação** (Seu Produto/Empresa).",
+    "level3": "O sucesso depende da ordem: primeiro a **Dor** (Custo da Inação) e o **Insight** (o 'Aha!'), só depois a **Cura** (Sua Solução). O cliente deve se sentir desconfortável com o status quo e aliviado com a sua solução.",
+    "recapitulation": [
+      "A Jornada de Ensino é uma **narrativa estruturada** em 6 passos.",
+      "O **Warm-up** constrói a credibilidade antes do desafio.",
+      "O **Reframe** é o momento 'Aha!' que cria a necessidade de mudança.",
+      "O **Racional** e o **Impacto** validam o insight com lógica e emoção (dor pessoal).",
+      "A sua solução (Implementação) deve ser a **única resposta lógica** para o problema recém-descoberto."
+    ],
+    "practicalChecklist": [
+      "Siga a ordem dos 6 passos **religiosamente** – não pule para a solução.",
+      "Use o **Warm-up** para demonstrar empatia com as dores que ele já conhece.",
+      "Crie um **Reframe** que seja contraintuitivo e surpreendente.",
+      "Quantifique o **Custo da Inação** com dados (Racional).",
+      "Conecte o problema com o **impacto pessoal** (Impacto) antes de vender a cura."
+    ],
+    "conclusionMessage": "A Jornada de Ensino é uma narrativa estruturada de 6 passos que leva o cliente de um problema desconhecido à solução do vendedor.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o primeiro passo da Jornada de Ensino?",
+        "options": [
+          { "value": "a", "label": "Apresentar o produto." },
+          { "value": "b", "label": "O Warm-up (Aquecimento), mostrando que você entende o mundo do cliente e construindo credibilidade." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Dar um desconto." }
+        ],
+        "explanation": "A credibilidade é a base para o desafio.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Você precisa ganhar o direito de desafiar."
+      },
+      {
+        "id": "2",
+        "question": "O que o passo 'Reframe' (Reestruturação) deve alcançar?",
+        "options": [
+          { "value": "a", "label": "Fazer o cliente gostar de você." },
+          { "value": "b", "label": "Apresentar um insight contraintuitivo que desafia a suposição do cliente sobre seu problema." },
+          { "value": "c", "label": "Focar no preço." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O Reframe é o momento 'Aha!' que cria a necessidade de mudança.",
+        "hint": "Aha!.",
+        "correctAnswer": "b",
+        "bookExample": "O Reframe é o que faz o cliente dizer: 'Nunca pensei nisso dessa forma!'"
+      },
+      {
+        "id": "3",
+        "question": "Qual é a função do passo 'Racional' (Rational Drowning)?",
+        "options": [
+          { "value": "a", "label": "Fazer o cliente chorar." },
+          { "value": "b", "label": "Usar dados e lógica para provar que o insight (Reframe) é real e que o custo da inação é alto." },
+          { "value": "c", "label": "Focar no preço." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A lógica valida a emoção gerada pelo Reframe.",
+        "hint": "Lógica.",
+        "correctAnswer": "b",
+        "bookExample": "A emoção vende, mas a lógica justifica."
+      },
+      {
+        "id": "4",
+        "question": "O que o passo 'Impacto' (Emotional Impact) deve fazer?",
+        "options": [
+          { "value": "a", "label": "Focar em números frios." },
+          { "value": "b", "label": "Conectar o problema (Racional) às consequências pessoais e profissionais do stakeholder (medo da perda)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O Desafiador personaliza a dor.",
+        "hint": "Personalização.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só age quando a dor é pessoal."
+      },
+      {
+        "id": "5",
+        "question": "Em que momento da jornada o Desafiador apresenta sua solução?",
+        "options": [
+          { "value": "a", "label": "No início (Warm-up)." },
+          { "value": "b", "label": "No passo 'Solução' (New Way), após ter estabelecido a dor e o custo da inação." },
+          { "value": "c", "label": "No final (Implementação)." },
+          { "value": "d", "label": "No Reframe." }
+        ],
+        "explanation": "A solução só é valiosa após a dor ser estabelecida.",
+        "hint": "Valor.",
+        "correctAnswer": "b",
+        "bookExample": "Não venda a cura antes de diagnosticar a doença."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o objetivo do último passo, 'Implementação' (Supplier Solution)?",
+        "options": [
+          { "value": "a", "label": "Focar no preço." },
+          { "value": "b", "label": "Mostrar como a solução do vendedor é a única que pode fechar a lacuna entre o problema e o novo caminho (Solução)." },
+          { "value": "c", "label": "Focar na concorrência." },
+          { "value": "d", "label": "Dar um desconto." }
+        ],
+        "explanation": "A solução do vendedor deve ser a conclusão lógica e inevitável.",
+        "hint": "Inevitalidade.",
+        "correctAnswer": "b",
+        "bookExample": "A solução deve ser a única resposta lógica."
+      },
+      {
+        "id": "7",
+        "question": "O que a Jornada de Ensino deve evitar?",
+        "options": [
+          { "value": "a", "label": "Focar no cliente." },
+          { "value": "b", "label": "Focar em problemas que o cliente já conhece ou que não levam à solução do vendedor." },
+          { "value": "c", "label": "Focar no ROI." },
+          { "value": "d", "label": "Focar na dor." }
+        ],
+        "explanation": "O insight deve ser novo e proprietário.",
+        "hint": "Novidade.",
+        "correctAnswer": "b",
+        "bookExample": "Não perca tempo ensinando o que o cliente já sabe."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'História' (Storytelling) na Jornada de Ensino?",
+        "options": [
+          { "value": "a", "label": "Aumentar o preço." },
+          { "value": "b", "label": "Tornar o insight memorável e emocionalmente ressonante." },
+          { "value": "c", "label": "Reduzir o preço." },
+          { "value": "d", "label": "Aumentar o CODB." }
+        ],
+        "explanation": "Histórias são a forma mais eficaz de comunicação.",
+        "hint": "Memorável.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas esquecem os dados, mas lembram das histórias."
+      },
+      {
+        "id": "9",
+        "question": "O que o Desafiador deve fazer se o cliente discordar do Reframe?",
+        "options": [
+          { "value": "a", "label": "Ceder imediatamente." },
+          { "value": "b", "label": "Usar o Racional (dados) para provar o insight e, se necessário, se afastar se o cliente não estiver aberto à mudança." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O Desafiador é firme no insight.",
+        "hint": "Firmeza.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não tem medo de discordar."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o principal resultado da Jornada de Ensino bem-sucedida?",
+        "options": [
+          { "value": "a", "label": "O cliente gosta do vendedor." },
+          { "value": "b", "label": "O cliente se sente compelido a agir e vê o vendedor como um parceiro estratégico indispensável." },
+          { "value": "c", "label": "O cliente pede um desconto." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A compra é a conclusão lógica da jornada.",
+        "hint": "Conclusão.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a mudança, não o produto."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "O Insight Proprietário: A Vantagem Competitiva",
+    "teaser": "💎 Seu Insight Proprietário é seu **'segredo'** de vendas. É o que te tira da vala da competição de preço.",
+    "level1": "O **Insight Proprietário** é o coração do Ensino. É uma informação que o cliente não sabia, que desafia seu status quo e que, quando aceita, torna a solução do vendedor a única escolha lógica.",
+    "level2": "Se o seu insight pode ser oferecido por qualquer concorrente, ele não é proprietário. Você precisa de uma perspectiva única sobre o problema do cliente que só você pode resolver. Isso justifica o **preço premium**.",
+    "level3": "O Insight Proprietário deve ser: 1. **Contraintuitivo**, 2. **Ligado (Wired)** à sua solução, e 3. Capaz de gerar um **Reframe** (nova visão) na mente do cliente.",
+    "recapitulation": [
+      "O Insight Proprietário é a chave para sair da **competição de preço**.",
+      "Ele deve ser **único** (proprietário) e levar **diretamente à sua solução**.",
+      "Um bom insight é **contraintuitivo**; ele choca e desafia o status quo.",
+      "Ele deve ser baseado em **dados** de clientes de alto desempenho.",
+      "O risco de um insight não proprietário é o cliente levá-lo para um concorrente mais barato."
+    ],
+    "practicalChecklist": [
+      "Analise seus melhores clientes: O que eles fazem de diferente que a maioria ignora?",
+      "Desenvolva 2-3 **Insights Proprietários** para sua área de atuação.",
+      "Certifique-se de que cada insight está **diretamente ligado** ao seu diferencial competitivo.",
+      "Use **analogias e histórias** para simplificar o insight complexo (para torná-lo memorável).",
+      "Se o cliente disser 'Eu já sabia disso', pergunte: **'Se você sabia, por que não agiu?'**"
+    ],
+    "conclusionMessage": "O Insight Proprietário é a chave para sair da competição de preço, pois ele é único, contraintuitivo e leva diretamente à sua solução.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que torna um insight 'Proprietário'?",
+        "options": [
+          { "value": "a", "label": "Ser muito complexo." },
+          { "value": "b", "label": "Ser único, contraintuitivo e levar diretamente à solução do vendedor." },
+          { "value": "c", "label": "Ser sobre o preço." },
+          { "value": "d", "label": "Ser sobre a concorrência." }
+        ],
+        "explanation": "A ligação com a solução do vendedor é o que o torna proprietário.",
+        "hint": "Ligação.",
+        "correctAnswer": "b",
+        "bookExample": "O insight proprietário é a sua vantagem competitiva."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o principal benefício do Insight Proprietário?",
+        "options": [
+          { "value": "a", "label": "Reduzir o preço." },
+          { "value": "b", "label": "Justificar um preço premium e desviar a conversa da competição de preço." },
+          { "value": "c", "label": "Aumentar o CODB." },
+          { "value": "d", "label": "Aumentar o tempo de reunião." }
+        ],
+        "explanation": "O valor do insight supera o custo.",
+        "hint": "Premium.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não compete por preço, compete por valor."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'Contraintuitivo' no contexto de insight?",
+        "options": [
+          { "value": "a", "label": "Ser difícil de entender." },
+          { "value": "b", "label": "Desafiar a sabedoria convencional ou o que o cliente já acredita ser verdade." },
+          { "value": "c", "label": "Ser muito simples." },
+          { "value": "d", "label": "Ser sobre o produto." }
+        ],
+        "explanation": "O insight deve ser uma surpresa que força a reavaliação.",
+        "hint": "Surpresa.",
+        "correctAnswer": "b",
+        "bookExample": "O insight deve ser um 'choque' que motiva a mudança."
+      },
+      {
+        "id": "4",
+        "question": "Como o Desafiador desenvolve Insights Proprietários?",
+        "options": [
+          { "value": "a", "label": "Lendo notícias gerais." },
+          { "value": "b", "label": "Analisando dados de clientes de alto desempenho e identificando padrões de sucesso que a maioria ignora." },
+          { "value": "c", "label": "Perguntando ao cliente o que ele quer." },
+          { "value": "d", "label": "Focando apenas no produto." }
+        ],
+        "explanation": "O insight vem da análise de dados e da experiência de campo.",
+        "hint": "Dados.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um cientista de vendas."
+      },
+      {
+        "id": "5",
+        "question": "O que o Insight Proprietário deve fazer em relação ao status quo do cliente?",
+        "options": [
+          { "value": "a", "label": "Confirmar o status quo." },
+          { "value": "b", "label": "Destruir o status quo, mostrando que ele é insustentável ou caro." },
+          { "value": "c", "label": "Ignorar o status quo." },
+          { "value": "d", "label": "Elogiar o status quo." }
+        ],
+        "explanation": "A mudança só ocorre quando o status quo é doloroso.",
+        "hint": "Dor.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a mudança, não o produto."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de usar um insight que não é proprietário?",
+        "options": [
+          { "value": "a", "label": "O cliente fica feliz." },
+          { "value": "b", "label": "O cliente pode levar o insight para a concorrência, que pode resolvê-lo por um preço mais baixo." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente fecha o negócio mais rápido." }
+        ],
+        "explanation": "O insight deve ser 'ligado' à sua solução.",
+        "hint": "Ligação.",
+        "correctAnswer": "b",
+        "bookExample": "Se o insight não leva à sua solução, você está apenas dando consultoria gratuita."
+      },
+      {
+        "id": "7",
+        "question": "O que o Desafiador deve fazer para garantir que o insight seja memorável?",
+        "options": [
+          { "value": "a", "label": "Usar jargões técnicos." },
+          { "value": "b", "label": "Usar histórias, analogias e dados visuais (gráficos) para simplificar a complexidade." },
+          { "value": "c", "label": "Falar mais alto." },
+          { "value": "d", "label": "Dar um desconto." }
+        ],
+        "explanation": "A simplicidade e a emoção tornam o insight memorável.",
+        "hint": "Simplicidade.",
+        "correctAnswer": "b",
+        "bookExample": "O insight deve ser simples, inesperado e concreto (SUCCESs)."
+      },
+      {
+        "id": "8",
+        "question": "O que o Insight Proprietário deve fazer em relação ao ROI?",
+        "options": [
+          { "value": "a", "label": "Ignorar o ROI." },
+          { "value": "b", "label": "Quantificar o ROI da solução, mostrando o ganho financeiro de resolver o problema recém-descoberto." },
+          { "value": "c", "label": "Focar apenas no custo." },
+          { "value": "d", "label": "Focar apenas no tempo." }
+        ],
+        "explanation": "O valor é sempre quantificado em termos de ROI.",
+        "hint": "Quantificação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o ROI, não o esforço."
+      },
+      {
+        "id": "9",
+        "question": "Qual é a principal diferença entre 'Insight' e 'Informação'?",
+        "options": [
+          { "value": "a", "label": "São a mesma coisa." },
+          { "value": "b", "label": "Informação é o que o cliente já sabe. Insight é uma nova perspectiva que muda a forma como ele pensa e age." },
+          { "value": "c", "label": "Insight é mais caro." },
+          { "value": "d", "label": "Informação é mais complexa." }
+        ],
+        "explanation": "O insight é a informação com poder de mudança.",
+        "hint": "Mudança.",
+        "correctAnswer": "b",
+        "bookExample": "O insight é a informação que o cliente não pode ignorar."
+      },
+      {
+        "id": "10",
+        "question": "O que o Desafiador deve fazer se o cliente disser 'Já sabíamos disso'?",
+        "options": [
+          { "value": "a", "label": "Acreditar no cliente." },
+          { "value": "b", "label": "Perguntar 'Se você sabia, por que não agiu?' para expor o custo da inação ou a falta de prioridade." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O Desafiador desafia a inação.",
+        "hint": "Inação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não aceita desculpas."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "O Consenso Interno: O Inimigo da Venda Complexa",
+    "teaser": "⚔️ Seu maior inimigo não é a concorrência, é a **inação** do cliente. A complexidade mata a decisão.",
+    "level1": "Em vendas complexas B2B, o maior obstáculo não é a concorrência, mas a dificuldade em alinhar o consenso entre múltiplos stakeholders. O risco de **Paralisia da Decisão** aumenta drasticamente com mais pessoas envolvidas.",
+    "level2": "O Desafiador foca em construir o consenso, adaptando a mensagem para cada um e equipando o **Mobilizador** (o campeão interno com influência) para vender a solução internamente.",
+    "level3": "O resultado do não consenso é o **Consenso de Baixo Denominador Comum**: a escolha mais segura e menos controversa (que geralmente é não fazer nada ou escolher a opção mais barata). O Desafiador deve combater essa tendência.",
+    "recapitulation": [
+      "A inação do cliente é o **maior obstáculo** em vendas complexas.",
+      "A venda exige o alinhamento de 5.4 stakeholders em média.",
+      "O Desafiador vende o **consenso** ao adaptar a mensagem para as prioridades de cada um.",
+      "Foque em identificar e equipar o **Mobilizador**, não o 'Amigo'.",
+      "O **Custo da Inação** é a ferramenta mais poderosa para unificar o grupo contra o status quo."
+    ],
+    "practicalChecklist": [
+      "Mapeie todos os stakeholders (Amigos, Mobilizadores, Céticos) antes da reunião.",
+      "Concentre-se em 2-3 **prioridades-chave** que ressoam com todos os stakeholders.",
+      "Use o Insight Proprietário e o Custo da Inação para criar uma **'Plataforma em Chamas'** que unifique o grupo.",
+      "Equipe o Mobilizador com a narrativa de Ensino para que ele possa **vender a solução internamente**.",
+      "Não gaste tempo com o 'Amigo' se ele não tiver poder de influência."
+    ],
+    "conclusionMessage": "Em vendas complexas, o maior desafio não é a concorrência, mas a inação do cliente devido à dificuldade de alinhar o consenso entre múltiplos stakeholders.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal obstáculo em vendas complexas B2B?",
+        "options": [
+          { "value": "a", "label": "O preço." },
+          { "value": "b", "label": "A dificuldade em alinhar o consenso entre múltiplos stakeholders (o inimigo interno)." },
+          { "value": "c", "label": "A concorrência." },
+          { "value": "d", "label": "A falta de produto." }
+        ],
+        "explanation": "A inação é o maior inimigo.",
+        "hint": "Inação.",
+        "correctAnswer": "b",
+        "bookExample": "O maior inimigo da venda é a inação, não a concorrência."
+      },
+      {
+        "id": "2",
+        "question": "O que o Desafiador faz para construir o consenso?",
+        "options": [
+          { "value": "a", "label": "Dá um desconto para todos." },
+          { "value": "b", "label": "Adapta a mensagem de valor para cada stakeholder, mostrando a relevância pessoal e organizacional." },
+          { "value": "c", "label": "Foca apenas no CEO." },
+          { "value": "d", "label": "Foca apenas no usuário final." }
+        ],
+        "explanation": "A adaptação é a chave para o consenso.",
+        "hint": "Adaptação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um alfaiate de mensagens."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Mobilizador' (Mobilizer)?",
+        "options": [
+          { "value": "a", "label": "O cliente que paga." },
+          { "value": "b", "label": "O stakeholder que tem a capacidade de impulsionar o consenso e a mudança dentro da organização." },
+          { "value": "c", "label": "O vendedor." },
+          { "value": "d", "label": "O concorrente." }
+        ],
+        "explanation": "O Mobilizador é o campeão interno que você deve identificar e equipar.",
+        "hint": "Campeão.",
+        "correctAnswer": "b",
+        "bookExample": "Foque nos Mobilizadores, não nos 'Amigos'."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de focar nos 'Amigos' (Friends) em vez dos Mobilizadores?",
+        "options": [
+          { "value": "a", "label": "O Amigo tem muito poder." },
+          { "value": "b", "label": "O Amigo concorda com você, mas não tem poder de influência para impulsionar a mudança e o consenso." },
+          { "value": "c", "label": "O Amigo é muito caro." },
+          { "value": "d", "label": "O Amigo é muito difícil de encontrar." }
+        ],
+        "explanation": "O Desafiador busca influência, não simpatia.",
+        "hint": "Influência.",
+        "correctAnswer": "b",
+        "bookExample": "O Amigo te dá informações, o Mobilizador te dá o negócio."
+      },
+      {
+        "id": "5",
+        "question": "O que o Desafiador deve fornecer ao Mobilizador?",
+        "options": [
+          { "value": "a", "label": "Um desconto." },
+          { "value": "b", "label": "A Jornada de Ensino (narrativa) e materiais adaptados para que ele possa vender a solução internamente." },
+          { "value": "c", "label": "Um presente." },
+          { "value": "d", "label": "Um elogio." }
+        ],
+        "explanation": "O Mobilizador precisa de ferramentas para vender a mudança.",
+        "hint": "Ferramentas.",
+        "correctAnswer": "b",
+        "bookExample": "Seu maior aliado é o campeão que você equipa."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Paralisia da Decisão' (Decision Paralysis)?",
+        "options": [
+          { "value": "a", "label": "O cliente não ter dinheiro." },
+          { "value": "b", "label": "A incapacidade do cliente de tomar uma decisão devido à complexidade e ao conflito de prioridades internas." },
+          { "value": "c", "label": "O cliente não gostar do produto." },
+          { "value": "d", "label": "O cliente não ter tempo." }
+        ],
+        "explanation": "A paralisia é o resultado da falta de consenso.",
+        "hint": "Falta de consenso.",
+        "correctAnswer": "b",
+        "bookExample": "A inação é o maior inimigo da venda complexa."
+      },
+      {
+        "id": "7",
+        "question": "Como o Desafiador usa o 'Custo da Inação' para impulsionar o consenso?",
+        "options": [
+          { "value": "a", "label": "Ignorando o custo." },
+          { "value": "b", "label": "Ao mostrar a todos os stakeholders o risco financeiro e pessoal de manter o status quo." },
+          { "value": "c", "label": "Dando um desconto." },
+          { "value": "d", "label": "Focando apenas na alegria do ganho." }
+        ],
+        "explanation": "O medo da perda é um poderoso unificador.",
+        "hint": "Unificador.",
+        "correctAnswer": "b",
+        "bookExample": "O medo de perder é duas vezes mais poderoso que a alegria do ganho."
+      },
+      {
+        "id": "8",
+        "question": "O que o Desafiador deve fazer se encontrar um stakeholder resistente?",
+        "options": [
+          { "value": "a", "label": "Ignorar o stakeholder." },
+          { "value": "b", "label": "Adaptar a mensagem para abordar as preocupações específicas dele e, se necessário, desafiar sua visão com insights." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no CEO." }
+        ],
+        "explanation": "A resistência é uma oportunidade para ensinar.",
+        "hint": "Oportunidade.",
+        "correctAnswer": "b",
+        "bookExample": "A resistência é apenas um sinal de que o insight não foi totalmente aceito."
+      },
+      {
+        "id": "9",
+        "question": "Qual é a principal diferença entre o Desafiador e o Construtor de Relacionamento na gestão de stakeholders?",
+        "options": [
+          { "value": "a", "label": "O Desafiador é mais simpático." },
+          { "value": "b", "label": "O Desafiador busca o Mobilizador para impulsionar a mudança; o Construtor de Relacionamento busca o Amigo para manter a harmonia." },
+          { "value": "c", "label": "O Desafiador é mais caro." },
+          { "value": "d", "label": "O Construtor de Relacionamento é mais eficaz." }
+        ],
+        "explanation": "O Desafiador foca na influência; o Construtor de Relacionamento foca na simpatia.",
+        "hint": "Foco.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a mudança, o Construtor de Relacionamento vende a si mesmo."
+      },
+      {
+        "id": "10",
+        "question": "O que o Desafiador deve fazer para garantir que o consenso seja mantido após a venda?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Continuar fornecendo insights e valor, garantindo que a solução continue relevante para todos os stakeholders." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O relacionamento é construído sobre o valor contínuo.",
+        "hint": "Continuidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um parceiro de longo prazo, não um fornecedor de projeto único."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "A Estrutura da Mensagem: Do Aquecimento à Solução",
+    "teaser": "🎬 A arte de contar histórias: crie um roteiro que leve o cliente da **empatia** (Warm-up) ao **alívio** (Solução).",
+    "level1": "A estrutura da mensagem de Ensino é crítica. Ela deve ser construída em 6 passos lógicos e emocionais. O Desafiador usa essa estrutura para controlar a conversa e garantir que o cliente chegue à conclusão desejada.",
+    "level2": "A narrativa é uma jornada que deve ser emocionalmente ressonante (**Warm-up**, **Impacto**) e logicamente defensável (**Reframe**, **Racional**). O objetivo é que o cliente sinta o medo de manter o status quo e o alívio de seguir o novo caminho.",
+    "level3": "Os 6 passos em resumo: **Warm-up** (Entendimento), **Reframe** (Novo Problema), **Racional** (Provas), **Impacto** (Consequências Pessoais), **Solução** (Novo Caminho), **Implementação** (Seu Produto).",
+    "recapitulation": [
+      "A mensagem de Ensino é uma **narrativa coesa**, não uma lista de recursos.",
+      "Comece com o que o cliente sabe (**Warm-up**) para construir credibilidade.",
+      "O **Reframe** é o choque, seguido pelo **Racional** (dados) para justificar a mudança.",
+      "O **Impacto** é crucial para a ação: conecte o problema à dor pessoal do stakeholder.",
+      "Venda a **visão da Solução** (o novo mundo) antes de vender seu produto (a Implementação)."
+    ],
+    "practicalChecklist": [
+      "Use o **Warm-up** para que o cliente diga 'Sim, é exatamente isso' antes do desafio.",
+      "Tenha um **Insight Proprietário** pronto para ser o Reframe.",
+      "Prepare dados de 3 a 5 clientes semelhantes (Racional).",
+      "Sempre traduza o custo da inação para o **impacto pessoal** (ex: 'Isso afeta sua carreira?').",
+      "Use a fase de **Implementação** para mostrar como seu produto/empresa é a única que entrega o 'Novo Caminho'."
+    ],
+    "conclusionMessage": "A mensagem de Ensino deve ser uma narrativa coesa que move o cliente de 'Eu não sabia que tinha um problema' para 'Eu preciso da sua solução agora'.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o papel do 'Warm-up' na estrutura da mensagem?",
+        "options": [
+          { "value": "a", "label": "Apresentar o preço." },
+          { "value": "b", "label": "Construir credibilidade e empatia, mostrando que o vendedor entende os desafios do cliente e da indústria." },
+          { "value": "c", "label": "Focar no produto." },
+          { "value": "d", "label": "Dar um desconto." }
+        ],
+        "explanation": "O Warm-up é a base para o desafio.",
+        "hint": "Base.",
+        "correctAnswer": "b",
+        "bookExample": "Você precisa ganhar o direito de desafiar."
+      },
+      {
+        "id": "2",
+        "question": "O que o 'Reframe' deve fazer em termos de emoção?",
+        "options": [
+          { "value": "a", "label": "Fazer o cliente feliz." },
+          { "value": "b", "label": "Gerar surpresa e desconforto, mostrando que o status quo é perigoso." },
+          { "value": "c", "label": "Gerar simpatia." },
+          { "value": "d", "label": "Gerar tédio." }
+        ],
+        "explanation": "O desconforto motiva a mudança.",
+        "hint": "Desconforto.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a dor e a cura."
+      },
+      {
+        "id": "3",
+        "question": "Por que o 'Racional' (dados e lógica) é crucial após o Reframe?",
+        "options": [
+          { "value": "a", "label": "Para aumentar o preço." },
+          { "value": "b", "label": "Para validar o insight emocionalmente chocante com fatos e números, permitindo que o cliente justifique a mudança internamente." },
+          { "value": "c", "label": "Para reduzir o preço." },
+          { "value": "d", "label": "Para focar no produto." }
+        ],
+        "explanation": "A emoção vende, mas a lógica justifica.",
+        "hint": "Justificativa.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador usa a lógica para fechar a venda."
+      },
+      {
+        "id": "4",
+        "question": "O que o passo 'Impacto' (Emotional Impact) deve evitar?",
+        "options": [
+          { "value": "a", "label": "Focar na dor." },
+          { "value": "b", "label": "Focar em problemas genéricos que não se conectam às consequências pessoais do stakeholder." },
+          { "value": "c", "label": "Focar no ROI." },
+          { "value": "d", "label": "Focar na solução." }
+        ],
+        "explanation": "A dor deve ser pessoal e relevante.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só age quando a dor é pessoal."
+      },
+      {
+        "id": "5",
+        "question": "Qual é a principal diferença entre o passo 'Solução' (New Way) e 'Implementação' (Supplier Solution)?",
+        "options": [
+          { "value": "a", "label": "São a mesma coisa." },
+          { "value": "b", "label": "Solução é o novo caminho estratégico. Implementação é como a solução do vendedor entrega esse novo caminho." },
+          { "value": "c", "label": "Solução é o preço." },
+          { "value": "d", "label": "Implementação é o desconto." }
+        ],
+        "explanation": "O Desafiador vende a visão (Solução) antes de vender o produto (Implementação).",
+        "hint": "Visão vs. Produto.",
+        "correctAnswer": "b",
+        "bookExample": "Venda o destino, não o mapa."
+      },
+      {
+        "id": "6",
+        "question": "O que a mensagem deve fazer para garantir que o cliente não volte ao status quo?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Destacar o custo da inação e a irreversibilidade da mudança (o 'Burning Platform')." },
+          { "value": "c", "label": "Focar no relacionamento." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O medo de voltar à dor é um poderoso motivador.",
+        "hint": "Medo.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador queima a ponte para o passado."
+      },
+      {
+        "id": "7",
+        "question": "O que o Desafiador deve fazer se o cliente tentar interromper a jornada para falar sobre o produto?",
+        "options": [
+          { "value": "a", "label": "Ceder e falar sobre o produto." },
+          { "value": "b", "label": "Gentilmente, mas firmemente, redirecionar a conversa de volta à jornada, explicando que o produto só fará sentido após o insight." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Assumir o Controle significa gerenciar o fluxo da conversa.",
+        "hint": "Controle.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é o guia, não o seguidor."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o erro comum ao usar a Jornada de Ensino?",
+        "options": [
+          { "value": "a", "label": "Focar demais no cliente." },
+          { "value": "b", "label": "Pular o passo 'Impacto' (Emotional Impact), resultando em uma mensagem que é logicamente correta, mas emocionalmente fria." },
+          { "value": "c", "label": "Focar demais no preço." },
+          { "value": "d", "label": "Focar demais no relacionamento." }
+        ],
+        "explanation": "A emoção é o que impulsiona a ação.",
+        "hint": "Emoção.",
+        "correctAnswer": "b",
+        "bookExample": "A lógica informa, a emoção move."
+      },
+      {
+        "id": "9",
+        "question": "O que o Desafiador deve fazer para garantir que a mensagem seja adaptada (Tailored)?",
+        "options": [
+          { "value": "a", "label": "Usar a mesma mensagem para todos." },
+          { "value": "b", "label": "Personalizar o Warm-up e o Impacto para a função e os objetivos do stakeholder." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no CEO." }
+        ],
+        "explanation": "A adaptação é sobre relevância pessoal.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "A mensagem deve ser 'costurada' para o indivíduo."
+      },
+      {
+        "id": "10",
+        "question": "O que o cliente deve sentir ao final da Jornada de Ensino?",
+        "options": [
+          { "value": "a", "label": "Que o vendedor é muito simpático." },
+          { "value": "b", "label": "Que ele precisa da solução do vendedor e que o status quo é insustentável." },
+          { "value": "c", "label": "Que o preço é muito alto." },
+          { "value": "d", "label": "Que ele poderia ter resolvido sozinho." }
+        ],
+        "explanation": "A compra é a conclusão lógica da jornada.",
+        "hint": "Conclusão.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a mudança, não o produto."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "O Perfil do Mobilizador: Quem Impulsiona a Mudança",
+    "teaser": "🔍 O Mobilizador é o **campeão interno** que você precisa. Ele é cético, mas tem a **influência** para forçar o consenso.",
+    "level1": "Em vendas complexas, o Desafiador deve focar em encontrar e equipar o **Mobilizador**. O Mobilizador não é o 'Amigo' que concorda com tudo, mas sim o indivíduo que tem a autoridade e a vontade de desafiar o status quo interno.",
+    "level2": "O Mobilizador é cético, mas tem a capacidade de influenciar e impulsionar a mudança. Ele é o seu maior aliado na luta contra a inação. Você deve procurá-lo ativamente, e não esperar que ele venha até você.",
+    "level3": "O Mobilizador é frequentemente um **'construtor de consenso'** que está disposto a debater internamente e absorver o risco de patrocinar uma solução inovadora. Você deve equipá-lo com a narrativa de Ensino adaptada para que ele venda a solução internamente.",
+    "recapitulation": [
+      "O Desafiador busca o **Mobilizador** (Influência), em vez do 'Amigo' (Simpatia).",
+      "O Mobilizador é aquele que está disposto a **desafiar o status quo interno**.",
+      "A simpatia do 'Amigo' não se traduz em poder de compra.",
+      "O Mobilizador precisa ser **equipado** com a narrativa de Ensino (Jornada) para vender a solução para o grupo.",
+      "O risco de focar no 'Amigo' é a venda morrer na burocracia por falta de consenso."
+    ],
+    "practicalChecklist": [
+      "Busque stakeholders que demonstrem **ceticismo construtivo** e visão estratégica.",
+      "Pergunte a si mesmo: 'Quem nesta sala está disposto a **arriscar sua reputação** pela minha solução?'",
+      "Entenda as **metas pessoais** do Mobilizador para adaptar o Impacto Emocional a ele.",
+      "Forneça um **kit de vendas interno** (slides, dados, e-mail) para que o Mobilizador use com seus colegas.",
+      "Ajude o Mobilizador a antecipar e neutralizar as **objeções internas** (Céticos e Amigos)."
+    ],
+    "conclusionMessage": "O Mobilizador é o campeão interno que você deve identificar e equipar. Ele é cético, mas tem a capacidade de impulsionar o consenso.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal característica do Mobilizador?",
+        "options": [
+          { "value": "a", "label": "Ser o mais simpático." },
+          { "value": "b", "label": "Ter a capacidade de impulsionar o consenso e desafiar o status quo interno." },
+          { "value": "c", "label": "Ser o mais fácil de encontrar." },
+          { "value": "d", "label": "Ser o mais reativo." }
+        ],
+        "explanation": "O Mobilizador é o motor da mudança.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "O Mobilizador é o campeão que você precisa."
+      },
+      {
+        "id": "2",
+        "question": "Por que o Desafiador deve evitar focar nos 'Amigos' (Friends)?",
+        "options": [
+          { "value": "a", "label": "O Amigo é muito caro." },
+          { "value": "b", "label": "O Amigo concorda, mas não tem a influência ou a vontade de impulsionar a mudança e o consenso." },
+          { "value": "c", "label": "O Amigo é muito difícil de encontrar." },
+          { "value": "d", "label": "O Amigo é muito cético." }
+        ],
+        "explanation": "A simpatia não se traduz em poder de compra.",
+        "hint": "Poder.",
+        "correctAnswer": "b",
+        "bookExample": "O Amigo te dá informações, o Mobilizador te dá o negócio."
+      },
+      {
+        "id": "3",
+        "question": "O que o Desafiador deve fazer para 'Equipar' o Mobilizador?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Fornecer a Jornada de Ensino (narrativa) e materiais adaptados para que ele possa vender a solução internamente." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O Mobilizador precisa de ferramentas para vender a mudança.",
+        "hint": "Ferramentas.",
+        "correctAnswer": "b",
+        "bookExample": "Seu maior aliado é o campeão que você equipa."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de não identificar o Mobilizador?",
+        "options": [
+          { "value": "a", "label": "O preço aumenta." },
+          { "value": "b", "label": "A venda morre na burocracia devido à falta de consenso e inação." },
+          { "value": "c", "label": "O cliente fica feliz." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A inação é o maior inimigo.",
+        "hint": "Inação.",
+        "correctAnswer": "b",
+        "bookExample": "A venda complexa exige um campeão interno."
+      },
+      {
+        "id": "5",
+        "question": "O que o Mobilizador deve sentir ao receber a mensagem do Desafiador?",
+        "options": [
+          { "value": "a", "label": "Que o vendedor é muito simpático." },
+          { "value": "b", "label": "Que o insight é valioso e que ele tem a oportunidade de impulsionar uma mudança significativa na organização." },
+          { "value": "c", "label": "Que o preço é muito alto." },
+          { "value": "d", "label": "Que ele poderia ter resolvido sozinho." }
+        ],
+        "explanation": "O Mobilizador busca a oportunidade de liderar.",
+        "hint": "Liderança.",
+        "correctAnswer": "b",
+        "bookExample": "O Mobilizador compra a oportunidade de ser um herói."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a principal diferença entre o Mobilizador e o 'Cético' (Skeptic)?",
+        "options": [
+          { "value": "a", "label": "O Cético é mais fácil de convencer." },
+          { "value": "b", "label": "O Mobilizador está disposto a agir e impulsionar a mudança; o Cético é resistente à mudança e foca no risco." },
+          { "value": "c", "label": "O Cético tem mais poder." },
+          { "value": "d", "label": "O Mobilizador é mais simpático." }
+        ],
+        "explanation": "O Desafiador deve converter o Cético em Mobilizador, se possível, ou contorná-lo.",
+        "hint": "Ação.",
+        "correctAnswer": "b",
+        "bookExample": "O Cético é o inimigo da mudança."
+      },
+      {
+        "id": "7",
+        "question": "Como o Desafiador lida com o Mobilizador que está 'Preso' (Stuck)?",
+        "options": [
+          { "value": "a", "label": "Dá um desconto." },
+          { "value": "b", "label": "Fornece o insight e a narrativa para que ele possa superar a inação e o conflito interno." },
+          { "value": "c", "label": "Foca apenas no CEO." },
+          { "value": "d", "label": "Muda de assunto." }
+        ],
+        "explanation": "O Desafiador é o catalisador da mudança.",
+        "hint": "Catalisador.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é o guia que tira o cliente da inação."
+      },
+      {
+        "id": "8",
+        "question": "O que o Desafiador deve fazer para garantir que o Mobilizador tenha sucesso interno?",
+        "options": [
+          { "value": "a", "label": "Fazer o trabalho por ele." },
+          { "value": "b", "label": "Ajudá-lo a adaptar a mensagem para os outros stakeholders e a antecipar objeções internas." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O Desafiador é um parceiro estratégico.",
+        "hint": "Parceria.",
+        "correctAnswer": "b",
+        "bookExample": "O sucesso do Mobilizador é o seu sucesso."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de focar em um Mobilizador que não tem autoridade?",
+        "options": [
+          { "value": "a", "label": "O preço aumenta." },
+          { "value": "b", "label": "A venda morre na burocracia, pois ele não consegue impulsionar o consenso e a aprovação." },
+          { "value": "c", "label": "O cliente fica feliz." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A autoridade é crucial para a mudança.",
+        "hint": "Autoridade.",
+        "correctAnswer": "b",
+        "bookExample": "Foque em quem pode fazer a mudança acontecer."
+      },
+      {
+        "id": "10",
+        "question": "O que o Desafiador deve fazer para identificar o Mobilizador rapidamente?",
+        "options": [
+          { "value": "a", "label": "Perguntar quem é o chefe." },
+          { "value": "b", "label": "Procurar por stakeholders que demonstram ceticismo construtivo, têm visão estratégica e estão dispostos a debater o status quo." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no preço." }
+        ],
+        "explanation": "O Mobilizador é um pensador crítico.",
+        "hint": "Crítico.",
+        "correctAnswer": "b",
+        "bookExample": "O Mobilizador é o pensador crítico que você precisa."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "A Venda da Mudança: O Status Quo é o Inimigo",
+    "teaser": "🔥 Crie um **'Burning Platform'** (Plataforma em Chamas). O cliente deve ver que a inação é mais arriscada que a mudança.",
+    "level1": "Em vendas complexas, o cliente tem mais medo de errar do que de perder uma oportunidade. O status quo (manter as coisas como estão) é o caminho mais seguro. O Desafiador deve mostrar que o status quo é, na verdade, o caminho mais arriscado e caro.",
+    "level2": "Você precisa criar um **'Burning Platform'** (Plataforma em Chamas) que force o cliente a agir. O insight deve ser tão chocante que o **custo da inação** se torne insuportável. O Desafiador vende a urgência da mudança.",
+    "level3": "O Desafiador usa o **Medo da Perda** (Loss Aversion), que é duas vezes mais poderoso que a alegria do ganho, para impulsionar a decisão. Ele foca nas perdas que o cliente terá se não agir, em vez dos ganhos que ele terá se agir.",
+    "recapitulation": [
+      "O **Status Quo** é o maior concorrente em vendas complexas.",
+      "O Desafiador deve mostrar que o status quo é, na verdade, o caminho **mais arriscado e caro**.",
+      "O **Custo da Inação** é a arma para quebrar o status quo.",
+      "O **Medo da Perda** (Loss Aversion) é o principal motivador de compra.",
+      "O Desafiador vende a **urgência da mudança**, e não o produto."
+    ],
+    "practicalChecklist": [
+      "Tenha um **Insight Proprietário** que mostre um risco ou perda que o cliente ignora.",
+      "Quantifique o **Custo da Inação** em termos financeiros, operacionais e de risco.",
+      "Use a tática do **'Burning Platform'**: 'Se você não mudar X agora, acontecerá Y...'",
+      "Se o cliente disser 'Não temos orçamento', volte ao **Custo da Inação**.",
+      "Crie uma **Visão de Futuro** (New Way) que seja um alívio após a dor do 'Burning Platform'."
+    ],
+    "conclusionMessage": "O Desafiador não vende o produto, vende a mudança. O status quo é o maior concorrente, e o insight é a arma para destruí-lo.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o maior concorrente em vendas complexas?",
+        "options": [
+          { "value": "a", "label": "O concorrente de preço mais baixo." },
+          { "value": "b", "label": "O status quo (a inação do cliente)." },
+          { "value": "c", "label": "O produto da concorrência." },
+          { "value": "d", "label": "O preço alto." }
+        ],
+        "explanation": "A inação é o maior inimigo.",
+        "hint": "Inação.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente tem mais medo de errar do que de perder uma oportunidade."
+      },
+      {
+        "id": "2",
+        "question": "O que o Desafiador deve fazer para quebrar o status quo?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Apresentar um Insight Proprietário que mostra o custo da inação e o risco de manter o status quo." },
+          { "value": "c", "label": "Focar no relacionamento." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O insight é a arma da mudança.",
+        "hint": "Arma.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a dor e a cura."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Burning Platform' (Plataforma em Chamas)?",
+        "options": [
+          { "value": "a", "label": "Um problema pequeno." },
+          { "value": "b", "label": "A urgência e o risco criados ao mostrar que o status quo é insustentável e que a inação levará a consequências graves." },
+          { "value": "c", "label": "Um desconto." },
+          { "value": "d", "label": "Um elogio." }
+        ],
+        "explanation": "A urgência motiva a ação.",
+        "hint": "Urgência.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador queima a ponte para o passado."
+      },
+      {
+        "id": "4",
+        "question": "Como o Desafiador usa o 'Medo da Perda' (Loss Aversion)?",
+        "options": [
+          { "value": "a", "label": "Ignorando o medo." },
+          { "value": "b", "label": "Focando nas perdas que o cliente terá se não agir, em vez dos ganhos que ele terá se agir." },
+          { "value": "c", "label": "Dando um desconto." },
+          { "value": "d", "label": "Focando apenas na alegria." }
+        ],
+        "explanation": "O medo de perder é duas vezes mais poderoso que a alegria do ganho.",
+        "hint": "Poder.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o que eles perderão se não agirem."
+      },
+      {
+        "id": "5",
+        "question": "O que o Desafiador deve fazer para garantir que a mudança seja aceita internamente?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no CEO." },
+          { "value": "b", "label": "Equipar o Mobilizador com a narrativa de Ensino adaptada para todos os stakeholders." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O consenso é a chave para a mudança.",
+        "hint": "Consenso.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o consenso."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de focar apenas nos 'Ganhos' (Gains) da solução?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente pode adiar a decisão, pois o ganho não é tão urgente quanto a perda." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A urgência é criada pela perda.",
+        "hint": "Urgência.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a dor e a cura."
+      },
+      {
+        "id": "7",
+        "question": "O que o Desafiador deve fazer para garantir que o cliente veja o status quo como insustentável?",
+        "options": [
+          { "value": "a", "label": "Elogiar o status quo." },
+          { "value": "b", "label": "Quantificar o custo da inação e o risco de manter o status quo (Racional)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A quantificação é a chave para a insustentabilidade.",
+        "hint": "Quantificação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador usa a lógica para fechar a venda."
+      },
+      {
+        "id": "8",
+        "question": "O que o Desafiador deve fazer se o cliente disser 'Não temos orçamento para isso'?",
+        "options": [
+          { "value": "a", "label": "Reduzir o preço." },
+          { "value": "b", "label": "Voltar ao custo da inação e perguntar: 'Se você não tem orçamento para a solução, como você vai pagar pelo custo de não resolver o problema?'" },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O Desafiador reestrutura a visão do orçamento.",
+        "hint": "Reestruturação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o ROI, não o custo."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o papel da 'Visão de Futuro' (New Way) na venda da mudança?",
+        "options": [
+          { "value": "a", "label": "Focar no passado." },
+          { "value": "b", "label": "Mostrar ao cliente um futuro melhor e mais seguro, onde o problema foi resolvido." },
+          { "value": "c", "label": "Focar no preço." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "A visão de futuro é o alívio após a dor.",
+        "hint": "Alívio.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o destino, não o mapa."
+      },
+      {
+        "id": "10",
+        "question": "O que o Desafiador deve fazer para garantir que a mudança seja duradoura?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Continuar fornecendo insights e valor, garantindo que o cliente não volte ao status quo." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O relacionamento é construído sobre o valor contínuo.",
+        "hint": "Continuidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um parceiro de longo prazo."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "A Complexidade da Decisão: O Desafio do Consenso",
+    "teaser": "📉 Mais pessoas = **mais inação**. O Desafiador simplifica a complexidade e vende a clareza para o grupo.",
+    "level1": "À medida que o número de stakeholders aumenta, a probabilidade de inação (paralisia da decisão) aumenta. O Desafiador deve ser um 'construtor de consenso', fornecendo a narrativa e as ferramentas para que o cliente possa tomar uma decisão unificada.",
+    "level2": "O cliente não está comprando um produto; ele está comprando uma **decisão**. Se a decisão for muito complexa, ele não fará nada. O Desafiador simplifica a complexidade, focando em 2 ou 3 prioridades que ressoam com todos.",
+    "level3": "O desafio é evitar o **Consenso de Baixo Denominador Comum**, onde o grupo escolhe a opção mais segura e menos controversa. O Desafiador deve mostrar que a mudança é a opção mais segura a longo prazo.",
+    "recapitulation": [
+      "O número de stakeholders na decisão aumenta o risco de **Paralisia da Decisão**.",
+      "A chave é simplificar a complexidade, focando em poucas **prioridades unificadoras**.",
+      "O Desafiador vende a **segurança da decisão**, não a segurança do status quo.",
+      "A **Adaptação** (Tailor) da mensagem é a ferramenta para construir o consenso.",
+      "O Mobilizador é o **construtor de consenso** interno que você deve equipar."
+    ],
+    "practicalChecklist": [
+      "Identifique as 2-3 **prioridades estratégicas** que unem o CEO, CFO e Gerente de TI.",
+      "Estruture a Jornada de Ensino para **alinhar** todas as visões em torno do Insight Proprietário.",
+      "Use **dados** e **prova social** para reduzir o 'Risco Percebido' da decisão.",
+      "Trabalhe com o Mobilizador para antecipar e neutralizar as **objeções** dos stakeholders resistentes.",
+      "Seja o **Guia** do processo de decisão, definindo os próximos passos de forma assertiva."
+    ],
+    "conclusionMessage": "A complexidade da decisão é o maior desafio. O Desafiador simplifica a decisão, alinhando o consenso e reduzindo o risco percebido.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que acontece com a probabilidade de compra à medida que o número de stakeholders aumenta?",
+        "options": [
+          { "value": "a", "label": "Aumenta." },
+          { "value": "b", "label": "Diminui (aumenta a probabilidade de inação)." },
+          { "value": "c", "label": "Permanece a mesma." },
+          { "value": "d", "label": "Depende do preço." }
+        ],
+        "explanation": "Mais pessoas = mais conflito = mais inação.",
+        "hint": "Conflito.",
+        "correctAnswer": "b",
+        "bookExample": "O consenso é o inimigo da venda complexa."
+      },
+      {
+        "id": "2",
+        "question": "O que o Desafiador deve fazer para simplificar a decisão?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Focar em 2 ou 3 prioridades que ressoam com todos os stakeholders e usar a Jornada de Ensino para alinhar a visão." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "A simplicidade é a chave para o consenso.",
+        "hint": "Simplicidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a clareza."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Decisão de Grupo' (Group Decision)?",
+        "options": [
+          { "value": "a", "label": "Uma decisão rápida." },
+          { "value": "b", "label": "Uma decisão tomada por múltiplos stakeholders com prioridades e agendas diferentes." },
+          { "value": "c", "label": "Uma decisão fácil." },
+          { "value": "d", "label": "Uma decisão barata." }
+        ],
+        "explanation": "A decisão de grupo é o que torna a venda complexa.",
+        "hint": "Múltiplos.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende para o grupo, não para o indivíduo."
+      },
+      {
+        "id": "4",
+        "question": "Como o Desafiador usa o 'Custo da Inação' para impulsionar a decisão de grupo?",
+        "options": [
+          { "value": "a", "label": "Ignorando o custo." },
+          { "value": "b", "label": "Ao mostrar a todos os stakeholders o risco financeiro e pessoal de manter o status quo, unificando-os contra a inação." },
+          { "value": "c", "label": "Dando um desconto." },
+          { "value": "d", "label": "Focando apenas na alegria do ganho." }
+        ],
+        "explanation": "O medo da perda é um poderoso unificador.",
+        "hint": "Unificador.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a dor e a cura."
+      },
+      {
+        "id": "5",
+        "question": "O que o Desafiador deve fazer para garantir que o Mobilizador tenha sucesso na venda interna?",
+        "options": [
+          { "value": "a", "label": "Fazer o trabalho por ele." },
+          { "value": "b", "label": "Fornecer a narrativa de Ensino adaptada para que ele possa superar as objeções dos outros stakeholders." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O Mobilizador precisa de ferramentas para vender a mudança.",
+        "hint": "Ferramentas.",
+        "correctAnswer": "b",
+        "bookExample": "Seu maior aliado é o campeão que você equipa."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de focar em um stakeholder que é um 'Amigo' (Friend)?",
+        "options": [
+          { "value": "a", "label": "O Amigo tem muito poder." },
+          { "value": "b", "label": "O Amigo não tem a influência necessária para impulsionar o consenso e a mudança." },
+          { "value": "c", "label": "O Amigo é muito caro." },
+          { "value": "d", "label": "O Amigo é muito cético." }
+        ],
+        "explanation": "A simpatia não se traduz em poder de compra.",
+        "hint": "Poder.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador busca influência, não simpatia."
+      },
+      {
+        "id": "7",
+        "question": "O que o Desafiador deve fazer para reduzir o 'Risco Percebido' da decisão?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Usar dados (Racional) e prova social (testemunhos) para validar a solução e a experiência de outros clientes." },
+          { "value": "c", "label": "Focar apenas no preço." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "A prova social e a lógica reduzem o risco.",
+        "hint": "Prova.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a segurança da decisão."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Consenso de Baixo Denominador Comum' (Lowest Common Denominator Consensus)?",
+        "options": [
+          { "value": "a", "label": "O melhor resultado possível." },
+          { "value": "b", "label": "A tendência de grupos de decisão a escolherem a opção mais segura e menos controversa (o status quo ou a solução mais barata)." },
+          { "value": "c", "label": "O preço mais alto." },
+          { "value": "d", "label": "O preço mais baixo." }
+        ],
+        "explanation": "O Desafiador deve lutar contra essa tendência, mostrando que a opção segura é, na verdade, a mais arriscada.",
+        "hint": "Segurança.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a mudança, não a segurança."
+      },
+      {
+        "id": "9",
+        "question": "Como o Desafiador usa a 'Tensão Construtiva' na decisão de grupo?",
+        "options": [
+          { "value": "a", "label": "Para brigar com o cliente." },
+          { "value": "b", "label": "Ao expor o conflito de prioridades internas e mostrar que a inação é mais dolorosa do que a mudança." },
+          { "value": "c", "label": "Para dar um desconto." },
+          { "value": "d", "label": "Para elogiar o cliente." }
+        ],
+        "explanation": "A tensão é o motor da mudança.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "Se não há tensão, não há necessidade de mudança."
+      },
+      {
+        "id": "10",
+        "question": "O que o Desafiador deve fazer para garantir que a decisão seja tomada no prazo?",
+        "options": [
+          { "value": "a", "label": "Esperar pacientemente." },
+          { "value": "b", "label": "Assumir o Controle do processo, definindo os próximos passos e os prazos de forma assertiva." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O Desafiador gerencia o processo.",
+        "hint": "Processo.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é o guia, não o seguidor."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "O Vendedor Desafiador vs. O Vendedor Relacionamento",
+    "teaser": "🍎🆚🍊 Um é o **Professor Assertivo** que cria valor; o outro é o **Amigo Passivo** que cede no preço. Escolha o Desafiador.",
+    "level1": "A diferença entre o Desafiador e o Relacionamento é fundamental. O Relacionamento foca em construir laços pessoais e ceder para manter a harmonia. O Desafiador foca em valor, insight e desafiar o cliente para impulsionar a mudança.",
+    "level2": "O Relacionamento é ótimo para manter clientes existentes, mas péssimo para fechar novos negócios complexos. O Desafiador é o oposto: ele é o motor do crescimento, pois ele cria a demanda e assume o controle da conversa.",
+    "level3": "O Relacionamento é visto como um **fornecedor de commodity** (fácil de substituir). O Desafiador é visto como um **consultor estratégico** (indispensável). O relacionamento do Desafiador é construído sobre o valor e o sucesso do cliente.",
+    "recapitulation": [
+      "Relacionamento prioriza a **harmonia** e a simpatia (cede no preço).",
+      "Desafiador prioriza o **valor do insight** e a mudança (assertivo no preço).",
+      "O Relacionamento é visto como um **fornecedor**; o Desafiador é um **parceiro estratégico**.",
+      "O Desafiador cria demanda; o Relacionamento atende à demanda existente.",
+      "O relacionamento do Desafiador é uma **consequência** do valor, não a causa do negócio."
+    ],
+    "practicalChecklist": [
+      "Mantenha uma postura de **Autoridade e Especialista** (Professor), não de 'atendente de pedidos'.",
+      "Use a **Tensão Construtiva** para desafiar o pensamento do cliente, mesmo que gere desconforto.",
+      "Quando o cliente pedir um desconto, use a **Concessão Estratégica** (nunca ceda de graça).",
+      "Foque no **valor do insight** para justificar o preço premium.",
+      "Busque ativamente os **Mobilizadores** em vez dos 'Amigos' em novas vendas."
+    ],
+    "conclusionMessage": "O Desafiador é o professor que vende a mudança; o Relacionamento é o amigo que vende a si mesmo. O Desafiador é o futuro das vendas complexas.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal prioridade do Vendedor Relacionamento?",
+        "options": [
+          { "value": "a", "label": "O ROI." },
+          { "value": "b", "label": "A satisfação e a harmonia do cliente, mesmo que isso signifique ceder no preço ou no escopo." },
+          { "value": "c", "label": "O Insight Proprietário." },
+          { "value": "d", "label": "Assumir o Controle." }
+        ],
+        "explanation": "O Relacionamento tem medo de gerar tensão.",
+        "hint": "Harmonia.",
+        "correctAnswer": "b",
+        "bookExample": "O Relacionamento é o mais comum, mas o menos eficaz."
+      },
+      {
+        "id": "2",
+        "question": "O que o Desafiador prioriza em relação ao cliente?",
+        "options": [
+          { "value": "a", "label": "A simpatia." },
+          { "value": "b", "label": "O valor do insight e a capacidade de impulsionar a mudança." },
+          { "value": "c", "label": "O preço baixo." },
+          { "value": "d", "label": "O tempo de reunião." }
+        ],
+        "explanation": "O Desafiador vende a mudança, não a amizade.",
+        "hint": "Mudança.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não precisa de um amigo, precisa de um professor."
+      },
+      {
+        "id": "3",
+        "question": "Como o Vendedor Relacionamento lida com a objeção de preço?",
+        "options": [
+          { "value": "a", "label": "Volta ao insight." },
+          { "value": "b", "label": "Tende a dar descontos rapidamente para manter a harmonia e evitar o conflito." },
+          { "value": "c", "label": "Desafia o cliente." },
+          { "value": "d", "label": "Muda de assunto." }
+        ],
+        "explanation": "O desconto é a ferramenta do Relacionamento.",
+        "hint": "Desconto.",
+        "correctAnswer": "b",
+        "bookExample": "O Relacionamento negocia contra si mesmo."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de ser um Vendedor Relacionamento em vendas complexas?",
+        "options": [
+          { "value": "a", "label": "O cliente te odeia." },
+          { "value": "b", "label": "Você se torna um fornecedor de commodity, incapaz de justificar um preço premium ou impulsionar a mudança estratégica." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O ciclo de vendas se torna mais rápido." }
+        ],
+        "explanation": "O Relacionamento é visto como um fornecedor, não como um parceiro estratégico.",
+        "hint": "Commodity.",
+        "correctAnswer": "b",
+        "bookExample": "O relacionamento sem insight é apenas amizade, não valor."
+      },
+      {
+        "id": "5",
+        "question": "O que o Desafiador faz para 'Assumir o Controle' que o Relacionamento evita?",
+        "options": [
+          { "value": "a", "label": "Falar mais alto." },
+          { "value": "b", "label": "Gerenciar o processo de vendas e a negociação de preço de forma assertiva, guiando o cliente à conclusão desejada." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O Desafiador é o guia, não o seguidor.",
+        "hint": "Guia.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não espera o cliente pedir; ele diz o que o cliente precisa."
+      },
+      {
+        "id": "6",
+        "question": "Qual perfil de vendedor é mais propenso a ser visto como 'Consultor'?",
+        "options": [
+          { "value": "a", "label": "O Construtor de Relacionamento." },
+          { "value": "b", "label": "O Desafiador." },
+          { "value": "c", "label": "O Trabalhador Duro." },
+          { "value": "d", "label": "O Solucionador de Problemas Reativo." }
+        ],
+        "explanation": "O Desafiador ensina e desafia, assumindo a posição de autoridade.",
+        "hint": "Autoridade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um consultor, não um atendente de pedidos."
+      },
+      {
+        "id": "7",
+        "question": "O que o Desafiador usa para construir o relacionamento?",
+        "options": [
+          { "value": "a", "label": "Elogios e presentes." },
+          { "value": "b", "label": "O valor do insight e a capacidade de impulsionar o sucesso do cliente." },
+          { "value": "c", "label": "Descontos." },
+          { "value": "d", "label": "Conversas pessoais." }
+        ],
+        "explanation": "O relacionamento é construído sobre o valor, não sobre a simpatia.",
+        "hint": "Valor.",
+        "correctAnswer": "b",
+        "bookExample": "O relacionamento é o resultado do valor, não a causa."
+      },
+      {
+        "id": "8",
+        "question": "Qual perfil de vendedor é mais eficaz em um ambiente de vendas onde o cliente já sabe o que quer?",
+        "options": [
+          { "value": "a", "label": "O Desafiador." },
+          { "value": "b", "label": "O Solucionador de Problemas Reativo (que atende a pedidos)." },
+          { "value": "c", "label": "O Lobo Solitário." },
+          { "value": "d", "label": "O Construtor de Relacionamento." }
+        ],
+        "explanation": "O Solucionador de Problemas é eficaz em vendas transacionais simples.",
+        "hint": "Simplicidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é necessário quando o cliente não sabe o que precisa."
+      },
+      {
+        "id": "9",
+        "question": "O que o Desafiador deve fazer para garantir que o cliente não volte ao Relacionamento?",
+        "options": [
+          { "value": "a", "label": "Ser mais simpático." },
+          { "value": "b", "label": "Continuar fornecendo insights e valor que o Relacionamento não pode oferecer." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O valor contínuo é a chave para a retenção.",
+        "hint": "Continuidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um parceiro de longo prazo, não um fornecedor de projeto único."
+      },
+      {
+        "id": "10",
+        "question": "O que o Desafiador faz para 'Adaptar' (Tailor) a mensagem que o Relacionamento não faz?",
+        "options": [
+          { "value": "a", "label": "Usa a mesma mensagem para todos." },
+          { "value": "b", "label": "Personaliza o insight e o impacto para as prioridades específicas de cada stakeholder." },
+          { "value": "c", "label": "Foca apenas no CEO." },
+          { "value": "d", "label": "Foca apenas no produto." }
+        ],
+        "explanation": "A adaptação é sobre relevância pessoal.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um alfaiate de mensagens."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "O Risco da Inação: O Maior Inimigo",
+    "teaser": "⚠️ Pare de vender ganhos. Venda o **risco e a perda** de não fazer nada. O medo move a agulha.",
+    "level1": "O risco da inação é o maior inimigo em vendas complexas. O cliente tem mais medo de errar do que de perder uma oportunidade. O Desafiador deve mostrar que o status quo é, na verdade, o caminho mais arriscado e caro.",
+    "level2": "O Desafiador cria um **'Burning Platform'** (Plataforma em Chamas) que força o cliente a agir, focando no **Medo da Perda** (Loss Aversion), que é um motivador mais forte que a alegria do ganho.",
+    "level3": "A chave é o **Reframe** que reestrutura a visão do cliente sobre o custo de não agir. Se o cliente disser 'Não temos orçamento', o Desafiador responde voltando ao **Custo da Inação** ('Se você não tem orçamento para a solução, como vai pagar pelo custo de não resolver o problema?').",
+    "recapitulation": [
+      "A **Inação** é o obstáculo nº 1, resultado da complexidade e do medo de errar.",
+      "O **Medo da Perda** é um motivador mais forte do que a alegria do ganho.",
+      "O Desafiador cria um **'Burning Platform'** ao quantificar o Custo da Inação.",
+      "A resposta a objeções de preço e orçamento deve ser voltar ao **risco de manter o status quo**.",
+      "O objetivo é quebrar a crença de que o status quo é a opção mais segura."
+    ],
+    "practicalChecklist": [
+      "Tenha dados de **Custo da Inação** prontos para cada Insight Proprietário.",
+      "Formule suas frases para focar na **perda** (o que o cliente vai perder) em vez do ganho.",
+      "Seja assertivo em desafiar a inação: **'Qual é o custo de continuarmos a adiar isso?'**",
+      "Use o **Racional** (dados) para justificar a urgência do 'Burning Platform'.",
+      "Venda a **cura e a segurança** que sua solução oferece contra a dor do status quo."
+    ],
+    "conclusionMessage": "O Desafiador deve focar em vender a mudança, e não o produto. O status quo é o maior concorrente, e o custo da inação é a arma para destruí-lo.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que o Desafiador deve fazer para criar um 'Burning Platform'?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Apresentar um Insight Proprietário que mostra o custo da inação e o risco de manter o status quo." },
+          { "value": "c", "label": "Focar no relacionamento." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O insight é a arma da mudança.",
+        "hint": "Arma.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a dor e a cura."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o principal motivador da compra em vendas complexas?",
+        "options": [
+          { "value": "a", "label": "A alegria do ganho." },
+          { "value": "b", "label": "O medo da perda (Loss Aversion)." },
+          { "value": "c", "label": "O preço baixo." },
+          { "value": "d", "label": "O relacionamento." }
+        ],
+        "explanation": "O medo de perder é duas vezes mais poderoso que a alegria do ganho.",
+        "hint": "Poder.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o que eles perderão se não agirem."
+      },
+      {
+        "id": "3",
+        "question": "O que o Desafiador deve fazer se o cliente disser 'Não temos orçamento para isso'?",
+        "options": [
+          { "value": "a", "label": "Reduzir o preço." },
+          { "value": "b", "label": "Voltar ao custo da inação e perguntar: 'Se você não tem orçamento para a solução, como você vai pagar pelo custo de não resolver o problema?'" },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O Desafiador reestrutura a visão do orçamento.",
+        "hint": "Reestruturação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o ROI, não o custo."
+      },
+      {
+        "id": "4",
+        "question": "Como o Desafiador usa o 'Racional' (dados) para combater a inação?",
+        "options": [
+          { "value": "a", "label": "Ignorando os dados." },
+          { "value": "b", "label": "Usando dados e lógica para provar que o status quo é insustentável e que a inação levará a consequências graves." },
+          { "value": "c", "label": "Dando um desconto." },
+          { "value": "d", "label": "Focando no relacionamento." }
+        ],
+        "explanation": "A lógica valida a emoção gerada pelo Reframe.",
+        "hint": "Lógica.",
+        "correctAnswer": "b",
+        "bookExample": "A emoção vende, mas a lógica justifica."
+      },
+      {
+        "id": "5",
+        "question": "O que o Desafiador deve fazer para garantir que o cliente veja o status quo como insustentável?",
+        "options": [
+          { "value": "a", "label": "Elogiar o status quo." },
+          { "value": "b", "label": "Quantificar o custo da inação e o risco de manter o status quo (Racional)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A quantificação é a chave para a insustentabilidade.",
+        "hint": "Quantificação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador usa a lógica para fechar a venda."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de focar apenas nos 'Ganhos' (Gains) da solução?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente pode adiar a decisão, pois o ganho não é tão urgente quanto a perda." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A urgência é criada pela perda.",
+        "hint": "Urgência.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a dor e a cura."
+      },
+      {
+        "id": "7",
+        "question": "O que o Desafiador deve fazer para garantir que a mudança seja aceita internamente?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no CEO." },
+          { "value": "b", "label": "Equipar o Mobilizador com a narrativa de Ensino adaptada para todos os stakeholders." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O consenso é a chave para a mudança.",
+        "hint": "Consenso.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o consenso."
+      },
+      {
+        "id": "8",
+        "question": "O que o Desafiador deve fazer se o cliente tentar voltar ao status quo?",
+        "options": [
+          { "value": "a", "label": "Ceder imediatamente." },
+          { "value": "b", "label": "Reafirmar o custo da inação e o risco de manter o status quo (Burning Platform)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O Desafiador é firme no insight.",
+        "hint": "Firmeza.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não tem medo de discordar."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o papel da 'Visão de Futuro' (New Way) na venda da mudança?",
+        "options": [
+          { "value": "a", "label": "Focar no passado." },
+          { "value": "b", "label": "Mostrar ao cliente um futuro melhor e mais seguro, onde o problema foi resolvido." },
+          { "value": "c", "label": "Focar no preço." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "A visão de futuro é o alívio após a dor.",
+        "hint": "Alívio.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o destino, não o mapa."
+      },
+      {
+        "id": "10",
+        "question": "O que o Desafiador deve fazer para garantir que a mudança seja duradoura?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Continuar fornecendo insights e valor, garantindo que o cliente não volte ao status quo." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O relacionamento é construído sobre o valor contínuo.",
+        "hint": "Continuidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um parceiro de longo prazo."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "A Negociação de Valor: Protegendo o Preço",
+    "teaser": "💰 O Desafiador negocia o **escopo**, não o preço. Seu Insight Proprietário é o escudo contra o pedido de desconto.",
+    "level1": "A negociação de preço é o momento em que o Desafiador assume o Controle. Ele não cede facilmente a descontos e usa a negociação para reafirmar o valor do insight e o custo da inação. O Desafiador é firme no preço, mas flexível no escopo.",
+    "level2": "O Desafiador evita a armadilha de **Negociar Contra Si Mesmo** (reduzir o preço antes que o cliente peça) e usa a **Concessão Estratégica**: ele só faz uma concessão se o cliente fizer uma em troca (ex: prazo mais longo, testemunho).",
+    "level3": "Se o cliente insistir no desconto sem oferecer nada em troca, o Desafiador deve estar disposto a se afastar (**Preço de Descarte** / Walk-Away Price), protegendo a margem e o valor percebido da solução.",
+    "recapitulation": [
+      "O Desafiador negocia o **valor** (ROI e risco mitigado), não o preço.",
+      "O Insight Proprietário é a principal justificativa para o **preço premium**.",
+      "Use a **Concessão Estratégica**: troque preço por escopo, prazo ou testemunho.",
+      "Nunca **Negocie Contra Si Mesmo** (não ofereça desconto proativamente).",
+      "Defina e respeite seu **Preço de Descarte** para proteger a margem e o valor."
+    ],
+    "practicalChecklist": [
+      "Prepare uma **opção de escopo reduzido (Downsell)** antes da negociação.",
+      "Use o silêncio após o preço para forçar o cliente a falar primeiro.",
+      "Ao ouvir 'Está caro', responda: **'Entendo. O que podemos remover do escopo para reduzir o investimento?'**",
+      "Seja assertivo sobre o **processo de vendas** (Assumir o Controle) para evitar desvios.",
+      "Use o **Custo da Inação** para mostrar que o preço é um investimento com alto ROI."
+    ],
+    "conclusionMessage": "O Desafiador negocia o valor, não o preço. Ele usa o insight para justificar o preço premium e está disposto a se afastar se o cliente não valorizar a solução.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que o Desafiador deve fazer se o cliente pedir um desconto?",
+        "options": [
+          { "value": "a", "label": "Reduzir o preço imediatamente." },
+          { "value": "b", "label": "Voltar ao insight (Ensino) para reafirmar o custo da inação e o ROI, e negociar o escopo em vez do preço." },
+          { "value": "c", "label": "Pede desculpas pelo preço." },
+          { "value": "d", "label": "Muda de assunto." }
+        ],
+        "explanation": "O preço é justificado pelo valor criado.",
+        "hint": "Justificação.",
+        "correctAnswer": "b",
+        "bookExample": "Se o valor é claro, o preço é fácil."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Concessão Estratégica' (Strategic Concession)?",
+        "options": [
+          { "value": "a", "label": "Dar um grande desconto." },
+          { "value": "b", "label": "Fazer uma pequena concessão em troca de algo de valor (ex: prazo mais longo, testemunho) ou reduzir o escopo em vez do preço." },
+          { "value": "c", "label": "Reduzir o preço imediatamente." },
+          { "value": "d", "label": "Aumentar o CODB." }
+        ],
+        "explanation": "Concessões devem ser dolorosas e estratégicas.",
+        "hint": "Troca.",
+        "correctAnswer": "b",
+        "bookExample": "Nunca dê algo por nada."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de 'Negociar contra si mesmo'?",
+        "options": [
+          { "value": "a", "label": "Você fecha o negócio mais rápido." },
+          { "value": "b", "label": "Você reduz o preço sem que o cliente peça, desvalorizando seu trabalho e reduzindo o lucro." },
+          { "value": "c", "label": "Você aumenta o preço." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "O silêncio é seu amigo na negociação.",
+        "hint": "Silêncio.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador usa o silêncio para forçar o cliente a falar primeiro."
+      },
+      {
+        "id": "4",
+        "question": "Como o Desafiador usa o 'Preço de Descarte' (Walk-Away Price)?",
+        "options": [
+          { "value": "a", "label": "Para dar um desconto." },
+          { "value": "b", "label": "Para saber o limite mínimo de preço e estar disposto a se afastar se o cliente não valorizar a solução." },
+          { "value": "c", "label": "Para aumentar o preço." },
+          { "value": "d", "label": "Para focar no produto." }
+        ],
+        "explanation": "O Desafiador conhece seu valor e seu limite.",
+        "hint": "Limite.",
+        "correctAnswer": "b",
+        "bookExample": "Conheça seu limite e não o ultrapasse."
+      },
+      {
+        "id": "5",
+        "question": "O que o Desafiador deve fazer se o cliente insistir em um desconto sem reduzir o escopo?",
+        "options": [
+          { "value": "a", "label": "Ceder ao desconto." },
+          { "value": "b", "label": "Reafirmar o valor e estar disposto a se afastar, ou oferecer uma opção de escopo reduzido (Downsell)." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O Desafiador protege a margem e o valor.",
+        "hint": "Proteção.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não tem medo de perder o negócio errado."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a principal ferramenta do Desafiador para justificar um preço premium?",
+        "options": [
+          { "value": "a", "label": "Simpatia." },
+          { "value": "b", "label": "O Insight Proprietário (Ensino) que mostra o custo da inação e o ROI da solução." },
+          { "value": "c", "label": "Descontos." },
+          { "value": "d", "label": "Conhecimento técnico." }
+        ],
+        "explanation": "O valor é a única justificativa para o preço alto.",
+        "hint": "Valor.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o valor, não o preço."
+      },
+      {
+        "id": "7",
+        "question": "Como o Desafiador usa a 'Tensão Construtiva' na negociação?",
+        "options": [
+          { "value": "a", "label": "Para brigar com o cliente." },
+          { "value": "b", "label": "Ao ser assertivo sobre o preço e o processo, gerando um desconforto que força o cliente a reavaliar o valor." },
+          { "value": "c", "label": "Para dar um desconto." },
+          { "value": "d", "label": "Para elogiar o cliente." }
+        ],
+        "explanation": "A tensão é o motor da mudança.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está gerando tensão, você não está desafiando."
+      },
+      {
+        "id": "8",
+        "question": "O que o Desafiador deve fazer se o cliente disser 'Preciso pensar sobre isso'?",
+        "options": [
+          { "value": "a", "label": "Dar tempo para pensar." },
+          { "value": "b", "label": "Usar o espelhamento e perguntas calibradas ('O que te impede de seguir em frente?') para descobrir a objeção real." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Dar um desconto." }
+        ],
+        "explanation": "O 'Preciso pensar' é frequentemente um 'Não' disfarçado.",
+        "hint": "Disfarce.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não aceita desculpas."
+      },
+      {
+        "id": "9",
+        "question": "Qual é a principal mentalidade que o Desafiador adota ao Assumir o Controle?",
+        "options": [
+          { "value": "a", "label": "O cliente está sempre certo." },
+          { "value": "b", "label": "Eu sou o especialista e estou aqui para guiar o cliente para o melhor resultado, mesmo que isso gere desconforto." },
+          { "value": "c", "label": "O preço é o mais importante." },
+          { "value": "d", "label": "O relacionamento é o mais importante." }
+        ],
+        "explanation": "O Desafiador assume a posição de autoridade.",
+        "hint": "Autoridade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um consultor, não um atendente de pedidos."
+      },
+      {
+        "id": "10",
+        "question": "O que o Desafiador deve fazer para garantir que o cliente veja o preço como um 'Investimento'?",
+        "options": [
+          { "value": "a", "label": "Dizer que é um investimento." },
+          { "value": "b", "label": "Relacionar o preço ao ROI (Retorno sobre o Investimento) e ao custo da inação (perda)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no seu esforço." }
+        ],
+        "explanation": "Investimento implica retorno; custo implica despesa.",
+        "hint": "Retorno.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o ROI, não o custo."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "O Papel do Gerente de Vendas Desafiador",
+    "teaser": "🧑‍🏫 O Gerente Desafiador não é um chefe, é um **Professor de Professores**. Ele treina o músculo do insight.",
+    "level1": "A transformação para uma organização Desafiadora começa com a liderança. O **Gerente de Vendas Desafiador** não é um 'coach' de relacionamento, mas sim um 'professor' que treina os vendedores nos 3 pilares (Teach, Tailor, Take Control).",
+    "level2": "O Gerente Desafiador foca em 3 áreas: 1. **Treinamento** (Ensino da Jornada), 2. **Reforço** (Coaching e feedback focado em insight) e 3. **Gestão de Desempenho** (foco em valor e qualidade, não em volume de atividade).",
+    "level3": "O Gerente deve **reforçar** os comportamentos Desafiadores e fornecer os **Insights Proprietários** para que os vendedores possam focar na entrega. Ele treina o 'músculo do insight', não o 'músculo da simpatia'.",
+    "recapitulation": [
+      "O Gerente é o **motor da transformação cultural** para o modelo Desafiador.",
+      "O foco do coaching deve ser na **qualidade do insight** e na **assertividade (Take Control)**.",
+      "Gerentes de Relacionamento **minam** a estratégia, incentivando descontos e simpatia.",
+      "O Gerente deve fornecer **Insights Proprietários prontos** (padronização do 'Ensino').",
+      "As métricas de desempenho devem focar no **'Como'** (qualidade do insight) e não apenas no **'Quanto'** (volume de atividade)."
+    ],
+    "practicalChecklist": [
+      "Realize **coaching de campo** focado nos 3 Pilares (T-T-T).",
+      "Mantenha reuniões de pipeline focadas em: **'Qual foi o insight que você usou para reestruturar a visão do cliente?'**",
+      "Crie um **repositório de Insights Proprietários** para a equipe usar.",
+      "Recompense vendedores que demonstram **Tensão Construtiva** e Assumem o Controle.",
+      "Gerencie o 'Lobo Solitário' extraindo e replicando seus insights e processos."
+    ],
+    "conclusionMessage": "O Gerente de Vendas Desafiador é o motor da transformação, focando em treinar, reforçar e gerenciar o desempenho dos vendedores.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal papel do Gerente de Vendas Desafiador?",
+        "options": [
+          { "value": "a", "label": "Fazer o trabalho pelos vendedores." },
+          { "value": "b", "label": "Treinar, reforçar e gerenciar o desempenho dos vendedores nos 3 pilares do Desafiador." },
+          { "value": "c", "label": "Dar descontos." },
+          { "value": "d", "label": "Focar apenas em atividades (ligações, visitas)." }
+        ],
+        "explanation": "O Gerente é o catalisador da mudança cultural.",
+        "hint": "Catalisador.",
+        "correctAnswer": "b",
+        "bookExample": "O Gerente Desafiador é o professor dos professores."
+      },
+      {
+        "id": "2",
+        "question": "O que o Gerente Desafiador deve focar no coaching?",
+        "options": [
+          { "value": "a", "label": "Apenas em fechar o negócio." },
+          { "value": "b", "label": "Na qualidade do insight, na adaptação da mensagem e na capacidade do vendedor de assumir o Controle da conversa." },
+          { "value": "c", "label": "No preço." },
+          { "value": "d", "label": "No relacionamento." }
+        ],
+        "explanation": "O coaching deve ser focado nos comportamentos Desafiadores.",
+        "hint": "Comportamento.",
+        "correctAnswer": "b",
+        "bookExample": "O Gerente Desafiador treina o músculo do insight."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de um Gerente de Vendas com mentalidade de 'Relacionamento'?",
+        "options": [
+          { "value": "a", "label": "Ele é muito eficaz." },
+          { "value": "b", "label": "Ele incentiva os vendedores a cederem a descontos e a focarem na simpatia, minando a abordagem Desafiadora." },
+          { "value": "c", "label": "Ele é muito cético." },
+          { "value": "d", "label": "Ele é muito assertivo." }
+        ],
+        "explanation": "A liderança deve ser alinhada à estratégia de vendas.",
+        "hint": "Alinhamento.",
+        "correctAnswer": "b",
+        "bookExample": "O Gerente Relacionamento destrói o valor."
+      },
+      {
+        "id": "4",
+        "question": "O que o Gerente Desafiador deve fazer para garantir que os vendedores usem o Insight Proprietário?",
+        "options": [
+          { "value": "a", "label": "Deixar os vendedores criarem seus próprios insights." },
+          { "value": "b", "label": "Fornecer insights prontos e treiná-los na Jornada de Ensino (Commercial Teaching)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O insight deve ser padronizado e replicável.",
+        "hint": "Padronização.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um sistema, não um talento inato."
+      },
+      {
+        "id": "5",
+        "question": "Como o Gerente Desafiador lida com o 'Lobo Solitário'?",
+        "options": [
+          { "value": "a", "label": "Tenta transformá-lo em um Construtor de Relacionamento." },
+          { "value": "b", "label": "Reconhece sua eficácia, mas tenta extrair seus insights e processos para replicá-los na equipe." },
+          { "value": "c", "label": "Dá um desconto." },
+          { "value": "d", "label": "Ignora o Lobo Solitário." }
+        ],
+        "explanation": "O Lobo Solitário é uma fonte de inteligência de vendas.",
+        "hint": "Inteligência.",
+        "correctAnswer": "b",
+        "bookExample": "O Lobo Solitário é um unicórnio, mas você pode aprender com ele."
+      },
+      {
+        "id": "6",
+        "question": "O que o Gerente Desafiador deve medir no desempenho dos vendedores?",
+        "options": [
+          { "value": "a", "label": "Apenas o volume de vendas." },
+          { "value": "b", "label": "A qualidade do insight, a taxa de conversão da Jornada de Ensino e a capacidade de fechar negócios de alto valor." },
+          { "value": "c", "label": "O número de amigos que o vendedor tem." },
+          { "value": "d", "label": "O número de e-mails enviados." }
+        ],
+        "explanation": "As métricas devem refletir os comportamentos Desafiadores.",
+        "hint": "Métricas.",
+        "correctAnswer": "b",
+        "bookExample": "Você gerencia o que você mede."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o risco de um Gerente de Vendas focar apenas em 'Atividades' (Activity Management)?",
+        "options": [
+          { "value": "a", "label": "O vendedor se torna um Desafiador." },
+          { "value": "b", "label": "O vendedor se torna um Trabalhador Duro, focado em volume em vez de valor e insight." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente fecha o negócio mais rápido." }
+        ],
+        "explanation": "O foco deve ser na qualidade da interação, não na quantidade.",
+        "hint": "Qualidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Gerente Desafiador foca no 'Como', não no 'Quanto'."
+      },
+      {
+        "id": "8",
+        "question": "Como o Gerente Desafiador ajuda os vendedores a 'Adaptar' (Tailor) a mensagem?",
+        "options": [
+          { "value": "a", "label": "Dizendo para eles adivinharem." },
+          { "value": "b", "label": "Fornecendo perfis de stakeholders e treinando-os em como personalizar o Warm-up e o Impacto para cada função." },
+          { "value": "c", "label": "Dando um desconto." },
+          { "value": "d", "label": "Focando apenas no CEO." }
+        ],
+        "explanation": "A adaptação é uma habilidade treinável.",
+        "hint": "Treinamento.",
+        "correctAnswer": "b",
+        "bookExample": "O Gerente Desafiador é um alfaiate de mensagens."
+      },
+      {
+        "id": "9",
+        "question": "O que o Gerente Desafiador deve fazer para garantir que os vendedores 'Assumam o Controle'?",
+        "options": [
+          { "value": "a", "label": "Deixar os vendedores negociarem sozinhos." },
+          { "value": "b", "label": "Treiná-los em negociação de valor, Concessão Estratégica e como gerenciar o processo de vendas de forma assertiva." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "O controle é uma habilidade treinável.",
+        "hint": "Assertividade.",
+        "correctAnswer": "b",
+        "bookExample": "O Gerente Desafiador treina a firmeza."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o principal objetivo do Gerente Desafiador?",
+        "options": [
+          { "value": "a", "label": "Ser o mais simpático." },
+          { "value": "b", "label": "Construir uma equipe de vendedores de alto desempenho que possam impulsionar a mudança e o crescimento da receita." },
+          { "value": "c", "label": "Reduzir o preço." },
+          { "value": "d", "label": "Aumentar o CODB." }
+        ],
+        "explanation": "O objetivo é a escalabilidade do alto desempenho.",
+        "hint": "Escalabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Gerente Desafiador constrói o futuro da empresa."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "A Estrutura da Organização Desafiadora",
+    "teaser": "🔗 Marketing, Vendas e Liderança: o **Insight Proprietário** deve ser o elo que une toda a empresa.",
+    "level1": "A abordagem Desafiadora não é apenas para vendedores; é uma **estratégia organizacional**. Marketing deve criar o Insight Proprietário, Vendas deve entregá-lo (Ensino), e a Liderança deve reforçar o comportamento (Gerente Desafiador).",
+    "level2": "Se o Marketing está vendendo o produto e Vendas está vendendo o insight, há um **desalinhamento**. Todos devem estar alinhados em torno da Jornada de Ensino. O Insight Proprietário é o elo que une a organização.",
+    "level3": "O alinhamento é crucial para evitar que a mensagem de valor seja **inconsistente** e confunda o cliente. A Liderança deve recompensar os comportamentos que levam à mudança e ao crescimento da receita (a entrega consistente do insight).",
+    "recapitulation": [
+      "A abordagem Desafiadora exige uma **transformação cultural** em toda a organização.",
+      "O **Marketing** deve ser o criador dos Insights Proprietários.",
+      "O **Insight Proprietário** é o elo que alinha Marketing, Vendas e Liderança.",
+      "A Liderança deve **recompensar** os comportamentos Desafiadores (Ensino, Adaptação, Controle).",
+      "O desalinhamento (Mensagem de Marketing vs. Mensagem de Vendas) destrói a **credibilidade**."
+    ],
+    "practicalChecklist": [
+      "Crie um **Conselho de Insight** com líderes de Marketing, Vendas e Produto.",
+      "Estabeleça um processo formal para a criação e distribuição de **Insights Proprietários**.",
+      "Garanta que todos os materiais de marketing reflitam o **'Burning Platform'** e o **Reframe** (a dor do status quo).",
+      "Use as métricas do Gerente Desafiador (qualidade do insight, conversão) para **recompensar** os vendedores.",
+      "Treine todas as áreas de contato com o cliente na **Jornada de Ensino**."
+    ],
+    "conclusionMessage": "Uma organização Desafiadora alinha marketing, vendas e liderança em torno do Ensino e do Insight Proprietário.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o papel do Marketing em uma organização Desafiadora?",
+        "options": [
+          { "value": "a", "label": "Criar panfletos bonitos." },
+          { "value": "b", "label": "Criar o Insight Proprietário e a narrativa da Jornada de Ensino." },
+          { "value": "c", "label": "Dar descontos." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O Marketing é o criador do insight.",
+        "hint": "Criação.",
+        "correctAnswer": "b",
+        "bookExample": "O Marketing deve ser o motor do Ensino."
+      },
+      {
+        "id": "2",
+        "question": "O que o Desafiador deve fazer para garantir que o Marketing e Vendas estejam alinhados?",
+        "options": [
+          { "value": "a", "label": "Ignorar o Marketing." },
+          { "value": "b", "label": "Usar o Insight Proprietário e a Jornada de Ensino como o elo comum entre as duas áreas." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O insight é o elo que une a organização.",
+        "hint": "Elo.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um sistema, não um talento inato."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de um desalinhamento entre Marketing e Vendas?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "A mensagem de valor é inconsistente, confundindo o cliente e minando a credibilidade." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A inconsistência destrói a confiança.",
+        "hint": "Inconsistência.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente compra a clareza."
+      },
+      {
+        "id": "4",
+        "question": "O que a Liderança deve fazer para reforçar a cultura Desafiadora?",
+        "options": [
+          { "value": "a", "label": "Recompensar o volume de vendas." },
+          { "value": "b", "label": "Recompensar a qualidade do insight, a capacidade de desafiar e a construção de consenso." },
+          { "value": "c", "label": "Dar descontos." },
+          { "value": "d", "label": "Focar apenas no relacionamento." }
+        ],
+        "explanation": "As recompensas devem ser alinhadas aos comportamentos Desafiadores.",
+        "hint": "Recompensa.",
+        "correctAnswer": "b",
+        "bookExample": "Você obtém o que você recompensa."
+      },
+      {
+        "id": "5",
+        "question": "O que o Desafiador deve fazer para garantir que o insight seja entregue de forma consistente?",
+        "options": [
+          { "value": "a", "label": "Deixar os vendedores improvisarem." },
+          { "value": "b", "label": "Usar a Jornada de Ensino (Commercial Teaching) como um roteiro padronizado e treinado." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "A padronização garante a consistência.",
+        "hint": "Consistência.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um sistema, não um talento inato."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de uma organização que foca apenas no 'Relacionamento'?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "A organização se torna uma commodity, incapaz de justificar um preço premium e impulsionar a mudança estratégica." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O Relacionamento sem insight é apenas amizade, não valor.",
+        "hint": "Commodity.",
+        "correctAnswer": "b",
+        "bookExample": "O relacionamento sem insight é apenas amizade, não valor."
+      },
+      {
+        "id": "7",
+        "question": "O que o Desafiador deve fazer para garantir que o insight seja relevante para o cliente?",
+        "options": [
+          { "value": "a", "label": "Ignorar o cliente." },
+          { "value": "b", "label": "Adaptar a mensagem (Tailor) para as prioridades específicas do cliente e da indústria." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "A adaptação é sobre relevância pessoal.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "A mensagem deve ser 'costurada' para o indivíduo."
+      },
+      {
+        "id": "8",
+        "question": "O que o Desafiador deve fazer para garantir que o cliente veja o preço como um 'Investimento'?",
+        "options": [
+          { "value": "a", "label": "Dizer que é um investimento." },
+          { "value": "b", "label": "Relacionar o preço ao ROI (Retorno sobre o Investimento) e ao custo da inação (perda)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no seu esforço." }
+        ],
+        "explanation": "Investimento implica retorno; custo implica despesa.",
+        "hint": "Retorno.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o ROI, não o custo."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o papel do 'Gerente de Vendas' na Estrutura Desafiadora?",
+        "options": [
+          { "value": "a", "label": "Ser o mais simpático." },
+          { "value": "b", "label": "Ser o principal coach e reforçador dos comportamentos Desafiadores." },
+          { "value": "c", "label": "Reduzir o preço." },
+          { "value": "d", "label": "Aumentar o CODB." }
+        ],
+        "explanation": "O Gerente é o professor dos professores.",
+        "hint": "Professor.",
+        "correctAnswer": "b",
+        "bookExample": "O Gerente Desafiador constrói o futuro da empresa."
+      },
+      {
+        "id": "10",
+        "question": "O que o Desafiador deve fazer para garantir que o cliente não volte ao status quo?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Continuar fornecendo insights e valor, garantindo que o cliente não volte ao status quo." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O relacionamento é construído sobre o valor contínuo.",
+        "hint": "Continuidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um parceiro de longo prazo."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "O Desafiador e o Cliente Cético",
+    "teaser": "🤨 Ceticismo é um **sinal de que ele está pensando**. Use a lógica e a emoção para converter a dúvida em ação.",
+    "level1": "O cliente cético é aquele que questiona o insight e o preço. O Desafiador não deve evitar o ceticismo, mas usá-lo como uma oportunidade para aprofundar o Ensino e provar o valor.",
+    "level2": "O ceticismo é um sinal de que o cliente está pensando, mas precisa de mais validação. O Desafiador deve usar o **'Racional'** (dados e lógica) para validar o insight e o **'Impacto'** (consequências pessoais) para motivar a ação.",
+    "level3": "O Desafiador deve ser **assertivo, não agressivo**. Ele não tem medo de debater. Se o cético for convencido, ele tem um grande potencial para se tornar um **Mobilizador** (o campeão interno com influência).",
+    "recapitulation": [
+      "Ceticismo é uma **oportunidade** para aprofundar o Ensino, não um obstáculo.",
+      "Use o **Racional** (dados) para justificar a emoção do Reframe.",
+      "O Desafiador é **assertivo** e não tem medo de discordar, se tiver dados para provar.",
+      "O Cético convencido tem grande potencial para se tornar um **Mobilizador**.",
+      "Use a **Prova Social** (testemunhos de clientes semelhantes) para reduzir o risco percebido do cético."
+    ],
+    "practicalChecklist": [
+      "Se o cliente questionar o insight, volte imediatamente ao **Racional** (dados de mercado e clientes).",
+      "Pergunte ao cético: **'O que te impede de seguir em frente?'** para descobrir a objeção real.",
+      "Prepare **casos de sucesso** que abordem as principais dúvidas e ceticismos da sua indústria.",
+      "Reafirme o **Custo da Inação** para mostrar que o risco de não mudar é maior.",
+      "**Adapte** a mensagem de Impacto para a dor pessoal e profissional do cético."
+    ],
+    "conclusionMessage": "O Desafiador deve converter o ceticismo em ação, usando a lógica (Racional) e a emoção (Impacto) para provar o insight.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que o Desafiador deve fazer se o cliente for cético em relação ao insight?",
+        "options": [
+          { "value": "a", "label": "Ceder e mudar de assunto." },
+          { "value": "b", "label": "Usar o 'Racional' (dados e lógica) para provar o insight e o custo da inação." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A lógica valida a emoção gerada pelo Reframe.",
+        "hint": "Lógica.",
+        "correctAnswer": "b",
+        "bookExample": "A emoção vende, mas a lógica justifica."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de ignorar o ceticismo do cliente?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O ceticismo se transforma em inação e a venda morre na burocracia." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O ceticismo é um obstáculo que deve ser superado.",
+        "hint": "Obstáculo.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não tem medo de debater."
+      },
+      {
+        "id": "3",
+        "question": "Como o Desafiador usa o 'Impacto' (Emotional Impact) para converter o cético?",
+        "options": [
+          { "value": "a", "label": "Focar em números frios." },
+          { "value": "b", "label": "Conectar o problema (Racional) às consequências pessoais e profissionais do stakeholder (medo da perda)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O Desafiador personaliza a dor.",
+        "hint": "Personalização.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só age quando a dor é pessoal."
+      },
+      {
+        "id": "4",
+        "question": "O que o Desafiador deve fazer se o cético for um 'Amigo' (Friend)?",
+        "options": [
+          { "value": "a", "label": "Ceder ao ceticismo." },
+          { "value": "b", "label": "Usar o insight para desafiar o pensamento dele, transformando-o em um Mobilizador ou, se não for possível, contorná-lo." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "O Desafiador busca influência, não simpatia.",
+        "hint": "Influência.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não tem medo de perder o negócio errado."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de um Desafiador ser muito 'Agressivo' com o cético?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente se fecha e a tensão se torna destrutiva, minando a confiança." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A tensão deve ser construtiva, não destrutiva.",
+        "hint": "Construtiva.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é assertivo, não agressivo."
+      },
+      {
+        "id": "6",
+        "question": "Como o Desafiador usa a 'Prova Social' (Testemunhos) para converter o cético?",
+        "options": [
+          { "value": "a", "label": "Ignorando a prova social." },
+          { "value": "b", "label": "Usando histórias de sucesso de clientes semelhantes para validar o insight e a solução." },
+          { "value": "c", "label": "Dando um desconto." },
+          { "value": "d", "label": "Focando no produto." }
+        ],
+        "explanation": "A prova social reduz o risco percebido.",
+        "hint": "Risco.",
+        "correctAnswer": "b",
+        "bookExample": "O que os outros dizem sobre você é mais importante."
+      },
+      {
+        "id": "7",
+        "question": "O que o Desafiador deve fazer se o cético questionar o preço?",
+        "options": [
+          { "value": "a", "label": "Reduzir o preço." },
+          { "value": "b", "label": "Voltar ao custo da inação e ao ROI, reafirmando que o preço é justificado pelo valor criado." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O preço é justificado pelo valor criado.",
+        "hint": "Valor.",
+        "correctAnswer": "b",
+        "bookExample": "Se o valor é claro, o preço é fácil."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel do 'Warm-up' na conversão do cético?",
+        "options": [
+          { "value": "a", "label": "Apresentar o preço." },
+          { "value": "b", "label": "Construir credibilidade e empatia, mostrando que o vendedor entende o mundo do cético antes de desafiá-lo." },
+          { "value": "c", "label": "Focar no produto." },
+          { "value": "d", "label": "Dar um desconto." }
+        ],
+        "explanation": "A credibilidade é a base para o desafio.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Você precisa ganhar o direito de desafiar."
+      },
+      {
+        "id": "9",
+        "question": "O que o Desafiador deve fazer para garantir que o cético não volte ao status quo?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Destacar o custo da inação e a irreversibilidade da mudança (o 'Burning Platform')." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O medo de voltar à dor é um poderoso motivador.",
+        "hint": "Medo.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador queima a ponte para o passado."
+      },
+      {
+        "id": "10",
+        "question": "O que o Desafiador deve fazer para garantir que o cético se torne um Mobilizador?",
+        "options": [
+          { "value": "a", "label": "Fazer o trabalho por ele." },
+          { "value": "b", "label": "Fornecer a narrativa de Ensino adaptada para que ele possa vender a solução internamente." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O Mobilizador precisa de ferramentas para vender a mudança.",
+        "hint": "Ferramentas.",
+        "correctAnswer": "b",
+        "bookExample": "Seu maior aliado é o campeão que você equipa."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "A Venda de Soluções: O Desafiador e o Produto",
+    "teaser": "🎁 Venda a **transformação** (o novo mundo), não a caixa (o produto). Seu produto é a única rota de fuga.",
+    "level1": "O Desafiador entende que o cliente não compra o produto, mas a solução para o seu problema. O produto é apenas o veículo que entrega o novo caminho (**New Way**). O foco deve ser na transformação, não nos recursos.",
+    "level2": "O Desafiador começa com o insight (problema) e só apresenta o produto no final da Jornada de Ensino (**Implementação**), como a única resposta lógica. Focar nos **Recursos** (Features) cedo demais leva à competição de preço.",
+    "level3": "O Insight Proprietário é o que torna o seu produto a **Única Resposta Lógica** e inevitável. Você não está vendendo recursos, mas o ROI e a mitigação de risco que a sua solução proporciona.",
+    "recapitulation": [
+      "Venda a **visão da Solução (New Way)** antes de vender o produto (Implementação).",
+      "O produto é o **meio para o fim** (a entrega da visão), não o fim em si.",
+      "Focar nos **recursos** (Features) leva à competição de preço e commodity.",
+      "O Insight Proprietário deve ser 'ligado' (Wired) à sua solução, tornando-a **inevitável**.",
+      "O produto deve ser apresentado como um **Investimento** com ROI claro, não como um custo."
+    ],
+    "practicalChecklist": [
+      "Use a **Jornada de Ensino** para garantir que a dor seja estabelecida antes da cura (o produto).",
+      "Ao descrever o produto, foque nos **benefícios de transformação** (Valor), e não apenas nos recursos técnicos (Features).",
+      "Se o cliente pedir uma **Demonstração** (Demo) muito cedo, redirecione-o gentilmente para a Jornada de Ensino.",
+      "Use **casos de sucesso** (Prova Social) para validar a transformação que o produto entrega.",
+      "Treine sua equipe para ser **consultores de mudança**, não vendedores de features."
+    ],
+    "conclusionMessage": "O Desafiador vende a visão (Solução) antes de vender o produto (Implementação). O produto é apenas o meio para o fim.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Em que momento da Jornada de Ensino o Desafiador apresenta o produto?",
+        "options": [
+          { "value": "a", "label": "No início (Warm-up)." },
+          { "value": "b", "label": "No passo 'Implementação' (Supplier Solution), após ter estabelecido a dor e a visão da solução (New Way)." },
+          { "value": "c", "label": "No Reframe." },
+          { "value": "d", "label": "No Racional." }
+        ],
+        "explanation": "A solução só é valiosa após a dor ser estabelecida.",
+        "hint": "Valor.",
+        "correctAnswer": "b",
+        "bookExample": "Não venda a cura antes de diagnosticar a doença."
+      },
+      {
+        "id": "2",
+        "question": "O que o Desafiador deve vender antes do produto?",
+        "options": [
+          { "value": "a", "label": "O preço." },
+          { "value": "b", "label": "A visão da solução (New Way) e a urgência da mudança (Burning Platform)." },
+          { "value": "c", "label": "O desconto." },
+          { "value": "d", "label": "O relacionamento." }
+        ],
+        "explanation": "O Desafiador vende a visão, não o produto.",
+        "hint": "Visão.",
+        "correctAnswer": "b",
+        "bookExample": "Venda o destino, não o mapa."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de focar nos 'Recursos' (Features) do produto?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente compara o produto com a concorrência, focando no preço e não no valor do insight." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O foco nos recursos leva à competição de preço.",
+        "hint": "Preço.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o valor, não os recursos."
+      },
+      {
+        "id": "4",
+        "question": "Como o Desafiador usa o 'Insight Proprietário' para vender o produto?",
+        "options": [
+          { "value": "a", "label": "Ignorando o insight." },
+          { "value": "b", "label": "O insight é 'ligado' (Wired) à solução do vendedor, tornando o produto a única resposta lógica para o problema recém-descoberto." },
+          { "value": "c", "label": "Dando um desconto." },
+          { "value": "d", "label": "Focando no relacionamento." }
+        ],
+        "explanation": "O insight é o elo que une o problema à solução.",
+        "hint": "Elo.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a inevitabilidade da sua solução."
+      },
+      {
+        "id": "5",
+        "question": "O que o Desafiador deve fazer para garantir que o cliente veja o produto como um 'Investimento'?",
+        "options": [
+          { "value": "a", "label": "Dizer que é um investimento." },
+          { "value": "b", "label": "Relacionar o produto ao ROI (Retorno sobre o Investimento) e ao custo da inação (perda)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no seu esforço." }
+        ],
+        "explanation": "Investimento implica retorno; custo implica despesa.",
+        "hint": "Retorno.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o ROI, não o custo."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel da 'Prova Social' (Testemunhos) na venda de soluções?",
+        "options": [
+          { "value": "a", "label": "Aumentar o preço." },
+          { "value": "b", "label": "Validar a transformação que o produto entrega, aumentando a credibilidade e o valor percebido." },
+          { "value": "c", "label": "Reduzir o preço." },
+          { "value": "d", "label": "Aumentar o CODB." }
+        ],
+        "explanation": "A prova social é a validação externa do seu valor.",
+        "hint": "Validação.",
+        "correctAnswer": "b",
+        "bookExample": "O que os outros dizem sobre você é mais importante."
+      },
+      {
+        "id": "7",
+        "question": "O que o Desafiador deve fazer para garantir que o produto seja relevante para todos os stakeholders?",
+        "options": [
+          { "value": "a", "label": "Usar a mesma mensagem para todos." },
+          { "value": "b", "label": "Adaptar a mensagem (Tailor) para mostrar como o produto atende às prioridades específicas de cada função." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no CEO." }
+        ],
+        "explanation": "A adaptação é sobre relevância pessoal.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "A mensagem deve ser 'costurada' para o indivíduo."
+      },
+      {
+        "id": "8",
+        "question": "O que o Desafiador deve fazer se o cliente pedir uma 'Demonstração' (Demo) muito cedo?",
+        "options": [
+          { "value": "a", "label": "Fazer a demonstração imediatamente." },
+          { "value": "b", "label": "Gentilmente, mas firmemente, redirecionar a conversa para a Jornada de Ensino, explicando que a demo só fará sentido após o insight." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A demo sem contexto é apenas uma lista de recursos.",
+        "hint": "Contexto.",
+        "correctAnswer": "b",
+        "bookExample": "Não mostre o produto antes de vender a visão."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o papel do 'Gerente de Vendas' na venda de soluções?",
+        "options": [
+          { "value": "a", "label": "Ser o mais simpático." },
+          { "value": "b", "label": "Garantir que os vendedores estejam focados em vender o insight e a visão, e não apenas os recursos do produto." },
+          { "value": "c", "label": "Reduzir o preço." },
+          { "value": "d", "label": "Aumentar o CODB." }
+        ],
+        "explanation": "O Gerente é o professor dos professores.",
+        "hint": "Professor.",
+        "correctAnswer": "b",
+        "bookExample": "O Gerente Desafiador treina o músculo do insight."
+      },
+      {
+        "id": "10",
+        "question": "O que o Desafiador deve fazer para garantir que o cliente veja o produto como a 'Única Resposta Lógica'?",
+        "options": [
+          { "value": "a", "label": "Focar na concorrência." },
+          { "value": "b", "label": "Usar o Insight Proprietário para mostrar que o produto é o único que pode fechar a lacuna entre o problema e o novo caminho (Solução)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A solução do vendedor deve ser a conclusão lógica e inevitável.",
+        "hint": "Inevitalidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a inevitabilidade da sua solução."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "A Cultura Desafiadora: Escalando o Alto Desempenho",
+    "teaser": "📈 Você não quer um unicórnio (Lobo Solitário). Você quer uma **fábrica de Desafiadores** com treinamento e reforço contínuo.",
+    "level1": "A transformação para uma organização Desafiadora é uma **mudança cultural** que exige que a empresa inteira (Marketing, Vendas, Liderança) adote a mentalidade de Ensino e Insight Proprietário.",
+    "level2": "O objetivo é criar um **sistema replicável** de alto desempenho. Isso exige treinamento contínuo, coaching focado nos 3 Pilares e métricas que recompensam os comportamentos Desafiadores (qualidade do insight, Tensão Construtiva, Take Control).",
+    "level3": "A cultura deve reforçar o princípio de que o relacionamento é uma **consequência do valor** (Insight), e não a causa. O Gerente Desafiador é o principal agente para sustentar essa cultura a longo prazo.",
+    "recapitulation": [
+      "A escalabilidade do alto desempenho requer uma **cultura Desafiadora**.",
+      "O foco deve ser na **sistematização** (treinamento) e não no talento inato (Lobo Solitário).",
+      "A Liderança e o Gerente de Vendas são cruciais para o **reforço contínuo** dos 3 Pilares.",
+      "O **Insight Proprietário** deve ser padronizado e entregue de forma consistente em toda a organização.",
+      "O Desafiador continua fornecendo **valor** (Ensino) após a venda para garantir a retenção e a longevidade da mudança."
+    ],
+    "practicalChecklist": [
+      "Implemente um programa de treinamento focado 100% nos **3 Pilares (T-T-T)**.",
+      "Crie um sistema de **recompensa e reconhecimento** para o uso eficaz do Insight Proprietário.",
+      "Realize **sessões de coaching semanais** focadas na análise de gravações de chamadas e na qualidade do Ensino.",
+      "Continue fornecendo **Insights Proprietários de 'pós-venda'** para clientes existentes (garantindo o valor contínuo).",
+      "Garanta que a **mensagem de valor** esteja alinhada desde o topo (CEO) até a ponta (Vendedor)."
+    ],
+    "conclusionMessage": "A cultura Desafiadora é a chave para a escalabilidade. Ela exige alinhamento, treinamento e reforço contínuo dos 3 pilares (Teach, Tailor, Take Control).",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é essencial para escalar o alto desempenho na organização?",
+        "options": [
+          { "value": "a", "label": "Contratar apenas Lobos Solitários." },
+          { "value": "b", "label": "Criar uma cultura Desafiadora, com treinamento e reforço contínuo dos 3 pilares (Teach, Tailor, Take Control)." },
+          { "value": "c", "label": "Dar descontos." },
+          { "value": "d", "label": "Focar apenas no relacionamento." }
+        ],
+        "explanation": "O Desafiador é um sistema treinável.",
+        "hint": "Sistema.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um sistema, não um talento inato."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o papel do Gerente de Vendas na manutenção da cultura Desafiadora?",
+        "options": [
+          { "value": "a", "label": "Ser o mais simpático." },
+          { "value": "b", "label": "Ser o principal coach e reforçador dos comportamentos Desafiadores, garantindo que o insight seja entregue de forma consistente." },
+          { "value": "c", "label": "Reduzir o preço." },
+          { "value": "d", "label": "Aumentar o CODB." }
+        ],
+        "explanation": "O Gerente é o professor dos professores.",
+        "hint": "Professor.",
+        "correctAnswer": "b",
+        "bookExample": "O Gerente Desafiador constrói o futuro da empresa."
+      },
+      {
+        "id": "3",
+        "question": "O que o Marketing deve fornecer para a cultura Desafiadora?",
+        "options": [
+          { "value": "a", "label": "Panfletos bonitos." },
+          { "value": "b", "label": "O Insight Proprietário e a narrativa da Jornada de Ensino." },
+          { "value": "c", "label": "Descontos." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O Marketing é o criador do insight.",
+        "hint": "Criação.",
+        "correctAnswer": "b",
+        "bookExample": "O Marketing deve ser o motor do Ensino."
+      },
+      {
+        "id": "4",
+        "question": "O que o Desafiador deve fazer para garantir que o cliente veja o preço como um 'Investimento'?",
+        "options": [
+          { "value": "a", "label": "Dizer que é um investimento." },
+          { "value": "b", "label": "Relacionar o preço ao ROI (Retorno sobre o Investimento) e ao custo da inação (perda)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no seu esforço." }
+        ],
+        "explanation": "Investimento implica retorno; custo implica despesa.",
+        "hint": "Retorno.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o ROI, não o custo."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de uma organização que foca apenas no 'Relacionamento'?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "A organização se torna uma commodity, incapaz de justificar um preço premium e impulsionar a mudança estratégica." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O Relacionamento sem insight é apenas amizade, não valor.",
+        "hint": "Commodity.",
+        "correctAnswer": "b",
+        "bookExample": "O relacionamento sem insight é apenas amizade, não valor."
+      },
+      {
+        "id": "6",
+        "question": "O que o Desafiador deve fazer para garantir que o cliente não volte ao status quo?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Continuar fornecendo insights e valor, garantindo que o cliente não volte ao status quo." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O relacionamento é construído sobre o valor contínuo.",
+        "hint": "Continuidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um parceiro de longo prazo."
+      },
+      {
+        "id": "7",
+        "question": "O que o Desafiador deve fazer para garantir que o consenso seja mantido após a venda?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Continuar fornecendo insights e valor, garantindo que a solução continue relevante para todos os stakeholders." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O relacionamento é construído sobre o valor contínuo.",
+        "hint": "Continuidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um parceiro de longo prazo, não um fornecedor de projeto único."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Tensão Construtiva' na cultura Desafiadora?",
+        "options": [
+          { "value": "a", "label": "Gerar conflito." },
+          { "value": "b", "label": "Gerar o desconforto necessário para impulsionar a mudança e a inovação." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A tensão é o motor da mudança.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está gerando tensão, você não está desafiando."
+      },
+      {
+        "id": "9",
+        "question": "O que o Desafiador deve fazer para garantir que o cliente veja o produto como a 'Única Resposta Lógica'?",
+        "options": [
+          { "value": "a", "label": "Focar na concorrência." },
+          { "value": "b", "label": "Usar o Insight Proprietário para mostrar que o produto é o único que pode fechar a lacuna entre o problema e o novo caminho (Solução)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A solução do vendedor deve ser a conclusão lógica e inevitável.",
+        "hint": "Inevitalidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a inevitabilidade da sua solução."
+      },
+      {
+        "id": "10",
+        "question": "O que o Desafiador deve fazer para garantir que o cliente não volte ao status quo?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Continuar fornecendo insights e valor, garantindo que o cliente não volte ao status quo." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O relacionamento é construído sobre o valor contínuo.",
+        "hint": "Continuidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um parceiro de longo prazo."
+      }
+    ]
+  }
+]

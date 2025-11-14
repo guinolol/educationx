@@ -1,0 +1,1897 @@
+[
+{
+  "simulationId": 1,
+  "title": "🤝 Simulação: Resgate do Cliente Chave 'OmegaCorp'",
+  "introduction": "Você é o principal negociador em uma reunião crucial com a *OmegaCorp*, um cliente que ameaça rescindir um contrato multimilionário devido a atrasos. O CEO da *OmegaCorp*, David, está visivelmente irritado e defensivo. Seu objetivo não é vender, mas sim desarmar as emoções, coletar informações ocultas (o 'Cisne Negro') e reverter a situação. Prepare-se para aplicar as técnicas de *Never Split the Difference* e tomar 12 decisões críticas que definirão o futuro desta parceria.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "A Nova Regra: Negociar é Gerenciar Emoções",
+      "narrative": "Você entra na sala de conferências e David começa imediatamente: '🚨 **Eu não tenho tempo para enrolação. O projeto está atrasado e estou perdendo dinheiro. Diga-me em 5 minutos o que você vai fazer para consertar isso.**' O tom dele é alto e agressivo. Você sente a pressão para pular direto para uma concessão (dividir a diferença). **Qual é a sua prioridade neste momento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Mantenha uma 'Voz de Locutor de Rádio Tarde da Noite' (calma, lenta e profunda) e diga: 'Eu entendo a sua frustração. Podemos começar com o ponto mais crítico que está causando o maior dano?'",
+          "feedback": "✅ Perfeito. Você usou a voz ideal para desescalar a tensão e evitou ceder à pressão de se concentrar em 'dividir a diferença' (concessões). O foco agora é em desarmar a emoção. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga rapidamente: 'Eu prometo que vamos fazer 50/50 na compensação do atraso e teremos um plano em 24h. Isso te acalma?'",
+          "feedback": "⚠️ O erro clássico! Você está 'dividindo a diferença' e focando na lógica/concessão antes de entender a emoção ou a necessidade real. Isso pode ser interpretado como fraqueza. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Aumente seu próprio tom de voz para igualá-lo, dizendo: 'Olha, não somos os únicos com problemas de prazo. Temos que ser razoáveis aqui.'",
+          "feedback": "❌ Violência. Você confrontou a agressão dele com a sua. O diálogo acabou e a segurança de David caiu para zero. A negociação se transformou em uma briga de egos. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Fique em silêncio e olhe para ele com reprovação, esperando que ele se acalme.",
+          "feedback": "❌ Você escolheu o Silêncio. Ficar em silêncio sem uma ferramenta tática pode ser interpretado como passividade ou desinteresse, o que fará David se sentir ignorado e mais irritado. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Poder do 'Não'",
+      "narrative": "Você usou a voz calma. David se acalma um pouco, mas ainda está tenso. Ele se recosta na cadeira e diz: 'Eu simplesmente não confio que vocês possam entregar isso agora. É a nossa reputação que está em jogo.' Você precisa que ele diga 'Não' a algo para fazê-lo se sentir no controle e obter a verdade. **Qual pergunta de calibração você deve usar?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'David, você desistiu de nós?' (forçando o 'Não' para reverter a dinâmica)",
+          "feedback": "✅ Exatamente. Esta pergunta *força* um 'Não' ('Não, eu não desisti') ou força a verdade ('Sim, eu desisti porque...'). Ele ganha controle ao dizer 'Não', o que é uma vitória tática para você. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você concorda que podemos resolver isso com um desconto de 20%?'",
+          "feedback": "❌ Você está forçando um 'Sim' que ele não quer dar. Isso pode levar a um 'Sim' falso, onde ele concorda para sair da situação, mas sabota o acordo depois. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Você quer que eu chame meu chefe para resolver isso por você?'",
+          "feedback": "⚠️ Você está transferindo o controle e o poder de decisão para uma terceira parte. Isso pode fazê-lo se sentir respeitado, mas você está perdendo a oportunidade de negociar a informação crucial. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "'O que é que te impede de confiar em nós, David?'",
+          "feedback": "❌ Esta é uma pergunta aberta, que pode funcionar, mas 'Você desistiu?' é mais eficaz para forçar a dinâmica do 'Não', que é o verdadeiro ponto de virada aqui. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Escuta Ativa e o Poder do Espelhamento",
+      "narrative": "David diz: 'Não, eu não desisti. 😠 *Mas* a razão é que minha equipe perdeu dois grandes clientes na semana passada, e esse atraso nos faz parecer incompetentes para o mercado. Isso é um **problema de reputação**.' Você ouviu a palavra-chave. Você precisa encorajá-lo a falar mais para desenterrar a verdadeira motivação (o 'Cisne Negro'). **Qual é o seu próximo movimento, usando o espelhamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Um problema de reputação?' (com tom de pergunta, subindo no final)",
+          "feedback": "✅ Excelente. Você espelhou as últimas palavras-chave com um tom de pergunta sutil. David se sentirá ouvido e sentirá a necessidade inconsciente de preencher o silêncio, revelando mais detalhes sobre o *porquê* da reputação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Eu entendo o seu ponto de vista. Deve ser frustrante.'",
+          "feedback": "⚠️ 'Eu entendo' é genérico e 'Simpatia' (concordar com a emoção) é menos tático do que 'Empatia' (entender a emoção). Você não extraiu a informação crucial com o espelhamento. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "'Então o que você está dizendo é que o preço não é o problema, mas sim a reputação?'",
+          "feedback": "❌ Essa é uma conclusão rápida. O espelhamento deve ser repetitivo e não interpretativo. Você pode estar pulando para uma conclusão errada e fechando o fluxo de informação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'Perder dois grandes clientes?' (com tom de afirmação, descendo no final)",
+          "feedback": "❌ Você espelhou, mas usou o tom errado. O tom de afirmação encerra a conversa, e não a incentiva. O espelhamento deve ser feito com um tom de pergunta sutil. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Empatia Tática e Rotulagem (Labeling)",
+      "narrative": "David responde ao seu espelhamento: 'Sim, um problema de reputação. Se o mercado souber que não conseguimos nem gerenciar este projeto, seremos vistos como instáveis. E, para ser honesto, **o custo de vocês é o dobro de outro fornecedor**. Não posso justificar o risco/benefício.' Ele está claramente preocupado e com medo. Você precisa usar a rotulagem para desarmar o medo e trazer a negociação de volta aos fatos. **Qual é a melhor rotulagem?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Parece que a maior ameaça aqui não é o dinheiro, mas sim o **medo de perder o controle** sobre a percepção do mercado.'",
+          "feedback": "✅ Fantástico. Você identificou a emoção mais perigosa (Medo de Perder/Viés de Perda) e a rotulou. Ao nomear o medo, você o neutraliza. David agora pode se concentrar no que fazer a respeito. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Parece que você está realmente irritado com o nosso preço.'",
+          "feedback": "⚠️ Rotular a raiva ou a irritação pode ser eficaz, mas o problema subjacente é o medo de perder a reputação (Viés de Perda). A raiva é a manifestação, o medo é a causa. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "'Eu sinto que você deveria ter nos avisado antes sobre a perda de clientes.'",
+          "feedback": "❌ Você está focando em seus próprios sentimentos e usando uma 'Rotulagem' que soa como acusação ('Eu sinto que você...'). Isso vai gerar defensividade e quebrar o rapport. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'Você está certo. O custo é alto.' (Concordando com a crítica)",
+          "feedback": "❌ Você concordou com a crítica sem extrair a informação subjacente. Isso valida a crítica dele, mas não avança a negociação para a resolução do medo. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Escuta Ativa e o Poder do Espelhamento",
+      "narrative": "David balança a cabeça ao ouvir sua rotulagem: 'Não, não é a perda de controle... é o dinheiro. O outro fornecedor é mais barato. Eu tenho que ter uma justificativa para a diferença de custo. **Não posso arriscar mais dinheiro.**' Ele te corrigiu, mas te deu a informação crucial. Você precisa de mais detalhes sobre o limite de preço para entender o risco. **Qual é o seu próximo espelhamento/pergunta?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Não pode arriscar mais dinheiro?' (com tom de pergunta)",
+          "feedback": "✅ Excelente. Você espelhou o ponto de dor mais recente ('dinheiro') e o incentivou a elaborar. Ele agora terá que te dizer o *valor* do risco. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Mude de assunto: 'Entendido. Sobre o prazo, nossa equipe vai trabalhar o fim de semana.'",
+          "feedback": "❌ Você mudou de assunto e perdeu o foco na verdadeira objeção. O problema agora não é só o prazo, mas o preço *e* o risco. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Quanto é que o outro fornecedor está cobrando, exatamente?'",
+          "feedback": "⚠️ Esta é uma pergunta direta, que pode ser percebida como agressiva ou 'mercenária'. É melhor deixar que ele revele o número por meio do espelhamento e da escuta ativa. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Fale: 'Nós também temos que justificar nosso preço, David. Nossos custos subiram.'",
+          "feedback": "❌ Você focou em sua própria dor (seus custos), o que desvia a atenção da dor dele e quebra o rapport. A negociação é sobre ele neste momento. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O Poder do 'Não'",
+      "narrative": "David revela que o outro fornecedor é 40% mais barato. 'Sim, não posso arriscar mais dinheiro. Se eu gastar mais e o projeto falhar, serei demitido. Eu preciso de uma forma de dizer **'Não' a esse risco**. E o preço de vocês é o risco.' Você percebe que ele precisa de uma porta de saída segura. **Qual é a pergunta de calibração para fazê-lo se sentir seguro para te dizer o que realmente precisa?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'David, parece que é impossível para você aceitar um preço 40% maior, mesmo com a nossa garantia de prazo. É isso?'",
+          "feedback": "✅ Perfeito. Você usou uma Rotulagem (Parece que...) seguida por uma pergunta calibrada que espera um 'Não' ('É impossível para você...'). Isso o coloca no controle e prepara o terreno para ele te dizer o que é *possível*. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'E se eu te der um desconto de 20%? Você pode dizer 'Sim' a isso?'",
+          "feedback": "❌ Você está voltando a forçar um 'Sim' e a 'dividir a diferença'. Ele precisa se sentir seguro para dizer 'Não', não para ser pressionado a dizer 'Sim' a uma oferta inadequada. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Você está me dizendo que eu devo ir embora e perder este contrato?'",
+          "feedback": "⚠️ Esta pergunta é muito extrema e pode levar ao 'Não' que encerra a negociação (o oposto do pretendido). É melhor calibrar sobre a objeção principal. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "'O que eu posso fazer para você dizer 'Sim' agora?'",
+          "feedback": "❌ Isso dá a ele a impressão de que ele pode pedir o que quiser. Você está implorando por um 'Sim', o que é sinal de fraqueza e não de controle. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Empatia Tática e Rotulagem (Labeling)",
+      "narrative": "David responde: 'Não, não é impossível, mas é um risco. Temos que ter certeza. Eu sinto que não temos nenhuma garantia real. Parece que vocês só querem o dinheiro.' Você precisa neutralizar essa narrativa negativa dele ('só querem o dinheiro') com uma rotulagem empática e forçar a discussão a ser sobre a solução. **Qual é a sua rotulagem de empatia tática?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Parece que você está preocupado que nosso foco seja apenas financeiro e que não estamos comprometidos com a sua **segurança** de entrega.'",
+          "feedback": "✅ Excelente. Você rotulou o medo ('segurança de entrega') e o sentimento negativo ('foco apenas financeiro'). Isso desarma a crítica e o move para uma discussão sobre como você pode provar o compromisso. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Eu entendo. Você pode ter certeza de que estamos muito comprometidos.'",
+          "feedback": "⚠️ O 'Eu entendo' é fraco, e a promessa ('pode ter certeza') não é uma prova de compromisso. Ele precisa de provas, não de palavras doces. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "'Parece que você tem mais medo de ser demitido do que de perder dinheiro.'",
+          "feedback": "❌ Você está sendo muito invasivo e rotulando a motivação pessoal dele ('ser demitido'). Isso pode soar como um ataque e quebrar o rapport. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'Por que você está dizendo que só queremos o dinheiro?'",
+          "feedback": "❌ 'Por que' é uma pergunta acusatória. Isso fará David se defender, em vez de se abrir sobre a razão subjacente. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "A Nova Regra: Negociar é Gerenciar Emoções",
+      "narrative": "Sua rotulagem funcionou. David diz: 'Não, eu sei que vocês são profissionais. O que eu preciso é de um mecanismo de segurança. Preciso de uma forma de **evitar a perda** da minha credibilidade, se houver outro atraso.' Você descobriu o Cisne Negro: a aversão à perda. **Como você usa essa informação para enquadrar a sua proposta, focando na emoção?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Mude o foco para a perda: 'Parece que você precisa de uma cláusula que **evite a perda** da sua credibilidade e que nos penalize se atrasarmos, para que você não perca dinheiro nem reputação.'",
+          "feedback": "✅ Excelente! Você usou o Viés de Perda (Loss Aversion) dele. As pessoas se esforçam mais para evitar uma perda do que para obter um ganho. Enquadrar a proposta em torno de 'evitar a perda' é o motivador emocional mais forte. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Ofereça um bônus por entrega antecipada: 'E se eu te der um bônus por cada dia que entregarmos antes do prazo?'",
+          "feedback": "⚠️ Um bônus é um 'ganho', que é um motivador mais fraco do que 'evitar uma perda'. Você está ignorando a aversão à perda que ele acabou de revelar. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Diga: 'Eu prometo que não haverá mais atrasos.'",
+          "feedback": "❌ Promessas vazias não constroem credibilidade. Ele precisa de um mecanismo de segurança concreto, não de garantia verbal. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Insista no preço: 'Nosso preço garante a qualidade, David. Você vai ganhar mais no longo prazo.'",
+          "feedback": "❌ Você está voltando para o lado racional ('qualidade a longo prazo') e ignorando a emoção que ele acabou de revelar ('evitar a perda'). (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Escuta Ativa e o Poder do Espelhamento",
+      "narrative": "David concorda que uma cláusula de penalidade é a chave. 'Sim, é exatamente isso. Se houver um atraso, precisamos de uma compensação que seja *significativa*.' Você não quer se comprometer com um valor agora, mas precisa de mais detalhes sobre o que ele considera 'significativo'. **Qual espelhamento você usa?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Compensação que seja significativa?' (com tom de pergunta)",
+          "feedback": "✅ Perfeito. Você espelhou a palavra-chave vaga ('significativa') para forçá-lo a quantificar o valor em sua mente, revelando o número real sem que você precise perguntar diretamente. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Significativa significa 10% do valor do contrato?'",
+          "feedback": "⚠️ Você está dando um número. É melhor deixar o oponente dar o primeiro número. Isso é escuta passiva, e não espelhamento produtivo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Mantenha o silêncio sem dizer nada.",
+          "feedback": "❌ O silêncio é poderoso, mas o espelhamento é a ferramenta mais eficaz para extrair a *elaboração* neste momento. Você pode parecer estar esperando demais. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Fale: 'Isso é razoável, David. Podemos fazer isso.'",
+          "feedback": "❌ Você está concordando com uma compensação que ele ainda não definiu! O objetivo é extrair a informação, não se comprometer cegamente. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Poder do 'Não'",
+      "narrative": "David responde ao seu espelhamento: 'Sim, significativa. Estamos falando de **20% de penalidade por dia de atraso**, para ser honesto. É o que eu preciso para justificar.' Este é um valor inaceitável. Você precisa usar o poder do 'Não' indireto. **Qual é a sua melhor resposta calibrada?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Como eu posso fazer isso?'",
+          "feedback": "✅ Excelente. Esta é a pergunta de calibração que começa com 'Como', que força David a considerar as *suas* limitações e ajudá-lo a resolver *o seu* problema (o que é impossível), em vez de simplesmente rejeitar a oferta dele. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga diretamente: 'Não. 20% é inaceitável. O máximo é 5%.'",
+          "feedback": "❌ Você disse 'Não' de forma direta e confrontadora, o que quebra o rapport e faz David se sentir desrespeitado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'O que você faria no meu lugar?'",
+          "feedback": "⚠️ Esta é uma pergunta aberta que pode funcionar, mas 'Como' é melhor para forçá-lo a considerar a logística de sua própria demanda. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Mantenha o silêncio, esperando que ele baixe a oferta.",
+          "feedback": "❌ O silêncio não funcionará aqui; você precisa de uma pergunta calibrada para direcionar a conversa para a solução, não apenas a espera. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Empatia Tática e Rotulagem (Labeling)",
+      "narrative": "David responde à sua pergunta 'Como eu posso fazer isso?': 'Eu sei que é alto, mas **eu estou sob muita pressão**.' Ele está te dando uma rotulagem de volta. Você precisa reconhecer a pressão para manter o rapport, mas direcionar a conversa para uma solução conjunta. **Qual é a sua rotulagem para a pressão?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Parece que você está sob uma pressão interna enorme para garantir que isso não falhe, e você precisa de uma forma de proteger sua posição.'",
+          "feedback": "✅ Perfeito. Você rotulou a situação ('pressão interna') e a motivação ('proteger sua posição'), o que reforça o rapport e o move para aceitar uma solução de menor penalidade. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Eu sei. Eu também estou sob pressão.'",
+          "feedback": "❌ Você voltou a focar em si mesmo, o que desvia a atenção da dor dele e quebra o rapport. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Você está preocupado com o seu chefe?'",
+          "feedback": "⚠️ Rotular o chefe dele é arriscado e pode ser visto como fofoca ou invasão de privacidade. É melhor focar na pressão em si. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "'Parece que você está com raiva.'",
+          "feedback": "❌ Ele disse que está sob pressão, não com raiva. Rotular a emoção errada quebra o rapport, embora ele possa te corrigir. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "A Nova Regra: Negociar é Gerenciar Emoções",
+      "narrative": "David está mais calmo. Ele aceita que 20% é inviável, mas insiste em uma penalidade de 10%. Você sabe que 7% é o máximo que sua empresa pode aceitar. Você já usou todas as ferramentas. Você precisa de um último movimento que apele à lógica através da emoção (Viés de Perda/Controle). **Qual é a sua melhor resposta final?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Com a voz calma: 'Obrigado por sua honestidade. 10% é inviável. Eu entendo que você precisa de proteção. Nosso limite é 7%. Se aceitarmos 7%, o que impede você de assinar agora?'",
+          "feedback": "✅ Perfeito. Você manteve o rapport, usou uma declaração calibrada ('O que impede você...') para forçá-lo a considerar o *próximo* obstáculo, em vez de se focar no preço. Ele está no controle para dizer 'Não' à próxima objeção. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Vamos dividir a diferença em 8.5% e acabar com isso.'",
+          "feedback": "❌ Você voltou a 'dividir a diferença', que é a antítese da negociação tática, pois perde-se o valor extraído. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Se você não aceitar 7%, teremos que encerrar este contrato.'",
+          "feedback": "❌ Você usou uma ameaça (Violência) no final da negociação. Isso reverte todo o trabalho de construção de confiança e fará David se fechar. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'Eu posso te dar 8%, mas você tem que prometer que será o último pedido.'",
+          "feedback": "⚠️ Você fez uma concessão sem obter um comprometimento real, e ainda pediu uma promessa (fraca) em troca. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 2,
+  "title": "💰 Simulação: Vendendo a Solução Inovadora (e Cara)",
+  "introduction": "Você está na fase final de uma negociação B2B com o Diretor de Compras, Marcus. Seu produto é o melhor do mercado, mas custa 30% mais que a concorrência. Marcus já está focado no preço (a 'dor do gasto'). Seu objetivo é mudar o foco para o custo da não-ação (Aversão à Perda) e obter o 'Sim' de Compromisso, garantindo que o acordo não morra na implementação. Prepare-se para tomar 12 decisões críticas para fechar o negócio, começando com Ancoragem Extrema.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Dobrando a Realidade: Ancoragem Extrema",
+      "narrative": "Você senta à mesa. Marcus, direto ao ponto, diz: 'Sei que sua solução é ótima, mas o custo total de implementação que vi em seu e-mail (10.000.000) está muito acima do nosso orçamento. Francamente, **é inviável**.' Você precisa ancorar a conversa em um número maior ainda, para que seu preço real pareça uma pechincha. **Qual é sua Ancoragem Extrema, seguida de Rotulagem para desarmar?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Com um sorriso: 'Eu entendo perfeitamente, Marcus. Na verdade, a proposta completa, incluindo todos os módulos e suporte premium, seria de **R$ 14.537.900,00**. Parece que esse preço é completamente ultrajante para você, estou certo?'",
+          "feedback": "✅ Perfeito. Você ancorou alto com um número ímpar (que soa calculado) e usou uma rotulagem empática para desarmar a reação negativa. O novo ponto de referência dele é R$ 14,5 milhões. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Nosso preço é R$ 10.000.000, e não vamos mudar. Se você não puder pagar, sinto muito.'",
+          "feedback": "❌ Você não usou a ancoragem e foi confrontador. Você perdeu a oportunidade de manipular a percepção e quebrou o rapport. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Vamos dividir a diferença. Que tal R$ 5.000.000?'",
+          "feedback": "❌ Você ancorou baixo, o que é o erro oposto. Você agora definiu um limite inferior inaceitável para sua margem. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'Eu entendo. Podemos baixar o preço para R$ 9.000.000 agora mesmo.'",
+          "feedback": "⚠️ Você fez uma concessão imediata sem extrair informações ou obter nada em troca. Você parece desesperado. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Objetivo Final: 'Isso Mesmo' (That's Right)",
+      "narrative": "Marcus ri: 'Claro que é ultrajante! R$ 14,5 milhões é totalmente fora de questão! Você não percebe que **estamos com o orçamento apertado**?' Ele está frustrado, mas te deu uma pista. Você precisa resumir tudo o que ouviu até agora (preço, orçamento, frustração) e buscar o 'Isso Mesmo'. **Qual é o melhor Resumo Empático?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Parece que você está frustrado com o preço, pois está sob grande pressão orçamentária para reduzir custos. E qualquer solução acima de 8 milhões criará um problema interno para você e sua equipe. **Isso mesmo?**'",
+          "feedback": "✅ Excelente. Você integrou o preço, a emoção ('frustrado'), a restrição ('orçamento apertado') e a motivação ('problema interno') em uma única declaração que ele mal pode esperar para confirmar. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você está dizendo que meu preço é alto demais, certo?'",
+          "feedback": "⚠️ Esta é uma pergunta superficial que só aborda o conteúdo ('preço'). Você ignora a emoção e a restrição interna, o que não provoca o 'Isso Mesmo'. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "'Eu sei que você está com o orçamento apertado, Marcus. Todo mundo está.'",
+          "feedback": "❌ Isso desvaloriza a dor dele e é uma generalização vazia. Não é um resumo e não busca a validação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'O que podemos fazer para resolver seu problema de orçamento?'",
+          "feedback": "❌ Esta é uma pergunta calibrada, mas você a usou muito cedo. Primeiro, obtenha o 'Isso Mesmo' (compreensão), depois pergunte 'Como' (solução). (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Perguntas Calibradas ('Como' e 'O Quê')",
+      "narrative": "Marcus, aliviado, diz: '🎯 **Isso mesmo!** Você está na minha cabeça! Eu não posso arriscar mais. O que mais eu preciso é de certeza de que isso vale o risco.' Você obteve o 'Isso Mesmo' (grande vitória!). Agora é hora de usar as Perguntas Calibradas para transferir o fardo da solução para ele. **Qual é a pergunta que o força a colaborar?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Com calma: 'O que faz com que esse preço seja injustificável na sua cabeça, mesmo com a melhor solução do mercado?'",
+          "feedback": "✅ Perfeito. Você usou o 'O Quê' para fazê-lo considerar a lógica por trás de sua objeção. Isso o força a justificar a objeção, em vez de você ter que se justificar. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você aceita fechar o negócio se eu der um desconto de 15%?'",
+          "feedback": "❌ Você voltou a fazer uma pergunta de 'Sim/Não' e cedeu o controle. Você perdeu o momentum da colaboração. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Por que você está tão fixado no preço?'",
+          "feedback": "❌ O 'Por que' é acusatório e pode colocar Marcus na defensiva, quebrando o 'Isso Mesmo' que você acabou de obter. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'Qual é o seu preço final ideal, Marcus?'",
+          "feedback": "⚠️ Esta é uma pergunta muito direta. É melhor fazê-lo pensar na lógica da objeção antes de pedir números. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Garantindo a Execução: O 'Sim' de Compromisso",
+      "narrative": "Marcus hesita por um momento e diz: 'É o risco. O preço é alto e se a implementação falhar, minha cabeça rola. Não vou arriscar isso. Eu preciso de um plano de execução perfeito.' Você identificou que a execução é o verdadeiro obstáculo. Você precisa obter o 'Sim' de Compromisso para o *plano*, e não para o preço. **Qual pergunta você usa para forçá-lo a pensar nos obstáculos da execução?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Como garantiremos que sua equipe de TI esteja 100% a bordo com o plano, para que não haja surpresas no lançamento?'",
+          "feedback": "✅ Excelente. Você usou o 'Como' para forçar Marcus a considerar os obstáculos internos (equipe de TI) e os riscos da execução. Ele agora está vendendo a ideia internamente. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você está 100% certo de que sua equipe não irá sabotar o projeto?'",
+          "feedback": "❌ Você está fazendo uma pergunta de 'Sim/Não' e soando acusatório. Isso pode levar a um 'Sim' falso. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'O que você sugere que eu faça com sua equipe?'",
+          "feedback": "⚠️ Embora seja um 'O Quê' calibrado, é muito direto e transfere *toda* a responsabilidade. É melhor incluí-lo no 'Como'. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "'Minha equipe é a melhor em execução, não se preocupe.'",
+          "feedback": "❌ Você fez uma promessa vazia. Marcus não precisa de promessas, ele precisa de um processo claro que o proteja. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Dobrando a Realidade: Ancoragem Extrema",
+      "narrative": "Marcus descreve um plano de execução, mas volta ao preço: 'O plano é bom. Mas, no final das contas, meu chefe só aprova se o custo for, no máximo, **R$ 8.000.000**. Não consigo ir além disso.' Você precisa fazer sua oferta real (R$ 9.200.000) parecer um grande alívio. **Qual é sua Concessão Estratégica?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Com a 'Voz de Locutor de Rádio': 'Marcus, se eu te dissesse que com a nossa solução essencial, o custo seria de R$ 9.245.000? Parece que esse corte ainda é muito agressivo para o seu orçamento?'",
+          "feedback": "✅ Fantástico. Você usou um número ímpar, um grande salto em relação ao R$ 14,5 milhões ancorado (parece uma grande concessão) e terminou com uma rotulagem/pergunta para ver onde o ponto de dor dele ainda está. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga rapidamente: 'Ok, R$ 8.000.000. Aceito.'",
+          "feedback": "❌ Você aceitou imediatamente o preço dele. Isso o fará sentir que você estava o enganando com o preço de R$ 10 milhões original. O valor de R$ 8 milhões é o limite dele, não o seu. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Isso é tudo o que eu posso fazer: R$ 8.500.000. Pegue ou largue.'",
+          "feedback": "❌ Você usou uma tática agressiva de 'Pegue ou Largue'. Isso mata o rapport e o faz se sentir pressionado, em vez de compreendido. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Eu entendo. Vou falar com meu chefe e volto com R$ 7.500.000, para você ficar confortável.'",
+          "feedback": "⚠️ Você se comprometeu a ancorar *abaixo* do preço dele, o que é um erro de ancoragem e uma concessão não justificada. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O Objetivo Final: 'Isso Mesmo' (That's Right)",
+      "narrative": "Marcus nega sua oferta de R$ 9.245.000. 'Não, ainda é demais. O preço de R$ 8.000.000 é um **limite de fogo que não pode ser cruzado**. Se eu cruzar, serei penalizado.' Ele parece exausto e focado em um único ponto. Você precisa resumir o novo ponto de dor para obter um 'Isso Mesmo' final. **Qual é o seu último resumo antes de fechar a negociação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Parece que o principal problema aqui não é a quantia de dinheiro em si, mas sim o seu **limite de autoridade**, e que cruzar os R$ 8.000.000 representaria uma perda pessoal para você. **Isso mesmo?**'",
+          "feedback": "✅ Bingo. Você identificou que o problema é a 'Autoridade' e o 'Risco Pessoal' (Viés de Perda), e não a matemática. O 'Isso Mesmo' aqui sinaliza a verdade final antes de você propor a solução. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você está dizendo que não podemos trabalhar juntos por causa de R$ 1.245.000?'",
+          "feedback": "❌ Você usou a tática de 'envergonhar' o oponente. Isso é confrontador e mata o rapport. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Então o problema é o preço. Entendido.'",
+          "feedback": "⚠️ Isso é um 'Você está certo' disfarçado. É um encerramento superficial que não aborda o risco pessoal que ele acabou de mencionar. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "'Eu desisto. R$ 8.000.000.'",
+          "feedback": "❌ Você cedeu no seu BATNA sem tentar extrair o valor real que ele pode oferecer (termos, prazo, testemunho). (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Perguntas Calibradas ('Como' e 'O Quê')",
+      "narrative": "Marcus diz (o 'Isso Mesmo' final): 'Sim, é exatamente isso. É um limite de fogo pessoal.' Você sabe que o preço não vai mudar mais. Você precisa de um 'Sim' de Compromisso de valor agregado para justificar o pequeno aumento (R$ 9.245.000). **Qual pergunta calibrada você usa para pedir valor em troca?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Como podemos justificar o preço de R$ 9.245.000 para a sua chefia, fornecendo a você um forte caso de estudo interno (testemunho e dados) para mostrar o imenso ROI?'",
+          "feedback": "✅ Fantástico. Você usou o 'Como' para forçá-lo a aceitar uma moeda de troca (testemunho) em troca do aumento, transformando-o em um colaborador. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'O que eu posso te dar para fechar o negócio agora?'",
+          "feedback": "❌ Isso implora por uma concessão e dá a ele a sensação de que você ainda tem margem de manobra significativa. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Você me deve um favor. O que você vai me dar em troca?'",
+          "feedback": "❌ Embora o objetivo seja obter algo em troca, o uso da palavra 'deve' é confrontador e destrói o rapport. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'O que você fará para que R$ 9.245.000 seja o preço final?'",
+          "feedback": "⚠️ Esta é uma boa pergunta calibrada, mas muito focada apenas no preço. 'Como' para obter valor em troca é mais poderoso. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Garantindo a Execução: O 'Sim' de Compromisso",
+      "narrative": "Marcus concorda em fornecer o caso de estudo. Você está à beira do fechamento, mas precisa garantir que o acordo será implementado. Seus olhos vagam pela sala, indicando que ele ainda está pensando nos próximos passos. **Qual pergunta calibrada final você usa para garantir o 'Sim' de Compromisso de Execução?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Marcus, o que acontece a seguir se falharmos nesta implementação (o que acontecerá com sua reputação e seu projeto)?'",
+          "feedback": "✅ Perfeito. Você usou o 'O Quê' e a 'Aversão à Perda' para forçá-lo a pensar nas consequências da falha. Isso o motivará a supervisionar a execução para evitar a perda. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você está pronto para assinar o contrato agora?'",
+          "feedback": "❌ Pergunta de 'Sim/Não' que não verifica se ele pensou nos obstáculos da execução. Isso ignora o risco de um 'Sim' falso. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Você vai nos sabotar se a implementação for ruim?'",
+          "feedback": "❌ Isso é agressivo e assume o pior. Você está usando uma rotulagem de acusação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'Você entende os termos de execução?'",
+          "feedback": "⚠️ Pergunta fraca e superficial. 'Entender' não é o mesmo que estar 'comprometido' em evitar o risco. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Dobrando a Realidade: Ancoragem Extrema",
+      "narrative": "Marcus diz: 'Não, não falharemos. Mas o seu prazo de 90 dias é muito longo. Precisamos de 60 dias.' Você está perto da linha de 90 dias, mas a antecipação custará recursos. Você decide que pode fazer 75 dias, mas precisa que 75 dias pareça uma concessão. **Como você usa o princípio da Concessão Estratégica?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Mantenha o silêncio por 5 segundos. Em seguida, com hesitação na voz: 'Marcus, se eu dissesse que, com a reorganização de recursos, poderíamos chegar a 75 dias, isso faria uma grande diferença para você?'",
+          "feedback": "✅ Excelente. O silêncio faz com que sua resposta pareça difícil e dolorosa (Concessão Estratégica). 75 dias é um salto menor (15 dias) em comparação ao salto inicial (30 dias), comunicando que você está perto do limite. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Claro, 60 dias. Sem problemas.'",
+          "feedback": "❌ Você cedeu imediatamente e não comunicou o 'custo' da concessão, o que a torna sem valor na mente dele. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diga: 'Eu não posso fazer 60 dias. O prazo é 90.'",
+          "feedback": "❌ Você está dizendo 'Não' de forma muito direta. Você perde a oportunidade de negociar um termo que já foi ancorado em 60 dias por ele. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Que tal 65 dias? É meu limite.'",
+          "feedback": "⚠️ Você fez um salto muito grande, dando a impressão de que tinha margem. As concessões devem ser decrescentes e parecer dolorosas. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Perguntas Calibradas ('Como' e 'O Quê')",
+      "narrative": "Marcus aceita os 75 dias, mas levanta a última objeção: 'Se a solução for implementada em 75 dias, mas tivermos que colocar mais pessoal para monitorar o sistema, isso anula o ROI. **Como eu sei que isso não vai acontecer?**' Ele usou um 'Como' calibrado em você. **Qual é sua resposta calibrada para fazê-lo se sentir seguro sobre a execução?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'O que você sugere que coloquemos no contrato que o proteja dessa 'perda' de tempo e pessoal adicional?'",
+          "feedback": "✅ Perfeito. Você usou o 'O Quê' para fazê-lo fornecer o mecanismo de segurança que ele precisa, transferindo o fardo para ele. Isso protege você de se comprometer com algo irreal. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Eu prometo que isso não vai acontecer.'",
+          "feedback": "❌ Promessas verbais não têm valor em uma negociação de alto risco. Ele precisa de um plano contratual, não de sua palavra. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Você está me dizendo que não confia em mim?'",
+          "feedback": "❌ Você usou a tática de culpa, o que destrói o rapport e faz o oponente se defender. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'Nossa equipe vai trabalhar o fim de semana para garantir isso.'",
+          "feedback": "⚠️ Você está se comprometendo com um esforço extremo que pode não ser necessário, em vez de focar na solução contratual. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Garantindo a Execução: O 'Sim' de Compromisso",
+      "narrative": "Marcus propõe uma cláusula de acompanhamento pós-implementação de 6 meses. Você concorda. O acordo de R$ 9.245.000 (com caso de estudo e prazo de 75 dias) está pronto. Para selar o 'Sim' de Compromisso, você precisa ter certeza de que não haverá objeções internas de última hora. **Qual pergunta é a prova final de comprometimento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Marcus, o que o fará se arrepender deste acordo daqui a 6 meses?'",
+          "feedback": "✅ Excelente. Esta pergunta força Marcus a prever e verbalizar os riscos futuros (Viés de Perda), desenterrando o último Cisne Negro (objeção interna) e solidificando o comprometimento. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você está feliz com o preço?'",
+          "feedback": "❌ Uma pergunta de 'Sim/Não' superficial. O 'Sim' dele não é uma garantia de comprometimento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Quando podemos assinar?'",
+          "feedback": "⚠️ Esta é uma pergunta de fechamento, mas não verifica o comprometimento interno. É um salto. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "'Você pode me dar um feedback positivo agora?'",
+          "feedback": "❌ Focar em feedback positivo é focar no 'Sim' fraco. Você está perdendo a oportunidade de solidificar a execução. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Objetivo Final: 'Isso Mesmo' (That's Right)",
+      "narrative": "Marcus pensa por um momento e diz: 'Eu só me arrependeria se nossa equipe de vendas não usasse a solução por achá-la muito complexa.' Você descobriu um novo Cisne Negro da Execução. Você precisa de um 'Isso Mesmo' rápido para validar esse novo ponto de dor. **Qual é sua última rotulagem empática?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Parece que a sua maior preocupação agora é que a complexidade do uso cause o **fracasso da adoção** interna, o que anularia todo o valor do investimento.'",
+          "feedback": "✅ Final perfeito. Você rotulou o novo risco ('fracasso da adoção') e o enquadrou em termos de perda ('anularia todo o valor'). Ele vai se sentir 100% ouvido e o acordo será fechado em alto nível. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você está preocupado com o treinamento?'",
+          "feedback": "⚠️ Muito específico. 'Treinamento' é um meio. 'Adoção' é o fim. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "'Isso é um problema seu, não meu. Minha parte está feita.'",
+          "feedback": "❌ Você rejeitou o risco dele. O acordo não será executado se ele não se sentir apoiado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'Então, o que faremos sobre a equipe de vendas?'",
+          "feedback": "❌ Você pulou para o 'O Quê' sem primeiro validar e rotular o problema. O 'Isso Mesmo' deve vir antes da solução. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 3,
+  "title": "💣 Simulação: Negociando com o 'Comprador Agressivo'",
+  "introduction": "Você está no meio de uma negociação de aquisição. Seu oponente, Sofia, uma Gerente de Projetos-chave, está visivelmente hostil e usa táticas agressivas (Ultimatos e confrontos) em uma tentativa de inflacionar o preço. Seu objetivo é desarmar as emoções extremas, descobrir o Cisne Negro por trás da agressão e garantir um 'Não' real para evitar um 'Sim' falso. Prepare-se para tomar 12 decisões críticas para converter a hostilidade em colaboração.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "O Preço da Emoção: Negociando com o 'Terrorista'",
+      "narrative": "Você inicia a reunião. Sofia começa a gritar: '😡 **Sua proposta é um insulto! Estamos perdendo tempo aqui. Se você não dobrar o preço e quadruplicar o prazo, esta negociação acaba agora!**' Ela está usando um ultimato e o tom é raivoso. **Qual é o seu primeiro movimento para desarmar a agressão?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Mantenha a 'Voz de Locutor de Rádio Tarde da Noite' (calma e lenta) e use a rotulagem: 'Parece que você está furiosa com esta proposta e se sente totalmente desrespeitada.'",
+          "feedback": "✅ Perfeito. Você usou a voz ideal para desescalar e rotulou a emoção principal ('furiosa', 'desrespeitada'). Isso valida a dor dela e a move do sistema límbico para o racional. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Grite de volta: 'Seu ultimato é inaceitável. O preço não vai mudar!'",
+          "feedback": "❌ Você escalou o conflito (Violência). Negociar com a emoção dela só a fará se sentir mais irracional e agressiva. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diga: 'Você precisa se acalmar para termos uma conversa adulta.'",
+          "feedback": "❌ Você a julgou ('precisa se acalmar'), o que aumenta a raiva e a defensiva. Nunca diga a alguém como se sentir. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Mantenha o silêncio, esperando que ela pare de gritar.",
+          "feedback": "⚠️ O silêncio sem rotulagem pode ser visto como passividade, o que pode aumentar a frustração dela por não se sentir ouvida. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O 'Não' Mais Importante: Evitando o 'Sim' Falso",
+      "narrative": "Sofia se acalma um pouco e diz: 'Não estou furiosa, estou apenas tentando ser realista. Meu chefe disse que o preço é o mínimo. **Se você não puder cumprir, eu tenho que ir embora.**' Ela está forçando um ultimato, mas te deu uma pista sobre o chefe (autoridade). Você precisa desarmar o ultimato e testar a autoridade. **Qual é a pergunta calibrada?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Parece que seu chefe está sob muita pressão. **O que acontece se você for embora agora e não fechar este acordo?**'",
+          "feedback": "✅ Perfeito. Você rotulou a pressão e usou o 'O Quê' para fazê-la considerar o custo da não-ação (Viés de Perda), desarmando o ultimato e forçando o 'Não' para 'ir embora'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você está me dizendo que não tem autoridade para negociar um preço menor?'",
+          "feedback": "❌ Você está fazendo uma pergunta de 'Sim/Não' que pode ser percebida como um ataque à sua competência. Ela provavelmente dirá um 'Sim' falso. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Você não vai embora, não é?'",
+          "feedback": "❌ Isso força um 'Sim' que ela não quer dizer. O 'Sim' forçado é o 'Sim' falso. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'Eu entendo. Vá em frente, então.'",
+          "feedback": "⚠️ Você aceitou o ultimato. Você perde o controle da negociação e pode perder o negócio. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "O Cisne Negro: Encontrando a Informação Oculta",
+      "narrative": "Sofia diz: 'O que acontece é que perdemos o alvo de crescimento de 20% do trimestre. **Eu sou o Cisne Negro aqui: o prazo!** Se eu não fechar isso *hoje*, o prazo é estourado. Mas o preço é o obstáculo.' O prazo é a restrição (Cisne Negro). Você precisa que ela se sinta validada por ter revelado a informação oculta. **Qual rotulagem ou espelhamento você usa?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Parece que o prazo de hoje é a restrição mais importante e que o preço é o único obstáculo que te impede de cumprir essa restrição.'",
+          "feedback": "✅ Excelente. Você rotulou o Cisne Negro (prazo) e a restrição (preço) em uma só frase. Isso a faz sentir-se profundamente compreendida ('Isso Mesmo'), liberando mais informações sobre o *porquê* do prazo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você está dizendo que eu devo te dar o dobro do preço só porque você está atrasada?'",
+          "feedback": "❌ Você ignorou o Cisne Negro (prazo) e atacou o preço dela, o que a coloca na defensiva. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'O prazo é estourado?' (com tom de pergunta)",
+          "feedback": "⚠️ Espelhamento muito superficial. Você perde a chance de rotular o medo subjacente à restrição de prazo (o Cisne Negro). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Eu entendo que você está com pressa. Vou te dar um desconto de 10% se você fechar hoje.'",
+          "feedback": "❌ Você fez uma concessão sem obter valor em troca e validou o problema superficialmente. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "A Arte de Fazer o Oponente Negociar Contra Si Mesmo",
+      "narrative": "Sofia diz: 'Exatamente! Isso mesmo! Se não fecharmos agora, eu falho no trimestre.' O Cisne Negro está na mesa. Agora, você deve transferir o fardo para ela. Você não pode dobrar o preço, mas pode oferecer o preço original (mais baixo). **Qual é a pergunta calibrada que a força a justificar o preço dela, e não o seu?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'**Como** eu posso te dar o dobro do preço e garantir que eu não perca dinheiro, enquanto você ainda atinge seu alvo de crescimento de 20%?'",
+          "feedback": "✅ Perfeito. Você usou o 'Como' para forçá-la a resolver o *seu* problema (o preço) em relação ao *problema dela* (o crescimento/prazo). Ela está negociando contra sua própria posição inicial. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você acha justo eu dobrar o preço?'",
+          "feedback": "❌ O 'justo' é uma palavra-armadilha que pode levar a um debate sobre moralidade, em vez de logística. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'O que você pode me dar em troca do dobro do preço?'",
+          "feedback": "⚠️ Esta é uma boa pergunta, mas o 'Como' é mais poderoso, pois força a consideração das restrições. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Eu não posso dobrar o preço. É o meu limite.'",
+          "feedback": "❌ Você perdeu a oportunidade de usar o Cisne Negro (prazo) a seu favor, focando em um 'Não' direto. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "O Preço da Emoção: Negociando com o 'Terrorista'",
+      "narrative": "Sofia pensa. 'Bem, talvez o preço não precise ser o dobro, mas o custo da não-ação é o nosso maior medo. O que você faria se estivesse no meu lugar?' Ela está confusa e te pedindo ajuda. **Qual é o seu movimento para validar a emoção dela antes de transferir o fardo da solução de volta?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Rotule o pior cenário: 'Parece que você está com medo de ser responsabilizada pelo fracasso do trimestre e que esta negociação é a sua última chance de evitar essa perda.'",
+          "feedback": "✅ Fantástico. Você rotulou o 'Medo' (Viés de Perda) dela, que é o motor da agressão. Ao nomear o medo, você o desarma e constrói a intimidade necessária para a solução. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Eu te daria o desconto máximo. O que mais?'",
+          "feedback": "❌ Você está ignorando a emoção e oferecendo uma solução baseada em concessão. Você não está agindo como negociador mestre. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diga: 'Eu entendo seu medo, mas não sou seu terapeuta.'",
+          "feedback": "❌ Totalmente não empático. Você quebrou o rapport e a fez se sentir atacada. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Eu resolveria o problema do preço, e não do prazo.'",
+          "feedback": "⚠️ Você está se focando em suas próprias prioridades. Ela te perguntou o que *ela* faria. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O Cisne Negro: Encontrando a Informação Oculta",
+      "narrative": "Sofia nega o medo ('Não, não é medo. É apenas responsabilidade.') e te dá a informação: 'O Cisne Negro é que se eu não fechar hoje, o financeiro do meu chefe **não terá mais o orçamento** no próximo trimestre.' Você descobriu a verdadeira restrição. **Qual é a pergunta calibrada que usa essa restrição para forçá-la a fechar o acordo no seu preço original (mais baixo)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'**O que** te impede de fechar o acordo no preço original agora, garantindo o orçamento para este trimestre?'",
+          "feedback": "✅ Perfeito. Você usou o 'O Quê' para focar na solução dela (garantir o orçamento HOJE) em relação ao seu preço. Ela agora está motivada a aceitar o seu preço para evitar a perda (Viés de Perda) do orçamento. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você está me dizendo que o preço é o único obstáculo para o orçamento?'",
+          "feedback": "⚠️ Pergunta de 'Sim/Não' que corre o risco de 'Sim' falso. O 'O Quê' é mais forte. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "'Então o seu chefe é o Cisne Negro, e não o prazo?'",
+          "feedback": "❌ Você está focando em acusar o chefe dela (o que ela negou) e não na solução. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Você tem que fechar hoje, então.'",
+          "feedback": "❌ Você usou uma afirmação confrontadora. Ela vai se sentir pressionada e pode se fechar. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O 'Não' Mais Importante: Evitando o 'Sim' Falso",
+      "narrative": "Sofia diz: 'Nada me impede de fechar no seu preço, contanto que seja hoje.' Ela parece ter aceito. Você precisa testar esse 'Sim' rápido e final para ter certeza de que não é um 'Sim' falso. **Qual é o seu último teste de comprometimento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'**Você está me dizendo que não há nenhuma objeção oculta na sua mente ou na de seu chefe que possa sabotar este acordo amanhã?**'",
+          "feedback": "✅ Excelente. Você forçou o 'Não' mais importante (negar a sabotagem/objeção oculta). Isso garante que o 'Sim' seja um comprometimento real e que ela tenha pensado nos obstáculos internos. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você está 100% certo de que não está mentindo?'",
+          "feedback": "❌ Você a acusou de mentir. Isso destrói o rapport e pode levá-la a fechar o negócio por raiva, mas sabotar depois. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Você concorda que podemos fechar agora?'",
+          "feedback": "❌ Pergunta de 'Sim/Não' que não testa o comprometimento ou as objeções ocultas. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Eu confio em você, Sofia. Vamos em frente.'",
+          "feedback": "⚠️ O negociador mestre não confia, ele verifica o comprometimento. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "A Arte de Fazer o Oponente Negociar Contra Si Mesmo",
+      "narrative": "Sofia diz: 'Não, não há objeções ocultas. Eu fecho no seu preço HOJE. **O que acontecerá se você não me entregar no prazo prometido?**' Ela transferiu o fardo do risco de volta para você. **Qual é sua resposta calibrada para fazê-la fornecer a solução?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'O que você sugere que eu faça para garantir que você se sinta 100% segura com o meu prazo?'",
+          "feedback": "✅ Perfeito. Você usou o 'O Quê' para forçá-la a criar o próprio mecanismo de segurança. Ela está negociando contra sua própria posição, criando a solução para você. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Eu vou te dar um desconto de 5% se eu atrasar.'",
+          "feedback": "❌ Você ofereceu uma concessão imediata sem saber o que ela realmente queria. Ela poderia ter aceitado menos. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Você está me dizendo que não confia na minha palavra?'",
+          "feedback": "❌ Tática de culpa. Isso pode quebrar o rapport no momento crucial do fechamento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Mantenha o silêncio por 10 segundos para deixá-la desconfortável.",
+          "feedback": "⚠️ O silêncio é bom, mas o 'O Quê' calibrado é a ferramenta mais forte para o fechamento. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "O Cisne Negro: Encontrando a Informação Oculta",
+      "narrative": "Sofia propõe um mecanismo de penalidade razoável no contrato. Você concorda. O acordo está selado. Mas você está curioso. Você tem um minuto final. Você suspeita que o medo real não era o orçamento, mas a competição interna. **Qual é a pergunta de Cisne Negro de 'baixo risco' que você usa para 'aprender', em vez de 'ganhar'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Sofia, o que você tentou proteger de mim o tempo todo nesta negociação?'",
+          "feedback": "✅ Perfeito. Essa pergunta (O Quê) foca no 'medo' e no 'proteção' (Cisne Negro) de forma não acusatória. Ela pode não responder, mas se o fizer, você aprenderá a sua motivação real. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Quem é seu principal concorrente interno?'",
+          "feedback": "❌ Muito invasivo e específico. Ela vai se fechar imediatamente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Você estava mentindo sobre o ultimato?'",
+          "feedback": "❌ Acusatório e confrontador, mesmo após o acordo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Eu sei que era a sua reputação que você estava protegendo.'",
+          "feedback": "⚠️ Você está assumindo o Cisne Negro em vez de deixar ela revelar. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Preço da Emoção: Negociando com o 'Terrorista'",
+      "narrative": "Sofia sorri: 'Eu estava protegendo o meu bônus, para ser honesta.' Você encerrou a negociação. No e-mail de follow-up, ela te envia um e-mail com um tom áspero: 'A equipe de finanças está questionando o preço final. Resolva isso HOJE.' Ela está voltando à agressão. **Qual é sua melhor resposta, usando empatia e rotulagem para desarmar a tensão à distância?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Responda: 'Parece que a equipe de finanças encontrou uma restrição orçamentária que está colocando muita pressão em você. Como podemos garantir que eles se sintam à vontade com a nossa solução?'",
+          "feedback": "✅ Perfeito. Você rotulou a emoção da equipe ('pressão') e transferiu o fardo da solução ('Como podemos garantir...') para ela (que tem o Cisne Negro financeiro). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Responda: 'Você está voltando atrás no acordo? Isso é inaceitável.'",
+          "feedback": "❌ Você usou um tom confrontador, o que só vai inflamar a situação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Responda: 'Eu resolvo isso por você. Vou ligar para a equipe de finanças.'",
+          "feedback": "⚠️ Você assumiu a responsabilidade pela negociação interna dela, o que pode ser visto como arrogância e roubo de controle. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Responda: 'O preço foi fechado. Não há nada para discutir.'",
+          "feedback": "❌ Você ignorou o Cisne Negro pós-acordo. O 'Sim' pode estar se transformando em um 'Sim' falso. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O 'Não' Mais Importante: Evitando o 'Sim' Falso",
+      "narrative": "A equipe de finanças quer uma cláusula de penalidade de 25% por qualquer erro. Você sabe que isso é inviável, mas não quer dizer 'Não' de forma direta. Você precisa que ela diga 'Não' ao seu próprio limite. **Qual é a pergunta que força o 'Não' para um extremo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'**Você está me dizendo que não há nada, exceto a cláusula de penalidade de 25%, que faria a equipe de finanças se sentir segura?**'",
+          "feedback": "✅ Perfeito. Você forçou o 'Não' a um extremo, fazendo-a negar que não há outras opções. Isso abre o caminho para ela sugerir uma alternativa mais razoável. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Não. 25% é demais. O máximo é 5%.'",
+          "feedback": "❌ Você disse 'Não' de forma direta. O ideal é deixar o oponente dizer o 'Não' para o seu próprio limite. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Você está pronto para desistir do acordo se eu não aceitar 25%?'",
+          "feedback": "⚠️ Ameaça velada. Isso é muito arriscado e pode escalar a tensão. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "'Por que 25% é o número mágico?'",
+          "feedback": "❌ O 'Por que' é acusatório e não leva a uma solução colaborativa. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "A Arte de Fazer o Oponente Negociar Contra Si Mesmo",
+      "narrative": "Sofia diz: 'Não, não há nada mais que os faria felizes. Mas eu não posso perder este negócio. **Como podemos dar a eles a segurança de que não haverá erros, sem os 25%?**' Ela acabou de negociar contra si mesma e te pediu uma solução no seu limite. **Qual é a sua resposta final?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Com calma: 'O que você sugere que ofereçamos, além de uma penalidade de 5%, que resolva a preocupação deles com a execução? (Espere o silêncio para a resposta dela).'",
+          "feedback": "✅ Ação final do mestre. Você usou o 'O Quê' para fazê-la fornecer a solução no seu limite (5% é o máximo), fazendo-a negociar contra o próprio limite de 25%. A solução é dela. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Eu vou aceitar 10% de penalidade.'",
+          "feedback": "❌ Você cedeu e fez uma concessão sem necessidade. A solução deveria ser dela. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diga: 'Obrigado. Eu fecho em 5%.'",
+          "feedback": "⚠️ Você não usou a ferramenta 'O Quê' para fazer ela assumir a solução. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Eu não sei. Isso é o problema da sua equipe.'",
+          "feedback": "❌ Você rejeitou o fardo transferido, o que quebra a colaboração. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 4,
+  "title": "⚖️ Simulação: A Negociação de Valor 'Justo'",
+  "introduction": "Você está renegociando um contrato de fornecimento com um parceiro de longa data, Carlos. O preço precisa subir 15% devido aos custos. Carlos está emocionalmente apegado à ideia de 'preços justos' e está usando a palavra 'injusto' repetidamente. Ele insiste em dividir a diferença, o que é inaceitável para você. Seu objetivo é ancorar o novo valor, desarmar a emoção de injustiça e obter o 'Sim' de Proteção para um comprometimento real.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "O Jogo do Leilão: Negociando Preço",
+      "narrative": "Você apresenta o novo preço, 15% mais alto. Carlos imediatamente recusa: 'Este aumento é **injusto**. Eu sou um cliente leal! Se você quer 15% a mais, eu só dou 5%. Vamos dividir a diferença em 10% e pronto.' Ele está ancorando baixo e forçando o 'dividir a diferença'. **Qual é a sua Ancoragem Extrema e Concessão Estratégica?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Com um sorriso: 'Eu entendo que você sinta isso, Carlos. Nosso custo real subiu **18.7%**. Se eu pudesse fazer o aumento ser de apenas 14.8%, isso ainda seria injusto para você?'",
+          "feedback": "✅ Perfeito. Você elevou a ancoragem (18.7%) com um número ímpar (precisão) e fez uma pequena concessão estratégica (14.8%) para que o 15% pareça aceitável. Além disso, você rotulou a emoção dele ('injusto') para desarmar. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Eu concordo. 10% é justo. Fechado!'",
+          "feedback": "❌ Você aceitou 'dividir a diferença', o que é o erro fundamental da negociação tática. Você perdeu valor e não extraiu informações. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diga: 'Meu aumento é 15%. Se você não aceitar, procure outro fornecedor.'",
+          "feedback": "❌ Você usou um ultimato/ameaça. Isso quebra o rapport e foca na violência, em vez da empatia. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'O que é justo para você?'",
+          "feedback": "⚠️ A pergunta é boa, mas deve ser usada após a ancoragem. Usá-la aqui antes de ancorar permite que ele ancore em um número muito baixo. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Poder da Equidade e da Justiça",
+      "narrative": "Carlos diz: 'Não, 14.8% ainda é demais. Não é sobre o número, é sobre o princípio. Eu sinto que estou sendo penalizado. **Não é justo!**' Ele está usando a palavra 'justo' como uma arma para te fazer sentir culpado. **Qual é sua melhor resposta, usando a palavra 'justo' a seu favor?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Rotule o comportamento: 'Parece que você está tentando me fazer sentir culpado ou que estou sendo injusto. Eu entendo. **O que é justo para você?**'",
+          "feedback": "✅ Excelente. Você rotulou a tática ('tentando me fazer sentir culpado') para neutralizar a arma e transferiu o fardo da solução para ele ('O que é justo?'), forçando-o a propor algo concreto. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Eu sou justo! Nossos custos subiram!'",
+          "feedback": "❌ Você se defendeu contra a palavra 'justo', permitindo que ele use-a como uma arma contra você. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diga: 'Não vamos falar sobre justiça. Vamos falar sobre números.'",
+          "feedback": "❌ Você ignorou a emoção mais poderosa na negociação. A emoção precede a lógica. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Eu concordo que não é justo. Vamos para 12%.'",
+          "feedback": "⚠️ Você fez uma concessão significativa (3%) apenas para apaziguar a emoção, o que é ineficiente. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "O 'Sim' de Proteção: Evitando o 'Sim' de Confirmação",
+      "narrative": "Carlos, desarmado pela sua rotulagem, recua: 'Bem, justo seria 5%. Mas eu entendo que isso é um problema para você. Eu só não quero que o relacionamento seja prejudicado.' Ele está te dando um 'Sim' de Confirmação (superficial). Você precisa que ele se sinta seguro e no controle antes de avançar. **Qual é a pergunta que espera um 'Não' (Sim de Proteção)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'**É uma má hora para falarmos sobre o valor real do nosso serviço, em vez do preço?**'",
+          "feedback": "✅ Perfeito. Você usou a pergunta 'É uma má hora?' que espera um 'Não' ('Não, não é uma má hora'). Isso o coloca no controle e prepara o terreno para a discussão de valor/solução. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você está pronto para fechar em 15%?'",
+          "feedback": "❌ Você está forçando um 'Sim' de Confirmação, o que pode levar a um 'Sim' falso. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Você quer que eu vá embora?'",
+          "feedback": "⚠️ Muito extremo. Esta pergunta é reservada para um impasse severo, não para o início da discussão de valor. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "'Eu concordo que o relacionamento é importante.'",
+          "feedback": "❌ Você está apenas concordando, o que é inútil sem uma ferramenta tática para avançar. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Jogo do Leilão: Negociando Preço",
+      "narrative": "Carlos diz: 'Não, não é uma má hora.' Você o guiou para o 'Sim' de Proteção. Você precisa de uma concessão final no preço (seu limite é 13%) e usar números ímpares para sinalizar que a negociação está no fim. **Qual é a sua Concessão Estratégica Final?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Com a 'Voz de Locutor de Rádio': 'Carlos, o custo total do nosso contrato, com o aumento, seria de **12.985,42**. Eu sei que isso é mais que 5%, mas você pode me dizer: **parece que essa é a última mudança que eu posso fazer?**'",
+          "feedback": "✅ Finalização Mestra. Você usou um número ímpar (precisão), fez uma pequena e final concessão decrescente (do 14.8% para 12.985,42) e usou uma rotulagem/pergunta para sinalizar que chegou ao limite, permitindo que ele sinta que 'venceu'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Eu dou 10% de desconto. Aceite ou largue.'",
+          "feedback": "❌ Você usou a tática 'Pegue ou Largue' no momento final. Isso destrói o rapport e a ilusão de controle. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diga: 'Eu vou te dar 5% e vou dobrar a sua concessão. Fechado!'",
+          "feedback": "❌ Você voltou a 'dividir a diferença' e fez uma concessão irracional. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'O que é justo para você agora, Carlos?'",
+          "feedback": "⚠️ O 'O que é justo?' é para a fase de extração de informação, não para a concessão final, que deve ser assertiva, mas empática. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "O Poder da Equidade e da Justiça",
+      "narrative": "Carlos suspira: 'Sim, parece que é a sua última mudança. Eu ainda não acho que é justo, mas vou assinar. Eu só espero que você saiba que **eu não estou feliz.**' Ele está expressando um sentimento final de injustiça que pode levar à sabotagem na execução. **Qual é sua rotulagem para desarmar a frustração final?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Rotule a situação: 'Parece que, embora você concorde com o preço, você sente que não está recebendo a **equidade** que merece de um parceiro de longa data.'",
+          "feedback": "✅ Perfeito. Você rotulou o sentimento de injustiça (equidade) de forma não acusatória. Isso desarma a frustração e abre caminho para ele se sentir ouvido. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Eu sei que você não está feliz. Eu também não estou, mas temos que ser justos.'",
+          "feedback": "❌ Você se defendeu ('Eu também não estou') e voltou a usar a palavra 'justo' contra ele. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diga: 'O que mais eu preciso fazer para você se sentir feliz?'",
+          "feedback": "⚠️ Pergunta fraca que implora por uma concessão. 'Felicidade' não é o objetivo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Eu entendo. Assine o contrato, por favor.'",
+          "feedback": "❌ Você ignorou o Cisne Negro da insatisfação. O acordo pode ser sabotado na execução. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O 'Sim' de Proteção: Evitando o 'Sim' de Confirmação",
+      "narrative": "Carlos diz: 'É isso. Equidade. Eu sinto que não temos. O que acontece agora?' Você precisa de um 'Sim' de Comprometimento final, mas com uma ênfase na proteção mútua. **Qual é a pergunta calibrada que busca o 'Sim' de Proteção mútua?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Como podemos garantir que o novo valor gere valor para você e proteja o nosso relacionamento nos próximos 6 meses?'",
+          "feedback": "✅ Excelente. Você usou o 'Como' para forçá-lo a pensar na solução (gerar valor) e na proteção mútua. Ele se sente no controle e responsável pela execução. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você está pronto para desistir de sentir que é injusto?'",
+          "feedback": "❌ Você está fazendo uma pergunta de 'Sim/Não' sobre uma emoção, o que é ineficaz. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Você pode me dar um feedback positivo sobre o nosso relacionamento?'",
+          "feedback": "❌ Você está implorando por validação (Sim de Confirmação). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'Eu prometo que faremos isso funcionar.'",
+          "feedback": "⚠️ Promessas verbais não têm valor sem um mecanismo de execução. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Jogo do Leilão: Negociando Preço",
+      "narrative": "Carlos sugere uma revisão de preço trimestral se o valor não for atingido. Você aceita. O acordo está selado. Ele te pergunta: 'Essa negociação foi muito dura. **O que mais eu poderia ter feito para obter um preço melhor de você?**' Ele está te pedindo a verdade sobre o preço. **Qual é a sua resposta sobre a negociação de preço?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Você poderia ter ancorado mais alto com o seu preço ideal, em vez de 5%, para criar uma margem de manobra maior.'",
+          "feedback": "✅ Honesto e Tático. Você revelou o segredo da ancoragem e do 'dividir a diferença' (não comece com o seu preço real). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você poderia ter gritado mais alto.'",
+          "feedback": "❌ Piada de mau gosto que pode minar o rapport final. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Eu não tinha mais margem. Você tirou o meu máximo.'",
+          "feedback": "⚠️ Você está se defendendo e revelando o seu limite, o que é desnecessário. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "'Você não deveria ter usado a palavra 'justo'.' (Acusação)",
+          "feedback": "❌ Você transformou o momento de aprendizado em uma acusação. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Poder da Equidade e da Justiça",
+      "narrative": "Carlos diz: 'Entendido. Eu só queria ter certeza de que você estava sendo justo. Obrigado pela honestidade.' Ele está usando a palavra 'justo' novamente. Você precisa de uma resposta final que valide a emoção dele sem ceder. **Qual é o seu último resumo empático?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Parece que a sua busca por um preço **justo** é, na verdade, uma busca por um parceiro que o trate com **respeito** e transparência. E isso é o que você encontrou.'",
+          "feedback": "✅ Perfeito. Você validou a busca dele ('justo' = 'respeito') e a redefiniu em termos de parceria e transparência, selando a colaboração. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Eu concordo. A justiça é importante.'",
+          "feedback": "❌ Muito genérico e fraco. Não sela a parceria em um nível emocional. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Eu te prometo que na próxima vez o preço será menor.'",
+          "feedback": "❌ Promessa irracional e desnecessária que pode prejudicar negociações futuras. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'O que mais você precisa de mim para se sentir justo?'",
+          "feedback": "⚠️ Você está se abrindo para uma nova demanda. O acordo já foi fechado. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "O 'Sim' de Proteção: Evitando o 'Sim' de Confirmação",
+      "narrative": "Carlos aceitou o acordo. Você envia o contrato final por e-mail, mas não recebe a assinatura no prazo. Você precisa ligar para ele, começando com um 'Sim' de Proteção. **Qual é a pergunta para iniciar o contato de acompanhamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Carlos, você está me ligando para dizer que há algum problema na cláusula de execução?'",
+          "feedback": "✅ Excelente. Você forçou o 'Não' ('Não, não há problema') e o colocou no controle, ao mesmo tempo em que o lembrava do 'Sim' de Comprometimento (execução). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você está pronto para assinar o contrato?'",
+          "feedback": "❌ Pergunta de 'Sim/Não' que pressiona e pode levar ao 'Sim' falso. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Por que você não assinou o contrato?'",
+          "feedback": "❌ O 'Por que' é acusatório e o fará se fechar. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'Eu sinto que você não confia em mim.'",
+          "feedback": "⚠️ Você está focando em seus próprios sentimentos e usando a tática de culpa. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Jogo do Leilão: Negociando Preço",
+      "narrative": "Carlos diz: 'Não, não há problema. O contrato está na mesa do meu chefe. Você precisa falar com ele. Ele está travando o aumento de 13%.' Você está sendo passado para a pessoa com a autoridade real. Você precisa ancorar o preço para o chefe dele. **Qual é a sua melhor rotulagem/pergunta sobre o novo preço para o Carlos?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Parece que o seu chefe está preocupado que o aumento de **12.985,42** % prejudique o orçamento e ele precisa de uma forma de justificar o custo.'",
+          "feedback": "✅ Perfeito. Você usou o número ímpar (precisão) para ancorar o valor na mente de Carlos (que o transmitirá) e rotulou a preocupação do chefe (justificativa). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'O preço de 13% está fechado. Não há negociação.'",
+          "feedback": "❌ Você ignorou a nova autoridade (chefe) e a chance de ancorar o preço. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Ele não está sendo justo. Diga a ele que eu sou um parceiro leal.'",
+          "feedback": "❌ Você usou a palavra 'justo' defensivamente e delegou uma tarefa emocional para Carlos. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'Eu posso dar um desconto de 5% para o seu chefe. Diga a ele isso.'",
+          "feedback": "⚠️ Você fez uma concessão imediata sem interagir com a nova autoridade ou extrair informações. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Poder da Equidade e da Justiça",
+      "narrative": "Você liga para o chefe de Carlos, que te diz: 'Eu entendo o seu aumento, mas **o nosso limite é 10%. Tudo acima disso não é justo para a minha empresa**.' Ele está usando a palavra 'justo' como um ultimato. **Qual é sua melhor resposta calibrada?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Parece que você está preocupado com o **precedente** que um aumento de 13% estabeleceria, e que ele não seria justo para os seus acionistas. Como podemos garantir que eles se sintam seguros com este acordo?'",
+          "feedback": "✅ Excelente. Você rotulou o Cisne Negro ('precedente'/acionistas) e usou o 'Como' para transferir o fardo da solução para ele, focando na segurança dos acionistas (a perda real). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "'Você está sendo injusto. Meu custo real subiu mais do que isso.'",
+          "feedback": "❌ Você se defendeu e usou a palavra 'injusto' de forma confrontadora. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Eu entendo. Vamos dividir a diferença em 11.5%.'",
+          "feedback": "❌ Você aceitou 'dividir a diferença' e ignorou a emoção mais poderosa (justiça). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'O que é justo para você, exatamente?'",
+          "feedback": "⚠️ Esta pergunta é muito aberta. É melhor rotular o medo primeiro. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O 'Sim' de Proteção: Evitando o 'Sim' de Confirmação",
+      "narrative": "O chefe cede no preço, mas insiste: 'Eu aceito 13%, mas precisamos de um contrato de 5 anos para garantir que eu não seja injustiçado novamente.' O Cisne Negro é o contrato de longo prazo. Você precisa de 3 anos. **Qual é a pergunta calibrada final que força o 'Não' ao limite, para obter o 'Sim' real?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Parece que 5 anos é o único caminho para você se sentir seguro. **Você está me dizendo que não há nada que eu possa fazer em 3 anos para que você se sinta protegido?**'",
+          "feedback": "✅ Finalização Mestra. Você rotulou a motivação ('seguro') e forçou o 'Não' ('não há nada?') no limite (3 anos). Isso o força a negar que 3 anos é impossível, abrindo o caminho para um acordo de 3 anos. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Eu não posso fazer 5 anos. O máximo é 3. Pegue ou largue.'",
+          "feedback": "❌ Você usou um ultimato no momento final. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "'Você está feliz com 5 anos?'",
+          "feedback": "❌ Pergunta de 'Sim/Não' que não testa a objeção real. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "'Eu aceito 4 anos, mas você tem que me dar um bônus.'",
+          "feedback": "⚠️ Você fez uma concessão irracional (4 anos) sem extrair a razão subjacente. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 5,
+  "title": "📈 Simulação: A Última Chamada para o Acordo 'MegaCorp'",
+  "introduction": "Você está no último dia do trimestre e precisa fechar um negócio crucial com a *MegaCorp*. Seu contato, Lucas, é entusiasta e diz 'Sim' a tudo, mas não tem autoridade para assinar. Seu prazo de fechar HOJE está se esgotando (escassez). Você precisa descobrir o verdadeiro decisor, usar o Loop de Empatia para forçar a ação e aplicar as táticas de forma universal para obter o 'Sim' final. Prepare-se para 12 decisões críticas que testarão sua capacidade de persistência e persuasão.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "O Poder da Persuasão: O 'Sim' de Autoridade",
+      "narrative": "Você envia o contrato para Lucas. Ele responde com um 'Sim' entusiasmado e rápido: '✅ Está tudo certo para mim! Vamos em frente!' No entanto, ele não assina o documento, mas o envia para 'revisão interna'. Você suspeita que ele é um 'Não-Decisor'. **Qual é a sua melhor pergunta calibrada para expor o Decisor real de forma não confrontacional?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Como garantiremos que sua equipe de finanças e o CEO estejam 100% a bordo com esta solução?",
+          "feedback": "✅ Perfeito. O 'Como' força Lucas a considerar a logística de execução e revela a autoridade real (CEO/Finanças), sem confrontá-lo diretamente. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Lucas, você está me dizendo que não tem autoridade para assinar este documento?",
+          "feedback": "❌ Confrontacional. Esta pergunta de 'Sim/Não' ataca a competência dele, o que o fará se fechar ou mentir para salvar a aparência. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Você concorda que precisamos da aprovação do seu chefe?",
+          "feedback": "⚠️ Você foca no decisor, mas usa uma pergunta de 'Sim/Não' (Confirmação). É melhor forçá-lo a falar sobre o processo de execução. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O que acontece se o CEO não gostar da proposta amanhã?",
+          "feedback": "⚠️ O 'O Quê' é bom e usa aversão à perda, mas não foca em descobrir o Decisor, e sim na consequência. É uma tática de acompanhamento forte. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Poder da Escassez e da Urgência",
+      "narrative": "Lucas te apresenta a Decisora: Dra. Helena. A Dra. Helena está no meio de outra reunião e te diz que só pode falar por 5 minutos. Você sabe que o preço especial que você ofereceu expira no final do dia (escassez real). **Qual é a sua pergunta calibrada para motivar a ação imediata, usando a escassez de forma ética?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dra. Helena, o que acontece se não conseguirmos fechar este acordo até o final do dia de hoje?",
+          "feedback": "✅ Excelente. Você forçou a Dra. Helena a considerar o custo da inação ('O que acontece se...'), focando na perda do prazo e motivando a urgência sem a ameaça direta do desconto. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Se a senhora não fechar até o final do dia, a senhora perderá o desconto de 15%.",
+          "feedback": "❌ Você ameaçou com a perda de forma direta e confrontacional. Isso pode quebrar o rapport e ser percebido como manipulação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "A senhora está muito ocupada agora. Devo ligar amanhã?",
+          "feedback": "⚠️ Você ofereceu o 'Sim' de proteção, mas não usou a urgência real do prazo. Você perde a oportunidade de motivar a ação HOJE. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Dra. Helena, parece que você está sob muita pressão para resolver isso. É isso?",
+          "feedback": "⚠️ Rotulagem boa (empatia), mas não usa a urgência do prazo. Você a desarma, mas não a motiva a resolver o problema *hoje*. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "O Poder da Repetição e da Persistência",
+      "narrative": "Dra. Helena responde: 'Se não fecharmos, teremos que revisar o orçamento, o que vai levar semanas, e isso me deixa muito **resistente**.' Você precisa usar o 'Loop de Empatia' para desarmar a resistência dela e fazê-la focar na solução. **Qual é a sua sequência de Persistência (Rotulagem + Espelhamento) para extrair o Cisne Negro por trás da resistência?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Com a 'Voz de Locutor de Rádio': 'Parece que você está frustrada com a perspectiva de um atraso de semanas. 'Atraso de semanas?' (Espere o silêncio para a resposta dela).",
+          "feedback": "✅ Perfeito. Você usou a calma (Voz de Locutor), rotulou a emoção principal ('frustrada') e usou o espelhamento para encorajá-la a elaborar sobre a causa da frustração. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Por que você está sendo tão resistente com o prazo? (Aguarde a resposta dela).",
+          "feedback": "❌ O 'Por que' é acusatório e pode colocar a Dra. Helena na defensiva, fazendo-a justificar a resistência, em vez de superá-la. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Eu entendo. Você pode me dizer qual é o seu preço final?",
+          "feedback": "⚠️ Você foca no conteúdo (preço) e não na emoção/obstáculo (resistência/atraso). Você está resolvendo o problema errado. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Atraso de semanas? (Espere o silêncio). Parece que a logística de revisar o orçamento te incomoda.",
+          "feedback": "⚠️ Você usou Empatia Tática (Espelhamento e Rotulagem), mas a rotulagem de 'logística' é menos potente do que a 'frustração' ou a 'resistência' que ela expressou. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Plano de Ação: Negociando a Vida",
+      "narrative": "Dra. Helena cede: 'Não é frustração, é apenas o fato de que nosso fornecedor atual é o 'favorito' da minha equipe, e eu não quero uma briga interna. O Cisne Negro é a briga de equipe.' Ela te deu a verdade (um obstáculo interno/pessoal). **Qual é a sua pergunta calibrada para a solução interna, transferindo o fardo para ela?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Como podemos usar este novo acordo para ajudar você a parecer o herói da sua equipe, eliminando a briga interna?",
+          "feedback": "✅ Perfeito. Você transferiu o fardo da solução para ela (o 'Como') e enquadrou a proposta em termos de 'ganho social' (parecer o herói) e 'eliminar a perda' (briga), focando no Cisne Negro. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Você não deveria se importar com o que sua equipe pensa. Você é a Decisora.",
+          "feedback": "❌ Ataca a motivação interna dela. Ignora o princípio de que negociação é um ato de descoberta e de gestão de emoções. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Parece que você precisa de uma forma de proteger sua reputação interna com sua equipe. O que você acha?",
+          "feedback": "⚠️ Rotulagem boa, mas 'Como podemos resolver isso *juntos*?' é mais poderoso do que apenas 'O que você acha?', pois transfere a responsabilidade da solução. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "O que eu preciso fazer para fechar agora?",
+          "feedback": "⚠️ Pergunta fraca, que implora por concessão, e não foca no Cisne Negro interno. Você perde a oportunidade de criar valor. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "O Poder da Persuasão: O 'Sim' de Autoridade",
+      "narrative": "Dra. Helena diz que precisa de 3% a mais de desconto para 'vender' a ideia para a equipe. Você sabe que seu limite é 2%. Ela é a Decisora. **Qual é a sua melhor resposta para um Decisor que está negociando *contra* a própria equipe?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Rotule a pressão: 'Parece que você está sob pressão da sua equipe para conseguir um desconto, e isso te faz sentir que você está perdendo controle.'",
+          "feedback": "✅ Perfeito. Rotule o Cisne Negro interno (pressão da equipe/perda de controle). Isso valida a dor dela e a move para uma solução colaborativa. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Eu não posso dar 3%. Meu limite é 2%. Aceite ou largue.'",
+          "feedback": "❌ Ultimatums não funcionam com decisores que já se abriram. Você perde o rapport e o controle. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diga: 'Eu entendo. Eu te dou 3%. Fechado!'",
+          "feedback": "⚠️ Você cedeu no seu limite sem extrair valor em troca (como um contrato de longo prazo ou um testemunho). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Quem na sua equipe está te dando mais trabalho? Eu ligo para ele.'",
+          "feedback": "❌ Você ignorou o papel dela como decisora e tentou pular etapas. Ela está tentando ser a heroína. Não a anule. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O Poder da Escassez e da Urgência",
+      "narrative": "Dra. Helena te deu a informação: 'Sim, é a pressão. Eles estão acostumados com o fornecedor antigo.' Você oferece os 2% e ela aceita, mas diz: 'Eu preciso do contrato assinado em 30 minutos, ou ele vai para o chefe da Divisão de Vendas, e o desconto de 2% será perdido.' O prazo é artificialmente apertado (urgência). **Qual é sua resposta calibrada para desarmar o prazo sem perdê-lo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Rotule a pressão: 'Parece que há uma restrição de tempo muito apertada que nos impede de garantir o acordo de 2%. O que acontece se perdermos o prazo de 30 minutos?'",
+          "feedback": "✅ Perfeito. Você rotulou a restrição de tempo e usou o 'O Quê' para forçá-la a considerar a perda real (o acordo). Isso a faz gerenciar a urgência. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Eu te dou 4% se você assinar em 10 minutos.'",
+          "feedback": "❌ Você aumentou a concessão sob pressão. Isso ensina o oponente a usar a urgência contra você. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diga: 'Eu entendo. Por que o chefe de Vendas está envolvido nisso?'",
+          "feedback": "⚠️ O 'Por que' é acusatório. Você está desviando a atenção do problema principal (o prazo). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Eu não posso assinar em 30 minutos. O máximo é 1 hora.'",
+          "feedback": "❌ Você está dizendo 'Não' de forma direta a um Decisor sob pressão. Isso pode quebrar a negociação. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Poder da Repetição e da Persistência",
+      "narrative": "Dra. Helena recua: 'Nada acontece, mas o processo atrasa e me irrita. Eu só quero o acordo finalizado.' Ela está cansada e irritada com a repetição. Você precisa de um 'Sim' de Proteção final, mas ela está na defensiva. **Qual é o seu melhor movimento para acalmar a irritação dela e garantir o 'Sim' final?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Rotule a emoção: 'Parece que você está ficando irritada com o processo. 'Irritada com o processo?' (Espere a resposta dela para que ela se sinta ouvida).",
+          "feedback": "✅ Perfeito. Você usou o Loop de Empatia (Rotulagem + Espelhamento) para desarmar a emoção, o que é mais eficaz do que qualquer concessão neste momento. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Eu entendo. Para acabar com isso, eu te dou 3% de desconto.'",
+          "feedback": "❌ Concessão desnecessária e reativa. Você ensina o oponente que a irritação leva a concessões. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diga: 'Você precisa se acalmar para termos uma conversa adulta.'",
+          "feedback": "❌ Acusatório e confrontador. Você ignora o motor da irritação (o processo). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'O que eu preciso fazer para você dizer 'Sim' e assinar agora?'",
+          "feedback": "⚠️ Pergunta fraca, que implora por um 'Sim' de Confirmação. O foco deve ser na emoção. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Plano de Ação: Negociando a Vida",
+      "narrative": "Dra. Helena se acalma e diz: 'Sim, estou irritada com o processo. O que eu realmente preciso é de alguém que seja **parceiro**.' Ela revelou um valor pessoal (Cisne Negro). **Qual é sua pergunta calibrada para fechar o negócio, usando o valor de parceria?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Como podemos estruturar a execução deste contrato para que você se sinta 100% segura de que temos a **parceria** que você espera?",
+          "feedback": "✅ Perfeito. Você usou o 'Como' para focar na solução (execução) e integrou o Cisne Negro ('parceria'). Isso transfere a responsabilidade da solução para ela. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Eu prometo que serei seu parceiro a partir de agora. Pode confiar em mim.",
+          "feedback": "❌ Promessas vazias não têm valor. Você deve usar um mecanismo de ação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Você está me dizendo que o fornecedor anterior não era um bom parceiro?",
+          "feedback": "⚠️ O 'Sim/Não' é fraco e foca no passado, e não no futuro (execução). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Eu entendo o valor da parceria. Você pode me dar mais 1% de aumento?'",
+          "feedback": "❌ Você usou a informação emocional para pedir uma concessão. Isso pode quebrar o rapport. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "O Poder da Persuasão: O 'Sim' de Autoridade",
+      "narrative": "Dra. Helena aceita a estrutura de parceria. Ela está satisfeita, mas precisa de uma cláusula final de 'Break-up Fee' (multa por quebra de contrato) de 10%. Você sabe que seu limite é 5%. Você não quer dizer 'Não'. **Qual é a sua pergunta calibrada que força o Decisor a considerar as restrições da sua empresa?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Como eu posso conseguir 10% de multa por quebra de contrato sem arriscar a minha própria margem de lucro?",
+          "feedback": "✅ Perfeito. O 'Como' força a Decisora a resolver o seu problema (margem) e a justificar a irracionalidade da demanda dela. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Eu não posso fazer 10%. O máximo é 5%.'",
+          "feedback": "❌ 'Não' direto. Você perde a oportunidade de fazê-la negociar contra a própria demanda. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diga: 'O que você faria no meu lugar?'",
+          "feedback": "⚠️ O 'O que você faria' é bom, mas o 'Como eu posso fazer isso' é mais assertivo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Eu aceito 7.5% de multa, para dividirmos a diferença.'",
+          "feedback": "❌ Você voltou a 'dividir a diferença', que é um erro tático. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Poder da Escassez e da Urgência",
+      "narrative": "Dra. Helena propõe 7%. Você aceita. O contrato está pronto para ser assinado, mas ela diz: 'Eu assino, mas o nosso departamento legal só trabalha até às 17h. Se não for assinado em 10 minutos, teremos que fazer uma nova revisão no próximo trimestre.' (Urgência e Escassez). **Qual é a sua melhor resposta para um Decisor que está usando a Escassez?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Rotule a restrição: 'Parece que o prazo do departamento legal é a restrição. O que acontece se o legal não assinar em 10 minutos?' (Espere a resposta para extrair o Cisne Negro).",
+          "feedback": "✅ Perfeito. Você rotulou a restrição para desarmar a pressão e usou o 'O Quê' para forçá-la a considerar o custo da inação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Eu assino agora mesmo. E te dou um bônus por urgência.'",
+          "feedback": "❌ Você fez uma concessão extra desnecessária sob pressão, o que ensina a tática errada. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diga: 'Você está mentindo. O legal não trabalha só até às 17h.'",
+          "feedback": "❌ Você acusou a Decisora. Isso destrói o rapport e a negociação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Eu entendo. Eu ligo para o departamento legal para resolver isso.'",
+          "feedback": "⚠️ Você assumiu a responsabilidade pela logística interna dela, o que não é seu trabalho. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Poder da Repetição e da Persistência",
+      "narrative": "A Decisora diz: 'Nada acontece, exceto que perdemos o processo deste trimestre, e eu fico irritada.' (A mesma resistência de antes). Você precisa de um último 'Não' para garantir o comprometimento. **Qual é a sua pergunta que força o 'Não' mais importante?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diga: 'Você está me dizendo que não há nada que a impeça de assinar este contrato agora, sem esperar o legal?'",
+          "feedback": "✅ Perfeito. Você forçou o 'Não' ('Não, não há nada'). Isso garante que o 'Sim' final seja um comprometimento real, sem objeções ocultas. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Você está pronta para assinar o contrato agora?'",
+          "feedback": "❌ Pergunta de 'Sim/Não' fraca, que não testa a resistência. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diga: 'Eu não aceito mais nenhum obstáculo.'",
+          "feedback": "❌ Você usou um ultimato. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Como eu posso te dar o que você precisa para assinar?'",
+          "feedback": "⚠️ O 'Como' é bom, mas o 'Não' forçado é mais decisivo no momento final. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Plano de Ação: Negociando a Vida",
+      "narrative": "Dra. Helena assina o contrato. Sucesso! 🎉 No entanto, a Decisora te envia um e-mail horas depois: 'Eu ainda não estou totalmente segura com o 7%. E se a sua solução **não for usada** internamente?' Ela está revelando o seu Cisne Negro final (adoção interna). **Qual é sua resposta para a última preocupação da Decisora (Negociando a Vida)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Rotule o medo: 'Parece que a sua maior preocupação agora é que a falha na **adoção interna** anule o valor do nosso acordo. Como podemos garantir que a sua equipe use isso 100%?'",
+          "feedback": "✅ Perfeito. Você rotulou o medo (Cisne Negro) e usou o 'Como' para transferir o fardo da solução para ela, garantindo o 'Sim' de Comprometimento na execução. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Eu prometo que faremos o treinamento. Não se preocupe.'",
+          "feedback": "❌ Promessas vazias não têm valor. Você precisa de um plano de ação (Como). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diga: 'Isso é o seu problema, Dra. Helena. Eu já fechei o acordo.'",
+          "feedback": "❌ Você rejeitou o fardo transferido e o Cisne Negro, o que garante a sabotagem na execução. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diga: 'Eu entendo. Eu te dou 6% se você garantir a adoção.'",
+          "feedback": "⚠️ Você fez uma concessão (1%) para um acordo já fechado. Isso ensina a tática errada. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}
+]

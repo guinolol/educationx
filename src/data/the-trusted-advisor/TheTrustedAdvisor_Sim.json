@@ -1,0 +1,1835 @@
+[
+{
+  "simulationId": 1,
+  "title": "🤝 Simulação: Construindo Confiança na Reunião de Descoberta",
+  "introduction": "Você é um consultor sendo avaliado por um cliente potencial, a CEO de uma grande startup de tecnologia, Ana. O projeto é de alto risco e o prazo é apertado. Você tem a expertise (Credibilidade), mas nunca trabalhou com Ana antes. Esta primeira reunião definirá se você se torna um 'Consultor de Confiança' ou permanece um 'Fornecedor Transacional'. Prepare-se para tomar 12 decisões críticas que afetarão sua **Credibilidade (C)**, **Confiabilidade (R)**, **Intimidade (I)** e, principalmente, sua **Orientação Própria (S)**.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "A Equação da Confiança: C + R + I / S",
+      "narrative": "⏱️ Você entra na sala de reunião. Ana está apressada, dizendo: 'Temos 30 minutos. Qual é a sua proposta? Seja direto.' Você sente o impulso de começar a vender seu serviço imediatamente. **Como você demonstra uma baixa Orientação Própria (S) logo no início?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Começa a apresentar um deck de slides detalhando seus 5 maiores casos de sucesso e suas credenciais.",
+          "feedback": "⚠️ Foco excessivo no 'Eu'. Você está priorizando a sua Credibilidade (C) e vendendo, o que aumenta a percepção de Orientação Própria (S). Você perde o controle da narrativa. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Ignora a pressão e diz: 'Em vez de uma proposta, prefiro focar em uma pergunta: Qual é o **maior impacto** que este problema está causando em seus objetivos de longo prazo?'",
+          "feedback": "✅ Perfeito. Você transforma a conversa de 'Eu vs. Ela' para 'Nós vs. Problema'. Você reduz a Orientação Própria (S) imediatamente e foca no Processo de Confiança: Engajar/Ouvir. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Entendo. Meu preço é X. Se estiver de acordo, posso detalhar o escopo.'",
+          "feedback": "❌ Um foco tão rápido no lucro e preço eleva dramaticamente sua Orientação Própria (S). Isso comunica que você se importa mais com a transação do que com o cliente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Não se preocupe, eu já resolvi isso para outros clientes. Tenho a solução na ponta da língua.'",
+          "feedback": "⚠️ Você tenta aumentar a Credibilidade (C), mas está sendo arrogante, o que se manifesta como alta Orientação Própria (S). Você não ouviu o problema DELA ainda. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Credibilidade: A Percepção de Expertise",
+      "narrative": "🎯 Ana está impressionada com sua pergunta anterior e começa a explicar o problema. Ela menciona um 'desafio de integração de dados' que você já enfrentou antes. Você tem uma solução imediata. Você quer aumentar sua Credibilidade (C). **O que você faz?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Interrompe Ana e apresenta a solução: 'Eu sei exatamente o que você precisa! É o módulo X que resolve isso.'",
+          "feedback": "❌ Você interrompe e pula o Processo de Confiança. Isso demonstra alta Orientação Própria (S). Você sacrificou a Intimidade (I) e a escuta para uma Credibilidade (C) arrogante. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Deixa Ana terminar de falar, e depois faz uma pergunta perspicaz: 'O desafio da integração é um risco conhecido. Qual é o plano de contingência se a solução falhar na **fase crítica de migração**, dado o prazo apertado?'",
+          "feedback": "✅ Excelente! Você demonstra que entende o contexto (Credibilidade C), mas o faz através de uma pergunta que foca no risco DELA. Você é um 'Pensador, não um Repetidor'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunta: 'Qual é o nome do seu diretor de TI? Eu já trabalhei com ele em outro projeto similar.'",
+          "feedback": "⚠️ Você está tentando usar a Reputação como atalho para Credibilidade (C). É válido, mas menos impactante do que um *insight* genuíno sobre o problema. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Sim, eu tenho 20 anos de experiência nisso. Confie em mim.'",
+          "feedback": "⚠️ Credibilidade (C) é boa, mas 'Confie em mim' não é a melhor abordagem. É melhor que sua expertise seja demonstrada (percepção) do que apenas declarada (S alto). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "O Processo de Confiança: Engajar e Ouvir",
+      "narrative": "😫 Ana compartilha que o principal medo é que a solução atrase o lançamento do produto principal. Ela está visivelmente tensa e confidencia: 'Se isso falhar, posso perder meu emprego.' Você precisa agora Ouvir com Empatia para construir a Intimidade (I). **Qual é a sua resposta?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Afirma: 'Sei como você se sente. Tive um cliente que teve o mesmo medo, mas resolvemos. Vou garantir que não falhemos.'",
+          "feedback": "⚠️ Você está tentando 'resolver' a emoção com uma promessa, o que pode parecer artificial. A fase de Escuta exige que você valide a EMOÇÃO, não apenas o problema. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Fica em silêncio por alguns segundos, e depois diz: 'Parece que você está sentindo uma pressão imensa e um risco pessoal considerável. **É o fator 'perda de emprego' que mais te preocupa no momento?**'",
+          "feedback": "✅ Perfeito! Você usa o Silêncio (ferramenta de Escuta), valida a emoção (Empatia) e direciona o foco para o risco pessoal, construindo Intimidade (I). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Muda de assunto para aliviar a tensão: 'Bom, vamos focar nos fatos. Que tal falarmos do orçamento?'",
+          "feedback": "❌ Você pulou a Intimidade (I). Evitar a emoção faz Ana se sentir ignorada, percebendo uma frieza que aumenta o S. Você perde a oportunidade de criar segurança emocional. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Quais são as especificações técnicas da sua infraestrutura? Isso vai me ajudar a determinar o custo.'",
+          "feedback": "⚠️ Você voltou ao Conteúdo (C) ignorando a Condição (I). O foco no técnico é um desvio que comunica que você está em busca de dados, não de confiança. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Confiabilidade: A Consistência da Ação",
+      "narrative": "📅 Ana se acalma depois de sua empatia e volta à questão do prazo. Ela pergunta: 'Se fecharmos hoje, você pode garantir que o primeiro entregável, o *Plano de Implantação Detalhado*, estará em minhas mãos até o final da próxima semana (7 dias)?' Você sabe que é *apertado*. Você quer maximizar a Confiabilidade (R). **O que você responde?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Promete: 'Absolutamente! Garantido. Você terá o plano de implantação completo na sexta-feira.'",
+          "feedback": "❌ Superpromessa. Isso aumenta a expectativa no curto prazo (C), mas sabendo que é apertado, você corre o risco de falhar na entrega, o que destrói a Confiabilidade (R) no longo prazo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Responde: 'O prazo é agressivo. Para maximizar a Confiabilidade, farei o seguinte: 'Prometo entregar uma **Minuta do Plano** na sexta-feira e o **Plano Completo e Revisado** na segunda-feira seguinte.'",
+          "feedback": "✅ Excelente. Você 'Promete Menos e Entrega Mais' (Underpromise and Overdeliver). Você gerencia proativamente a expectativa (R) e demonstra controle do processo (S baixo). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Não posso prometer nada agora. Temos que fechar o contrato primeiro e ver a agenda da minha equipe.'",
+          "feedback": "⚠️ Você é transparente, mas muito vago. Você não estabelece nenhum ponto de referência de Confiabilidade (R), forçando Ana a esperar e aumentar sua ansiedade. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Só posso entregar se você me garantir que não haverá mudanças no escopo pelos próximos 30 dias.'",
+          "feedback": "⚠️ Condicional. Embora seja uma preocupação legítima, a Confiabilidade (R) deve ser incondicional. Você se concentra em SE proteger (S alto). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "A Equação da Confiança: C + R + I / S",
+      "narrative": "💰 Ana pergunta sobre o custo. Ela diz: 'Seus concorrentes são 15% mais baratos. Por que deveríamos pagar o seu preço?' Você sabe que seu valor é maior, mas ela está focada apenas no preço. **Qual é a sua melhor resposta?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Reage: 'Isso é um erro! Somos os melhores do mercado, não dá para comparar. Nossos concorrentes não têm minha expertise!'",
+          "feedback": "❌ Você fica defensivo, elevando sua Orientação Própria (S) e transformando a conversa em uma disputa de ego. O foco voltou para o 'Eu'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Sim, concordo que há propostas mais baratas. Mas você se sentiria segura em confiar em um preço baixo para um problema que pode custar seu cargo? Meu valor se baseia na minha Confiabilidade (R) e na minha **responsabilidade** pelo seu risco.'",
+          "feedback": "✅ Perfeito. Você alinha o preço à Orientação Própria baixa (S): o custo é a proteção contra o risco DELA. Você transforma o preço de um custo para um seguro. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Concede: 'Posso fazer 5% de desconto, mas só se fecharmos hoje.'",
+          "feedback": "⚠️ Você foca na transação (S alto) e perde a oportunidade de educar sobre seu valor (C). Você cede sem um real compromisso do cliente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Minha Credibilidade (C) no mercado justifica. Tenho doutorado e 20 anos de experiência. O que mais você precisa?'",
+          "feedback": "⚠️ Você usa a Credibilidade (C), mas de forma arrogante, o que se manifesta como S alto. O foco ainda está em 'o que eu sei', não 'o que você precisa'. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O Processo de Confiança: Engajar e Ouvir",
+      "narrative": "🧠 Você usou o Enquadramento (Framing) para resumir o problema: 'Entendo. O problema não é técnico, é estratégico: o risco de atraso (Risco) e a pressão pessoal (Intimidade) são os maiores desafios.' Ana acena. Agora, você precisa da fase de Imaginar (Envision). **Qual a melhor forma de apresentar a solução?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Apresenta um plano de 50 etapas que você usou em seu último projeto, dizendo que é 'o padrão ouro'.",
+          "feedback": "⚠️ Você foca no seu 'Padrão' (S alto) em vez da necessidade DELA. O plano é rígido e não colaborativo. Você não co-cria. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Podemos co-criar um roteiro. Imagine que em 6 semanas, seu projeto está funcionando perfeitamente. Qual seria a primeira coisa que você faria para comemorar? Vamos trabalhar de trás para frente.'",
+          "feedback": "✅ Perfeito! Você faz Ana 'Imaginar' (Envision) o futuro, o que a leva a apoiar a solução (as pessoas apoiam o que ajudam a criar). É colaborativo e de S baixo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu dou a você 3 opções de solução: A (completa), B (média) e C (básica). Qual você prefere?'",
+          "feedback": "⚠️ Você está delegando a decisão em vez de aconselhar. Isso pode parecer bom, mas o cliente espera que você use sua Credibilidade (C) para recomendar. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'O plano é muito complexo para você entender agora. Eu cuido de tudo.'",
+          "feedback": "❌ Arrogância. Você está aumentando sua Credibilidade (C) de forma tóxica. Você exclui Ana do processo, aumentando dramaticamente a Orientação Própria (S). (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Credibilidade: A Percepção de Expertise",
+      "narrative": "💡 Ana está hesitante sobre um ponto técnico específico. Ela acredita que um concorrente tem uma tecnologia mais avançada. Você sabe que a tecnologia dele é um 'truque' que pode falhar em um mês. **Você precisa 'Falar a Verdade ao Poder' para aumentar sua Credibilidade (C).**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Seu concorrente está errado. A tecnologia dele é inútil e vai falhar. Nossa tecnologia é a única correta.'",
+          "feedback": "⚠️ Você fala a verdade, mas de forma agressiva. Você ataca a ideia de Ana, arriscando o relacionamento (Intimidade) e parecendo ter S alto. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Compreendo a atração pela tecnologia X. **Qual é o *pior cenário* se ela falhar em 6 meses?** Gosto da transparência: no meu campo, a simplicidade e a estabilidade superam o marketing arrojado a longo prazo.'",
+          "feedback": "✅ Perfeito! Você não ataca, mas desafia a suposição com uma pergunta perspicaz (Credibilidade C) e honestidade sobre suas limitações (Transparência/S baixo). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Tudo bem, vamos usar a tecnologia do seu concorrente, se for mais barato.'",
+          "feedback": "❌ Você se torna um 'sim-man'. Você sacrifica sua Credibilidade (C) para evitar o conflito. O cliente não sentirá que você o está aconselhando. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Muda de assunto para evitar o confronto. 'Vamos falar de outra coisa!'",
+          "feedback": "⚠️ O Consultor de Confiança não evita. Você perde uma chance de demonstrar Coragem Intelectual (C). A Credibilidade (C) exige que você se posicione. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Confiabilidade: A Consistência da Ação",
+      "narrative": "✉️ O tempo de reunião acabou. Ana tem uma boa impressão, mas o contrato não está fechado. Ela diz: 'Vou pensar. Você pode me enviar um e-mail de acompanhamento com um resumo da nossa conversa na sexta-feira?' Hoje é quinta-feira. **Como você usa esta oportunidade para construir Confiabilidade (R)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Claro, enviarei a você. Vou incluir também um e-mail com a prova social de 3 clientes de alto perfil. Aguarde na sexta-feira.'",
+          "feedback": "⚠️ Você está misturando a Confiabilidade (R) com a Credibilidade (C) e Superprometendo (incluir a prova social). O foco deve ser na entrega *consistente* da promessa. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Sim. Em vez de na sexta-feira, garanto que o e-mail de resumo chegará **amanhã de manhã (sexta-feira), às 9h** (hora dela). Ele incluirá o resumo e os próximos passos claros.'",
+          "feedback": "✅ Excelente! Você define uma expectativa precisa (R: previsibilidade), prometendo 'entregar mais cedo' e focando na **ação** (Próximos Passos - Compromisso). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Vou enviar quando puder. Minha agenda está lotada.'",
+          "feedback": "❌ Falta de Respeito pelo tempo do cliente, minando a Confiabilidade (R). Isso comunica S alto: o tempo dela é menos importante que o seu. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Apenas diz: 'Tudo bem, sexta-feira.' e não anota. Você está confiante de que se lembrará.",
+          "feedback": "⚠️ Você é descuidado com a promessa (R). A falta de Organização Interna pode levar à falha na entrega, mesmo que por um pequeno atraso. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "A Equação da Confiança: C + R + I / S",
+      "narrative": "O resumo que você enviou estava perfeito (R e C altos). Ana te responde: 'Recebi seu e-mail às 9h, ótimo. Eu só queria confirmar: **você está mais motivado por este ser um caso de alto perfil para o seu portfólio, ou por realmente resolvermos o nosso problema?**' (Ela está testando seu S).",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Ambos! É um caso de alto perfil que vai alavancar a minha carreira, mas sou um profissional, e você é minha prioridade.'",
+          "feedback": "⚠️ Você não mente, mas prioriza a Orientação Própria (S) na sua resposta. O foco deve ser 100% no cliente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Seja sincero, claro que a oportunidade é valiosa, mas a satisfação virá apenas em resolver seu problema, sem que você se preocupe com o meu portfólio. Meu foco é na nossa entrega.'",
+          "feedback": "✅ Perfeito! Você reconhece a realidade, mas redireciona o foco para o resultado do cliente (baixa S). Sua Integridade (C) brilha aqui. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Só me importo com o seu problema. Meu portfólio é irrelevante.'",
+          "feedback": "⚠️ Parece falso. Tentar parecer 'santo' pode minar a Credibilidade (C) e gerar desconfiança. É um exagero que parece encenação. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Fica na defensiva: 'Por que a pergunta? Eu sou o Consultor de Confiança!'",
+          "feedback": "❌ Defensividade. Isso valida a suspeita dela de alta Orientação Própria (S). Você perde a chance de gerenciar a percepção. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Processo de Confiança: Engajar e Ouvir",
+      "narrative": "Você fecha o contrato. No primeiro *check-in*, você detecta um erro técnico que Ana cometeu em um documento inicial. É um erro pequeno, mas pode impactar o projeto se não for corrigido. **Como você aborda o erro de Ana?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Avisa a equipe dela por e-mail, sem copiá-la, para protegê-la do constrangimento.",
+          "feedback": "⚠️ Faltou transparência. Corrigir nas 'sombras' aumenta sua Orientação Própria (S). O Consultor de Confiança é direto. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Chama-a e diz: 'Ana, vi este pequeno erro aqui. Gostaria de te mostrar, para que possamos corrigir juntos. **Como isso pode ter acontecido?**' (Incentiva o Engajamento).",
+          "feedback": "✅ Perfeito! Você 'Foca no Problema, não na Pessoa', minimizando a vergonha. Você a convida à colaboração (Engajamento/Intimidade) para entender a causa raiz. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ignora o erro, focando nos próximos passos do projeto.",
+          "feedback": "❌ Você compromete a Confiabilidade (R) ao ignorar um erro. O problema vai piorar. O Consultor de Confiança 'Fala a Verdade ao Poder'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Chama a atenção publicamente: 'Ana, esse erro é inaceitável! Isso afeta minha Credibilidade!'",
+          "feedback": "❌ Alta Orientação Própria (S). Você foca em como o erro afeta VOCÊ e a humilha. Isso destrói a Intimidade (I) e a segurança. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Confiabilidade: A Consistência da Ação",
+      "narrative": "🚧 No meio do projeto, sua equipe encontra um problema inesperado que causará um atraso de 2 dias. Sua equipe quer esperar para ver se consegue recuperar o tempo. **Como você demonstra Confiabilidade (R) neste momento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Não diz nada e espera para ver se recupera o tempo (o cliente não precisa saber).",
+          "feedback": "❌ Você perde o controle da narrativa. Você está 'Escondendo'. O cliente valoriza a Comunicação Proativa, mesmo em tempos ruins. Isso destrói a Confiabilidade (R). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Imediatamente, informa Ana, **compartilha o plano de mitigação** e pergunta como o atraso de 2 dias impacta o cronograma DELA. (Comunicação Proativa).",
+          "feedback": "✅ Perfeito! Você comunica proativamente (R), assume a responsabilidade e, crucialmente, foca no impacto **dela**. Você transforma a crise em um construtor de Confiança. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz a Ana: 'O problema é da sua equipe, não nosso, mas vamos tentar resolver'.",
+          "feedback": "⚠️ Você está se protegendo (S alto). O Consultor de Confiança assume a responsabilidade pelo *problema* e não joga a culpa no cliente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pede desculpas excessivamente, dizendo que sente muito e que a equipe não está à altura. (Minando a Credibilidade C).",
+          "feedback": "⚠️ O excesso de desculpas pode minar sua Credibilidade (C) e parecer uma falta de controle. O foco deve ser na solução e no plano, não na emoção. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Credibilidade: A Percepção de Expertise",
+      "narrative": "⭐ O projeto foi bem-sucedido. Ana o convida para uma reunião final e diz: 'Graças a você, deu tudo certo. Temos um novo projeto, maior. Desta vez, quero que você seja nosso **principal conselheiro estratégico**. Qual é o seu primeiro passo?' **Você precisa demonstrar que se transformou de 'Executor' para 'Pensador Estratégico' (Credibilidade C).**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Oferece um preço mais alto e um contrato de longo prazo para garantir sua posição.",
+          "feedback": "❌ Você volta para a Orientação Própria (S) no momento de pico de confiança. Você perde a chance de consolidar seu status. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Responde: 'Meu primeiro passo é não falar de soluções agora. Quero ouvir. Começaremos com uma revisão estratégica profunda: **Quais são os 3 *grandes problemas* que você nem sequer percebe que tem, Ana?**' (Engajar e Ouvir).",
+          "feedback": "✅ Perfeito. Você assume o papel de 'Conselheiro de Confiança' (C e S baixo). Você foca no Engajamento e Escuta, provando que é um pensador que busca a raiz, não apenas soluções. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Vou enviar uma proposta com um escopo de trabalho detalhado amanhã. Quero provar minha Confiabilidade (R) novamente.'",
+          "feedback": "⚠️ Você está se rebaixando para o status de 'Executor' (R), quando ela te chamou para ser 'Conselheiro' (C). O foco está errado. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu já sei o que precisamos. Eu faria o mesmo que fizemos no último projeto, mas maior.'",
+          "feedback": "⚠️ Você age com uma Credibilidade (C) excessiva, ignorando o contexto (S alto). O Consultor de Confiança começa ouvindo de novo, a cada novo problema. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 2,
+  "title": "💔 Simulação: A Crise Silenciosa de um Cliente",
+  "introduction": "Você está no meio de um projeto de alto valor para um cliente de longa data, Carlos. A execução está lenta e os 'check-ins' dele estão secos e distantes. Você sabe que há uma crise interna, mas ele não está falando. Seu objetivo nesta simulação é quebrar essa barreira de silêncio, construir Intimidade (I) e reduzir o Risco Emocional percebido, sem parecer invasivo ou aumentar sua Orientação Própria (S). Suas decisões definirão se Carlos confia em você com o segredo ou se ele o afasta de vez.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Intimidade: O Risco Emocional",
+      "narrative": "📞 Você liga para Carlos. Ele atende, mas sua voz está baixa. Ele diz: 'Não tenho tempo. Estou apenas ligando para dizer que estou atrasado no envio do nosso documento interno.' Ele está se fechando. **Qual é a sua primeira tentativa para construir Intimidade (I)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Carlos, não se preocupe com o prazo. Eu sei que você está ocupado. Vamos focar nos fatos: quando você pode enviar?'",
+          "feedback": "⚠️ Você focou apenas no prazo (Confiabilidade R). Você está sendo eficiente, mas ignorando a emoção. Isso não constrói Intimidade (I). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Tenta 'Rotular o Risco' e diz: 'Carlos, parece que há mais coisas acontecendo do que apenas um atraso no documento. **Parece que você está sob uma pressão considerável.** Acertei?'",
+          "feedback": "✅ Perfeito! Você valida a emoção (Empatia) e verbaliza o risco, convidando à abertura e aumentando a Intimidade (I). Isso demonstra 'ser um espelho'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu sei o que é pressão. Minha esposa estava me pressionando na semana passada. Vou te contar...' (Tentativa de Vulnerabilidade Controlada).",
+          "feedback": "❌ Sua tentativa de 'Vulnerabilidade Controlada' é sobre você, não sobre ele. Isso eleva sua Orientação Própria (S) e desvia o foco. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Você está bem? Vi alguns e-mails de fora que me preocuparam. Eu sei de algo...' (Tentativa de Fofoca).",
+          "feedback": "❌ Você tenta aumentar a Intimidade (I) com fofoca ou invasão de privacidade (Falha na Discrição). Isso destrói a confiança. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Risco de Aconselhar Prematuramente",
+      "narrative": "🛑 Carlos se abre um pouco. Ele diz: 'Sim, a verdade é que o meu diretor cortou 30% do meu orçamento *ontem* e eu nem sei por onde começar. Eu sinto que preciso resolver isso rápido, ou o projeto afunda.' Você tem a experiência e está tentado a dar um plano de ação imediato. **Como você resiste ao Impulso de Solução?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Eu sei a resposta! Corte o escopo Y. Eu garanto que isso salvará 30%.' (Conselho Prematuro).",
+          "feedback": "❌ Você pulou o diagnóstico. Isso é alto 'S' (precisa mostrar que sabe) e Aconselhamento Prematuro. Você não entende a complexidade do problema. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Usa uma 'pergunta calibrada': 'Carlos, entendo a pressão. Para garantir que estamos resolvendo o problema certo: **Como podemos garantir que o corte de 30% não prejudique a parte *mais crítica* do seu objetivo final?**'",
+          "feedback": "✅ Perfeito! Você usa o Enquadramento e resiste ao conselho. A pergunta profunda de diagnóstico (C/I) força Carlos a co-criar e demonstra Paciência (baixo S). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Não se preocupe com o orçamento. Vou fazer a diferença funcionar no meu preço.' (Assumindo Risco Pessoal).",
+          "feedback": "⚠️ Embora seja um gesto de baixo S, é insustentável (R baixo) e pode parecer uma barganha por Intimidade (I). Não é uma abordagem estratégica. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Fico feliz que você tenha se aberto. Vou pensar em 3 opções de corte. Te ligo em uma hora.'",
+          "feedback": "⚠️ Você ainda está no modo 'solucionador' rápido (S alto). Você não está 'Ouvindo com Empatia' nem diagnosticando, apenas comprando tempo. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Orientação Própria (S): O Destruidor de Confiança",
+      "narrative": "🗣️ Carlos descreve os departamentos que serão afetados pelo corte. Você sabe que, se ele cortar o departamento Z, o seu trabalho (seu lucro) será muito mais fácil. **Qual é a sua atitude em relação à sua Orientação Própria (S)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Sugere sutilmente que ele corte o departamento Z, alegando que 'eles sempre causam problemas'.",
+          "feedback": "❌ Você está usando a crise dele para seu próprio benefício. Isso é alto 'S' (egoísmo) e destrói toda a confiança. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Eu não posso te aconselhar sobre o corte porque afeta diretamente o meu escopo de trabalho. Mas, baseado no seu objetivo estratégico, o corte no setor X parece ter o menor 'Imposto do Tempo' (Time Tax) de longo prazo.' (Assumir o Risco).",
+          "feedback": "✅ Perfeito! Você 'Assume o Risco' ao priorizar o interesse dele, mesmo que seja contra o seu próprio. Você demonstrou 'Generosidade' e baixíssima Orientação Própria (S). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu sou um profissional. Não me importa onde você corta, contanto que meu pagamento seja garantido.'",
+          "feedback": "⚠️ O foco no lucro/garantia (S alto) é inadequado para o momento de crise. Você parece um fornecedor transacional, não um parceiro. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Fica em silêncio. Você não quer se envolver na decisão interna.",
+          "feedback": "⚠️ Você se omite no momento em que ele mais precisa do seu conselho (C/R). O Consultor de Confiança se envolve e não evita o conflito. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Intimidade: O Risco Emocional",
+      "narrative": "O problema de orçamento o leva a confidenciar: 'Eu cometi um erro com o orçamento inicial há 3 meses, e não disse nada ao meu diretor. É por isso que estou sendo punido agora.' Ele está compartilhando um erro e um risco de reputação. **Qual é a sua resposta?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pergunta: 'Por que você não me disse antes? Isso afetou o meu planejamento.' (Foco no 'Eu').",
+          "feedback": "❌ Você foca em como o erro dele afeta VOCÊ. Isso destrói a Intimidade (I) e eleva o 'S' no momento mais vulnerável dele. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Agradeço imensamente sua confiança ao me contar. **Parece que você está carregando esse peso sozinho há meses.** Vamos focar em como podemos proteger sua reputação e corrigir isso *juntos* daqui para frente.'",
+          "feedback": "✅ Perfeito! Você usa o espelhamento ('carregando esse peso') para validar a emoção, o que é a chave para a Intimidade (I). Você garante a proteção da reputação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Compartilha: 'Eu também já errei feio. Perdi um projeto de $50 mil. Não se preocupe, acontece.' (Vulnerabilidade Inadequada).",
+          "feedback": "⚠️ Você usa a 'Vulnerabilidade Controlada', mas a história é excessiva. Você minimiza o problema dele e desvia o foco (S alto). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Seu erro não é técnico. Minha Credibilidade (C) continua alta.'",
+          "feedback": "⚠️ Você foca na sua própria Credibilidade (C), ignorando o risco emocional dele. A falta de empatia impede a Intimidade (I). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "O Risco de Aconselhar Prematuramente",
+      "narrative": "Apesar do clima, Carlos pergunta: 'Qual é o próximo passo? Eu sinto que devíamos *parar* o projeto inteiro até resolver o orçamento.' Você já fez o diagnóstico e sabe que parar será mais caro. **Como você o move para o Compromisso (Commit) sem parecer que está o forçando (S baixo)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Não podemos parar! Se pararmos, o preço sobe 50%. Precisamos continuar.'",
+          "feedback": "❌ Você está usando a ameaça de custo (alto S) e focando na sua própria agenda. Você o força a se comprometer, mas ele não estará engajado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Faz um Enquadramento Colaborativo: 'Carlos, concordo que precisamos de clareza. Mas, o projeto parado é um 'Imposto do Tempo' (Time Tax) que não podemos pagar. Se conseguirmos manter apenas as **3 entregas críticas** para a próxima semana, isso compraria tempo para resolvermos o orçamento sem atraso total. Isso te parece razoável?'",
+          "feedback": "✅ Perfeito! Você usa o 'Time Tax' (Conceito C) e co-cria o próximo passo, pedindo um 'Sim' de Comprometimento que seja fácil (baixo risco). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Tudo bem, vamos parar. Se você quer parar, paramos.'",
+          "feedback": "⚠️ Você se omite da sua função de Consultor de Confiança (C). O cliente espera que você o aconselhe contra a má decisão. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Você está ansioso. Vou fazer uma lista de tarefas para você fazer em sua casa durante o fim de semana.'",
+          "feedback": "⚠️ Conselho Prematuro e invasivo. Você não respeita o tempo dele e ainda age como um gerente de tarefas (S alto). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Orientação Própria (S): O Destruidor de Confiança",
+      "narrative": "🤝 Você está negociando o novo escopo com o corte de 30% e uma cláusula contratual que o protegerá se o projeto falhar devido a questões orçamentárias internas do cliente. Ele se sente desconfortável. **Como você reduz o 'S' e fecha a negociação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Se você confia em mim, não se preocupe com a cláusula. Ela só me protege.'",
+          "feedback": "❌ Você se concentra em SE proteger. A cláusula aumenta a percepção de Orientação Própria (S). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Entendo o desconforto. Lembre-se, meu interesse principal não é o contrato, é o resultado. Vamos fechar a cláusula hoje e, na próxima semana, eu te darei 2 horas extras de consultoria (Generosidade) para planejar o novo orçamento. Eu dou antes de receber.'",
+          "feedback": "✅ Perfeito! Você usa a 'Generosidade' (dar valor antes de receber) como prova de que sua Orientação Própria (S) é baixa, construindo Confiança (R). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Você está sendo difícil. Seu colega sempre fecha contratos rapidamente.'",
+          "feedback": "❌ Você tenta persuadir com pressão e comparação. Isso eleva seu 'S' e destrói o relacionamento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu sou o especialista. A cláusula fica. Se não estiver de acordo, não podemos continuar.'",
+          "feedback": "⚠️ Você usa a Credibilidade (C) para forçar. Isso é alta Orientação Própria (S). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Intimidade: O Risco Emocional",
+      "narrative": "A Intimidade está construída. Carlos começa a lhe contar sobre problemas pessoais que afetam sua concentração, mencionando uma doença na família. **Como você age para manter a Intimidade (I) e o profissionalismo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Você precisa de um tempo. Tire 2 semanas de folga, eu cuido de tudo.' (Conselho Pessoal Excessivo).",
+          "feedback": "⚠️ Você está invadindo a vida pessoal. O Consultor de Confiança não dá conselhos pessoais invasivos; ele valida a dor e ajuda no contexto de trabalho. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Lamento muito por sua situação. Parece ser incrivelmente difícil. Eu prometo que qualquer informação que você tenha compartilhado aqui fica em segredo absoluto (Discrição). E se precisar de uma pausa na reunião, diga-me.'",
+          "feedback": "✅ Perfeito! Você valida a emoção (Empatia), garante a Discrição (I) e o Risco Emocional (I) é minimizado. Você é 'Presente'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Muda rapidamente para a lista de tarefas. 'Tudo bem, vamos focar no trabalho, para te distrair.'",
+          "feedback": "❌ Você minimiza a dor dele e muda de assunto. Isso destrói a Intimidade (I) e faz com que ele se sinta ignorado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu entendo. Um amigo meu morreu de câncer. Eu sei como é.' (Vulnerabilidade Inadequada).",
+          "feedback": "⚠️ Você usa a 'Vulnerabilidade Controlada' de forma muito emocional e desvia o foco para sua própria dor. Não é profissional nem empático no contexto de negócios. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Risco de Aconselhar Prematuramente",
+      "narrative": "O projeto está reencaminhado. Carlos está mais engajado. Ele pergunta: 'Devo começar a procurar um novo emprego, dado o corte de orçamento?' Você precisa *ouvir* mais antes de dar a resposta dele. **Qual é a pergunta de diagnóstico que evita o conselho prematuro?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Não se preocupe, eu posso te colocar em contato com um recrutador que conheço.' (Conselho Prematuro).",
+          "feedback": "❌ Conselho Prematuro. Você não entende a causa raiz do desejo dele. Você pula o diagnóstico. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Antes de tomarmos uma decisão, me ajude a entender: **O que você vê como o *maior obstáculo* em ficar nesta empresa, além do corte de orçamento?**' (Curiosidade Genuína).",
+          "feedback": "✅ Perfeito! Você demonstra 'Curiosidade Genuína' e faz uma pergunta que busca a causa raiz. Você está 'Comprando Tempo' para o diagnóstico. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunta: 'Se o dinheiro não fosse um problema, você ficaria?'",
+          "feedback": "⚠️ Embora seja uma pergunta de diagnóstico, é muito direta e simplista. O Consultor de Confiança busca a complexidade emocional. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu só posso te aconselhar depois de fechar o contrato do novo projeto.' (S alto).",
+          "feedback": "❌ Você coloca seu interesse financeiro (S alto) na frente do problema dele. Isso destrói a Intimidade (I). (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Orientação Própria (S): O Destruidor de Confiança",
+      "narrative": "Você e Carlos estão em um almoço de negócios. Ele faz um comentário negativo e injusto sobre a equipe de TI dele. Você sabe que a equipe de TI é muito competente, mas ele precisa de um bode expiatório. **Como você lida com a Fofoca para reduzir o 'S' (ego) e manter a Integridade (C)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Concorda com ele para manter a paz: 'Sim, a TI sempre atrasa tudo.' (Alto S/Fingindo Intimidade).",
+          "feedback": "❌ Você concorda com a fofoca (Fingindo Intimidade) para manter a paz, minando sua Integridade (C). Seu 'S' é alto (medo de confrontar). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Carlos, eu entendo que há frustração. Na minha experiência, a equipe de TI deles é tecnicamente sólida. Talvez o problema seja a *comunicação* entre o nosso projeto e eles, não a competência.' (Foco no 'Nós').",
+          "feedback": "✅ Perfeito! Você não ataca Carlos, mas gentilmente 'Fala a Verdade ao Poder' (C), redirecionando a culpa para o processo ('Nós') em vez da pessoa. Isso é baixo 'S'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Não fale mal deles. Isso me faz perder o respeito por você.'",
+          "feedback": "⚠️ Você reage de forma moralista e julgadora. Você eleva sua Orientação Própria (S) e quebra a Intimidade (I). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Você deveria demitir o chefe de TI.' (Conselho Prematuro).",
+          "feedback": "⚠️ Conselho Prematuro e invasivo. Você não tem todos os fatos para sugerir uma demissão. Isso é alto 'S'. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Papel da Empatia e do Risco",
+      "narrative": "Ao final do projeto, Carlos diz: 'Este projeto me ensinou que eu preciso ser mais corajoso e transparente.' Ele está refletindo sobre o Risco Emocional. **Como você valida esta reflexão para solidificar o relacionamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Exatamente! Eu te disse isso desde o início.' (Alto S).",
+          "feedback": "❌ Você torna o momento sobre você ('Eu te disse'). Isso destrói a Intimidade (I) e eleva o 'S'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Usa a Empatia: 'É uma lição difícil, mas valiosa. É preciso uma **coragem imensa** para ser vulnerável e transparente em um ambiente de alto risco. Estou orgulhoso da sua jornada.'",
+          "feedback": "✅ Perfeito! Você valida a 'Coragem' e a 'Vulnerabilidade' (I), e usa a Empatia para focar na conquista **dele**. Você minimiza o Risco de Reputação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Vamos celebrar! Quando podemos começar o próximo projeto?' (Foco na Transação).",
+          "feedback": "⚠️ Você está focando no contrato (S alto) e não no relacionamento. O Consultor de Confiança celebra o *crescimento* do cliente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu sempre sou transparente. Você deveria ter aprendido isso antes.' (Alto S).",
+          "feedback": "❌ Você julga e eleva seu próprio ego (S alto). Isso destrói a confiança. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 2,
+  "title": "💔 Simulação: A Crise Silenciosa de um Cliente",
+  "introduction": "Você está no meio de um projeto de alto valor para um cliente de longa data, Carlos. A execução está lenta e os 'check-ins' dele estão secos e distantes. Você sabe que há uma crise interna, mas ele não está falando. Seu objetivo nesta simulação é quebrar essa barreira de silêncio, construir Intimidade (I) e reduzir o Risco Emocional percebido, sem parecer invasivo ou aumentar sua Orientação Própria (S). Suas decisões definirão se Carlos confia em você com o segredo ou se ele o afasta de vez.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Intimidade: O Risco Emocional",
+      "narrative": "📞 Você liga para Carlos. Ele atende, mas sua voz está baixa. Ele diz: 'Não tenho tempo. Estou apenas ligando para dizer que estou atrasado no envio do nosso documento interno.' Ele está se fechando. **Qual é a sua primeira tentativa para construir Intimidade (I)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Carlos, não se preocupe com o prazo. Eu sei que você está ocupado. Vamos focar nos fatos: quando você pode enviar?'",
+          "feedback": "⚠️ Você focou apenas no prazo (Confiabilidade R). Você está sendo eficiente, mas ignorando a emoção. Isso não constrói Intimidade (I). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Tenta 'Rotular o Risco' e diz: 'Carlos, parece que há mais coisas acontecendo do que apenas um atraso no documento. **Parece que você está sob uma pressão considerável.** Acertei?'",
+          "feedback": "✅ Perfeito! Você valida a emoção (Empatia) e verbaliza o risco, convidando à abertura e aumentando a Intimidade (I). Isso demonstra 'ser um espelho'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu sei o que é pressão. Minha esposa estava me pressionando na semana passada. Vou te contar...' (Tentativa de Vulnerabilidade Controlada).",
+          "feedback": "❌ Sua tentativa de 'Vulnerabilidade Controlada' é sobre você, não sobre ele. Isso eleva sua Orientação Própria (S) e desvia o foco. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Você está bem? Vi alguns e-mails de fora que me preocuparam. Eu sei de algo...' (Tentativa de Fofoca).",
+          "feedback": "❌ Você tenta aumentar a Intimidade (I) com fofoca ou invasão de privacidade (Falha na Discrição). Isso destrói a confiança. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Risco de Aconselhar Prematuramente",
+      "narrative": "🛑 Carlos se abre um pouco. Ele diz: 'Sim, a verdade é que o meu diretor cortou 30% do meu orçamento *ontem* e eu nem sei por onde começar. Eu sinto que preciso resolver isso rápido, ou o projeto afunda.' Você tem a experiência e está tentado a dar um plano de ação imediato. **Como você resiste ao Impulso de Solução?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Eu sei a resposta! Corte o escopo Y. Eu garanto que isso salvará 30%.' (Conselho Prematuro).",
+          "feedback": "❌ Você pulou o diagnóstico. Isso é alto 'S' (precisa mostrar que sabe) e Aconselhamento Prematuro. Você não entende a complexidade do problema. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Usa uma 'pergunta calibrada': 'Carlos, entendo a pressão. Para garantir que estamos resolvendo o problema certo: **Como podemos garantir que o corte de 30% não prejudique a parte *mais crítica* do seu objetivo final?**'",
+          "feedback": "✅ Perfeito! Você usa o Enquadramento e resiste ao conselho. A pergunta profunda de diagnóstico (C/I) força Carlos a co-criar e demonstra Paciência (baixo S). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Não se preocupe com o orçamento. Vou fazer a diferença funcionar no meu preço.' (Assumindo Risco Pessoal).",
+          "feedback": "⚠️ Embora seja um gesto de baixo S, é insustentável (R baixo) e pode parecer uma barganha por Intimidade (I). Não é uma abordagem estratégica. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Fico feliz que você tenha se aberto. Vou pensar em 3 opções de corte. Te ligo em uma hora.'",
+          "feedback": "⚠️ Você ainda está no modo 'solucionador' rápido (S alto). Você não está 'Ouvindo com Empatia' nem diagnosticando, apenas comprando tempo. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Orientação Própria (S): O Destruidor de Confiança",
+      "narrative": "🗣️ Carlos descreve os departamentos que serão afetados pelo corte. Você sabe que, se ele cortar o departamento Z, o seu trabalho (seu lucro) será muito mais fácil. **Qual é a sua atitude em relação à sua Orientação Própria (S)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Sugere sutilmente que ele corte o departamento Z, alegando que 'eles sempre causam problemas'.",
+          "feedback": "❌ Você está usando a crise dele para seu próprio benefício. Isso é alto 'S' (egoísmo) e destrói toda a confiança. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Eu não posso te aconselhar sobre o corte porque afeta diretamente o meu escopo de trabalho. Mas, baseado no seu objetivo estratégico, o corte no setor X parece ter o menor 'Imposto do Tempo' (Time Tax) de longo prazo.' (Assumir o Risco).",
+          "feedback": "✅ Perfeito! Você 'Assume o Risco' ao priorizar o interesse dele, mesmo que seja contra o seu próprio. Você demonstrou 'Generosidade' e baixíssima Orientação Própria (S). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu sou um profissional. Não me importa onde você corta, contanto que meu pagamento seja garantido.'",
+          "feedback": "⚠️ O foco no lucro/garantia (S alto) é inadequado para o momento de crise. Você parece um fornecedor transacional, não um parceiro. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Fica em silêncio. Você não quer se envolver na decisão interna.",
+          "feedback": "⚠️ Você se omite no momento em que ele mais precisa do seu conselho (C/R). O Consultor de Confiança se envolve e não evita o conflito. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Intimidade: O Risco Emocional",
+      "narrative": "O problema de orçamento o leva a confidenciar: 'Eu cometi um erro com o orçamento inicial há 3 meses, e não disse nada ao meu diretor. É por isso que estou sendo punido agora.' Ele está compartilhando um erro e um risco de reputação. **Qual é a sua resposta?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pergunta: 'Por que você não me disse antes? Isso afetou o meu planejamento.' (Foco no 'Eu').",
+          "feedback": "❌ Você foca em como o erro dele afeta VOCÊ. Isso destrói a Intimidade (I) e eleva o 'S' no momento mais vulnerável dele. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Agradeço imensamente sua confiança ao me contar. **Parece que você está carregando esse peso sozinho há meses.** Vamos focar em como podemos proteger sua reputação e corrigir isso *juntos* daqui para frente.'",
+          "feedback": "✅ Perfeito! Você usa o espelhamento ('carregando esse peso') para validar a emoção, o que é a chave para a Intimidade (I). Você garante a proteção da reputação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Compartilha: 'Eu também já errei feio. Perdi um projeto de $50 mil. Não se preocupe, acontece.' (Vulnerabilidade Inadequada).",
+          "feedback": "⚠️ Você usa a 'Vulnerabilidade Controlada', mas a história é excessiva. Você minimiza o problema dele e desvia o foco (S alto). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Seu erro não é técnico. Minha Credibilidade (C) continua alta.'",
+          "feedback": "⚠️ Você foca na sua própria Credibilidade (C), ignorando o risco emocional dele. A falta de empatia impede a Intimidade (I). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "O Risco de Aconselhar Prematuramente",
+      "narrative": "Apesar do clima, Carlos pergunta: 'Qual é o próximo passo? Eu sinto que devíamos *parar* o projeto inteiro até resolver o orçamento.' Você já fez o diagnóstico e sabe que parar será mais caro. **Como você o move para o Compromisso (Commit) sem parecer que está o forçando (S baixo)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Não podemos parar! Se pararmos, o preço sobe 50%. Precisamos continuar.'",
+          "feedback": "❌ Você está usando a ameaça de custo (alto S) e focando na sua própria agenda. Você o força a se comprometer, mas ele não estará engajado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Faz um Enquadramento Colaborativo: 'Carlos, concordo que precisamos de clareza. Mas, o projeto parado é um 'Imposto do Tempo' (Time Tax) que não podemos pagar. Se conseguirmos manter apenas as **3 entregas críticas** para a próxima semana, isso compraria tempo para resolvermos o orçamento sem atraso total. Isso te parece razoável?'",
+          "feedback": "✅ Perfeito! Você usa o 'Time Tax' (Conceito C) e co-cria o próximo passo, pedindo um 'Sim' de Comprometimento que seja fácil (baixo risco). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Tudo bem, vamos parar. Se você quer parar, paramos.'",
+          "feedback": "⚠️ Você se omite da sua função de Consultor de Confiança (C). O cliente espera que você o aconselhe contra a má decisão. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Você está ansioso. Vou fazer uma lista de tarefas para você fazer em sua casa durante o fim de semana.'",
+          "feedback": "⚠️ Conselho Prematuro e invasivo. Você não respeita o tempo dele e ainda age como um gerente de tarefas (S alto). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Orientação Própria (S): O Destruidor de Confiança",
+      "narrative": "🤝 Você está negociando o novo escopo com o corte de 30% e uma cláusula contratual que o protegerá se o projeto falhar devido a questões orçamentárias internas do cliente. Ele se sente desconfortável. **Como você reduz o 'S' e fecha a negociação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Se você confia em mim, não se preocupe com a cláusula. Ela só me protege.'",
+          "feedback": "❌ Você se concentra em SE proteger. A cláusula aumenta a percepção de Orientação Própria (S). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Entendo o desconforto. Lembre-se, meu interesse principal não é o contrato, é o resultado. Vamos fechar a cláusula hoje e, na próxima semana, eu te darei 2 horas extras de consultoria (Generosidade) para planejar o novo orçamento. Eu dou antes de receber.'",
+          "feedback": "✅ Perfeito! Você usa a 'Generosidade' (dar valor antes de receber) como prova de que sua Orientação Própria (S) é baixa, construindo Confiança (R). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Você está sendo difícil. Seu colega sempre fecha contratos rapidamente.'",
+          "feedback": "❌ Você tenta persuadir com pressão e comparação. Isso eleva seu 'S' e destrói o relacionamento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu sou o especialista. A cláusula fica. Se não estiver de acordo, não podemos continuar.'",
+          "feedback": "⚠️ Você usa a Credibilidade (C) para forçar. Isso é alta Orientação Própria (S). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Intimidade: O Risco Emocional",
+      "narrative": "A Intimidade está construída. Carlos começa a lhe contar sobre problemas pessoais que afetam sua concentração, mencionando uma doença na família. **Como você age para manter a Intimidade (I) e o profissionalismo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Você precisa de um tempo. Tire 2 semanas de folga, eu cuido de tudo.' (Conselho Pessoal Excessivo).",
+          "feedback": "⚠️ Você está invadindo a vida pessoal. O Consultor de Confiança não dá conselhos pessoais invasivos; ele valida a dor e ajuda no contexto de trabalho. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Lamento muito por sua situação. Parece ser incrivelmente difícil. Eu prometo que **qualquer informação que você tenha compartilhado aqui fica em segredo absoluto** (Discrição). E se precisar de uma pausa na reunião, diga-me.'",
+          "feedback": "✅ Perfeito! Você valida a emoção (Empatia), garante a Discrição (I) e o Risco Emocional (I) é minimizado. Você é 'Presente'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Muda rapidamente para a lista de tarefas. 'Tudo bem, vamos focar no trabalho, para te distrair.'",
+          "feedback": "❌ Você minimiza a dor dele e muda de assunto. Isso destrói a Intimidade (I) e faz com que ele se sinta ignorado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu entendo. Um amigo meu morreu de câncer. Eu sei como é.' (Vulnerabilidade Inadequada).",
+          "feedback": "⚠️ Você usa a 'Vulnerabilidade Controlada' de forma muito emocional e desvia o foco para sua própria dor. Não é profissional nem empático no contexto de negócios. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Risco de Aconselhar Prematuramente",
+      "narrative": "O projeto está reencaminhado. Carlos está mais engajado. Ele pergunta: 'Devo começar a procurar um novo emprego, dado o corte de orçamento?' Você precisa *ouvir* mais antes de dar a resposta dele. **Qual é a pergunta de diagnóstico que evita o conselho prematuro?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Não se preocupe, eu posso te colocar em contato com um recrutador que conheço.' (Conselho Prematuro).",
+          "feedback": "❌ Conselho Prematuro. Você não entende a causa raiz do desejo dele. Você pula o diagnóstico. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Antes de tomarmos uma decisão, me ajude a entender: **O que você vê como o *maior obstáculo* em ficar nesta empresa, além do corte de orçamento?**' (Curiosidade Genuína).",
+          "feedback": "✅ Perfeito! Você demonstra 'Curiosidade Genuína' e faz uma pergunta que busca a causa raiz. Você está 'Comprando Tempo' para o diagnóstico. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunta: 'Se o dinheiro não fosse um problema, você ficaria?'",
+          "feedback": "⚠️ Embora seja uma pergunta de diagnóstico, é muito direta e simplista. O Consultor de Confiança busca a complexidade emocional. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu só posso te aconselhar depois de fechar o contrato do novo projeto.' (S alto).",
+          "feedback": "❌ Você coloca seu interesse financeiro (S alto) na frente do problema dele. Isso destrói a Intimidade (I). (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Orientação Própria (S): O Destruidor de Confiança",
+      "narrative": "Você e Carlos estão em um almoço de negócios. Ele faz um comentário negativo e injusto sobre a equipe de TI dele. Você sabe que a equipe de TI é muito competente, mas ele precisa de um bode expiatório. **Como você lida com a Fofoca para reduzir o 'S' (ego) e manter a Integridade (C)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Concorda com ele para manter a paz: 'Sim, a TI sempre atrasa tudo.' (Alto S/Fingindo Intimidade).",
+          "feedback": "❌ Você concorda com a fofoca (Fingindo Intimidade) para manter a paz, minando sua Integridade (C). Seu 'S' é alto (medo de confrontar). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Carlos, eu entendo que há frustração. Na minha experiência, a equipe de TI deles é tecnicamente sólida. Talvez o problema seja a *comunicação* entre o nosso projeto e eles, não a competência.' (Foco no 'Nós').",
+          "feedback": "✅ Perfeito! Você não ataca Carlos, mas gentilmente 'Fala a Verdade ao Poder' (C), redirecionando a culpa para o processo ('Nós') em vez da pessoa. Isso é baixo 'S'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Não fale mal deles. Isso me faz perder o respeito por você.'",
+          "feedback": "⚠️ Você reage de forma moralista e julgadora. Você eleva sua Orientação Própria (S) e quebra a Intimidade (I). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Você deveria demitir o chefe de TI.' (Conselho Prematuro).",
+          "feedback": "⚠️ Conselho Prematuro e invasivo. Você não tem todos os fatos para sugerir uma demissão. Isso é alto 'S'. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Papel da Empatia e do Risco",
+      "narrative": "Ao final do projeto, Carlos diz: 'Este projeto me ensinou que eu preciso ser mais corajoso e transparente.' Ele está refletindo sobre o Risco Emocional. **Como você valida esta reflexão para solidificar o relacionamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Exatamente! Eu te disse isso desde o início.' (Alto S).",
+          "feedback": "❌ Você torna o momento sobre você ('Eu te disse'). Isso destrói a Intimidade (I) e eleva o 'S'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Usa a Empatia: 'É uma lição difícil, mas valiosa. É preciso uma **coragem imensa** para ser vulnerável e transparente em um ambiente de alto risco. Estou orgulhoso da sua jornada.'",
+          "feedback": "✅ Perfeito! Você valida a 'Coragem' e a 'Vulnerabilidade' (I), e usa a Empatia para focar na conquista **dele**. Você minimiza o Risco de Reputação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Vamos celebrar! Quando podemos começar o próximo projeto?' (Foco na Transação).",
+          "feedback": "⚠️ Você está focando no contrato (S alto) e não no relacionamento. O Consultor de Confiança celebra o *crescimento* do cliente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu sempre sou transparente. Você deveria ter aprendido isso antes.' (Alto S).",
+          "feedback": "❌ Você julga e eleva seu próprio ego (S alto). Isso destrói a confiança. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Papel da Empatia e do Risco / Intimidade (I)",
+      "narrative": "O projeto foi um sucesso. Carlos lhe envia um e-mail dizendo: 'No início, eu só confiei em você por causa da sua reputação (C), mas o que me fez realmente abrir o jogo foi quando você disse que eu estava sob pressão. Você me fez sentir seguro.' Ele está dando feedback direto sobre a Intimidade. **Como você solidifica esse momento de Risco Emocional e Confiança?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Responde: 'É o que eu faço. O próximo passo é fechar o próximo projeto.' (Foco no S).",
+          "feedback": "❌ Você ignora o elogio de Intimidade e pula para a venda. Isso é alto 'S' (Orientação Própria) e faz com que Carlos se sinta usado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Responde: 'Fico feliz por ter sido um 'cofre' seguro para você. Lembre-se, o maior risco que corremos é não ser transparente. A segurança está na nossa parceria, não no projeto.' (Foco na Discrição e Risco).",
+          "feedback": "✅ Perfeito! Você aceita o elogio (I), mas o redireciona para a segurança e a 'Discrição'. Você reforça que ele pode correr riscos emocionais com você. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Responde: 'É porque eu sou mais experiente do que os outros consultores.' (Alto S / Foco em C).",
+          "feedback": "❌ Você usa o elogio de Intimidade para aumentar sua Credibilidade (C) e ego (S). Você perde o ponto central da confiança. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Responde: 'Que bom. O próximo passo é fazer uma reunião de debriefing técnica.' (Minimizar a Emoção).",
+          "feedback": "⚠️ Você minimiza a importância do momento emocional. A Intimidade precisa ser validada. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Orientação Própria (S): O Destruidor de Confiança",
+      "narrative": "O projeto está formalmente encerrado. Carlos pergunta qual é o próximo passo para você, sinalizando que está pronto para o próximo projeto. **Como o Consultor de Confiança (baixo S) 'fecha' o próximo negócio?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Apresenta um novo pitch de vendas e diz: 'Eu tenho um pacote 20% mais caro que você precisa!' (Foco na Venda).",
+          "feedback": "❌ Foco no Fechamento da Venda (Closing the Deal). Isso é alto 'S' e destrói a percepção de parceria. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Meu próximo passo é garantir que esta solução que implementamos seja sustentável. Eu gostaria de oferecer uma **revisão de 30 dias gratuita** (Generosidade) para ajustarmos a solução. Depois disso, se você vir um novo problema, vamos diagnosticá-lo juntos.'",
+          "feedback": "✅ Perfeito! Você foca no valor e na sustentabilidade do cliente ('Generosidade' e 'Ser um Pensador, não um Vendedor'). Você minimiza o 'S' e faz o próximo negócio ser *ganho* pela qualidade, não pela pressão. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pergunta: 'Quando podemos assinar o novo contrato?' (Foco na Transação).",
+          "feedback": "⚠️ O foco é muito na transação. Isso não é um comportamento de baixo 'S'. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Agora preciso de uma folga. Te ligo daqui a 6 meses.' (Assumir Risco Pessoal Excessivo).",
+          "feedback": "⚠️ Você se afasta do cliente. Embora seja baixo S, é falta de Confiabilidade (R) e profissionalismo. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 3,
+  "title": "🚧 Simulação: Negociação e Reparo da Confiança em Crise",
+  "introduction": "Você está em uma negociação final com o Diretor Financeiro (CFO), Alex. O acordo de um ano foi dado como certo, mas Alex apresenta uma resistência inesperada: ele questiona seu preço e menciona um erro de cálculo que sua equipe cometeu no mês passado (o quebra da Confiabilidade). O ambiente é tenso e você deve desarmar a resistência, reverter a desconfiança e enquadrar o problema em termos de valor, não de custo.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Lidando com a Resistência do Cliente",
+      "narrative": "💰 Alex começa a reunião dizendo: 'Seu preço é o mais alto que recebemos. Sinceramente, **eu não vejo o valor** para justificar isso.' Você sente o impulso de argumentar com fatos e números (Credibilidade). **Como você usa a empatia tática para desarmar a resistência?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Não, você está errado! Meu preço é justificado pelo meu histórico de sucesso! Vou te mostrar a lógica.' (Argumentar).",
+          "feedback": "❌ Você atacou a resistência com lógica, o que é um sinal de alto 'S' (necessidade de estar certo). Alex vai se fechar. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Usa a Rotulagem: 'Alex, parece que o preço não é apenas uma restrição, mas que você está **genuinamente preocupado em não ver o retorno (ROI)** desse investimento. Acertei?'",
+          "feedback": "✅ Perfeito! Você 'Rotula o Medo' real por trás da objeção (aversão à perda), desarmando Alex e focando no valor, não no custo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Tudo bem, podemos dar 10% de desconto se você fechar hoje.' (Concessão Imediata).",
+          "feedback": "⚠️ Você fez uma concessão imediata. Isso penaliza o seu preço (S alto: Imposto do Tempo) e não diagnostica a causa raiz da resistência. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Se você não vê o valor, talvez eu deva conversar com seu CEO.'",
+          "feedback": "❌ Você tenta intimidar (Rotular a Tática/Agressão). Isso é alto 'S' e destrói o relacionamento. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Processo de Reparo da Confiança",
+      "narrative": "😞 Alex, agora mais calmo, diz: 'O que me preocupa é que sua equipe errou no cálculo de custos no mês passado. Foi um erro pequeno, mas **quebrou nossa Confiabilidade**.' Você precisa iniciar o Reparo da Confiança. **Qual é o primeiro passo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Sim, mas foi um erro pequeno. Sua equipe também errou no documento X.' (Minimizar/Culpar Outros).",
+          "feedback": "❌ Você minimiza o erro e culpa outros. Isso é alto 'S' e destrói o Reparo da Confiança. O cliente sente que você não assume a responsabilidade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Faz a Admissão e Desculpa: 'Alex, eu admito que erramos naquele cálculo. **Eu sinto muito pelo impacto** que isso causou na sua equipe. Você estava certo em apontar isso.'",
+          "feedback": "✅ Perfeito! Você assume a responsabilidade total (Admissão) e valida a dor dele (Desculpa empática). O Consultor de Confiança transforma o erro em um construtor de Intimidade. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Foi um erro técnico. Não afeta minha Credibilidade (C) principal.'",
+          "feedback": "⚠️ Você está focando em sua Credibilidade (C) e ignorando a quebra de Confiabilidade (R) e Intimidade (I). A desculpa é fria e formal. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Promete: 'Para compensar, farei o projeto 20% mais barato!' (Foco na Reparação Prematura).",
+          "feedback": "⚠️ A Reparação prematura sem um plano de 'Foco no Futuro' parece barganha. Você cede no preço sem reconstruir a Confiabilidade (R). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Arte de Enquadrar o Problema (Framing)",
+      "narrative": "👍 Alex aceita suas desculpas. Agora, você precisa re-enquadrar o problema do 'preço' para o 'risco' de não agir. Você precisa do 'Isso Mesmo'. **Qual é o melhor Enquadramento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'O problema é que você não confia em nós, o que é um erro.' (Enquadramento Pessoal).",
+          "feedback": "❌ Enquadramento Pessoal e julgamento. Isso aumenta a resistência e o 'S'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Parece que o verdadeiro problema não é o nosso preço, Alex. É o risco de **perder $5 milhões em 6 meses** (Aversão à Perda) se continuarmos com o status quo, e o medo de que não tenhamos a **Confiabilidade** para evitar isso. Isso mesmo?'",
+          "feedback": "✅ Perfeito! Você 'Enquadra o Risco', focando na aversão à perda dele e integra a preocupação com a Confiabilidade (R). Você busca o 'Isso Mesmo' (Validação Máxima). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu sou mais esperto que seu antigo consultor. O preço é o que você paga pela minha Credibilidade (C).'",
+          "feedback": "⚠️ Você foca na sua Credibilidade (C) de forma arrogante. Alto 'S' e quebra do rapport. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Você precisa de vendas. Minha solução é para vendas.' (Enquadramento Superficial).",
+          "feedback": "⚠️ Enquadramento Superficial. Não aborda a complexidade nem as emoções (I) dele. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Imposto do Tempo (Time Tax) e o Foco no Longo Prazo",
+      "narrative": "⏳ Alex diz: 'Isso mesmo.' Agora, ele tenta pressionar você para fechar imediatamente: 'Eu preciso de um 'sim' ou 'não' sobre o preço agora, pois o prazo do orçamento está terminando. Eu não tenho tempo para mais discussões.' **Como você lida com a pressa (Time Tax) para manter o foco no longo prazo (baixo S)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Se você me pressionar, eu aumento o preço.' (Agressão).",
+          "feedback": "❌ Você responde à pressão com agressão. Isso é alto 'S' e destrói o acordo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Alex, eu entendo que você está sob uma restrição de tempo severa (Rotular a Pressa). No entanto, prefiro perder o negócio a forçar um 'Sim' falso. **Qual é a **única** informação que eu posso te dar para que você se sinta 100% confortável em avançar?** (Foco no Longo Prazo/Baixo S).",
+          "feedback": "✅ Perfeito! Você 'Rotula a Pressa' e está disposto a 'perder a venda para ganhar a confiança' (Baixo S), transferindo o ônus da decisão para ele. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Tudo bem, me dê o preço que você quer e eu fecho.' (Sacrifício do Lucro).",
+          "feedback": "⚠️ Você cede ao Imposto do Tempo e sacrifica seu valor. Isso é uma manifestação de 'S' alto (medo de perder o negócio). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu não tenho tempo para isso. Me ligue na próxima semana.' (Falta de Confiabilidade).",
+          "feedback": "⚠️ Você ignora a restrição dele e demonstra falta de Confiabilidade (R) com o tempo dele. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Lidando com a Resistência do Cliente",
+      "narrative": "🤯 Alex responde: 'A única coisa que me impediria é que a sua solução falhe em 6 meses, e eu fique parecendo um idiota por ter pago um preço premium. **É esse o risco que você quer que eu corra?**' Ele está usando a tática da intimidação. **Como você responde?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pergunta: 'Parece que você está tentando me fazer sentir culpado (Rotular a Tática). Qual é a sua **maior preocupação** sobre a minha solução falhar?'",
+          "feedback": "✅ Perfeito! Você 'Rotula a Tática' (intimidação), o que a neutraliza, e usa o Enquadramento para focar na preocupação real dele, sem argumentar. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Minha solução não falha! Sou o melhor do mercado!' (Argumentar/Alto S).",
+          "feedback": "❌ Você argumenta e eleva seu ego (S alto). Você não desarma a resistência. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Sim, você pode falhar. É um risco que você tem que aceitar.' (Agressão).",
+          "feedback": "❌ Você é agressivo. Isso destrói a Intimidade (I) e o relacionamento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu sou um ser humano. É claro que posso falhar.' (Vulnerabilidade Inadequada).",
+          "feedback": "⚠️ Você usa a vulnerabilidade em excesso. O cliente precisa de segurança, não de incerteza. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O Processo de Reparo da Confiança",
+      "narrative": "🤝 Alex finalmente se abre sobre o medo da falha. Ele diz: 'Eu entendo que ninguém é perfeito, mas se houver outra falha, o projeto será cancelado.' Você precisa da fase de **Reparação e Foco no Futuro** para reconstruir a Confiabilidade (R). **Qual é o seu plano de Reparo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Eu garanto que não haverá falhas. Eu estarei no projeto 24/7.' (Superpromessa).",
+          "feedback": "❌ Superpromessa. Isso aumenta a expectativa irreal (Alto S) e garante a quebra de Confiabilidade (R) se a falha ocorrer. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Concordo. O que faremos: criaremos um **Ponto de Controle de Risco** mensal (Reparação). Se o risco chegar a X, você tem o direito de sair sem custos. **Como garantiremos que essa métrica seja transparente para você?**' (Envolvimento do Cliente/Foco no Futuro).",
+          "feedback": "✅ Perfeito! Você cria um plano de Reparação e 'Foco no Futuro' (R), minimizando o risco dele e usando a pergunta calibrada ('Como') para garantir o Comprometimento (R). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Nós só consertaremos o erro se ele for grande.' (Condicional).",
+          "feedback": "⚠️ Você coloca condições na Reparação. O Consultor de Confiança repara o dano de forma incondicional. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Vamos apenas assinar e resolver os detalhes depois.' (Alto S).",
+          "feedback": "❌ Você tenta fechar a venda (Alto S) sem resolver a raiz da desconfiança. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Imposto do Tempo (Time Tax) e o Foco no Longo Prazo",
+      "narrative": "Alex está quase convencido. Ele diz: 'Ok. Mas eu só posso fechar hoje se você me der 10% de desconto.' Ele tenta a 'última pressão' (Time Tax). Você sabe que seu preço é justo. **Como você usa o conceito de valor de longo prazo (Baixo S)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Dou os 10%. Fechado.' (Ceder ao Time Tax).",
+          "feedback": "⚠️ Você cede ao Imposto do Tempo e sacrifica seu valor. Você reforça que ele pode te pressionar. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Alex, eu entendo. Meu objetivo é o **valor de longo prazo**, não um desconto de curto prazo. Se eu cortar 10%, isso significa cortar X em serviço ou Y em tempo. Eu prefiro que você tenha o plano completo. **Qual parte do serviço você gostaria que eu cortasse para justificar o desconto?**'",
+          "feedback": "✅ Perfeito! Você realinha o desconto ao valor e ao risco dele, forçando-o a 'perder' algo (Aversão à Perda) e mantendo seu preço (Baixo S). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Você está tentando me manipular. Eu não vou ceder.' (Rotular a Tática com Agressão).",
+          "feedback": "❌ Você ataca a pessoa. Isso é alto 'S' e destrói a Intimidade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Não posso cortar. Me desculpe.' (Falta de Colaboração).",
+          "feedback": "⚠️ Você não oferece uma alternativa ou colaboração. O Consultor de Confiança é um parceiro na solução, não um muro. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "A Arte de Enquadrar o Problema (Framing)",
+      "narrative": "Alex aceita o preço. Agora, você precisa garantir o Comprometimento e evitar a Resistência na execução. **Como você enquadra o passo final, garantindo que ele sinta que co-criou a solução?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Eu vou te dar uma lista de 10 tarefas para a próxima semana. Faça todas!' (Alto S).",
+          "feedback": "❌ Você usa uma abordagem 'chefe', assumindo total controle (Alto S). Alex não estará engajado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Alex, concordo que a chave agora é a execução. Então, o nosso problema é o seguinte: **Como podemos garantir que a sua equipe compre o plano de ação que *nós* criamos?** (Transferir o Fardo/Co-criação).",
+          "feedback": "✅ Perfeito! Você 'Enquadra o Problema' em termos de 'NÓS' (co-criação) e 'Como' (pergunta calibrada), transferindo o fardo da execução para ele. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu cuido de tudo. Você não precisa fazer nada.' (Minimizar o Esforço dele).",
+          "feedback": "⚠️ Você minimiza o esforço dele, o que reduz o Comprometimento. Ele precisa se sentir parte da solução. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'O problema é a sua equipe. Você precisa corrigi-los.' (Culpar Outros).",
+          "feedback": "❌ Você volta a culpar outros, aumentando a resistência e o 'S'. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Lidando com a Resistência do Cliente",
+      "narrative": "Alex está hesitando novamente e diz: 'Eu preciso de 48 horas para pensar.' (Silêncio). **Qual é a sua melhor tática de desarmamento e diagnóstico?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Fica em silêncio por alguns segundos, depois diz: 'Parece que há uma **questão não resolvida** que está te incomodando, Alex. **É o medo de que seu CEO critique o preço?**' (Rotulagem e Silêncio).",
+          "feedback": "✅ Perfeito! Você usa o 'Silêncio' para pressionar sutilmente, 'Rotula' o medo oculto (CEO/Reputação) e convida à abertura. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Eu te dou 48 horas, mas se você não fechar, o preço aumenta 5%.' (Ameaça).",
+          "feedback": "❌ Você responde ao silêncio com ameaça. Isso destrói a confiança. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Você está sendo difícil. Feche agora.' (Pressão/Alto S).",
+          "feedback": "❌ Você usa a pressão e eleva o 'S'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Não se preocupe, te ligo em 48 horas.' (Falta de Diagnóstico).",
+          "feedback": "⚠️ Você aceita o silêncio sem diagnosticar a raiz da hesitação. O problema não foi resolvido. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Imposto do Tempo (Time Tax) e o Foco no Longo Prazo",
+      "narrative": "Alex revela que o verdadeiro problema é que ele precisa de um favor: 'Minha equipe está sobrecarregada. Se fecharmos hoje, você pode nos dar **2 dias de consultoria gratuita** na próxima semana?' **Como você lida com este pedido, mantendo o foco no valor de longo prazo (Baixo S)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Claro, feito!' (Ceder ao Imposto do Tempo).",
+          "feedback": "⚠️ Você cede sem alinhamento de valor, reforçando o Imposto do Tempo. O serviço gratuito pode ser visto como de baixo valor. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Alex, eu não vou te dar consultoria gratuita. Mas vou dar um **documento de 'Melhores Práticas de Otimização de Processos' (Generosidade)** que economizará semanas de tempo da sua equipe. Meu foco é dar valor de longo prazo, não reduzir meu tempo.'",
+          "feedback": "✅ Perfeito! Você recusa a demanda que afetaria seu 'Time Tax' (S baixo) e entrega um valor de longo prazo e alta Credibilidade (C), mantendo a Generosidade. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Se você pagar mais 5%, eu dou a consultoria.' (Foco no Lucro).",
+          "feedback": "❌ Você coloca um preço em um momento de Intimidade. Isso eleva o 'S' e parece transacional. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu não faço trabalhos gratuitos.' (Falta de Generosidade).",
+          "feedback": "⚠️ Você é muito rígido e não demonstra a Generosidade necessária para o Consultor de Confiança. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "A Arte de Enquadrar o Problema (Framing)",
+      "narrative": "O acordo está feito. Você está terminando a reunião e Alex diz: 'Eu sinto que minha equipe não vai gostar deste novo plano. Eles vão resistir.' Você precisa da sua última ferramenta: o **Enquadramento do Sucesso** para criar Comprometimento. **Qual é o melhor Enquadramento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Não se preocupe. Eles vão obedecer você.' (Alto S).",
+          "feedback": "❌ Você assume uma postura de autoridade. O Enquadramento deve ser colaborativo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Alex, o problema não é a resistência. O nosso objetivo é que, em 3 meses, sua equipe esteja tão **empoderada e eficiente** que eles perguntarão por que não fizemos isso antes. **Qual é a primeira vitória (vitória fácil) que podemos dar a eles para começar?**' (Enquadramento do Sucesso e Co-criação).",
+          "feedback": "✅ Perfeito! Você enquadra o problema em termos de **ganho de longo prazo** (Empoderamento) e usa uma pergunta de co-criação ('vitória fácil') para garantir o Comprometimento (R). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Se eles resistirem, você me liga e eu dou um sermão neles.' (Alto S).",
+          "feedback": "❌ Você usa ameaça. O Enquadramento deve ser positivo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'A resistência é normal. Não se preocupe.' (Minimizar o Risco).",
+          "feedback": "⚠️ Você minimiza um risco conhecido. O Consultor de Confiança enfrenta o risco. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Processo de Reparo da Confiança",
+      "narrative": "A negociação terminou. Alex está mais calmo e você fechou o negócio. Ele diz: 'A forma como você lidou com o erro de cálculo realmente mudou minha mente.' **Como você fecha a conversa, solidificando o Reparo da Confiança?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Eu sabia que você ia fechar. Meu Reparo da Confiança é o melhor do mercado!' (Alto S).",
+          "feedback": "❌ Você torna o Reparo da Confiança sobre você e seu ego (S alto). Isso destrói o momento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Eu sou grato por você ter me dado a chance de corrigir. **Nossa parceria é mais valiosa do que qualquer erro. A confiança que construímos agora é mais forte do que a Confiabilidade que quebramos.**' (Foco no Futuro/I).",
+          "feedback": "✅ Perfeito! Você reconhece a importância do Reparo (I) e foca no futuro da parceria, estabelecendo o princípio de que a **Confiança supera o erro**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu vou garantir que o próximo projeto seja mais barato para você.' (Concessão Imediata).",
+          "feedback": "⚠️ Você faz uma concessão desnecessária, sacrificando o valor de longo prazo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Não se preocupe. Eu sempre conserto meus erros.' (Minimizar/Alto S).",
+          "feedback": "⚠️ Você minimiza a gravidade do erro, elevando seu ego. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 4,
+  "title": "🚀 Simulação: A Arte de se Tornar Indispensável",
+  "introduction": "Você acabou de fechar um contrato de consultoria estratégica com o Vice-Presidente de Inovação, Marcos. Esta é a primeira reunião de trabalho, e Marcos está ansioso para o projeto começar, mas está vago sobre a dor real. Seu objetivo é passar de 'fornecedor de soluções' a 'Consultor de Confiança Indispensável' nas primeiras 2 semanas, usando Diagnóstico Profundo, Presença Total e Gestão Proativa de Expectativas. Suas decisões aqui cimentarão sua relação de longo prazo.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Perguntas de Diagnóstico Profundo",
+      "narrative": "🎯 Na reunião inicial, Marcos diz, de forma vaga: 'Nossa meta é **crescer 20%** no próximo trimestre. É para isso que precisamos de você.' Ele está te dando um sintoma, não o problema. **Qual é a pergunta de diagnóstico mais profunda?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pergunta: 'O que o levou a acreditar que a falta de uma consultoria era o único obstáculo para crescer 20%?' (Pergunta 'Por Que' acusatória).",
+          "feedback": "❌ A pergunta 'Por que' soa acusatória e coloca Marcos na defensiva (alto S). Você quebra a Intimidade (I) e não obtém a verdade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Se o crescimento de 20% fosse fácil, você já teria feito. **Qual foi o último obstáculo que tentaram remover para atingir essa meta, e o que aconteceu?**' (Perguntar sobre o Passado).",
+          "feedback": "✅ Perfeito! Você foca no comportamento e no passado (Credibilidade C), forçando Marcos a ir além do sintoma e revelar a causa raiz. Isso é um Diagnóstico Profundo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu sei o que fazer. Você precisa de uma nova estratégia de marketing digital.' (Conselho Prematuro).",
+          "feedback": "⚠️ Conselho Prematuro. Você está vendendo a solução antes do diagnóstico. Isso demonstra S alto, sacrificando a Intimidade (I). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Quanto dinheiro você está disposto a gastar para crescer 20%?' (Foco no Preço).",
+          "feedback": "⚠️ O foco no preço é transacional e superficial. Você pula o Diagnóstico Profundo, focando apenas na transação (alto S). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "De Fornecedor a Consultor de Confiança",
+      "narrative": "🗣️ Marcos diz: 'Vi o concorrente X, eles são mais baratos. Por que você é melhor? Eu preciso de um *produto* que funcione.' **Como você se posiciona como Consultor de Confiança Indispensável, e não como Fornecedor?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Concordo, eles são bons. Mas eles só vendem o produto. Eu vendo a análise e o insight que você não consegue ver. Minha pergunta é: **Quais são os riscos que nem sequer estamos discutindo?**' (Ser um Desafiador).",
+          "feedback": "✅ Perfeito! Você foca em Insight/Risco (o que ele não sabe) e não no preço, demonstrando Credibilidade (C) e uma mentalidade de Desafiador (baixo S). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Ataca o concorrente: 'Eles são baratos porque são amadores! Meu preço é justo.' (Alto S).",
+          "feedback": "❌ Você ataca a concorrência e demonstra S alto (ego). Você falha em se posicionar como um pensador estratégico. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Se o preço for o problema, dou 10% de desconto e fecho hoje.' (Ceder ao Imposto do Tempo).",
+          "feedback": "⚠️ Você cede ao Imposto do Tempo. Você age como Fornecedor (transacional) com alto S (medo de perder o negócio) e não como Consultor de Confiança. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu sou um Pensador, não um Executor. Meu valor é minha Confiabilidade (R) em entregar.'",
+          "feedback": "⚠️ Você está declarando seu valor em termos de Fornecedor (executor), quando deveria focar no Insight Estratégico (Pensador). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Importância de 'Estar Presente'",
+      "narrative": "📱 Durante a conversa sobre os riscos, Marcos pega o celular, digita um e-mail com pressa e volta a falar sem pedir desculpas. Você percebe a distração (Alto S/baixo I). **Como você age para recuperar a Presença Total e a Intimidade (I)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Fica em silêncio por alguns segundos, e depois, gentilmente: 'Marcos, parece que você tem algo **urgente e incômodo** na sua cabeça (Rotulagem). Você está presente? Porque o que vamos discutir agora é crucial e exige Presença Total.'",
+          "feedback": "✅ Perfeito! Você usa o Silêncio e a Rotulagem (I) para lidar com a distração, sem julgar, focando na importância do tempo DELE. Isso recupera a Presença e o foco (baixo S). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Pega seu próprio celular e começa a checar e-mails também (Multitarefa).",
+          "feedback": "❌ Multitarefa. Você demonstra desrespeito e eleva o 'S', perdendo a oportunidade de liderar a Presença Total e a Intimidade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Seu celular está quebrando a Intimidade! Desligue-o, por favor.' (Alto S/Agressão).",
+          "feedback": "❌ Você reage de forma agressiva e julgadora (Alto S). Você quebra a Intimidade (I) de forma irreparável. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Ignora o celular e continua falando, na esperança de que ele se concentre.",
+          "feedback": "⚠️ Você ignora a falta de Presença, permitindo que a distração (S) mine o valor da conversa. O cliente sente que seu tempo não é valioso. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Gerenciando Expectativas e o Risco de Surpresa",
+      "narrative": "⏱️ Marcos, agora focado, exige o primeiro relatório de análise em 48 horas. Você sabe que o prazo é **muito apertado** e comprometerá a qualidade da análise (Credibilidade C). **Como você gerencia esta expectativa para garantir a Confiabilidade (R)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Absolutamente, você terá o relatório completo em 48 horas! Não se preocupe.' (Superpromessa).",
+          "feedback": "❌ Superpromessa. Você cria uma expectativa irreal que garante a falha (Surpresa Negativa), destruindo a Confiabilidade (R). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Responde: 'Marcos, para evitar o **Risco de Surpresa**, farei o seguinte: entregarei a você um 'Resumo Executivo do Diagnóstico' em 48h, e o **Relatório Completo de Análise** em 72h. Você terá o insight mais importante na hora, com a qualidade garantida.' (Prometer Menos/Entregar Mais).",
+          "feedback": "✅ Perfeito! Você usa a Comunicação Proativa para gerenciar expectativas, quebra a entrega em etapas (R) e garante o valor, evitando a Surpresa Negativa. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Não posso prometer nada. O tempo é o que é. Você terá quando estiver pronto.' (Falta de Confiabilidade).",
+          "feedback": "⚠️ Você não oferece uma alternativa ou um plano. Isso demonstra falta de controle e mina a Confiabilidade (R). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'O problema é da sua equipe que não me deu os dados. Corrija eles primeiro.' (Culpar Outros).",
+          "feedback": "⚠️ Você culpa outros. Embora haja verdade, o Consultor de Confiança foca na solução e não no problema (alto S). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Perguntas de Diagnóstico Profundo",
+      "narrative": "🤔 Marcos admite que a raiz do problema é a ineficiência. Ele diz: 'Nossos processos são lentos.' **Qual é a pergunta mais focada na dor para motivar a ação e revelar o custo da inação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pergunta: 'Qual é o custo exato (em dólares) de cada semana de ineficiência? (Foco Exclusivo no Fato).",
+          "feedback": "⚠️ Você foca apenas no custo numérico. O Diagnóstico Profundo busca o custo **emocional e pessoal** que motiva a ação. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Você está disposto a mudar os processos se eu prometer que funciona?' (Perguntas de Sim/Não).",
+          "feedback": "❌ Pergunta de 'Sim/Não'. Você limita a informação e não revela a complexidade do problema ou as restrições ocultas. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Pergunta: 'Se não corrigirmos esses processos em 6 meses, qual é a **primeira coisa que você terá que dizer ao seu CEO que te fará sentir que seu cargo está em risco?**' (Custo da Inação/Medo Pessoal).",
+          "feedback": "✅ Perfeito! Você foca na aversão à perda (medo pessoal/Intimidade I), que é o maior motivador, e diagnostica a urgência de forma profunda. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Que tipo de software você acha que seria o melhor para consertar isso?' (Conselho Prematuro).",
+          "feedback": "⚠️ Você pula o diagnóstico e vai para a solução (Alto S), focando em produto em vez de processo. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "De Fornecedor a Consultor de Confiança",
+      "narrative": "Você descobre que a ineficiência é causada por um sistema interno que Marcos **mesmo implementou 3 anos atrás** e que ele defende veementemente. **Como você 'Fala a Verdade ao Poder' (Desafiador) sem quebrar a Intimidade (I)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'O sistema que você implementou está desatualizado e é o problema. Temos que cortá-lo amanhã.' (Ataque Pessoal).",
+          "feedback": "❌ Você ataca o trabalho anterior dele e quebra a Intimidade (I) e o relacionamento (Alto S). Você age como um juiz, não um Consultor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Marcos, o sistema X **foi brilhante para a época**, mas o mercado mudou. Hoje, ele se tornou nosso **maior risco de competição**. Precisamos substituí-lo para proteger seu futuro.' (Enquadramento do Risco/Challenger).",
+          "feedback": "✅ Perfeito! Você valida o passado (baixo S) e enquadra a substituição em termos de risco FUTURO DELE. Isso é um Desafiador que usa Credibilidade (C) e Intimidade (I). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu não vou falar sobre o sistema X. Vamos focar no futuro.' (Ignorar o Problema).",
+          "feedback": "⚠️ Você ignora o problema principal. O Consultor de Confiança deve abordar a raiz do problema, ou sua Credibilidade (C) será questionada. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Você se sentiria confortável se eu dissesse ao seu CEO que o sistema X está errado?' (Ameaça).",
+          "feedback": "⚠️ Você usa a ameaça de exposição. Isso é alto 'S' e destrói o risco emocional (I). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Gerenciando Expectativas e o Risco de Surpresa",
+      "narrative": "🚨 Sua equipe identifica um pequeno erro de cálculo que pode causar um atraso de 12 horas em uma entrega importante, embora o prazo oficial seja daqui a 3 dias. **Como você lida com este Risco de Surpresa (R)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Não diz nada. Se o prazo é daqui a 3 dias, você pode corrigir sem avisar (Falta de Transparência).",
+          "feedback": "❌ Você esconde o problema. O cliente descobrirá a Surpresa Negativa, destruindo a Confiabilidade (R). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Envia um e-mail com a 'Comunicação Proativa': 'Identificamos um risco de atraso de 12h no Item X. Já implementamos o Plano de Mitigação Y e o prazo final será mantido. **Aqui está a prova de que estamos no controle.**'",
+          "feedback": "✅ Perfeito! Você usa a Comunicação Proativa para gerenciar expectativas e demonstra Transparência. Você transforma o risco em prova de Confiabilidade (R). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Minha equipe é incompetente. Eu sinto muito. Vou trabalhar 24h para consertar.' (Minar a Credibilidade).",
+          "feedback": "⚠️ Você mina a Credibilidade (C) de sua equipe e a sua própria. O foco deve ser no plano, não na culpa. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Não se preocupe, o atraso é culpa da sua equipe que não deu os dados no prazo.' (Culpar Outros).",
+          "feedback": "⚠️ Você culpa outros, aumentando o 'S' e o Risco de Surpresa para Marcos. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Perguntas de Diagnóstico Profundo",
+      "narrative": "🗣️ Marcos diz: 'Nossa maior dificuldade é **encontrar talentos**. É um problema de RH.' (Conceito genérico). **Como você usa o Diagnóstico Profundo para ir além do clichê?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pergunta: 'Parece que o verdadeiro problema é a retenção. **O que os 3 melhores talentos que saíram disseram que os fez ir embora?**' (Comportamento/Causa Raiz).",
+          "feedback": "✅ Perfeito! Você foca no 'Comportamento Passado' e na 'Causa Raiz' (Diagnóstico Profundo), quebrando o clichê e obtendo dados concretos (C). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Pergunta: 'Você deve aumentar o salário em 30% para atrair talentos.' (Conselho Prematuro).",
+          "feedback": "❌ Conselho Prematuro. Você não diagnosticou a causa raiz. O problema pode não ser o salário. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Pergunta: 'Qual é o seu orçamento de RH para o próximo trimestre?' (Foco no Fato).",
+          "feedback": "⚠️ Você foca apenas no fato financeiro. Você precisa de um diagnóstico mais profundo sobre o 'porquê' do problema. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'O problema é a falta de visão da sua empresa. Eu posso te dar uma visão.' (Alto S).",
+          "feedback": "❌ Você faz uma afirmação de alto 'S' (ego) e arrogância, colocando a culpa na visão da empresa. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "A Importância de 'Estar Presente'",
+      "narrative": "🤫 Marcos, agora totalmente engajado, confidencia: 'Se este projeto falhar, minha última promoção será revogada. **Estou correndo um risco pessoal que ninguém sabe.**' Ele está vulnerável. **Como você reage para solidificar a Intimidade (I) e a Presença?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Eu sou grato pela sua confiança. Você está carregando um peso enorme (Espelhamento). Eu garanto que **tudo o que você me disser ficará entre nós**.' (Discrição).",
+          "feedback": "✅ Perfeito! Você valida a emoção (I), usa o 'Espelhamento' e garante a 'Discrição', minimizando o Risco Emocional percebido. Isso é Presença Total. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Você não devia se preocupar com isso. O que importa é o trabalho.' (Minimizar a Dor).",
+          "feedback": "❌ Você minimiza a dor dele, quebrando a Intimidade (I) e fazendo-o sentir que você não o entende. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu também já corri esse risco antes. Eu perdi 3 projetos por causa do meu CEO.' (Vulnerabilidade Excessiva).",
+          "feedback": "⚠️ A 'Vulnerabilidade Controlada' é importante, mas essa história é demais. Você desvia o foco (Alto S) e pode assustá-lo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Você acha que a pressão está afetando seu julgamento?' (Julgamento).",
+          "feedback": "❌ Você julga e questiona. Isso destrói a Intimidade (I) e o 'S' alto (ego) é percebido. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "De Fornecedor a Consultor de Confiança",
+      "narrative": "⬇️ Marcos, sentindo-se sobrecarregado, pede: 'Você pode organizar a agenda de todas as nossas reuniões semanais e enviar as atas? Minha assistente está de férias.' **Como você mantém o status de Conselheiro Estratégico (Pensador) e não de Executor (Fornecedor)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aceita imediatamente. 'Claro! Eu faço o que for preciso.' (Recai para Fornecedor).",
+          "feedback": "❌ Você aceita uma tarefa de baixo valor. Você permite que Marcos o veja como um Executor (Fornecedor), minando seu status estratégico. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Recusa gentilmente: 'Meu foco total deve ser no diagnóstico estratégico. Mas eu posso te fornecer o **template de ata de reunião** que usamos em Fortune 500 (Generosidade/Credibilidade C).' (Recusa com Valor).",
+          "feedback": "✅ Perfeito! Você recusa a tarefa de Executor (Baixo S), mas oferece um Insight de Alto Valor (C). Você se mantém como Consultor de Confiança. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu sou muito caro para fazer esse trabalho. Contrate outra pessoa.' (Recusa Arrogante/Alto S).",
+          "feedback": "⚠️ Você recusa de forma arrogante. Embora você mantenha o status, o alto 'S' quebra a Intimidade (I). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diz: 'Eu só organizo a agenda se você me der mais 5% no contrato.' (Foco no Lucro).",
+          "feedback": "⚠️ Você transforma o favor em uma transação. Isso é alto 'S' e reforça a imagem de Fornecedor. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Gerenciando Expectativas e o Risco de Surpresa",
+      "narrative": "💥 O pior acontece. Um parceiro crucial para o projeto faliu. O prazo final não pode ser mantido. **Como você comunica esta Surpresa Negativa para Marcos, re-engajando-o na solução?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Seu parceiro faliu. É culpa dele. O projeto está atrasado em 3 semanas. Eu não tenho culpa.' (Culpar Outros/Alto S).",
+          "feedback": "❌ Você culpa outros e não se comunica proativamente com um plano. O alto 'S' é percebido e o Risco de Surpresa não é mitigado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Comunica de forma proativa: 'Marcos, o parceiro X faliu. Isso é um **cisne negro** que nos afetará. O prazo de entrega do projeto agora é de 3 semanas a mais. No entanto, criamos um **Plano B com o Parceiro Y**. **Como podemos envolver sua equipe para acelerar a transição com o novo parceiro?**' (Transparência/Plano B/Como).",
+          "feedback": "✅ Perfeito! Você é totalmente transparente (R), demonstra controle (C) e usa o 'Como' para envolver Marcos na solução. Você gerencia a expectativa e re-engaja. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'Eu resolvo isso sozinho. Não precisa se preocupar.' (Ocultar Risco).",
+          "feedback": "⚠️ Você assume todo o risco sozinho, o que pode parecer bom, mas oculta informações. O Consultor de Confiança é transparente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'O que você quer fazer? Eu estou perdido.' (Falta de Credibilidade).",
+          "feedback": "⚠️ Você demonstra falta de Credibilidade (C) e controle no momento de crise. O cliente espera que você tenha um plano. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "A Importância de 'Estar Presente'",
+      "narrative": "✨ O projeto é um sucesso. Marcos o convida para um almoço e diz: 'Você foi o primeiro consultor que realmente me ouviu. Eu não confio em você apenas pelo que você sabe, mas pelo que você se importa.' **Como você finaliza a parceria, focando no longo prazo (Baixo S)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diz: 'Fico feliz. Qual é o seu maior problema AGORA? Eu tenho a solução e um contrato de longo prazo esperando.' (Foco na Venda/Alto S).",
+          "feedback": "❌ Você transforma o momento em uma transação. O alto 'S' (foco na venda) quebra a Intimidade construída. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diz: 'Marcos, sua confiança é o meu maior ativo. Minha Presença e Discrição são garantidas para o futuro. Meu próximo passo é oferecer a você uma **revisão de 90 dias gratuita** (Generosidade) para garantirmos a sustentabilidade da solução.' (Baixo S/Longo Prazo/Generosidade).",
+          "feedback": "✅ Perfeito! Você foca no valor e na sustentabilidade do cliente (Baixo S), oferece Generosidade e reforça a Intimidade ('Discrição'). Você age como um Consultor Indispensável de longo prazo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Diz: 'É claro que eu me importo. Meu trabalho é ser o melhor Consultor de Confiança do mundo!' (Alto S/Ego).",
+          "feedback": "⚠️ Você foca no próprio ego (Alto S) em vez da satisfação dele. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pergunta: 'Você pode me dar um testemunho em vídeo para eu usar na minha próxima campanha?' (Alto S/Curto Prazo).",
+          "feedback": "⚠️ Você foca em seu próprio ganho de curto prazo. Isso eleva o 'S' e diminui a percepção de parceria. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}
+]

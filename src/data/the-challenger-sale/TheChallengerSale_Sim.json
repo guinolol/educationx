@@ -1,0 +1,1897 @@
+[
+{
+  "simulationId": 101,
+  "title": "🚀 Simulação: O Desafio do Vendedor 'Challenger'",
+  "introduction": "Você é o novo Vendedor Desafiador (Challenger) em uma empresa de SaaS B2B de alto valor. Sua tarefa é fechar um negócio complexo com a 'AlphaCorp', que tem 6 stakeholders diferentes. O cliente potencial tem uma ideia clara de que precisa de uma 'solução de otimização de custos', mas você sabe que o problema real está na sua estratégia de mercado. Suas 12 decisões críticas definirão se você será um 'amigo' (Construtor de Relacionamento) que perde, ou um 'professor' (Desafiador) que vence.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Os 5 Perfis de Vendedor",
+      "narrative": "Você acabou de ser contratado. Sua primeira tarefa é se autoavaliar. Você percebe que sua tendência natural é **agradar os clientes**, ouvir o que eles querem e focar em ser solícito e disponível, garantindo que a reunião seja sempre 'positiva'. 🧐 **Qual perfil de vendedor você se parece mais e qual é o seu risco em uma venda complexa como a AlphaCorp?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Sou um Trabalhador Duro. Meu risco é não me esforçar o suficiente na prospecção.",
+          "feedback": "❌ Não é o foco. O Trabalhador Duro foca na atividade, mas não necessariamente no relacionamento em si. Seu risco não é a preguiça. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Sou um Construtor de Relacionamento. Meu risco é ser o perfil MENOS eficaz por não gerar a 'Tensão Construtiva' necessária para a mudança.",
+          "feedback": "✅ Exato! O foco em agradar faz de você um Construtor de Relacionamento, o perfil menos eficaz. Você evita o desconforto (tensão) e o cliente não vê urgência para mudar. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Sou um Lobo Solitário. Meu risco é ser muito difícil de gerenciar pela minha equipe.",
+          "feedback": "⚠️ O Lobo Solitário é autoconfiante, mas não é definido pelo foco em agradar. Ele segue suas próprias regras, mas é eficaz por instinto. Seu principal problema é a falta de replicabilidade. Melhor que o 'Trabalhador Duro', mas não a raiz do seu problema. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Sou um Solucionador de Problemas Reativo. Meu risco é focar demais em problemas técnicos e ignorar a estratégia de alto nível.",
+          "feedback": "⭐ Sim, mas você não está na fase de implementação (pós-venda) ainda. Embora este perfil foque na reatividade, o problema de 'agradar' é mais central ao Construtor de Relacionamento. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Ensinar (Teach): A Moeda de Troca do Desafiador",
+      "narrative": "Sua primeira reunião é com o Diretor de Marketing da AlphaCorp, que está focado em *'reduzir o Custo de Aquisição de Cliente (CAC)'*. Ele te pergunta: *'O que seu software faz?'*. Você tem 30 segundos. **Como você usa o princípio de Ensinar para começar a reestruturar a visão dele?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Falo sobre os 10 novos recursos do seu software e como eles podem, indiretamente, otimizar o CAC.",
+          "feedback": "❌ Você está vendendo o produto, não a ideia. O cliente não quer saber dos seus recursos, ele quer saber do problema DELE. Você perde a oportunidade de dar um Insight Proprietário. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'O que o senhor realmente precisa saber é que a maioria das empresas foca em otimizar o CAC, mas a verdadeira perda está na retenção. Descobrimos que o maior custo é a *'Inércia Estratégica'*. Deixe-me mostrar o que é isso.'",
+          "feedback": "✅ Genial! Você iniciou a 'Jornada de Ensino' com um **Reframe** (reestruturação) contraintuitivo que se conecta à dor (custo) dele. Isso gera curiosidade e estabelece você como um professor, não um vendedor. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Digo: 'Meu software é o mais barato do mercado, vai reduzir o CAC em 15%.'",
+          "feedback": "❌ Você caiu na 'armadilha do preço'. Isso o coloca em uma competição de *commodity* e desvaloriza a sua capacidade de ser um parceiro estratégico (professor). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Pergunto: 'O que você quer que eu te diga?' para construir um bom relacionamento, ouvindo e concordando com ele.",
+          "feedback": "⚠️ Você se posicionou como um Construtor de Relacionamento (Amigo). Você não assumiu o controle da conversa. Não houve Tensão Construtiva. Você falhou em Ensinar. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "O Mito do Vendedor Relacionamento",
+      "narrative": "O Diretor de Marketing, após seu insight, diz: *'É interessante, mas o que eu realmente aprecio nos vendedores é a confiança e a amizade. Prefiro fornecedores que **nunca me desafiam**.'* Ele está testando você. **Como você mantém o relacionamento, mas evita se tornar o 'Amigo' ineficaz?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Concordo e digo: 'Com certeza, serei seu parceiro e amigo. Vou fazer o que for preciso para deixar você feliz.'",
+          "feedback": "❌ Você cedeu à tentação do 'Vendedor Relacionamento'. Você acabou de se desqualificar como parceiro estratégico. Você será o primeiro a ser cortado quando o preço apertar. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'Eu valorizo nossa relação, mas meu papel é garantir que você não esteja cometendo um erro caro em sua estratégia. Eu me preocupo mais com seu resultado do que com sua satisfação momentânea. Posso mostrar o porquê?'",
+          "feedback": "✅ Perfeito! Você usou a **Tensão Construtiva** para reverter a situação. Você estabelece que o valor do seu relacionamento reside na sua capacidade de **desafiar (Ensinar)**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Fico em silêncio, desconfortável com a tensão, e mudo o assunto para o preço.",
+          "feedback": "⚠️ O 'Silêncio' (evitar a tensão) é o maior erro do Construtor de Relacionamento. Você está evitando o desafio, o que implica que você não tem nada de valor para ensinar. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Digo: 'Obrigado pelo feedback, mas eu sou o Desafiador. Se não quiser ser desafiado, podemos encerrar aqui.' (Agressivo)",
+          "feedback": "❌ Você usou a 'Violência' (agressividade). Embora você tenha mantido o Desafiador, você destruiu a ponte do relacionamento. É 'Desafiador' com tato, não um 'Bully'. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Adaptar (Tailor): Alinhando a Mensagem aos Stakeholders",
+      "narrative": "Sua próxima reunião é com o **CFO (Diretor Financeiro)**. O Diretor de Marketing estava preocupado com o CAC. O CFO se importa com o ROI e o Risco. **Qual Insight Proprietário você 'Adapta' para ser relevante para o CFO?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu falo sobre o impacto na experiência do usuário e como isso se traduz em um ambiente de trabalho mais feliz.",
+          "feedback": "❌ Mensagem irrelevante. O CFO se importa com 'o custo da inação' e 'ROI', não com a felicidade do usuário. Você falhou em Adaptar. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Digo: 'A verdadeira 'Inércia Estratégica' que afeta o CAC está criando um **Risco Financeiro de Perda de Mercado (Cost of Inaction)** de $X milhões anualmente. Nossa solução mitiga esse risco com um ROI garantido em 12 meses.'",
+          "feedback": "✅ Perfeito! Você 'costurou' (Tailored) a mensagem diretamente para o pilar de ROI e Risco. Você está falando a **língua do dinheiro** do CFO. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu uso o mesmo pitch que usei para o Diretor de Marketing sobre CAC, mas falo mais alto para enfatizar.",
+          "feedback": "❌ Uma falha clássica. Você usou a mesma mensagem para stakeholders com prioridades diferentes. O CFO verá o pitch de marketing como irrelevante. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Falo sobre a facilidade de implementação e o excelente suporte técnico que sua equipe receberá.",
+          "feedback": "⚠️ Você está falando a língua de um Gerente de Operações, não do CFO. É uma mensagem útil, mas não é o driver de decisão principal do CFO. É uma adaptação fraca. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Os 5 Perfis de Vendedor",
+      "narrative": "Você nota um dos stakeholders, o Gerente de TI, que está na reunião. Ele faz muitas perguntas técnicas e parece **seguir suas próprias regras de avaliação**, ignorando o processo padrão. Ele parece ser um excelente negociador, mas não um jogador de equipe. **Qual perfil de vendedor ele se assemelha e qual o risco se você não o alinhar?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Lobo Solitário. O risco é que ele feche o negócio por conta própria, ignorando o CFO, o que é bom para você.",
+          "feedback": "❌ O Lobo Solitário é eficaz por instinto, mas o risco é o oposto: ele pode **bloquear** o consenso de forma imprevisível por não seguir as regras do grupo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Lobo Solitário. O risco é que sua eficácia não é replicável e ele é difícil de gerenciar, podendo ir contra o consenso geral da compra.",
+          "feedback": "✅ Correto. O Lobo Solitário opera por instinto (eficaz, mas não replicável) e pode facilmente se tornar um obstáculo para o consenso do grupo se não for 'adaptado' (Tailored). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Construtor de Relacionamento. O risco é que ele dê um desconto para fechar o negócio.",
+          "feedback": "❌ O Construtor de Relacionamento prioriza a harmonia. Este stakeholder parece estar criando **tensão**, o oposto. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Trabalhador Duro. O risco é que ele está trabalhando duro em coisas erradas.",
+          "feedback": "⚠️ O Trabalhador Duro se destaca pela quantidade de atividade, não por ser instintivo e quebrar regras. Não é o perfil mais preciso neste caso, mas tem alguma relevância. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Ensinar (Teach): A Moeda de Troca do Desafiador",
+      "narrative": "Você está no meio da sua **Jornada de Ensino** e chegou ao ponto de apresentar o 'Custo da Inação' (o que a AlphaCorp perde ao não mudar). O Gerente de TI (Lobo Solitário) está cético. **Qual é o Custo da Inação mais poderoso para motivar a ação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O custo de usar o software da concorrência.",
+          "feedback": "❌ É relevante, mas não é a 'Plataforma em Chamas' (Burning Platform). O foco deve ser no custo DELES. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O medo da perda (o que eles vão perder se não agirem) é o dobro do poder da alegria do ganho (o que eles vão ganhar). Você deve enfatizar o risco de ficar para trás.",
+          "feedback": "✅ O medo da perda é o motivador mais poderoso na psicologia do cliente. Você está usando a emoção corretamente para criar urgência e Tensão Construtiva. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O custo de um almoço de negócios.",
+          "feedback": "❌ Irrelevante. Isso não gera urgência ou dor. É o oposto de Tensão Construtiva. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "O custo de comprar seu software.",
+          "feedback": "⚠️ Você está falando do preço, não do custo de NÃO COMPRAR. O Custo da Inação é sobre o status quo. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Adaptar (Tailor): Alinhando a Mensagem aos Stakeholders",
+      "narrative": "Você identificou uma stakeholder fundamental: a **Gerente de Conformidade e Risco**. Ela não estava na primeira reunião. O que é a **única coisa** que a convencerá a apoiar a solução? 🧐",
+      "options": [
+        {
+          "value": "a",
+          "label": "Que sua equipe de suporte técnico é a mais amigável do mercado.",
+          "feedback": "❌ Amigável é bom, mas não é o driver principal para a área de Risco. Você falhou em Adaptar a mensagem. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Que a solução é compatível com todas as regulamentações (LGPD, GDPR, etc.) e reduz drasticamente a exposição legal da AlphaCorp (Mitigação de Risco).",
+          "feedback": "✅ O núcleo do trabalho de Conformidade é **Risco e Regulamentação**. A mensagem de valor deve ser 'costurada' para mostrar como sua solução é um escudo legal e ético. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Que o produto é muito intuitivo e fácil de usar.",
+          "feedback": "⚠️ Esta é a prioridade de um usuário final, não de Conformidade. É uma adaptação superficial. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Que a solução é mais barata que a concorrência.",
+          "feedback": "❌ Preço é do CFO. Conformidade se preocupa com o risco de multas e falhas, que são muito mais caras que qualquer software. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Mito do Vendedor Relacionamento",
+      "narrative": "O Diretor de Marketing, seu 'Amigo', te pede um favor: *'Sei que seu preço é alto, mas você pode me dar um desconto substancial **apenas para manter o relacionamento forte**? Não quero ter que ir para a concorrência.'* **Como você usa o Desafiador para manter o preço E o relacionamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dou o desconto completo para mostrar que você é um 'Amigo' e garantir o fechamento. O relacionamento é tudo.",
+          "feedback": "❌ Você sucumbiu. Você ensinou ao cliente que seu valor é negociável. Você se tornou um Vendedor Relacionamento. O desconto mina o valor do seu insight proprietário. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Rejeito o desconto e digo: 'Com este ROI e mitigação de risco que mostrei, não há razão para um desconto. Se o preço é um problema, o insight não foi entendido.'",
+          "feedback": "✅ Ação de Desafiador! Você **Assumiu o Controle** e direcionou a conversa de volta ao **valor e ao insight**, não ao preço. Isso mantém o seu valor percebido alto. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dou um desconto de 5% e digo que é o máximo, para evitar um conflito.",
+          "feedback": "⚠️ É uma ação intermediária. Você evitou a perda total de valor, mas ainda deu um desconto sem razão de negócios, enfraquecendo ligeiramente a sua posição de Desafiador. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Apenas digo que não posso dar desconto e mudo o assunto. Não quero gerar tensão.",
+          "feedback": "❌ Você evitou a tensão, mas perdeu a oportunidade de reafirmar seu valor. O Desafiador usa a **Tensão Construtiva** como ferramenta de ensino. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Ensinar (Teach): A Moeda de Troca do Desafiador",
+      "narrative": "Você está apresentando o **Insight Proprietário** final que leva à sua solução. O objetivo é 'Reestruturar a Visão' (Reframe) deles. **Qual emoção primária você deve tentar gerar no cliente para motivá-lo a agir?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Felicidade (apenas sobre o ganho futuro).",
+          "feedback": "❌ A alegria do ganho é importante, mas não é tão poderosa quanto o medo da perda para impulsionar a mudança. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Uma combinação de **Surpresa** (nunca pensei nisso), **Desconforto** (o Custo da Inação é real) e **Alívio** (sua solução é a única saída lógica).",
+          "feedback": "✅ O cocktail emocional perfeito! O Desafiador vende a **dor** antes da cura. Surpresa/Desconforto abrem a mente, e o Alívio sela a necessidade da sua solução. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Raiva contra a concorrência.",
+          "feedback": "❌ A raiva pode ser contraproducente. Você quer o cliente focado no problema DELE, não em distrações. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Apenas o sentimento de que o vendedor é muito inteligente.",
+          "feedback": "⚠️ Isso constrói credibilidade, mas não urgência. O cliente pode te admirar, mas ainda não comprar. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Adaptar (Tailor): Alinhando a Mensagem aos Stakeholders",
+      "narrative": "O CEO (Diretor Executivo) pede a você um resumo de 1 minuto sobre por que a AlphaCorp deve mudar. **Qual dos pilares do Desafiador (Ensinar, Adaptar, Assumir o Controle) é mais importante para ele neste momento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ensinar: Ele precisa de mais detalhes técnicos sobre o software.",
+          "feedback": "❌ O CEO não se importa com detalhes técnicos. Ele se importa com a Estratégia e o Crescimento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Adaptar: A mensagem deve ser 'costurada' para a estratégia de crescimento da empresa e o impacto no mercado, validando a mudança em relação à visão global.",
+          "feedback": "✅ O CEO é o stakeholder mais alto. Sua mensagem deve ser adaptada para a visão macro (Estratégia, Futuro, Mercado). A relevância estratégica é tudo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Assumir o Controle: Dizer a ele que você já fechou o negócio.",
+          "feedback": "❌ Assumir o Controle é sobre guiar a conversa, não sobre ser autoritário ou arrogante. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Dar um desconto imediato para mostrar boa fé.",
+          "feedback": "⚠️ O CEO não é motivado por descontos, mas por crescimento e vantagem competitiva. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Os 5 Perfis de Vendedor",
+      "narrative": "Você descobriu que o Gerente de TI (Lobo Solitário) e a Gerente de Conformidade (Solucionador de Problemas Reativo) são os **dois maiores obstáculos ao consenso**, cada um com uma visão muito diferente. **Qual é o perfil que você deve procurar identificar e equipar internamente para superar o atrito entre eles?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O Construtor de Relacionamento, pois ele vai 'mediar a paz'.",
+          "feedback": "❌ O Construtor de Relacionamento evita conflito e não tem o poder de desafiar o status quo de ninguém. Ele é um 'Amigo', não um 'Mobilizador'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O CEO, pois ele tem o maior título e pode ordenar a compra.",
+          "feedback": "⚠️ O CEO pode forçar uma decisão, mas um consenso forçado leva a uma implementação fraca. Você precisa de um 'Mobilizador' no meio da cadeia. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "O Mobilizador (Stakeholder que pode impulsionar o consenso e a mudança internamente).",
+          "feedback": "✅ Correto! O Desafiador deve identificar e **equipar o Mobilizador** com materiais de Insight Adaptados para que ele 'venda' a solução internamente e crie o consenso necessário. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "O Lobo Solitário, pois ele é autoconfiante.",
+          "feedback": "❌ O Lobo Solitário é imprevisível e difícil de replicar. Ele não é um bom 'Mobilizador' para o consenso em vendas complexas. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Mito do Vendedor Relacionamento",
+      "narrative": "Na fase final, o cliente diz: *'Achei seu Insight Proprietário fantástico e você é um excelente professor. Mas, o concorrente 'BetaSolutions' me ligou ontem e disse que é **R$10.000 mais barato**.'* **O que você faz para fechar a venda?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Abaixo o preço em R$11.000 para garantir a vitória.",
+          "feedback": "❌ Você se tornou o 'Vendedor de Preço', negando todo o valor do seu Insight. Você treinou o cliente a pedir desconto. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Foco no relacionamento: 'Não se preocupe, confie em mim. O BetaSolutions não é tão bom quanto nós.'",
+          "feedback": "❌ Foco no relacionamento sem *insight* ou *valor* é ineficaz. Você evitou o desafio e perdeu o controle. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Assumo o Controle: 'Se o BetaSolutions fosse a solução, ele teria lhe dado esse Insight Proprietário. O custo de $10.000 é minúsculo comparado ao **Custo da Inação (Risco de Mercado)** que mostrei ao seu CFO. O que você acha que é a decisão mais estratégica?'",
+          "feedback": "✅ A jogada final do Desafiador. Você **Assumiu o Controle**, levou a conversa de volta ao **Insight Proprietário** (seu valor único) e ao **Risco Estratégico** (linguagem do CFO). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Pergunto ao cliente o que ele quer que você faça. Deixo a decisão nas mãos dele.",
+          "feedback": "⚠️ O Solucionador de Problemas Reativo. Você abriu mão do controle da conversa, esperando que o cliente o guie. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 2,
+  "title": "💰 Simulação: A Negociação de Alto Risco e a Jornada de Ensino",
+  "introduction": "Você está a apenas 48 horas de fechar o maior negócio do trimestre com a 'GiganteTech', uma empresa que está em busca de uma 'solução de software pronta'. No entanto, você sabe que a verdadeira alavanca de valor está em uma nova estratégia que eles desconhecem. Seu desafio é guiar a equipe de compra através da Jornada de Ensino, proteger sua margem e Assumir o Controle da negociação, superando o medo interno da mudança. Tome 12 decisões críticas para garantir a venda.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "O Consenso Interno: O Inimigo da Venda Complexa",
+      "narrative": "Você está na reunião inicial com 6 stakeholders. Você identifica que o maior obstáculo é o Gerente de TI (que quer 'manter o que funciona') e o Diretor de Marketing (que quer 'inovar rapidamente'). Eles têm prioridades opostas. 🤝 **O que você busca fazer primeiro para evitar a 'Paralisia da Decisão'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Identificar um 'Mobilizador' entre os stakeholders que tenha a influência e a abertura para a mudança, e focar em equipá-lo.",
+          "feedback": "✅ Excelente! O Desafiador foca no 'Mobilizador', a pessoa que tem o poder de impulsionar o consenso. Sem um campeão interno forte, a venda complexa morre na burocracia. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Adaptar a mensagem de valor para as prioridades opostas do Gerente de TI e do Diretor de Marketing, esperando que isso resolva o conflito.",
+          "feedback": "⭐ Boa iniciativa. A adaptação (Tailoring) é crucial, mas sem identificar o 'Mobilizador', essa mensagem pode não ter a voz interna necessária para gerar consenso. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Focar apenas no CEO e ignorar os conflitos dos outros stakeholders, pois ele é quem assina o cheque.",
+          "feedback": "⚠️ O CEO pode forçar a compra, mas o atrito com os outros stakeholders levará a uma implementação fracassada. O Desafiador precisa de consenso para a execução. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Focar em construir um bom relacionamento com o Gerente de TI para que ele goste de você e não crie obstáculos. ",
+          "feedback": "❌ Você se tornou o 'Vendedor Relacionamento'. Ser simpático não lhe dará poder para desafiar o status quo. O problema continuará, e você perderá o controle. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Insight Proprietário: A Vantagem Competitiva",
+      "narrative": "O Diretor de Vendas lhe diz que o problema da GiganteTech é 'a falta de leads'. Você sabe que a verdadeira causa é a 'Ineficiência no Processo de Qualificação'. Seu objetivo é o Reframe. 💡 **Qual a melhor forma de apresentar seu Insight Proprietário?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo: 'É contraintuitivo, mas nossos dados mostram que seu problema não é a falta de leads, e sim o excesso de leads **ruins**. Isso está custando $X milhões anualmente. Deixe-me mostrar por que todos se enganam nisso.'",
+          "feedback": "✅ Perfeito! Você iniciou o Ensino com um **Reframe Contraintuitivo** que se liga diretamente a um custo financeiro (Racional), desafiando a suposição do cliente. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'Nossa solução foca em leads de alta qualidade, o que é o oposto do que você está fazendo.'",
+          "feedback": "⭐ Você identifica o caminho certo, mas sem desafiar a suposição e quantificar a dor (custo), o impacto (Reframe) é fraco. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Eu digo: 'Eu vi que a concorrência também foca em leads. Nós somos melhores nisso.'",
+          "feedback": "⚠️ Focar na concorrência desvia a conversa do Insight Proprietário. O Desafiador foca no problema do cliente e na sua solução única. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu concordo com ele e digo: 'Você está certo. O problema são os leads. Nossa solução tem um novo recurso para capturar mais leads.'",
+          "feedback": "❌ Você confirmou o status quo (Vendedor Relacionamento), perdeu a oportunidade de Ensinar e agora competirá por preço com todos os outros fornecedores de 'captação de leads'. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Jornada de Ensino (The Commercial Teaching)",
+      "narrative": "Você iniciou a Jornada de Ensino com o Warm-up e o Reframe. Agora, você acaba de entregar o Insight Proprietário. 📊 **Qual deve ser o próximo passo (Racional) para validar o Insight com lógica e dados, garantindo que o cliente não ignore a dor?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Usar dados de mercado e da concorrência (Racional) para provar o alto 'Custo da Inação' desse foco em leads ruins, afogando-os em lógica e evidências.",
+          "feedback": "✅ Exatamente! O **Racional** usa dados e lógica para validar a emoção gerada pelo Reframe. A lógica justifica a mudança. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Fazer uma pausa e perguntar se eles concordam 100% com a sua conclusão (Insight) antes de continuar.",
+          "feedback": "⭐ Boa prática, mas interrompe o fluxo da Jornada de Ensino. O Desafiador deve provar o Insight com lógica (Racional) antes de pedir a concordância. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Começar a falar sobre o preço, já que a necessidade foi estabelecida.",
+          "feedback": "⚠️ Você saltou as etapas de Impacto e Solução. O preço só é discutido no final, após o cliente ter internalizado a dor e aceitado o novo caminho. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Mudar a apresentação imediatamente para a sua solução, já que você já provou o problema. ",
+          "feedback": "❌ Você perdeu a oportunidade de construir a ponte emocional (Impacto). Vender a cura antes de diagnosticar a doença completamente é um erro fatal. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Assumir o Controle (Take Control): Gerenciando a Negociação",
+      "narrative": "No final da apresentação do valor, o CFO, que é direto, diz: *'O valor parece bom, mas preciso de 15% de desconto. É nossa política'*. Você sabe que não pode ceder na margem. 🛑 **Como você Assumi o Controle, protegendo o preço e o valor?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo: 'Eu entendo a necessidade de reduzir o investimento. O que podemos remover do escopo (funcionalidades, serviços) para justificar a redução de 15%? O Insight e o ROI permanecem inegociáveis.'",
+          "feedback": "✅ Correto! Você usou a **Concessão Estratégica**. Você está firme no preço, mas flexível no escopo. Você devolveu o controle da negociação ao cliente (Assumir o Controle). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'Nosso preço é justificado pelo ROI que mostrei. Se o preço é um problema, podemos rever a apresentação do custo da inação.'",
+          "feedback": "⭐ Uma boa tática. Você reafirma o valor, mas não oferece uma alternativa estruturada para a negociação. O cliente pode se sentir encurralado. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Eu digo: 'Vou ver o que posso fazer com meu gerente. Talvez um desconto de 5% seja possível.'",
+          "feedback": "⚠️ Você começou a 'Negociar contra si mesmo'. Você deu uma concessão sem pedir nada em troca e enfraqueceu sua posição. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu digo: 'Tudo bem, concedo o desconto. O importante é fechar.'",
+          "feedback": "❌ Você cedeu e se tornou o Vendedor Relacionamento, priorizando a harmonia sobre a margem e o valor. Isso desvaloriza todo o seu Ensino. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "O Consenso Interno: O Inimigo da Venda Complexa",
+      "narrative": "O Gerente de TI, um stakeholder resistente, diz: *'Essa nova estratégia de vocês é muito arriscada. Vamos manter o nosso processo atual, que é lento, mas seguro.'* Ele está minando o consenso. 🛡️ **Como você lida com esse stakeholder resistente, Adaptando a mensagem para ele?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu adapto a mensagem de Insight especificamente para ele: 'Entendo a preocupação com o risco, mas a inação no processo lento **é o maior risco** (de falha regulatória/brecha de segurança). Nossa solução mitiga esse risco, garantindo **segurança** e **conformidade**.'",
+          "feedback": "✅ Perfeito! Você 'Adaptou' a mensagem (Tailor) para o driver pessoal dele (Risco/Segurança), transformando o medo dele no motivador para a mudança (Tensão Construtiva). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Eu peço ao Mobilizador ou ao CEO para intervir e forçá-lo a concordar. ",
+          "feedback": "⭐ Funciona, mas você perde a oportunidade de criar um alinhamento genuíno com o stakeholder. O consenso forçado gera ressentimento e pode atrapalhar a implementação. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Eu dou a ele uma promessa de suporte técnico adicional gratuito para acalmá-lo.",
+          "feedback": "⚠️ Você usou uma tática de Vendedor Relacionamento (concessão para agradar). Você não resolveu a objeção de risco. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu o ignoro e continuo a apresentação, focando nos stakeholders mais abertos. ",
+          "feedback": "❌ O Gerente de TI é um bloqueador crucial. Ignorá-lo é garantir que ele use seu poder para sabotar a venda internamente (Inação/Bloqueio). (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O Insight Proprietário: A Vantagem Competitiva",
+      "narrative": "Após a sessão de Q&A, o Diretor de Marketing comenta: *'Gostei do seu 'Reframe', mas a BetaCorp, sua concorrente, disse a mesma coisa sobre leads ruins na semana passada.'* Seu Insight foi roubado/não é único. 🔥 **Como você demonstra que seu Insight é verdadeiramente Proprietário?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo: 'Obrigado por mencionar isso. A BetaCorp identifica o problema (leads ruins), mas nosso Insight é **proprietário** porque a **única solução** que fecha essa lacuna e resolve a Ineficiência no Processo de Qualificação é o nosso Motor X, que eles não possuem.'",
+          "feedback": "✅ Fantástico! Você ligou o Insight diretamente à sua **Solução Proprietária**, tornando a sua proposta única e justificando o preço premium. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'Nossa solução tem 10 recursos a mais que a BetaCorp, então somos melhores.'",
+          "feedback": "⭐ Você foca na diferença do produto, mas não no Insight em si. A conversa volta a ser sobre 'recursos', e não sobre o valor estratégico. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Eu digo: 'A BetaCorp está errada. Eu sou o especialista e garanto que nosso insight é melhor.'",
+          "feedback": "⚠️ Focar na sua autoridade pessoal não é tão convincente quanto focar em dados e na lógica do seu produto. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu digo: 'Vou te dar um desconto de 10% se você esquecer a BetaCorp.'",
+          "feedback": "❌ Você usou o desconto para esconder uma fraqueza de valor. Isso é o oposto do que um Desafiador faz. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "A Jornada de Ensino (The Commercial Teaching)",
+      "narrative": "Você avançou para o passo de 'Impacto' (Impacto Emocional). Você já provou o Custo da Inação (Racional). 😔 **Como você personaliza a dor (medo da perda) para o CFO e o Mobilizador na sala?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu aponto que o Custo da Inação não é só financeiro, mas implica: 'Para o CFO, é o risco de **perder o bônus** ou ser questionado sobre o **risco de mercado**. Para o Mobilizador, é a **falta de promoção** por não impulsionar a mudança.'",
+          "feedback": "✅ Correto! O **Impacto** deve ser pessoal. O medo da perda pessoal (medo de perder o emprego/promoção) é um motor de ação mais forte do que o medo da perda organizacional. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Eu falo em termos de 'perda de 5% de receita'.",
+          "feedback": "⭐ Foca no número, mas não na consequência pessoal. O cliente só age quando a dor afeta sua carreira ou reputação. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Eu falo que 'todos na empresa ficarão tristes se a mudança não acontecer'.",
+          "feedback": "⚠️ Vago e generalizado. O Impacto deve ser específico para o stakeholder, não uma emoção genérica. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu foco apenas na alegria de ganhar: 'Com nossa solução, todos vocês ficarão muito felizes no futuro.'",
+          "feedback": "❌ Você falhou em usar o medo da perda. A alegria do ganho é a metade menos poderosa da motivação. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Assumir o Controle (Take Control): Gerenciando a Negociação",
+      "narrative": "A GiganteTech exige que você preencha um formulário de RFP (Request for Proposal) de 50 páginas e que aguarde 6 semanas para a próxima etapa de avaliação técnica. ⏳ **Como você Assumi o Controle do Processo para acelerar a venda e reduzir a burocracia?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo: 'Eu entendo o processo. No entanto, o Custo da Inação de 6 semanas de espera é de $X. Sugiro agilizarmos a avaliação técnica para a próxima semana e validarmos o ROI em um piloto menor, pulando a maior parte do RFP.'",
+          "feedback": "✅ Excelente! Você **Assumiu o Controle do Processo**. Você usou o Custo da Inação para desafiar a burocracia, redirecionando o foco para o resultado e urgência. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'Posso começar a preencher o RFP agora, mas isso vai atrasar meu foco no valor. Posso preencher apenas as 10 páginas mais importantes?'",
+          "feedback": "⭐ Você tentou negociar, mas aceitou a premissa de que o RFP era necessário. O Desafiador questiona a necessidade. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Eu digo: 'Obrigado. Vou preencher o RFP na íntegra, com urgência, e esperar as 6 semanas.'",
+          "feedback": "⚠️ Você se tornou um seguidor de regras passivo, aceitando o status quo burocrático, o que aumenta o risco de inação. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu digo que 'meu software é muito bom para ter que preencher RFPs'.",
+          "feedback": "❌ Você foi agressivo. Assumir o Controle é ser assertivo e estratégico, não rude. Você perdeu o negócio por falta de tato. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "O Insight Proprietário: A Vantagem Competitiva",
+      "narrative": "Você está revisando a Jornada de Ensino. Você precisa garantir que o Insight Proprietário leve o cliente a uma única conclusão. 🎯 **Qual é a principal característica que garante que seu Insight Proprietário não seja um 'consultoria gratuita' para o cliente?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ele deve ser 'ligado' (Wired) à solução do vendedor, onde a única forma lógica e eficaz de resolver o problema recém-descoberto é comprando e implementando sua solução.",
+          "feedback": "✅ O Insight Proprietário é aquele que só pode ser resolvido com a sua solução. Se não for 'ligado' (Wired) à sua solução, você está dando consultoria gratuita. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Ele deve ser contraintuitivo.",
+          "feedback": "⭐ É um requisito (Contraintuitivo), mas um insight pode ser contraintuitivo e resolvido por um concorrente. A ligação com sua solução é o fator proprietário. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Ele deve ser baseado em dados.",
+          "feedback": "⚠️ Insights devem ser baseados em dados, mas isso é uma característica de bom Ensino, não o que o torna único ou 'proprietário'. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Ele deve ser sobre o produto da concorrência.",
+          "feedback": "❌ Focar no concorrente é uma distração. O foco deve ser no problema do cliente e na sua solução. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "A Jornada de Ensino (The Commercial Teaching)",
+      "narrative": "Você está no passo **Solução** (New Way) da Jornada de Ensino. Você acabou de apresentar o caminho a seguir. 🗺️ **O que você deve garantir neste passo antes de apresentar sua 'Implementação' (seu produto)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Garantir que o cliente concorde 100% que o 'Novo Caminho' (New Way) é a única resposta lógica para o problema antes de ligar esse caminho ao seu produto (Implementação).",
+          "feedback": "✅ Essencial! O Desafiador vende a **ideia da Solução** (o Novo Caminho) antes de vender o produto (Implementação). Se eles não aceitarem o caminho, a Implementação falhará. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Dar um desconto se o cliente concordar que o 'Novo Caminho' é o melhor. ",
+          "feedback": "⭐ Você misturou valor com preço. A concordância deve ser por valor e lógica, não por um incentivo financeiro. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Começar a falar sobre o preço.",
+          "feedback": "⚠️ O preço é o último item. A apresentação da Implementação (seu produto) deve vir antes, como a conclusão lógica do Novo Caminho. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Fazer uma pausa e falar sobre como você se sente bem em fazer a apresentação. ",
+          "feedback": "❌ Irrelevante. O foco está no cliente, não no vendedor. Você quebrou o fluxo da Jornada de Ensino. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Consenso Interno: O Inimigo da Venda Complexa",
+      "narrative": "Você identificou o Diretor de Operações como seu 'Mobilizador'. Ele precisa convencer o Gerente de TI (resistente). 🤝 **Qual a melhor ferramenta para 'equipar' seu Mobilizador para vender internamente sua solução?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Fornecer a ele a Jornada de Ensino completa (a narrativa de 6 passos) adaptada para a perspectiva do Gerente de TI (Foco em Risco/Segurança), para que ele possa reestruturar a visão do colega.",
+          "feedback": "✅ O Desafiador equipa o 'Mobilizador' com a **Jornada de Ensino Adaptada**. O Mobilizador precisa da sua narrativa de Insight para superar o inimigo interno (Consenso). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Conectar o Mobilizador diretamente com um cliente de referência seu que já superou o mesmo problema.",
+          "feedback": "⭐ É uma ótima tática de validação (Social Proof), mas não é o mesmo que a ferramenta principal (a narrativa de Ensino) para impulsionar a mudança. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Dar a ele um preço mais baixo para convencer o Gerente de TI a mudar. ",
+          "feedback": "⚠️ Você usou o preço para resolver um problema de valor e consenso. Isso desvaloriza a solução. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Dizer a ele para ser mais agressivo com o Gerente de TI. ",
+          "feedback": "❌ Violência. O Desafiador é assertivo, não agressivo. A agressão destrói a confiança e o consenso. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Assumir o Controle (Take Control): Gerenciando a Negociação",
+      "narrative": "O cliente finaliza a negociação dizendo: *'Obrigado pelo Insight. Mas o preço é o preço de descarte (Walk-Away Price) para nós. Queremos que você ceda no preço OU o negócio está encerrado.'* Você sabe que não pode ceder. 🚪 **Como você Assumi o Controle para manter sua margem e forçar uma decisão?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu reafirmo o ROI e o Custo da Inação. Digo: 'Entendo seu limite. Nosso preço garante o ROI que prometi. Se isso não for valorizado, sugiro que paremos aqui. Mas pense no custo da inação.'",
+          "feedback": "✅ A postura final do Desafiador. Você usa a **disposição a se afastar** do 'Preço de Descarte' para forçar o cliente a reavaliar o Custo da Inação versus o custo do seu preço. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Eu ofereço um 'Downsell' (opção de escopo reduzido) com um preço mais baixo para preservar a margem. ",
+          "feedback": "⭐ Boa tática para preservar a margem, mas você não forçou o cliente a valorizar a solução completa. É uma concessão tática. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Eu peço um prazo de 24h para tentar convencer meu gerente a dar o desconto. ",
+          "feedback": "⚠️ Você jogou o problema para o seu lado, aceitando um prazo e perdendo o controle do processo e da negociação. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu cedo ao desconto, prometendo que 'essa é a última vez'.",
+          "feedback": "❌ Você cedeu e perdeu o controle. Você ensinou ao cliente que seu 'Preço de Descarte' não é real. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 3,
+  "title": "🎬 Simulação: Destruindo o Status Quo e Construindo a Narrativa",
+  "introduction": "Você está diante de uma empresa, a 'LegacyCorp', que opera com um sistema obsoleto (o status quo), mas está confortável demais para mudar. Seu desafio é entregar uma mensagem de Ensino perfeita para quebrar essa complacência, identificar o 'herói' interno (Mobilizador) e forçar a 'Venda da Mudança'. Você precisa usar a narrativa de 6 passos (Jornada de Ensino) de forma impecável. Suas 12 decisões críticas garantirão que o cliente veja o risco da inação.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "A Estrutura da Mensagem: Do Aquecimento à Solução",
+      "narrative": "Você inicia a reunião. O cliente está cético. Para construir credibilidade imediatamente (Warm-up), você precisa mostrar empatia e conhecimento profundo. 🤝 **Como você começa a Jornada de Ensino para 'ganhar o direito de desafiar'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu começo a falar sobre os prêmios que sua empresa ganhou e o quanto seu produto é superior ao do concorrente.",
+          "feedback": "❌ Isso não é Warm-up. É autopromoção. Você falha em mostrar que entende o mundo *deles*, o que é crucial para estabelecer a base para o desafio. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'Entendo que, como líder de Operações, você se orgulha da estabilidade do seu sistema. No entanto, o que a indústria (seus pares) está descobrindo é que essa 'estabilidade' é o novo risco.'",
+          "feedback": "✅ Perfeito! Você demonstrou empatia ('se orgulha da estabilidade') e conhecimento da indústria, estabelecendo credibilidade antes de apresentar o choque (o 'novo risco'). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu pergunto ao cliente: 'Qual é o seu maior problema hoje?' para que ele guie a conversa.",
+          "feedback": "⚠️ Você se tornou o Solucionador de Problemas Reativo. O Warm-up deve ser uma declaração de autoridade, não uma pergunta aberta. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu digo: 'Serei rápido, não vou perder seu tempo. Qual desconto você precisa para fechar hoje?'",
+          "feedback": "❌ Você pulou o valor e foi direto para o preço. Desvalorizou sua expertise e se tornou um Vendedor de Commodity. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "A Venda da Mudança: O Status Quo é o Inimigo",
+      "narrative": "Você precisa quebrar a complacência do cliente. O Status Quo é o seu maior concorrente. 💥 **Qual é a mensagem que melhor constrói um 'Burning Platform' (Plataforma em Chamas) para forçar a ação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo: 'Seus concorrentes estão usando a solução X e estão apenas 5% mais eficientes. Sugiro que você mude para não ficar para trás.'",
+          "feedback": "⚠️ O ganho de 5% não é urgente o suficiente para queimar a plataforma. O medo da perda deve ser maior. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'Se você não mudar seu sistema obsoleto (Status Quo) em 6 meses, nossos dados mostram que você incorrerá em uma multa regulatória de $5 milhões (Custo da Inação), o que é 10x o custo da nossa solução.'",
+          "feedback": "✅ Correto! Você quantificou o **Custo da Inação** e usou o **Medo da Perda** (multa, risco) para mostrar que o status quo é o caminho mais arriscado. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu digo: 'Nossa solução é muito melhor do que a antiga. Você ficará mais feliz.'",
+          "feedback": "❌ Focar apenas na alegria não cria urgência. O cliente adiará a decisão para um momento mais 'conveniente'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Eu dou um desconto para que a diferença de preço motive a mudança. ",
+          "feedback": "❌ O desconto mascara o problema real. A urgência deve ser baseada em risco e valor, não em preço. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "O Perfil do Mobilizador: Quem Impulsiona a Mudança",
+      "narrative": "Um dos stakeholders, o Diretor de Tecnologia (CTO), está te fazendo perguntas céticas, mas com uma visão estratégica. Ele não está sendo um 'Amigo', mas um 'Cético Construtivo'. 🔍 **Qual o papel mais provável dele na compra e o que você deve fazer?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ele é um 'Amigo'. Meu foco deve ser agradá-lo e garantir que ele concorde com tudo para fechar o negócio. ",
+          "feedback": "❌ O 'Amigo' não é cético nem estratégico. Você está confundindo simpatia com influência. O Amigo não tem poder de Mobilização. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Ele é o potencial 'Mobilizador'. Devo continuar a desafiá-lo com Insights Proprietários para convertê-lo em um 'campeão' que impulsione o consenso interno.",
+          "feedback": "✅ O Mobilizador é frequentemente um Cético Construtivo. Ele tem visão e poder. Você deve usá-lo como 'guia' para o consenso, equipando-o com sua narrativa. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ele é um 'Cético' que vai bloquear a venda. Devo ignorá-lo e focar em quem é mais fácil de convencer.",
+          "feedback": "⚠️ O Cético é o inimigo da mudança, mas se ele tiver autoridade, ignorá-lo levará à inação. Você deve tentar convertê-lo em Mobilizador. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Ele é um 'Solucionador de Problemas Reativo'. Devo focar em resolver suas dúvidas técnicas de implementação. ",
+          "feedback": "⭐ O Mobilizador pode ser técnico (como o CTO), mas sua principal característica é a vontade de desafiar o status quo estratégico, não apenas o técnico. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "A Complexidade da Decisão: O Desafio do Consenso",
+      "narrative": "A LegacyCorp tem 7 stakeholders envolvidos, o que aumenta o risco de 'Paralisia da Decisão'. O CFO está preocupado com o ROI, e o Gerente de RH com a moral dos funcionários. 😵‍💫 **Como você Simplifica a Decisão (e Alinha o Consenso) para que o grupo possa agir?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu fujo da complexidade e foco apenas no CFO, pois ele tem o poder de compra. O resto não importa.",
+          "feedback": "❌ Uma venda complexa exige consenso. Focar em um stakeholder leva ao 'Consenso de Baixo Denominador Comum' (o status quo ou a opção mais barata). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu Adapto a Jornada de Ensino para mostrar 3 prioridades que unem o grupo: 1. Risco (CFO), 2. Eficiência (Operações) e 3. Vantagem Competitiva (CEO), simplificando a complexidade.",
+          "feedback": "✅ O Desafiador atua como um 'Construtor de Consenso'. Você simplifica a decisão, adaptando a mensagem para que todos vejam a relevância e a necessidade de agir. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu peço que o cliente faça uma votação interna para decidir a prioridade.",
+          "feedback": "⚠️ Você delegou a responsabilidade da decisão. O Desafiador assume o controle e guia a decisão. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu crio 7 apresentações diferentes para abordar as 7 prioridades de cada stakeholder individualmente.",
+          "feedback": "⭐ É a atitude certa (Adaptar), mas é impraticável e arrisca confundir o grupo. Simplificar para poucas prioridades unificadoras é mais eficaz. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "A Estrutura da Mensagem: Do Aquecimento à Solução",
+      "narrative": "Você entregou o Racional (dados) e o Impacto (personalização da dor). Agora, você está no passo **Solução** (New Way). 🚀 **Qual é o foco principal deste passo, antes de apresentar sua empresa (Implementação)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Apresentar sua empresa (Implementação) como a única solução para o problema.",
+          "feedback": "⚠️ Você pulou o passo Solução. Você precisa vender a **visão** do 'Novo Caminho' (o futuro sem o problema) antes de ligá-lo ao seu produto. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Descrever o novo caminho estratégico que resolve a dor, fazendo o cliente 'comprar' a ideia da mudança antes de comprar o produto.",
+          "feedback": "✅ O Desafiador vende o destino, não o mapa. A **Solução (New Way)** é a visão, a cura, que eles devem aceitar como lógica antes de ver seu produto como o veículo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Focar em quanto o produto é mais barato do que o sistema obsoleto.",
+          "feedback": "❌ Você voltou para a competição de preço. O foco deve ser no valor estratégico e na nova realidade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Perguntar se eles gostam da nova visão, sem insistir. ",
+          "feedback": "⭐ Você buscou a validação, mas de forma fraca. O Desafiador deve ser firme na visão. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "O Perfil do Mobilizador: Quem Impulsiona a Mudança",
+      "narrative": "O CTO (Mobilizador) está convencido, mas diz que não tem tempo de 'vender' a solução para os outros 6 stakeholders. 🛠️ **O que você faz para 'Equipar' o Mobilizador e garantir que ele tenha sucesso na venda interna?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu ofereço um desconto para que o preço ajude a convencer os outros stakeholders. ",
+          "feedback": "❌ O Mobilizador precisa de uma **narrativa de valor**, não de um desconto, para convencer os colegas. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu forneço a ele a Jornada de Ensino completa (a narrativa de 6 passos) em slides, com notas de apoio sobre como adaptar o 'Impacto' para o CFO (Risco) e para o Gerente de RH (Moral).",
+          "feedback": "✅ Exatamente! Você equipou o 'campeão' com a **narrativa de Ensino adaptada**, tornando-o um 'vendedor' interno eficaz e garantindo o consenso. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu digo a ele para focar apenas em seu próprio departamento e ignorar os outros stakeholders.",
+          "feedback": "⚠️ Isso levará a uma decisão de baixo denominador e a uma implementação com atrito. O consenso é crucial. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu me ofereço para ir até cada um dos 6 stakeholders separadamente e fazer a mesma apresentação. ",
+          "feedback": "⭐ É a sua função, mas sobrecarrega sua agenda. É mais eficaz treinar o Mobilizador para fazer o trabalho em seu nome, para que o insight venha de dentro. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "A Venda da Mudança: O Status Quo é o Inimigo",
+      "narrative": "Você está diante do CEO na fase de aprovação. Ele diz: *'O custo da inação é alto, mas estou com medo de dar um passo errado. Qual é a sua garantia de que essa mudança não vai nos matar?'* 🥶 **Como você responde a esse medo, vendendo a segurança da mudança?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo: 'Não há garantias na vida. Se você não está disposto a arriscar, não compre.'",
+          "feedback": "❌ Você foi agressivo e não vendeu a segurança. Isso aumenta o medo da perda e o risco percebido. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'A garantia é que o Status Quo **já está matando** o seu negócio. Nossa solução é baseada em dados e na prova social de 50 clientes similares. O risco de não mudar é muito maior do que o risco de mudar.'",
+          "feedback": "✅ Correto! Você usou a **Prova Social (Racional)** para reduzir o Risco Percebido e o **Custo da Inação** para reafirmar que o status quo é a verdadeira ameaça. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu dou um desconto. O preço mais baixo reduz o risco. ",
+          "feedback": "⚠️ O risco que o CEO percebe é estratégico, não financeiro. O desconto não resolve o medo da falha. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu digo: 'Eu serei seu amigo. Confie em mim, vai dar certo.'",
+          "feedback": "❌ Vendedor Relacionamento. Confiança pessoal não é suficiente para mitigar o risco de uma decisão de $X milhões. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "A Complexidade da Decisão: O Desafio do Consenso",
+      "narrative": "A equipe de compras tenta empurrar a decisão para o 'Consenso de Baixo Denominador Comum', sugerindo que 'a opção mais barata é a mais segura'. 📉 **Como você reverte essa mentalidade?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu concordo e sugiro a opção mais barata para fechar o negócio. ",
+          "feedback": "❌ Você sucumbiu à inação do grupo. Você aceitou a opção mais segura e ineficaz. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'A opção mais barata é, na verdade, a **mais arriscada**. Ela não resolve o problema do Custo da Inação que mostrei ao CFO. O preço da nossa solução é garantido pelo ROI do nosso Insight Proprietário.'",
+          "feedback": "✅ O Desafiador ataca o **Consenso de Baixo Denominador Comum** (a opção segura), mostrando que ele é o caminho mais arriscado e caro. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu digo: 'Não se preocupe, eu sou o mais simpático, então o preço deve ser o mais alto.'",
+          "feedback": "❌ Não tem relação. Você não usou a lógica nem o valor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Eu dou um pequeno desconto para aliviar a tensão. ",
+          "feedback": "⚠️ O desconto não resolve a raiz do problema, que é a mentalidade de segurança. O foco deve ser no valor estratégico. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "A Estrutura da Mensagem: Do Aquecimento à Solução",
+      "narrative": "Você está apresentando a fase **Implementação** (Supplier Solution). 🛠️ **O que você deve garantir nesta fase?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Que o cliente sinta que a sua empresa é a **única** que pode entregar o 'Novo Caminho' (Solução) de forma lógica e eficaz, ligando o Insight Proprietário diretamente aos seus recursos únicos.",
+          "feedback": "✅ O Desafiador usa a Implementação para mostrar que a sua empresa é a conclusão lógica da Jornada de Ensino, a única capaz de fechar a lacuna. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Focar em todos os recursos do seu produto, mesmo aqueles que não se ligam ao Insight. ",
+          "feedback": "⭐ É importante mostrar o produto, mas focar em recursos irrelevantes dilui a mensagem. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Falar sobre o preço e os termos de pagamento. ",
+          "feedback": "⚠️ O preço é o último item. O foco é na entrega do valor. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pedir que o cliente assine o contrato imediatamente. ",
+          "feedback": "❌ Você pulou a negociação e a fase de consenso. Você foi muito agressivo. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Perfil do Mobilizador: Quem Impulsiona a Mudança",
+      "narrative": "Você percebe que o Diretor de RH é um 'Amigo'. Ele te dá informações valiosas de bastidores, mas não tem poder de decisão. 🤝 **O que você faz com essas informações?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu uso as informações do 'Amigo' para refinar a mensagem e equipar o 'Mobilizador' (CTO), sem envolver o Diretor de RH na estratégia de vendas. ",
+          "feedback": "✅ O 'Amigo' é útil para informações, mas não para influência. O Desafiador usa a informação para **Adaptar** a mensagem e **Equipar** o Mobilizador. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Eu me concentro em convencer o 'Amigo' a votar em você, pois ele é simpático. ",
+          "feedback": "⚠️ O Amigo não tem poder de influência na decisão de grupo. Seu tempo é melhor gasto equipando o Mobilizador. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Eu dou um desconto para o 'Amigo' como agradecimento pelas informações. ",
+          "feedback": "❌ Você usou o preço para o relacionamento, o que é um erro. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Eu uso as informações para fazer uma apresentação separada e secreta para o Diretor de RH. ",
+          "feedback": "⭐ É uma boa forma de Adaptar, mas a eficiência máxima está em equipar o Mobilizador. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "A Venda da Mudança: O Status Quo é o Inimigo",
+      "narrative": "O cliente potencial argumenta que o Status Quo é 'seguro'. Seu desafio é provar o contrário. 🛡️ **Qual é a forma mais eficaz de quebrar a ilusão de segurança do Status Quo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo que a concorrência é melhor. ",
+          "feedback": "❌ Focar na concorrência é uma distração. O foco deve ser no custo DELES de não fazer nada. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'A segurança do Status Quo é uma ilusão. Nossa análise mostra que você está **sangrando $X em custos ocultos** e **risco regulatório** (Custo da Inação) **todos os meses**.'",
+          "feedback": "✅ Corretíssimo! Você usou a **Quantificação da Dor** para mostrar que o status quo é, na verdade, o caminho mais arriscado e caro. Isso cria o Burning Platform. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu dou um desconto. ",
+          "feedback": "⚠️ O desconto não resolve o medo da mudança. O foco deve ser na dor. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu concordo que o Status Quo é seguro e digo que a mudança é lenta. ",
+          "feedback": "❌ Você se tornou o Vendedor Relacionamento. Você confirmou a decisão de inação do cliente. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "A Complexidade da Decisão: O Desafio do Consenso",
+      "narrative": "Apesar de todos os esforços, o grupo não consegue decidir entre sua solução premium e a opção 'segura' e mais barata. O conflito de prioridades está gerando inação. 💡 **Como você Assumi o Controle para forçar um consenso?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu dou um desconto para resolver o conflito. ",
+          "feedback": "❌ O desconto é a opção mais segura e ineficaz para o vendedor. Você se submeteu ao Consenso de Baixo Denominador. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'O conflito é claro. Qual é o **custo de não decidir** hoje? Se não há consenso sobre o ROI da solução premium, precisamos revisitar o custo da inação e o risco do status quo. Qual é o seu Preço de Descarte?'",
+          "feedback": "✅ O Desafiador **Assumi o Controle** forçando o grupo a confrontar o Custo da Inação. Isso impulsiona a decisão e quebra a paralisia. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu digo que a concorrência está prestes a fechar o negócio. ",
+          "feedback": "⭐ Embora crie urgência, não resolve o conflito interno. É uma pressão externa fraca. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Eu peço mais uma semana para pensar em uma solução. ",
+          "feedback": "⚠️ Você perdeu o controle do processo e aumentou o risco de inação. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 4,
+  "title": "🛡️ Simulação Final: O Confronto de Valor e a Liderança Challenger",
+  "introduction": "Você está assumindo o papel de um Gerente de Vendas Desafiador. Seu vendedor de melhor desempenho (um Vendedor Desafiador) está enfrentando um 'Vendedor Relacionamento' da concorrência, que está usando o preço como arma. Além disso, seu vendedor foi desafiado pelo cliente sobre o alto preço da sua solução. Sua missão é guiar seu vendedor na negociação de valor, reafirmar o Custo da Inação e garantir que a vitória seja baseada no Insight Proprietário. Tome 12 decisões críticas para defender o valor.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "O Vendedor Desafiador vs. O Vendedor Relacionamento",
+      "narrative": "Seu vendedor Desafiador reporta que o concorrente (um Vendedor Relacionamento) está minando a negociação, oferecendo um desconto de 20% e prometendo 'amizade e suporte 24/7'. 😠 **Qual é o risco de o cliente ceder à oferta do Vendedor Relacionamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O cliente fechará mais rápido, mas se tornará um 'Fornecedor de Commodity', incapaz de justificar o preço premium no futuro e incapaz de impulsionar a mudança estratégica.",
+          "feedback": "✅ Exatamente. O Vendedor Relacionamento vende a si mesmo e o preço baixo. O cliente compra o preço, mas perde a vantagem estratégica do Insight Proprietário. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "O cliente se tornará mais feliz e não pedirá mais descontos. ",
+          "feedback": "❌ O oposto. O cliente treina o vendedor a ceder a descontos, tornando-se mais exigente com o preço. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "O cliente obterá o mesmo Insight Proprietário, mas mais barato. ",
+          "feedback": "⚠️ O risco existe, mas o Insight Proprietário é único e ligado à sua solução. O risco principal é a commodity. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O ciclo de vendas se tornará mais rápido. ",
+          "feedback": "⭐ Sim, a curto prazo, mas o risco a longo prazo (perda de valor e margem) é maior. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "O Risco da Inação: O Maior Inimigo",
+      "narrative": "O CFO da empresa cliente diz: *'Obrigado pelo Insight. Mas decidimos adiar a decisão por 6 meses para reavaliar o orçamento.'* Eles estão voltando ao Status Quo (Inação). 🕰️ **Como você usa o 'Custo da Inação' para quebrar essa paralisia?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu aceito a decisão e digo que estarei disponível em 6 meses, focando no relacionamento.",
+          "feedback": "❌ Vendedor Relacionamento. Você cedeu à inação do cliente. O Custo da Inação só aumentará, e a compra é incerta. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu pergunto: 'Eu entendo. Mas com o Custo da Inação de $X milhões que lhe mostrei, como vocês vão pagar pelo custo de esperar 6 meses para resolver o problema? Isso não torna o Status Quo o caminho mais caro?'",
+          "feedback": "✅ O Desafiador reestrutura a visão do orçamento e do tempo, forçando o cliente a confrontar o **risco financeiro** de adiar a decisão. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu dou um desconto de 5% se eles fecharem imediatamente. ",
+          "feedback": "⚠️ Você usou o preço, mas o problema não é o preço, é a inação (medo de errar). O desconto não resolve o medo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu digo que a concorrência está prestes a fechar um negócio similar com o concorrente deles. ",
+          "feedback": "⭐ Tenta criar urgência, mas sem quantificar o custo, a pressão é fraca. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Negociação de Valor: Protegendo o Preço",
+      "narrative": "O cliente diz: *'O preço é muito alto. Se você me der um desconto de 10%, eu fecho hoje.'* Seu vendedor está tentado. 💰 **Qual é a resposta que protege o preço e Assumi o Controle da negociação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo: 'Feito. Dou o desconto de 10% e fechamos.'",
+          "feedback": "❌ Você caiu na armadilha do Relacionamento e desvalorizou o Insight Proprietário. Você negociou contra si mesmo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'Entendo a restrição de orçamento. O que podemos **remover do escopo** (funcionalidades, serviços) para justificar a redução de 10% no investimento?'",
+          "feedback": "✅ Ação de Desafiador. Você usou a **Concessão Estratégica** (troca de valor), protegendo o preço e reassumindo o Controle da negociação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu digo: 'Não dou desconto. Ou fecha no preço cheio, ou não fecho.'",
+          "feedback": "⚠️ Muito agressivo. Você protegeu o preço, mas pode ter alienado o cliente. O Desafiador é assertivo, não inflexível. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu digo: 'É nosso preço de descarte (Walk-Away Price). O que te impede de ver o valor do ROI que mostrei?'",
+          "feedback": "⭐ Uma boa tática para forçar a reavaliação, mas não oferece uma ponte de negociação como a Concessão Estratégica. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Papel do Gerente de Vendas Desafiador",
+      "narrative": "Seu vendedor Desafiador está focando demais na atividade (ligações e reuniões) e pouco no **Insight Proprietário**. Você precisa treiná-lo. 📈 **Qual é a melhor métrica para orientar o vendedor a focar na abordagem Desafiadora?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Quantas ligações ele fez esta semana? (Atividade)",
+          "feedback": "❌ Gerente de 'Trabalhador Duro'. Focar em atividades não garante a qualidade do Ensino ou do Insight. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Quantas vezes ele usou o Insight Proprietário para reestruturar a visão do cliente e qual foi a taxa de conversão da Jornada de Ensino? (Qualidade)",
+          "feedback": "✅ Gerente Desafiador. O foco é na **qualidade da interação** e na **aplicação do Insight**, que são os motores do alto desempenho Desafiador. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Quão simpático ele foi com os clientes? (Relacionamento)",
+          "feedback": "❌ Gerente de 'Relacionamento'. Isso incentiva a simpatia em vez do valor estratégico. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Qual é a sua taxa de desconto média? (Preço)",
+          "feedback": "⚠️ O foco no desconto é importante, mas não aborda a raiz do problema (falta de Ensino). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "O Vendedor Desafiador vs. O Vendedor Relacionamento",
+      "narrative": "O cliente elogia seu vendedor Desafiador: *'Você é um professor! Seu Insight foi incrível.'* No entanto, eles ainda sentem falta da 'simpatia' e da 'paciência' do Vendedor Relacionamento. ⚖️ **Qual é a principal diferença de relacionamento que seu vendedor deve enfatizar?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O relacionamento do Desafiador é construído sobre o valor e o sucesso do cliente, não sobre laços pessoais e harmonia. 'Eu me importo mais com seu resultado do que com sua satisfação momentânea.'",
+          "feedback": "✅ O Desafiador constrói o relacionamento através do **valor** e do **insight**. Ele não é um 'amigo', mas um parceiro estratégico. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Que ele também é simpático, mas apenas depois de fechar o negócio. ",
+          "feedback": "⚠️ Tenta conciliar, mas perde a oportunidade de reafirmar que a simpatia não é a principal moeda. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Que ele está disposto a dar um pequeno desconto para provar a amizade. ",
+          "feedback": "❌ Vendedor Relacionamento. Você minou o valor do Insight Proprietário. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Que a paciência não é importante, apenas o preço. ",
+          "feedback": "❌ Incorreto. O Desafiador é assertivo, não rude. A paciência estratégica no processo é importante. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "A Negociação de Valor: Protegendo o Preço",
+      "narrative": "O cliente compara seu preço ao do concorrente e diz: *'Por que eu deveria pagar o preço premium se o Insight da concorrência (Vendedor Relacionamento) é quase o mesmo?'* 🛡️ **Como você usa o Insight Proprietário para justificar o preço premium e Assumir o Controle?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo: 'A diferença é que nosso Insight é **Proprietário** e ligado à nossa **Implementação Única**. O concorrente pode ter a ideia, mas só nossa solução pode fechar a lacuna e garantir o ROI que você busca. Você paga pelo **resultado garantido**, não pela ideia.'",
+          "feedback": "✅ O Desafiador retorna ao valor. O preço premium é justificado pelo **Insight Proprietário** e pela **entrega exclusiva** da sua empresa. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'Eu sou um Vendedor Desafiador, por isso sou mais caro. É o custo da excelência.'",
+          "feedback": "⚠️ Arrogante e não quantifica o valor. Não é uma justificativa lógica para o CFO. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Eu dou um desconto, já que a diferença de preço está clara. ",
+          "feedback": "❌ Você perdeu a chance de defender o valor do Insight. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Eu digo: 'Nossa tecnologia é mais complexa e robusta.'",
+          "feedback": "⭐ Focar na tecnologia é bom, mas o cliente se importa com o ROI. O foco principal deve ser o resultado. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Risco da Inação: O Maior Inimigo",
+      "narrative": "A equipe de vendas está frustrada porque os clientes continuam dizendo 'Não temos orçamento'. Seu desafio como Gerente é reorientá-los. 💡 **Qual é a reestruturação (Reframe) que você treina seu time para usar contra a objeção de 'falta de orçamento'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Treiná-los para dar descontos para se adequarem ao orçamento. ",
+          "feedback": "❌ Isso destrói a margem e não resolve a raiz do problema. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Treiná-los para responder: 'Eu entendo. Mas se o problema custa $X por mês (Custo da Inação), a pergunta não é 'se' você pode pagar a solução, mas 'por quanto tempo' você pode pagar para **manter o problema**?'",
+          "feedback": "✅ Excelente! Você usa a **Reestruturação** para transformar o custo em **investimento** e o problema em **risco insustentável**, combatendo o Status Quo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Treiná-los para focar apenas no recurso mais barato do produto. ",
+          "feedback": "⚠️ O foco no recurso mais barato não aborda o valor do Insight Proprietário. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Treiná-los para dizer: 'Obrigado por nos informar sobre o orçamento. Estaremos de volta quando você tiver dinheiro.'",
+          "feedback": "❌ Você aceitou a objeção sem desafiá-la. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Papel do Gerente de Vendas Desafiador",
+      "narrative": "Você percebe que um vendedor da equipe está com dificuldades em 'Adaptar' (Tailor) a mensagem para diferentes stakeholders. 🛠️ **Como você o treina nessa habilidade Desafiadora?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo a ele para ser mais simpático. ",
+          "feedback": "❌ Gerente de 'Relacionamento'. Simpatia não é o mesmo que adaptação estratégica. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu forneço 'Perfís de Stakeholders' prontos (CFO: ROI/Risco, Gerente de TI: Segurança/Eficiência) e o faço praticar como o Warm-up e o Impacto mudam para cada um. ",
+          "feedback": "✅ O Gerente Desafiador **treina habilidades**. A Adaptação é ensinada fornecendo ferramentas e prática focada em como a mensagem de Insight se conecta aos drivers de cada função. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu digo para ele usar a mesma apresentação para todos. ",
+          "feedback": "❌ Incorreto. Isso leva à irrelevância e à perda de consenso. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Eu digo para ele focar apenas no CEO e ignorar os outros. ",
+          "feedback": "⚠️ Isso aumenta o risco de inação devido à falta de consenso. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "O Vendedor Desafiador vs. O Vendedor Relacionamento",
+      "narrative": "Seu vendedor Desafiador foi exposto ao Vendedor Relacionamento e agora está confuso sobre onde deve investir sua energia. 🔋 **Onde o Desafiador deve focar para garantir o sucesso a longo prazo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Em construir laços pessoais profundos com todos os clientes, ignorando o Insight Proprietário. ",
+          "feedback": "❌ Vendedor Relacionamento. Foco errado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Em refinar constantemente o **Insight Proprietário** e a **Jornada de Ensino**, pois esta é a principal vantagem competitiva que o Relacionamento não consegue replicar.",
+          "feedback": "✅ O Insight é a moeda de troca do Desafiador. Ele deve focar em aprimorar o que é único e de alto valor. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Em dar descontos estratégicos. ",
+          "feedback": "⚠️ Desconto é uma tática, não um foco estratégico. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Em ser o 'Lobo Solitário' e ignorar todas as regras. ",
+          "feedback": "⭐ O Lobo Solitário é eficaz, mas o Desafiador é o modelo treinável. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Risco da Inação: O Maior Inimigo",
+      "narrative": "Você está ajudando o vendedor a se preparar para a próxima reunião. O cliente diz que *'precisa de tempo para ter certeza de que essa é a solução mais segura'*. 🎯 **Como você usa o medo da perda para forçar a urgência da mudança?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo: 'Entendo, mas o medo de perder (Loss Aversion) o mercado e incorrer em custos ocultos é muito maior do que a alegria de ter nossa solução. Você está arriscando o futuro por medo de mudar.'",
+          "feedback": "✅ O Desafiador usa o **medo da perda**, que é duas vezes mais poderoso que a alegria do ganho, para impulsionar a decisão. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'Você tem tempo. Me ligue quando estiver pronto.'",
+          "feedback": "❌ Vendedor Relacionamento. Você cedeu à inação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Eu dou um desconto para acelerar a compra. ",
+          "feedback": "⚠️ O desconto não resolve o medo da mudança. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu digo: 'A concorrência é mais rápida que você.'",
+          "feedback": "⭐ Cria urgência, mas sem quantificar o risco. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "A Negociação de Valor: Protegendo o Preço",
+      "narrative": "O cliente se afasta do desconto e diz: *'Obrigado pelo Insight. Não vamos fechar agora.'* Seu vendedor está desanimado. 📉 **Como você o orienta, usando a mentalidade 'Assumir o Controle'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo: 'Não se preocupe, perdemos alguns. Mantenha o relacionamento forte.'",
+          "feedback": "❌ Gerente de 'Relacionamento'. Você não forneceu um aprendizado sobre a negociação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'Parabéns. Você se afastou do **negócio errado**. O cliente não valorizou o Insight e não estava disposto a pagar o ROI. O 'Preço de Descarte' (Walk-Away Price) foi atingido. Vamos focar em clientes que valorizem o Insight Proprietário.'",
+          "feedback": "✅ O Gerente Desafiador reforça a mentalidade de **valor** e **controle**. Não ter medo de perder o negócio errado é crucial para a margem. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu digo: 'Vá até o cliente e peça desculpas por não ter dado o desconto.'",
+          "feedback": "❌ Você incentiva a mentalidade de 'Relacionamento' e destrói o valor do vendedor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Eu digo: 'Vou falar com o gerente do cliente para ver se ele pode intervir.'",
+          "feedback": "⚠️ Você delegou a responsabilidade da venda para um terceiro. O vendedor deve aprender a negociar. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Papel do Gerente de Vendas Desafiador",
+      "narrative": "Você está recrutando um novo vendedor. Você tem dois candidatos: um 'Trabalhador Duro' (muita atividade) e um 'Construtor de Relacionamento' (muita simpatia). 🎯 **Qual é a sua estratégia de recrutamento e treinamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu contrato o Construtor de Relacionamento, pois simpatia é a base de tudo. ",
+          "feedback": "❌ O Construtor de Relacionamento é o menos eficaz. É difícil treiná-lo para desafiar. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu contrato o Trabalhador Duro. Ele já tem a ética de trabalho e é mais fácil treiná-lo nos 3 pilares do Desafiador (Ensino, Adaptação, Controle) do que o Construtor de Relacionamento. ",
+          "feedback": "✅ O Trabalhador Duro é um bom ponto de partida. Ele tem a disciplina necessária e é mais maleável do que o Relacionamento. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu contrato o Construtor de Relacionamento e o Lobo Solitário. ",
+          "feedback": "⚠️ O Lobo Solitário é eficaz, mas não replicável. O Relacionamento é o menos eficaz. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu contrato os dois para ter equilíbrio na equipe. ",
+          "feedback": "⭐ O recrutamento ideal prioriza a mentalidade Desafiadora, mas a diversidade de perfis pode ser útil se forem bem gerenciados. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 5,
+  "title": "⚙️ Simulação: A Transformação Organizacional Desafiadora",
+  "introduction": "Você é o Diretor de Vendas recém-promovido, encarregado de transformar sua organização de uma equipe de 'Vendedores Relacionamento' para uma 'Cultura Desafiadora'. Sua missão é alinhar Marketing, Liderança e Vendas em torno do Insight Proprietário. O desafio não está no cliente, mas na sua organização. Você precisa garantir que cada vendedor se torne um 'professor' e que o produto seja vendido como a conclusão lógica da Jornada de Ensino. Suas 12 decisões críticas garantirão a escalabilidade do alto desempenho.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "A Estrutura da Organização Desafiadora",
+      "narrative": "Seu time de Vendas e o time de Marketing estão em conflito. Vendas diz que os materiais de Marketing são 'genéricos' e Marketing diz que Vendas 'não usa o conteúdo'. 🔗 **Qual é a principal ferramenta que você deve usar para alinhar as duas áreas na nova Cultura Desafiadora?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Mudar a liderança de Marketing e Vendas para ter pessoas mais simpáticas e cooperativas.",
+          "feedback": "❌ Isso foca no Relacionamento (simpatia) em vez do alinhamento estratégico. A cooperação precisa ser forçada por um objetivo comum (o Insight). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Usar o Insight Proprietário e a Jornada de Ensino como o único elo comum, fazendo o Marketing criar a narrativa e Vendas ser responsável por entregá-la fielmente.",
+          "feedback": "✅ Excelente! O Insight é a cola que une a organização Desafiadora. Ele padroniza a mensagem e alinha a criação (Marketing) com a entrega (Vendas). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Focar apenas em reuniões semanais de 'happy hour' para que todos se tornem 'amigos' e confiem uns nos outros.",
+          "feedback": "⚠️ Você está incentivando o 'Vendedor Relacionamento'. A confiança deve ser construída sobre o valor do Insight, não sobre a amizade. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pedir que Vendas crie seus próprios insights e que Marketing se adapte às suas necessidades. ",
+          "feedback": "⭐ Tenta alinhar, mas perde a escalabilidade. O Insight Proprietário deve ser criado centralmente (Marketing) para ser replicável. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "A Venda de Soluções: O Desafiador e o Produto",
+      "narrative": "Seu vendedor Desafiador tem a tendência de começar a apresentação mostrando a tela do produto, focando em todos os recursos técnicos. 🖼️ **Como você o treina para mudar o foco do 'Produto' para a 'Visão de Solução' (New Way)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo: 'A partir de agora, você só pode mostrar o produto na fase de **Implementação**, depois que o cliente aceitou o novo caminho estratégico (Solução) e a dor (Reframe) for insuportável.'",
+          "feedback": "✅ Perfeito! O Desafiador vende a **visão da solução (New Way)** antes do produto. O produto é o veículo, não o destino. Você Assumiu o Controle da narrativa. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Eu digo para ele começar a apresentação com um desconto para compensar o tédio dos recursos. ",
+          "feedback": "❌ Você misturou preço e valor. O desconto não torna a apresentação mais interessante. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Eu digo para ele focar nos 3 recursos mais importantes, mas ainda no início da reunião. ",
+          "feedback": "⚠️ Melhor, mas ainda no momento errado da Jornada de Ensino. A apresentação precoce de recursos leva o cliente a comparar com a concorrência. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu digo: 'Tudo bem, mas lembre-se de enfatizar o ROI de cada recurso.'",
+          "feedback": "⭐ Focar no ROI é bom, mas o cliente ainda não entendeu o problema que o recurso resolve (Reframe). (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Estrutura da Organização Desafiadora",
+      "narrative": "Você está definindo o papel do Marketing na nova Estrutura Desafiadora. O Diretor de Marketing está acostumado a criar folhetos e eventos. 📰 **Como você redefine a principal métrica e o papel do Marketing para apoiar o Desafiador?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O Marketing deve gerar 'leads qualificados por simpatia', focando em eventos sociais e brindes.",
+          "feedback": "❌ Você transformou o Marketing em 'Construtor de Relacionamento', o que é ineficaz para vendas complexas. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O Marketing deve criar o **Insight Proprietário** e a **Jornada de Ensino** completa (narrativa de 6 passos) para que Vendas possa desafiar o cliente. A métrica é a 'aceitação do Reframe'.",
+          "feedback": "✅ O Marketing Desafiador é o motor do Ensino. Seu principal papel é fornecer a arma (o Insight) que Vendas usará para vender a mudança. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O Marketing deve focar apenas em SEO e tráfego orgânico para reduzir o CAC. ",
+          "feedback": "⚠️ O Marketing deve focar no *valor* do conteúdo (Insight), não apenas no *volume* (tráfego). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O Marketing deve entrevistar os 'Lobos Solitários' para roubar seus insights e replicá-los rapidamente para o resto da equipe.",
+          "feedback": "⭐ Uma tática válida (Inteligência de Vendas), mas o papel principal ainda é a criação de Insights proprietários baseados em dados. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Desafiador e o Cliente Cético",
+      "narrative": "Você está em uma reunião e o cliente, o CFO, é um cético extremo. Ele questiona seu preço: *'Seu preço é o dobro da concorrência. Prove que não é um custo, mas um investimento.'* 🧐 **Qual é a resposta Desafiadora para converter o ceticismo do CFO?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo: 'É um investimento porque somos amigos e eu prometo que vai dar certo. Confie em mim.'",
+          "feedback": "❌ Você usou a tática do 'Vendedor Relacionamento'. Confiança pessoal não converte céticos em decisões de alto valor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu dou um desconto de 15% para que o preço se torne um 'investimento'. ",
+          "feedback": "❌ Você cedeu ao ceticismo. O preço baixo não prova o valor do Insight Proprietário. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Eu retorno ao Insight: 'Seu ponto é justo. Mas o que prova que é um investimento é o **ROI de 300%** que validamos com 10 clientes (Racional). O preço é menor do que o **Custo da Inação** que você está pagando hoje.'",
+          "feedback": "✅ O Desafiador usa o **Racional (dados)** e o **Custo da Inação (medo da perda)** para provar que o preço é um investimento. Você transformou o ceticismo em uma oportunidade de ensino. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Eu digo: 'Nossa tecnologia é mais complexa e por isso é mais cara.'",
+          "feedback": "⚠️ O cético se importa com o ROI e o Risco, não com a complexidade da tecnologia. É uma resposta técnica, não estratégica. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "A Cultura Desafiadora: Escalando o Alto Desempenho",
+      "narrative": "Você precisa garantir que os comportamentos Desafiadores sejam replicados. Seu desafio é o **reforço**. 🛠️ **Qual é o foco principal do seu coaching e das métricas de desempenho para reforçar a cultura?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Avaliar o esforço do vendedor (Trabalhador Duro) e a satisfação do cliente (Relacionamento).",
+          "feedback": "❌ Você está reforçando os perfis menos eficazes. O foco deve ser na qualidade, não na quantidade ou simpatia. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Focar o coaching no 'Como' (qualidade do Insight, Adaptação da mensagem, e capacidade de Assumir o Controle) e recompensar o uso do 'Reframe' em conversas cruciais.",
+          "feedback": "✅ O Gerente Desafiador foca no **'Como'**. O coaching deve se concentrar nos 3 pilares (Teach, Tailor, Take Control) para garantir a escalabilidade do alto desempenho. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Recompensar apenas o volume de vendas e o valor do contrato, sem olhar para a qualidade da interação.",
+          "feedback": "⚠️ Você está recompensando o 'Lobo Solitário' e o 'Trabalhador Duro', o que não garante a replicabilidade da abordagem Desafiadora. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Apenas medir a taxa de desconto média da equipe para evitar descontos não estratégicos.",
+          "feedback": "⭐ É importante (Take Control), mas foca na consequência (preço) e não no comportamento que gera o resultado (Insight). (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "A Venda de Soluções: O Desafiador e o Produto",
+      "narrative": "O cliente potencial está convencido da **Solução** (New Way) que você ensinou, mas está hesitante em relação à sua empresa (Implementação). 😟 **Como você 'liga' seu produto à Solução de forma que ele se torne a única resposta lógica (Implementação)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu dou um desconto para que a diferença de preço não seja um problema. ",
+          "feedback": "❌ Você está usando o preço para resolver um problema de valor e confiança na Implementação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'O Novo Caminho exige uma funcionalidade X e uma capacidade Z. Nosso produto é o único que tem o **Motor Proprietário Y** para entregar essa transformação de forma eficaz. Qualquer outra solução deixará uma lacuna crítica.'",
+          "feedback": "✅ Perfeito! Você 'ligou' (Wired) o Insight à Implementação, usando um recurso único (Motor Proprietário) para mostrar que seu produto é a **conclusão lógica** e inevitável da Jornada de Ensino. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu digo: 'Somos a maior empresa do mercado e temos o melhor produto. Confie em nós.'",
+          "feedback": "⚠️ Foco na empresa (nós) e não no valor (eles). O cliente se importa com o valor, não com o seu tamanho. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu forneço 10 estudos de caso genéricos que não se ligam ao Insight. ",
+          "feedback": "⭐ A prova social é boa, mas deve ser relevante e ligada ao Insight. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "A Estrutura da Organização Desafiadora",
+      "narrative": "Você está implementando um novo sistema de recompensa. 🌟 **O que a Liderança deve priorizar para reforçar a cultura Desafiadora?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Recompensar o vendedor com a maior taxa de desconto e o maior número de 'amigos' na conta do cliente. ",
+          "feedback": "❌ Você está reforçando o Vendedor Relacionamento e a destruição da margem. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Recompensar a **qualidade do Insight** (o Reframe) e o sucesso em fechar negócios de alto valor onde o vendedor **Assumi o Controle** do processo e não deu desconto.",
+          "feedback": "✅ O Desafiador é uma organização baseada em valor. As recompensas devem ser alinhadas aos comportamentos Desafiadores (Ensino e Controle). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Recompensar o vendedor com o maior volume de vendas e o maior taxa de desconto. ",
+          "feedback": "⚠️ O volume (Trabalhador Duro) e o desconto (Relacionamento) são métricas de baixo desempenho. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Recompensar o vendedor que mais reclama do desalinhamento entre Marketing e Vendas. ",
+          "feedback": "⭐ Recompensar o feedback é bom, mas o foco deve ser na solução (Insight), não no problema. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Desafiador e o Cliente Cético",
+      "narrative": "O CFO cético diz: *'Seu Insight sobre a Ineficiência Operacional é interessante, mas **nós já sabíamos disso**. Por que deveríamos pagar um preço premium por algo que já sabemos?'* 🤨 **Como você usa o Desafiador para desafiar essa inação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo: 'Peço desculpas. Vou dar um desconto para recompensar o seu conhecimento.'",
+          "feedback": "❌ Você cedeu. O Desafiador nunca usa o desconto para recompensar o conhecimento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'Eu entendo. Mas se o senhor já sabia disso, por que a ineficiência (Custo da Inação) ainda existe? A questão não é o conhecimento, mas a **capacidade de agir**. Nossa solução resolve o problema que o senhor não conseguiu resolver.'",
+          "feedback": "✅ O Desafiador transforma o conhecimento em **responsabilidade pela inação**. Você forçou o CFO a confrontar o **Custo da Inação**, que é o maior inimigo da venda complexa. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu digo: 'Obrigado por me corrigir. Vou atualizar minha apresentação.'",
+          "feedback": "⚠️ Você se tornou um 'Vendedor Relacionamento', cedendo e perdendo o controle da narrativa. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu digo: 'Nós somos os especialistas, você está errado.'",
+          "feedback": "❌ Muito agressivo. Você destruiu a ponte do relacionamento. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "A Cultura Desafiadora: Escalando o Alto Desempenho",
+      "narrative": "Um dos seus vendedores (um ex-Construtor de Relacionamento) está tendo dificuldades em **Assumir o Controle** das negociações de preço. 🗣️ **Qual é a ação mais importante que você toma como Gerente Desafiador para treiná-lo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu assumo as negociações por ele para garantir que a margem seja mantida. ",
+          "feedback": "❌ Você está 'fazendo' o trabalho por ele, o que não o treina para ser um Desafiador. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu o treinei em **Concessão Estratégica** (troca de valor), forçando-o a praticar a frase: 'O que podemos remover do escopo para justificar o desconto?', até que ele se sinta confortável em usar a tensão construtiva.",
+          "feedback": "✅ O Desafiador treina a **assertividade** e a **Concessão Estratégica** (Take Control). Você o está treinando para usar a tensão construtiva para proteger o valor. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu digo para ele ser mais agressivo e gritar na negociação. ",
+          "feedback": "⚠️ A agressividade é destrutiva. O Desafiador é assertivo e estratégico. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu o instruo a focar em construir um relacionamento mais forte para que o cliente não peça desconto. ",
+          "feedback": "⭐ O relacionamento pode reduzir a tensão, mas não é uma tática de negociação de valor. O desafio é a chave. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "A Venda de Soluções: O Desafiador e o Produto",
+      "narrative": "O cliente potencial pede uma 'demonstração completa' (Demo) do seu produto, mesmo antes de você ter apresentado o Insight Proprietário. 📺 **Como você Assumi o Controle da Demo para proteger o valor do Insight?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo: 'Claro! Vamos agendar uma demo de 2 horas sobre todos os recursos agora mesmo.'",
+          "feedback": "❌ Você se tornou um atendente de pedidos. A demo sem contexto é apenas uma lista de recursos. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'Com prazer. Mas para que a demo seja relevante, sugiro primeiro compartilharmos nosso **Insight Proprietário (Reframe)** para que você entenda o problema que o nosso produto resolve. Posso mostrar o produto, mas ele só fará sentido depois da visão.'",
+          "feedback": "✅ O Desafiador Assumi o Controle do Processo. Você usou o Insight para justificar a mudança de agenda, garantindo que o produto só seja apresentado no momento certo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu digo: 'A demo é muito cara. Não podemos fazer isso agora.'",
+          "feedback": "⚠️ Essa resposta é defensiva. O Desafiador deve ser um guia confiante, não defensivo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu digo: 'Posso fazer uma demo rápida de 10 minutos agora mesmo, focada apenas nos 3 recursos mais vendidos.'",
+          "feedback": "⭐ É uma tentativa de Controle, mas ainda antes do Insight Proprietário (Reframe). O timing é a chave para o Ensino. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "A Estrutura da Organização Desafiadora",
+      "narrative": "Apesar do seu treinamento, o Marketing e as Vendas estão usando mensagens diferentes. Marketing vende a 'Economia de Custos' e Vendas vende o 'Aumento de Receita'. 📉 **Qual é o risco desse desalinhamento na Estrutura Desafiadora?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O cliente fecha o negócio mais rápido por ter duas mensagens diferentes. ",
+          "feedback": "❌ O cliente não fecha mais rápido; ele se confunde e adia a decisão (Inação). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A mensagem de valor se torna inconsistente e confusa para o cliente, minando a credibilidade de ambas as áreas e reforçando o Status Quo.",
+          "feedback": "✅ O Desafiador vende a clareza e o consenso. Mensagens inconsistentes destroem o consenso e criam confusão, levando à Paralisia da Decisão. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O preço será automaticamente reduzido pelo cliente. ",
+          "feedback": "⚠️ O risco de inação é maior do que o risco de preço. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Os vendedores terão que trabalhar mais para fechar o negócio. ",
+          "feedback": "⭐ O esforço aumenta (Trabalhador Duro), mas o risco principal é a perda de confiança e a inação. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Desafiador e o Cliente Cético",
+      "narrative": "Seu cliente cético finalmente diz: *'Estou convencido do Insight Proprietário (Reframe), mas não do Impacto em minha carreira.'* 😰 **Como você usa o Impacto Emocional (medo da perda) para convertê-lo em Mobilizador?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eu digo: 'Obrigado. Que bom que você gostou do insight. Fico feliz.'",
+          "feedback": "❌ Vendedor Relacionamento. Você aceitou a falta de ação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Eu digo: 'Entendo. Mas o que você disse sobre o Custo da Inação ($X milhões) implica que, se não agirmos, seu bônus de final de ano e sua reputação estarão em risco. O risco é pessoal. Vamos resolver isso juntos.'",
+          "feedback": "✅ O Desafiador usa o **Impacto Emocional Personalizado**. Você conectou o problema organizacional à dor pessoal (medo da perda), motivando a ação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Eu dou um desconto para que o cliente se sinta pessoalmente recompensado. ",
+          "feedback": "⚠️ O desconto é a tática errada para resolver um problema emocional/de carreira. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Eu digo: 'A concorrência é mais rápida que você e isso pode afetar sua carreira.'",
+          "feedback": "⭐ Cria urgência, mas sem a prova e a conexão com a dor pessoal. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+}
+]

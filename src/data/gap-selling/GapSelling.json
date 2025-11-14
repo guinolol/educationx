@@ -1,0 +1,3302 @@
+[
+  {
+    "id": 1,
+    "title": "O Paradigma da Venda Centrada no Problema",
+    "teaser": "💡 Pare de vender a 'cura' antes de diagnosticar a 'doença'. O foco não é o produto, é a DOR do cliente.",
+    "level1": "A Venda Centrada no Problema inverte o modelo tradicional: 80% do tempo deve ser gasto no diagnóstico e quantificação da dor do cliente. O cliente só age quando entende a profundidade do seu problema.",
+    "level2": "O vendedor age como um 'médico' ou 'consultor de negócios', e não como um 'apresentador de produto'. O relacionamento é construído na autoridade e no *insight* que você traz sobre o problema do cliente.",
+    "level3": "Ruim: 'Nosso software tem X, Y, Z.' Bom: 'Parece que a ineficiência do seu processo está custando $X por mês. Como isso afeta sua equipe?' (Foco no custo da ineficiência).",
+    "recapitulation": [
+      "Foco principal: Diagnosticar e quantificar a dor (problema) do cliente.",
+      "Vendedor = Médico/Consultor, não Apresentador de Slides.",
+      "Cliente compra a solução para a dor, não o produto.",
+      "A dor precisa ser maior que o custo da solução para motivar a compra.",
+      "Status Quo é o maior concorrente da venda.",
+      "Regra 80/20: 80% do tempo no diagnóstico, 20% na solução."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Comece a reunião com 3 perguntas de diagnóstico antes de falar do seu produto.",
+      "**Nível 2 (Intermediário):** Reserve 80% do seu tempo de fala para ouvir e aprofundar a dor (use 'O que mais?', 'Pode me dar um exemplo?').",
+      "**Nível 3 (Avançado):** Antes de apresentar a solução, valide: 'Então, entendi que o problema X está te custando $Y. É isso mesmo?'",
+      "Pare de responder a perguntas sobre o produto antes de entender a dor."
+    ],
+    "conclusionMessage": "A Venda Centrada no Problema exige que o vendedor se torne um diagnosticador, focando 80% do tempo em entender a dor do cliente antes de falar sobre a solução.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o foco principal da Venda Centrada no Problema?",
+        "options": [
+          { "value": "a", "label": "Apresentar os recursos do produto." },
+          { "value": "b", "label": "Diagnosticar e quantificar a dor e o problema do cliente." },
+          { "value": "c", "label": "Construir um relacionamento amigável." },
+          { "value": "d", "label": "Dar um desconto para fechar o negócio." }
+        ],
+        "explanation": "O cliente só compra quando a dor é maior que o custo da solução.",
+        "hint": "Diagnóstico.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não compra o produto, ele compra a solução para o problema."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o papel do vendedor na Venda Centrada no Problema?",
+        "options": [
+          { "value": "a", "label": "Ser um apresentador de slides." },
+          { "value": "b", "label": "Ser um diagnosticador e consultor de negócios." },
+          { "value": "c", "label": "Ser um amigo do cliente." },
+          { "value": "d", "label": "Ser um negociador de preço." }
+        ],
+        "explanation": "O vendedor deve ser um especialista em problemas, não em produtos.",
+        "hint": "Especialista.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode diagnosticar, você não pode vender."
+      },
+      {
+        "id": "3",
+        "question": "O que o cliente deve sentir após o diagnóstico eficaz?",
+        "options": [
+          { "value": "a", "label": "Que o vendedor é muito simpático." },
+          { "value": "b", "label": "Que o problema é mais sério e caro do que ele imaginava." },
+          { "value": "c", "label": "Que o preço é muito baixo." },
+          { "value": "d", "label": "Que ele poderia ter resolvido sozinho." }
+        ],
+        "explanation": "A dor deve ser amplificada para motivar a mudança.",
+        "hint": "Amplificação.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra quando o custo da inação é insuportável."
+      },
+      {
+        "id": "4",
+        "question": "Qual é a proporção ideal de tempo gasto na fase de diagnóstico?",
+        "options": [
+          { "value": "a", "label": "20% do tempo." },
+          { "value": "b", "label": "80% do tempo." },
+          { "value": "c", "label": "50% do tempo." },
+          { "value": "d", "label": "10% do tempo." }
+        ],
+        "explanation": "O diagnóstico é a parte mais importante da venda.",
+        "hint": "Prioridade.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está diagnosticando, você está apenas adivinhando."
+      },
+      {
+        "id": "5",
+        "question": "O que é o 'Status Quo' no contexto de vendas?",
+        "options": [
+          { "value": "a", "label": "O produto da concorrência." },
+          { "value": "b", "label": "A situação atual do cliente, que é o maior concorrente da venda." },
+          { "value": "c", "label": "O preço mais baixo." },
+          { "value": "d", "label": "O preço mais alto." }
+        ],
+        "explanation": "O cliente tem mais medo de errar do que de perder uma oportunidade.",
+        "hint": "Inação.",
+        "correctAnswer": "b",
+        "bookExample": "O status quo é o inimigo da mudança."
+      },
+      {
+        "id": "6",
+        "question": "O que o cliente compra ao aceitar a solução?",
+        "options": [
+          { "value": "a", "label": "O seu produto." },
+          { "value": "b", "label": "A eliminação da dor e a transição para um estado futuro melhor." },
+          { "value": "c", "label": "Um desconto." },
+          { "value": "d", "label": "Um relacionamento." }
+        ],
+        "explanation": "O cliente compra a transformação.",
+        "hint": "Transformação.",
+        "correctAnswer": "b",
+        "bookExample": "Venda o destino, não o mapa."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o risco de apresentar a solução muito cedo?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente não entende o valor da solução, pois a dor não foi totalmente estabelecida." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A solução sem dor é irrelevante.",
+        "hint": "Irrelevância.",
+        "correctAnswer": "b",
+        "bookExample": "Não venda a cura antes de diagnosticar a doença."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Venda de Lacunas' (Gap Selling)?",
+        "options": [
+          { "value": "a", "label": "Vender para clientes que têm lacunas no orçamento." },
+          { "value": "b", "label": "A arte de vender a diferença (a lacuna) entre o estado atual (dor) e o estado futuro desejado (solução)." },
+          { "value": "c", "label": "Vender produtos que preenchem lacunas no mercado." },
+          { "value": "d", "label": "Dar um desconto." }
+        ],
+        "explanation": "A lacuna é o motor da compra.",
+        "hint": "Diferença.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra quando a lacuna é grande o suficiente."
+      },
+      {
+        "id": "9",
+        "question": "O que o vendedor deve fazer para 'Quantificar a Dor'?",
+        "options": [
+          { "value": "a", "label": "Adivinhar o custo." },
+          { "value": "b", "label": "Traduzir o problema em termos de custo financeiro, tempo perdido ou risco operacional." },
+          { "value": "c", "label": "Focar no preço." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "A dor deve ser tangível e mensurável.",
+        "hint": "Mensurável.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode medir a dor, você não pode vender a cura."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a principal mentalidade que o vendedor deve adotar?",
+        "options": [
+          { "value": "a", "label": "Ser o mais simpático." },
+          { "value": "b", "label": "Ser um especialista em problemas, não um especialista em produtos." },
+          { "value": "c", "label": "Ser o mais rápido." },
+          { "value": "d", "label": "Ser o mais barato." }
+        ],
+        "explanation": "O especialista em problemas é o que o cliente realmente valoriza.",
+        "hint": "Especialista.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra de quem ele confia para resolver o problema."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "A Lacuna (The Gap): Estado Atual vs. Estado Futuro",
+    "teaser": "💸 O motor da compra não é a solução, é a Lacuna: a diferença de valor entre onde o cliente está e onde ele quer estar.",
+    "level1": "A Lacuna é a diferença mensurável entre o **Estado Atual** (a dor, os custos, o risco) e o **Estado Futuro** (a solução, os ganhos, os benefícios). O cliente só compra quando a Lacuna é grande e dolorosa o suficiente.",
+    "level2": "Seu trabalho é **ampliar a Lacuna**. Faça o cliente sentir a dor do presente (Custo da Inação) e visualizar a alegria e o ROI do futuro. Uma Lacuna pequena resulta em inação, pois o status quo é sempre mais confortável.",
+    "level3": "Foque na 'Aversão à Perda': mostrar o que o cliente *perde* (dinheiro, tempo, oportunidade) ao manter o Status Quo é duas vezes mais poderoso do que mostrar o que ele *ganha* com a sua solução.",
+    "recapitulation": [
+      "Lacuna = Estado Futuro (Solução) - Estado Atual (Dor).",
+      "O objetivo do vendedor é AMPLIAR a Lacuna.",
+      "Estado Atual = a dor, o custo do Status Quo (o 'Burning Platform').",
+      "Estado Futuro = a transformação, o ROI, a eliminação da dor.",
+      "O cliente compra a ponte (sua solução) sobre a Lacuna.",
+      "Pequenas Lacunas levam à Paralisia da Decisão e Inação."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Defina o Estado Atual (Dor) em termos de perda de tempo e custo financeiro.",
+      "**Nível 2 (Intermediário):** Defina o Estado Futuro em termos de ganhos/ROI específicos (ex: '20% mais receita').",
+      "**Nível 3 (Avançado):** Na Proposta, apresente a Lacuna antes do preço: 'A Lacuna vale $100.000, nosso investimento é de $10.000 para fechá-la'.",
+      "Use perguntas para quantificar a dor: 'Qual é o custo dessa ineficiência em um mês?'"
+    ],
+    "conclusionMessage": "A Lacuna é a diferença entre o estado atual (dor) e o estado futuro desejado (solução). O trabalho do vendedor é ampliar essa lacuna.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que representa o 'Estado Atual' (Current State)?",
+        "options": [
+          { "value": "a", "label": "O preço do produto." },
+          { "value": "b", "label": "A situação atual do cliente, incluindo todos os problemas, custos e dores." },
+          { "value": "c", "label": "O produto da concorrência." },
+          { "value": "d", "label": "O orçamento do cliente." }
+        ],
+        "explanation": "O Estado Atual é a dor.",
+        "hint": "Dor.",
+        "correctAnswer": "b",
+        "bookExample": "O Estado Atual é o 'Burning Platform' do cliente."
+      },
+      {
+        "id": "2",
+        "question": "O que representa o 'Estado Futuro' (Future State)?",
+        "options": [
+          { "value": "a", "label": "O seu produto." },
+          { "value": "b", "label": "A situação ideal do cliente, incluindo todos os benefícios e a eliminação da dor." },
+          { "value": "c", "label": "O preço mais alto." },
+          { "value": "d", "label": "O preço mais baixo." }
+        ],
+        "explanation": "O Estado Futuro é a solução.",
+        "hint": "Solução.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente compra a versão melhorada de si mesmo."
+      },
+      {
+        "id": "3",
+        "question": "O que é a 'Lacuna' (The Gap)?",
+        "options": [
+          { "value": "a", "label": "O desconto dado." },
+          { "value": "b", "label": "A diferença mensurável entre o Estado Atual e o Estado Futuro." },
+          { "value": "c", "label": "O tempo de entrega." },
+          { "value": "d", "label": "O preço do produto." }
+        ],
+        "explanation": "A Lacuna é o valor que você vende.",
+        "hint": "Valor.",
+        "correctAnswer": "b",
+        "bookExample": "A venda é a ponte sobre a Lacuna."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o objetivo do vendedor em relação à Lacuna?",
+        "options": [
+          { "value": "a", "label": "Ignorá-la." },
+          { "value": "b", "label": "Ampliar a Lacuna, aumentando a percepção da dor e do valor do Estado Futuro." },
+          { "value": "c", "label": "Reduzir a Lacuna." },
+          { "value": "d", "label": "Focar apenas no Estado Futuro." }
+        ],
+        "explanation": "A ampliação motiva a ação.",
+        "hint": "Motivação.",
+        "correctAnswer": "b",
+        "bookExample": "Se a Lacuna for pequena, o cliente não agirá."
+      },
+      {
+        "id": "5",
+        "question": "O que o cliente deve fazer para que a Lacuna seja eficaz?",
+        "options": [
+          { "value": "a", "label": "Adivinhar o Estado Futuro." },
+          { "value": "b", "label": "Quantificar o custo do Estado Atual e o valor do Estado Futuro." },
+          { "value": "c", "label": "Focar apenas no preço." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "A Lacuna deve ser mensurável.",
+        "hint": "Mensurável.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode medir, você não pode vender."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de focar apenas no Estado Futuro (a solução)?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente não entende a urgência, pois a dor do Estado Atual não foi estabelecida." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A dor é o motor da compra.",
+        "hint": "Urgência.",
+        "correctAnswer": "b",
+        "bookExample": "A dor é o que faz o cliente se mover."
+      },
+      {
+        "id": "7",
+        "question": "O que o vendedor deve fazer para 'Personalizar a Dor'?",
+        "options": [
+          { "value": "a", "label": "Falar sobre a dor de outros clientes." },
+          { "value": "b", "label": "Conectar o problema da empresa às consequências pessoais e profissionais do stakeholder." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "A dor pessoal é o que impulsiona a ação.",
+        "hint": "Pessoal.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só age quando a dor é pessoal."
+      },
+      {
+        "id": "8",
+        "question": "O que o cliente deve sentir ao ver a Lacuna ampliada?",
+        "options": [
+          { "value": "a", "label": "Tédio." },
+          { "value": "b", "label": "Medo de perder (Loss Aversion) e urgência para agir." },
+          { "value": "c", "label": "Simpatia pelo vendedor." },
+          { "value": "d", "label": "Que o preço é muito alto." }
+        ],
+        "explanation": "O medo de perder é duas vezes mais poderoso que a alegria do ganho.",
+        "hint": "Medo.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o que eles perderão se não agirem."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de o cliente não conseguir quantificar o Estado Atual?",
+        "options": [
+          { "value": "a", "label": "O preço aumenta." },
+          { "value": "b", "label": "A Lacuna não é estabelecida, e a venda se torna uma competição de preço." },
+          { "value": "c", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A falta de quantificação leva à irrelevância.",
+        "hint": "Irrelevância.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode medir a dor, você não pode vender a cura."
+      },
+      {
+        "id": "10",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o Estado Futuro como alcançável?",
+        "options": [
+          { "value": "a", "label": "Ignorar o Estado Futuro." },
+          { "value": "b", "label": "Usar prova social (testemunhos) e dados para validar a solução e a experiência de outros clientes." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no preço." }
+        ],
+        "explanation": "A prova social reduz o risco percebido.",
+        "hint": "Prova.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente compra a segurança da decisão."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "O Diagnóstico: A Arte de Fazer Perguntas",
+    "teaser": "🔍 Seja um arqueólogo da dor! A chave para a venda é fazer perguntas que levem o cliente a DESCOBRIR a profundidade do seu problema.",
+    "level1": "O diagnóstico eficaz se baseia em fazer as perguntas certas e **ouvir ativamente**. O vendedor deve guiar a conversa para descobrir 4 pontos: 1. O Problema Superficial, 2. O Impacto Profundo (custo), 3. A Causa Raiz, e 4. O Estado Futuro Desejado.",
+    "level2": "Priorize **perguntas abertas** ('O que', 'Como', 'Por que') e use técnicas de aprofundamento ('E o que mais?', 'Pode me dar um exemplo?'). Seu objetivo é forçar o cliente a articular a dor, a emoção e o custo, e não aceitar respostas superficiais.",
+    "level3": "Ao final, use a **Validação da Dor**: repita o que o cliente disse em suas palavras e quantifique: 'Então, você está me dizendo que a falta de um processo X está custando $10k por mês em horas extras e estresse na equipe. Correto?'",
+    "recapitulation": [
+      "Diagnóstico é a fase mais importante da venda.",
+      "Ouvir é mais importante do que falar (Regra 80/20).",
+      "Perguntas Abertas (O que, Como, Por que) são essenciais.",
+      "Nunca aceite a primeira resposta; Aprofunde com 'E o que mais?'",
+      "Foco em 4 áreas: Problema, Impacto/Custo, Causa Raiz, Estado Futuro.",
+      "Validação da Dor: Repita o problema e o custo que o cliente articulou."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Prepare 3 'Perguntas de Impacto' (ex: 'Como isso afeta sua meta de receita?').",
+      "**Nível 2 (Intermediário):** Use a técnica dos '5 Porquês' para ir do sintoma à causa raiz.",
+      "**Nível 3 (Avançado):** Use o Espelhamento (repetir a última ou a penúltima palavra) para forçar o cliente a aprofundar a dor, sem perguntas.",
+      "Grave suas chamadas para analisar se você está falando mais de 20% do tempo."
+    ],
+    "conclusionMessage": "O diagnóstico é a fase mais importante. Use perguntas abertas e de aprofundamento para descobrir a dor, o impacto e o custo da inação.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o objetivo principal da fase de diagnóstico?",
+        "options": [
+          { "value": "a", "label": "Apresentar o produto." },
+          { "value": "b", "label": "Descobrir a dor, o impacto e o custo da inação do cliente." },
+          { "value": "c", "label": "Focar no preço." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "O diagnóstico é a base da Lacuna.",
+        "hint": "Base.",
+        "correctAnswer": "b",
+        "bookExample": "O diagnóstico é a chave para o cofre."
+      },
+      {
+        "id": "2",
+        "question": "Que tipo de perguntas o vendedor deve priorizar no diagnóstico?",
+        "options": [
+          { "value": "a", "label": "Perguntas fechadas (Sim/Não)." },
+          { "value": "b", "label": "Perguntas abertas ('O que', 'Como', 'Por que') que incentivam o cliente a falar sobre sua dor." },
+          { "value": "c", "label": "Perguntas sobre o preço." },
+          { "value": "d", "label": "Perguntas sobre a concorrência." }
+        ],
+        "explanation": "As perguntas abertas revelam a informação que você precisa.",
+        "hint": "Revelação.",
+        "correctAnswer": "b",
+        "bookExample": "Ouvir é a forma mais barata de concessão."
+      },
+      {
+        "id": "3",
+        "question": "O que o vendedor deve fazer se o cliente der uma resposta superficial?",
+        "options": [
+          { "value": "a", "label": "Aceitar a resposta e seguir em frente." },
+          { "value": "b", "label": "Aprofundar com perguntas de acompanhamento ('E o que mais?', 'Pode me dar um exemplo?')." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Dar um desconto." }
+        ],
+        "explanation": "O diagnóstico exige profundidade.",
+        "hint": "Profundidade.",
+        "correctAnswer": "b",
+        "bookExample": "A verdade está nos detalhes."
+      },
+      {
+        "id": "4",
+        "question": "Qual é a pergunta chave para descobrir o 'Impacto' da dor?",
+        "options": [
+          { "value": "a", "label": "Quanto você pode pagar?" },
+          { "value": "b", "label": "Como esse problema afeta sua meta de receita/lucro? Qual é o custo emocional para sua equipe?" },
+          { "value": "c", "label": "Quanto tempo isso levará?" },
+          { "value": "d", "label": "Qual é o seu prazo?" }
+        ],
+        "explanation": "O impacto deve ser quantificado e personalizado.",
+        "hint": "Quantificação.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra quando a dor é pessoal e mensurável."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Diagnosticar a Causa Raiz'?",
+        "options": [
+          { "value": "a", "label": "Focar nos sintomas." },
+          { "value": "b", "label": "Ir além dos sintomas para entender a origem real do problema, que geralmente está ligada à sua solução." },
+          { "value": "c", "label": "Focar no produto." },
+          { "value": "d", "label": "Focar no preço." }
+        ],
+        "explanation": "A solução deve resolver a causa raiz, não apenas o sintoma.",
+        "hint": "Origem.",
+        "correctAnswer": "b",
+        "bookExample": "Não trate a febre, trate a infecção."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de o vendedor falar demais no diagnóstico?",
+        "options": [
+          { "value": "a", "label": "O cliente fica feliz." },
+          { "value": "b", "label": "O vendedor perde a oportunidade de descobrir a dor real e o cliente não se sente ouvido." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "Ouvir é a chave para o diagnóstico.",
+        "hint": "Ouvir.",
+        "correctAnswer": "b",
+        "bookExample": "O vendedor deve ser um ouvinte ativo."
+      },
+      {
+        "id": "7",
+        "question": "O que o vendedor deve fazer para 'Validar a Dor'?",
+        "options": [
+          { "value": "a", "label": "Concordar com tudo." },
+          { "value": "b", "label": "Repetir o que o cliente disse ('Então, parece que X está te custando Y') para garantir o alinhamento e aprofundar a emoção." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A validação aumenta a confiança e a abertura.",
+        "hint": "Alinhamento.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Isso Mesmo' é o Santo Graal da negociação."
+      },
+      {
+        "id": "8",
+        "question": "O que o cliente deve sentir ao final do diagnóstico?",
+        "options": [
+          { "value": "a", "label": "Que o vendedor é muito simpático." },
+          { "value": "b", "label": "Que o vendedor entende o problema dele melhor do que ele mesmo." },
+          { "value": "c", "label": "Que o preço é muito alto." },
+          { "value": "d", "label": "Que ele poderia ter resolvido sozinho." }
+        ],
+        "explanation": "O entendimento profundo gera confiança.",
+        "hint": "Confiança.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra de quem ele confia para resolver o problema."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de o vendedor 'Assumir' o problema do cliente?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O vendedor pode estar resolvendo o problema errado, resultando em uma solução irrelevante." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O diagnóstico deve ser baseado em fatos, não em suposições.",
+        "hint": "Fatos.",
+        "correctAnswer": "b",
+        "bookExample": "A suposição é a mãe de todos os erros de vendas."
+      },
+      {
+        "id": "10",
+        "question": "O que o vendedor deve fazer para 'Quantificar o Estado Futuro'?",
+        "options": [
+          { "value": "a", "label": "Focar no produto." },
+          { "value": "b", "label": "Perguntar ao cliente: 'Se resolvêssemos X, qual seria o impacto financeiro/operacional para sua empresa em 12 meses?'" },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O valor do Estado Futuro deve ser mensurável.",
+        "hint": "Mensurável.",
+        "correctAnswer": "b",
+        "bookExample": "O valor é sempre uma projeção futura."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "O Problema vs. O Sintoma",
+    "teaser": "🧊 O cliente te traz o sintoma (a ponta do iceberg). Seu trabalho é mergulhar e diagnosticar o PROBLEMA REAL que só a sua solução resolve.",
+    "level1": "O cliente raramente sabe o problema real; ele só sente os **sintomas** ('As vendas estão baixas'). Se você focar no sintoma, você é um 'curandeiro' e compete por preço. Você deve diagnosticar o **problema real** (a 'infecção'), que está ligado à sua solução.",
+    "level2": "O Problema Real é a **Causa Raiz**. Ela deve ser o Insight Proprietário: um problema que o cliente não estava ciente ou que não havia quantificado o custo, e que a sua solução é a única que consegue resolver de forma completa.",
+    "level3": "Transforme o Sintoma em Problema Real através da **Quantificação**. Sintoma: 'Nossas vendas estão baixas'. Problema Real Quantificado: 'A falta de alinhamento entre Marketing e Vendas está custando $180.000/ano em leads de baixa qualidade e tempo de inatividade da equipe de vendas'.",
+    "recapitulation": [
+      "Sintoma = a ponta do iceberg (a febre).",
+      "Problema Real = a Causa Raiz (a infecção).",
+      "Focar no sintoma leva à competição de preço (Commodity).",
+      "A Causa Raiz deve estar diretamente ligada à sua solução.",
+      "Use os '5 Porquês' para ir do sintoma ao problema.",
+      "Dor Latente: dor que o cliente tem, mas não está ciente ou não quantificou o custo."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Liste 5 sintomas que seus clientes mais relatam e, ao lado, a Causa Raiz real (o Insight).",
+      "**Nível 2 (Intermediário):** Quando o cliente citar um sintoma, sempre pergunte: 'O que você acha que causa isso? E por quê?'.",
+      "**Nível 3 (Avançado):** Crie uma 'Jornada de Ensino' (Mini-Pitch) que revela a Causa Raiz que a sua solução aborda.",
+      "Seja um Consultor, não um Atendente de Pedidos: não tenha medo de discordar do auto-diagnóstico do cliente."
+    ],
+    "conclusionMessage": "O cliente geralmente apresenta o sintoma (a febre). O vendedor deve diagnosticar o problema real (a infecção) para vender a cura.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que o cliente geralmente apresenta ao vendedor?",
+        "options": [
+          { "value": "a", "label": "A causa raiz do problema." },
+          { "value": "b", "label": "O sintoma (a manifestação superficial da dor)." },
+          { "value": "c", "label": "O preço ideal." },
+          { "value": "d", "label": "O Estado Futuro desejado." }
+        ],
+        "explanation": "O cliente só sente a dor superficial.",
+        "hint": "Superficial.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente diz que tem febre, mas você precisa encontrar a infecção."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de o vendedor focar apenas no sintoma?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O vendedor se torna um fornecedor de commodity e compete por preço, pois a solução é genérica." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A solução de sintoma é genérica.",
+        "hint": "Genérico.",
+        "correctAnswer": "b",
+        "bookExample": "Se você resolve o sintoma, você é um curandeiro, não um médico."
+      },
+      {
+        "id": "3",
+        "question": "O que o vendedor deve fazer para ir do sintoma ao problema real?",
+        "options": [
+          { "value": "a", "label": "Apresentar o produto." },
+          { "value": "b", "label": "Usar perguntas de aprofundamento ('Por que isso acontece?', 'O que causa isso?') para encontrar a causa raiz." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Por que' é a chave para a causa raiz.",
+        "hint": "Por que.",
+        "correctAnswer": "b",
+        "bookExample": "Use a técnica dos 5 Porquês."
+      },
+      {
+        "id": "4",
+        "question": "O que o problema real deve fazer em relação à solução do vendedor?",
+        "options": [
+          { "value": "a", "label": "Ser irrelevante." },
+          { "value": "b", "label": "Estar diretamente ligado à solução do vendedor, tornando-a a única resposta lógica." },
+          { "value": "c", "label": "Ser fácil de resolver." },
+          { "value": "d", "label": "Ser sobre o preço." }
+        ],
+        "explanation": "A solução deve ser a conclusão lógica do diagnóstico.",
+        "hint": "Conclusão.",
+        "correctAnswer": "b",
+        "bookExample": "O diagnóstico deve levar o cliente à sua porta."
+      },
+      {
+        "id": "5",
+        "question": "O que o vendedor deve fazer se o cliente insistir em resolver apenas o sintoma?",
+        "options": [
+          { "value": "a", "label": "Aceitar e resolver o sintoma." },
+          { "value": "b", "label": "Explicar o risco de focar apenas no sintoma e o custo de não resolver a causa raiz." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O vendedor deve ser um consultor, não um atendente de pedidos.",
+        "hint": "Consultor.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não tem medo de discordar."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Dor Latente' (Latent Pain)?",
+        "options": [
+          { "value": "a", "label": "A dor que o cliente já conhece." },
+          { "value": "b", "label": "A dor que o cliente tem, mas não está ciente ou não quantificou o custo." },
+          { "value": "c", "label": "A dor que o vendedor inventa." },
+          { "value": "d", "label": "A dor que o cliente ignora." }
+        ],
+        "explanation": "O trabalho do vendedor é transformar a dor latente em dor ativa.",
+        "hint": "Ativação.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não sabe o que não sabe."
+      },
+      {
+        "id": "7",
+        "question": "Como o vendedor transforma o sintoma em problema real?",
+        "options": [
+          { "value": "a", "label": "Apresentando o produto." },
+          { "value": "b", "label": "Quantificando o impacto financeiro e operacional do sintoma, ligando-o à causa raiz." },
+          { "value": "c", "label": "Dando um desconto." },
+          { "value": "d", "label": "Focando no relacionamento." }
+        ],
+        "explanation": "A quantificação é a chave para a relevância.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só se importa com o que custa dinheiro."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de o cliente 'Auto-Diagnosticar' o problema?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente pode estar errado, focando no sintoma ou na solução errada, resultando em uma venda irrelevante." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O vendedor deve ser o diagnosticador.",
+        "hint": "Diagnóstico.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não é o médico; ele é o paciente."
+      },
+      {
+        "id": "9",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja a causa raiz como um problema sério?",
+        "options": [
+          { "value": "a", "label": "Ignorar a causa raiz." },
+          { "value": "b", "label": "Usar o 'Impacto Emocional' para conectar a causa raiz às consequências pessoais do stakeholder." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "A dor pessoal é o que impulsiona a ação.",
+        "hint": "Pessoal.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só age quando a dor é pessoal."
+      },
+      {
+        "id": "10",
+        "question": "O que o vendedor deve fazer se o cliente disser 'Não temos tempo para resolver a causa raiz'?",
+        "options": [
+          { "value": "a", "label": "Aceitar e resolver o sintoma." },
+          { "value": "b", "label": "Reafirmar o custo da inação e perguntar: 'Se você não tem tempo para resolver a causa raiz, como você vai pagar pelo custo contínuo do sintoma?'" },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O vendedor deve reestruturar a visão do tempo e do custo.",
+        "hint": "Reestruturação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a urgência da mudança."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Quantificando a Dor: O Custo da Inação",
+    "teaser": "🛑 O custo de NÃO AGIR é sua arma mais potente! A dor só é real quando é mensurável em dinheiro, tempo e risco.",
+    "level1": "A dor só se torna um problema real de negócios quando é **quantificável**. O Custo da Inação é o custo contínuo de manter o Status Quo (perda de receita, horas extras, estresse, risco). Se o cliente não consegue colocar um número na dor, ele não tem um problema de negócios; ele tem um inconveniente.",
+    "level2": "O preço da sua solução deve ser uma **fração** do Custo da Inação. Se o problema custa $180.000/ano e sua solução custa $10.000, o investimento se torna uma conclusão lógica com um ROI claro (18x).",
+    "level3": "Vá além do financeiro e **Personalize o Risco**: 'Como essa perda constante de tempo está afetando sua meta pessoal? Qual é o risco para sua reputação se este problema persistir?' A dor pessoal impulsiona a ação.",
+    "recapitulation": [
+      "Custo da Inação = custo de manter o Status Quo (dinheiro, tempo, risco).",
+      "O cliente só age quando o Custo da Inação > Custo da Solução.",
+      "A quantificação transforma o preço em um investimento com ROI.",
+      "Personalize a Dor: conecte o problema da empresa ao impacto pessoal do stakeholder.",
+      "Dor Ativa: dor que o cliente está ativamente buscando resolver.",
+      "Ajude o cliente a calcular o custo; não apenas aceite 'é caro'."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Sempre pergunte: 'Qual é o custo dessa ineficiência em um ano?'",
+      "**Nível 2 (Intermediário):** Crie uma 'Calculadora de ROI' simples para usar com o cliente (ex: *horas/mês perdidas x custo da hora*).",
+      "**Nível 3 (Avançado):** Use perguntas para descobrir o 'Impacto Emocional' (ex: 'Como isso afeta o moral da sua equipe?').",
+      "Enquadre o Preço: 'O investimento é de $10.000 para resolver um problema de $180.000/ano.'"
+    ],
+    "conclusionMessage": "A dor deve ser quantificada em termos de custo financeiro, tempo perdido e risco. O custo da inação é a arma mais poderosa do vendedor.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é o 'Custo da Inação' (Cost of Inaction)?",
+        "options": [
+          { "value": "a", "label": "O preço do seu produto." },
+          { "value": "b", "label": "O custo financeiro, operacional ou de risco de manter o status quo e não resolver o problema." },
+          { "value": "c", "label": "O custo de marketing." },
+          { "value": "d", "label": "O custo de software." }
+        ],
+        "explanation": "O custo da inação é o motor da compra.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente tem mais medo de perder do que de ganhar."
+      },
+      {
+        "id": "2",
+        "question": "Por que a quantificação da dor é crucial?",
+        "options": [
+          { "value": "a", "label": "Para dar um desconto." },
+          { "value": "b", "label": "Para justificar o preço da solução e transformar o custo em um investimento com ROI claro." },
+          { "value": "c", "label": "Para focar no produto." },
+          { "value": "d", "label": "Para focar no relacionamento." }
+        ],
+        "explanation": "A quantificação é a chave para o ROI.",
+        "hint": "ROI.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode medir a dor, você não pode vender a cura."
+      },
+      {
+        "id": "3",
+        "question": "Qual é a pergunta chave para quantificar o custo financeiro?",
+        "options": [
+          { "value": "a", "label": "Quanto você pode pagar?" },
+          { "value": "b", "label": "Se esse problema persistir por mais 12 meses, qual será o custo total para sua empresa em termos de receita perdida ou custos operacionais?" },
+          { "value": "c", "label": "Quanto tempo isso levará?" },
+          { "value": "d", "label": "Qual é o seu prazo?" }
+        ],
+        "explanation": "Quantificar o impacto futuro é essencial.",
+        "hint": "Futuro.",
+        "correctAnswer": "b",
+        "bookExample": "O valor é sempre uma projeção futura."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Personalizar o Risco'?",
+        "options": [
+          { "value": "a", "label": "Focar no risco da concorrência." },
+          { "value": "b", "label": "Conectar o risco operacional da empresa às consequências pessoais do stakeholder (ex: perda de emprego, estresse)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "A dor pessoal é o que impulsiona a ação.",
+        "hint": "Pessoal.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só age quando a dor é pessoal."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de o vendedor não quantificar a dor?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "A venda se torna uma competição de preço, pois o valor da solução não é claro." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A falta de quantificação leva à competição de preço.",
+        "hint": "Preço.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode quantificar o valor, você é um commodity."
+      },
+      {
+        "id": "6",
+        "question": "O que o vendedor deve fazer se o cliente não souber o custo da inação?",
+        "options": [
+          { "value": "a", "label": "Adivinhar o custo." },
+          { "value": "b", "label": "Ajudar o cliente a calcular o custo, usando benchmarks da indústria e dados de outros clientes." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O vendedor é um consultor de valor.",
+        "hint": "Consultor.",
+        "correctAnswer": "b",
+        "bookExample": "Se o cliente não sabe o custo, você deve ensiná-lo."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Dor Ativa' (Active Pain)?",
+        "options": [
+          { "value": "a", "label": "A dor que o cliente ignora." },
+          { "value": "b", "label": "A dor que o cliente está ciente e que está ativamente buscando resolver." },
+          { "value": "c", "label": "A dor que o vendedor inventa." },
+          { "value": "d", "label": "A dor que o cliente não tem." }
+        ],
+        "explanation": "A dor ativa é a que impulsiona a compra.",
+        "hint": "Impulso.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador transforma a dor latente em dor ativa."
+      },
+      {
+        "id": "8",
+        "question": "Como a quantificação da dor ajuda a lidar com a objeção de preço?",
+        "options": [
+          { "value": "a", "label": "Reduzindo o preço." },
+          { "value": "b", "label": "Ao mostrar que o preço da solução é uma fração do custo contínuo da inação." },
+          { "value": "c", "label": "Aumentando o preço." },
+          { "value": "d", "label": "Focando no produto." }
+        ],
+        "explanation": "O preço é justificado pelo ROI.",
+        "hint": "ROI.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o que você cobra. O valor é o que você entrega."
+      },
+      {
+        "id": "9",
+        "question": "O que o vendedor deve fazer para garantir que o cliente 'Sinta' a dor quantificada?",
+        "options": [
+          { "value": "a", "label": "Focar apenas em números." },
+          { "value": "b", "label": "Usar histórias e analogias para conectar os números às consequências reais (Impacto Emocional)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A emoção é o que impulsiona a ação.",
+        "hint": "Emoção.",
+        "correctAnswer": "b",
+        "bookExample": "A lógica informa, a emoção move."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o principal resultado da quantificação da dor?",
+        "options": [
+          { "value": "a", "label": "O cliente gosta do vendedor." },
+          { "value": "b", "label": "O cliente se sente compelido a agir e vê a solução como um investimento necessário." },
+          { "value": "c", "label": "O cliente pede um desconto." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A compra é a conclusão lógica da quantificação.",
+        "hint": "Conclusão.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a urgência da mudança."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "O Estado Futuro: Vendendo a Visão",
+    "teaser": "🚀 Venda o destino, não o veículo! O Estado Futuro deve ser uma visão mensurável, inspiradora e a antítese da dor atual.",
+    "level1": "O **Estado Futuro** é a visão clara e mensurável da transformação que o cliente alcançará. Não é apenas o seu produto; é a eliminação da dor, o aumento do ROI, e a redução do estresse.",
+    "level2": "Você precisa vender a **Esperança** para equilibrar o **Medo** (Custo da Inação). O Estado Futuro deve ser inspirador, usando linguagem que quantifica os ganhos e os benefícios emocionais (paz de espírito, foco em inovação, redução de estresse).",
+    "level3": "Ligue o produto ao destino de forma inevitável. 'Para alcançar X (ROI) e evitar Y (dor), você precisa de Z (seu produto/solução), que é a única forma lógica de fechar essa Lacuna.' O produto é apenas o veículo para a visão.",
+    "recapitulation": [
+      "Estado Futuro = Transformação e eliminação da dor.",
+      "Deve ser mensurável e inspirador (venda o destino).",
+      "É a antítese do Estado Atual (dor).",
+      "A Lacuna deve ser grande o suficiente para justificar o risco da mudança.",
+      "Venda os ganhos e os benefícios emocionais (paz de espírito).",
+      "A falta de uma visão clara do Estado Futuro leva à Paralisia."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Ao final do diagnóstico, descreva o Estado Futuro (ex: 'Então, você quer ter 20% mais receita e 50% menos estresse?').",
+      "**Nível 2 (Intermediário):** Use a Prova Social para validar o Estado Futuro (ex: 'Nosso cliente X alcançou exatamente isso...').",
+      "**Nível 3 (Avançado):** Crie um 'Declínio de Riscos' (Risk Reversal) no Estado Futuro (ex: 'Se o ROI não for alcançado, o que faremos?').",
+      "Ligue cada benefício do seu produto ao ROI e à eliminação de uma dor específica."
+    ],
+    "conclusionMessage": "O Estado Futuro deve ser uma visão clara, mensurável e inspiradora do que o cliente alcançará ao resolver o problema.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que o 'Estado Futuro' deve ser?",
+        "options": [
+          { "value": "a", "label": "O seu produto." },
+          { "value": "b", "label": "Uma visão clara, mensurável e inspiradora da transformação que o cliente alcançará." },
+          { "value": "c", "label": "O preço mais alto." },
+          { "value": "d", "label": "O preço mais baixo." }
+        ],
+        "explanation": "O Estado Futuro é a promessa de valor.",
+        "hint": "Promessa.",
+        "correctAnswer": "b",
+        "bookExample": "Venda o destino, não o mapa."
+      },
+      {
+        "id": "2",
+        "question": "Como o vendedor deve quantificar o Estado Futuro?",
+        "options": [
+          { "value": "a", "label": "Focando em recursos." },
+          { "value": "b", "label": "Traduzindo os benefícios em termos de ROI, tempo economizado e redução de risco." },
+          { "value": "c", "label": "Dando um desconto." },
+          { "value": "d", "label": "Focando no relacionamento." }
+        ],
+        "explanation": "O valor deve ser mensurável.",
+        "hint": "Mensurável.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente compra o ROI, não o esforço."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de o cliente não conseguir visualizar o Estado Futuro?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "A Lacuna não é estabelecida, e o cliente não vê a urgência da mudança." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A falta de visão leva à inação.",
+        "hint": "Inação.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente precisa de uma visão clara para agir."
+      },
+      {
+        "id": "4",
+        "question": "O que o vendedor deve fazer para 'Inspirar' o cliente com o Estado Futuro?",
+        "options": [
+          { "value": "a", "label": "Focar em números frios." },
+          { "value": "b", "label": "Usar histórias de sucesso (prova social) e linguagem emocional para descrever a transformação." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A emoção é o que impulsiona a ação.",
+        "hint": "Emoção.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas esquecem os dados, mas lembram das histórias."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Ligar o Produto ao Estado Futuro'?",
+        "options": [
+          { "value": "a", "label": "Focar nos recursos." },
+          { "value": "b", "label": "Mostrar como o produto é o único veículo que pode levar o cliente do Estado Atual ao Estado Futuro." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "O produto é o meio, não o fim.",
+        "hint": "Meio.",
+        "correctAnswer": "b",
+        "bookExample": "O produto é a ponte sobre a Lacuna."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de o cliente 'Auto-Definir' o Estado Futuro?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente pode definir um Estado Futuro que não está ligado à sua solução, resultando em uma venda irrelevante." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O vendedor deve guiar a definição do Estado Futuro.",
+        "hint": "Guia.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a visão, não o pedido."
+      },
+      {
+        "id": "7",
+        "question": "O que o vendedor deve fazer para garantir que o Estado Futuro seja 'Realista'?",
+        "options": [
+          { "value": "a", "label": "Prometer o impossível." },
+          { "value": "b", "label": "Basear o Estado Futuro em dados e resultados alcançados por clientes semelhantes (prova social)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "A credibilidade é essencial.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente compra a segurança da decisão."
+      },
+      {
+        "id": "8",
+        "question": "O que o cliente deve sentir ao ver o Estado Futuro?",
+        "options": [
+          { "value": "a", "label": "Tédio." },
+          { "value": "b", "label": "Alívio e entusiasmo pela oportunidade de resolver a dor." },
+          { "value": "c", "label": "Simpatia pelo vendedor." },
+          { "value": "d", "label": "Que o preço é muito alto." }
+        ],
+        "explanation": "A emoção é o que impulsiona a ação.",
+        "hint": "Alívio.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a dor e a cura."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de o vendedor focar apenas no 'Estado Atual' (a dor)?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente fica paralisado pelo medo e não vê um caminho claro para a solução." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A dor sem visão leva à paralisia.",
+        "hint": "Paralisia.",
+        "correctAnswer": "b",
+        "bookExample": "Venda a esperança, não apenas o medo."
+      },
+      {
+        "id": "10",
+        "question": "O que o vendedor deve fazer para garantir que o Estado Futuro seja 'Prioritário'?",
+        "options": [
+          { "value": "a", "label": "Ignorar o Estado Futuro." },
+          { "value": "b", "label": "Ligar o Estado Futuro às metas estratégicas e pessoais do stakeholder." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A prioridade é o que impulsiona a decisão.",
+        "hint": "Prioridade.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra o que é prioritário."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "A Proposta de Valor: O ROI da Lacuna",
+    "teaser": "💰 Sua Proposta não é um orçamento. É um documento que valida o ROI de fechar a Lacuna e o custo de mantê-la aberta.",
+    "level1": "A **Proposta de Valor** é o ROI da Lacuna: o preço da solução é um investimento que gera um retorno financeiro claro e mensurável. Ela deve ser a conclusão lógica de todo o seu diagnóstico.",
+    "level2": "O preço deve ser enquadrado em relação ao valor da Lacuna. Se a Lacuna vale $100.000, seu preço de $10.000 é um investimento com ROI de 10x. **Nunca** apresente o preço sem ter estabelecido o valor da Lacuna primeiro.",
+    "level3": "Use a Proposta para contar uma **História de Transformação** (Estado Atual -> Solução -> Estado Futuro), não para listar recursos. Use a Prova Social (Case Study) para validar o ROI e reduzir o risco percebido.",
+    "recapitulation": [
+      "Proposta de Valor = o ROI da Lacuna fechada.",
+      "Preço deve ser uma FRAÇÃO do valor da Lacuna (ROI significativo).",
+      "Valor é estabelecido ANTES do preço.",
+      "Enquadre o preço como um investimento, não como um custo.",
+      "A proposta deve ser uma história de transformação (solução para a dor).",
+      "Objeção de preço é um sintoma de falta de valor percebido."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Inclua uma seção de 'Custo da Inação' e 'ROI Projetado' na sua Proposta.",
+      "**Nível 2 (Intermediário):** Comece a Proposta com um resumo da Dor e do Estado Futuro (Validação da Lacuna).",
+      "**Nível 3 (Avançado):** Use a Prova Social de um cliente com Lacuna semelhante para validar o ROI (ex: 'Assim como fizemos com X, você pode esperar Y').",
+      "Use perguntas para enquadrar o preço: 'Com base no ROI de 10x, o investimento de $10.000 faz sentido?'"
+    ],
+    "conclusionMessage": "A Proposta de Valor deve ser o ROI da Lacuna: o preço da solução é um investimento que gera um retorno financeiro claro e mensurável.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que a Proposta de Valor deve focar?",
+        "options": [
+          { "value": "a", "label": "Os recursos do produto." },
+          { "value": "b", "label": "O ROI (Retorno sobre o Investimento) da Lacuna fechada." },
+          { "value": "c", "label": "O preço mais baixo." },
+          { "value": "d", "label": "O tempo de entrega." }
+        ],
+        "explanation": "O ROI é a linguagem do negócio.",
+        "hint": "ROI.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente compra o ROI, não o esforço."
+      },
+      {
+        "id": "2",
+        "question": "Como o preço da solução deve se relacionar com o valor da Lacuna?",
+        "options": [
+          { "value": "a", "label": "Deve ser igual ao valor da Lacuna." },
+          { "value": "b", "label": "Deve ser uma fração do valor da Lacuna, garantindo um ROI significativo para o cliente." },
+          { "value": "c", "label": "Deve ser maior que o valor da Lacuna." },
+          { "value": "d", "label": "Deve ser irrelevante." }
+        ],
+        "explanation": "O preço é justificado pelo valor criado.",
+        "hint": "Fração.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o que você cobra. O valor é o que você entrega."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de apresentar a Proposta de Valor sem ter quantificado a Lacuna?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O preço parece arbitrário e o cliente foca na competição de preço." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O valor deve ser estabelecido antes do preço.",
+        "hint": "Arbitrário.",
+        "correctAnswer": "b",
+        "bookExample": "Preço sem valor é apenas um número."
+      },
+      {
+        "id": "4",
+        "question": "O que o vendedor deve fazer para 'Enquadrar o Preço' (Frame the Price)?",
+        "options": [
+          { "value": "a", "label": "Esconder o preço." },
+          { "value": "b", "label": "Apresentar o preço como um investimento em relação ao ROI e ao custo da inação." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Aumentar o preço." }
+        ],
+        "explanation": "O enquadramento muda a percepção do preço.",
+        "hint": "Percepção.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é apenas um número. O enquadramento é a história por trás dele."
+      },
+      {
+        "id": "5",
+        "question": "O que a Proposta de Valor deve evitar?",
+        "options": [
+          { "value": "a", "label": "Focar no ROI." },
+          { "value": "b", "label": "Focar em jargões técnicos e recursos que não se conectam diretamente à Lacuna." },
+          { "value": "c", "label": "Focar na dor." },
+          { "value": "d", "label": "Focar no Estado Futuro." }
+        ],
+        "explanation": "A clareza e a relevância são essenciais.",
+        "hint": "Clareza.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só se importa com o que resolve o problema dele."
+      },
+      {
+        "id": "6",
+        "question": "Como a 'Prova Social' (Testemunhos) se encaixa na Proposta de Valor?",
+        "options": [
+          { "value": "a", "label": "Aumenta o preço." },
+          { "value": "b", "label": "Valida o ROI e a transformação, reduzindo o risco percebido pelo cliente." },
+          { "value": "c", "label": "Reduz o preço." },
+          { "value": "d", "label": "Aumenta o CODB." }
+        ],
+        "explanation": "A prova social é a validação externa do seu valor.",
+        "hint": "Validação.",
+        "correctAnswer": "b",
+        "bookExample": "O que os outros dizem sobre você é mais importante."
+      },
+      {
+        "id": "7",
+        "question": "O que o vendedor deve fazer se o cliente disser 'Seu preço é muito alto'?",
+        "options": [
+          { "value": "a", "label": "Reduzir o preço imediatamente." },
+          { "value": "b", "label": "Voltar à Lacuna e reafirmar o custo da inação e o ROI." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "A objeção de preço é um sintoma de falta de valor percebido.",
+        "hint": "Sintoma.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o último refúgio do cliente."
+      },
+      {
+        "id": "8",
+        "question": "O que significa 'Vender a Mudança'?",
+        "options": [
+          { "value": "a", "label": "Vender um produto novo." },
+          { "value": "b", "label": "Vender a transição do Estado Atual para o Estado Futuro, e não apenas o produto." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A mudança é o que o cliente realmente compra.",
+        "hint": "Transição.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a mudança, não o produto."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de o vendedor focar apenas no 'Preço' na proposta?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente ignora o valor e foca apenas no custo, resultando em uma competição de preço." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O preço é o último refúgio do cliente.",
+        "hint": "Refúgio.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o que você cobra. O valor é o que você comunica."
+      },
+      {
+        "id": "10",
+        "question": "O que o vendedor deve fazer para garantir que a Proposta de Valor seja 'Prioritária'?",
+        "options": [
+          { "value": "a", "label": "Ignorar a prioridade." },
+          { "value": "b", "label": "Ligar o ROI da solução às metas estratégicas e pessoais do stakeholder." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A prioridade é o que impulsiona a decisão.",
+        "hint": "Prioridade.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra o que é prioritário."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "O Cliente Ideal: Quem Tem a Dor e o Dinheiro",
+    "teaser": "🎯 Pare de caçar clientes. Comece a ser seletivo! O foco deve ser em quem tem a **Dor Grande** e a **Capacidade de Pagamento**.",
+    "level1": "Nem todo cliente é um bom cliente. O **Cliente Ideal** é aquele que tem uma Lacuna grande o suficiente (dor quantificável, risco de inação) e os recursos para pagar pelo valor da solução. Focar em clientes não-ideais drena seu tempo e lucro, resultando em negociações de preço.",
+    "level2": "O vendedor deve ser um **filtro**. Use a fase de Qualificação e Diagnóstico para identificar a Dor Real e a Capacidade de Pagamento. Não tenha medo de dizer 'Não' educadamente a clientes que só querem preço baixo ou que têm um problema pequeno.",
+    "level3": "Adote a mentalidade de **Especialista/Consultor**. O especialista cobra mais porque é a única opção viável para um problema específico. O generalista compete por preço. Sua 'Especialização' (Nicho) atrai o Cliente Ideal que valoriza o *insight*.",
+    "recapitulation": [
+      "Cliente Ideal = Dor Grande + Capacidade de Pagamento + Valoriza o Insight.",
+      "Cliente Não-Ideal = Drena tempo, só foca no preço (Commodity).",
+      "O vendedor deve ser um filtro (Qualificação rigorosa).",
+      "Dor deve ser Quantificável para justificar a compra.",
+      "Foque em clientes que compram o RESULTADO, não o esforço.",
+      "A Especialização (Nicho) aumenta a percepção de valor e autoridade."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Defina claramente 3 critérios de 'Dor Mínima' para aceitar um lead no seu funil.",
+      "**Nível 2 (Intermediário):** Use perguntas de 'Capacidade de Pagamento' no início (ex: 'Qual é o orçamento que você alocou para resolver o problema de $X?').",
+      "**Nível 3 (Avançado):** Crie um 'Pitch de Descarte' (Disqualification Pitch) para clientes não-ideais (ex: 'Pelo que você me disse, nossa solução não é a melhor para o seu problema atual...').",
+      "Seja um Especialista em um problema específico (Nicho), não um generalista."
+    ],
+    "conclusionMessage": "O cliente ideal é aquele que tem uma dor grande, quantificável e pode pagar pela solução. Focar no cliente ideal maximiza o lucro e a satisfação.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal característica do 'Cliente Ideal'?",
+        "options": [
+          { "value": "a", "label": "Ele sempre pede desconto." },
+          { "value": "b", "label": "Ele tem uma dor grande, quantificável e pode pagar pela solução." },
+          { "value": "c", "label": "Ele é o mais fácil de encontrar." },
+          { "value": "d", "label": "Ele é o mais rápido a fechar o negócio." }
+        ],
+        "explanation": "O cliente ideal entende o ROI.",
+        "hint": "ROI.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente ideal não compra o preço; ele compra a solução."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Dor Quantificável'?",
+        "options": [
+          { "value": "a", "label": "Um problema pequeno." },
+          { "value": "b", "label": "Um problema que pode ser traduzido em custo financeiro, tempo perdido ou risco operacional." },
+          { "value": "c", "label": "Um problema que você pode resolver rapidamente." },
+          { "value": "d", "label": "Um problema que a concorrência não resolve." }
+        ],
+        "explanation": "A quantificação é a chave para a relevância.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode medir a dor, você não pode vender a cura."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de trabalhar com o 'Cliente Não-Ideal'?",
+        "options": [
+          { "value": "a", "label": "Ele paga mais." },
+          { "value": "b", "label": "Ele questiona o preço, exige mais esforço e não valoriza o resultado, drenando seu tempo e lucro." },
+          { "value": "c", "label": "Ele é muito fácil de trabalhar." },
+          { "value": "d", "label": "Ele é muito rápido." }
+        ],
+        "explanation": "Clientes não-ideais destroem a margem de lucro.",
+        "hint": "Drenagem.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não-ideal é o inimigo do seu lucro."
+      },
+      {
+        "id": "4",
+        "question": "O que o vendedor deve fazer para 'Filtrar' clientes não-ideais?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Usar perguntas de diagnóstico para identificar a Lacuna e a capacidade de pagamento no início do processo." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O diagnóstico é o filtro.",
+        "hint": "Filtro.",
+        "correctAnswer": "b",
+        "bookExample": "Diga 'Não' aos clientes errados para poder dizer 'Sim' aos clientes certos."
+      },
+      {
+        "id": "5",
+        "question": "O que o cliente ideal busca em um vendedor?",
+        "options": [
+          { "value": "a", "label": "O preço mais baixo." },
+          { "value": "b", "label": "Um especialista que possa diagnosticar o problema e garantir o ROI da solução." },
+          { "value": "c", "label": "Alguém que trabalhe muitas horas." },
+          { "value": "d", "label": "Alguém que dê muitos descontos." }
+        ],
+        "explanation": "O cliente ideal busca a solução, não o preço.",
+        "hint": "Solução.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente ideal paga pelo resultado, não pelo esforço."
+      },
+      {
+        "id": "6",
+        "question": "O que o vendedor deve fazer se o cliente não tiver a 'Dor' quantificada?",
+        "options": [
+          { "value": "a", "label": "Apresentar o produto." },
+          { "value": "b", "label": "Ajudá-lo a quantificar a dor, ou se afastar se ele não estiver disposto a fazê-lo." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A dor não quantificada não é um problema real.",
+        "hint": "Realidade.",
+        "correctAnswer": "b",
+        "bookExample": "Se o cliente não tem dor, você não tem venda."
+      },
+      {
+        "id": "7",
+        "question": "Como a 'Especialização' (Nicho) ajuda a atrair o cliente ideal?",
+        "options": [
+          { "value": "a", "label": "Reduz o preço." },
+          { "value": "b", "label": "Posiciona o vendedor como a única solução para um problema específico, aumentando o valor percebido." },
+          { "value": "c", "label": "Aumenta o CODB." },
+          { "value": "d", "label": "Aumenta o número de clientes." }
+        ],
+        "explanation": "O especialista cobra mais porque é a única opção viável.",
+        "hint": "Única opção.",
+        "correctAnswer": "b",
+        "bookExample": "O generalista compete por preço. O especialista compete por valor."
+      },
+      {
+        "id": "8",
+        "question": "O que o vendedor deve fazer se o cliente não tiver 'Autoridade' para comprar?",
+        "options": [
+          { "value": "a", "label": "Focar no cliente sem autoridade." },
+          { "value": "b", "label": "Usar o cliente sem autoridade para acessar o stakeholder com poder de decisão (Mobilizador)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "A venda complexa exige acesso ao poder de decisão.",
+        "hint": "Acesso.",
+        "correctAnswer": "b",
+        "bookExample": "Foque em quem pode fazer a mudança acontecer."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Generalizar' seu serviço?",
+        "options": [
+          { "value": "a", "label": "Você atrai mais clientes." },
+          { "value": "b", "label": "Você se torna uma commodity, forçando a competir por preço e atraindo clientes não-ideais." },
+          { "value": "c", "label": "Você cobra mais." },
+          { "value": "d", "label": "Você trabalha menos." }
+        ],
+        "explanation": "A generalização leva à competição de preço.",
+        "hint": "Commodity.",
+        "correctAnswer": "b",
+        "bookExample": "O generalista é o inimigo do lucro."
+      },
+      {
+        "id": "10",
+        "question": "O que o vendedor deve fazer para garantir que o cliente ideal veja o preço como um 'Investimento'?",
+        "options": [
+          { "value": "a", "label": "Dizer que é um investimento." },
+          { "value": "b", "label": "Relacionar o preço ao ROI (Retorno sobre o Investimento) e ao custo da inação (perda)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no seu esforço." }
+        ],
+        "explanation": "Investimento implica retorno; custo implica despesa.",
+        "hint": "Retorno.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o ROI, não o custo."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "A Objeção de Preço: O Sintoma da Falta de Valor",
+    "teaser": "🚨 'Está caro' é um sinal de alerta, não um pedido de desconto. É o sintoma de que o valor (Lacuna) não foi estabelecido.",
+    "level1": "A objeção de preço ('Está muito caro') é o **último refúgio do cliente** e quase sempre é um **sintoma** de que você falhou em estabelecer o valor da Lacuna (dor e ROI). **Nunca** reduza o preço imediatamente.",
+    "level2": "Ao invés de ceder, volte ao diagnóstico. Use a objeção como uma oportunidade para reafirmar o **Custo da Inação** e o ROI. A melhor tática é a **Negociação de Escopo**: 'Entendo que o preço é uma restrição. Qual parte do problema (Lacuna) você acha que podemos ignorar para reduzir o investimento?'",
+    "level3": "Use a pergunta calibrada para forçar o cliente a negociar o escopo/valor, e não o preço. Isso protege sua margem e reforça o valor de cada parte da sua solução (Concessão Estratégica: **nunca dê algo por nada**).",
+    "recapitulation": [
+      "Objeção de preço = Falta de Valor Percebido (sintoma).",
+      "NUNCA negocie contra si mesmo (desconto imediato).",
+      "Volte à Lacuna: Reafirme o Custo da Inação e o ROI.",
+      "Negocie o Escopo, não o Preço: 'Para reduzir $X, precisamos remover o recurso Y, o que afeta o ROI em $Z. Você concorda?'",
+      "Use o Silêncio: a primeira pessoa a falar perde na negociação de preço.",
+      "Desafiador: Foca na diferença de VALOR, não na diferença de preço da concorrência."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Quando ouvir 'Está caro', responda com: 'Caro em relação a quê?'.",
+      "**Nível 2 (Intermediário):** Use a pergunta de Escopo: 'Qual parte da Lacuna podemos ignorar para reduzir o investimento?'",
+      "**Nível 3 (Avançado):** Pratique o 'Silêncio Assertivo' após fazer uma pergunta calibrada sobre o preço/valor.",
+      "Para concorrência, pergunte: 'O que a solução deles não resolve que está te custando X?' (Foco no Insight Proprietário)."
+    ],
+    "conclusionMessage": "A objeção de preço é quase sempre um sintoma de que o cliente não entendeu a Lacuna (a dor e o ROI). Nunca reduza o preço imediatamente.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que a objeção 'Está muito caro' realmente significa?",
+        "options": [
+          { "value": "a", "label": "O preço é muito alto." },
+          { "value": "b", "label": "O cliente não entendeu o valor (a Lacuna) ou o custo da inação." },
+          { "value": "c", "label": "O cliente quer um desconto." },
+          { "value": "d", "label": "O cliente não tem dinheiro." }
+        ],
+        "explanation": "O preço é um sintoma, não a doença.",
+        "hint": "Sintoma.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o último refúgio do cliente."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o erro comum ao lidar com a objeção de preço?",
+        "options": [
+          { "value": "a", "label": "Voltar ao diagnóstico." },
+          { "value": "b", "label": "Reduzir o preço imediatamente, o que desvaloriza o seu trabalho e confirma que o preço inicial era inflacionado." },
+          { "value": "c", "label": "Fazer uma pergunta calibrada." },
+          { "value": "d", "label": "Reafirmar o ROI." }
+        ],
+        "explanation": "O desconto imediato destrói o valor percebido.",
+        "hint": "Desvalorização.",
+        "correctAnswer": "b",
+        "bookExample": "Nunca negocie contra si mesmo."
+      },
+      {
+        "id": "3",
+        "question": "O que o vendedor deve fazer após a objeção de preço?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Voltar à Lacuna e reafirmar o custo da inação e o ROI da solução." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O valor deve ser estabelecido antes do preço.",
+        "hint": "Valor.",
+        "correctAnswer": "b",
+        "bookExample": "Se o valor é claro, o preço é fácil."
+      },
+      {
+        "id": "4",
+        "question": "Qual é a pergunta chave para lidar com a objeção de preço?",
+        "options": [
+          { "value": "a", "label": "Você quer um desconto?" },
+          { "value": "b", "label": "Qual parte do problema (Lacuna) você acha que podemos ignorar para reduzir o investimento?" },
+          { "value": "c", "label": "Quanto você pode pagar?" },
+          { "value": "d", "label": "Qual é o seu prazo?" }
+        ],
+        "explanation": "Essa pergunta força o cliente a negociar o escopo/valor, não o preço.",
+        "hint": "Escopo.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador negocia o escopo, não o preço."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Negociar o Escopo'?",
+        "options": [
+          { "value": "a", "label": "Reduzir o preço." },
+          { "value": "b", "label": "Reduzir o escopo da solução (o valor entregue) em troca de um preço mais baixo." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "Toda concessão deve ter uma troca de valor.",
+        "hint": "Troca.",
+        "correctAnswer": "b",
+        "bookExample": "Nunca dê algo por nada."
+      },
+      {
+        "id": "6",
+        "question": "Como o 'Custo da Inação' ajuda a lidar com a objeção de preço?",
+        "options": [
+          { "value": "a", "label": "Reduzindo o preço." },
+          { "value": "b", "label": "Ao mostrar que o preço da solução é um custo menor do que o custo contínuo de manter o status quo." },
+          { "value": "c", "label": "Aumentando o preço." },
+          { "value": "d", "label": "Focando no produto." }
+        ],
+        "explanation": "O medo de perder é o motivador.",
+        "hint": "Medo.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o que eles perderão se não agirem."
+      },
+      {
+        "id": "7",
+        "question": "O que o vendedor deve fazer se o cliente disser 'A concorrência é mais barata'?",
+        "options": [
+          { "value": "a", "label": "Reduzir o preço para igualar a concorrência." },
+          { "value": "b", "label": "Reafirmar o Insight Proprietário e perguntar: 'O que a solução deles não resolve que está te custando X?'" },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O Desafiador foca na diferença de valor, não na diferença de preço.",
+        "hint": "Diferença.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não compete por preço, compete por valor."
+      },
+      {
+        "id": "8",
+        "question": "O que o vendedor deve fazer se o cliente tentar 'Negociar contra si mesmo'?",
+        "options": [
+          { "value": "a", "label": "Ceder ao desconto." },
+          { "value": "b", "label": "Usar o silêncio e a assertividade para forçar o cliente a falar primeiro." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O silêncio é seu amigo na negociação.",
+        "hint": "Silêncio.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador usa o silêncio para forçar o cliente a falar primeiro."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de o vendedor 'Pedir Desculpas' pelo preço?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O vendedor sinaliza falta de confiança no valor, minando a credibilidade." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A confiança é a chave.",
+        "hint": "Confiança.",
+        "correctAnswer": "b",
+        "bookExample": "Apresente o preço com confiança e orgulho."
+      },
+      {
+        "id": "10",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o preço como um 'Investimento'?",
+        "options": [
+          { "value": "a", "label": "Dizer que é um investimento." },
+          { "value": "b", "label": "Relacionar o preço ao ROI (Retorno sobre o Investimento) e ao custo da inação (perda)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no seu esforço." }
+        ],
+        "explanation": "Investimento implica retorno; custo implica despesa.",
+        "hint": "Retorno.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o ROI, não o custo."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "A Prova Social: Reduzindo o Risco Percebido",
+    "teaser": "🛡️ O medo de errar é real! Use a Prova Social para validar a Lacuna, o ROI e dar segurança à decisão de compra.",
+    "level1": "O cliente teme a decisão e o risco de falha. A **Prova Social** (estudos de caso, testemunhos, referências) é a ferramenta mais poderosa para **reduzir o risco percebido** e validar a Lacuna e o Estado Futuro que você prometeu.",
+    "level2": "A Prova Social eficaz deve ser **relevante** e **quantificável**. Ela deve conectar a dor inicial de um cliente semelhante à sua solução e ao resultado quantificável (ROI) alcançado. Não se trata de um elogio genérico, mas de uma história de Lacuna fechada.",
+    "level3": "O vendedor deve ser um **curador de histórias**. Colete Prova Social focada na Lacuna (ex: 'Qual era a dor principal antes de nós? Qual foi o ROI real alcançado?'). Isso humaniza os números e garante que o cliente atual veja o sucesso como alcançável (Esperança).",
+    "recapitulation": [
+      "Objetivo: Reduzir o risco percebido (medo de errar).",
+      "Prova Social deve ser Relevante (cliente semelhante).",
+      "Deve ser Quantificável (focada na Lacuna e no ROI).",
+      "Use histórias para humanizar os números (Aversão à Perda é pessoal).",
+      "O cliente compra a segurança da decisão.",
+      "A referência é o seu melhor vendedor."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Inclua um 'Case Study' quantificado na sua Proposta de Valor.",
+      "**Nível 2 (Intermediário):** Peça à sua equipe de Marketing para criar Prova Social focada na Lacuna (Dor + Solução + ROI).",
+      "**Nível 3 (Avançado):** Use a Prova Social como uma ponte: 'Como o Cliente X resolveu a mesma Lacuna de $Y?'.",
+      "Se o cliente pedir referências, garanta que o cliente de referência reforce a Lacuna e o ROI prometido."
+    ],
+    "conclusionMessage": "A Prova Social (estudos de caso, testemunhos) é essencial para reduzir o risco percebido pelo cliente e validar a Lacuna e o Estado Futuro.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo da Prova Social em vendas?",
+        "options": [
+          { "value": "a", "label": "Aumentar o preço." },
+          { "value": "b", "label": "Reduzir o risco percebido pelo cliente e validar a Lacuna e o Estado Futuro." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O cliente tem medo de errar.",
+        "hint": "Medo.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente compra a segurança da decisão."
+      },
+      {
+        "id": "2",
+        "question": "O que a Prova Social deve incluir para ser eficaz?",
+        "options": [
+          { "value": "a", "label": "Apenas o nome do cliente." },
+          { "value": "b", "label": "A dor inicial (Estado Atual), a solução implementada e o resultado quantificável (Estado Futuro/ROI)." },
+          { "value": "c", "label": "O preço do produto." },
+          { "value": "d", "label": "O tempo de entrega." }
+        ],
+        "explanation": "A história deve ser completa e mensurável.",
+        "hint": "Mensurável.",
+        "correctAnswer": "b",
+        "bookExample": "A história de sucesso deve ser a Lacuna fechada."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'Relevância' na Prova Social?",
+        "options": [
+          { "value": "a", "label": "O cliente ser famoso." },
+          { "value": "b", "label": "O cliente de referência ter um problema e um perfil semelhante ao cliente atual." },
+          { "value": "c", "label": "O cliente de referência ter um preço baixo." },
+          { "value": "d", "label": "O cliente de referência ser grande." }
+        ],
+        "explanation": "A similaridade aumenta a credibilidade.",
+        "hint": "Similaridade.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só se importa com o que é relevante para ele."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de usar Prova Social que não é quantificável?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente não vê o valor real da solução e foca no preço." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A quantificação é a chave para o ROI.",
+        "hint": "ROI.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode medir o resultado, você não pode vendê-lo."
+      },
+      {
+        "id": "5",
+        "question": "O que o vendedor deve fazer se o cliente pedir para falar com um 'Cliente de Referência'?",
+        "options": [
+          { "value": "a", "label": "Recusar o pedido." },
+          { "value": "b", "label": "Facilitar a conversa, garantindo que o cliente de referência reforce a Lacuna e o ROI." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A referência é a validação máxima.",
+        "hint": "Validação.",
+        "correctAnswer": "b",
+        "bookExample": "A referência é o seu melhor vendedor."
+      },
+      {
+        "id": "6",
+        "question": "Como a Prova Social ajuda a lidar com a objeção de preço?",
+        "options": [
+          { "value": "a", "label": "Reduzindo o preço." },
+          { "value": "b", "label": "Ao mostrar que o preço é um investimento que outros clientes já fizeram e obtiveram um ROI claro." },
+          { "value": "c", "label": "Aumentando o preço." },
+          { "value": "d", "label": "Focando no produto." }
+        ],
+        "explanation": "O preço é justificado pelo ROI comprovado.",
+        "hint": "Comprovação.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o que você cobra. O valor é o que você entrega."
+      },
+      {
+        "id": "7",
+        "question": "O que o vendedor deve fazer para garantir que a Prova Social seja 'Emocional'?",
+        "options": [
+          { "value": "a", "label": "Focar apenas em números." },
+          { "value": "b", "label": "Incluir o impacto pessoal (alívio, redução de estresse) que o cliente de referência experimentou." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A emoção é o que impulsiona a ação.",
+        "hint": "Pessoal.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só age quando a dor é pessoal."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de usar Prova Social de um cliente que não é 'Ideal'?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente atual não se identifica com a história, minando a credibilidade." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A relevância é a chave.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só se importa com o que é relevante para ele."
+      },
+      {
+        "id": "9",
+        "question": "O que o vendedor deve fazer para 'Coletar' Prova Social eficaz?",
+        "options": [
+          { "value": "a", "label": "Pedir um elogio genérico." },
+          { "value": "b", "label": "Fazer perguntas específicas sobre a Lacuna (dor inicial e ROI alcançado) após a entrega da solução." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "A coleta deve ser focada na Lacuna.",
+        "hint": "Lacuna.",
+        "correctAnswer": "b",
+        "bookExample": "O testemunho deve ser a história da Lacuna fechada."
+      },
+      {
+        "id": "10",
+        "question": "O que o cliente deve sentir ao ver a Prova Social?",
+        "options": [
+          { "value": "a", "label": "Tédio." },
+          { "value": "b", "label": "Esperança e a certeza de que a solução funcionará para ele." },
+          { "value": "c", "label": "Simpatia pelo vendedor." },
+          { "value": "d", "label": "Que o preço é muito alto." }
+        ],
+        "explanation": "A prova social vende a esperança.",
+        "hint": "Esperança.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente compra a segurança da decisão."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "A Venda de Soluções: O Produto como Veículo",
+    "teaser": "🛠️ O seu produto não é o herói da história, é apenas o **veículo** que leva o cliente do medo à segurança. Venda a transformação!",
+    "level1": "Apresente o seu produto como a **conclusão lógica e inevitável** do diagnóstico. Ele é apenas o veículo que transporta o cliente do Estado Atual (dor) para o Estado Futuro (ROI). **O produto só é relevante após o valor (a Lacuna) ter sido estabelecido.**",
+    "level2": "Evite focar em **Recursos** (o que o produto faz). Foque em **Benefícios e Transformação** (como o recurso fecha a Lacuna). Uma lista de recursos leva à comparação de preço. O valor de fechar a Lacuna leva à compra.",
+    "level3": "Se o cliente pedir uma 'Demo' (demonstração) muito cedo, redirecione educadamente. Uma demo sem contexto de Lacuna é irrelevante. 'Teremos prazer em mostrar a solução, mas para que a demo seja relevante, precisamos primeiro entender como ela se conecta com o problema de $X que discutimos.'",
+    "recapitulation": [
+      "Produto = Veículo para a Transformação (solução).",
+      "Apresentação deve ser a conclusão lógica do diagnóstico.",
+      "Venda a transformação, não os recursos (Features).",
+      "Focar em recursos leva à competição de preço (Commodity).",
+      "Redirecione educadamente pedidos de Demo prematuros.",
+      "A apresentação deve gerar Alívio: 'Este produto vai resolver o meu problema'."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Reorganize sua apresentação de produto: comece com a Lacuna, não com o produto.",
+      "**Nível 2 (Intermediário):** Ligue cada recurso do seu produto a uma dor específica do cliente e ao ROI prometido (ex: 'Este painel *resolve* a dor de $X').",
+      "**Nível 3 (Avançado):** Use a tática de 'Tailor' (Adaptar): personalize a Demo para mostrar apenas os recursos que se conectam à Lacuna e às prioridades do stakeholder.",
+      "Venda a inevitabilidade: 'Com base no seu problema e na nossa experiência, esta é a única forma lógica de alcançar o Estado Futuro'."
+    ],
+    "conclusionMessage": "O produto é apenas o veículo que leva o cliente do Estado Atual ao Estado Futuro. Venda a transformação, não os recursos.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que o produto representa na Venda de Lacunas?",
+        "options": [
+          { "value": "a", "label": "O destino." },
+          { "value": "b", "label": "O veículo que leva o cliente do Estado Atual ao Estado Futuro." },
+          { "value": "c", "label": "O preço." },
+          { "value": "d", "label": "O problema." }
+        ],
+        "explanation": "O produto é o meio, não o fim.",
+        "hint": "Meio.",
+        "correctAnswer": "b",
+        "bookExample": "Venda o destino, não o mapa."
+      },
+      {
+        "id": "2",
+        "question": "Em que momento da venda o produto deve ser apresentado?",
+        "options": [
+          { "value": "a", "label": "No início da conversa." },
+          { "value": "b", "label": "Após o diagnóstico e a quantificação da Lacuna (dor e ROI)." },
+          { "value": "c", "label": "No final da negociação de preço." },
+          { "value": "d", "label": "Apenas se o cliente perguntar." }
+        ],
+        "explanation": "O produto só é relevante após o valor ser estabelecido.",
+        "hint": "Valor.",
+        "correctAnswer": "b",
+        "bookExample": "Não venda a cura antes de diagnosticar a doença."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de focar nos 'Recursos' (Features) do produto?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente compara o produto com a concorrência, focando no preço e não no valor da transformação." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O foco nos recursos leva à competição de preço.",
+        "hint": "Preço.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o valor, não os recursos."
+      },
+      {
+        "id": "4",
+        "question": "O que o vendedor deve fazer para 'Ligar' o produto à Lacuna?",
+        "options": [
+          { "value": "a", "label": "Ignorar a Lacuna." },
+          { "value": "b", "label": "Mostrar como cada recurso do produto resolve diretamente uma parte da dor (Estado Atual) e contribui para o ROI (Estado Futuro)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "O produto deve ser a única resposta lógica.",
+        "hint": "Lógica.",
+        "correctAnswer": "b",
+        "bookExample": "O produto é a inevitabilidade da sua solução."
+      },
+      {
+        "id": "5",
+        "question": "O que o vendedor deve fazer se o cliente pedir uma 'Demonstração' (Demo) muito cedo?",
+        "options": [
+          { "value": "a", "label": "Fazer a demonstração imediatamente." },
+          { "value": "b", "label": "Gentilmente, mas firmemente, redirecionar a conversa para o diagnóstico, explicando que a demo só fará sentido após o insight." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A demo sem contexto é apenas uma lista de recursos.",
+        "hint": "Contexto.",
+        "correctAnswer": "b",
+        "bookExample": "Não mostre o produto antes de vender a visão."
+      },
+      {
+        "id": "6",
+        "question": "O que o cliente deve sentir ao ver o produto apresentado?",
+        "options": [
+          { "value": "a", "label": "Tédio." },
+          { "value": "b", "label": "Alívio e a certeza de que o produto é a ferramenta certa para fechar a Lacuna." },
+          { "value": "c", "label": "Simpatia pelo vendedor." },
+          { "value": "d", "label": "Que o preço é muito alto." }
+        ],
+        "explanation": "O produto é a conclusão lógica.",
+        "hint": "Conclusão.",
+        "correctAnswer": "b",
+        "bookExample": "O produto é a cura para a dor diagnosticada."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o risco de o vendedor 'Super-Vender' o produto?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente terá expectativas irrealistas, resultando em insatisfação e churn (cancelamento)." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A honestidade é a chave para o relacionamento de longo prazo.",
+        "hint": "Honestidade.",
+        "correctAnswer": "b",
+        "bookExample": "Venda o que o produto realmente faz, não o que ele poderia fazer."
+      },
+      {
+        "id": "8",
+        "question": "O que o vendedor deve fazer para garantir que o produto seja relevante para todos os stakeholders?",
+        "options": [
+          { "value": "a", "label": "Usar a mesma mensagem para todos." },
+          { "value": "b", "label": "Adaptar a mensagem (Tailor) para mostrar como o produto atende às prioridades específicas de cada função." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no CEO." }
+        ],
+        "explanation": "A adaptação é sobre relevância pessoal.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "A mensagem deve ser 'costurada' para o indivíduo."
+      },
+      {
+        "id": "9",
+        "question": "O que o vendedor deve fazer se o cliente disser 'Seu produto não tem o recurso X'?",
+        "options": [
+          { "value": "a", "label": "Prometer o recurso." },
+          { "value": "b", "label": "Voltar à Lacuna e perguntar: 'Como a falta desse recurso afeta o custo da inação (a dor)?'" },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O Desafiador foca no valor, não nos recursos.",
+        "hint": "Valor.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só se importa com o que resolve o problema dele."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o principal objetivo da apresentação do produto?",
+        "options": [
+          { "value": "a", "label": "Mostrar todos os recursos." },
+          { "value": "b", "label": "Mostrar como o produto é a única resposta lógica para fechar a Lacuna e alcançar o ROI prometido." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "O produto é o meio para o fim.",
+        "hint": "Meio.",
+        "correctAnswer": "b",
+        "bookExample": "O produto é a inevitabilidade da sua solução."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "A Negociação: Firme no Preço, Flexível no Escopo",
+    "teaser": "⚔️ Na negociação, seja um Desafiador: Mantenha a firmeza no preço e a flexibilidade no escopo (o que o cliente recebe).",
+    "level1": "Na negociação, o Desafiador é **firme no preço** (que é justificado pelo ROI da Lacuna), mas **flexível no escopo** (o que é entregue). A regra é: **Nunca dê algo por nada**. Toda concessão deve ser estratégica e exigir uma troca de valor.",
+    "level2": "Use a tática de **Negociação de Escopo** como sua principal ferramenta (conforme Lição 9). Se o cliente quer um preço mais baixo, ele deve aceitar um Estado Futuro menor (redução de escopo, menos recursos, menos ROI). Isso protege sua margem e educa o cliente sobre o valor de cada parte.",
+    "level3": "Conheça o seu **Preço de Descarte** (*Walk-Away Price*): o preço mínimo que você aceitará. Não o ultrapasse. O Desafiador usa o **Silêncio Assertivo** para forçar o cliente a falar primeiro e revelar sua verdadeira objeção (que geralmente não é o preço).",
+    "recapitulation": [
+      "Regra: Firme no Preço, Flexível no Escopo.",
+      "Toda concessão deve ter uma TROCA de valor (Não dê algo por nada).",
+      "Negocie o Escopo, não o Preço.",
+      "Conheça seu Preço de Descarte (limite mínimo).",
+      "Use o Silêncio Assertivo para forçar o cliente a falar primeiro.",
+      "O preço é justo quando o ROI da Lacuna é significativamente maior que o investimento."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Antes da negociação, defina 3 opções de 'Escopo Reduzido' em troca de preço mais baixo.",
+      "**Nível 2 (Intermediário):** Pratique a 'Concessão Estratégica': 'Eu posso reduzir X no preço, se você me der Y (ex: um testemunho em vídeo, um prazo de pagamento mais curto)'.",
+      "**Nível 3 (Avançado):** Se o cliente tentar mudar o escopo após o acordo, use o 'Change Order' (precificar a mudança separadamente).",
+      "Na objeção, repita o ROI e o Custo da Inação para justificar o preço: 'Vale a pena economizar $1000 e perder $180.000?'"
+    ],
+    "conclusionMessage": "O Desafiador é firme no preço, pois ele é justificado pelo ROI da Lacuna, mas flexível no escopo (o valor entregue).",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a regra de ouro na negociação de preço?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto imediatamente." },
+          { "value": "b", "label": "Ser firme no preço, mas flexível no escopo (o valor entregue)." },
+          { "value": "c", "label": "Focar no relacionamento." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O preço é justificado pelo valor.",
+        "hint": "Valor.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador negocia o escopo, não o preço."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Concessão Estratégica' (Strategic Concession)?",
+        "options": [
+          { "value": "a", "label": "Dar um grande desconto." },
+          { "value": "b", "label": "Fazer uma pequena concessão em troca de algo de valor (ex: prazo mais longo, testemunho) ou reduzir o escopo em vez do preço." },
+          { "value": "c", "label": "Reduzir o preço imediatamente." },
+          { "value": "d", "label": "Aumentar o CODB." }
+        ],
+        "explanation": "Concessões devem ser dolorosas e estratégicas.",
+        "hint": "Troca.",
+        "correctAnswer": "b",
+        "bookExample": "Nunca dê algo por nada."
+      },
+      {
+        "id": "3",
+        "question": "Como o vendedor usa a Lacuna quantificada na negociação?",
+        "options": [
+          { "value": "a", "label": "Ignorando a Lacuna." },
+          { "value": "b", "label": "Para justificar o preço, mostrando que ele é uma fração do ROI e do custo da inação." },
+          { "value": "c", "label": "Para reduzir o preço." },
+          { "value": "d", "label": "Para focar no produto." }
+        ],
+        "explanation": "O preço é justificado pelo ROI.",
+        "hint": "ROI.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o que você cobra. O valor é o que você entrega."
+      },
+      {
+        "id": "4",
+        "question": "O que o vendedor deve fazer se o cliente disser 'Preciso de um desconto para fechar'?",
+        "options": [
+          { "value": "a", "label": "Dar o desconto." },
+          { "value": "b", "label": "Perguntar: 'O que te impede de seguir em frente com o valor total? Qual é o risco que você vê?'" },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O desconto é um sintoma de falta de valor percebido.",
+        "hint": "Sintoma.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o último refúgio do cliente."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Preço de Descarte' (Walk-Away Price)?",
+        "options": [
+          { "value": "a", "label": "O preço mais alto." },
+          { "value": "b", "label": "O preço mínimo que o vendedor aceitará, abaixo do qual ele deve se afastar da negociação." },
+          { "value": "c", "label": "O preço médio." },
+          { "value": "d", "label": "O preço da concorrência." }
+        ],
+        "explanation": "O Desafiador conhece seu valor e seu limite.",
+        "hint": "Limite.",
+        "correctAnswer": "b",
+        "bookExample": "Conheça seu limite e não o ultrapasse."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de o vendedor 'Negociar contra si mesmo'?",
+        "options": [
+          { "value": "a", "label": "Você fecha o negócio mais rápido." },
+          { "value": "b", "label": "Você reduz o preço sem que o cliente peça, desvalorizando seu trabalho e reduzindo o lucro." },
+          { "value": "c", "label": "Você aumenta o preço." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "O silêncio é seu amigo na negociação.",
+        "hint": "Silêncio.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador usa o silêncio para forçar o cliente a falar primeiro."
+      },
+      {
+        "id": "7",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o preço como um 'Investimento'?",
+        "options": [
+          { "value": "a", "label": "Dizer que é um investimento." },
+          { "value": "b", "label": "Relacionar o preço ao ROI (Retorno sobre o Investimento) e ao custo da inação (perda)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no seu esforço." }
+        ],
+        "explanation": "Investimento implica retorno; custo implica despesa.",
+        "hint": "Retorno.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o ROI, não o custo."
+      },
+      {
+        "id": "8",
+        "question": "O que o vendedor deve fazer se o cliente tentar 'Mudar o Escopo' após o preço ser acordado?",
+        "options": [
+          { "value": "a", "label": "Aceitar a mudança." },
+          { "value": "b", "label": "Referenciar o escopo acordado e precificar a mudança separadamente (Change Order)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "Toda mudança de escopo deve ser uma nova negociação.",
+        "hint": "Negociação.",
+        "correctAnswer": "b",
+        "bookExample": "Se não está no escopo, não está no preço."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de o vendedor 'Ceder' facilmente na negociação?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente perde o respeito pelo vendedor e questiona o valor da solução." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A firmeza gera respeito.",
+        "hint": "Respeito.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não tem medo de perder o negócio errado."
+      },
+      {
+        "id": "10",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o preço como 'Justo'?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Garantir que o valor da Lacuna (ROI) seja significativamente maior que o preço da solução." },
+          { "value": "c", "label": "Focar no produto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "O preço é justo quando o ROI é claro.",
+        "hint": "ROI.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o que você cobra. O valor é o que você entrega."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "O Processo de Vendas: O Roteiro do Diagnóstico",
+    "teaser": "🗺️ O seu processo de vendas é o seu mapa do tesouro. Ele deve ser um roteiro de diagnóstico que guia o cliente à compra inevitável.",
+    "level1": "O processo de vendas do Desafiador não é uma série de eventos aleatórios, mas um **roteiro estruturado** focado em descobrir e quantificar a Lacuna. O vendedor deve **Assumir o Controle** e guiar o cliente passo a passo, definindo claramente o que acontecerá em cada etapa.",
+    "level2": "O processo deve começar com a **Qualificação Rigorosa** (Dor Real + Capacidade de Pagamento + Autoridade). Se o cliente tentar pular a fase de diagnóstico e ir direto para o preço ou o produto, o Desafiador deve explicar o risco de fazer isso (o veículo errado para o destino).",
+    "level3": "Use o processo para **gerenciar as expectativas** e criar **urgência**. Cada etapa deve estar ligada ao Custo da Inação, garantindo que o cliente veja a progressão como essencial para evitar perdas e alcançar o ROI. O cliente compra o processo, não apenas o produto.",
+    "recapitulation": [
+      "Processo de Vendas = Roteiro de Diagnóstico focado na Lacuna.",
+      "O vendedor deve Assumir o Controle e guiar o cliente (Especialista).",
+      "Qualificação rigorosa para filtrar clientes não-ideais.",
+      "Não permita que o cliente pule o diagnóstico (solução irrelevante).",
+      "Use o Custo da Inação para criar Urgência em cada etapa.",
+      "O processo bem definido é a armadura do Desafiador contra o reativo."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Mapeie seu processo em 5 etapas, focando na coleta de informação (Lacuna) em vez da apresentação de produto.",
+      "**Nível 2 (Intermediário):** No início da reunião, apresente o roteiro: 'Para garantir que eu possa te ajudar, nosso processo é: 1. Diagnóstico da Dor, 2. Quantificação da Lacuna, 3. Proposta de Solução. Você está OK com isso?'",
+      "**Nível 3 (Avançado):** Use 'micro-fechamentos' em cada etapa: 'Com base no que descobrimos, o próximo passo lógico é Y. Você está disposto a se comprometer com isso?'",
+      "Se o cliente tentar mudar o processo, reafirme o risco: 'Se pularmos essa parte, podemos resolver o problema errado e perder o ROI de $X'."
+    ],
+    "conclusionMessage": "O processo de vendas deve ser um roteiro de diagnóstico, onde cada etapa é focada em descobrir e quantificar a Lacuna, culminando na apresentação da solução.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o foco principal do processo de vendas Desafiador?",
+        "options": [
+          { "value": "a", "label": "Apresentar o produto." },
+          { "value": "b", "label": "Guiar o cliente através de um roteiro de diagnóstico focado na Lacuna." },
+          { "value": "c", "label": "Focar no preço." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "O diagnóstico é a base da venda.",
+        "hint": "Diagnóstico.",
+        "correctAnswer": "b",
+        "bookExample": "O processo de vendas é o seu mapa para o sucesso."
+      },
+      {
+        "id": "2",
+        "question": "O que a primeira etapa do processo (Qualificação) deve garantir?",
+        "options": [
+          { "value": "a", "label": "O cliente gosta de você." },
+          { "value": "b", "label": "O cliente tem uma dor real e a autoridade/recursos para comprar a solução." },
+          { "value": "c", "label": "O preço é baixo." },
+          { "value": "d", "label": "O produto é relevante." }
+        ],
+        "explanation": "A qualificação evita perder tempo com clientes não-ideais.",
+        "hint": "Filtro.",
+        "correctAnswer": "b",
+        "bookExample": "Diga 'Não' aos clientes errados para poder dizer 'Sim' aos clientes certos."
+      },
+      {
+        "id": "3",
+        "question": "O que o vendedor deve fazer se o cliente tentar pular a fase de diagnóstico?",
+        "options": [
+          { "value": "a", "label": "Ceder e apresentar o produto." },
+          { "value": "b", "label": "Explicar que a solução só será eficaz se o diagnóstico for completo (Assumir o Controle)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O Desafiador é o guia, não o seguidor.",
+        "hint": "Guia.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não é o médico; ele é o paciente."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de um processo de vendas 'Não-Estruturado'?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O vendedor perde o controle da conversa e a venda se torna reativa e focada no preço." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A estrutura garante a consistência e o controle.",
+        "hint": "Controle.",
+        "correctAnswer": "b",
+        "bookExample": "O processo de vendas é a sua armadura."
+      },
+      {
+        "id": "5",
+        "question": "O que o vendedor deve fazer para 'Gerenciar as Expectativas' do cliente?",
+        "options": [
+          { "value": "a", "label": "Prometer o impossível." },
+          { "value": "b", "label": "Definir claramente o que acontecerá em cada etapa do processo e o que é esperado do cliente." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "A clareza é a base da confiança.",
+        "hint": "Clareza.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente compra a segurança da decisão."
+      },
+      {
+        "id": "6",
+        "question": "O que o vendedor deve fazer se o cliente tentar 'Mudar o Processo'?",
+        "options": [
+          { "value": "a", "label": "Aceitar a mudança." },
+          { "value": "b", "label": "Explicar o risco de desviar do processo e reafirmar o valor do roteiro de diagnóstico." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O Desafiador é firme no processo.",
+        "hint": "Firmeza.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não é um seguidor de regras; ele é um criador de regras."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Urgência' no processo de vendas?",
+        "options": [
+          { "value": "a", "label": "Ignorar a urgência." },
+          { "value": "b", "label": "Usar o Custo da Inação para criar um senso de urgência que impulsiona o cliente a avançar no processo." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A urgência motiva a ação.",
+        "hint": "Ação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a urgência da mudança."
+      },
+      {
+        "id": "8",
+        "question": "O que o vendedor deve fazer para garantir que o cliente 'Compre' o processo?",
+        "options": [
+          { "value": "a", "label": "Focar no produto." },
+          { "value": "b", "label": "Mostrar como o processo beneficia o cliente, garantindo que a solução seja a mais eficaz e o ROI seja alcançado." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O cliente compra o benefício do processo.",
+        "hint": "Benefício.",
+        "correctAnswer": "b",
+        "bookExample": "O processo é a garantia do resultado."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de o vendedor 'Apressar' o diagnóstico?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O vendedor perde a oportunidade de descobrir a dor real, resultando em uma solução irrelevante e perda de venda." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O diagnóstico exige tempo e profundidade.",
+        "hint": "Profundidade.",
+        "correctAnswer": "b",
+        "bookExample": "A pressa é a inimiga do lucro."
+      },
+      {
+        "id": "10",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o processo como 'Consultivo'?",
+        "options": [
+          { "value": "a", "label": "Focar no produto." },
+          { "value": "b", "label": "Focar em fazer perguntas e ouvir, em vez de falar sobre o produto." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Ouvir é a chave para o diagnóstico.",
+        "hint": "Ouvir.",
+        "correctAnswer": "b",
+        "bookExample": "O vendedor deve ser um ouvinte ativo."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "O Alinhamento Interno: Vendendo para Múltiplos Stakeholders",
+    "teaser": "👥 Vendas B2B complexas são um jogo de xadrez interno. Você deve adaptar a mensagem de valor para CADA jogador-chave.",
+    "level1": "Em vendas complexas B2B, você vende para um comitê com **múltiplas prioridades**. O maior desafio não é a concorrência, mas a **Paralisia da Decisão** por falta de consenso interno. O Desafiador deve adaptar a mensagem (Tailor) para cada stakeholder.",
+    "level2": "A mensagem de valor (Lacuna e ROI) deve ser **'costurada'** para a função e as prioridades pessoais de cada um. O CFO se importa com o ROI e o Risco; o Gerente de Operações com a eficiência e a facilidade de uso. Use o Custo da Inação como um **unificador** (o medo da perda é universal).",
+    "level3": "Seu campeão interno (o **Mobilizador**) precisa de ferramentas para vender a solução para os outros stakeholders. Equipe-o com a narrativa de Ensino (mini-pitch), os dados quantificados e a Prova Social que ele pode usar para impulsionar o consenso.",
+    "recapitulation": [
+      "Desafio: Obter consenso entre Múltiplos Stakeholders (Paralisia da Decisão).",
+      "Adapte a mensagem (Tailor) para as prioridades de cada função (CFO vs. Gerente).",
+      "Use o Custo da Inação para Unificar (medo de perder é universal).",
+      "Equipe o Mobilizador (campeão) com Insight, dados e Prova Social.",
+      "Focar no 'Amigo' (sem poder) drena tempo e leva à inação.",
+      "O Desafiador não fala a mesma língua para todos: ele é um alfaiate de mensagens."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Antes de cada reunião com um novo stakeholder, pesquise suas prioridades (ex: metas trimestrais, área de foco).",
+      "**Nível 2 (Intermediário):** Crie 3 versões do seu Pitch: 1. Estratégico (CEO/CFO), 2. Tático (Gerentes), 3. Técnico (Usuário Final).",
+      "**Nível 3 (Avançado):** Use o Mobilizador para descobrir o 'inimigo interno' (o stakeholder resistente) e adapte o Insight para desafiar a visão dele.",
+      "Ligue o problema da empresa às consequências pessoais (ex: 'Isso está afetando sua meta de promoção?')."
+    ],
+    "conclusionMessage": "Em vendas complexas, o vendedor deve alinhar a Lacuna e o ROI para múltiplos stakeholders, garantindo o consenso interno.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal desafio em vendas complexas B2B?",
+        "options": [
+          { "value": "a", "label": "O preço." },
+          { "value": "b", "label": "A dificuldade em alinhar o consenso entre múltiplos stakeholders (o inimigo interno)." },
+          { "value": "c", "label": "A concorrência." },
+          { "value": "d", "label": "A falta de produto." }
+        ],
+        "explanation": "A inação é o maior inimigo.",
+        "hint": "Inação.",
+        "correctAnswer": "b",
+        "bookExample": "O maior inimigo da venda é a inação, não a concorrência."
+      },
+      {
+        "id": "2",
+        "question": "O que o vendedor deve fazer para construir o consenso?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto para todos." },
+          { "value": "b", "label": "Adaptar a mensagem de valor (Lacuna e ROI) para cada stakeholder, mostrando a relevância pessoal e organizacional." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Focar apenas no usuário final." }
+        ],
+        "explanation": "A adaptação é a chave para o consenso.",
+        "hint": "Adaptação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um alfaiate de mensagens."
+      },
+      {
+        "id": "3",
+        "question": "O que o vendedor deve fazer para 'Equipar' o Mobilizador (campeão interno)?",
+        "options": [
+          { "value": "a", "label": "Fazer o trabalho por ele." },
+          { "value": "b", "label": "Fornecer a narrativa de Ensino e materiais adaptados para que ele possa vender a solução internamente." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O Mobilizador precisa de ferramentas para vender a mudança.",
+        "hint": "Ferramentas.",
+        "correctAnswer": "b",
+        "bookExample": "Seu maior aliado é o campeão que você equipa."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de usar a mesma mensagem para todos os stakeholders?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "A mensagem se torna irrelevante para a maioria, resultando em inação e falta de consenso." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A irrelevância mata a venda complexa.",
+        "hint": "Irrelevância.",
+        "correctAnswer": "b",
+        "bookExample": "Se você fala com todos, você não fala com ninguém."
+      },
+      {
+        "id": "5",
+        "question": "O que o vendedor deve fazer para descobrir as prioridades de cada stakeholder?",
+        "options": [
+          { "value": "a", "label": "Adivinhar." },
+          { "value": "b", "label": "Fazer perguntas calibradas e pesquisar a função e os objetivos de cada um antes da reunião." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Focar apenas no usuário final." }
+        ],
+        "explanation": "A preparação é a chave para a adaptação.",
+        "hint": "Preparação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não entra em uma reunião sem saber quem está na sala."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Paralisia da Decisão' (Decision Paralysis)?",
+        "options": [
+          { "value": "a", "label": "O cliente não ter dinheiro." },
+          { "value": "b", "label": "A incapacidade do cliente de tomar uma decisão devido à complexidade e ao conflito de prioridades internas." },
+          { "value": "c", "label": "O cliente não gostar do produto." },
+          { "value": "d", "label": "O cliente não ter tempo." }
+        ],
+        "explanation": "A paralisia é o resultado da falta de consenso.",
+        "hint": "Falta de consenso.",
+        "correctAnswer": "b",
+        "bookExample": "A inação é o maior inimigo da venda complexa."
+      },
+      {
+        "id": "7",
+        "question": "Como o vendedor usa o 'Custo da Inação' para impulsionar o consenso?",
+        "options": [
+          { "value": "a", "label": "Ignorando o custo." },
+          { "value": "b", "label": "Ao mostrar a todos os stakeholders o risco financeiro e pessoal de manter o status quo." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focando apenas na alegria do ganho." }
+        ],
+        "explanation": "O medo da perda é um poderoso unificador.",
+        "hint": "Unificador.",
+        "correctAnswer": "b",
+        "bookExample": "O medo de perder é duas vezes mais poderoso que a alegria do ganho."
+      },
+      {
+        "id": "8",
+        "question": "O que o vendedor deve fazer se encontrar um stakeholder resistente?",
+        "options": [
+          { "value": "a", "label": "Ignorar o stakeholder." },
+          { "value": "b", "label": "Adaptar a mensagem para abordar as preocupações específicas dele e, se necessário, desafiar sua visão com insights." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar apenas no CEO." }
+        ],
+        "explanation": "A resistência é uma oportunidade para ensinar.",
+        "hint": "Oportunidade.",
+        "correctAnswer": "b",
+        "bookExample": "A resistência é apenas um sinal de que o insight não foi totalmente aceito."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de focar em um stakeholder que é um 'Amigo' (Friend)?",
+        "options": [
+          { "value": "a", "label": "O Amigo tem muito poder." },
+          { "value": "b", "label": "O Amigo concorda, mas não tem a influência necessária para impulsionar o consenso e a mudança." },
+          { "value": "c", "label": "O Amigo é muito caro." },
+          { "value": "d", "label": "O Amigo é muito cético." }
+        ],
+        "explanation": "A simpatia não se traduz em poder de compra.",
+        "hint": "Poder.",
+        "correctAnswer": "b",
+        "bookExample": "O Amigo te dá informações, o Mobilizador te dá o negócio."
+      },
+      {
+        "id": "10",
+        "question": "O que o vendedor deve fazer para garantir que o consenso seja mantido após a venda?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Continuar fornecendo insights e valor, garantindo que a solução continue relevante para todos os stakeholders." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O relacionamento é construído sobre o valor contínuo.",
+        "hint": "Continuidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um parceiro de longo prazo."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "A Venda de Soluções: O Produto como Veículo (Parte 2)",
+    "teaser": "🚦 A apresentação do produto é o 'Check-out': breve, lógica e focada em como ele é o único veículo que fecha a Lacuna.",
+    "level1": "A apresentação da solução deve ser a **conclusão final** da Lacuna. Não é hora de introduzir novos problemas ou recursos irrelevantes. O foco deve ser em como as funcionalidades do produto são a **resposta mais eficiente** para o problema diagnosticado e o ROI prometido.",
+    "level2": "Estruture a apresentação usando a Lacuna: 'Para resolver **X** (dor) e alcançar **Y** (ROI), nosso produto faz **Z** (recurso)'. Se o cliente questionar a falta de um recurso, volte à Lacuna: 'Como a falta desse recurso afeta o custo da inação (a dor)?' (Foco no valor, não no recurso).",
+    "level3": "O vendedor deve usar o **Insight Proprietário** para mostrar que seu produto é a **única resposta lógica** para fechar a Lacuna e alcançar o ROI. Isso neutraliza a concorrência, pois a solução deles não endereça a Causa Raiz que você diagnosticou.",
+    "recapitulation": [
+      "Apresentação do Produto = Conclusão lógica (o 'Como').",
+      "Foque em Benefícios ligados à Lacuna e ao ROI.",
+      "Evite recursos irrelevantes; eles criam distrações.",
+      "Use o Insight Proprietário para provar que sua solução é única.",
+      "O cliente deve sentir alívio e certeza ao ver o produto.",
+      "Na objeção de recurso, volte à Lacuna: 'Isso resolve o problema de $X?'"
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Use o formato: 'Para resolver a dor X, nosso produto faz Y'.",
+      "**Nível 2 (Intermediário):** Pratique a 'Resposta de Desvio': se perguntarem sobre um recurso ausente, responda: 'Essa função é legal, mas o que ela realmente resolve na sua Lacuna de $X?'.",
+      "**Nível 3 (Avançado):** Prepare uma 'Tabela de Comparação de Valor' (não de recurso) que mostre como sua solução é a única a resolver a Causa Raiz diagnosticada (o Insight).",
+      "Use Prova Social de clientes com a mesma Lacuna *durante* a apresentação do produto."
+    ],
+    "conclusionMessage": "A apresentação do produto deve ser uma conclusão lógica do diagnóstico, focando em como ele fecha a Lacuna e entrega o ROI.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que a apresentação do produto deve ser?",
+        "options": [
+          { "value": "a", "label": "Uma lista de recursos." },
+          { "value": "b", "label": "Uma conclusão lógica do diagnóstico, focada em como o produto fecha a Lacuna e entrega o ROI." },
+          { "value": "c", "label": "Um desconto." },
+          { "value": "d", "label": "Um elogio." }
+        ],
+        "explanation": "O produto é a inevitabilidade da sua solução.",
+        "hint": "Inevitalidade.",
+        "correctAnswer": "b",
+        "bookExample": "O produto é a cura para a dor diagnosticada."
+      },
+      {
+        "id": "2",
+        "question": "O que o vendedor deve evitar na apresentação do produto?",
+        "options": [
+          { "value": "a", "label": "Focar no ROI." },
+          { "value": "b", "label": "Focar em recursos que não se conectam diretamente à Lacuna e à dor do cliente." },
+          { "value": "c", "label": "Focar na dor." },
+          { "value": "d", "label": "Focar no Estado Futuro." }
+        ],
+        "explanation": "A irrelevância mata a venda.",
+        "hint": "Irrelevância.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só se importa com o que resolve o problema dele."
+      },
+      {
+        "id": "3",
+        "question": "Como o vendedor deve lidar com a 'Concorrência' na apresentação do produto?",
+        "options": [
+          { "value": "a", "label": "Falar mal da concorrência." },
+          { "value": "b", "label": "Focar na diferença de valor (Insight Proprietário) e mostrar o que a concorrência não resolve na Lacuna do cliente." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O Desafiador foca na diferença de valor.",
+        "hint": "Diferença.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não compete por preço, compete por valor."
+      },
+      {
+        "id": "4",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o produto como um 'Investimento'?",
+        "options": [
+          { "value": "a", "label": "Dizer que é um investimento." },
+          { "value": "b", "label": "Relacionar o produto ao ROI (Retorno sobre o Investimento) e ao custo da inação (perda)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no seu esforço." }
+        ],
+        "explanation": "Investimento implica retorno; custo implica despesa.",
+        "hint": "Retorno.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o ROI, não o custo."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de o cliente 'Auto-Diagnosticar' o problema antes da apresentação?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente pode estar errado, focando no sintoma ou na solução errada, tornando a apresentação irrelevante." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O vendedor deve ser o diagnosticador.",
+        "hint": "Diagnóstico.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não é o médico; ele é o paciente."
+      },
+      {
+        "id": "6",
+        "question": "O que o vendedor deve fazer para garantir que o produto seja 'Memorável'?",
+        "options": [
+          { "value": "a", "label": "Focar em jargões técnicos." },
+          { "value": "b", "label": "Usar histórias e analogias que conectam o produto à transformação (Estado Futuro)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Histórias são a forma mais eficaz de comunicação.",
+        "hint": "História.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas esquecem os dados, mas lembram das histórias."
+      },
+      {
+        "id": "7",
+        "question": "O que o vendedor deve fazer se o cliente pedir uma 'Personalização' que não está no escopo?",
+        "options": [
+          { "value": "a", "label": "Prometer a personalização." },
+          { "value": "b", "label": "Referenciar o escopo acordado e precificar a personalização separadamente (Change Order)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "Toda mudança de escopo deve ser uma nova negociação.",
+        "hint": "Negociação.",
+        "correctAnswer": "b",
+        "bookExample": "Se não está no escopo, não está no preço."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Prova Social' na apresentação do produto?",
+        "options": [
+          { "value": "a", "label": "Aumentar o preço." },
+          { "value": "b", "label": "Validar a capacidade do produto de fechar a Lacuna e entregar o ROI prometido." },
+          { "value": "c", "label": "Reduzir o preço." },
+          { "value": "d", "label": "Aumentar o CODB." }
+        ],
+        "explanation": "A prova social reduz o risco percebido.",
+        "hint": "Risco.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente compra a segurança da decisão."
+      },
+      {
+        "id": "9",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o produto como a 'Única Resposta Lógica'?",
+        "options": [
+          { "value": "a", "label": "Focar na concorrência." },
+          { "value": "b", "label": "Usar o Insight Proprietário para mostrar que o produto é o único que pode fechar a Lacuna e alcançar o ROI." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A solução do vendedor deve ser a conclusão lógica e inevitável.",
+        "hint": "Inevitalidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a inevitabilidade da sua solução."
+      },
+      {
+        "id": "10",
+        "question": "O que o vendedor deve fazer se o cliente disser 'Seu produto é muito complexo'?",
+        "options": [
+          { "value": "a", "label": "Concordar e simplificar o produto." },
+          { "value": "b", "label": "Reafirmar que a complexidade é necessária para resolver a causa raiz do problema e alcançar o ROI desejado." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O Desafiador vende a complexidade necessária.",
+        "hint": "Necessidade.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente compra a solução, não a simplicidade."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "O Fechamento: A Conclusão Lógica",
+    "teaser": "🛑 O Fechamento não é um truque; é o momento em que você, como especialista, ASSUME O CONTROLE e guia a decisão.",
+    "level1": "O **Fechamento** é a etapa onde o vendedor, com autoridade, guia o cliente para a decisão. Se o diagnóstico e a Proposta de Valor foram eficazes, o fechamento deve ser **natural e inevitável**. Você não deve *perguntar* se o cliente quer comprar, mas *assumir* a compra.",
+    "level2": "Use perguntas de fechamento que assumem o próximo passo. A chave é remover os obstáculos finais (objeções) e usar a **Urgência do Custo da Inação** para impulsionar a ação. O 'Preciso pensar' é um sintoma de objeção não resolvida (geralmente falta de valor ou de consenso).",
+    "level3": "O Desafiador é **assertivo, não agressivo**. Use a tática de **Espelhamento** e **Perguntas Calibradas** ('O que te impede de seguir em frente?') para descobrir a objeção real (o 'Não' disfarçado) e levá-lo de volta à Lacuna. Fechar o negócio é um ato de serviço, pois você está ajudando o cliente a parar de perder dinheiro.",
+    "recapitulation": [
+      "Fechamento = Conclusão lógica, não um truque.",
+      "O Desafiador Assume o Controle e guia os próximos passos.",
+      "Use perguntas que assumem a compra ('Qual é o próximo passo?').",
+      "Urgência: Reafirme o Custo da Inação para impulsionar a ação.",
+      "'Preciso pensar' é uma objeção disfarçada; use o Espelhamento para descobrir a real.",
+      "Confiança e Assertividade são essenciais no fechamento."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Use uma Pergunta de Assumir o Fechamento: 'Qual é o dia ideal para iniciarmos a implementação?'",
+      "**Nível 2 (Intermediário):** Quando ouvir 'Preciso pensar', pergunte: 'O que te impede de seguir em frente com o ROI de 10x e o Custo da Inação de $180k?'",
+      "**Nível 3 (Avançado):** Use o 'Fechamento de Mudança': 'Com base em tudo que discutimos, você está pronto para fazer a mudança para o Estado Futuro?'",
+      "Tenha o contrato e os próximos passos simplificados (facilidade de compra)."
+    ],
+    "conclusionMessage": "O fechamento não é um truque, mas a conclusão lógica de um diagnóstico e proposta de valor bem-sucedidos. O cliente deve se sentir compelido a agir.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que o fechamento deve ser?",
+        "options": [
+          { "value": "a", "label": "Um truque de vendas." },
+          { "value": "b", "label": "A conclusão lógica de um diagnóstico e proposta de valor bem-sucedidos." },
+          { "value": "c", "label": "Um desconto." },
+          { "value": "d", "label": "Um elogio." }
+        ],
+        "explanation": "O fechamento é a inevitabilidade.",
+        "hint": "Inevitalidade.",
+        "correctAnswer": "b",
+        "bookExample": "O fechamento é o resultado do valor, não da pressão."
+      },
+      {
+        "id": "2",
+        "question": "O que o vendedor deve fazer para 'Assumir o Controle' no fechamento?",
+        "options": [
+          { "value": "a", "label": "Esperar o cliente pedir para comprar." },
+          { "value": "b", "label": "Definir claramente os próximos passos e os prazos, guiando o cliente para a decisão." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "O Desafiador é o guia, não o seguidor.",
+        "hint": "Guia.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não espera o cliente pedir; ele diz o que o cliente precisa."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Urgência' no fechamento?",
+        "options": [
+          { "value": "a", "label": "Ignorar a urgência." },
+          { "value": "b", "label": "Usar o Custo da Inação para criar um senso de urgência que impulsiona o cliente a agir agora." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "A urgência motiva a ação.",
+        "hint": "Ação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a urgência da mudança."
+      },
+      {
+        "id": "4",
+        "question": "O que o vendedor deve fazer se o cliente disser 'Preciso de mais tempo para pensar'?",
+        "options": [
+          { "value": "a", "label": "Dar tempo para pensar." },
+          { "value": "b", "label": "Usar o espelhamento e perguntas calibradas ('O que te impede de seguir em frente?') para descobrir a objeção real." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Dar um desconto." }
+        ],
+        "explanation": "O 'Preciso pensar' é frequentemente um 'Não' disfarçado.",
+        "hint": "Disfarce.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não aceita desculpas."
+      },
+      {
+        "id": "5",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o preço como um 'Investimento' no fechamento?",
+        "options": [
+          { "value": "a", "label": "Dizer que é um investimento." },
+          { "value": "b", "label": "Reafirmar o ROI (Retorno sobre o Investimento) e o custo da inação (perda)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no seu esforço." }
+        ],
+        "explanation": "Investimento implica retorno; custo implica despesa.",
+        "hint": "Retorno.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o ROI, não o custo."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de o vendedor 'Hesitar' no fechamento?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente perde a confiança no vendedor e questiona a decisão." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A confiança é a chave.",
+        "hint": "Confiança.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é assertivo, não hesitante."
+      },
+      {
+        "id": "7",
+        "question": "O que o vendedor deve fazer se o cliente tentar 'Mudar o Escopo' no último minuto?",
+        "options": [
+          { "value": "a", "label": "Aceitar a mudança." },
+          { "value": "b", "label": "Referenciar o escopo acordado e precificar a mudança separadamente (Change Order)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "Toda mudança de escopo deve ser uma nova negociação.",
+        "hint": "Negociação.",
+        "correctAnswer": "b",
+        "bookExample": "Se não está no escopo, não está no preço."
+      },
+      {
+        "id": "8",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o fechamento como 'Seguro'?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Usar a Prova Social e a Lacuna quantificada para validar a decisão." },
+          { "value": "c", "label": "Focar no produto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A segurança é a chave para a decisão.",
+        "hint": "Segurança.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente compra a segurança da decisão."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de o vendedor 'Perguntar' se o cliente quer comprar?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O vendedor dá ao cliente a oportunidade de dizer 'Não' e perde o controle da conversa." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O fechamento deve ser uma conclusão, não uma pergunta.",
+        "hint": "Conclusão.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador assume a compra."
+      },
+      {
+        "id": "10",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o fechamento como 'Fácil'?",
+        "options": [
+          { "value": "a", "label": "Tornar o processo complexo." },
+          { "value": "b", "label": "Simplificar os próximos passos e o contrato, focando na facilidade de implementação." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A facilidade de compra é um valor em si.",
+        "hint": "Facilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente compra a paz de espírito."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "O Pós-Venda: A Continuidade da Lacuna",
+    "teaser": "🤝 O jogo não acaba no fechamento. O Pós-Venda é a garantia do ROI e a fonte mais lucrativa de Upsell e LTV.",
+    "level1": "O trabalho do Desafiador continua no **Pós-Venda**. Seu objetivo é garantir que o cliente alcance o **Estado Futuro** prometido, monitore o **ROI** e feche a Lacuna. Isso é crucial para a **Retenção** e o **LTV** (*Lifetime Value*).",
+    "level2": "Seu foco deve ser em **monitorar o ROI** e a satisfação (o cliente deve *sentir* que a decisão foi a correta). Use o sucesso para **coletar Prova Social** quantificada. 'O ROI prometido foi alcançado? O que você está fazendo com o tempo/dinheiro economizado?'",
+    "level3": "O pós-venda é a porta de entrada para o **Upsell/Cross-sell**. Use o monitoramento de ROI para identificar **novas Lacunas** que surgiram ou se tornaram relevantes. O Upsell é a solução lógica para a próxima dor, e não um empurrão de produto (ex: 'Agora que resolvemos X, o problema Y se tornou a próxima Lacuna de $Z. Temos uma solução...').",
+    "recapitulation": [
+      "Pós-Venda = Garantia do ROI e Fonte de LTV (Lifetime Value).",
+      "Monitore o ROI e a Satisfação (o cliente deve sentir que foi a decisão correta).",
+      "Coleta de Prova Social focada na Lacuna Fechada.",
+      "Upsell é a solução para uma NOVA Lacuna identificada no pós-venda.",
+      "O Churn Rate (Taxa de Cancelamento) é o inimigo da receita recorrente.",
+      "Seja um Parceiro de Longo Prazo, não um Vendedor de Transação Única."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Faça um *check-in* trimestral focado no ROI: 'Estamos no caminho para o ROI de $X?'",
+      "**Nível 2 (Intermediário):** Crie um 'Questionário de Prova Social' focado na Lacuna (Dor Inicial -> Solução -> ROI Alcançado).",
+      "**Nível 3 (Avançado):** Use o 'Pitch de Nova Lacuna': 'Parabéns pelo ROI de X. Pelo que vejo, seu próximo gargalo (Lacuna) é Y, que custará $Z. Quer que eu te mostre como resolvemos isso?'",
+      "Em caso de risco de cancelamento (Churn), foque na Lacuna: 'Se você cancelar, o Custo da Inação voltará a ser $X. Como você lidará com isso?'"
+    ],
+    "conclusionMessage": "O pós-venda é a fase onde o vendedor garante que a Lacuna seja fechada e que o cliente veja o ROI prometido, preparando o terreno para o Upsell.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo do pós-venda?",
+        "options": [
+          { "value": "a", "label": "Vender um produto novo." },
+          { "value": "b", "label": "Garantir que a Lacuna seja fechada, o ROI alcançado e preparar o terreno para o Upsell." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O pós-venda é a chave para o LTV (Lifetime Value).",
+        "hint": "LTV.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente mais valioso é o cliente recorrente."
+      },
+      {
+        "id": "2",
+        "question": "O que o vendedor deve monitorar no pós-venda?",
+        "options": [
+          { "value": "a", "label": "O preço da concorrência." },
+          { "value": "b", "label": "O ROI (Retorno sobre o Investimento) e a satisfação do cliente em relação ao Estado Futuro prometido." },
+          { "value": "c", "label": "O tempo de entrega." },
+          { "value": "d", "label": "O preço do produto." }
+        ],
+        "explanation": "O ROI é a métrica de sucesso.",
+        "hint": "Métrica.",
+        "correctAnswer": "b",
+        "bookExample": "Você gerencia o que você mede."
+      },
+      {
+        "id": "3",
+        "question": "Como o vendedor usa o pós-venda para 'Upsell' (vender mais)?",
+        "options": [
+          { "value": "a", "label": "Dando um desconto." },
+          { "value": "b", "label": "Identificando novas dores (Lacunas) que surgiram após a solução inicial e apresentando uma nova solução de alto valor." },
+          { "value": "c", "label": "Focando no produto." },
+          { "value": "d", "label": "Focando no relacionamento." }
+        ],
+        "explanation": "O Upsell é a solução para uma nova Lacuna.",
+        "hint": "Nova Lacuna.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente satisfeito é a sua melhor fonte de receita."
+      },
+      {
+        "id": "4",
+        "question": "O que o vendedor deve fazer para 'Coletar Prova Social' no pós-venda?",
+        "options": [
+          { "value": "a", "label": "Pedir um elogio genérico." },
+          { "value": "b", "label": "Fazer perguntas específicas sobre a Lacuna (dor inicial e ROI alcançado) após a entrega da solução." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "A coleta deve ser focada na Lacuna.",
+        "hint": "Lacuna.",
+        "correctAnswer": "b",
+        "bookExample": "O testemunho deve ser a história da Lacuna fechada."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de o vendedor 'Sumir' após o fechamento?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente pode não alcançar o ROI prometido e o relacionamento de longo prazo é comprometido (Churn)." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O pós-venda é a chave para a retenção.",
+        "hint": "Retenção.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um parceiro de longo prazo."
+      },
+      {
+        "id": "6",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o pós-venda como 'Valor'?",
+        "options": [
+          { "value": "a", "label": "Focar no produto." },
+          { "value": "b", "label": "Focar em monitorar o ROI e fornecer insights contínuos que ajudem o cliente a maximizar o Estado Futuro." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O valor contínuo é o que justifica a recorrência.",
+        "hint": "Continuidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o valor contínuo."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Churn Rate' (Taxa de Cancelamento)?",
+        "options": [
+          { "value": "a", "label": "O número de novos clientes." },
+          { "value": "b", "label": "A porcentagem de clientes que cancelam o serviço em um determinado período." },
+          { "value": "c", "label": "O lucro por cliente." },
+          { "value": "d", "label": "O custo de aquisição de cliente." }
+        ],
+        "explanation": "O Churn Rate é o inimigo da receita recorrente.",
+        "hint": "Inimigo.",
+        "correctAnswer": "b",
+        "bookExample": "Reduzir o Churn Rate é mais lucrativo do que adquirir novos clientes."
+      },
+      {
+        "id": "8",
+        "question": "Como o vendedor usa o pós-venda para 'Downsell' (vender menos)?",
+        "options": [
+          { "value": "a", "label": "Dando um desconto." },
+          { "value": "b", "label": "Oferecer uma opção de nível inferior (ex: suporte básico) se o cliente não puder mais pagar pelo serviço completo, mantendo o relacionamento." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O Downsell garante a retenção.",
+        "hint": "Retenção.",
+        "correctAnswer": "b",
+        "bookExample": "É melhor ter um cliente de baixo valor do que nenhum cliente."
+      },
+      {
+        "id": "9",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o produto como a 'Única Resposta Lógica' no pós-venda?",
+        "options": [
+          { "value": "a", "label": "Focar na concorrência." },
+          { "value": "b", "label": "Continuar fornecendo insights que reforcem a Lacuna e a superioridade da solução." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "O valor contínuo é a chave para a retenção.",
+        "hint": "Continuidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador é um parceiro de longo prazo."
+      },
+      {
+        "id": "10",
+        "question": "O que o cliente deve sentir no pós-venda?",
+        "options": [
+          { "value": "a", "label": "Que o vendedor é muito simpático." },
+          { "value": "b", "label": "Que o ROI prometido foi alcançado e que a decisão de compra foi a correta." },
+          { "value": "c", "label": "Que o preço é muito alto." },
+          { "value": "d", "label": "Que ele poderia ter resolvido sozinho." }
+        ],
+        "explanation": "A satisfação é a chave para o LTV.",
+        "hint": "Satisfação.",
+        "correctAnswer": "b",
+        "bookExample": "O sucesso do cliente é o seu sucesso."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "A Mentalidade do Vendedor: De Reativo a Desafiador",
+    "teaser": "🧠 A chave do sucesso é o seu mindset! Troque o modo 'Atendente de Pedidos' pelo modo 'Consultor de Mudança'.",
+    "level1": "A Venda de Lacunas exige uma transformação de mentalidade: de um vendedor **Reativo** (que atende a pedidos e negocia preço) para um **Desafiador** (que diagnostica, quantifica a dor e guia a mudança).",
+    "level2": "O Desafiador não tem medo de **desafiar o Status Quo** do cliente. Ele assume a posição de **Autoridade** e é assertivo no processo e no preço, pois seu valor é justificado pelo *insight* e pelo ROI que ele traz. A tensão construtiva é um subproduto necessário dessa abordagem.",
+    "level3": "Seu foco deve ser em **criar demanda**, não em reagir a ela. O Desafiador ensina o cliente a ver o problema de forma diferente (o Insight Proprietário) e, em seguida, vende a solução como a única resposta lógica. O vendedor Desafiador é um **consultor de negócios** disfarçado.",
+    "recapitulation": [
+      "Mentalidade Desafiadora = Diagnosticar e Guiar a Mudança.",
+      "Mentalidade Reativa = Atender a pedidos e focar no preço.",
+      "Assuma a Autoridade (Take Control): Defina os próximos passos.",
+      "Seja Assertivo, não Agressivo (firme no valor, flexível no escopo).",
+      "Não tema desafiar o Status Quo do cliente (Tensão Construtiva).",
+      "Crie demanda: Venda o que eles *perdem* ao não mudar (Custo da Inação)."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Mude a linguagem: de 'O que você quer?' para 'Com base no que vi, você está cometendo um erro caro em X. Deixe-me mostrar por quê'.",
+      "**Nível 2 (Intermediário):** Use o 'Fechamento de Assumir o Controle' (Take Control Close): 'Para seguir em frente, o próximo passo é X. Você pode agendar isso?'",
+      "**Nível 3 (Avançado):** Pratique 'Desafiar o Orçamento' se for muito baixo: 'O orçamento de $X não é suficiente para resolver um problema de $Y. Você está disposto a aceitar o risco de resolver apenas parte do problema?'",
+      "Pense em termos de Lacuna, ROI e Custo da Inação em todas as interações."
+    ],
+    "conclusionMessage": "A Venda de Lacunas exige uma mudança de mentalidade: de um vendedor reativo que atende a pedidos para um Desafiador que diagnostica e guia a mudança.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal diferença entre o vendedor 'Reativo' e o 'Desafiador'?",
+        "options": [
+          { "value": "a", "label": "O Reativo é mais simpático." },
+          { "value": "b", "label": "O Reativo atende a pedidos; o Desafiador diagnostica a dor e guia a mudança." },
+          { "value": "c", "label": "O Desafiador é mais caro." },
+          { "value": "d", "label": "O Reativo é mais rápido." }
+        ],
+        "explanation": "A mentalidade define a métrica de sucesso.",
+        "hint": "Métrica.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a mudança, não o produto."
+      },
+      {
+        "id": "2",
+        "question": "O que o vendedor deve fazer para 'Assumir o Controle' da conversa?",
+        "options": [
+          { "value": "a", "label": "Falar mais alto." },
+          { "value": "b", "label": "Guiar o cliente através do processo de diagnóstico e Ensino, definindo os próximos passos." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "O Desafiador é o guia, não o seguidor.",
+        "hint": "Guia.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não espera o cliente pedir; ele diz o que o cliente precisa."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de o vendedor 'Ceder' facilmente na negociação?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O cliente perde o respeito pelo vendedor e questiona o valor da solução." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "A firmeza gera respeito.",
+        "hint": "Respeito.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não tem medo de perder o negócio errado."
+      },
+      {
+        "id": "4",
+        "question": "O que o vendedor deve fazer para 'Personalizar a Dor'?",
+        "options": [
+          { "value": "a", "label": "Focar na dor de outros clientes." },
+          { "value": "b", "label": "Conectar o problema da empresa às consequências pessoais e profissionais do stakeholder." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "A dor pessoal é o que impulsiona a ação.",
+        "hint": "Pessoal.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só age quando a dor é pessoal."
+      },
+      {
+        "id": "5",
+        "question": "O que o vendedor deve fazer para 'Quantificar a Lacuna'?",
+        "options": [
+          { "value": "a", "label": "Adivinhar o custo." },
+          { "value": "b", "label": "Traduzir o problema em termos de custo financeiro, tempo perdido ou risco operacional." },
+          { "value": "c", "label": "Focar no preço." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "A Lacuna deve ser mensurável.",
+        "hint": "Mensurável.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode medir a dor, você não pode vender a cura."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de o vendedor 'Falar Demais'?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O vendedor perde a oportunidade de descobrir a dor real e o cliente não se sente ouvido." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "Ouvir é a chave para o diagnóstico.",
+        "hint": "Ouvir.",
+        "correctAnswer": "b",
+        "bookExample": "O vendedor deve ser um ouvinte ativo."
+      },
+      {
+        "id": "7",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o preço como um 'Investimento'?",
+        "options": [
+          { "value": "a", "label": "Dizer que é um investimento." },
+          { "value": "b", "label": "Relacionar o preço ao ROI (Retorno sobre o Investimento) e ao custo da inação (perda)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no seu esforço." }
+        ],
+        "explanation": "Investimento implica retorno; custo implica despesa.",
+        "hint": "Retorno.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o ROI, não o custo."
+      },
+      {
+        "id": "8",
+        "question": "O que o vendedor deve fazer para 'Filtrar' clientes não-ideais?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Usar perguntas de diagnóstico para identificar a Lacuna e a capacidade de pagamento no início do processo." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O diagnóstico é o filtro.",
+        "hint": "Filtro.",
+        "correctAnswer": "b",
+        "bookExample": "Diga 'Não' aos clientes errados para poder dizer 'Sim' aos clientes certos."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o principal objetivo da 'Venda de Lacunas'?",
+        "options": [
+          { "value": "a", "label": "Vender o produto." },
+          { "value": "b", "label": "Vender a diferença (a Lacuna) entre o Estado Atual e o Estado Futuro." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A Lacuna é o motor da compra.",
+        "hint": "Diferença.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra quando a Lacuna é grande o suficiente."
+      },
+      {
+        "id": "10",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o status quo como 'Insustentável'?",
+        "options": [
+          { "value": "a", "label": "Elogiar o status quo." },
+          { "value": "b", "label": "Quantificar o custo da inação e o risco de manter o status quo." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A quantificação é a chave para a insustentabilidade.",
+        "hint": "Quantificação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a urgência da mudança."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "A Cultura de Vendas: Alinhamento e Treinamento",
+    "teaser": "👨‍🏫 O Gerente de Vendas Desafiador não gerencia atividades, mas treina o músculo do Insight e da Lacuna.",
+    "level1": "A Venda de Lacunas (Desafiador) só escala com uma **Cultura de Vendas Alinhada**. O Gerente de Vendas deve ser o **Professor dos Professores**, treinando e reforçando os comportamentos de diagnóstico, quantificação e Assumir o Controle.",
+    "level2": "O **Treinamento** deve ser focado na **qualidade do diagnóstico** e na capacidade de criar e fechar Lacunas de alto valor. Não basta recompensar o volume de vendas; é preciso recompensar a *qualidade do Insight* e o *tamanho da Lacuna* que o vendedor consegue fechar.",
+    "level3": "As **Métricas** devem refletir os comportamentos Desafiadores. Monitore a taxa de conversão do diagnóstico para a proposta e o *tamanho médio da Lacuna* por vendedor. O foco no produto ou no relacionamento, se não for corrigido pela gerência, transforma a equipe em fornecedores de commodity.",
+    "recapitulation": [
+      "Transformação Cultural: A Lacuna deve ser a norma.",
+      "Gerente = Professor dos Professores (Treina o Insight).",
+      "Treinamento focado em Diagnóstico e Quantificação da Dor.",
+      "Métricas: Qualidade do Diagnóstico e Tamanho da Lacuna (não apenas volume).",
+      "Liderança deve reforçar o Assumir o Controle e o Desafio ao Status Quo.",
+      "Cultura que foca em Produto/Relacionamento leva à Competição de Preço."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Faça *role-plays* de vendas focados apenas no diagnóstico (sem falar do produto).",
+      "**Nível 2 (Intermediário):** Adicione métricas de qualidade (ex: 'Lacuna Média Fechada', 'Taxa de Conversão Pós-Diagnóstico') ao seu painel de vendas.",
+      "**Nível 3 (Avançado):** Peça aos vendedores para trazerem um 'Insight Proprietário' que usaram na última semana e discuta como ele se conecta à Lacuna do cliente.",
+      "Recompense publicamente a venda de alto valor que resultou de um diagnóstico e Insight profundo (reforço positivo)."
+    ],
+    "conclusionMessage": "A Venda de Lacunas exige uma cultura de vendas alinhada, onde o treinamento e o coaching são focados no diagnóstico e na Lacuna.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o papel do Gerente de Vendas na Venda de Lacunas?",
+        "options": [
+          { "value": "a", "label": "Fazer o trabalho pelos vendedores." },
+          { "value": "b", "label": "Treinar, reforçar e gerenciar o desempenho dos vendedores no diagnóstico e na Lacuna." },
+          { "value": "c", "label": "Dar descontos." },
+          { "value": "d", "label": "Focar apenas em atividades (ligações, visitas)." }
+        ],
+        "explanation": "O Gerente é o catalisador da mudança cultural.",
+        "hint": "Catalisador.",
+        "correctAnswer": "b",
+        "bookExample": "O Gerente Desafiador é o professor dos professores."
+      },
+      {
+        "id": "2",
+        "question": "O que o treinamento de vendas deve focar?",
+        "options": [
+          { "value": "a", "label": "Apenas em fechar o negócio." },
+          { "value": "b", "label": "Na qualidade do diagnóstico, na quantificação da Lacuna e na capacidade de Assumir o Controle." },
+          { "value": "c", "label": "No preço." },
+          { "value": "d", "label": "No relacionamento." }
+        ],
+        "explanation": "O treinamento deve ser focado nos comportamentos Desafiadores.",
+        "hint": "Comportamento.",
+        "correctAnswer": "b",
+        "bookExample": "O Gerente Desafiador treina o músculo do insight."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de uma cultura de vendas que foca apenas no 'Produto'?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "A equipe se torna um fornecedor de commodity, incapaz de justificar um preço premium e impulsionar a mudança." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O foco no produto leva à competição de preço.",
+        "hint": "Commodity.",
+        "correctAnswer": "b",
+        "bookExample": "O relacionamento sem insight é apenas amizade, não valor."
+      },
+      {
+        "id": "4",
+        "question": "O que o Gerente de Vendas deve medir no desempenho dos vendedores?",
+        "options": [
+          { "value": "a", "label": "Apenas o volume de vendas." },
+          { "value": "b", "label": "A qualidade do diagnóstico, a Lacuna quantificada e a taxa de conversão de Lacunas de alto valor." },
+          { "value": "c", "label": "O número de amigos que o vendedor tem." },
+          { "value": "d", "label": "O número de e-mails enviados." }
+        ],
+        "explanation": "As métricas devem refletir os comportamentos Desafiadores.",
+        "hint": "Métricas.",
+        "correctAnswer": "b",
+        "bookExample": "Você gerencia o que você mede."
+      },
+      {
+        "id": "5",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o processo como 'Consultivo'?",
+        "options": [
+          { "value": "a", "label": "Focar no produto." },
+          { "value": "b", "label": "Focar em fazer perguntas e ouvir, em vez de falar sobre o produto." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Ouvir é a chave para o diagnóstico.",
+        "hint": "Ouvir.",
+        "correctAnswer": "b",
+        "bookExample": "O vendedor deve ser um ouvinte ativo."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de uma organização que foca apenas no 'Relacionamento'?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "A organização se torna uma commodity, incapaz de justificar um preço premium e impulsionar a mudança estratégica." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O Relacionamento sem insight é apenas amizade, não valor.",
+        "hint": "Commodity.",
+        "correctAnswer": "b",
+        "bookExample": "O relacionamento sem insight é apenas amizade, não valor."
+      },
+      {
+        "id": "7",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o preço como um 'Investimento'?",
+        "options": [
+          { "value": "a", "label": "Dizer que é um investimento." },
+          { "value": "b", "label": "Relacionar o preço ao ROI (Retorno sobre o Investimento) e ao custo da inação (perda)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no seu esforço." }
+        ],
+        "explanation": "Investimento implica retorno; custo implica despesa.",
+        "hint": "Retorno.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o ROI, não o custo."
+      },
+      {
+        "id": "8",
+        "question": "O que o vendedor deve fazer para 'Filtrar' clientes não-ideais?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Usar perguntas de diagnóstico para identificar a Lacuna e a capacidade de pagamento no início do processo." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O diagnóstico é o filtro.",
+        "hint": "Filtro.",
+        "correctAnswer": "b",
+        "bookExample": "Diga 'Não' aos clientes errados para poder dizer 'Sim' aos clientes certos."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o principal objetivo da 'Venda de Lacunas'?",
+        "options": [
+          { "value": "a", "label": "Vender o produto." },
+          { "value": "b", "label": "Vender a diferença (a Lacuna) entre o Estado Atual e o Estado Futuro." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A Lacuna é o motor da compra.",
+        "hint": "Diferença.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra quando a Lacuna é grande o suficiente."
+      },
+      {
+        "id": "10",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o status quo como 'Insustentável'?",
+        "options": [
+          { "value": "a", "label": "Elogiar o status quo." },
+          { "value": "b", "label": "Quantificar o custo da inação e o risco de manter o status quo." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A quantificação é a chave para a insustentabilidade.",
+        "hint": "Quantificação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a urgência da mudança."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "A Mentalidade do Empresário: De Vendedor a Consultor de Negócios",
+    "teaser": "👑 Pense como um CEO: Seu valor está no ROI que você gera, não no seu esforço ou nas horas que você gasta.",
+    "level1": "O vendedor de alto desempenho adota a mentalidade de um **Empresário/Consultor de Negócios**. Ele foca em **lucro, ROI e valor de longo prazo**, e não apenas em fechar a próxima venda. Ele vê o preço como uma alavanca de valor, não como um obstáculo.",
+    "level2": "O valor de um Consultor de Negócios está na sua capacidade de **diagnosticar e resolver problemas caros** (a Lacuna) e não nas horas que ele trabalha. O empresário Desafiador é seletivo com seu tempo, focando apenas nos Clientes Ideais que oferecem o maior potencial de Lacuna e ROI.",
+    "level3": "A chave é a **Alavancagem**: seu conhecimento e seu produto são alavancas que transformam o Estado Atual do cliente. Venda a **inevitabilidade da sua solução** ao mostrar que o Custo da Inação é insustentável e o ROI é irrecusável. A venda é a conclusão lógica da sua autoridade e do seu valor.",
+    "recapitulation": [
+      "Mentalidade de Empresário = Foco em ROI, Lucro e Valor de Longo Prazo.",
+      "Valor está na resolução de problemas caros (Lacuna), não no esforço.",
+      "O Consultor de Negócios Assumi a Posição de Autoridade.",
+      "Foque em Alavancagem: seu conhecimento é o seu maior ativo.",
+      "Seletividade: Filtre clientes que não têm Dor/Dinheiro (Não-Ideais).",
+      "Venda a Paz de Espírito e a Facilidade de Compra (Fechamento Simples)."
+    ],
+    "practicalChecklist": [
+      "**Nível 1 (Básico):** Em vez de 'Quanto tempo levará?', pergunte 'Qual é o ROI esperado?'.",
+      "**Nível 2 (Intermediário):** Analise seu funil e descarte ativamente 2 clientes que são 'Não-Ideais' (baixa Lacuna ou só focam em preço).",
+      "**Nível 3 (Avançado):** Crie uma 'Declaração de Valor Empresarial' para você (ex: 'Eu sou um Consultor que garante um ROI de X% na otimização de Y.').",
+      "Assuma a compra com confiança: 'Com base no ROI de X, é um investimento inteligente. Vamos começar.'"
+    ],
+    "conclusionMessage": "A Venda de Lacunas exige que o vendedor adote a mentalidade de um empresário, focando em ROI, valor e resultados de longo prazo.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal diferença entre a mentalidade de 'Vendedor' e 'Consultor de Negócios'?",
+        "options": [
+          { "value": "a", "label": "O Vendedor trabalha mais." },
+          { "value": "b", "label": "O Vendedor foca no produto; o Consultor foca no problema, no ROI e na Lacuna." },
+          { "value": "c", "label": "O Consultor tem mais clientes." },
+          { "value": "d", "label": "O Vendedor tem mais lucro." }
+        ],
+        "explanation": "A mentalidade define a métrica de sucesso.",
+        "hint": "Métrica.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor vende a transformação. O Vendedor vende o produto."
+      },
+      {
+        "id": "2",
+        "question": "O que o vendedor deve fazer para 'Assumir a Posição de Autoridade'?",
+        "options": [
+          { "value": "a", "label": "Falar mais alto." },
+          { "value": "b", "label": "Guiar o cliente através do processo de diagnóstico e Ensino, desafiando o status quo." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "O Desafiador é o guia, não o seguidor.",
+        "hint": "Guia.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não espera o cliente pedir; ele diz o que o cliente precisa."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de o vendedor 'Focar no Preço'?",
+        "options": [
+          { "value": "a", "label": "O cliente fecha o negócio mais rápido." },
+          { "value": "b", "label": "O vendedor se torna um fornecedor de commodity, incapaz de justificar um preço premium e impulsionar a mudança." },
+          { "value": "c", "label": "O preço aumenta." },
+          { "value": "d", "label": "O cliente compra o produto da concorrência." }
+        ],
+        "explanation": "O foco no preço leva à competição.",
+        "hint": "Commodity.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador não compete por preço, compete por valor."
+      },
+      {
+        "id": "4",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o preço como um 'Investimento'?",
+        "options": [
+          { "value": "a", "label": "Dizer que é um investimento." },
+          { "value": "b", "label": "Relacionar o preço ao ROI (Retorno sobre o Investimento) e ao custo da inação (perda)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no seu esforço." }
+        ],
+        "explanation": "Investimento implica retorno; custo implica despesa.",
+        "hint": "Retorno.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende o ROI, não o custo."
+      },
+      {
+        "id": "5",
+        "question": "O que o vendedor deve fazer para 'Filtrar' clientes não-ideais?",
+        "options": [
+          { "value": "a", "label": "Dar um desconto." },
+          { "value": "b", "label": "Usar perguntas de diagnóstico para identificar a Lacuna e a capacidade de pagamento no início do processo." },
+          { "value": "c", "label": "Focar apenas no CEO." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O diagnóstico é o filtro.",
+        "hint": "Filtro.",
+        "correctAnswer": "b",
+        "bookExample": "Diga 'Não' aos clientes errados para poder dizer 'Sim' aos clientes certos."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o principal objetivo da 'Venda de Lacunas'?",
+        "options": [
+          { "value": "a", "label": "Vender o produto." },
+          { "value": "b", "label": "Vender a diferença (a Lacuna) entre o Estado Atual e o Estado Futuro." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A Lacuna é o motor da compra.",
+        "hint": "Diferença.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra quando a Lacuna é grande o suficiente."
+      },
+      {
+        "id": "7",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o status quo como 'Insustentável'?",
+        "options": [
+          { "value": "a", "label": "Elogiar o status quo." },
+          { "value": "b", "label": "Quantificar o custo da inação e o risco de manter o status quo." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A quantificação é a chave para a insustentabilidade.",
+        "hint": "Quantificação.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a urgência da mudança."
+      },
+      {
+        "id": "8",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o produto como a 'Única Resposta Lógica'?",
+        "options": [
+          { "value": "a", "label": "Focar na concorrência." },
+          { "value": "b", "label": "Usar o Insight Proprietário para mostrar que o produto é o único que pode fechar a Lacuna e alcançar o ROI." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no relacionamento." }
+        ],
+        "explanation": "A solução do vendedor deve ser a conclusão lógica e inevitável.",
+        "hint": "Inevitalidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Desafiador vende a inevitabilidade da sua solução."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o papel do 'Pós-Venda' na mentalidade do empresário?",
+        "options": [
+          { "value": "a", "label": "Vender um produto novo." },
+          { "value": "b", "label": "Garantir que o ROI seja alcançado e identificar novas Lacunas (oportunidades de Upsell)." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O pós-venda é a chave para o LTV.",
+        "hint": "LTV.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente mais valioso é o cliente recorrente."
+      },
+      {
+        "id": "10",
+        "question": "O que o vendedor deve fazer para garantir que o cliente veja o fechamento como 'Fácil'?",
+        "options": [
+          { "value": "a", "label": "Tornar o processo complexo." },
+          { "value": "b", "label": "Simplificar os próximos passos e o contrato, focando na facilidade de implementação." },
+          { "value": "c", "label": "Dar um desconto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A facilidade de compra é um valor em si.",
+        "hint": "Facilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente compra a paz de espírito."
+      }
+    ]
+  }
+]

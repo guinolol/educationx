@@ -1,0 +1,1897 @@
+[
+{
+  "simulationId": 1,
+  "title": "🚀 Simulação: O Desafio de Lançamento em 48 Horas",
+  "introduction": "Você acabou de ter uma ideia incrível para um novo produto (uma 'ferramenta de gestão de leads para agências de marketing que usam WhatsApp'). Você tem apenas **48 horas** para validar essa ideia e fazer suas primeiras vendas, seguindo a metodologia MDW. O perfeccionismo é o inimigo. Seu objetivo é tomar as 12 decisões críticas que provarão (ou refutarão) a demanda do mercado.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "A Mentalidade do Fim de Semana Milionário: Velocidade e Validação",
+      "narrative": "⏱️ Sábado, 9h. Você está sentado com a ideia. A primeira tentação é passar o dia criando um logo perfeito, pesquisando concorrentes por 8 horas e construindo um site lindo. Seu instinto de 'Analista' está gritando que você precisa de 'Mais Planejamento'. **Qual é a sua primeira ação, alinhada com a mentalidade MDW?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ignorar o planejamento excessivo. Focar em escrever a Oferta Mínima Viável (MVO) e criar uma Landing Page simples de pré-venda em 2 horas.",
+          "feedback": "✅ Perfeito! Você prioriza a **Velocidade** e a **Validação** acima da perfeição, atacando a 'Paralisia por Análise' desde o início. Lançar agora, aperfeiçoar depois. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Pesquisar no Google Trends por 2 horas para ver se o termo 'ferramenta de gestão de leads' está em alta antes de começar qualquer coisa.",
+          "feedback": "👍 Um bom passo, mas ainda é **Análise Paralisante** disfarçada. O MDW prioriza o 'Teste do $1' (venda real) sobre dados secundários. Quase lá, mas ainda lento. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Passar 6 horas construindo um protótipo funcional da ferramenta antes de mostrá-lo a qualquer pessoa.",
+          "feedback": "⚠️ O problema de 'Construir para Vender' em vez de 'Vender para Construir'. Você está correndo o risco de construir algo que ninguém quer, gastando tempo crucial. Isso não é priorizar a **Validação**. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Ligar para 5 amigos para perguntar o que eles acham da ideia para garantir que ela seja perfeita.",
+          "feedback": "❌ Você está usando **Opiniões Baratas** (amigos que não vão pagar) em vez de **Dinheiro Caro** (clientes pagantes). Você está fugindo da validação real. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "A Busca pelo Nicho de 1%: Dor e Acessibilidade",
+      "narrative": "🎯 11h. Você precisa definir seu **Nicho de 1%** para sua 'ferramenta de leads para agências de marketing que usam WhatsApp'. Se for muito amplo, você falha. Se for muito estreito, pode não ter mercado. Você tem que escolher a melhor segmentação para seu primeiro MVO, garantindo **Dor** e **Acessibilidade** imediata. **Qual nicho você persegue?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Todas as 'Pequenas Empresas' que usam WhatsApp (Nicho Amplo).",
+          "feedback": "❌ Generalista. Sua mensagem será diluída ('você não é nada para ninguém'). Você também não saberá onde encontrar esse público em 48 horas. Falta **Dor Específica** e **Acessibilidade**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Agências de Marketing de Performance B2B com 5 a 10 funcionários (Nicho de 1%).",
+          "feedback": "✅ Excelente! O nicho é específico (Agências B2B). O problema é doloroso (gestão de leads é dinheiro). O público é **Acessível** (LinkedIn, grupos de agências). Você pode ser o 'especialista' indiscutível. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pessoas que querem ser 'Influencers' no Instagram (Nicho não relacionado e dor vaga).",
+          "feedback": "⚠️ A dor é vaga e não está relacionada ao problema que você está resolvendo (gestão de leads por WhatsApp). Você falhou no princípio de se apaixonar pelo **Problema** do cliente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Todas as 'Agências de Marketing' do mundo (Nicho Global).",
+          "feedback": "👍 Melhor que (a), mas o nicho ainda é muito amplo e a concorrência é alta. Você dificilmente se destacará e a **Acessibilidade** para a prospecção manual em 48h é baixa. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "O Design da Oferta Mínima Viável (MVO): Simplicidade e Venda",
+      "narrative": "🛠️ Sábado, 15h. Você definiu o nicho (Agências B2B). Agora, você precisa criar o **MVO**. Você tem tempo para uma landing page básica com a oferta de pré-venda. O MVO não será um software, mas uma solução manual. **Qual é o melhor MVO para testar a dor do seu nicho?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Um Ebook gratuito de 50 páginas sobre 'Gestão de Leads' em troca do e-mail (Magneto de Leads).",
+          "feedback": "❌ Você está vendendo **Vitaminas** (informação gratuita) em vez de **Analgésicos** (solução paga). O objetivo é o 'Teste do $1'. Isso não valida a disposição de pagar. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Um template de Planilha 'Google Sheets' + uma Consultoria de 30 minutos para mapear o fluxo de leads, por R$ 297 (Preço de Teste).",
+          "feedback": "✅ Excelente! É **simples** de criar em horas, resolve uma **dor específica** e cobra um **Preço de Teste** (alto e desconfortável) que valida se a dor é real. É manual e vendável. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Um software beta com 10 recursos complexos (CRM, chat, agendador, etc.) por um preço promocional de R$ 19/mês.",
+          "feedback": "⚠️ Você está se afogando em **Feature Creep** e está cobrando um preço muito baixo que não valida o valor. Você violou a **Simplicidade** do MVO e a regra do **Preço de Teste**. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Uma sessão de consultoria de 1 hora gratuita para 10 agências, pedindo apenas um depoimento no final.",
+          "feedback": "👍 Melhor, você está interagindo. No entanto, o 'grátis' não resolve o **Problema de Validade**. Você precisa de dinheiro para provar que a solução é um 'analgésico'. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "A Prospecção de Alto Impacto em 48 Horas: Outreach Manual",
+      "narrative": "📢 Sábado, 19h. O MVO está no ar (Landing Page com oferta R$ 297). Você precisa de tráfego IMEDIATO. Você não vai usar SEO ou anúncios. Você precisa fazer **Outreach Manual**. Você encontra um grupo no Facebook de 'Donos de Agências B2B'. Você vê 10 posts de pessoas reclamando de 'perder leads no WhatsApp'. **Qual é a sua mensagem de alcance (hook)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Mensagem Pessoal: 'Vi seu post sobre perda de leads. Resolvi isso com um template + consultoria de 30min (R$ 297). Resolva sua dor hoje. Link: [URL].'",
+          "feedback": "✅ Perfeito! É **Personalizada**, foca na **Dor** (O Gancho), apresenta o **MVO** como a cura e **Pede a Venda** (CTA). Velocidade máxima e conversas de alto impacto. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Mensagem Genérica: 'Olá. Eu tenho um novo produto. Visite nosso site e diga o que você acha. Obrigado!'",
+          "feedback": "❌ Você falhou na **Personalização**. Esta mensagem será imediatamente ignorada. Você está fugindo do **Diálogo** e não está resolvendo a dor específica da pessoa. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Postar: 'Me ajudem! Estou lançando um MVO e preciso de feedback. O que vocês acham do meu preço de R$ 297?'",
+          "feedback": "⚠️ Você está pedindo opiniões em vez de vendas. Você está usando a comunidade como um balcão de pesquisa, e não como um canal de **Outreach Manual** focado na dor. Quase lá, mas ainda suave. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Mensagem Pessoal: 'Vi seu post. O que você acha de eu te dar 1 hora do meu tempo de graça para discutir seu problema?'",
+          "feedback": "👍 Isso é bom para construir relacionamento, mas não para o teste de validação de 48h. Você não está realizando o **Teste do $1** e está aumentando o 'Custo da Inação' ao gastar tempo sem retorno financeiro imediato. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "A Mentalidade do Fim de Semana Milionário: Velocidade e Validação",
+      "narrative": "📉 Domingo, 10h. Sua Landing Page tem 50 visitas e 0 vendas. Você se sente um fracasso. Você pensa: 'Preciso de um design melhor. O site está muito feio, por isso ninguém comprou'. Você está tentado a passar o resto do dia reescrevendo o código e redesenhando o logo. **Qual mentalidade MDW você aplica agora?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Cair na 'Paralisia por Análise' e passar 8 horas consertando a estética do site. O design é a chave para a confiança.",
+          "feedback": "❌ Perfeccionismo e **Análise Paralisante**. Se você não está envergonhado do seu MVO, você lançou tarde demais. A estética não é o ponto de falha; a oferta ou o público são. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Fazer uma postagem de 'Semeadura de Conteúdo' em 2 grupos de nicho, focando em um insight valioso sobre a perda de leads, com um link sutil para o MVO.",
+          "feedback": "👍 Bom. Você continua na **Ação Rápida** e está gerando tráfego de nicho, mas ainda não está indo direto para a conversão 1-a-1. Isso é melhor do que a inação. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Reconhecer que o site 'envergonhado' é um sinal de velocidade e que o problema está na Oferta (MVO) ou no Nicho. Voltar ao Outreach Manual e perguntar por que eles não compraram.",
+          "feedback": "✅ Isso é **Iteração Rápida e Validação**. Você reconhece que a **Vergonha** é um sinal de velocidade e está usando a **Rejeição como Feedback** para refinar a oferta (MVO) ou a mensagem. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Desistir. A ideia é ruim. O 'Custo da Inação' é maior que o risco, então vou parar de gastar tempo.",
+          "feedback": "⚠️ O **Custo da Inação** não está na perda de tempo, mas na perda da oportunidade. Você desiste antes de usar a rejeição como feedback. É uma fuga prematura. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "A Busca pelo Nicho de 1%: Dor e Acessibilidade",
+      "narrative": "🗣️ Domingo, 14h. Você está fazendo o Outreach Manual. Um potencial cliente diz: 'Seu template é legal, mas o que realmente dói é a **integração com o Mailchimp**. Gastamos 4 horas por dia fazendo isso manualmente.' Você percebe que a verdadeira **Dor** é a integração, não o mapeamento do fluxo. **O que você faz com o MVO de R$ 297?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ignorar. Não é o que você queria construir. Continuar vendendo o MVO de Planilha + Consultoria.",
+          "feedback": "❌ Você está se apaixonando pela sua **Solução** em vez do **Problema/Dor** do cliente. Isso viola a regra principal do MDW: o feedback do cliente é o mapa. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Mudar o MVO IMEDIATAMENTE na Landing Page para: 'Eu construo a sua Integração Mailchimp/WhatsApp MANUALMENTE em 24h + um template de planilha de controle'.",
+          "feedback": "✅ Perfeito! Você faz uma **Iteração Rápida** do MVO para resolver a **Dor Mais Intensa** ('analgésico') do cliente. É manual, simples e usa a dor real do cliente para o **Teste do $1** (Pré-venda). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer a ele que você pode construir a integração em 6 meses com um software caro e pedir um investimento inicial de R$ 10.000.",
+          "feedback": "⚠️ Você está introduzindo **Complexidade** e **Longos Prazos** (6 meses). O cliente quer a cura AGORA. Isso é 'over-engineering' em vez de **Simplicidade**. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Oferecer a integração de graça em troca do e-mail dele para futuras atualizações.",
+          "feedback": "👍 Isso resolve a dor, mas ainda falha no **Teste do $1**. Você precisa de dinheiro para validar se a dor é forte o suficiente para justificar o preço. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Design da Oferta Mínima Viável (MVO): Simplicidade e Venda",
+      "narrative": "💰 Domingo, 16h. Você mudou a oferta para 'Integração Manual'. Você envia a nova oferta para 5 agências. Duas delas dizem: 'Eu pagaria R$ 297, mas e se não funcionar? Não quero desperdiçar dinheiro.' O risco percebido é alto. **Qual ferramenta você usa para quebrar essa objeção de 'Risco' e fechar a Pré-venda?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Reduzir o preço para R$ 27 (Preço Baixo).",
+          "feedback": "⚠️ Você está desvalorizando o MVO e a solução de dor intensa. O **Preço de Teste** é alto para validar o valor. Reduzir o preço não prova que a solução é boa. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Oferecer uma **Garantia Incondicional de Devolução do Dinheiro** ('Se não resolver a perda de leads em 7 dias, devolvo 100%').",
+          "feedback": "✅ Isso quebra a objeção de risco percebido do cliente, demonstrando sua confiança no MVO e eliminando a barreira final para a compra. O cliente agora está 'livre' para comprar. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer que você tem muitos outros clientes satisfeitos (mesmo que não tenha) (Fraude).",
+          "feedback": "❌ Falta de ética e não é uma estratégia de MDW. O foco é na **Simplicidade** e na **Entrega de Valor**, não em táticas de vendas enganosas. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Aumentar o preço para R$ 497 (Preço Mais Alto).",
+          "feedback": "👍 Cobrar um preço alto é bom, mas se o cliente já está inseguro com R$ 297, aumentar o preço não resolve a objeção de **Risco**. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "A Prospecção de Alto Impacto em 48 Horas: Outreach Manual",
+      "narrative": "📈 Domingo, 18h. Você fechou suas duas primeiras vendas (R$ 594!) graças à Garantia. Agora, você tem o dinheiro e a validação. Seu próximo alvo é o LinkedIn. Você encontra um post de um CEO de uma Agência B2B queixando-se sobre 'a complexidade das integrações'. Você não pode enviar um link de venda no primeiro contato. **Qual é o melhor 'Gancho' (Hook) para iniciar o Outreach Manual no LinkedIn?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Mensagem: 'Olá, sou [Seu Nome], um designer de software. Você gostaria de se conectar?' (Gancho Genérico).",
+          "feedback": "❌ Isso não demonstra que você entende a **Dor** do CEO. É ignorado porque não é **Personalizado** e não é sobre ele. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Mensagem: 'Vi seu post sobre problemas de integração. A maioria erra no Passo 1, que é [Insight Valioso]. Eu criei um MVO que resolve isso em 24h. Posso te enviar um resumo?'",
+          "feedback": "✅ O melhor 'Gancho'. Você foca na **Dor**, mostra que tem **Conhecimento (Insight)** e sugere um 'próximo passo' suave para o **MVO**. Isso leva à Conversa de Vendas. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Mensagem: 'Tenho uma ferramenta de gestão de leads incrível. Compre por R$ 297, link [URL]. Não perca!' (Venda Direta).",
+          "feedback": "⚠️ Venda muito direta (Interrupção). Não é a melhor abordagem para o LinkedIn. A falta de **Personalização** e o link imediato levam à rejeição. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Mensagem: 'Você deveria fazer um SEO melhor. Seu site está lento.' (Não-relacionado à Dor).",
+          "feedback": "👍 Não está relacionado à dor que ele expressou, mas é minimamente **Personalizado**. Ainda falha no princípio do MDW de focar no problema que o cliente está sentindo agora. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "A Mentalidade do Fim de Semana Milionário: Velocidade e Validação",
+      "narrative": "💡 Segunda-feira, 9h. Você conseguiu 3 vendas de Pré-venda. Você tem dinheiro e a prova de que o problema de **'Integração Manual'** é real. A próxima tentação é construir um software completo para automatizar tudo. **Qual é o próximo passo alinhado com a Mentalidade MDW?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Contratar 5 engenheiros e gastar todo o dinheiro e os próximos 3 meses construindo um software completo.",
+          "feedback": "❌ Você caiu na armadilha da **Análise/Construção Excessiva**. Você ainda não sabe *exatamente* o que o cliente quer. Você precisa fazer mais coisas que 'Não Escalam' para aprender mais. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Usar ferramentas 'no-code' para automatizar *apenas* a parte mais repetitiva do MVO (integração) em 2 dias e vender a 'nova' versão por um preço mais alto (Iterar).",
+          "feedback": "✅ Perfeito! Você faz um **Lançamento e Iteração** rápido, usando o aprendizado do trabalho **Manual** para automatizar *apenas* a parte validada. Isso mantém a velocidade e maximiza o ROI do MVO. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Voltar para o passo 1 e tentar encontrar um nicho totalmente novo. Você precisa de mais validação.",
+          "feedback": "⚠️ O nicho foi **Validado** (dinheiro na mão). Voltar atrás é um sinal de **Perfeccionismo** e não maximiza o aprendizado atual. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Enviar um e-mail para todos os clientes, pedindo feedback sobre 10 recursos que você *acha* que eles querem.",
+          "feedback": "👍 O feedback é bom, mas o MDW prefere ver a **Ação de Compra**. É melhor construir a automação e ver se o cliente paga o preço mais alto. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "A Busca pelo Nicho de 1%: Dor e Acessibilidade",
+      "narrative": "🧭 Seu MVO de R$ 297 (Integração Manual) foi um sucesso. O feedback das 3 agências é que a solução é 'salvadora de tempo'. Agora você pensa em expandir o nicho. **Qual é a expansão mais segura e focada no MDW?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Mudar para 'Qualquer Pessoa' que usa WhatsApp (Generalista).",
+          "feedback": "❌ Recair em ser um **Generalista**. Você perde a vantagem de ser o especialista 'salvador de tempo' para as Agências B2B. A mensagem será diluída. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Mudar para 'Agências de Marketing Digital em Geral' (Expansão Ampla).",
+          "feedback": "⚠️ Uma pequena expansão, mas ainda arriscada. Você está se afastando do **Nicho de 1%** validado (B2B) sem dados suficientes. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Mudar para 'Agências de Marketing de Conteúdo B2B com 5 a 10 funcionários' (Nicho Aderente).",
+          "feedback": "👍 Boa, mas muito específica. O ideal é expandir para um público com dor similar, mas ligeiramente maior, antes de re-nichar tão rapidamente. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Mudar para 'Consultores de Vendas B2B' (Público com Dor Semelhante e Acessível).",
+          "feedback": "✅ Expansão Lógica. Você está atacando uma **Dor Semelhante** (gestão de leads/integração) em um público **Acessível** (B2B). O aprendizado do MVO pode ser reaplicado. (3/3 ★)",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Design da Oferta Mínima Viável (MVO): Simplicidade e Venda",
+      "narrative": "🎁 Você está prestes a lançar a versão automatizada (no-code) do seu MVO. Você quer aumentar o preço para R$ 497, mas percebe que a concorrência tem muitos recursos. A tentação é adicionar mais recursos 'de graça' para justificar o preço. **Como você garante que o aumento de preço seja validado?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Adicionar 5 recursos extras ao MVO para justificar o preço (Feature Creep).",
+          "feedback": "❌ Você está introduzindo **Feature Creep**. Isso aumenta a complexidade e o tempo de construção, violando a **Simplicidade**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Manter o MVO simples. Mudar a comunicação para focar no 'Resultado' (Economia de 4 horas por dia) e não no recurso, e manter o preço de R$ 297.",
+          "feedback": "👍 Melhor, mas você pode **Testar o Preço Mais Alto**. Manter o preço significa não maximizar o potencial de lucros validado pela intensa dor. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Manter o MVO simples (apenas a automação de integração). Aumentar o preço para R$ 497, mas oferecer uma **Garantia de 200% de Devolução** (Money-Back Guarantee).",
+          "feedback": "✅ O melhor. Você mantém o MVO **Simples**, **Aumenta o Preço** (Teste de Preço) e elimina o risco com uma **Garantia Forte**. Você está vendendo o 'Buraco na Parede', não a furadeira. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Oferecer uma versão gratuita (Freemium) para 100 usuários.",
+          "feedback": "⚠️ O Freemium não valida a disposição de pagar (**Teste do $1**). É uma estratégia para escala posterior, não para validação imediata. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "A Prospecção de Alto Impacto em 48 Horas: Outreach Manual",
+      "narrative": "🎉 Você atingiu 5 vendas do MVO automatizado em 48 horas. Sua próxima missão é gerar **Provas Sociais e Depoimentos**. Você precisa de um 'Estudo de Caso' detalhado de um cliente. **Qual é a melhor estratégia de Outreach para conseguir esse 'Estudo de Caso' rapidamente?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Enviar um e-mail genérico para os 5 clientes, pedindo 'por favor, escrevam um depoimento para mim'.",
+          "feedback": "⚠️ O esforço é todo do cliente. Falta **Personalização** e **Proposta de Valor** na sua solicitação. A taxa de resposta será baixa. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Ligar para o cliente que teve o maior 'salvamento de tempo' e oferecer um 'Mês de Serviço Grátis' em troca de 30 minutos para gravar um depoimento em vídeo.",
+          "feedback": "✅ Perfeito. É **Personalizado** (Maior Dor Resolvida), oferece uma **Proposta de Valor** (Mês Grátis) e busca o formato de maior impacto (Vídeo) para o **Outreach Futuro**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Aguardar que o cliente se sinta inspirado para escrever um depoimento espontaneamente (Inação).",
+          "feedback": "❌ Você está confiando na inação. O MDW exige **Ação Rápida e Proativa**. Isso viola a regra de **Velocidade**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Oferecer um desconto de R$ 5 para a próxima compra em troca de um texto de 3 linhas (Baixa Prova Social).",
+          "feedback": "👍 Melhor que (a), mas o depoimento será curto e de baixo impacto. Você está minimizando o potencial do **Estudo de Caso** que será crucial para o crescimento. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 2,
+  "title": "💰 Simulação: Monetização e Escala do MVO Validado",
+  "introduction": "Seu MVO (Oferta Mínima Viável) inicial para 'Agências B2B' foi validado com sucesso. Você tem 5 clientes pagantes. Agora, você precisa dominar o **Teste de Preço Alto**, aperfeiçoar a arte de **Pedir a Venda** (o 'Ask') e usar o **Feedback** para iterar no seu primeiro MVP (Produto Mínimo Viável). Prepare-se para 12 decisões que vão transformar sua validação em um negócio escalável.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "O Teste de Preço e a Confiança: Cobrando o que Incomoda",
+      "narrative": "💸 Você está em uma reunião de vendas com um novo cliente B2B que tem um problema que, ele admite, custa R$ 5.000/mês. Seu MVO (o 'analgésico') custa R$ 500 (o preço inicial te deixou confortável). Você está prestes a apresentar esse preço. Seu instinto MDW grita: 'Você está cobrando pouco'. **Qual preço você usa para fazer o 'Teste de Preço Alto'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "R$ 500. É o preço que você já validou. Melhor manter o que é seguro.",
+          "feedback": "⚠️ O preço é uma ferramenta de validação. Você está confortável, o que significa que o preço está muito baixo. Você perde margem e não testa a verdadeira dor do cliente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "R$ 1.500. É um preço que te deixa desconfortável e ainda é uma fração do custo mensal do problema (R$ 5.000).",
+          "feedback": "✅ Excelente! Você usa o **Preço de Teste Alto** (R$ 1.500), que te incomoda, para garantir que o cliente perceba o valor e para maximizar a sua margem para crescer. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "R$ 5.000. Cobrar exatamente o custo mensal do problema.",
+          "feedback": "👍 É ousado e testa o valor, mas é o limite. O MDW foca em ser uma fração do custo para maximizar a atratividade (ROI). Ainda é melhor que o preço baixo. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Grátis. Oferecer um período de teste gratuito para não assustar o cliente.",
+          "feedback": "❌ Você está ignorando a lição do **Teste do $1**. O grátis não valida a disposição de pagar e não cria o compromisso necessário. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "A Arte do 'Ask' (Pedir a Venda): Silêncio e Urgência",
+      "narrative": "🗣️ Você apresentou o preço de R$ 1.500 com confiança. O cliente parece hesitar. A tensão está alta. Seu impulso é começar a justificar o preço ou a reduzir o escopo. **Qual é a sua ação imediata, alinhada com o 'Ask' do MDW?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ficar em **silêncio** e esperar pacientemente pela resposta do cliente. (Regra de Ouro do Ask).",
+          "feedback": "✅ Perfeito! O **Silêncio** força o cliente a processar a oferta e a objeção. Quem fala primeiro, perde. Você demonstra confiança no seu preço e valor. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Dizer: 'Posso dar um desconto de 50% se você fechar hoje'. (Desconto Imediato).",
+          "feedback": "❌ O **Desconto** desvaloriza sua solução e atrai clientes 'caçadores de pechinchas'. Se o cliente hesita, você deve reafirmar o valor, não reduzir o preço. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Começar a falar sobre o processo e a metodologia complexa para preencher o silêncio.",
+          "feedback": "⚠️ Você caiu na armadilha de 'Vender a Viagem' em vez do 'Destino'. O cliente hesita sobre o valor/risco, não sobre o processo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Perguntar: 'Por que especificamente você está hesitando? É o preço, o resultado ou o prazo?' (Forçar a Objeção Real).",
+          "feedback": "👍 Excelente uso da técnica de 'Fechar o Teste', forçando a objeção real para a luz. É uma ação válida se o silêncio se estender, mas o silêncio é a primeira reação ideal. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "O Poder da Comunidade e do Feedback: Aprendizado Rápido",
+      "narrative": "👂 Após fechar a venda de R$ 1.500, você decide ligar para o cliente para obter **Feedback** sobre a experiência. Você deve extrair o máximo de informação para refinar o próximo MVO. **Qual pergunta é mais valiosa para obter feedback MDW?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'O que você acha da minha ideia para o produto final?' (Opinião sobre o Futuro).",
+          "feedback": "❌ O feedback deve ser sobre **Ação e Dor Passada** ('O que te fez pagar?'), não sobre o futuro. Opiniões sobre o futuro são especulativas e levam ao Feature Creep. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "'O que te fez comprar a R$ 1.500 e o que te fez hesitar antes de fechar?' (Feedback de Cliente Pagante).",
+          "feedback": "✅ Perfeito! Você foca no **Feedback do Cliente Pagante**, explorando o **Poder da Dor** (o que motivou a compra) e a **Objeção Real** (o que o fez hesitar). Este é o feedback de maior valor. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "'Você pode me dar um depoimento genérico para o meu site?' (Feedback Superficial).",
+          "feedback": "⚠️ O depoimento é um bom subproduto, mas não é a informação mais valiosa para a iteração do produto. Você precisa de dados de comportamento, não de elogios. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "'Você acha que devo adicionar mais recursos ao software?' (Feature Creep).",
+          "feedback": "👍 Você está perguntando, o que é bom, mas o cliente sempre pedirá mais recursos, levando ao **Feature Creep**. É melhor perguntar sobre a dor resolvida. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Blueprint do Lançamento de 48 Horas: Fases e Foco",
+      "narrative": "📅 Você decidiu lançar o MVP automatizado em 10 dias. Seu tempo de trabalho nos próximos dias é limitado. **Qual é a 'Atividade de Alto Impacto' (HLA) que você deve 'Bloquear no Tempo' (Time Blocking) para garantir a disciplina do Blueprint?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Passar 5 horas por dia pesquisando sobre as novas tecnologias de IA para 'o futuro do negócio'.",
+          "feedback": "❌ É planejamento e distração. O foco do blueprint é na **Ação Imediata** e no **Feedback**. Isso é 'Análise Paralisante' disfarçada de pesquisa. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Bloquear 2 horas por dia para 'Outreach Manual' (novas conversas de venda) e 2 horas para 'Construção Simples' (MVP/Iteração).",
+          "feedback": "✅ Excelente! Você está focado nas duas **HLAs** cruciais: **Validação/Vendas** (Outreach) e **Construção do Próximo Passo** (Iteração). A disciplina do **Time Blocking** garante o avanço. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Contratar um assistente virtual para gerenciar sua caixa de entrada de e-mail por 4 horas por dia.",
+          "feedback": "⚠️ Você está delegando, o que é bom, mas a fase inicial exige que você mesmo faça o Outreach e a Construção. Não é o foco de alto impacto. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Otimizar o SEO da sua Landing Page por 3 horas por dia para tráfego de longo prazo.",
+          "feedback": "👍 Otimizar o SEO é bom, mas o MDW prioriza o **Outreach Manual** e as **Conversas Diretas** sobre o tráfego de longo prazo. A velocidade é a moeda. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "O Teste de Preço e a Confiança: Cobrando o que Incomoda",
+      "narrative": "⚓ Você está conversando com um cliente potencial sobre o MVO e o preço de R$ 1.500. Você começa a conversa diagnosticando que a perda de leads custa a ele R$ 3.000 por mês. **Qual técnica de precificação MDW você aplicou?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Apresentação da Garantia de Devolução.",
+          "feedback": "⚠️ A garantia é uma ferramenta de confiança, mas a primeira declaração foi sobre o custo do problema. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "**Ancoragem de Preço**. Você ancorou o preço da sua solução no custo do problema (R$ 3.000), fazendo o seu preço parecer pequeno em comparação.",
+          "feedback": "✅ Excelente! O cliente agora compara seu preço (R$ 1.500) com a dor (R$ 3.000), não com o preço do concorrente. Isso aumenta a percepção de valor. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Preço de Retenção.",
+          "feedback": "👍 O preço de retenção é uma taxa mensal, mas a técnica usada foi a de apresentar o custo do problema como um ponto de comparação antes do preço. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Preço Fixo.",
+          "feedback": "❌ O preço é fixo, mas a técnica mais precisa foi a de ancorar o valor no custo da inação. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "A Arte do 'Ask' (Pedir a Venda): Silêncio e Urgência",
+      "narrative": "⏱️ O cliente disse que vai pensar sobre o MVO de R$ 1.500. Ele não deu uma objeção clara. Você sabe que 'pensar' mata a venda. **Qual pergunta você usa para forçar a Objeção Real e combater a inação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "'Posso te ligar em uma semana?' (Procrastinação).",
+          "feedback": "❌ Você está aceitando a **Inação** do cliente, permitindo que a urgência diminua. O problema está custando a ele R$ 3.000/mês, e ele não pode se dar ao luxo de esperar. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "'Entendo. O que especificamente na proposta te faz querer pensar mais? Se pudéssemos resolver isso agora, você seguiria em frente?'",
+          "feedback": "✅ Perfeito! Você usa um **Fechamento de Teste** para trazer a **Objeção Real** à tona e usa o **Ask** para forçar o compromisso de resolver o problema imediatamente. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "'Você está com pouco dinheiro?' (Julgamento).",
+          "feedback": "⚠️ Essa pergunta é confrontadora e não foca no valor percebido da solução. Você está atacando o cliente, em vez do problema. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "'Podemos reduzir o escopo se o preço for um problema?' (Redução de Escopo).",
+          "feedback": "👍 É uma opção válida se o preço for a objeção real, mas o melhor é descobrir *qual* é a objeção real primeiro. Você está pulando etapas. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Poder da Comunidade e do Feedback: Aprendizado Rápido",
+      "narrative": "⚙️ Você está construindo o primeiro MVP automatizado (no-code) e 3 clientes lhe enviaram feedback. Um cliente disse: 'Eu amo a automação, mas sinto falta de um botão de relatório simples'. Outro disse: 'Eu realmente só me importo com a integração'. E o terceiro: 'Eu quero um chat bot'. **Qual é o próximo passo de 'Iteração Rápida' (Micro-Lançamento)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ignorar o feedback e construir o que você acha que é melhor.",
+          "feedback": "❌ Ignorar o **Feedback do Cliente Pagante** é o maior erro. Você arrisca construir o produto errado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Adicionar o 'botão de relatório simples' imediatamente e lançar a atualização para os clientes em 48 horas (Micro-Lançamento).",
+          "feedback": "✅ Perfeito! O feedback do botão de relatório é uma **Iteração Simples** e **Rápida** que melhora o valor percebido. Isso é um **Micro-Lançamento** focado no essencial. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Começar a construir o complexo 'chat bot' que o terceiro cliente pediu (Feature Creep).",
+          "feedback": "⚠️ O 'chat bot' é um grande desvio e pode ser um caso de **Feature Creep**. Concentre-se no recurso mais simples e de maior consenso/valor. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pedir a opinião de amigos para decidir qual recurso é o melhor a ser construído.",
+          "feedback": "👍 Você está tentando obter dados, mas está violando o **Teste do Amigo**. Você deve focar no feedback dos clientes pagantes, não em opiniões externas não pagas. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Blueprint do Lançamento de 48 Horas: Fases e Foco",
+      "narrative": "📝 É hora de documentar o seu sucesso de 48 horas. Você precisa de um 'Estudo de Caso' para futuros Outreach. **Qual é o elemento mais importante para a 'Prova Social' no blueprint MDW?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O depoimento mais longo, independentemente do que ele diga.",
+          "feedback": "⚠️ O comprimento não é a métrica. O valor é. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Um depoimento focado no **resultado mensurável** (ex: 'Economizei 10 horas/semana') e no **custo do problema resolvido**.",
+          "feedback": "✅ O cerne do MDW é o **ROI**. O estudo de caso deve ser ancorado em resultados de negócios mensuráveis, justificando o preço alto. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O nome do cliente mais famoso, mesmo que ele não tenha dito nada sobre o produto.",
+          "feedback": "👍 O nome ajuda na credibilidade, mas a falta de um resultado mensurável enfraquece a **Proposta de Valor**. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Uma foto bonita do seu escritório.",
+          "feedback": "❌ Totalmente irrelevante. O foco é na **Validação do Cliente Pagante** e no **Valor Entregue**. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "O Teste de Preço e a Confiança: Cobrando o que Incomoda",
+      "narrative": "🤝 Seu cliente de R$ 1.500 está muito satisfeito. Você quer transformá-lo em um cliente de longo prazo com receita previsível. **Qual modelo de precificação MDW você propõe agora para o próximo trimestre?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Cobrar R$ 100/hora (Preço por Tempo).",
+          "feedback": "❌ O preço por hora recompensa a lentidão e não o valor. Você desvaloriza sua expertise e foca no tempo, não no resultado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Propor uma 'Taxa de **Retenção**' fixa de R$ 500/mês para acesso contínuo à sua solução e suporte prioritário.",
+          "feedback": "✅ Excelente! O **Preço de Retenção** garante **Receita Previsível**, transforma o projeto em relacionamento e maximiza o LTV (Valor de Vida do Cliente). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Vender um novo projeto caro e único (Projeto Único).",
+          "feedback": "👍 Projetos únicos são bons, mas não criam a **Previsibilidade** e o **Relacionamento** de longo prazo que o preço de retenção oferece. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Oferecer o serviço de graça em troca de mais depoimentos.",
+          "feedback": "⚠️ Você já validou o valor. O objetivo agora é a monetização sustentável, não a Prova Social (que já foi obtida). (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "A Arte do 'Ask' (Pedir a Venda): Silêncio e Urgência",
+      "narrative": "🗓️ Você enviou a proposta de Retenção. O cliente responde: 'Parece bom, mas preciso de 7 dias para aprovar com a diretoria.' O tempo está matando a **Urgência**. **Qual a sua melhor estratégia de 'Urgência' para forçar a decisão em 24h?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer 'Sem problemas, eu espero'. (Inação).",
+          "feedback": "❌ Você está aceitando a **Procrastinação**. A inação é o maior assassino de negócios. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Dizer: 'Claro. Para os primeiros 5 clientes de retenção, estamos incluindo uma 'Consultoria Estratégica Mensal Gratuita' por tempo limitado. Posso reservá-la para você se fechar hoje?'",
+          "feedback": "✅ Perfeito! Você usa a **Urgência Artificial** (Bônus de Tempo Limitado) e o **Aumento de Valor Percebido** (Consultoria Gratuita) para forçar a decisão imediata. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ligar para a diretoria dele e pressionar (Agressão).",
+          "feedback": "⚠️ Isso é invasivo e arrisca o relacionamento. O MDW foca em oferecer valor irresistível, não em táticas de venda agressivas. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Reduzir o preço da retenção para metade. (Desconto).",
+          "feedback": "👍 Você cria urgência, mas à custa do **Valor** e da **Margem**. O ideal é adicionar valor, não subtrair preço. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Poder da Comunidade e do Feedback: Aprendizado Rápido",
+      "narrative": "🌐 Você está procurando seu próximo nicho de clientes no Reddit. Você vê 100 posts sobre o mesmo problema (perda de leads). **Qual é a melhor forma de usar o 'Outreach Comunitário' (Content Seeding) para obter 5 novos leads de alto impacto em 24 horas?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Postar um link genérico para sua landing page de pré-venda (Outreach Impessoal).",
+          "feedback": "❌ Isso é spam e será ignorado/removido. Não foca na dor e carece de **Personalização** e **Valor**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Responder a 5 posts individuais com uma mensagem personalizada, validando a dor deles e oferecendo uma solução MVO de R$ 1.500.",
+          "feedback": "👍 O **Outreach Manual** 1-a-1 é a forma mais eficaz de obter clientes MDW. A personalização é a chave. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Fazer um post com um **Insight Valioso** ('3 Erros que Fazem Você Perder Leads'), linkando sutilmente para o seu MVO como solução (Content Seeding).",
+          "feedback": "✅ Excelente! Você está **Construindo em Público** e usando o **Content Seeding** para atrair ativamente o nicho que está com dor, sem parecer spam. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Criar um sub-reddit sobre 'Perda de Leads' e esperar que as pessoas venham até você (Lento).",
+          "feedback": "⚠️ Criar uma comunidade é lento. Você precisa de resultados IMEDIATOS (48 horas). Isso viola o princípio da **Velocidade**. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Blueprint do Lançamento de 48 Horas: Fases e Foco",
+      "narrative": "🔄 Você está construindo o primeiro MVP automatizado (a 'máquina' para substituir o MVO manual). Você tem 3 dias. **Qual é o papel desse MVP na fase do Blueprint de 48 horas (agora estendido para 72 horas)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O MVP é o produto final. Você deve adicionar todos os recursos que a concorrência tem (Feature Creep).",
+          "feedback": "❌ O MVP não é o produto final. Adicionar recursos não validados leva ao **Feature Creep**, violando a **Disciplina** do blueprint. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O MVP é a versão **automatizada e escalável** da única coisa que o MVO validou (a 'cura' para a dor).",
+          "feedback": "✅ O MVP é a primeira versão **Escalável** do seu MVO manual, focado *apenas* no valor validado. Isso mantém o **Foco** e a **Simplicidade** do blueprint. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O MVP é um protótipo não funcional que você mostra aos investidores. (Foco em Financiamento).",
+          "feedback": "⚠️ O foco do MDW é no cliente pagante, não no investidor. Você deve focar em **Vendas** (Pré-venda), não em captação. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O MVP deve ser construído em 2 dias para que você possa lançar um grande evento de marketing no terceiro dia.",
+          "feedback": "👍 A velocidade é boa, mas o MDW prioriza o **Micro-Lançamento** de forma simples e direta para o nicho, em vez de um grande evento. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 3,
+  "title": "⚡ Simulação: Velocidade, Automação e Fuga do Perfeccionismo",
+  "introduction": "Seu MVO está validado e você tem um protótipo MVP automatizado simples. O próximo desafio é escalar o tráfego e superar o instinto de 'perfeccionismo' que fará você atrasar o lançamento da versão 2.0. Você precisa gerar **Quick Hits** de tráfego, automatizar tarefas repetitivas e lançar a versão melhorada em 7 dias. Seu objetivo é tomar 12 decisões que garantam a velocidade e a alavancagem, evitando a 'Paralisia por Análise'.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "A Geração de Tráfego Rápido: Quick Hits e Comunidades",
+      "narrative": "📢 10h. Você precisa de tráfego *imediato* para a sua Landing Page do MVP. Você tem 3 horas antes de um bloco de 'construção' (Time Blocking). Seu nicho está ativo em um fórum específico. **Qual é a estratégia de tráfego 'Quick Hit' do MDW?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Passar as 3 horas otimizando 5 palavras-chave para SEO no Google (Lento).",
+          "feedback": "❌ SEO é uma maratona, não um sprint. Viola a restrição de **Velocidade** de 48 horas (ou 7 dias). O MDW exige resultados imediatos. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Enviar uma 'Newsletter' para a sua pequena lista de e-mail (Outreach Rápido).",
+          "feedback": "👍 Boa ação. Você está usando um ativo existente, mas o **Alcance Manual** e o **Content Seeding** em comunidades geram mais 'Quick Hits' em 3 horas. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Identificar 10 tópicos de discussão no fórum e postar um 'Insight Valioso' (Gancho), linkando sutilmente para o MVP (Content Seeding).",
+          "feedback": "✅ Excelente! Você usa **Quick Hits** através do **Content Seeding** em comunidades de nicho. Isso gera tráfego qualificado e imediato, focado na dor. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Criar um anúncio no Facebook (Pago/Demorado).",
+          "feedback": "⚠️ Anúncios são lentos para configurar e não é a principal fonte de **Tráfego MDW** inicial. O foco é no **Manual**. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "A Transição do MVO para o MVP: Automatizando o Aprendizado",
+      "narrative": "🛠️ Você está pronto para construir a próxima iteração do MVP. O feedback do MVO era: 1. Integração manual é a dor; 2. Botão de relatório simples é útil; 3. O cliente quer um aplicativo móvel (grande esforço). **Qual recurso você prioriza para o MVP, alinhado com o 'Lean Startup'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O aplicativo móvel completo. (Recurso complexo).",
+          "feedback": "❌ O aplicativo móvel é um grande risco de **Feature Creep** e atraso, violando o princípio do **MVP Simples** (Mínimo Viável). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A integração automatizada (automação do MVO) e o 'botão de relatório simples'. (Foco no essencial validado).",
+          "feedback": "✅ Perfeito! O MVP deve automatizar o **Valor Validado** do MVO e incluir os recursos simples solicitados (relatório). Isso é o **Foco no Essencial**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Apenas a integração automatizada e começar a planejar a versão final (Atraso).",
+          "feedback": "👍 É um bom foco, mas você deve incluir o 'botão de relatório' que foi validado como útil, maximizando o valor do MVP. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Nenhum dos anteriores; você precisa fazer 6 meses de planejamento antes de construir. (Análise Paralisante).",
+          "feedback": "⚠️ Recaída no **Perfeccionismo**. O MDW exige que você **Construa-Meda-Aprenda** rapidamente. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Escala Através de Sistemas e Automação: Alavancagem",
+      "narrative": "🔄 Sua tarefa mais repetitiva é enviar manualmente os dados de integração para cada novo cliente e configurar a planilha de controle. Você já fez isso 5 vezes. **Qual é o princípio de escala MDW para essa situação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Fazer tudo manualmente para garantir o controle de qualidade. (Baixa Alavancagem).",
+          "feedback": "❌ Você está construindo um emprego, não um negócio. Isso é uma **Atividade de Baixa Alavancagem** que deve ser automatizada. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Automatizar a tarefa que você faz mais de **três vezes** e que não é uma HLA (Regra de Automação).",
+          "feedback": "✅ Isso mesmo! O princípio da **Escala** é automatizar o repetitivo. Você está transformando tempo gasto em um **Sistema** alavancável. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Contratar uma pessoa para fazer essa tarefa repetitiva. (Delegação precoce).",
+          "feedback": "👍 Delegação é boa para HLAs, mas a **Automação** é mais escalável e lucrativa para tarefas repetitivas. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Parar de vender até automatizar. (Inação).",
+          "feedback": "⚠️ O MDW prioriza a venda e a ação. Você deve automatizar *enquanto* continua vendendo. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Superando o Medo do Lançamento: Ação vs. Perfeição",
+      "narrative": "🥶 Seu MVP está 'envergonhado' (design feio, código simples), mas funciona. O **Medo do Julgamento** está alto. Você teme a crítica dos concorrentes. **Como você usa a 'Vergonha' a seu favor?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Atrasar o lançamento por 2 semanas para aperfeiçoar o design. (Perfeccionismo).",
+          "feedback": "❌ O **Perfeccionismo** é uma forma de procrastinação e **Medo do Julgamento**. Você está priorizando a estética sobre o **Aprendizado Validado**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Lançar o MVP 'envergonhado' imediatamente. A vergonha é um sinal de **Velocidade**, e a crítica é apenas feedback. (Ação).",
+          "feedback": "✅ Essa é a mentalidade MDW. Você combate o **Medo** com a **Ação**. O objetivo é obter dados de compra, não aprovação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Mostrar o MVP apenas para amigos e familiares, evitando o público. (Teste do Amigo).",
+          "feedback": "⚠️ O **Teste do Amigo** não gera feedback real ou dados de compra. Você está fugindo do **Julgamento** real do mercado. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pedir a opinião de todos os seus seguidores sobre qual nome de produto é o melhor. (Distração).",
+          "feedback": "👍 É uma boa distração, mas não é uma **HLA**. Você precisa focar na **Venda e Validação**. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "A Geração de Tráfego Rápido: Quick Hits e Comunidades",
+      "narrative": "🔗 Sua landing page de pré-venda agora tem depoimentos de 3 clientes pagantes. Você quer maximizar o **Tráfego Qualificado** nas próximas 24 horas. **O que é o 'Gancho' (Hook) mais forte para atrair o nicho certo e impulsionar o 'Quick Hit'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Título: 'Novo Software de Gestão de Leads - R$ 50/mês!' (Preço).",
+          "feedback": "⚠️ Foca no preço e no produto. O gancho deve focar no **Problema Doloroso** e na **Transformação**. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Título: 'Chega de Perder Leads no WhatsApp! 3 Agências Economizaram 10 Horas/Semana. Veja Como.' (Dor + Prova Social).",
+          "feedback": "✅ Exato! O gancho é focado na **Dor** ('Perder Leads') e na **Prova Social** (Resultados Mensuráveis). Isso atrai o **Tráfego Qualificado** que está com o problema. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Título: 'Conheça o Fundador da [Sua Empresa]'. (Irrelevante).",
+          "feedback": "❌ O cliente se importa com a solução dele, não com você. O gancho falha em focar na **Dor**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Título: 'Um guia de SEO de 5000 palavras para o seu nicho.' (Marketing de Longo Prazo).",
+          "feedback": "👍 É um bom conteúdo, mas não é um **Quick Hit** para o MVO/MVP. Você precisa de cliques imediatos para a venda. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "A Transição do MVO para o MVP: Automatizando o Aprendizado",
+      "narrative": "📈 O MVP está gerando dados. Você percebe que 80% dos clientes só usam a funcionalidade de 'Integração' e ignoram os outros 4 recursos. **Qual é o seu 'Pivô' (Pivot) de produto, alinhado com o Aprendizado Validado?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Manter todos os 4 recursos, pois eles são bons para o SEO. (Irrelevante).",
+          "feedback": "❌ Você está mantendo **Recursos Não Utilizados**, desperdiçando tempo de desenvolvimento e complicando o produto. Isso leva ao **Feature Creep**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Fazer um **Pivô** para um produto *single-feature* (apenas Integração) e dobrar o preço, focando em ser o melhor 'Integrador' do mercado.",
+          "feedback": "✅ O **Aprendizado Validado** mostra o que o cliente realmente paga. O **Pivô** para um produto *single-feature* aumenta o foco, a **Simplicidade** e a justificativa para o **Preço Alto**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Adicionar mais 5 recursos para 'agradar' os 20% restantes dos clientes. (Feature Creep).",
+          "feedback": "⚠️ Você está se curvando ao **Feature Creep** com base em uma minoria. Você deve focar no que 80% dos clientes pagantes valorizam. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Continuar como está, mas fazer um blog sobre cada recurso. (Não resolve o problema de design).",
+          "feedback": "👍 A criação de IP (blog) é boa, mas não resolve o problema do produto ser muito complexo para o usuário. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "A Escala Através de Sistemas e Automação: Alavancagem",
+      "narrative": "🧠 Você precisa liberar tempo para a **Criação de IP de Alto Nível** (HLA - High-Leverage Activity). Você gasta 2 horas por dia em tarefas administrativas (contabilidade, e-mails de suporte básicos, etc.). **Qual é a ação mais alavancável?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Trabalhar 2 horas a mais por dia para acomodar as tarefas administrativas. (Baixa Alavancagem).",
+          "feedback": "❌ A escala não é sobre trabalhar mais. É sobre **Automação** e **Delegação** para focar em **HLAs** (IP/Vendas). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Delegar a contabilidade e usar um 'bot' de e-mail (automação) para o suporte básico (Automação + Delegação).",
+          "feedback": "✅ Perfeito. Você está usando **Automação** (bot) e **Delegação** (contabilidade) para liberar seu tempo para **HLAs** (Criação de IP/Vendas). Isso é o cerne da **Alavancagem**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Parar de fazer as tarefas administrativas até ter tempo. (Caos).",
+          "feedback": "⚠️ Isso cria **Dívida Técnica** e caos no negócio, comprometendo a confiança do cliente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Contratar um CEO. (Delegação excessiva).",
+          "feedback": "👍 Delegação precoce do core business. Você deve ser o motor do negócio. Delegue as tarefas, não a visão. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Superando o Medo do Lançamento: Ação vs. Perfeição",
+      "narrative": "🛑 Você está prestes a fazer o **Pivô** para o produto *single-feature* (Integrador). Você tem uma forte sensação de **'Medo do Arrependimento'** – e se o aplicativo móvel fosse o 'próximo grande passo'? **Qual princípio do MDW combate esse medo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Atrasar o Pivô até obter 1000 clientes. (Custo da Inação).",
+          "feedback": "❌ Você está aumentando o **Custo da Inação**. Você tem dados (**Aprendizado Validado**) de que 80% não usam. O atraso é medo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Reconhecer que o **Medo do Arrependimento** é menor do que o **Custo da Inação** de manter um produto não focado.",
+          "feedback": "✅ O medo do fracasso é combatido pelo medo do **Arrependimento** e do **Custo da Inação**. Você usa os dados de compra para tomar a decisão e não a emoção. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ligar para 5 amigos para perguntar qual Pivô eles fariam. (Teste do Amigo).",
+          "feedback": "⚠️ O **Teste do Amigo** é feedback inútil. Você deve confiar nos **Dados do Cliente Pagante**. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Tentar construir o aplicativo móvel e o produto *single-feature* ao mesmo tempo. (Feature Creep).",
+          "feedback": "👍 Você está tentando agir, mas está caindo no **Feature Creep**, diluindo o foco. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "A Geração de Tráfego Rápido: Quick Hits e Comunidades",
+      "narrative": "⚡ Você precisa de mais **Prova Social** de alto impacto para a sua Landing Page. Você está fazendo **Outreach Manual** em um grupo de nicho. **Qual é o melhor 'Fechamento de Teste' para obter um depoimento em vídeo (HLA) rapidamente?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Mensagem: 'Você gosta do produto? Por favor, nos envie um vídeo de 1 minuto.' (Baixa Proposta de Valor).",
+          "feedback": "❌ Isso exige muito esforço do cliente sem uma Proposta de Valor imediata. A taxa de resposta será baixa. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Mensagem: 'Posso gravar nosso Case Study de 5 minutos, destacando seu sucesso, e lhe darei 3 meses de serviço grátis. Você pode fazer isso em 24 horas?'",
+          "feedback": "✅ Perfeito! Você usa um **Incentivo de Alto Valor** (3 meses grátis) para uma **HLA** (Depoimento em Vídeo), com **Urgência** (24 horas). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Mensagem: 'Envie um depoimento de 1000 palavras em troca de um desconto de R$ 5.' (Baixa Proposta de Valor/Alto Esforço).",
+          "feedback": "⚠️ A proporção entre **Esforço (1000 palavras)** e **Recompensa (R$ 5)** é ruim. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Mensagem: 'Você gostaria de ser um cliente beta gratuito para o novo recurso?' (Não é um depoimento).",
+          "feedback": "👍 Isso gera feedback, mas não atinge o objetivo de obter **Prova Social de Alto Impacto**. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "A Transição do MVO para o MVP: Automatizando o Aprendizado",
+      "narrative": "💸 O dinheiro está acabando, e você precisa financiar o desenvolvimento do MVP. Você está focado no **Bootstrapping** (Autofinanciamento). **Qual é a principal métrica de sucesso para o MVP durante a fase de Bootstrapping?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O número de downloads (Irrelevante).",
+          "feedback": "❌ Downloads não pagam as contas. Você precisa de **Lucro**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A Receita Recorrente Mensal (MRR) gerada para garantir a sustentabilidade e o crescimento. (Lucro).",
+          "feedback": "✅ O **Bootstrapping** exige foco implacável no **Lucro e MRR**. Isso é o **Aprendizado Validado** da monetização. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O número de recursos lançados no MVP. (Feature Creep).",
+          "feedback": "⚠️ Focar em recursos leva ao **Feature Creep**. O MDW foca em dinheiro e valor. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O número de investidores interessados. (Foco Externo).",
+          "feedback": "👍 O interesse externo é bom, mas o **Bootstrapping** exige que você dependa de suas próprias vendas, não de capital de risco. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "A Escala Através de Sistemas e Automação: Alavancagem",
+      "narrative": "📚 Você tem 3 estudos de caso de clientes de alto valor. Você decide que é hora de criar **IP (Propriedade Intelectual)** para escala passiva. **Qual é a HLA de IP mais alavancável?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Escrever um livro de 300 páginas (Longo Prazo).",
+          "feedback": "⚠️ O livro é um grande IP, mas o tempo de retorno é longo. Não é o mais alavancável em 72 horas. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Criar um **Curso Online de Baixo Custo** com o conteúdo dos seus estudos de caso. (Renda Passiva).",
+          "feedback": "✅ O **Curso Online** é um **IP Alavancável** que gera **Renda Passiva** e atrai leads qualificados em escala. É a melhor forma de vender seu conhecimento validado. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Criar um complexo funil de e-mail marketing com 100 e-mails. (Complexo).",
+          "feedback": "👍 O funil é bom, mas a criação do **IP** (o Curso) é a **HLA** principal que você automatiza no funil. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Fazer um post de blog sobre o clima. (Irrelevante).",
+          "feedback": "❌ Conteúdo irrelevante que não atrai o nicho e não é uma **HLA**. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Superando o Medo do Lançamento: Ação vs. Perfeição",
+      "narrative": "🚪 Você precisa fechar o ciclo de 7 dias de iteração. O MVP está 80% pronto. Você encontra 3 bugs menores. O **Custo da Inação** de atrasar o lançamento é alto. **Qual é a decisão final do MDW?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Atrasar o lançamento do MVP até que os 3 bugs sejam corrigidos. (Perfeccionismo).",
+          "feedback": "❌ O **Perfeccionismo** (bugs menores) não deve atrasar o **Lançamento**. O **Custo da Inação** é maior do que o risco de bugs. Lance e itere. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Lançar agora (Ação), comunicar os 3 bugs como 'recursos em desenvolvimento' para os clientes e corrigir na próxima iteração. (Velocidade e Ação).",
+          "feedback": "✅ Ação é o **Antídoto** para o medo. Você lança imediatamente, **Comunica a Transparência** e garante que o **Custo da Inação** não mate o seu momento. Feito é melhor que perfeito. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Apenas fechar o MVP e voltar a planejar o próximo grande passo (Análise Paralisante).",
+          "feedback": "⚠️ Você está se movendo para a **Análise Paralisante**. Você precisa de **Ação Contínua** e iteração. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Reduzir o preço do MVP para compensar os bugs. (Desvalorização).",
+          "feedback": "👍 Você pode lançar com bugs, mas não desvalorize. Use a **Garantia** para eliminar o risco do cliente, não o preço. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 4,
+  "title": "🎯 Simulação: Copy, Métricas e o Funil de Vendas de 7 Dígitos",
+  "introduction": "Você validou o MVO, automatizou o MVP e agora precisa escalar as vendas e otimizar o seu funil. Este é o momento de trocar as 'Métricas de Vaidade' por 'Métricas de Ação' e usar um 'Copywriting Focado na Dor' para atrair o seu nicho. O objetivo é transformar o seu negócio validado em um sistema de escala, respeitando o princípio da restrição.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "A Criação de Conteúdo que Vende: Copywriting Focado na Dor",
+      "narrative": "✍️ Você está escrevendo a 'Headline' da sua Landing Page. Sua solução automatizada ajuda 'Agências B2B' a economizar 10 horas/semana na integração de leads. Seu concorrente usa: 'O Melhor Software CRM do Mercado'. **Qual Headline focada na Dor você usa?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Economize 10 Horas/Semana: A Cura Imediata para a Perda de Leads na Sua Agência B2B.",
+          "feedback": "✅ Perfeito! A headline foca no **Benefício** (Economia de 10 Horas) e na **Dor Específica** (Perda de Leads na Agência B2B). Isso cria ressonância imediata no nicho. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Apresentando o nosso novo software de integração. Compre agora!",
+          "feedback": "❌ Foco no **Recurso** e na **Ação Genérica**. Não ataca a dor do cliente, resultando em baixa conversão. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Temos 20 recursos de integração que você vai amar!",
+          "feedback": "⚠️ Foco excessivo nos **Recursos**, não no **Benefício**. O cliente não se importa com a furadeira, mas com o buraco na parede. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O CRM é o seu problema, e a gente te ajuda a resolver! (Vaga).",
+          "feedback": "👍 Melhor, mas muito vaga. A **Clareza** na promessa do benefício é crucial para o MDW. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Métricas de Validação Rápida: Ação vs. Vaidade",
+      "narrative": "📊 Você lançou a nova Landing Page. Em 24 horas, você tem 500 visualizações e 0 vendas. Você se sente desanimado com o placar. **Qual métrica do MDW você usa para evitar cair na 'Vaidade' e tomar uma decisão acionável?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Celebrar as 500 visualizações (Métrica de Vaidade).",
+          "feedback": "❌ As **Visualizações** são **Métricas de Vaidade**. Elas não provam a demanda. Você está se sentindo bem, mas falhando no negócio. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O **Número de Clientes Pagantes** é 0 (Métrica de Ação). Você precisa iterar o Copy ou o Nicho imediatamente.",
+          "feedback": "✅ Perfeito! Você foca no **Teste do $1** (o pagamento). 0 vendas é um dado de aprendizado validado: a oferta/copy não ressoa. É hora de **Iterar Rápido**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O **Tempo Gasto no Site** foi alto. (Métrica de Vaidade).",
+          "feedback": "⚠️ O tempo gasto não garante a compra. O cliente pode estar confuso. O foco deve ser na **Taxa de Conversão**. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Os 500 cliques foram muito caros (Alto CAC).",
+          "feedback": "👍 O **CAC** (Custo de Aquisição de Cliente) é importante, mas sem vendas, o problema maior é a **Conversão** da sua oferta. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "O Funil de Vendas de 7 Dígitos: Tripwire e Upsell",
+      "narrative": "🧱 Para quebrar a inação do cliente, você decide criar uma oferta de baixo custo para o topo do funil. **Qual é a melhor oferta 'Tripwire' para o seu nicho (Agências B2B)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Um e-book gratuito de 100 páginas (Lead Magnet, não Tripwire).",
+          "feedback": "❌ É um **Lead Magnet** (gratuito). O **Tripwire** exige um preço baixo para converter leads frios em clientes pagantes. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Um **Template de Planilha** de R$ 10 (baixo custo, alto valor percebido) que automatiza o primeiro passo da integração.",
+          "feedback": "✅ Excelente! O **Tripwire** é uma oferta de **Baixo Custo** (R$ 10) e **Alto Valor**. Isso quebra a barreira inicial da compra, preparando o cliente para o **Upsell** do MVP. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O seu MVP por R$ 1 (Preço Vazio).",
+          "feedback": "⚠️ Preço muito baixo. Não ensina o cliente a pagar o preço real. O **Tripwire** deve ter um valor percebido que justifique o preço normal do produto. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Uma consultoria gratuita de 1 hora. (Não é escalável).",
+          "feedback": "👍 É uma boa estratégia manual, mas não é um **Tripwire** escalável e automatizável para o funil. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Poder da Restrição e do Foco: Criatividade Sob Pressão",
+      "narrative": "🕰️ Você tem 48 horas para lançar o novo Tripwire e o funil de e-mail automatizado. Você percebe que o funil ideal teria 10 e-mails. A **Restrição de Tempo** é real. **Qual é a sua ação focada no 'Foco no Único'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Passar a noite codificando os 10 e-mails para garantir o funil perfeito (Perfeccionismo).",
+          "feedback": "❌ Você está violando a **Restrição de Tempo** e entrando no **Perfeccionismo**. O **Feito é Melhor que Perfeito**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Criar 3 e-mails essenciais (Entrega do Tripwire, Upsell do MVP, Desconto de Downsell) e lançar imediatamente.",
+          "feedback": "✅ Excelente! A **Restrição** forçou o **Foco no Essencial** (os 3 e-mails mais importantes). Você atende ao princípio do **Lançamento Rápido** e pode iterar depois. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Atrasar o lançamento por 1 semana para garantir a qualidade (Custo da Inação).",
+          "feedback": "⚠️ O **Custo da Inação** é muito alto. O seu foco deve ser em **Ação** e **Validação**, não em planejamento excessivo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pedir a um amigo para escrever os 10 e-mails de graça. (Dependência).",
+          "feedback": "👍 Melhor que nada, mas não é o seu **Foco no Único**. Você deve ser o motor principal. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "A Criação de Conteúdo que Vende: Copywriting Focado na Dor",
+      "narrative": "📝 Você está escrevendo o e-mail de **Upsell** do MVP (R$ 500/mês) para clientes que compraram o Tripwire. O Copy deve justificar o alto preço. **Qual abordagem de Copywriting você usa?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Focar nos 10 novos recursos que o MVP tem (Copy Focado no Recurso).",
+          "feedback": "⚠️ Foco no **Recurso**. O cliente já comprou o Tripwire; ele precisa de um **Benefício** maior para o Upsell. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Usar **Copywriting de Prova Social** e **Ancoragem** para mostrar que o MVP eliminou o custo de R$ 3.000/mês para Agências como a deles.",
+          "feedback": "✅ Perfeito! Você usa **Prova Social** (Estudos de Caso) para criar **Confiança** e **Ancoragem** (R$ 3.000) para justificar o preço de **R$ 500/mês**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pedir para eles pensarem no preço (Irrelevante).",
+          "feedback": "❌ Isso não é um gancho de venda. Você está perdendo a oportunidade de justificar o preço. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Focar na sua história pessoal e jornada empreendedora. (Copy Focado em Você).",
+          "feedback": "👍 A história é boa, mas o **Copy** deve ser focado no **Cliente** e na **Dor/Solução** dele. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Métricas de Validação Rápida: Ação vs. Vaidade",
+      "narrative": "📈 O funil de Tripwire está funcionando, mas as vendas do Upsell (MVP R$ 500/mês) estão baixas. Você está medindo a **Taxa de Conversão** do Tripwire para o MVP. **Qual métrica do MDW você usa para garantir a sustentabilidade do negócio?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Medir o **LTV/CAC** (Valor de Vida do Cliente / Custo de Aquisição) para garantir que você esteja construindo um negócio lucrativo.",
+          "feedback": "✅ Essa é a métrica mais crucial para a sustentabilidade. O **LTV** deve ser no mínimo **3 vezes** o **CAC** para garantir a saúde do negócio em escala. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "O número de seguidores no LinkedIn. (Métrica de Vaidade).",
+          "feedback": "❌ **Métrica de Vaidade**. O **LTV/CAC** é a métrica de ação real que prova se o negócio escala. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Aumentar o número de e-mails de vendas no funil para 100. (Complexidade).",
+          "feedback": "⚠️ A complexidade não é a resposta. A **Simplicidade** e o **Foco no LTV/CAC** são. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Apenas medir o MRR (Receita Recorrente Mensal).",
+          "feedback": "👍 O **MRR** é essencial, mas sem o **CAC**, você não sabe se o MRR é sustentável. O LTV/CAC fornece o contexto de lucratividade. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Funil de Vendas de 7 Dígitos: Tripwire e Upsell",
+      "narrative": "📉 A **Taxa de Conversão** do Upsell é de 1%. Muitos clientes do Tripwire não estão prontos para o MVP de R$ 500/mês. **Qual oferta você insere para capturar receita de clientes que 'Hesitam'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Remover o Tripwire. (Erro de funil).",
+          "feedback": "❌ O Tripwire é a porta de entrada. Removê-lo mata o funil. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Inserir uma oferta de **Downsell** (ex: um Mini-Curso Automatizado de R$ 97) para clientes que rejeitam o Upsell.",
+          "feedback": "✅ O **Downsell** é a ferramenta para capturar receita de clientes hesitantes, mantendo-os no seu ecossistema. Isso aumenta o **LTV** geral. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Tornar o MVP gratuito. (Erro de monetização).",
+          "feedback": "⚠️ Você está desvalorizando o MVP. O objetivo é monetizar, não dar o produto de graça. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Ligar para cada cliente e dar um desconto. (Não escalável).",
+          "feedback": "👍 A ação é boa, mas o funil de 7 dígitos exige **Automação** e **Escalabilidade**. O Downsell automatiza essa ação. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Poder da Restrição e do Foco: Criatividade Sob Pressão",
+      "narrative": "🧘 Seu negócio está crescendo, mas você está sobrecarregado. Sua **Restrição** agora é o **Tempo de Trabalho**. **Qual princípio do MDW você usa para restaurar o Foco no Único?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Assumir mais 3 projetos de consultoria para aumentar a receita. (Baixa Alavancagem).",
+          "feedback": "❌ Você está trocando tempo por dinheiro, o oposto da **Alavancagem**. A Restrição de Tempo exige **Eliminação** de tarefas. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Implementar o **Time Blocking** rigoroso, protegendo blocos de 3 horas para **Criação de IP** (HLA) e automatizar tarefas repetitivas.",
+          "feedback": "✅ O **Time Blocking** e o **Foco no Único (HLA)** são a cura para a sobrecarga. Isso garante que a restrição de tempo impulsione a **Automação** e a **Escala**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Tirar um mês de férias para recarregar as energias. (Inação).",
+          "feedback": "⚠️ A inação não resolve a sobrecarga estrutural. Você voltará ao mesmo problema. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Contratar um assistente para fazer suas **HLAs** (Delegação excessiva).",
+          "feedback": "👍 Delegação é boa, mas você deve ser o criador do **IP (HLA)**. Delegue tarefas administrativas. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "A Criação de Conteúdo que Vende: Copywriting Focado na Dor",
+      "narrative": "🔥 Você precisa criar um **Lead Magnet** irresistível para o topo do funil. O nicho de **Agências B2B** odeia perder tempo. **Qual é o Copy mais forte para o Lead Magnet?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Um E-book: 'A História da Nossa Empresa'. (Foco em Você).",
+          "feedback": "❌ O **Lead Magnet** deve ser focado na **Dor** e no **Valor Imediato**. Ninguém troca o e-mail pela sua história. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Um **Checklist Gratuito**: 'Pare de Perder 10 Horas/Semana: O Checklist Simples de 5 Passos para Integrar Leads sem Erros'.",
+          "feedback": "✅ Perfeito! É um **Recurso de Alto Valor** (Checklist) que ataca a **Dor** e oferece uma solução **Clara** e **Imediata**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Uma Pesquisa de Mercado de 50 páginas. (Complexidade).",
+          "feedback": "⚠️ Muito complexo. O Lead Magnet deve ser um **Quick Win** (Vitória Rápida). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Um cupom de desconto de 50% para o MVP. (Não é Lead Magnet).",
+          "feedback": "👍 Um cupom é um incentivo, mas o **Lead Magnet** é um ativo de valor trocado por e-mail. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Métricas de Validação Rápida: Ação vs. Vaidade",
+      "narrative": "📈 Você está olhando para as redes sociais. O número de **Curtidas e Comentários** nas suas postagens dobrou, mas o número de **Leads Pagantes** (Tripwire) aumentou apenas 10%. **Qual é o seu foco para o próximo ciclo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Focar em aumentar as curtidas e comentários (Métrica de Vaidade).",
+          "feedback": "❌ Você está se concentrando em **Métricas de Vaidade**. O foco deve ser em **Métricas de Ação** que geram receita. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Aumentar a **Taxa de Conversão** do Tráfego para o Tripwire, iterando a Headline e a Prova Social.",
+          "feedback": "✅ Correto! A **Taxa de Conversão** é a métrica acionável que prova a eficácia da sua oferta. O foco deve ser em transformar o tráfego existente em pagamentos. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Focar apenas no Tráfego (Ignorando a Conversão).",
+          "feedback": "⚠️ Tráfego sem conversão é desperdício. É melhor ter 10 leads convertidos do que 1000 leads perdidos. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Focar em fazer um vídeo viral sobre a sua história. (Vaidade).",
+          "feedback": "👍 A criação de conteúdo é boa, mas o foco deve estar na **Conversão** e no **LTV/CAC**. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Funil de Vendas de 7 Dígitos: Tripwire e Upsell",
+      "narrative": "🔥 A chave para os 7 dígitos é aumentar o **LTV** (Valor de Vida do Cliente). O cliente está no MVP (R$ 500/mês). **Qual é a próxima etapa de Upsell mais estratégica para o funil?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Um **Serviço de Consultoria de Alto Valor** (R$ 5.000) para otimizar os processos da agência B2B. (Upsell de Alto Valor).",
+          "feedback": "✅ Perfeito! Este é o **Upsell** de **Alto Valor** que maximiza o **LTV**. O cliente já confia em você (comprador do MVP) e agora está pronto para uma transformação de alto nível. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Vender a eles um e-book de R$ 10 (Downsell).",
+          "feedback": "❌ Isso é um **Downsell**, não um **Upsell**. Você está reduzindo o LTV, não o maximizando. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Oferecer um desconto de 50% no MVP. (Redução de Valor).",
+          "feedback": "⚠️ O desconto reduz o LTV, violando o objetivo de **Escala de 7 Dígitos**. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pedir a eles para lhe darem um depoimento. (Prova Social).",
+          "feedback": "👍 A **Prova Social** é importante, mas o foco é na **Monetização** do cliente existente. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Poder da Restrição e do Foco: Criatividade Sob Pressão",
+      "narrative": "🧱 Você tem R$ 500 sobrando (Restrição Financeira) para o marketing do mês. Você pode gastar em: 1) Anúncios no Google, 2) Uma nova ferramenta de software complexa, ou 3) IP (Conteúdo de Valor). **Qual é o investimento mais criativo e focado na 'Restrição'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pequena Campanha de Anúncios no Google (R$ 500). (Baixo Retorno).",
+          "feedback": "⚠️ O dinheiro não será suficiente para gerar um **Quick Hit** significativo. A Restrição Finaceira exige alavancagem de **IP/Comunidade**. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Compra de uma nova ferramenta de software complexa. (Feature Creep).",
+          "feedback": "❌ A compra de software sem validação é um risco. A **Restrição** exige que você use ferramentas gratuitas/simples. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Gastar R$ 500 na criação de 5 posts de **Content Seeding** de alto valor e um **Lead Magnet** (IP de Baixo Custo).",
+          "feedback": "✅ Correto! Você usa a **Restrição** (R$ 500) para criar **IP de Alto Impacto** e **Alavancagem** (Content Seeding), que gera tráfego orgânico e qualificado. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Fazer um café da manhã de networking para 5 pessoas. (Não escalável).",
+          "feedback": "👍 É uma boa ação, mas não é **Escalável** e não gera o **Tráfego Qualificado** que o IP/Content Seeding gera. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 5,
+  "title": "👑 Simulação: Legado, Autonomia e o Ciclo de Crescimento Contínuo",
+  "introduction": "Seu funil está em funcionamento. Você tem receita previsível, um MVP focado e alguns funcionários virtuais. O desafio agora é o crescimento contínuo, a construção de ativos de longo prazo e, finalmente, alcançar a **Liberdade de Tempo** (Work by Choice). Suas decisões devem priorizar o **LTV**, a **Automação** e a **Delegação Estratégica** para transformar seu negócio em um ativo vendável.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "A Construção de Ativos de Marketing: Lista de E-mail e IP",
+      "narrative": "🎯 Você precisa construir seu ativo de marketing mais valioso. Você tem 48 horas de **Time Blocking** (Tempo Protegido) para criar a **Primeira Venda Passiva**. **Qual ativo de IP (Propriedade Intelectual) você prioriza?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Passar 48 horas pesquisando um nicho totalmente novo. (Desperdício de tempo).",
+          "feedback": "❌ Você está violando o princípio do **Foco**. Sua energia deve estar na **Alavancagem** dos ativos existentes. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Criar um **Mini-Curso Automatizado** (IP) com base na sua metodologia de integração e configurar o funil de venda por e-mail (Renda Passiva).",
+          "feedback": "✅ Perfeito! O **Mini-Curso** é um **IP Alavancável** que gera **Renda Passiva** e constrói o ativo mais importante: a **Lista de E-mail**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Gastar o tempo comprando anúncios caros para o MVP. (Baixa Alavancagem).",
+          "feedback": "⚠️ Anúncios são tráfego pago. O **IP** (Mini-Curso) é o ativo que gera tráfego orgânico e passivo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Escrever um livro de 300 páginas. (Longo prazo).",
+          "feedback": "👍 O livro é bom IP, mas o **Mini-Curso** é um **Quick Win** mais rápido e automatizável para venda imediata. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "A Estrutura de Equipe Mínima: Delegação e Foco",
+      "narrative": "👤 Sua **Auditoria de Tempo** (Time Audit) revela que você gasta 3 horas por dia em **Suporte ao Cliente** e **Revisão de Gramática** dos seus posts. Essas são tarefas repetitivas. **Qual é a sua estratégia de 'Estrutura Enxuta'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Contratar um **Assistente Virtual (VA)** por hora para delegar o Suporte e a Revisão de Texto (Contratação Baseada em Resultados).",
+          "feedback": "✅ Excelente! Você delega **Tarefas de Baixa Alavancagem** para um VA, liberando seu tempo (HLA) para criar mais IP e focar na **Estratégia**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Contratar um CEO para gerenciar a empresa. (Delegação excessiva).",
+          "feedback": "❌ Contratar um CEO prematuramente aumenta o **Custo Fixo** (Risco de Contratar Cedo Demais) sem justificar a receita. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Automatizar apenas o Suporte ao Cliente. (Incompleto).",
+          "feedback": "⚠️ A automação é boa, mas o VA pode lidar com o Suporte (que requer interação) e liberar o tempo gasto em tarefas repetitivas. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Trabalhar 3 horas a mais para fazer tudo. (Baixa Alavancagem).",
+          "feedback": "👍 Você está resolvendo o problema, mas está trocando tempo por dinheiro, o oposto da **Alavancagem**. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "O Ciclo de Feedback e a Iteração: Construção Contínua",
+      "narrative": "🔄 Você recebe **Feedback Negativo** de um cliente que pagou o preço máximo: 'O recurso X é totalmente inútil para mim.' Seu instinto é ficar na defensiva. **Qual é a sua ação MDW?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ignorar o feedback, pois ele é apenas um cliente. (Ignorar Dados).",
+          "feedback": "❌ Você está ignorando um **Presente (Feedback Negativo)** de um cliente pagante. Isso leva à construção do produto errado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Ver como um **Presente** (Feedback Negativo). Fazer uma **Hipótese** de que o Recurso X é desnecessário para 80% dos clientes e removê-lo no próximo **Micro-Lançamento**.",
+          "feedback": "✅ O **Feedback Negativo** é o mapa. Você o transforma em uma **Hipótese** testável e **Itera Rápido** (Micro-Lançamento), seguindo a regra do **Lean Startup**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ligar para o cliente e pedir desculpas. (Reação emocional).",
+          "feedback": "⚠️ A reação emocional não resolve o problema do produto. Você precisa de **Ação Baseada em Dados**. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Começar a construir 10 novos recursos para compensar o cliente. (Feature Creep).",
+          "feedback": "👍 Você está tentando resolver, mas corre o risco de **Feature Creep**. O melhor é simplificar o produto. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "O Legado e a Liberdade do Empreendedor: Construindo Ativos",
+      "narrative": "🧘 Você atingiu a **Liberdade Financeira**. Agora você tem que definir o seu **Propósito (Trabalho por Escolha)**. **Qual é o seu foco, alinhado com a criação de um Legado?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Focar apenas em projetos que geram receita, independentemente da paixão. (Necessidade financeira).",
+          "feedback": "❌ Você está trabalhando por **Necessidade**, não por **Escolha**. A Liberdade significa poder escolher projetos de paixão. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Focar em projetos de **Paixão** (HLA), usar a **Disciplina** para a criação de **IP** (Legado) e delegar o restante do negócio.",
+          "feedback": "✅ O objetivo final é a **Autonomia**. Você usa a **Liberdade** para focar em **HLAs** (IP/Legado), trabalhando por **Escolha**, não por obrigação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Vender imediatamente o negócio por um preço baixo. (Venda prematura).",
+          "feedback": "⚠️ Você pode vender, mas o foco do **Legado** é maximizar o **Valor** do ativo (Venda da Prática) antes de sair. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Construir um produto complexo para impressionar a concorrência. (Vaidade).",
+          "feedback": "👍 O produto complexo é vaidade. O foco deve ser no **Legado** (Simplicidade e Impacto). (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "A Construção de Ativos de Marketing: Lista de E-mail e IP",
+      "narrative": "📧 Sua **Lista de E-mail** tem 1000 leads (clientes do Lead Magnet). Você precisa nutrir esse ativo. **Qual é o papel da 'Consistência' no e-mail marketing?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Enviar um e-mail apenas quando houver um lançamento. (Inconsistência).",
+          "feedback": "❌ A **Inconsistência** mata a confiança e a visibilidade. O cliente vai esquecer você. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Manter uma frequência previsível (ex: newsletter semanal) para construir confiança e manter o IP na mente do cliente (Consistência).",
+          "feedback": "✅ A **Consistência** é crucial para nutrir o ativo da lista de e-mail e construir **Autoridade** e **Confiança** (Legado). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Enviar e-mails todos os dias para maximizar as vendas. (Spam).",
+          "feedback": "⚠️ Excesso de frequência é **Spam**, o que prejudica a confiança. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Tornar o conteúdo muito longo para que o cliente se sinta bem informado. (Complexidade).",
+          "feedback": "👍 O conteúdo deve ser **Claro e Conciso** (Simplicidade). O longo nem sempre é melhor. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "A Estrutura de Equipe Mínima: Delegação e Foco",
+      "narrative": "💼 Sua equipe minimalista (você + 1 VA) funciona bem. Você decide que é hora de delegar a **Criação de Conteúdo de Mídia Social** (Copy e posts simples). **Qual é a melhor abordagem de contratação MDW?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Contratar um funcionário em tempo integral com salário alto. (Custo Fixo Alto).",
+          "feedback": "❌ Você está assumindo um **Custo Fixo** alto, que é o inimigo da **Estrutura Enxuta**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Contratar um **Freelancer** (Contratação Baseada em Resultados) para 10 posts por semana, usando **SOPs Documentados**.",
+          "feedback": "✅ Perfeito! Você usa **Contratação Baseada em Resultados** (Freelancer) e **Documentação** (SOPs) para manter a **Estrutura Enxuta** e a **Qualidade**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pedir ao seu VA para fazer isso (Delegação sem competência).",
+          "feedback": "⚠️ O VA pode não ter a competência em Copywriting. Você deve delegar com base na **Habilidade** e **Documentação**. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Fazer tudo sozinho. (Baixa Alavancagem).",
+          "feedback": "👍 Você está no controle, mas está trabalhando em **Baixa Alavancagem**. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Ciclo de Feedback e a Iteração: Construção Contínua",
+      "narrative": "📈 A métrica de **Retenção** do seu MVP caiu de 95% para 85%. Isso é um sinal claro de que o produto não está entregando o valor de longo prazo. **Qual é a sua 'Iteração Baseada em Dados' (Pivot)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Reduzir o preço do MVP para compensar. (Desvalorização).",
+          "feedback": "❌ A queda na **Retenção** significa que o **Valor** percebido caiu. Reduzir o preço não resolve o problema do produto. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Fazer uma pesquisa aprofundada com os 15% que cancelaram para entender a **Objeção Real** e fazer um **Pivô** no produto/oferta (Iteração Baseada em Dados).",
+          "feedback": "✅ Você está focando na **Iteração Baseada em Dados**. A retenção é a métrica mais importante. Você faz uma **Hipótese** e um **Pivô** com base na dor real. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Adicionar 5 novos recursos. (Feature Creep).",
+          "feedback": "⚠️ Você está adicionando recursos sem saber se eles resolvem o problema de retenção. Isso é **Feature Creep**. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Focar em atrair novos clientes para compensar a perda. (Foco em Aquisição).",
+          "feedback": "👍 A aquisição é boa, mas a **Retenção** é mais barata. O objetivo é consertar o produto antes de despejar mais clientes. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Legado e a Liberdade do Empreendedor: Construindo Ativos",
+      "narrative": "💡 Você percebe que o seu IP (Mini-Curso) pode ser seu maior ativo. **Qual é a ação que transforma seu IP em um Ativo Vendável (Venda da Prática) no futuro?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Manter o IP em segredo e só vender o serviço de consultoria. (Baixa Alavancagem).",
+          "feedback": "❌ Você está construindo um emprego. O **IP Documentado** e **Automatizado** é o coração de um **Ativo Vendável**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Criar **Documentação (SOPs)** para cada etapa do seu negócio e automatizar 80% da entrega do IP, permitindo que o negócio funcione sem você.",
+          "feedback": "✅ Perfeito! A **Documentação** e a **Automação** transformam sua prática em um **Ativo Vendável** (Venda da Prática), garantindo a **Liberdade de Tempo**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pedir o feedback de todos os amigos sobre o seu IP. (Teste do Amigo).",
+          "feedback": "⚠️ Feedback inútil. O foco deve ser na **Escalabilidade** do ativo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Aumentar o preço do IP. (Não é um sistema).",
+          "feedback": "👍 Aumentar o preço é bom, mas o **Sistema** de entrega e documentação é o que cria o **Ativo**. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "A Construção de Ativos de Marketing: Lista de E-mail e IP",
+      "narrative": "📈 Sua **Lista de E-mail** é seu canal de vendas. Você precisa aquecer os leads do Lead Magnet (Leads Frios) antes de vender o MVP (Upsell). **Qual é o papel do 'Funil de E-mail' nesse processo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Vender o MVP no primeiro e-mail. (Venda Agressiva).",
+          "feedback": "❌ A venda agressiva mata a **Confiança**. O funil deve **Educar** e **Nutrir** antes de vender o produto principal. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Usar uma **Sequência Automatizada** para educar sobre a dor, construir confiança com IP gratuito e mover o lead em direção à compra (Funil de E-mail).",
+          "feedback": "✅ O **Funil de E-mail** automatiza o processo de vendas. Ele usa **IP** para construir **Confiança** e prepara o lead para o **Upsell** do MVP. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Pedir ao cliente para ligar para você. (Não escalável).",
+          "feedback": "⚠️ O funil automatizado é a ferramenta de **Escala**. A ligação é trabalho manual. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Enviar apenas e-mails de piadas. (Não vende).",
+          "feedback": "👍 O engajamento é bom, mas você precisa de **Conteúdo de Valor** para vender. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "A Estrutura de Equipe Mínima: Delegação e Foco",
+      "narrative": "💰 Você está contratando um **Gerente de Projeto Freelancer** (Contratação Baseada em Resultados). **Qual é a principal métrica para avaliar se essa contratação foi um sucesso (HLA)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O número de horas que o freelancer trabalhou. (Métrica de Vaidade).",
+          "feedback": "❌ Você deve pagar por **Valor**, não por **Tempo**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Aumentar o tempo que o fundador (você) gasta em **HLAs** (Criação de IP/Vendas) e a redução do tempo gasto em **Tarefas Delegadas**.",
+          "feedback": "✅ Correto! O sucesso da **Delegação** é medido pela **Alavancagem** do tempo do fundador. O foco está no **ROI do Seu Tempo**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Aumentar o número de reuniões semanais. (Complexidade).",
+          "feedback": "⚠️ Reuniões são um dreno de tempo. Você deve otimizar o tempo, não o aumentar. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O feedback positivo de outros freelancers. (Métrica irrelevante).",
+          "feedback": "👍 O feedback interno é bom, mas a métrica final é o **ROI no Seu Tempo**. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Ciclo de Feedback e a Iteração: Construção Contínua",
+      "narrative": "💡 Você tem uma ideia brilhante para um novo recurso que **'Poderia'** melhorar o produto em 20%. **Qual é a sua ação de 'Iteração Baseada em Dados' antes de investir tempo na construção?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Começar a construir imediatamente. (Construção sem validação).",
+          "feedback": "❌ Você está construindo antes de **Validar**. Isso é o oposto do **Ciclo Construir-Medir-Aprender**. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Fazer uma **Hipótese** ('Se eu adicionar X, a Retenção aumentará em 10%') e testar a demanda com uma **Pré-venda** (MVO) do recurso para clientes existentes.",
+          "feedback": "✅ Perfeito! O **MVO** é a melhor forma de validar uma **Hipótese** e obter **Aprendizado Validado** (Dinheiro) antes da construção. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Fazer uma pesquisa com clientes sobre o que eles **acham** do recurso. (Opiniões Baratas).",
+          "feedback": "⚠️ Opiniões são baratas. Você precisa de **Ação de Compra** (Dinheiro). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Aguardar 6 meses de dados para ter certeza. (Lento).",
+          "feedback": "👍 A lentidão viola o princípio da **Velocidade**. Você pode validar a ideia mais rapidamente. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Legado e a Liberdade do Empreendedor: Construindo Ativos",
+      "narrative": "🔚 Depois de anos de sucesso, você está pronto para se aposentar. Você precisa de uma saída limpa. **Qual é o seu ativo de 'Legado' mais vendável?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Uma lista de clientes com quem você tem bom relacionamento. (Dependência).",
+          "feedback": "❌ Isso é um **Emprego Glorificado**. O valor está ligado a você, não ao sistema. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Uma **Prática de Consultoria** documentada, automatizada (IP) e com **Receita Recorrente Mensal (MRR)** previsível. (Ativo Vendável).",
+          "feedback": "✅ Este é o objetivo final. O **Legado** é um **Ativo Vendável** (Venda da Prática) que tem **Sistemas** e **Previsibilidade de Receita** (MRR). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Um software com 100 recursos. (Complexidade).",
+          "feedback": "⚠️ A complexidade é um passivo na venda. A **Simplicidade** e o **Lucro** são mais vendáveis. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Sua grande marca pessoal nas redes sociais. (Não é um ativo).",
+          "feedback": "👍 A marca é valiosa, mas a **Receita Recorrente** e a **Documentação** são o que o comprador busca. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+}
+]

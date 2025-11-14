@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sketchnote: Lidando com Silêncio, Violência e o Poder de Um</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 20px;
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+        /* TITLE */
+        .title-wrapper {
+            text-align: center;
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #0288d1;
+        }
+        .chapter-label {
+            display: inline-block;
+            background: #0288d1;
+            color: white;
+            padding: 10px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 50px;
+            margin-bottom: 15px;
+            font-family: 'Caveat', cursive;
+        }
+        .title {
+            font-size: 52px;
+            font-weight: bold;
+            color: #01579b;
+            font-family: 'Caveat', cursive;
+            margin-bottom: 12px;
+            letter-spacing: 1px;
+        }
+        .subtitle {
+            font-size: 24px;
+            color: #0288d1;
+            font-style: italic;
+        }
+
+        /* CHAPTER CARDS */
+        .chapters {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        .chapter-card {
+            background: white;
+            padding: 30px;
+            border-radius: 14px;
+            box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+        }
+        .chapter-17 { border-top: 6px solid #d32f2f; }
+        .chapter-18 { border-top: 6px solid #8e24aa; }
+        .chapter-19 { border-top: 6px solid #0288d1; }
+        .chapter-20 { border-top: 6px solid #2e7d32; }
+
+        .chapter-title {
+            font-size: 26px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-family: 'Caveat', cursive;
+        }
+        .emoji { font-size: 32px; }
+
+        .teaser {
+            font-size: 18px;
+            font-weight: bold;
+            color: #555;
+            margin-bottom: 20px;
+            background: #f9f9f9;
+            padding: 12px;
+            border-radius: 8px;
+            border-left: 3px solid #aaa;
+        }
+
+        .sub-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin: 22px 0 14px;
+            color: #555;
+        }
+
+        .principles-list, .checklist-list {
+            list-style: none;
+            font-size: 16px;
+            color: #444;
+        }
+        .principles-list li, .checklist-list li {
+            margin-bottom: 12px;
+            padding-left: 30px;
+            position: relative;
+            line-height: 1.5;
+        }
+        .principles-list li:before { content: "💡"; }
+        .checklist-list li:before { content: "✅"; }
+        .principles-list li:before,
+        .checklist-list li:before {
+            position: absolute;
+            left: 0;
+            font-size: 18px;
+        }
+
+        .ampp-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 16px;
+            margin-top: 16px;
+        }
+        .ampp-card {
+            background: #f3e5f5;
+            padding: 16px;
+            border-radius: 10px;
+            border-left: 4px solid #7b1fa2;
+        }
+        .ampp-label {
+            font-weight: bold;
+            color: #4a148c;
+            font-size: 17px;
+            margin-bottom: 6px;
+        }
+        .ampp-desc {
+            font-size: 14px;
+            color: #7b1fa2;
+        }
+
+        .power-insight {
+            background: #e3f2fd;
+            border-left: 6px solid #1976d2;
+            padding: 30px;
+            border-radius: 10px;
+            margin-top: 30px;
+            text-align: center;
+        }
+        .power-text {
+            font-size: 22px;
+            line-height: 1.6;
+            color: #0d47a1;
+            font-family: 'Caveat', cursive;
+        }
+
+        .highlight {
+            font-weight: bold;
+            color: #0d47a1;
+            background: rgba(13, 71, 161, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+
+        @media (max-width: 768px) {
+            .chapters,
+            .ampp-grid {
+                grid-template-columns: 1fr;
+            }
+            .title {
+                font-size: 40px;
+            }
+            .chapter-title {
+                font-size: 22px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- TITLE -->
+        <div class="title-wrapper">
+            <div class="chapter-label">CONVERSAS CRUCIAIS</div>
+            <div class="title">🧘‍♂️ Silêncio, Violência & o Poder de Um</div>
+            <div class="subtitle">Não reaja. Responda. E pratique, sempre.</div>
+        </div>
+
+        <!-- CHAPTERS -->
+        <div class="chapters">
+            <!-- CAP 17 -->
+            <div class="chapter-card chapter-17">
+                <div class="chapter-title"><span class="emoji">😤</span> Capítulo 17: Lidando com a Violência</div>
+                <div class="teaser">Não morda a isca. A raiva é um sinal de insegurança.</div>
+                <div class="sub-title">Não reaja. Responda à insegurança.</div>
+                <ul class="principles-list">
+                    <li>Violência = medo disfarçado de raiva</li>
+                    <li>É sinal de <strong>Respeito Mútuo perdido</strong></li>
+                    <li>Use <strong>AMPP</strong> para extrair a história real</li>
+                </ul>
+                <div class="sub-title">Ferramentas de Resposta</div>
+                <ul class="checklist-list">
+                    <li><strong>Espelhe:</strong> “Você está falando alto…”</li>
+                    <li><strong>Parafraseie:</strong> “Ou seja, você sente que...”</li>
+                    <li><strong>Contraste:</strong> “Não quero X… quero Y.”</li>
+                    <li>Se persistir: <strong>Retirada estratégica</strong></li>
+                </ul>
+            </div>
+
+            <!-- CAP 18 -->
+            <div class="chapter-card chapter-18">
+                <div class="chapter-title"><span class="emoji">🤐</span> Capítulo 18: Lidando com o Silêncio</div>
+                <div class="teaser">Silêncio = medo. Não confunda com paz.</div>
+                <div class="sub-title">Silêncio esconde significado crucial</div>
+                <ul class="principles-list">
+                    <li>Mascarar, Evitar, Retirada = formas de Silêncio</li>
+                    <li>Sinal de <strong>Propósito Mútuo perdido</strong></li>
+                    <li>Ouça com curiosidade, não julgamento</li>
+                </ul>
+                <div class="sub-title">Use AMPP em sequência</div>
+                <div class="ampp-grid">
+                    <div class="ampp-card">
+                        <div class="ampp-label">A — Ask</div>
+                        <div class="ampp-desc">“O que você acha?”</div>
+                    </div>
+                    <div class="ampp-card">
+                        <div class="ampp-label">M — Mirror</div>
+                        <div class="ampp-desc">“Você parece relutante…”</div>
+                    </div>
+                    <div class="ampp-card">
+                        <div class="ampp-label">P — Paraphrase</div>
+                        <div class="ampp-desc">“Então você sente...”</div>
+                    </div>
+                    <div class="ampp-card">
+                        <div class="ampp-label">P — Prime</div>
+                        <div class="ampp-desc">“Será que você está com medo de...?”</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- CAP 19 -->
+            <div class="chapter-card chapter-19">
+                <div class="chapter-title"><span class="emoji">🎯</span> Capítulo 19: O Poder de Um</div>
+                <div class="teaser">Você só pode mudar a si mesmo. E isso muda TUDO.</div>
+                <div class="sub-title">Você = termostato, não termômetro</div>
+                <ul class="principles-list">
+                    <li>A mudança começa em **você**, não no outro</li>
+                    <li>Controle sua história, suas intenções, suas ações</li>
+                    <li>Humanize o parceiro → restaura o respeito *em você*</li>
+                </ul>
+                <div class="sub-title">Checklist de Autogestão</div>
+                <ul class="checklist-list">
+                    <li>“O que **EU** posso mudar?”</li>
+                    <li>Pratique **Coração** mesmo que o outro não pratique</li>
+                    <li>Use **STATE** mesmo que ele não use AMPP</li>
+                    <li>Âncora: “O que **realmente queremos**?”</li>
+                </ul>
+            </div>
+
+            <!-- CAP 20 -->
+            <div class="chapter-card chapter-20">
+                <div class="chapter-title"><span class="emoji">🔄</span> Capítulo 20: A Prática Contínua</div>
+                <div class="teaser">Prática não torna perfeito. Torna PERMANENTE.</div>
+                <div class="sub-title">Treine em baixo risco para brilhar em alto risco</div>
+                <ul class="principles-list">
+                    <li>Sob estresse, você faz o que é **familiar**, não o que é certo</li>
+                    <li>Conversas triviais = simulações de incêndio</li>
+                    <li>Erro = feedback, não fracasso</li>
+                </ul>
+                <div class="sub-title">Pratique Deliberadamente</div>
+                <ul class="checklist-list">
+                    <li>Contraste em pedidos cotidianos</li>
+                    <li>STATE com tentativa em escolhas simples</li>
+                    <li>AMPP com amigos e família</li>
+                    <li>Revise conversas: “Onde falhei?”</li>
+                    <li>Documente decisões → clareza = execução</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- KEY INSIGHT -->
+        <div class="power-insight">
+            <div class="power-text">
+                “Você só controla uma pessoa:<br>
+                <strong>Você.</strong><br>
+                Mas com ela, você pode transformar qualquer conversa.”
+            </div>
+        </div>
+    </div>
+</body>
+</html>

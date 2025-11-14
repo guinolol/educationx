@@ -1,0 +1,3302 @@
+[
+  {
+    "id": 1,
+    "title": "A Equação da Confiança: C + R + I / S",
+    "teaser": "🧪 Quer ser confiável? É só fazer as contas! Descubra a ÚNICA variável que, se for alta, destrói TUDO.",
+    "level1": "A confiança é quantificada pela fórmula: $\\frac{(\\text{Credibilidade (C)} + \\text{Confiabilidade (R)} + \\text{Intimidade (I)})}{\\text{Orientação Própria (S)}}$. O Consultor de Confiança maximiza o numerador e, crucialmente, minimiza o denominador (S).",
+    "level2": "O fator **Orientação Própria (S)** é o mais destrutivo. Se o cliente perceber foco em seus ganhos (comissão, ego, pressa em fechar) em vez do problema dele, todo o valor (C, R, I) é anulado.",
+    "level3": "Ruim: Forçar o cliente a comprar o produto mais caro para bater sua meta (Alto S). Bom: Recomendar uma solução mais simples e barata que resolve 80% do problema (Baixo S).",
+    "recapitulation": [
+      "Fator mais destrutivo: Orientação Própria (S), o ego e a pressa.",
+      "C = Expertise (o que você sabe).",
+      "R = Ação Consistente (o que você faz).",
+      "I = Segurança Emocional (o risco que o cliente sente).",
+      "Reduzir o 'S' é o caminho mais rápido para aumentar a Confiança."
+    ],
+    "practicalChecklist": [
+      "✅ Antes de cada reunião, pergunte: 'Isso é sobre mim ou sobre o cliente?' (Reduz o S).",
+      "✅ Use o silêncio para ouvir, não para preparar sua próxima fala (Reduz o S).",
+      "✅ Cumpra **todos** os compromissos, não importa o tamanho (Aumenta R).",
+      "✅ Se errou, admita e foque no reparo (Reduz o S e constrói R).",
+      "✅ Traga um insight original que o cliente não conhecia (Aumenta C)."
+    ],
+    "conclusionMessage": "A confiança é uma fórmula: Credibilidade, Confiabilidade e Intimidade, divididas pela Orientação Própria. Reduzir o 'S' é o fator mais rápido para aumentar a confiança.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual componente da Equação da Confiança é o mais destrutivo quando alto?",
+        "options": [
+          { "value": "a", "label": "Credibilidade (C)." },
+          { "value": "b", "label": "Confiabilidade (R)." },
+          { "value": "c", "label": "Intimidade (I)." },
+          { "value": "d", "label": "Orientação Própria (S)." }
+        ],
+        "explanation": "A Orientação Própria (Self-Orientation) é o denominador. Se for alta, ela anula todos os outros fatores, pois o cliente sente que você está focado em si mesmo.",
+        "hint": "O fator que divide.",
+        "correctAnswer": "d",
+        "bookExample": "Ninguém confia em alguém que está sempre tentando se promover."
+      },
+      {
+        "id": "2",
+        "question": "O que a 'Credibilidade' (C) representa na Equação?",
+        "options": [
+          { "value": "a", "label": "A capacidade de manter segredos." },
+          { "value": "b", "label": "A percepção de que você sabe do que está falando (expertise, conhecimento, reputação)." },
+          { "value": "c", "label": "A consistência em cumprir promessas." },
+          { "value": "d", "label": "O foco no cliente." }
+        ],
+        "explanation": "Credibilidade é sobre a sua autoridade intelectual e a confiança na sua palavra.",
+        "hint": "Autoridade intelectual.",
+        "correctAnswer": "b",
+        "bookExample": "Credibilidade é o que faz as pessoas acreditarem no que você diz."
+      },
+      {
+        "id": "3",
+        "question": "Qual é a definição de 'Confiabilidade' (R)?",
+        "options": [
+          { "value": "a", "label": "A profundidade da conexão emocional." },
+          { "value": "b", "label": "A capacidade de ser previsível e cumprir o que foi prometido, no prazo e na forma esperada." },
+          { "value": "c", "label": "O conhecimento técnico." },
+          { "value": "d", "label": "A ausência de egoísmo." }
+        ],
+        "explanation": "Confiabilidade é sobre a sua consistência de ação ao longo do tempo.",
+        "hint": "Consistência de ação.",
+        "correctAnswer": "b",
+        "bookExample": "Confiabilidade é o que faz as pessoas confiarem que você fará o que disse que faria."
+      },
+      {
+        "id": "4",
+        "question": "O que 'Intimidade' (I) significa no contexto de negócios?",
+        "options": [
+          { "value": "a", "label": "Relacionamentos pessoais próximos." },
+          { "value": "b", "label": "A segurança emocional que o cliente sente ao compartilhar informações sensíveis e vulneráveis com você." },
+          { "value": "c", "label": "A capacidade de vender." },
+          { "value": "d", "label": "O foco no lucro." }
+        ],
+        "explanation": "Intimidade é a segurança de que o risco de vulnerabilidade é baixo.",
+        "hint": "Segurança emocional.",
+        "correctAnswer": "b",
+        "bookExample": "Intimidade é a confiança que você não usará a informação contra mim."
+      },
+      {
+        "id": "5",
+        "question": "Qual fator da equação é mais fácil de aumentar rapidamente?",
+        "options": [
+          { "value": "a", "label": "Credibilidade (C)." },
+          { "value": "b", "label": "Confiabilidade (R)." },
+          { "value": "c", "label": "Intimidade (I)." },
+          { "value": "d", "label": "Reduzir a Orientação Própria (S)." }
+        ],
+        "explanation": "Mudar o foco de si mesmo para o cliente (reduzir S) é uma mudança de mentalidade que pode ser implementada imediatamente, impactando a percepção de confiança rapidamente.",
+        "hint": "Mudança de mentalidade.",
+        "correctAnswer": "d",
+        "bookExample": "O fator 'S' é o mais fácil de mudar, mas o mais difícil de manter baixo."
+      },
+      {
+        "id": "6",
+        "question": "Um consultor que sempre entrega projetos no prazo, mas nunca compartilha informações pessoais, tem alta:",
+        "options": [
+          { "value": "a", "label": "Intimidade." },
+          { "value": "b", "label": "Credibilidade e Confiabilidade." },
+          { "value": "c", "label": "Orientação Própria." },
+          { "value": "d", "label": "Apenas Credibilidade." }
+        ],
+        "explanation": "Entregar no prazo é a definição de Confiabilidade. Se ele é um especialista, tem Credibilidade. A Intimidade é baixa.",
+        "hint": "Consistência.",
+        "correctAnswer": "b",
+        "bookExample": "Você pode ser confiável sem ser íntimo."
+      },
+      {
+        "id": "7",
+        "question": "O que acontece com a confiança se a Credibilidade e a Confiabilidade são altas, mas a Orientação Própria também é alta?",
+        "options": [
+          { "value": "a", "label": "A confiança é máxima." },
+          { "value": "b", "label": "A confiança é baixa, pois o cliente percebe o consultor como um 'vendedor inteligente' focado em seus próprios interesses." },
+          { "value": "c", "label": "A Intimidade aumenta." },
+          { "value": "d", "label": "O cliente se sente seguro." }
+        ],
+        "explanation": "O alto 'S' anula os benefícios de C e R. O cliente pensa: 'Ele é bom, mas só se importa com ele mesmo'.",
+        "hint": "Vendedor inteligente.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não se importa com o quanto você sabe, até saber o quanto você se importa."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o principal obstáculo para a Intimidade?",
+        "options": [
+          { "value": "a", "label": "Falta de conhecimento técnico." },
+          { "value": "b", "label": "O medo do cliente de ser vulnerável ou de que a informação seja usada contra ele." },
+          { "value": "c", "label": "Atrasos na entrega." },
+          { "value": "d", "label": "Falta de reputação." }
+        ],
+        "explanation": "A Intimidade exige que o cliente se sinta seguro para correr riscos emocionais.",
+        "hint": "Risco emocional.",
+        "correctAnswer": "b",
+        "bookExample": "A Intimidade é construída em silêncio e vulnerabilidade."
+      },
+      {
+        "id": "9",
+        "question": "Como a Orientação Própria (S) se manifesta em uma reunião?",
+        "options": [
+          { "value": "a", "label": "Fazendo muitas perguntas ao cliente." },
+          { "value": "b", "label": "Interrompendo, falando demais sobre suas próprias conquistas ou focando em fechar a venda em vez de entender o problema." },
+          { "value": "c", "label": "Chegando no horário." },
+          { "value": "d", "label": "Sendo honesto." }
+        ],
+        "explanation": "O alto 'S' se manifesta como impaciência e foco excessivo em si mesmo.",
+        "hint": "Impaciência.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança fala menos e ouve mais."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o objetivo final da Equação da Confiança?",
+        "options": [
+          { "value": "a", "label": "Obter o máximo de lucro." },
+          { "value": "b", "label": "Transformar-se de um fornecedor transacional em um Consultor de Confiança indispensável." },
+          { "value": "c", "label": "Ter a maior Credibilidade." },
+          { "value": "d", "label": "Ter a maior Confiabilidade." }
+        ],
+        "explanation": "O objetivo é a transição de status, tornando-se um parceiro estratégico.",
+        "hint": "Parceria estratégica.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança é aquele que o cliente liga primeiro."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "O Processo de Confiança: Engajar e Ouvir",
+    "teaser": "👂 Consultores de Confiança não vendem, eles **diagnosticam**. Descubra por que você NUNCA deve pular a fase de escuta!",
+    "level1": "O Processo de Confiança tem 5 passos: Engajar, Ouvir, Enquadrar, Imaginar e Comprometer. Os dois primeiros estabelecem o cenário para o diagnóstico e a Intimidade.",
+    "level2": "O erro mais comum é pular a fase de **Ouvir** e **Enquadrar** (manifestação de alto S: o consultor está impaciente para dar conselhos). A fase de Ouvir é onde o consultor demonstra baixo S e constrói Intimidade.",
+    "level3": "Ruim: 'Eu sei exatamente o que você precisa.' Bom: 'Para garantir que eu entenda completamente, você pode me contar mais sobre o *impacto emocional* desse problema na sua equipe?'",
+    "recapitulation": [
+      "Sequência: Engajar → Ouvir → Enquadrar → Imaginar → Comprometer.",
+      "Engajar: Define o escopo e as expectativas (o que vamos fazer).",
+      "Ouvir: Escuta Ativa, foco total no cliente (minimiza o S).",
+      "Conselho Prematuro é um sintoma de Alto S e Impaciência.",
+      "Ouvir com Empatia Tática (Rotulagem) é crucial para Intimidade."
+    ],
+    "practicalChecklist": [
+      "✅ Defina a agenda e o resultado esperado no início ('Engajar').",
+      "✅ Use o dobro do tempo ouvindo do que falando (Ouvir).",
+      "✅ Use o silêncio para incentivar o cliente a se aprofundar.",
+      "✅ Resista ao impulso de dar a solução (Mesmo que você a tenha).",
+      "✅ Aplique Escuta Ativa: Parafraseie e rotule a emoção do cliente ('Parece que isso está te causando ansiedade')."
+    ],
+    "conclusionMessage": "O processo de confiança começa com o Engajamento (definindo o problema) e a Escuta (entendendo a perspectiva do cliente). Nunca pule a fase de Escuta.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o primeiro passo no Processo de Confiança?",
+        "options": [
+          { "value": "a", "label": "Dar conselhos." },
+          { "value": "b", "label": "Engajar (definir o escopo e as expectativas)." },
+          { "value": "c", "label": "Comprometer." },
+          { "value": "d", "label": "Enquadrar o problema." }
+        ],
+        "explanation": "O Engajamento estabelece a base para a conversa e o relacionamento.",
+        "hint": "Base da conversa.",
+        "correctAnswer": "b",
+        "bookExample": "O Engajamento é a arte de iniciar a conversa corretamente."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o erro mais comum que os consultores cometem na fase de Escuta?",
+        "options": [
+          { "value": "a", "label": "Falar muito baixo." },
+          { "value": "b", "label": "Interromper para dar conselhos ou soluções prematuras." },
+          { "value": "c", "label": "Não fazer anotações." },
+          { "value": "d", "label": "Fazer perguntas demais." }
+        ],
+        "explanation": "O impulso de dar conselhos é uma manifestação de alta Orientação Própria (S).",
+        "hint": "Impulso de solução.",
+        "correctAnswer": "b",
+        "bookExample": "Ouvir é a forma mais barata de concessão."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'Ouvir com Empatia'?",
+        "options": [
+          { "value": "a", "label": "Concordar com tudo que o cliente diz." },
+          { "value": "b", "label": "Ouvir não apenas as palavras, mas também as emoções, os medos e as motivações não ditas do cliente." },
+          { "value": "c", "label": "Ficar em silêncio." },
+          { "value": "d", "label": "Focar apenas nos fatos." }
+        ],
+        "explanation": "A empatia tática (como em Never Split the Difference) é crucial para a Intimidade.",
+        "hint": "Emoções e motivações.",
+        "correctAnswer": "b",
+        "bookExample": "A empatia é a chave para o coração humano."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel do silêncio na fase de Escuta?",
+        "options": [
+          { "value": "a", "label": "Sinalizar tédio." },
+          { "value": "b", "label": "Incentivar o cliente a preencher o vazio, revelando informações mais profundas e sensíveis." },
+          { "value": "c", "label": "Mostrar que você está pensando." },
+          { "value": "d", "label": "Encerrar a conversa." }
+        ],
+        "explanation": "O silêncio é uma ferramenta poderosa para aprofundar a Intimidade.",
+        "hint": "Preencher o vazio.",
+        "correctAnswer": "b",
+        "bookExample": "O silêncio é seu amigo. Use-o."
+      },
+      {
+        "id": "5",
+        "question": "O que a fase de 'Enquadrar' (Framing) envolve?",
+        "options": [
+          { "value": "a", "label": "Apresentar a solução." },
+          { "value": "b", "label": "Resumir o que foi ouvido e redefinir o problema em termos que o cliente concorde, garantindo alinhamento." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "O Enquadramento garante que você está resolvendo o problema certo. O objetivo é obter o 'Isso Mesmo'.",
+        "hint": "Alinhamento.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode enquadrar o problema, você não pode resolvê-lo."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de pular a fase de Enquadramento?",
+        "options": [
+          { "value": "a", "label": "O cliente fica entediado." },
+          { "value": "b", "label": "Você pode resolver o problema errado, ou o cliente pode não reconhecer sua solução como a resposta para o que ele realmente sente." },
+          { "value": "c", "label": "Você perde tempo." },
+          { "value": "d", "label": "Você fala demais." }
+        ],
+        "explanation": "O Enquadramento é a ponte entre a Escuta e a Solução.",
+        "hint": "Ponte.",
+        "correctAnswer": "b",
+        "bookExample": "A solução só pode vir depois da validação."
+      },
+      {
+        "id": "7",
+        "question": "Como a Orientação Própria (S) afeta a fase de Engajamento?",
+        "options": [
+          { "value": "a", "label": "Torna o Engajamento mais rápido." },
+          { "value": "b", "label": "Leva o consultor a focar em 'Eu' (minhas capacidades) em vez de 'Nós' (o problema do cliente)." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Aumenta a Confiabilidade." }
+        ],
+        "explanation": "O alto 'S' faz o consultor se concentrar em se vender, em vez de se conectar.",
+        "hint": "Venda pessoal.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança não se vende; ele se torna a solução."
+      },
+      {
+        "id": "8",
+        "question": "O que a fase de 'Imaginar' (Envision) envolve?",
+        "options": [
+          { "value": "a", "label": "Focar no passado." },
+          { "value": "b", "label": "Apresentar a solução de forma colaborativa, focando no futuro desejado e nos benefícios da mudança." },
+          { "value": "c", "label": "Fazer uma ameaça." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "Imaginar é a fase de co-criação da solução.",
+        "hint": "Co-criação.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas apoiam o que elas ajudam a criar."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o papel da 'Vulnerabilidade Controlada' na fase de Escuta?",
+        "options": [
+          { "value": "a", "label": "Fazer o cliente se sentir mal." },
+          { "value": "b", "label": "Compartilhar uma experiência relevante e de baixo risco para encorajar o cliente a se abrir (reciprocidade)." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "A vulnerabilidade é a cola da Intimidade.",
+        "hint": "Cola da Intimidade.",
+        "correctAnswer": "b",
+        "bookExample": "A vulnerabilidade é o atalho para a intimidade."
+      },
+      {
+        "id": "10",
+        "question": "O que a fase de 'Comprometer' (Commit) garante?",
+        "options": [
+          { "value": "a", "label": "Que o cliente assine o contrato." },
+          { "value": "b", "label": "Que haja um plano de ação claro e que o cliente esteja comprometido com os próximos passos (Sim de Comprometimento)." },
+          { "value": "c", "label": "Que o preço seja justo." },
+          { "value": "d", "label": "Que o consultor tenha Credibilidade." }
+        ],
+        "explanation": "O Comprometimento foca na execução e na ação.",
+        "hint": "Execução.",
+        "correctAnswer": "b",
+        "bookExample": "O acordo é inútil sem a execução."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Credibilidade: A Percepção de Expertise",
+    "teaser": "🧠 Não basta ser inteligente. É preciso **comunicar** sua expertise de um jeito que o cliente entenda. O jargão técnico destrói TUDO!",
+    "level1": "Credibilidade (C) é a percepção de que você sabe do que está falando (expertise, conhecimento). Ela é construída através de *insights* originais e pela clareza com que você articula o problema.",
+    "level2": "A Credibilidade é percebida pela sua capacidade de traduzir o complexo em simples e pela sua coragem de **'Falar a Verdade ao Poder'** (desafiar o pensamento do cliente).",
+    "level3": "Ruim: Usar jargões técnicos para se sentir superior (Alto S, Baixa C Percebida). Bom: Usar uma analogia simples para explicar um conceito complexo e dar um novo 'insight' sobre o problema.",
+    "recapitulation": [
+      "Credibilidade é sobre 'o que' você diz (Expertise).",
+      "É construída por Insights, Reputação e Comunicação Clara.",
+      "Jargão Técnico = Alto S (Foco em si, não no cliente).",
+      "Falar a Verdade ao Poder: Ter a coragem de ser o 'Não-man' estratégico.",
+      "A Credibilidade aumenta quando você faz perguntas perspicazes, não apenas afirmações."
+    ],
+    "practicalChecklist": [
+      "✅ Prepare 1 ou 2 'insights' originais sobre o mercado do cliente (Aumenta C).",
+      "✅ Elimine o jargão técnico do seu vocabulário.",
+      "✅ Peça um resumo do cliente para garantir que você entendeu o problema (Baixo S).",
+      "✅ Use dados e histórias de sucesso relevantes para provar sua expertise.",
+      "✅ Se o cliente estiver indo na direção errada, desafie-o com dados e um 'framework' alternativo."
+    ],
+    "conclusionMessage": "Credibilidade é a percepção de que você sabe do que está falando. Ela é construída através de conhecimento, experiência e, crucialmente, pela forma como você se comunica.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Como a Credibilidade é primariamente percebida pelo cliente?",
+        "options": [
+          { "value": "a", "label": "Pelo seu preço." },
+          { "value": "b", "label": "Pela sua capacidade de articular o problema e a solução de forma clara e relevante." },
+          { "value": "c", "label": "Pela sua pontualidade." },
+          { "value": "d", "label": "Pela sua aparência." }
+        ],
+        "explanation": "A comunicação eficaz é a chave para traduzir o conhecimento em Credibilidade percebida.",
+        "hint": "Comunicação eficaz.",
+        "correctAnswer": "b",
+        "bookExample": "A Credibilidade é a arte de traduzir o complexo em simples."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de usar jargões técnicos excessivos?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Diminui a Credibilidade, pois o cliente pode se sentir confuso ou inferiorizado, quebrando o rapport." },
+          { "value": "c", "label": "Aumenta a Intimidade." },
+          { "value": "d", "label": "Aumenta a Confiabilidade." }
+        ],
+        "explanation": "O jargão é uma manifestação de alta Orientação Própria (S), pois foca em mostrar o quanto você sabe, em vez de ajudar o cliente a entender.",
+        "hint": "Ego.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode explicar de forma simples, você não entende o suficiente."
+      },
+      {
+        "id": "3",
+        "question": "Como a 'Reputação' contribui para a Credibilidade?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A reputação (o que os outros dizem sobre você) é um atalho para estabelecer a Credibilidade antes mesmo da primeira interação." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Aumenta a Intimidade." }
+        ],
+        "explanation": "A prova social é um poderoso construtor de Credibilidade.",
+        "hint": "Prova social.",
+        "correctAnswer": "b",
+        "bookExample": "Sua reputação precede você."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Falar a Verdade ao Poder' (Speaking Truth to Power)?",
+        "options": [
+          { "value": "a", "label": "Ser agressivo." },
+          { "value": "b", "label": "Ter a coragem de desafiar as suposições do cliente ou apresentar fatos impopulares, mesmo que isso arrisque o relacionamento." },
+          { "value": "c", "label": "Focar apenas em elogios." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "A Credibilidade é construída quando você demonstra integridade e coragem intelectual.",
+        "hint": "Coragem intelectual.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança não é um 'sim-man'."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de ter Credibilidade alta, mas Orientação Própria (S) alta?",
+        "options": [
+          { "value": "a", "label": "O cliente confia totalmente." },
+          { "value": "b", "label": "O cliente o vê como um 'gênio arrogante' ou 'mercenário', minando a confiança geral." },
+          { "value": "c", "label": "A Confiabilidade diminui." },
+          { "value": "d", "label": "A Intimidade aumenta." }
+        ],
+        "explanation": "O alto 'S' transforma a Credibilidade em arrogância.",
+        "hint": "Arrogância.",
+        "correctAnswer": "b",
+        "bookExample": "O conhecimento sem humildade é inútil."
+      },
+      {
+        "id": "6",
+        "question": "Como a Credibilidade é construída na fase de Engajamento?",
+        "options": [
+          { "value": "a", "label": "Fazendo uma concessão." },
+          { "value": "b", "label": "Demonstrando que você entende o contexto do problema do cliente e fazendo perguntas perspicazes." },
+          { "value": "c", "label": "Focando em suas próprias conquistas." },
+          { "value": "d", "label": "Ficando em silêncio." }
+        ],
+        "explanation": "Perguntas perspicazes provam que você entende o domínio.",
+        "hint": "Perguntas.",
+        "correctAnswer": "b",
+        "bookExample": "A qualidade das suas perguntas define a qualidade da sua Credibilidade."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Ser um Pensador, não um Repetidor'?",
+        "options": [
+          { "value": "a", "label": "Falar sobre o futuro." },
+          { "value": "b", "label": "Apresentar insights originais e perspectivas que o cliente não considerou, em vez de apenas regurgitar informações conhecidas." },
+          { "value": "c", "label": "Focar no passado." },
+          { "value": "d", "label": "Fazer uma ameaça." }
+        ],
+        "explanation": "O valor do consultor está na sua capacidade de pensar criticamente e oferecer novas visões.",
+        "hint": "Visão original.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança oferece insights, não apenas dados."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Transparência' na Credibilidade?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Ser aberto sobre suas limitações e o processo de trabalho aumenta a confiança na sua honestidade e, consequentemente, na sua Credibilidade." },
+          { "value": "c", "label": "Diminui a Credibilidade." },
+          { "value": "d", "label": "Aumenta a Orientação Própria." }
+        ],
+        "explanation": "A honestidade sobre as limitações é um sinal de força, não de fraqueza.",
+        "hint": "Honestidade.",
+        "correctAnswer": "b",
+        "bookExample": "A honestidade é a base da Credibilidade."
+      },
+      {
+        "id": "9",
+        "question": "Como a Credibilidade se relaciona com a Confiabilidade?",
+        "options": [
+          { "value": "a", "label": "São a mesma coisa." },
+          { "value": "b", "label": "Credibilidade é sobre 'o que' você diz (expertise), Confiabilidade é sobre 'o que' você faz (ação consistente)." },
+          { "value": "c", "label": "Credibilidade é mais importante." },
+          { "value": "d", "label": "Confiabilidade é mais importante." }
+        ],
+        "explanation": "Ambos são cruciais, mas representam aspectos diferentes da competência.",
+        "hint": "Diferença entre dizer e fazer.",
+        "correctAnswer": "b",
+        "bookExample": "A Credibilidade é a promessa. A Confiabilidade é a entrega."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o risco de 'Superprometer' para aumentar a Credibilidade?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Aumenta a Credibilidade no curto prazo, mas destrói a Confiabilidade e a confiança geral no longo prazo." },
+          { "value": "c", "label": "Aumenta a Intimidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "Superprometer leva à falha na entrega, minando a Confiabilidade.",
+        "hint": "Falha na entrega.",
+        "correctAnswer": "b",
+        "bookExample": "Prometa menos, entregue mais."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Confiabilidade: A Consistência da Ação",
+    "teaser": "⏳ Surpresa é o inimigo! A Confiabilidade não é sobre ser brilhante uma vez, mas sobre ser a **rocha** que nunca falha.",
+    "level1": "Confiabilidade (R) é a sua capacidade de ser previsível e consistente. É a prova de que você fará o que disse que faria, no prazo e na forma esperada. É a soma de pequenos compromissos cumpridos ao longo do tempo.",
+    "level2": "A Confiabilidade é construída pela **comunicação proativa** de status e riscos, e pela gestão de expectativas. O atraso na entrega, mesmo que o resultado seja brilhante, destrói a Confiabilidade.",
+    "level3": "Ruim: Entregar um relatório brilhante, mas com 3 dias de atraso e sem aviso. Bom: Entregar um relatório sólido, no prazo combinado, e avisar proativamente sobre um risco de atraso antes que ele ocorra.",
+    "recapitulation": [
+      "Confiabilidade é sobre 'o que' você faz (Ação Consistente).",
+      "A fórmula é: Entrega - Expectativa = Confiabilidade.",
+      "Superprometer e Subentregar destrói R.",
+      "Comunicação Proativa (antes que o cliente pergunte) constrói R.",
+      "Confiabilidade sem Credibilidade: Status de 'fazedor de tarefas'."
+    ],
+    "practicalChecklist": [
+      "✅ Adote a regra: 'Prometa menos, entregue mais' (Underpromise, Overdeliver).",
+      "✅ Envie um e-mail de status ANTES que o cliente pergunte (Comunicação Proativa).",
+      "✅ Defina claramente o escopo para evitar 'desvios de escopo' (scope creep).",
+      "✅ Se houver um risco de atraso, comunique o novo plano **imediatamente**.",
+      "✅ Documente o acordo (escopo, prazos, entregáveis) para alinhar expectativas (Aumenta R)."
+    ],
+    "conclusionMessage": "Confiabilidade é a sua capacidade de ser previsível e consistente. É a prova de que você fará o que disse que faria, no prazo e na forma esperada.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Como a Confiabilidade é mais bem demonstrada?",
+        "options": [
+          { "value": "a", "label": "Através de grandes gestos." },
+          { "value": "b", "label": "Através da consistência em cumprir pequenos e grandes compromissos ao longo do tempo." },
+          { "value": "c", "label": "Através de um alto preço." },
+          { "value": "d", "label": "Através de um alto conhecimento técnico." }
+        ],
+        "explanation": "A Confiabilidade é a soma de ações consistentes.",
+        "hint": "Consistência.",
+        "correctAnswer": "b",
+        "bookExample": "A Confiabilidade é construída em incrementos."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de 'Atrasar' a entrega, mesmo que o resultado seja de alta qualidade?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Destrói a Confiabilidade, pois quebra a previsibilidade e a expectativa do cliente." },
+          { "value": "c", "label": "Aumenta a Intimidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "Atrasos comunicam que você não valoriza o tempo do cliente ou que não consegue gerenciar seus próprios compromissos.",
+        "hint": "Previsibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O tempo é a moeda mais valiosa do cliente."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'Gerenciar Expectativas' para a Confiabilidade?",
+        "options": [
+          { "value": "a", "label": "Prometer o máximo." },
+          { "value": "b", "label": "Definir claramente o que será entregue, quando e como, e comunicar proativamente qualquer desvio." },
+          { "value": "c", "label": "Focar apenas no resultado final." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "A Confiabilidade é a diferença entre o que foi prometido e o que foi entregue. Gerenciar expectativas minimiza essa diferença.",
+        "hint": "Diferença entre promessa e entrega.",
+        "correctAnswer": "b",
+        "bookExample": "A surpresa é o inimigo da Confiabilidade."
+      },
+      {
+        "id": "4",
+        "question": "Como a Confiabilidade se relaciona com a Orientação Própria (S)?",
+        "options": [
+          { "value": "a", "label": "São independentes." },
+          { "value": "b", "label": "A Confiabilidade é minada se o cliente sentir que você só cumpre promessas quando isso beneficia diretamente você." },
+          { "value": "c", "label": "A Confiabilidade aumenta o 'S'." },
+          { "value": "d", "label": "A Confiabilidade diminui a Credibilidade." }
+        ],
+        "explanation": "A motivação por trás da ação é crucial. A Confiabilidade deve ser motivada pelo compromisso com o cliente.",
+        "hint": "Motivação.",
+        "correctAnswer": "b",
+        "bookExample": "A Confiabilidade deve ser incondicional."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel da 'Organização' na Confiabilidade?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A organização interna (processos, planejamento) é a base para garantir a entrega consistente e previsível." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Aumenta a Intimidade." }
+        ],
+        "explanation": "A Confiabilidade é um resultado de processos bem definidos.",
+        "hint": "Processos.",
+        "correctAnswer": "b",
+        "bookExample": "A Confiabilidade é a prova de que você tem seus processos sob controle."
+      },
+      {
+        "id": "6",
+        "question": "Se um consultor é altamente confiável, mas tem baixa Credibilidade, o que o cliente pensa?",
+        "options": [
+          { "value": "a", "label": "Ele é um Consultor de Confiança." },
+          { "value": "b", "label": "Ele é um 'executor' ou 'assistente' competente, mas não um pensador estratégico." },
+          { "value": "c", "label": "Ele é um gênio arrogante." },
+          { "value": "d", "label": "Ele é um vendedor inteligente." }
+        ],
+        "explanation": "Alta R e baixa C significa que ele é bom em fazer, mas não em pensar ou aconselhar.",
+        "hint": "Executor.",
+        "correctAnswer": "b",
+        "bookExample": "Confiabilidade sem Credibilidade leva ao status de 'fazedor de tarefas'."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Underpromise and Overdeliver' (Prometer menos e entregar mais)?",
+        "options": [
+          { "value": "a", "label": "Fazer grandes promessas." },
+          { "value": "b", "label": "Gerenciar expectativas de forma conservadora para garantir que a entrega exceda consistentemente o que foi prometido, maximizando a Confiabilidade." },
+          { "value": "c", "label": "Focar apenas no resultado final." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Essa é a regra de ouro para maximizar a Confiabilidade percebida.",
+        "hint": "Regra de ouro.",
+        "correctAnswer": "b",
+        "bookExample": "A surpresa positiva é um construtor de Confiabilidade."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Comunicação Proativa' na Confiabilidade?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Informar o cliente sobre o status do projeto e potenciais problemas antes que ele precise perguntar, demonstrando controle e respeito." },
+          { "value": "c", "label": "Aumenta a Orientação Própria." },
+          { "value": "d", "label": "Diminui a Credibilidade." }
+        ],
+        "explanation": "A comunicação proativa evita surpresas e constrói segurança.",
+        "hint": "Evitar surpresas.",
+        "correctAnswer": "b",
+        "bookExample": "A comunicação proativa é a prova de que você está no controle."
+      },
+      {
+        "id": "9",
+        "question": "Se você comete um erro, como a Confiabilidade é afetada?",
+        "options": [
+          { "value": "a", "label": "É destruída permanentemente." },
+          { "value": "b", "label": "É temporariamente minada, mas pode ser reparada através de um processo de reparo de confiança (admitir, pedir desculpas, corrigir)." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Aumenta a Intimidade." }
+        ],
+        "explanation": "O reparo de confiança é crucial. A forma como você lida com o erro é mais importante do que o erro em si.",
+        "hint": "Reparo.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança não é a ausência de erros, mas a forma como você lida com eles."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o risco de 'Prometer o Impossível' para agradar o cliente?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Garante a falha na entrega, destruindo a Confiabilidade e a confiança geral." },
+          { "value": "c", "label": "Aumenta a Intimidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "Prometer o impossível é uma manifestação de alta Orientação Própria (medo de dizer 'Não').",
+        "hint": "Medo de dizer 'Não'.",
+        "correctAnswer": "b",
+        "bookExample": "Dizer 'Não' a um pedido irreal é um ato de Confiabilidade."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Intimidade: O Risco Emocional",
+    "teaser": "🤫 O cofre emocional. Intimidade não é amizade, é a segurança que o cliente sente ao te contar o **medo** que ele não conta para o chefe.",
+    "level1": "Intimidade (I) é a segurança emocional. É o componente mais difícil de construir e o mais fácil de quebrar. É a confiança de que você não usará informações sensíveis (medos, erros, vulnerabilidades) contra o cliente.",
+    "level2": "A Intimidade é construída na fase de Escuta, através da **Empatia** e do **Silêncio** que encoraja a vulnerabilidade. Ela é a prova de baixo 'S', pois exige que você suspenda o julgamento.",
+    "level3": "Ruim: Focar apenas nos fatos e ignorar a ansiedade na voz do cliente. Bom: Usar a rotulagem ('Parece que isso está te causando muita ansiedade') e o silêncio para validar a emoção.",
+    "recapitulation": [
+      "Intimidade é sobre 'quem' você é (Segurança e Empatia).",
+      "O indicador de alta I é o compartilhamento de informação sensível.",
+      "Discrição inabalável: Ser um 'cofre'.",
+      "A Intimidade exige a suspensão do julgamento.",
+      "O alto 'S' (julgamento, pressa) destrói a segurança emocional."
+    ],
+    "practicalChecklist": [
+      "✅ Pratique a escuta ativa, focando não apenas nas palavras, mas no tom e nas emoções (I).",
+      "✅ Use a rotulagem ('Parece que...') para validar a emoção do cliente.",
+      "✅ Mantenha o silêncio após uma pergunta sensível (Permite a Intimidade se aprofundar).",
+      "✅ Proteja a reputação do cliente (Não compartilhe informações sensíveis).",
+      "✅ Em momentos de vulnerabilidade do cliente, use a validação em vez da solução."
+    ],
+    "conclusionMessage": "Intimidade é a segurança que o cliente sente ao ser vulnerável com você. É o componente mais difícil de construir e o mais fácil de quebrar.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é o principal indicador de alta Intimidade?",
+        "options": [
+          { "value": "a", "label": "O cliente te convida para almoçar." },
+          { "value": "b", "label": "O cliente compartilha informações sensíveis, medos ou preocupações pessoais/profissionais que ele não compartilharia com outros fornecedores." },
+          { "value": "c", "label": "O cliente concorda com o preço." },
+          { "value": "d", "label": "O cliente elogia sua Credibilidade." }
+        ],
+        "explanation": "A Intimidade é medida pela profundidade e sensibilidade da informação compartilhada.",
+        "hint": "Informação sensível.",
+        "correctAnswer": "b",
+        "bookExample": "A Intimidade é a confiança que você não usará a informação contra mim."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o papel da 'Discrição' na Intimidade?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Manter a confidencialidade e nunca fofocar sobre o cliente ou suas informações é fundamental para construir a Intimidade." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "A discrição é a prova de que você é um cofre.",
+        "hint": "Cofre.",
+        "correctAnswer": "b",
+        "bookExample": "A Intimidade é construída em silêncio e confidencialidade."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'Vulnerabilidade Controlada'?",
+        "options": [
+          { "value": "a", "label": "Chorar na frente do cliente." },
+          { "value": "b", "label": "Compartilhar uma falha ou lição aprendida relevante e de baixo risco para encorajar a reciprocidade e a abertura do cliente." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Fazer uma ameaça." }
+        ],
+        "explanation": "A vulnerabilidade controlada é uma tática para aumentar a Intimidade através da reciprocidade.",
+        "hint": "Reciprocidade.",
+        "correctAnswer": "b",
+        "bookExample": "A vulnerabilidade é a cola da confiança."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de 'Focar Apenas em Fatos' e ignorar as emoções do cliente?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Impede a construção da Intimidade, pois o cliente se sente como um 'caso' e não como uma pessoa compreendida." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "A Intimidade exige empatia e reconhecimento das emoções.",
+        "hint": "Caso vs. Pessoa.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não se importa com o quanto você sabe, até saber o quanto você se importa."
+      },
+      {
+        "id": "5",
+        "question": "Como a Intimidade se relaciona com a Orientação Própria (S)?",
+        "options": [
+          { "value": "a", "label": "São independentes." },
+          { "value": "b", "label": "A Intimidade é impossível se o cliente sentir que você está julgando ou usando a informação dele para seu próprio benefício." },
+          { "value": "c", "label": "A Intimidade aumenta o 'S'." },
+          { "value": "d", "label": "A Intimidade diminui a Credibilidade." }
+        ],
+        "explanation": "O alto 'S' destrói a segurança emocional necessária para a Intimidade.",
+        "hint": "Julgamento.",
+        "correctAnswer": "b",
+        "bookExample": "A Intimidade exige a suspensão do julgamento."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Ser Presente' (Being Present)?",
+        "options": [
+          { "value": "a", "label": "Estar fisicamente na sala." },
+          { "value": "b", "label": "Focar 100% no cliente, sem distrações (celular, e-mail), demonstrando que o tempo dele é valioso." },
+          { "value": "c", "label": "Falar sobre o futuro." },
+          { "value": "d", "label": "Fazer anotações." }
+        ],
+        "explanation": "A presença total é um ato de respeito e um construtor de Intimidade.",
+        "hint": "Foco total.",
+        "correctAnswer": "b",
+        "bookExample": "A presença é a forma mais profunda de respeito."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o risco de 'Fingir Intimidade' (Fake Intimacy)?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "O cliente percebe a falsidade, o que destrói a confiança de forma permanente e aumenta o 'S'." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "A Intimidade deve ser genuína. A falsidade é facilmente detectada.",
+        "hint": "Falsidade.",
+        "correctAnswer": "b",
+        "bookExample": "A Intimidade falsa é pior do que a ausência de Intimidade."
+      },
+      {
+        "id": "8",
+        "question": "Como a Intimidade ajuda na Credibilidade?",
+        "options": [
+          { "value": "a", "label": "São independentes." },
+          { "value": "b", "label": "A Intimidade permite que o cliente confie no seu julgamento, mesmo que ele não entenda os detalhes técnicos (Credibilidade)." },
+          { "value": "c", "label": "A Intimidade diminui a Credibilidade." },
+          { "value": "d", "label": "A Intimidade aumenta a Confiabilidade." }
+        ],
+        "explanation": "A Intimidade é o 'lubrificante' que permite que C e R funcionem em momentos de incerteza.",
+        "hint": "Lubrificante.",
+        "correctAnswer": "b",
+        "bookExample": "A Intimidade permite que você seja imperfeito."
+      },
+      {
+        "id": "9",
+        "question": "O que o 'Time Tax' (Imposto do Tempo) representa na Intimidade?",
+        "options": [
+          { "value": "a", "label": "O tempo gasto em reuniões." },
+          { "value": "b", "label": "A tendência de focar em ganhos de curto prazo (alto S) em vez de investir tempo na construção de Intimidade de longo prazo." },
+          { "value": "c", "label": "O tempo gasto em viagens." },
+          { "value": "d", "label": "O tempo gasto em relatórios." }
+        ],
+        "explanation": "O 'Time Tax' é o custo de não investir em Intimidade. O alto 'S' leva a decisões de curto prazo.",
+        "hint": "Curto prazo.",
+        "correctAnswer": "b",
+        "bookExample": "A Intimidade é um investimento de longo prazo."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de responder a uma preocupação pessoal do cliente?",
+        "options": [
+          { "value": "a", "label": "Mudar de assunto para o negócio." },
+          { "value": "b", "label": "Usar a rotulagem ('Parece que isso está te causando muita ansiedade') e o silêncio para validar a emoção." },
+          { "value": "c", "label": "Dar um conselho rápido." },
+          { "value": "d", "label": "Falar sobre suas próprias preocupações." }
+        ],
+        "explanation": "A validação da emoção é a chave para a Intimidade.",
+        "hint": "Validação.",
+        "correctAnswer": "b",
+        "bookExample": "A empatia é a chave para o coração humano."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Orientação Própria (S): O Destruidor de Confiança",
+    "teaser": "🚨 Seu **ego** é seu pior inimigo. O Consultor de Confiança não se vende; ele se torna a solução (eliminando o 'S').",
+    "level1": "A Orientação Própria (S) é o foco em si mesmo: seus ganhos, seu ego, sua necessidade de estar certo. Quando o cliente sente que você está ali para se servir, e não para servir, o 'S' dispara e anula C, R e I.",
+    "level2": "O 'S' se manifesta como impaciência (dar conselho prematuro), arrogância (usar jargão técnico) e pressa (pressionar o cliente para fechar). A chave é operar com a mentalidade de longo prazo (baixo S).",
+    "level3": "Ruim: Interromper o cliente para dar uma solução brilhante (Alto S). Bom: Deixar o cliente terminar de falar e usar o silêncio, mesmo que ele demore a responder (Baixo S).",
+    "recapitulation": [
+      "'S' é a percepção de egoísmo e foco no seu próprio umbigo.",
+      "Manifestações de alto S: Aconselhar prematuramente e pressionar para fechar.",
+      "O antídoto para o S é a **Generosidade** (dar insights sem esperar retorno imediato).",
+      "Baixo S: Estar disposto a perder a venda para dar o conselho certo.",
+      "O Consultor de Confiança prefere estar certo sobre o problema do cliente do que sobre sua própria solução."
+    ],
+    "practicalChecklist": [
+      "✅ Pratique o silêncio e a escuta ativa para suspender sua própria agenda (Baixo S).",
+      "✅ Ofereça um insight valioso 'de graça' no início (Generosidade).",
+      "✅ Evite 'Eu', e foque em 'Nós' e 'Você' nas frases.",
+      "✅ Resista à necessidade de 'Estar Certo' (Ego).",
+      "✅ Se o cliente resistir, use a empatia para diagnosticar, em vez de argumentar (Evite alto S)."
+    ],
+    "conclusionMessage": "A Orientação Própria é o foco em si mesmo (seus ganhos, seu ego, sua necessidade de estar certo). É o fator mais destrutivo da confiança.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Como a Orientação Própria (S) é percebida pelo cliente?",
+        "options": [
+          { "value": "a", "label": "Como Credibilidade." },
+          { "value": "b", "label": "Como egoísmo, impaciência ou foco excessivo em fechar a venda." },
+          { "value": "c", "label": "Como Confiabilidade." },
+          { "value": "d", "label": "Como Intimidade." }
+        ],
+        "explanation": "O 'S' é o oposto da empatia.",
+        "hint": "Egoísmo.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não se importa com o quanto você sabe, até saber o quanto você se importa."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de 'Dar Conselhos' muito cedo?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "É uma manifestação de alto 'S', pois demonstra que você está mais interessado em mostrar sua expertise do que em entender o problema do cliente." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Aumenta a Intimidade." }
+        ],
+        "explanation": "O conselho prematuro é um sinal de impaciência e ego.",
+        "hint": "Impaciência.",
+        "correctAnswer": "b",
+        "bookExample": "O conselho prematuro é o inimigo da confiança."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'O Imposto do Tempo' (Time Tax) no contexto de 'S'?",
+        "options": [
+          { "value": "a", "label": "O tempo gasto em reuniões." },
+          { "value": "b", "label": "A tendência de focar em ganhos de curto prazo (fechar a venda) em vez de investir tempo na construção de confiança de longo prazo." },
+          { "value": "c", "label": "O tempo gasto em viagens." },
+          { "value": "d", "label": "O tempo gasto em relatórios." }
+        ],
+        "explanation": "O alto 'S' leva a decisões de curto prazo que minam o relacionamento.",
+        "hint": "Curto prazo.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é um investimento de longo prazo."
+      },
+      {
+        "id": "4",
+        "question": "Como o Consultor de Confiança lida com a necessidade de 'Estar Certo'?",
+        "options": [
+          { "value": "a", "label": "Ele sempre insiste em sua solução." },
+          { "value": "b", "label": "Ele suspende a necessidade de estar certo, focando em entender a perspectiva do cliente, mesmo que discorde dela." },
+          { "value": "c", "label": "Ele usa jargões técnicos." },
+          { "value": "d", "label": "Ele fala sobre suas conquistas." }
+        ],
+        "explanation": "A necessidade de estar certo é uma manifestação de alto 'S'.",
+        "hint": "Ego.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança prefere estar certo sobre o problema do cliente do que sobre sua própria solução."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel da 'Generosidade' na redução do 'S'?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Oferecer valor e insights sem esperar um retorno imediato (dar antes de receber) reduz o 'S' percebido." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Aumenta a Confiabilidade." }
+        ],
+        "explanation": "A generosidade é a prova de que você está focado no cliente.",
+        "hint": "Dar antes de receber.",
+        "correctAnswer": "b",
+        "bookExample": "A generosidade é a cola da confiança."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Assumir o Risco' para reduzir o 'S'?",
+        "options": [
+          { "value": "a", "label": "Fazer uma ameaça." },
+          { "value": "b", "label": "Recomendar uma solução que não beneficia diretamente você, mas que é a melhor para o cliente, mesmo que isso signifique perder a venda." },
+          { "value": "c", "label": "Focar no lucro." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "O Consultor de Confiança coloca o interesse do cliente acima do seu próprio.",
+        "hint": "Interesse do cliente.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança está disposto a perder a venda para ganhar a confiança."
+      },
+      {
+        "id": "7",
+        "question": "Como a 'Escuta Ativa' ajuda a reduzir o 'S'?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Força o consultor a focar no cliente e a suspender sua própria agenda e necessidade de falar." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Aumenta a Intimidade." }
+        ],
+        "explanation": "A Escuta Ativa é o antídoto para o ego.",
+        "hint": "Antídoto para o ego.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança fala menos e ouve mais."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Focar em Fechar a Venda' (Closing the Deal)?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "É uma manifestação de alto 'S' que pode levar a um 'Sim' falso e à falha na execução, pois o foco não estava na solução do problema." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Aumenta a Intimidade." }
+        ],
+        "explanation": "O foco deve ser na solução, não na transação.",
+        "hint": "Transação vs. Solução.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança não fecha vendas; ele abre relacionamentos."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Ser um Pensador, não um Vendedor'?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "Priorizar a análise, o diagnóstico e o insight (C) em vez da persuasão e da pressão (S)." },
+          { "value": "c", "label": "Focar apenas na Confiabilidade." },
+          { "value": "d", "label": "Focar apenas na Intimidade." }
+        ],
+        "explanation": "O Consultor de Confiança é um pensador estratégico.",
+        "hint": "Estratégia.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança é um parceiro, não um fornecedor."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de reduzir o 'S' em uma interação?",
+        "options": [
+          { "value": "a", "label": "Falar sobre suas conquistas." },
+          { "value": "b", "label": "Fazer uma pergunta de diagnóstico profunda e ouvir a resposta com total atenção, sem interromper." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A escuta profunda é o ato de maior respeito e o maior redutor de 'S'.",
+        "hint": "Respeito.",
+        "correctAnswer": "b",
+        "bookExample": "Ouvir é a forma mais profunda de respeito."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "O Risco de Aconselhar Prematuramente",
+    "teaser": "🛑 Calma, Doutor! O erro fatal: dar a **receita** antes de entender os **sintomas**. Seu cliente merece um diagnóstico completo.",
+    "level1": "O 'impulso de conselho' é a necessidade de mostrar que você sabe a resposta. No entanto, dar conselhos antes de um diagnóstico completo é um erro fatal, pois sinaliza alto 'S' (impaciência em se exibir) e baixa Credibilidade (o conselho pode ser irrelevante).",
+    "level2": "O cliente pensa: 'Ele não me ouviu' ou 'Ele não entende a complexidade do meu problema'. O Consultor de Confiança é um **detetive** que diagnostica a causa raiz, e não um pregador que oferece soluções genéricas.",
+    "level3": "Ruim: 'Com base no que você disse, você precisa do meu software X.' Bom: 'Parece que você está muito incomodado. Você pode me contar mais sobre o custo real (emocional e financeiro) de não resolver isso?'",
+    "recapitulation": [
+      "Conselho Prematuro = Alto S + Baixa C Percebida.",
+      "A pressa em aconselhar nasce do medo de parecer incompetente.",
+      "Diagnóstico precede a Prescrição (Solução).",
+      "Foque em fazer perguntas de diagnóstico profundo e Escuta Ativa.",
+      "O objetivo é obter o 'Isso Mesmo' (validação do problema), não o 'Sim' (aceitação da solução)."
+    ],
+    "practicalChecklist": [
+      "✅ Se sentir o impulso de dar conselhos, force-se a fazer mais uma pergunta de diagnóstico.",
+      "✅ Pergunte sobre o *custo real* da inação (Motivador de mudança).",
+      "✅ Use a Escuta Ativa para revelar soluções já tentadas (Evita repetir erros).",
+      "✅ Lembre-se: Você está ali para ser um detetive, não um pregador.",
+      "✅ Use perguntas calibradas para 'comprar tempo' para o diagnóstico ('Como podemos garantir que estamos resolvendo o problema certo?')."
+    ],
+    "conclusionMessage": "O erro mais comum é dar conselhos antes de ter um diagnóstico completo. Isso é uma manifestação de alto 'S' e destrói a confiança.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que o 'Conselho Prematuro' comunica ao cliente?",
+        "options": [
+          { "value": "a", "label": "Alta Credibilidade." },
+          { "value": "b", "label": "Alta Orientação Própria (S) e falta de interesse em entender a complexidade do problema." },
+          { "value": "c", "label": "Alta Confiabilidade." },
+          { "value": "d", "label": "Alta Intimidade." }
+        ],
+        "explanation": "O conselho prematuro é um sinal de impaciência e ego.",
+        "hint": "Impaciência.",
+        "correctAnswer": "b",
+        "bookExample": "O conselho prematuro é o inimigo da confiança."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a principal razão pela qual os consultores dão conselhos prematuros?",
+        "options": [
+          { "value": "a", "label": "Eles são muito inteligentes." },
+          { "value": "b", "label": "O medo de parecerem incompetentes ou a necessidade de provar rapidamente sua Credibilidade (alto S)." },
+          { "value": "c", "label": "Eles querem fechar a venda rapidamente." },
+          { "value": "d", "label": "Eles querem aumentar a Intimidade." }
+        ],
+        "explanation": "O medo de parecer incompetente é uma manifestação de alto 'S'.",
+        "hint": "Medo.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança não tem medo de dizer 'Eu não sei'."
+      },
+      {
+        "id": "3",
+        "question": "O que o consultor deve fazer em vez de dar conselhos prematuros?",
+        "options": [
+          { "value": "a", "label": "Ficar em silêncio." },
+          { "value": "b", "label": "Fazer perguntas de diagnóstico profundas e ouvir ativamente para obter o 'Isso Mesmo' (Enquadramento)." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "O diagnóstico precede a prescrição.",
+        "hint": "Diagnóstico.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança é um detetive, não um pregador."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel da 'Paciência' na construção da confiança?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A paciência em ouvir e diagnosticar é a prova de baixo 'S' e um construtor de Intimidade." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Aumenta a Confiabilidade." }
+        ],
+        "explanation": "A paciência é a prova de que você se importa mais com o cliente do que com sua própria agenda.",
+        "hint": "Prova de cuidado.",
+        "correctAnswer": "b",
+        "bookExample": "A paciência é a virtude do Consultor de Confiança."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Resistir ao Impulso de Solução'?",
+        "options": [
+          { "value": "a", "label": "Não ter soluções." },
+          { "value": "b", "label": "Reconhecer o desejo de resolver o problema, mas forçar-se a continuar na fase de Escuta e Diagnóstico." },
+          { "value": "c", "label": "Focar apenas no preço." },
+          { "value": "d", "label": "Falar sobre o futuro." }
+        ],
+        "explanation": "O impulso de solução é o inimigo do diagnóstico.",
+        "hint": "Inimigo do diagnóstico.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança diagnostica antes de prescrever."
+      },
+      {
+        "id": "6",
+        "question": "Como o conselho prematuro afeta a Credibilidade?",
+        "options": [
+          { "value": "a", "label": "Aumenta, pois mostra conhecimento." },
+          { "value": "b", "label": "Diminui, pois o conselho pode ser irrelevante ou incorreto, minando a percepção de expertise." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Aumenta a Intimidade." }
+        ],
+        "explanation": "A Credibilidade é baseada na precisão. O conselho prematuro é inerentemente impreciso.",
+        "hint": "Precisão.",
+        "correctAnswer": "b",
+        "bookExample": "A Credibilidade é construída na relevância."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Curiosidade Genuína' na fase de Escuta?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "É a prova de baixo 'S' e um motor para fazer perguntas de diagnóstico profundas, aumentando a Intimidade." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Aumenta a Confiabilidade." }
+        ],
+        "explanation": "A curiosidade genuína é o oposto do ego.",
+        "hint": "Oposto do ego.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança é o mais curioso da sala."
+      },
+      {
+        "id": "8",
+        "question": "O que o cliente pensa quando recebe um conselho prematuro?",
+        "options": [
+          { "value": "a", "label": "Ele é um gênio." },
+          { "value": "b", "label": "Ele não me ouviu ou não entende a complexidade do meu problema." },
+          { "value": "c", "label": "Ele é muito confiável." },
+          { "value": "d", "label": "Ele é muito íntimo." }
+        ],
+        "explanation": "O conselho prematuro é percebido como desrespeito.",
+        "hint": "Desrespeito.",
+        "correctAnswer": "b",
+        "bookExample": "O conselho prematuro é um sinal de desrespeito."
+      },
+      {
+        "id": "9",
+        "question": "Qual é a melhor forma de 'Comprar Tempo' para o diagnóstico?",
+        "options": [
+          { "value": "a", "label": "Dizer que você está ocupado." },
+          { "value": "b", "label": "Usar perguntas calibradas ('Como podemos garantir que estamos resolvendo o problema certo?') e o Enquadramento." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "As perguntas calibradas transferem o fardo da solução para o cliente, dando tempo para o diagnóstico.",
+        "hint": "Transferência de fardo.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Como' é a chave para a solução."
+      },
+      {
+        "id": "10",
+        "question": "O que a 'Escuta Ativa' ajuda a evitar na fase de conselho?",
+        "options": [
+          { "value": "a", "label": "O silêncio." },
+          { "value": "b", "label": "Apresentar uma solução que já foi tentada e falhou (o que destrói a Credibilidade)." },
+          { "value": "c", "label": "O contato visual." },
+          { "value": "d", "label": "O preço alto." }
+        ],
+        "explanation": "A Escuta Ativa revela o histórico do problema.",
+        "hint": "Histórico.",
+        "correctAnswer": "b",
+        "bookExample": "A história do problema é a chave para a solução."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "O Papel da Empatia e do Risco",
+    "teaser": "💔 A Empatia desarma o medo. Reduza o **Risco** que o cliente sente ao se abrir, e a Intimidade florescerá.",
+    "level1": "A empatia é a base da Intimidade. É a capacidade de entender e validar os sentimentos e medos do cliente. O Risco é o preço que o cliente paga ao se abrir (risco emocional, risco de reputação).",
+    "level2": "O Consultor de Confiança minimiza o risco através da Empatia Tática (Rotulagem de Emoções) e da garantia de **Discrição Inabalável**. O cliente se abre quando sente que você entende o medo dele e que você é um porto seguro.",
+    "level3": "Ruim: 'Não se preocupe, isso é fácil de resolver.' (Minimiza o medo). Bom: 'Parece que você está realmente preocupado com o impacto disso na sua carreira. Eu entendo.' (Valida o medo e constrói I).",
+    "recapitulation": [
+      "Empatia = Base da Intimidade.",
+      "Risco: Medo de vulnerabilidade e de reputação.",
+      "Rotular o Risco: Verbalizar o medo para neutralizá-lo ('Parece que você está preocupado com a confidencialidade').",
+      "Assumir o Risco: Estar disposto a perder a venda para dar o conselho certo (Prova de baixo S).",
+      "O foco no relacionamento, em vez do contrato, reduz o Risco percebido."
+    ],
+    "practicalChecklist": [
+      "✅ Ao ouvir uma emoção, rotule-a imediatamente ('Parece que você está frustrado') e espere.",
+      "✅ Mantenha a calma e o foco quando o cliente estiver estressado ('Seja um recipiente').",
+      "✅ Garanta a confidencialidade das informações sensíveis dele.",
+      "✅ Evite minimizar o problema ou o medo do cliente.",
+      "✅ Use a Vulnerabilidade Controlada (compartilhe uma lição aprendida de baixo risco para incentivar a reciprocidade)."
+    ],
+    "conclusionMessage": "A empatia é a base da Intimidade e a chave para reduzir o 'S'. O risco é o preço que o cliente paga para ser vulnerável.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que a 'Empatia' ajuda a construir na Equação da Confiança?",
+        "options": [
+          { "value": "a", "label": "Credibilidade." },
+          { "value": "b", "label": "Intimidade (segurança emocional)." },
+          { "value": "c", "label": "Confiabilidade." },
+          { "value": "d", "label": "Orientação Própria." }
+        ],
+        "explanation": "A empatia é a base da Intimidade.",
+        "hint": "Base da Intimidade.",
+        "correctAnswer": "b",
+        "bookExample": "A empatia é a chave para o coração humano."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Rotular o Risco'?",
+        "options": [
+          { "value": "a", "label": "Ameaçar o cliente." },
+          { "value": "b", "label": "Verbalizar o risco que o cliente está correndo ao se abrir ('Parece que você está preocupado com a confidencialidade') para validar a preocupação e aumentar a Intimidade." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "Rotular o risco demonstra que você entende a vulnerabilidade dele.",
+        "hint": "Vulnerabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Dê nome ao medo, e ele perde o poder."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de 'Minimizar' o problema ou o medo do cliente?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Destrói a Intimidade, pois o cliente se sente não compreendido e desrespeitado." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "Minimizar o problema é uma manifestação de alto 'S' (impaciência).",
+        "hint": "Desrespeito.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança valida a dor, não a minimiza."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Assumir o Risco' para o Consultor?",
+        "options": [
+          { "value": "a", "label": "Fazer uma ameaça." },
+          { "value": "b", "label": "Estar disposto a perder a venda ou o relacionamento para dar o conselho certo (baixo S)." },
+          { "value": "c", "label": "Focar no lucro." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "O risco do Consultor é o risco de perder o negócio. O baixo 'S' permite que ele corra esse risco.",
+        "hint": "Perda do negócio.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança está disposto a perder a venda para ganhar a confiança."
+      },
+      {
+        "id": "5",
+        "question": "Como a 'Vulnerabilidade Controlada' ajuda a reduzir o risco percebido pelo cliente?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Ao se abrir, o consultor sinaliza que o ambiente é seguro, encorajando o cliente a se abrir também (reciprocidade)." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "A vulnerabilidade é a cola da Intimidade.",
+        "hint": "Cola.",
+        "correctAnswer": "b",
+        "bookExample": "A vulnerabilidade é o atalho para a intimidade."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel da 'Integridade' na gestão do risco?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A integridade (fazer a coisa certa, mesmo quando ninguém está olhando) é a base para o cliente confiar que você não usará a informação sensível contra ele." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Aumenta a Confiabilidade." }
+        ],
+        "explanation": "A integridade é a prova de que o risco de Intimidade é baixo.",
+        "hint": "Prova de segurança.",
+        "correctAnswer": "b",
+        "bookExample": "A integridade é a base da confiança."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Ser um Espelho' na Escuta?",
+        "options": [
+          { "value": "a", "label": "Copiar a linguagem corporal." },
+          { "value": "b", "label": "Refletir as emoções e os sentimentos do cliente ('Parece que você está frustrado') para validar a experiência dele." },
+          { "value": "c", "label": "Focar apenas nos fatos." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "O espelhamento emocional é uma forma de empatia tática.",
+        "hint": "Reflexão.",
+        "correctAnswer": "b",
+        "bookExample": "Ouvir é a forma mais barata de concessão."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Focar Apenas no Contrato' e ignorar o relacionamento?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Confiabilidade." },
+          { "value": "b", "label": "Aumenta o 'S' percebido e impede a construção de Intimidade, tornando o relacionamento transacional e vulnerável." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "O foco na transação é o oposto do Consultor de Confiança.",
+        "hint": "Transação.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança foca no relacionamento, não na transação."
+      },
+      {
+        "id": "9",
+        "question": "O que o 'Risco de Reputação' representa para o cliente?",
+        "options": [
+          { "value": "a", "label": "O risco de perder dinheiro." },
+          { "value": "b", "label": "O medo de que, ao se abrir sobre um problema, sua posição ou imagem interna seja comprometida." },
+          { "value": "c", "label": "O risco de perder o emprego." },
+          { "value": "d", "label": "O risco de falar demais." }
+        ],
+        "explanation": "O Consultor de Confiança protege a reputação do cliente.",
+        "hint": "Proteção.",
+        "correctAnswer": "b",
+        "bookExample": "A Intimidade é a confiança que você protegerá minha reputação."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de 'Minimizar o Risco' para o cliente?",
+        "options": [
+          { "value": "a", "label": "Garantir o resultado." },
+          { "value": "b", "label": "Garantir a confidencialidade, demonstrar empatia e focar em resolver o problema dele (baixo S)." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A confidencialidade e o baixo 'S' são os principais redutores de risco.",
+        "hint": "Confidencialidade.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é a ausência de medo."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Lidando com a Resistência do Cliente",
+    "teaser": "🚧 A resistência é uma **pista**, não uma barreira. Use a Empatia Tática para desarmar a objeção oculta.",
+    "level1": "A resistência do cliente (objeções, silêncio, agressão) é um sintoma de **baixa confiança** (baixo C, R ou I, ou alto S). O Consultor de Confiança não ataca a resistência, mas a diagnostica.",
+    "level2": "A melhor forma de lidar com a resistência é usar a **Empatia Tática** (Rotulagem e Espelhamento) para desarmar a emoção e extrair a causa raiz (o Cisne Negro). Nunca **argumente** com a resistência (isso aumenta o S).",
+    "level3": "Cliente: 'Seu preço é muito alto.' Ruim: 'Não, porque nosso ROI é o melhor.' Bom: 'Parece que o orçamento é uma grande restrição para você. O que te impede de aceitar este valor?' (Usa pergunta calibrada).",
+    "recapitulation": [
+      "Resistência = Sinal de baixa confiança (ou Cisne Negro oculto).",
+      "Nunca argumente (Alto S), diagnostique (Baixo S).",
+      "Use Rotulagem para desarmar a emoção ('Parece que você está frustrado').",
+      "Use Silêncio após o rótulo para forçar a revelação da objeção real.",
+      "Pergunta Calibrada: 'Como podemos resolver isso?' (Transfere o fardo para o cliente)."
+    ],
+    "practicalChecklist": [
+      "✅ Quando ouvir uma objeção, comece com a rotulagem e não com a defesa.",
+      "✅ Use a pergunta 'Como podemos integrar isso?' para negociar o escopo.",
+      "✅ Busque o 'Isso Mesmo' (validação) da objeção, não o 'Sim' (acordo falso).",
+      "✅ Se o cliente ficar em silêncio, espere. O silêncio é seu amigo.",
+      "✅ Rotule a tática, se necessário ('Parece que você está tentando me fazer sentir culpado'), para neutralizá-la."
+    ],
+    "conclusionMessage": "A resistência é um sinal de que o cliente não se sente compreendido ou que o 'S' (Orientação Própria) está muito alto. Use a empatia tática para desarmá-la.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que a 'Resistência' do cliente geralmente indica?",
+        "options": [
+          { "value": "a", "label": "Que o cliente não tem dinheiro." },
+          { "value": "b", "label": "Baixa confiança (baixo C, R ou I, ou alto S)." },
+          { "value": "c", "label": "Que o cliente está pronto para fechar." },
+          { "value": "d", "label": "Que o consultor tem alta Credibilidade." }
+        ],
+        "explanation": "A resistência é um sintoma de baixa confiança.",
+        "hint": "Sintoma.",
+        "correctAnswer": "b",
+        "bookExample": "A resistência é a porta de entrada para a verdade."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a melhor forma de lidar com a resistência?",
+        "options": [
+          { "value": "a", "label": "Atacar a objeção com lógica." },
+          { "value": "b", "label": "Usar a empatia tática (rotulagem e espelhamento) para desarmar a emoção e diagnosticar a causa raiz da resistência." },
+          { "value": "c", "label": "Fazer uma concessão imediata." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A empatia desarma a agressão e a resistência.",
+        "hint": "Desarmamento.",
+        "correctAnswer": "b",
+        "bookExample": "Ouvir é a forma mais barata de concessão."
+      },
+      {
+        "id": "3",
+        "question": "Se o cliente diz: 'Eu não tenho tempo para isso.' Qual é a melhor rotulagem?",
+        "options": [
+          { "value": "a", "label": "Você está mentindo." },
+          { "value": "b", "label": "Parece que o tempo é uma restrição crítica para você." },
+          { "value": "c", "label": "Eu também não tenho tempo." },
+          { "value": "d", "label": "Vamos acelerar." }
+        ],
+        "explanation": "Rotular a restrição (tempo) é mais produtivo do que rotular a emoção.",
+        "hint": "Restrição.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule o obstáculo, não a pessoa."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Rotular o Medo' por trás da resistência?",
+        "options": [
+          { "value": "a", "label": "Ameaçar o cliente." },
+          { "value": "b", "label": "Verbalizar o medo oculto ('Parece que você está com medo de que isso falhe') para neutralizar a emoção." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "O medo é o motor da resistência.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "Dê nome ao medo, e ele perde o poder."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Argumentar' com o cliente resistente?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Aumenta o 'S' percebido, quebra o rapport e reforça a resistência do cliente." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Aumenta a Intimidade." }
+        ],
+        "explanation": "Argumentar é uma manifestação de alto 'S' (necessidade de estar certo).",
+        "hint": "Ego.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança não argumenta; ele diagnostica."
+      },
+      {
+        "id": "6",
+        "question": "O que o 'Silêncio' após a rotulagem comunica ao cliente resistente?",
+        "options": [
+          { "value": "a", "label": "Tédio." },
+          { "value": "b", "label": "Pressão sutil para que ele preencha o vazio, revelando a causa raiz da resistência." },
+          { "value": "c", "label": "Agressividade." },
+          { "value": "d", "label": "Acordo." }
+        ],
+        "explanation": "O silêncio é uma ferramenta poderosa para extrair informações.",
+        "hint": "Pressão produtiva.",
+        "correctAnswer": "b",
+        "bookExample": "O silêncio é seu amigo. Use-o."
+      },
+      {
+        "id": "7",
+        "question": "Qual é a função da pergunta calibrada 'Como podemos resolver isso?' em face da resistência?",
+        "options": [
+          { "value": "a", "label": "Mudar de assunto." },
+          { "value": "b", "label": "Transferir o fardo da solução para o cliente, forçando-o a pensar em como superar a objeção." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "O 'Como' força a colaboração.",
+        "hint": "Colaboração.",
+        "correctAnswer": "b",
+        "bookExample": "Faça o oponente resolver o seu problema."
+      },
+      {
+        "id": "8",
+        "question": "O que significa 'Rotular a Tática'?",
+        "options": [
+          { "value": "a", "label": "Ameaçar o cliente." },
+          { "value": "b", "label": "Verbalizar a tática que o cliente está usando ('Parece que você está tentando me fazer sentir culpado') para neutralizá-la." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "Rotular a tática é uma forma de desarmar a manipulação.",
+        "hint": "Manipulação.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule a tática, não a pessoa."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Ignorar a Resistência'?",
+        "options": [
+          { "value": "a", "label": "Você fecha o negócio mais rápido." },
+          { "value": "b", "label": "A resistência não resolvida se transforma em falha na execução ou sabotagem do acordo." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A resistência é um Cisne Negro que precisa ser resolvido.",
+        "hint": "Cisne Negro.",
+        "correctAnswer": "b",
+        "bookExample": "A resistência é a porta de entrada para a verdade."
+      },
+      {
+        "id": "10",
+        "question": "O que o 'Isso Mesmo' representa após a resistência?",
+        "options": [
+          { "value": "a", "label": "Um acordo sobre o preço." },
+          { "value": "b", "label": "O ponto de virada onde o cliente sente que foi perfeitamente compreendido e está pronto para avançar." },
+          { "value": "c", "label": "Uma concessão." },
+          { "value": "d", "label": "O fim da conversa." }
+        ],
+        "explanation": "O 'Isso Mesmo' é a validação máxima.",
+        "hint": "Validação.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Isso Mesmo' é o Santo Graal da negociação."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "O Imposto do Tempo (Time Tax) e o Foco no Longo Prazo",
+    "teaser": "💸 O custo da pressa! Pressionar para fechar o negócio hoje é pagar um **imposto** que destrói a confiança de amanhã.",
+    "level1": "O Imposto do Tempo é o custo de focar em ganhos de curto prazo (alto S), sacrificando a construção de confiança de longo prazo (C, R, I). Ele se manifesta como a pressa em fechar a venda.",
+    "level2": "O Consultor de Confiança opera com uma mentalidade de **longo prazo**, disposto a investir tempo no diagnóstico e a recomendar a melhor solução, mesmo que não seja a mais lucrativa para si (Baixo S).",
+    "level3": "Ruim: Pressionar o cliente para assinar o contrato na primeira reunião. Bom: Dizer: 'Eu entendo que você precisa de tempo para pensar. O que você precisa de mim para se sentir 100% confortável?'",
+    "recapitulation": [
+      "Imposto do Tempo = Custo do Alto S (Impaciência).",
+      "A pressa em fechar a venda aumenta o S e quebra a Intimidade.",
+      "Parceiro Estratégico: Prioriza o sucesso do cliente acima do lucro imediato.",
+      "Mentalidade de Longo Prazo: Investir tempo no diagnóstico e na Intimidade.",
+      "Generosidade de Insights: Dar valor sem esperar retorno imediato (Reduz o S)."
+    ],
+    "practicalChecklist": [
+      "✅ Nunca pressione o cliente para fechar a venda.",
+      "✅ Use o tempo de diagnóstico como um investimento, não como um custo.",
+      "✅ Se o cliente estiver com pressa, rotule a urgência e diagnostique a causa raiz.",
+      "✅ Use perguntas de futuro para engajar o cliente no longo prazo ('O que o sucesso se parecerá em 12 meses?').",
+      "✅ Esteja disposto a perder a venda para dar o conselho certo (O teste final do S)."
+    ],
+    "conclusionMessage": "O Imposto do Tempo é o custo de focar em ganhos de curto prazo (alto S), sacrificando a construção de confiança de longo prazo.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que o 'Imposto do Tempo' (Time Tax) penaliza?",
+        "options": [
+          { "value": "a", "label": "A Credibilidade." },
+          { "value": "b", "label": "O foco em ganhos de curto prazo (alto S) em detrimento da construção de confiança de longo prazo." },
+          { "value": "c", "label": "A Confiabilidade." },
+          { "value": "d", "label": "A Intimidade." }
+        ],
+        "explanation": "O Imposto do Tempo é o custo da impaciência e do egoísmo.",
+        "hint": "Impaciência.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é um investimento de longo prazo."
+      },
+      {
+        "id": "2",
+        "question": "Como o Consultor de Confiança demonstra uma mentalidade de longo prazo?",
+        "options": [
+          { "value": "a", "label": "Fazendo uma concessão." },
+          { "value": "b", "label": "Investindo tempo no diagnóstico, mesmo que isso atrase a venda, e recomendando a melhor solução para o cliente, mesmo que não seja a mais lucrativa para si." },
+          { "value": "c", "label": "Focando apenas no preço." },
+          { "value": "d", "label": "Falar sobre o futuro." }
+        ],
+        "explanation": "O foco no cliente e no diagnóstico é a prova de baixo 'S'.",
+        "hint": "Diagnóstico.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança está disposto a perder a venda para ganhar a confiança."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de 'Pressionar' o cliente para fechar o negócio?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Aumenta o 'S' percebido, quebra o rapport e pode levar a um 'Sim' falso ou à sabotagem do acordo." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Aumenta a Intimidade." }
+        ],
+        "explanation": "A pressão é o oposto da Intimidade.",
+        "hint": "Oposto da Intimidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança não pressiona; ele guia."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Ser um Parceiro, não um Vendedor'?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "Priorizar o sucesso de longo prazo do cliente em vez do seu próprio lucro imediato." },
+          { "value": "c", "label": "Focar apenas na Confiabilidade." },
+          { "value": "d", "label": "Focar apenas na Credibilidade." }
+        ],
+        "explanation": "O parceiro tem uma mentalidade de longo prazo.",
+        "hint": "Sucesso mútuo.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança é um parceiro, não um fornecedor."
+      },
+      {
+        "id": "5",
+        "question": "Como a 'Generosidade' ajuda a combater o Imposto do Tempo?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Ao dar valor sem esperar retorno imediato, você investe no relacionamento, reduzindo o 'S' e construindo Intimidade." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Aumenta a Confiabilidade." }
+        ],
+        "explanation": "A generosidade é a prova de baixo 'S'.",
+        "hint": "Prova de baixo 'S'.",
+        "correctAnswer": "b",
+        "bookExample": "A generosidade é a cola da confiança."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel da 'Transparência' na gestão do tempo?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Ser transparente sobre o tempo necessário para o diagnóstico e a solução aumenta a Confiabilidade e reduz a ansiedade do cliente." },
+          { "value": "c", "label": "Aumenta a Orientação Própria." },
+          { "value": "d", "label": "Diminui a Credibilidade." }
+        ],
+        "explanation": "A transparência evita surpresas e constrói segurança.",
+        "hint": "Segurança.",
+        "correctAnswer": "b",
+        "bookExample": "A surpresa é o inimigo da Confiabilidade."
+      },
+      {
+        "id": "7",
+        "question": "O que o cliente pensa quando o consultor demonstra paciência e foco no diagnóstico?",
+        "options": [
+          { "value": "a", "label": "Ele é lento." },
+          { "value": "b", "label": "Ele realmente se importa com o meu problema e está disposto a investir o tempo necessário (baixo S)." },
+          { "value": "c", "label": "Ele é incompetente." },
+          { "value": "d", "label": "Ele é muito caro." }
+        ],
+        "explanation": "A paciência é a prova de baixo 'S'.",
+        "hint": "Prova de cuidado.",
+        "correctAnswer": "b",
+        "bookExample": "A paciência é a virtude do Consultor de Confiança."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Focar Apenas no Preço'?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Transforma o relacionamento em uma transação de curto prazo, aumentando o 'S' e minando a Intimidade." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "O foco no preço é o oposto do Consultor de Confiança.",
+        "hint": "Transação.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança foca no valor, não no preço."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Investir no Relacionamento'?",
+        "options": [
+          { "value": "a", "label": "Dar presentes caros." },
+          { "value": "b", "label": "Priorizar a construção de C, R e I, mesmo que isso signifique adiar o lucro imediato." },
+          { "value": "c", "label": "Focar apenas no lucro." },
+          { "value": "d", "label": "Falar sobre o futuro." }
+        ],
+        "explanation": "O investimento é a prova de baixo 'S'.",
+        "hint": "Prova de baixo 'S'.",
+        "correctAnswer": "b",
+        "bookExample": "O relacionamento é o ativo mais valioso."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de lidar com a 'Pressa' do cliente?",
+        "options": [
+          { "value": "a", "label": "Acelerar o processo." },
+          { "value": "b", "label": "Rotular a pressa ('Parece que você está sob muita pressão de tempo') e usar perguntas calibradas para entender a causa raiz da urgência." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A pressa é um Cisne Negro que precisa ser diagnosticado.",
+        "hint": "Diagnóstico.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule a pressão."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "A Arte de Enquadrar o Problema (Framing)",
+    "teaser": "🎯 O **'Isso Mesmo'** é o Santo Graal! Saiba como resumir o problema do cliente para que ele se sinta perfeitamente compreendido.",
+    "level1": "A fase de Enquadramento (Framing) é a ponte entre a Escuta e a Solução. Envolve resumir a dor, a causa e as emoções do cliente e redefinir o problema em termos que ele concorde.",
+    "level2": "O objetivo é obter o **'Isso Mesmo'** (That's Right), que é a validação máxima da compreensão. O 'Você está certo' deve ser evitado (pode ser condescendente). O Enquadramento garante que você resolva a **causa raiz**, não o sintoma.",
+    "level3": "Ruim: 'Então o problema é que você precisa de mais vendas.' Bom: 'Parece que o problema real não é a falta de vendas, mas a incapacidade de reter clientes devido a problemas de qualidade, o que está te causando ansiedade. **Isso Mesmo?**'",
+    "recapitulation": [
+      "Enquadramento: Resumo + Validação = Alinhamento.",
+      "Objetivo: Obter o 'Isso Mesmo' (Validação máxima).",
+      "O Enquadramento deve incluir a emoção do cliente (Rotulagem Empática).",
+      "Evite 'Você está Certo' (Pode ser falso ou condescendente).",
+      "Enquadrar o Risco: Definir o problema em termos da perda que ele evitará ao agir (Aversão à Perda)."
+    ],
+    "practicalChecklist": [
+      "✅ Após a escuta, comece o resumo com uma rotulagem empática.",
+      "✅ Sempre termine o resumo com a pergunta: 'Isso Mesmo?'",
+      "✅ Se o cliente disser 'Você está certo', suspeite e use o rótulo ('Parece que há algo que te incomoda?') para cavar mais fundo.",
+      "✅ Simplifique o problema. A simplicidade é a prova de que você o entende profundamente.",
+      "✅ Enquadre a solução em termos de mitigação de perdas (Motivação mais forte do que o ganho)."
+    ],
+    "conclusionMessage": "Enquadrar o problema é resumir o que foi ouvido e redefinir o desafio em termos que o cliente concorde. Isso garante que você resolva o problema certo.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o objetivo principal da fase de Enquadramento?",
+        "options": [
+          { "value": "a", "label": "Apresentar a solução." },
+          { "value": "b", "label": "Garantir o alinhamento com o cliente sobre a definição e a causa raiz do problema." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "O alinhamento é crucial para a Credibilidade e a Confiabilidade.",
+        "hint": "Alinhamento.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode enquadrar o problema, você não pode resolvê-lo."
+      },
+      {
+        "id": "2",
+        "question": "O que o 'Isso Mesmo' (That's Right) representa na fase de Enquadramento?",
+        "options": [
+          { "value": "a", "label": "Um acordo sobre o preço." },
+          { "value": "b", "label": "A validação máxima de que o cliente se sente perfeitamente compreendido, abrindo caminho para a solução." },
+          { "value": "c", "label": "Uma concessão." },
+          { "value": "d", "label": "O fim da conversa." }
+        ],
+        "explanation": "O 'Isso Mesmo' é o Santo Graal da negociação.",
+        "hint": "Validação.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Isso Mesmo' é o Santo Graal da negociação."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de 'Resolver o Sintoma' em vez da causa raiz?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "A solução falhará, destruindo a Confiabilidade e a confiança geral." },
+          { "value": "c", "label": "Aumenta a Intimidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "O Consultor de Confiança foca na causa raiz.",
+        "hint": "Causa raiz.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança diagnostica antes de prescrever."
+      },
+      {
+        "id": "4",
+        "question": "Como a 'Rotulagem' é usada no Enquadramento?",
+        "options": [
+          { "value": "a", "label": "Para fazer uma ameaça." },
+          { "value": "b", "label": "Para integrar as emoções e restrições do cliente no resumo do problema ('Parece que o medo de X está impedindo a ação')." },
+          { "value": "c", "label": "Para falar sobre o preço." },
+          { "value": "d", "label": "Para fazer uma concessão." }
+        ],
+        "explanation": "A rotulagem garante que o enquadramento seja empático.",
+        "hint": "Empatia.",
+        "correctAnswer": "b",
+        "bookExample": "A empatia é a chave para o coração humano."
+      },
+      {
+        "id": "5",
+        "question": "O que o negociador deve fazer se o cliente disser 'Você está certo' em vez de 'Isso Mesmo'?",
+        "options": [
+          { "value": "a", "label": "Aceitar e seguir em frente." },
+          { "value": "b", "label": "Suspeitar de um 'Sim' falso e usar a rotulagem ('Parece que há algo que te incomoda') para buscar o 'Isso Mesmo'." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Você está certo' pode ser condescendente. O 'Isso Mesmo' é genuíno.",
+        "hint": "Genuinidade.",
+        "correctAnswer": "b",
+        "bookExample": "Evite 'Você está certo'. Busque 'Isso Mesmo'."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel da 'Simplicidade' no Enquadramento?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "O enquadramento deve ser conciso e fácil de entender, aumentando a Credibilidade e a clareza." },
+          { "value": "c", "label": "Aumenta a Orientação Própria." },
+          { "value": "d", "label": "Diminui a Confiabilidade." }
+        ],
+        "explanation": "A simplicidade é a prova de que você entende o problema profundamente.",
+        "hint": "Profundidade.",
+        "correctAnswer": "b",
+        "bookExample": "A simplicidade é a sofisticação máxima."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Enquadrar o Risco'?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no lucro." },
+          { "value": "b", "label": "Definir o problema em termos de perdas que o cliente evitará ao agir, usando a aversão à perda." },
+          { "value": "c", "label": "Falar sobre o futuro." },
+          { "value": "d", "label": "Fazer uma ameaça." }
+        ],
+        "explanation": "A aversão à perda é um poderoso motivador.",
+        "hint": "Aversão à perda.",
+        "correctAnswer": "b",
+        "bookExample": "O medo da perda é o maior motivador."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Enquadrar o Problema' de forma muito técnica?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Diminui a Intimidade e a clareza, pois o cliente pode não entender ou se sentir inferiorizado." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "O enquadramento deve ser acessível.",
+        "hint": "Acessibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "A Credibilidade é a arte de traduzir o complexo em simples."
+      },
+      {
+        "id": "9",
+        "question": "O que o Enquadramento ajuda a evitar na fase de Solução?",
+        "options": [
+          { "value": "a", "label": "O silêncio." },
+          { "value": "b", "label": "Apresentar uma solução que não se alinha com a percepção do cliente sobre o problema." },
+          { "value": "c", "label": "O contato visual." },
+          { "value": "d", "label": "O preço alto." }
+        ],
+        "explanation": "O Enquadramento garante a relevância da solução.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "A solução só pode vir depois da validação."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de 'Testar o Enquadramento'?",
+        "options": [
+          { "value": "a", "label": "Perguntar 'Você concorda?'" },
+          { "value": "b", "label": "Resumir o problema e perguntar 'Isso mesmo?' ou 'Eu entendi corretamente?'" },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Isso mesmo' é a prova de que o enquadramento está correto.",
+        "hint": "Prova.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Isso Mesmo' é o Santo Graal da negociação."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "O Processo de Reparo da Confiança",
+    "teaser": "🩹 A confiança será quebrada. Descubra os 4 passos para transformar uma **crise** em uma oportunidade de Intimidade profunda.",
+    "level1": "A confiança é quebrada quando há uma falha em C, R ou I, ou um pico em S. O Reparo da Confiança exige 4 passos: **Admissão** (assumir a responsabilidade), **Desculpa** (remorso e empatia), **Reparação** (corrigir o dano) e **Foco no Futuro** (plano de prevenção).",
+    "level2": "A forma como você lida com a quebra é mais importante do que a quebra em si. **Nunca minimize** o erro (alto S). A desculpa deve focar no impacto no cliente (Intimidade), e o plano de reparo deve reconstruir a Confiabilidade.",
+    "level3": "Ruim: 'Foi um pequeno erro, mas está resolvido.' Bom: 'Eu sinto muito pelo atraso. Eu entendo o impacto que isso causou na sua equipe. O que faremos para garantir que isso nunca mais aconteça?'",
+    "recapitulation": [
+      "Processo de Reparo: Admissão, Desculpa, Reparação, Foco no Futuro.",
+      "Minimizar ou Culpar Outros = Destruição Total (Alto S).",
+      "Desculpa deve ser um ato de empatia (Focar na dor do cliente).",
+      "Foco no Futuro: Envolver o cliente na solução ('Como garantiremos que isso não aconteça?').",
+      "O erro é uma oportunidade para aprofundar a Intimidade."
+    ],
+    "practicalChecklist": [
+      "✅ Se cometer um erro, admita-o imediatamente e sem ressalvas (Admissão).",
+      "✅ Use a rotulagem para validar a dor do cliente ('Parece que isso te causou muita frustração').",
+      "✅ Apresente um plano de reparação claro e proativo (Reparação e R).",
+      "✅ Use perguntas calibradas para co-criar a solução: 'Como garantiremos que isso não aconteça novamente?'",
+      "✅ Evite culpar colegas ou sistemas (Assuma a responsabilidade total)."
+    ],
+    "conclusionMessage": "A confiança será quebrada. O Consultor de Confiança sabe que o reparo é um processo que exige admissão, desculpas, reparação e foco no futuro.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o primeiro passo no Processo de Reparo da Confiança?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Admissão (reconhecer o erro e assumir a responsabilidade)." },
+          { "value": "c", "label": "Pedir desculpas." },
+          { "value": "d", "label": "Focar no futuro." }
+        ],
+        "explanation": "A admissão é a base da honestidade.",
+        "hint": "Base da honestidade.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança não é a ausência de erros, mas a forma como você lida com eles."
+      },
+      {
+        "id": "2",
+        "question": "O que a 'Desculpa' deve comunicar?",
+        "options": [
+          { "value": "a", "label": "Que o erro foi pequeno." },
+          { "value": "b", "label": "Remorso genuíno e compreensão do impacto emocional e prático que o erro causou (Intimidade)." },
+          { "value": "c", "label": "Que o erro foi culpa de outra pessoa." },
+          { "value": "d", "label": "Que você fará uma concessão." }
+        ],
+        "explanation": "A desculpa deve ser empática e focada no impacto no cliente.",
+        "hint": "Impacto.",
+        "correctAnswer": "b",
+        "bookExample": "A desculpa deve ser um ato de empatia."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de 'Minimizar' o erro?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Destrói a Intimidade e a confiança, pois o cliente sente que você não entende a gravidade da situação." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "Minimizar o erro é uma manifestação de alto 'S'.",
+        "hint": "Ego.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança não minimiza a dor."
+      },
+      {
+        "id": "4",
+        "question": "O que a fase de 'Reparação' envolve?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Corrigir o dano causado e, se possível, exceder a expectativa para reconstruir a Confiabilidade." },
+          { "value": "c", "label": "Focar no futuro." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "A reparação é a prova de que você está comprometido em corrigir o erro.",
+        "hint": "Correção.",
+        "correctAnswer": "b",
+        "bookExample": "A ação fala mais alto que as palavras."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel da 'Transparência' no reparo?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Ser transparente sobre o que deu errado e o que será feito para corrigir aumenta a Credibilidade e a Confiabilidade." },
+          { "value": "c", "label": "Aumenta a Orientação Própria." },
+          { "value": "d", "label": "Diminui a Intimidade." }
+        ],
+        "explanation": "A transparência é a prova de honestidade.",
+        "hint": "Honestidade.",
+        "correctAnswer": "b",
+        "bookExample": "A transparência é a base da Credibilidade."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Focar no Futuro' no reparo?",
+        "options": [
+          { "value": "a", "label": "Esquecer o erro." },
+          { "value": "b", "label": "Usar o erro como uma lição para implementar processos que garantam que a falha não se repita (reconstruindo a Confiabilidade)." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Fazer uma ameaça." }
+        ],
+        "explanation": "O foco no futuro é a prova de que você aprendeu com o erro.",
+        "hint": "Aprendizado.",
+        "correctAnswer": "b",
+        "bookExample": "O erro é uma oportunidade de aprendizado."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o risco de 'Culpar Outros' pelo erro?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Aumenta o 'S' percebido e destrói a confiança, pois o cliente sente que você não assume a responsabilidade." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Aumenta a Intimidade." }
+        ],
+        "explanation": "Assumir a responsabilidade é um ato de baixo 'S'.",
+        "hint": "Responsabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança assume a responsabilidade."
+      },
+      {
+        "id": "8",
+        "question": "Como a 'Vulnerabilidade Controlada' ajuda no reparo?",
+        "options": [
+          { "value": "a", "label": "Fazer o cliente se sentir mal." },
+          { "value": "b", "label": "Compartilhar como o erro afetou você (de forma controlada) para aumentar a Intimidade e a conexão." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "A vulnerabilidade é a cola da Intimidade.",
+        "hint": "Cola.",
+        "correctAnswer": "b",
+        "bookExample": "A vulnerabilidade é o atalho para a intimidade."
+      },
+      {
+        "id": "9",
+        "question": "O que o cliente precisa sentir para que o reparo seja bem-sucedido?",
+        "options": [
+          { "value": "a", "label": "Que ele ganhou uma concessão." },
+          { "value": "b", "label": "Que você entendeu a dor dele e que a falha não se repetirá (segurança)." },
+          { "value": "c", "label": "Que você é o mais inteligente." },
+          { "value": "d", "label": "Que você é o mais rápido." }
+        ],
+        "explanation": "A segurança e a compreensão são cruciais.",
+        "hint": "Segurança e compreensão.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é a ausência de medo."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de 'Garantir a Reparação'?",
+        "options": [
+          { "value": "a", "label": "Prometer o impossível." },
+          { "value": "b", "label": "Usar perguntas calibradas ('Como garantiremos que isso não aconteça novamente?') para envolver o cliente na solução." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O envolvimento do cliente na solução aumenta o comprometimento.",
+        "hint": "Envolvimento.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas apoiam o que elas ajudam a criar."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Perguntas de Diagnóstico Profundo",
+    "teaser": "🕵️‍♂️ Você não é um terapeuta, mas precisa ser um **detetive**. Perguntas abertas são a chave para o Cisne Negro (medo oculto).",
+    "level1": "Perguntas de diagnóstico são a ferramenta do Consultor de Confiança. Elas devem ir além dos sintomas e descobrir a **causa raiz**, os medos e as motivações não ditas (Cisne Negro).",
+    "level2": "Use perguntas **abertas** e focadas em 'O quê', 'Como' e 'Me conte'. Evite perguntas de 'Sim/Não'. Evite 'Por que' de forma acusatória (soam como um julgamento, aumentando o S).",
+    "level3": "Ruim: 'Você gostou da minha proposta?' Bom: 'O que você está tentando proteger ao hesitar em avançar?' ou 'Qual é o custo real (emocional e financeiro) de não resolver isso?'",
+    "recapitulation": [
+      "O Consultor de Confiança é um detetive que busca o Cisne Negro (medo/motivação oculta).",
+      "Foco: Causa Raiz, Dor da Inação e Comportamento Passado.",
+      "Perguntas de 'Sim/Não' limitam a informação e a Intimidade.",
+      "Evite 'Por que?' (Soa acusatório). Use 'O que te levou a essa decisão?'.",
+      "A pergunta final para o comprometimento: 'O que você precisa de mim para se sentir 100% confortável?'"
+    ],
+    "practicalChecklist": [
+      "✅ Use a pergunta: 'Qual é o custo real de não resolver isso?' (Motivador).",
+      "✅ Use a pergunta: 'O que você está tentando proteger?' (Revela o medo/restrição).",
+      "✅ Use a pergunta: 'Como podemos garantir que isso não aconteça novamente?' (Colaboração e R).",
+      "✅ Após uma pergunta profunda, use o silêncio e o espelhamento para extrair mais detalhes.",
+      "✅ Sempre pergunte sobre o comportamento e as ações passadas do cliente para obter dados concretos (C)."
+    ],
+    "conclusionMessage": "O Consultor de Confiança usa perguntas de diagnóstico para ir além dos sintomas e descobrir a causa raiz, os medos e as motivações do cliente.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o foco principal das perguntas de diagnóstico?",
+        "options": [
+          { "value": "a", "label": "Obter um 'Sim' rápido." },
+          { "value": "b", "label": "Descobrir a causa raiz, os medos e as motivações não ditas do cliente." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "O diagnóstico é a chave para a solução.",
+        "hint": "Causa raiz.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança é um detetive, não um pregador."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de usar perguntas de 'Sim/Não'?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Limita a informação, impede a Intimidade e não revela a complexidade do problema." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "Perguntas abertas são cruciais para a descoberta.",
+        "hint": "Limitação.",
+        "correctAnswer": "b",
+        "bookExample": "Perguntas abertas são a chave para a descoberta."
+      },
+      {
+        "id": "3",
+        "question": "O que a pergunta 'Qual é o custo real de não resolver isso?' busca revelar?",
+        "options": [
+          { "value": "a", "label": "O preço do seu serviço." },
+          { "value": "b", "label": "A dor e a urgência do problema, usando a aversão à perda para motivar a ação." },
+          { "value": "c", "label": "O prazo." },
+          { "value": "d", "label": "O produto." }
+        ],
+        "explanation": "Essa pergunta foca na dor da inação.",
+        "hint": "Dor da inação.",
+        "correctAnswer": "b",
+        "bookExample": "O medo da perda é o maior motivador."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel da 'Escuta Ativa' após uma pergunta de diagnóstico?",
+        "options": [
+          { "value": "a", "label": "Falar sobre si mesmo." },
+          { "value": "b", "label": "Usar o silêncio, espelhamento e rotulagem para extrair mais detalhes e garantir que o cliente se sinta ouvido." },
+          { "value": "c", "label": "Fazer outra pergunta." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "A escuta profunda é a prova de baixo 'S'.",
+        "hint": "Prova de baixo 'S'.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança fala menos e ouve mais."
+      },
+      {
+        "id": "5",
+        "question": "O que a pergunta 'O que você está tentando proteger?' busca revelar?",
+        "options": [
+          { "value": "a", "label": "O preço." },
+          { "value": "b", "label": "O medo ou a restrição oculta que está impedindo o acordo (Cisne Negro)." },
+          { "value": "c", "label": "O prazo." },
+          { "value": "d", "label": "O produto." }
+        ],
+        "explanation": "Essa pergunta busca o medo, que é um Cisne Negro comum.",
+        "hint": "Medo.",
+        "correctAnswer": "b",
+        "bookExample": "O medo é o maior inimigo da negociação."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de 'Perguntar Por Que' (Why)?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Pode soar acusatório e colocar o cliente na defensiva, quebrando o rapport e a Intimidade." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "Use 'O que te levou a essa decisão?' em vez de 'Por que você fez isso?'.",
+        "hint": "Acusação.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Por que' é a palavra mais perigosa na negociação."
+      },
+      {
+        "id": "7",
+        "question": "O que a pergunta 'Como podemos garantir que isso não aconteça novamente?' busca?",
+        "options": [
+          { "value": "a", "label": "Focar no passado." },
+          { "value": "b", "label": "Envolver o cliente na solução e reconstruir a Confiabilidade (foco no futuro)." },
+          { "value": "c", "label": "Fazer uma ameaça." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "O 'Como' força a colaboração e a ação.",
+        "hint": "Colaboração.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Como' é a chave para a solução."
+      },
+      {
+        "id": "8",
+        "question": "O que significa 'Perguntar sobre o Passado'?",
+        "options": [
+          { "value": "a", "label": "Focar em erros antigos." },
+          { "value": "b", "label": "Focar em comportamentos e ações passadas ('O que você fez da última vez que isso aconteceu?') para obter dados concretos (Credibilidade)." },
+          { "value": "c", "label": "Falar sobre o futuro." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "O comportamento passado é o melhor preditor do futuro.",
+        "hint": "Comportamento.",
+        "correctAnswer": "b",
+        "bookExample": "O passado é o melhor preditor do futuro."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o papel da 'Curiosidade Genuína' nas perguntas?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "É a prova de baixo 'S' e um motor para fazer perguntas de diagnóstico profundas, aumentando a Intimidade." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Aumenta a Confiabilidade." }
+        ],
+        "explanation": "A curiosidade genuína é o oposto do ego.",
+        "hint": "Oposto do ego.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança é o mais curioso da sala."
+      },
+      {
+        "id": "10",
+        "question": "O que a pergunta 'O que você precisa de mim para se sentir 100% confortável?' busca?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Revelar a objeção oculta ou o Cisne Negro que está impedindo o comprometimento total." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Essa pergunta busca o Cisne Negro final.",
+        "hint": "Cisne Negro.",
+        "correctAnswer": "b",
+        "bookExample": "O conforto é a chave para o comprometimento."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "De Fornecedor a Consultor de Confiança",
+    "teaser": "👑 Quer sair da briga por preço? Deixe de ser um **custo** (fornecedor) e torne-se um **investimento** (consultor).",
+    "level1": "O Fornecedor é transacional (curto prazo, alto S) e visto como um custo. O Consultor de Confiança é estratégico (longo prazo, baixo S) e visto como um investimento. A transição exige uma mudança de mentalidade e a maximização consistente de C, R e I.",
+    "level2": "O Consultor se torna **indispensável** ao oferecer insights que o cliente não tinha (Credibilidade) e ao focar no sucesso de longo prazo do cliente (Baixo S). Ele é o primeiro a ser chamado em uma crise, não o último a ser cotado.",
+    "level3": "Fornecedor: 'Aqui está o preço do meu produto.' Consultor de Confiança: 'Antes de falarmos sobre o preço, vamos garantir que estamos resolvendo o problema certo. Qual é o custo real de não resolver isso?'",
+    "recapitulation": [
+      "Fornecedor: Custo, Transacional, Alto S, Foco no Produto.",
+      "Consultor de Confiança: Investimento, Estratégico, Baixo S, Foco no Cliente.",
+      "A transição exige Intimidade e Coragem de Desafiar.",
+      "O Consultor adia a discussão de preço até que o valor (diagnóstico) seja estabelecido.",
+      "Indispensável: Ser o primeiro a ser chamado em um problema complexo."
+    ],
+    "practicalChecklist": [
+      "✅ Adie a discussão de preço o máximo possível, focando no diagnóstico (Valor).",
+      "✅ Demonstre a coragem de dar conselhos impopulares (Seja um 'Desafiador').",
+      "✅ Fale mais sobre o contexto de mercado do cliente do que sobre seu próprio produto (Insight).",
+      "✅ Priorize a resolução do problema do cliente, mesmo que isso signifique perder a venda imediata.",
+      "✅ Use a Escuta Ativa para revelar a estratégia do cliente (Parceria)."
+    ],
+    "conclusionMessage": "A transição de fornecedor (transacional) para Consultor de Confiança (estratégico) exige a maximização de C, R e I, e a minimização de S.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal diferença entre um Fornecedor e um Consultor de Confiança?",
+        "options": [
+          { "value": "a", "label": "O preço." },
+          { "value": "b", "label": "O Fornecedor é transacional (curto prazo, alto S); o Consultor é estratégico (longo prazo, baixo S)." },
+          { "value": "c", "label": "A Credibilidade." },
+          { "value": "d", "label": "A Confiabilidade." }
+        ],
+        "explanation": "A mentalidade e o foco no tempo definem a diferença.",
+        "hint": "Mentalidade.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança é um parceiro, não um fornecedor."
+      },
+      {
+        "id": "2",
+        "question": "Como o Consultor de Confiança lida com a 'Cotação de Preço'?",
+        "options": [
+          { "value": "a", "label": "Ele dá o preço imediatamente." },
+          { "value": "b", "label": "Ele adia a discussão de preço até que o diagnóstico e o enquadramento do problema estejam completos, focando no valor, não no custo." },
+          { "value": "c", "label": "Ele dá um desconto." },
+          { "value": "d", "label": "Ele fala sobre o futuro." }
+        ],
+        "explanation": "O preço só é relevante após o valor ter sido estabelecido.",
+        "hint": "Valor.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança foca no valor, não no preço."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'Ser Indispensável'?",
+        "options": [
+          { "value": "a", "label": "Ser o mais caro." },
+          { "value": "b", "label": "Ser o primeiro a ser chamado quando o cliente tem um problema complexo, devido à sua Credibilidade e Intimidade." },
+          { "value": "c", "label": "Ser o mais rápido." },
+          { "value": "d", "label": "Ser o mais gentil." }
+        ],
+        "explanation": "A indispensabilidade é o resultado de alta confiança.",
+        "hint": "Primeiro a ser chamado.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança é aquele que o cliente liga primeiro."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel do 'Insight' na transição de status?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Oferecer insights originais e perspectivas que o cliente não considerou (Credibilidade) é o que o diferencia de um fornecedor." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Aumenta a Intimidade." }
+        ],
+        "explanation": "O valor do consultor está na sua capacidade de pensar criticamente.",
+        "hint": "Visão original.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança oferece insights, não apenas dados."
+      },
+      {
+        "id": "5",
+        "question": "Como o Consultor de Confiança lida com a 'Competição'?",
+        "options": [
+          { "value": "a", "label": "Ele ataca a concorrência." },
+          { "value": "b", "label": "Ele foca em construir a confiança (C, R, I) e reduzir o 'S', tornando a concorrência irrelevante." },
+          { "value": "c", "label": "Ele dá um desconto." },
+          { "value": "d", "label": "Ele fala sobre o preço." }
+        ],
+        "explanation": "A confiança é o diferencial competitivo.",
+        "hint": "Diferencial.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é o diferencial competitivo mais poderoso."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Ser um Desafiador' (Challenger)?",
+        "options": [
+          { "value": "a", "label": "Ser agressivo." },
+          { "value": "b", "label": "Ter a coragem de desafiar as suposições do cliente ou apresentar fatos impopulares (Credibilidade)." },
+          { "value": "c", "label": "Focar apenas em elogios." },
+          { "value": "d", "label": "Fazer uma ameaça." }
+        ],
+        "explanation": "O Consultor de Confiança não é um 'sim-man'.",
+        "hint": "Coragem intelectual.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança não é um 'sim-man'."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Vulnerabilidade Controlada' na transição?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Aumenta a Intimidade, permitindo que o cliente veja o consultor como um ser humano, não apenas como uma máquina de soluções." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Aumenta a Confiabilidade." }
+        ],
+        "explanation": "A Intimidade é a cola da confiança.",
+        "hint": "Cola.",
+        "correctAnswer": "b",
+        "bookExample": "A vulnerabilidade é o atalho para a intimidade."
+      },
+      {
+        "id": "8",
+        "question": "O que o cliente precisa sentir para que a transição seja bem-sucedida?",
+        "options": [
+          { "value": "a", "label": "Que o consultor é o mais barato." },
+          { "value": "b", "label": "Que o consultor se importa mais com o sucesso dele do que com o próprio lucro (baixo S)." },
+          { "value": "c", "label": "Que o consultor é o mais rápido." },
+          { "value": "d", "label": "Que o consultor é o mais inteligente." }
+        ],
+        "explanation": "O baixo 'S' é a prova de que o foco está no cliente.",
+        "hint": "Foco no cliente.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não se importa com o quanto você sabe, até saber o quanto você se importa."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Ser um Pensador, não um Executor'?",
+        "options": [
+          { "value": "a", "label": "Focar apenas na Confiabilidade." },
+          { "value": "b", "label": "Priorizar o diagnóstico, a estratégia e o insight (Credibilidade) em vez da execução de tarefas (Confiabilidade)." },
+          { "value": "c", "label": "Focar apenas na Intimidade." },
+          { "value": "d", "label": "Focar apenas no preço." }
+        ],
+        "explanation": "O Consultor de Confiança é um pensador estratégico.",
+        "hint": "Estratégia.",
+        "correctAnswer": "b",
+        "bookExample": "Confiabilidade sem Credibilidade leva ao status de 'fazedor de tarefas'."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de 'Manter o Status' de Consultor de Confiança?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Aplicação consistente da Equação da Confiança, especialmente mantendo o 'S' baixo e investindo em Intimidade." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A consistência é a chave para a manutenção.",
+        "hint": "Consistência.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é um investimento contínuo."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "A Importância de 'Estar Presente'",
+    "teaser": "🧘 Você é a coisa mais importante na sala? A **presença total** é um ato de respeito que anula o ruído do 'S'.",
+    "level1": "Estar presente (Being Present) é a manifestação física e mental de baixo 'S'. Significa focar 100% no cliente, sem distrações (celular, laptop). Isso é crucial para a Intimidade e para o cliente sentir que o tempo dele é valioso.",
+    "level2": "A multitarefa ou a distração é percebida como **desrespeito** e alto 'S' ('Minha agenda é mais importante que a sua'). A Presença total é um ato de respeito profundo que exige suspensão do julgamento e da pressa.",
+    "level3": "Ruim: Olhar o celular ou responder a um e-mail discreto durante a reunião. Bom: Manter o contato visual, usar o silêncio após uma fala importante e usar o espelhamento para mostrar que você está processando o que foi dito.",
+    "recapitulation": [
+      "Presença Total = Baixo S + Alto Respeito.",
+      "Multitarefa = Alto S e Destruição da Intimidade.",
+      "O Contato Visual e o Silêncio são provas de Presença.",
+      "Suspender o Julgamento: Ouvir sem formular uma resposta imediata (Baixo S).",
+      "O Consultor de Confiança é um 'Recipiente' (Container) que absorve a ansiedade do cliente."
+    ],
+    "practicalChecklist": [
+      "✅ Desligue o celular e feche o laptop antes de cada interação (Remova distrações).",
+      "✅ Mantenha o contato visual para sinalizar foco e honestidade (I).",
+      "✅ Use o silêncio após uma fala do cliente (Incentiva a se aprofundar).",
+      "✅ Use o espelhamento ('Parece que você está dizendo...') para provar que você está ouvindo ativamente.",
+      "✅ Defina a intenção da reunião antes de começar ('Qual é o nosso objetivo hoje?')."
+    ],
+    "conclusionMessage": "Estar presente é um ato de respeito e um construtor de Intimidade. Significa focar 100% no cliente, sem distrações.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que a 'Presença Total' comunica ao cliente?",
+        "options": [
+          { "value": "a", "label": "Alta Credibilidade." },
+          { "value": "b", "label": "Baixa Orientação Própria (S) e alto respeito pelo tempo e problema do cliente." },
+          { "value": "c", "label": "Alta Confiabilidade." },
+          { "value": "d", "label": "Que você está entediado." }
+        ],
+        "explanation": "A presença é a forma mais profunda de respeito.",
+        "hint": "Respeito.",
+        "correctAnswer": "b",
+        "bookExample": "A presença é a forma mais profunda de respeito."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de 'Multitarefa' durante uma interação com o cliente?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Aumenta o 'S' percebido, quebra a Intimidade e faz o cliente sentir que o tempo dele não é valioso." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "A multitarefa é o oposto da presença.",
+        "hint": "Oposto da presença.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança não faz multitarefas."
+      },
+      {
+        "id": "3",
+        "question": "Como o 'Contato Visual' contribui para a Intimidade?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Sinaliza foco, honestidade e interesse genuíno, aumentando a segurança emocional." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Aumenta a Confiabilidade." }
+        ],
+        "explanation": "O contato visual é um sinal de Intimidade.",
+        "hint": "Sinal de Intimidade.",
+        "correctAnswer": "b",
+        "bookExample": "Os olhos são a janela da alma."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Suspender o Julgamento' para estar presente?",
+        "options": [
+          { "value": "a", "label": "Concordar com tudo." },
+          { "value": "b", "label": "Ouvir a perspectiva do cliente sem formular uma resposta ou julgamento imediato, focando apenas na compreensão." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "O julgamento é uma manifestação de alto 'S'.",
+        "hint": "Ego.",
+        "correctAnswer": "b",
+        "bookExample": "A Intimidade exige a suspensão do julgamento."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel do 'Silêncio' na Presença?",
+        "options": [
+          { "value": "a", "label": "Sinalizar tédio." },
+          { "value": "b", "label": "Permitir que o cliente preencha o vazio, revelando informações mais profundas, e demonstrar que você está processando o que foi dito." },
+          { "value": "c", "label": "Aumentar a Credibilidade." },
+          { "value": "d", "label": "Aumentar a Confiabilidade." }
+        ],
+        "explanation": "O silêncio é uma ferramenta poderosa para aprofundar a Intimidade.",
+        "hint": "Aprofundamento.",
+        "correctAnswer": "b",
+        "bookExample": "O silêncio é seu amigo. Use-o."
+      },
+      {
+        "id": "6",
+        "question": "O que o cliente pensa quando o consultor está 'Distraído'?",
+        "options": [
+          { "value": "a", "label": "Ele é muito ocupado." },
+          { "value": "b", "label": "Ele não se importa com o meu problema ou está focado em algo mais importante (alto S)." },
+          { "value": "c", "label": "Ele é muito confiável." },
+          { "value": "d", "label": "Ele é muito íntimo." }
+        ],
+        "explanation": "A distração é percebida como desrespeito.",
+        "hint": "Desrespeito.",
+        "correctAnswer": "b",
+        "bookExample": "A distração é o inimigo da confiança."
+      },
+      {
+        "id": "7",
+        "question": "Como a 'Escuta Ativa' se manifesta na Presença?",
+        "options": [
+          { "value": "a", "label": "Falar sobre si mesmo." },
+          { "value": "b", "label": "Usar o espelhamento e a rotulagem para provar que você está ouvindo e processando a informação." },
+          { "value": "c", "label": "Fazer outra pergunta." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "A Escuta Ativa é a prova de Presença.",
+        "hint": "Prova.",
+        "correctAnswer": "b",
+        "bookExample": "Ouvir é a forma mais profunda de respeito."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Apressar' a conversa?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Aumenta o 'S' percebido e impede a construção de Intimidade, pois o cliente sente que você está focado em sua própria agenda." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "A pressa é o oposto da Presença.",
+        "hint": "Oposto da Presença.",
+        "correctAnswer": "b",
+        "bookExample": "A pressa é o inimigo da confiança."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Ser um Recipiente' (Container)?",
+        "options": [
+          { "value": "a", "label": "Fazer uma ameaça." },
+          { "value": "b", "label": "Estar disposto a absorver as emoções e a ansiedade do cliente sem reagir ou julgar, mantendo a calma e a Presença." },
+          { "value": "c", "label": "Focar no lucro." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "O Consultor de Confiança é um porto seguro emocional.",
+        "hint": "Porto seguro.",
+        "correctAnswer": "b",
+        "bookExample": "A calma é contagiosa."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de 'Garantir a Presença'?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Definir a intenção da reunião, desligar as distrações e usar a escuta ativa para manter o foco no cliente." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A intenção e a remoção de distrações são cruciais.",
+        "hint": "Intenção.",
+        "correctAnswer": "b",
+        "bookExample": "A Presença é uma escolha, não um acidente."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Gerenciando Expectativas e o Risco de Surpresa",
+    "teaser": "🌪️ Surpresa é o inimigo da **Confiabilidade**. Descubra como a comunicação proativa te torna uma 'rocha' para o cliente.",
+    "level1": "A Confiabilidade (R) é minada pela **surpresa**. A fórmula é: $\\text{Confiabilidade} = \\text{Entrega} - \\text{Expectativa}$. Gerenciar expectativas proativamente é definir o escopo, os prazos e os riscos claramente.",
+    "level2": "O Consultor de Confiança usa a **Comunicação Proativa**. Se houver um desvio (atraso, problema), ele comunica a notícia *antes* que o cliente descubra, demonstrando controle e respeito. Isso aumenta a Confiabilidade percebida.",
+    "level3": "Ruim: Deixar o cliente descobrir o atraso do projeto no dia da entrega. Bom: Enviar um e-mail na segunda-feira avisando: 'Identificamos um risco de atraso de 24 horas. Aqui está o novo plano para mitigar o impacto.'",
+    "recapitulation": [
+      "Fator que destrói a R: Surpresa.",
+      "Comunicação Proativa: Falar sobre o problema antes que o cliente pergunte.",
+      "Underpromise and Overdeliver (Prometa menos, entregue mais).",
+      "Definir o Escopo claramente evita 'desvios de escopo' (scope creep).",
+      "Revisão regular das expectativas: Evita que objeções ocultas se transformem em Cisnes Negros."
+    ],
+    "practicalChecklist": [
+      "✅ Documente o escopo, os prazos e os resultados esperados no início (R).",
+      "✅ Sempre comunique riscos e problemas ANTES que o cliente descubra (Proatividade).",
+      "✅ Use o 'Prometa Menos, Entregue Mais' como regra operacional.",
+      "✅ Use a pergunta calibrada: 'Como podemos lidar com este desvio sem comprometer o prazo?' (Scope Creep).",
+      "✅ Não assuma que o cliente está feliz; pergunte e rotule as preocupações ocultas."
+    ],
+    "conclusionMessage": "A Confiabilidade é a diferença entre a expectativa e a realidade. Gerenciar expectativas proativamente é a chave para a Confiabilidade.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que a 'Surpresa' faz com a Confiabilidade?",
+        "options": [
+          { "value": "a", "label": "Aumenta." },
+          { "value": "b", "label": "Diminui drasticamente, pois quebra a previsibilidade e a sensação de controle do cliente." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Aumenta a Intimidade." }
+        ],
+        "explanation": "A surpresa é o inimigo da Confiabilidade.",
+        "hint": "Inimigo.",
+        "correctAnswer": "b",
+        "bookExample": "A surpresa é o inimigo da Confiabilidade."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Comunicação Proativa' na gestão de expectativas?",
+        "options": [
+          { "value": "a", "label": "Falar sobre o futuro." },
+          { "value": "b", "label": "Informar o cliente sobre o status, os riscos e os desvios antes que ele precise perguntar." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "A proatividade demonstra controle e respeito.",
+        "hint": "Controle.",
+        "correctAnswer": "b",
+        "bookExample": "A comunicação proativa é a prova de que você está no controle."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de 'Superprometer' para agradar o cliente?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Garante a falha na entrega e a quebra da Confiabilidade, pois a expectativa é irreal." },
+          { "value": "c", "label": "Aumenta a Intimidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "Superprometer é uma manifestação de alto 'S'.",
+        "hint": "Ego.",
+        "correctAnswer": "b",
+        "bookExample": "Prometa menos, entregue mais."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Definir o Escopo' claramente?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "Estabelecer limites claros sobre o que será e o que não será entregue, evitando 'desvios de escopo' (scope creep)." },
+          { "value": "c", "label": "Falar sobre o futuro." },
+          { "value": "d", "label": "Fazer uma ameaça." }
+        ],
+        "explanation": "O escopo claro é a base da Confiabilidade.",
+        "hint": "Limites.",
+        "correctAnswer": "b",
+        "bookExample": "O escopo é a base da Confiabilidade."
+      },
+      {
+        "id": "5",
+        "question": "Como a 'Transparência' sobre os desafios ajuda a Confiabilidade?",
+        "options": [
+          { "value": "a", "label": "Diminui a Credibilidade." },
+          { "value": "b", "label": "Ao ser transparente sobre os obstáculos, você gerencia a expectativa e demonstra que está no controle da situação." },
+          { "value": "c", "label": "Aumenta a Orientação Própria." },
+          { "value": "d", "label": "Diminui a Intimidade." }
+        ],
+        "explanation": "A transparência é a prova de honestidade e controle.",
+        "hint": "Controle.",
+        "correctAnswer": "b",
+        "bookExample": "A honestidade é a base da Credibilidade."
+      },
+      {
+        "id": "6",
+        "question": "O que o cliente pensa quando o consultor comunica um problema proativamente?",
+        "options": [
+          { "value": "a", "label": "Ele é incompetente." },
+          { "value": "b", "label": "Ele é um parceiro confiável que me mantém informado e está no controle da situação." },
+          { "value": "c", "label": "Ele é muito caro." },
+          { "value": "d", "label": "Ele é muito lento." }
+        ],
+        "explanation": "A proatividade constrói a imagem de parceiro.",
+        "hint": "Parceiro.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança é um parceiro, não um fornecedor."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Documentação' na Confiabilidade?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Documentar o escopo, os prazos e as decisões garante que haja um registro claro das expectativas, evitando mal-entendidos." },
+          { "value": "c", "label": "Aumenta a Orientação Própria." },
+          { "value": "d", "label": "Diminui a Credibilidade." }
+        ],
+        "explanation": "A documentação é a prova de Confiabilidade.",
+        "hint": "Prova.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança documenta o acordo."
+      },
+      {
+        "id": "8",
+        "question": "O que significa 'Revisar as Expectativas' regularmente?",
+        "options": [
+          { "value": "a", "label": "Mudar o escopo." },
+          { "value": "b", "label": "Verificar se o cliente ainda está alinhado com o plano e se as restrições mudaram, ajustando o curso proativamente." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "A revisão regular evita surpresas de longo prazo.",
+        "hint": "Ajuste.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é um investimento contínuo."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Assumir' que o cliente está feliz?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Aumenta o risco de surpresa e falha na execução, pois as objeções ocultas não foram resolvidas." },
+          { "value": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "Nunca presuma. Sempre pergunte e rotule.",
+        "hint": "Presunção.",
+        "correctAnswer": "b",
+        "bookExample": "A negociação é um processo de eliminação de suposições."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de lidar com um 'Desvio de Escopo' (Scope Creep)?",
+        "options": [
+          { "value": "a", "label": "Aceitar o trabalho extra." },
+          { "value": "b", "label": "Rotular o desvio ('Parece que isso é um novo requisito') e usar perguntas calibradas ('Como podemos integrar isso sem comprometer o prazo original?')." },
+          { "value": "c", "label": "Fazer uma ameaça." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Como' força a colaboração na gestão do escopo.",
+        "hint": "Colaboração.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Como' é a chave para a solução."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "A Escada da Confiança: De Estranho a Conselheiro",
+    "teaser": "🪜 Mova seu cliente de 'custo' para **'conselho'**. Entenda a progressão do relacionamento e como subir cada degrau.",
+    "level1": "A Escada da Confiança descreve a progressão do relacionamento em estágios: Estranho, Fornecedor, Parceiro e, finalmente, Consultor de Confiança (Conselheiro). Cada estágio exige um nível mais alto de C, R e I, e um 'S' consistentemente baixo.",
+    "level2": "O salto de **Fornecedor** (focado em tarefas) para **Parceiro** (focado em estratégia) exige um aumento significativo da Intimidade e do baixo 'S'. O **Consultor de Confiança** é aquele que tem a autoridade de dar conselhos desafiadores e impopulares.",
+    "level3": "Fornecedor: É cotado com a concorrência. Consultor de Confiança: É o primeiro a ser chamado em uma crise e o cliente aceita seu conselho sem questionamento, mesmo que seja impopular.",
+    "recapitulation": [
+      "Estágios: Estranho → Fornecedor → Parceiro → Consultor de Confiança.",
+      "Fornecedor é validado por C e R básicas (Entrega de Tarefas).",
+      "Parceiro é validado por I e Baixo S (Conexão e Estratégia).",
+      "O Consultor de Confiança (Conselheiro) é o estágio de Confiança Incondicional.",
+      "O risco de 'Apressar a Escada' é construir a confiança em bases frágeis (Alto S)."
+    ],
+    "practicalChecklist": [
+      "✅ Identifique em qual estágio da Escada seu cliente está hoje.",
+      "✅ Para ir de Fornecedor a Parceiro, use mais Escuta Ativa e Empatia (Foque em I).",
+      "✅ Comece a dar pequenos conselhos desafiadores para testar a Credibilidade.",
+      "✅ Nunca se defenda como Consultor de Confiança; apenas diagnostique.",
+      "✅ Busque um 'Patrocinador' interno: alguém que defenda e promova você internamente (Prova de confiança incondicional)."
+    ],
+    "conclusionMessage": "A confiança é construída em estágios, movendo o cliente de 'Estranho' para 'Fornecedor', 'Parceiro' e, finalmente, 'Consultor de Confiança'.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o estágio mais baixo na Escada da Confiança?",
+        "options": [
+          { "value": "a", "label": "Parceiro." },
+          { "value": "b", "label": "Estranho (confiança zero)." },
+          { "value": "c", "label": "Fornecedor." },
+          { "value": "d", "label": "Consultor de Confiança." }
+        ],
+        "explanation": "O Estranho é o ponto de partida.",
+        "hint": "Ponto de partida.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança começa em zero."
+      },
+      {
+        "id": "2",
+        "question": "O que é necessário para mover o cliente de 'Estranho' para 'Fornecedor'?",
+        "options": [
+          { "value": "a", "label": "Alta Intimidade." },
+          { "value": "b", "label": "Demonstração inicial de Credibilidade (expertise) e Confiabilidade (entrega básica)." },
+          { "value": "c", "label": "Baixa Orientação Própria." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "O Fornecedor é validado pela competência básica.",
+        "hint": "Competência básica.",
+        "correctAnswer": "b",
+        "bookExample": "O Fornecedor é validado pela entrega."
+      },
+      {
+        "id": "3",
+        "question": "Qual fator é crucial para a transição de 'Fornecedor' para 'Parceiro'?",
+        "options": [
+          { "value": "a", "label": "Aumento da Credibilidade." },
+          { "value": "b", "label": "Aumento da Intimidade e redução consistente da Orientação Própria (S)." },
+          { "value": "c", "label": "Aumento da Confiabilidade." },
+          { "value": "d", "label": "Focar apenas no preço." }
+        ],
+        "explanation": "O Parceiro é definido pela conexão emocional e pelo foco no cliente.",
+        "hint": "Conexão emocional.",
+        "correctAnswer": "b",
+        "bookExample": "O Parceiro é definido pela Intimidade."
+      },
+      {
+        "id": "4",
+        "question": "O que o 'Consultor de Confiança' pode fazer que os outros estágios não podem?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Dar conselhos estratégicos e desafiadores que o cliente aceita sem questionamento, mesmo que sejam impopulares." },
+          { "value": "c", "label": "Focar apenas no lucro." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "O Consultor de Confiança tem a autoridade de desafiar o status quo.",
+        "hint": "Autoridade.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança é aquele que o cliente liga primeiro."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Permanecer' no estágio de Fornecedor?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "O relacionamento é transacional, vulnerável à competição de preço e não estratégico." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "O Fornecedor é facilmente substituível.",
+        "hint": "Substituível.",
+        "correctAnswer": "b",
+        "bookExample": "O Fornecedor é visto como um custo."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Ser um Patrocinador' (Sponsor) no topo da escada?",
+        "options": [
+          { "value": "a", "label": "Dar dinheiro." },
+          { "value": "b", "label": "O cliente defende e promove o consultor internamente, assumindo o risco de Credibilidade por ele." },
+          { "value": "c", "label": "Focar apenas no lucro." },
+          { "value": "d", "label": "Falar sobre o futuro." }
+        ],
+        "explanation": "O Patrocinador é a prova de confiança incondicional.",
+        "hint": "Defesa.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança tem patrocinadores internos."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Escuta Ativa' na transição de Fornecedor para Parceiro?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A Escuta Ativa e a empatia tática são cruciais para construir a Intimidade necessária para a transição." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Aumenta a Confiabilidade." }
+        ],
+        "explanation": "A Intimidade é construída na Escuta.",
+        "hint": "Escuta.",
+        "correctAnswer": "b",
+        "bookExample": "Ouvir é a forma mais profunda de respeito."
+      },
+      {
+        "id": "8",
+        "question": "O que o Consultor de Confiança faz em momentos de crise?",
+        "options": [
+          { "value": "a", "label": "Foge." },
+          { "value": "b", "label": "Mantém a calma, oferece clareza (Credibilidade) e age com consistência (Confiabilidade), minimizando o 'S'." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A crise é o teste final da confiança.",
+        "hint": "Teste final.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é mais valiosa em tempos de crise."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Ser um Pensador Estratégico' no topo da escada?",
+        "options": [
+          { "value": "a", "label": "Focar apenas em tarefas." },
+          { "value": "b", "label": "Focar em problemas de alto nível, no futuro do cliente e em como o negócio dele se encaixa no mercado (Credibilidade)." },
+          { "value": "c", "label": "Focar apenas no preço." },
+          { "value": "d", "label": "Focar apenas na Intimidade." }
+        ],
+        "explanation": "O Consultor de Confiança é um estrategista.",
+        "hint": "Estratégia.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança foca no futuro."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o risco de 'Apressar a Escada'?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Aumenta o 'S' percebido e a confiança é construída em bases frágeis, levando à quebra." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "A confiança é um processo lento e gradual.",
+        "hint": "Lentidão.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é construída em incrementos."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "O Papel da Vulnerabilidade e da Reciprocidade",
+    "teaser": "🤝 A cola da Intimidade. Use a **vulnerabilidade controlada** para quebrar o gelo e criar uma conexão autêntica.",
+    "level1": "A Intimidade é desbloqueada pelo princípio da **Reciprocidade**: se você se abre, o cliente se sente compelido a se abrir também. O Consultor de Confiança usa a 'Vulnerabilidade Controlada' para iniciar esse processo.",
+    "level2": "A vulnerabilidade deve ser **tática**, não terapêutica. Compartilhe uma falha ou lição aprendida *relevante e de baixo risco* para o problema do cliente. Isso aumenta a Intimidade e a Credibilidade (Você aprendeu com o erro).",
+    "level3": "Ruim: Falar sobre seus problemas pessoais ou financeiros. Bom: 'Eu cometi um erro semelhante no passado, e o que aprendi foi X. Isso ressoa com o que você está enfrentando?'",
+    "recapitulation": [
+      "Vulnerabilidade Controlada = Gatilho de Reciprocidade (Aumenta I).",
+      "Deve ser tática, relevante para a lição, e de baixo risco.",
+      "Vulnerabilidade Excessiva destrói a Credibilidade e a Confiabilidade.",
+      "Rotular a Vulnerabilidade do cliente é um ato de Empatia profunda ('Parece que isso é difícil de compartilhar').",
+      "A vulnerabilidade é a prova de que você é um ser humano, não uma máquina de soluções."
+    ],
+    "practicalChecklist": [
+      "✅ Prepare uma história de 'lição aprendida' relevante para o cliente antes da reunião.",
+      "✅ Compartilhe a lição, não o drama (Foque no insight, não na falha).",
+      "✅ Mantenha a discrição inabalável sobre as informações confidenciais do cliente.",
+      "✅ Rotule a vulnerabilidade do cliente quando ele se abrir.",
+      "✅ Não use a vulnerabilidade para buscar simpatia, mas para construir conexão."
+    ],
+    "conclusionMessage": "A vulnerabilidade controlada do consultor é a chave para desbloquear a Intimidade, através do princípio da reciprocidade.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que a 'Vulnerabilidade Controlada' busca acionar no cliente?",
+        "options": [
+          { "value": "a", "label": "Agressividade." },
+          { "value": "b", "label": "Reciprocidade (o desejo de se abrir em troca)." },
+          { "value": "c", "label": "Medo." },
+          { "value": "d", "label": "Tédio." }
+        ],
+        "explanation": "A reciprocidade é o motor da Intimidade.",
+        "hint": "Motor da Intimidade.",
+        "correctAnswer": "b",
+        "bookExample": "A vulnerabilidade é a cola da confiança."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de 'Vulnerabilidade Excessiva'?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Intimidade." },
+          { "value": "b", "label": "Diminui a Credibilidade e a Confiabilidade, pois o consultor parece instável ou focado em seus próprios problemas (alto S)." },
+          { "value": "c", "label": "Aumenta a Orientação Própria." },
+          { "value": "d", "label": "Diminui a Confiabilidade." }
+        ],
+        "explanation": "A vulnerabilidade deve ser controlada e relevante.",
+        "hint": "Instabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "A vulnerabilidade deve ser tática, não terapêutica."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'Compartilhar uma Lição Aprendida'?",
+        "options": [
+          { "value": "a", "label": "Focar no erro." },
+          { "value": "b", "label": "Focar no insight e na solução que surgiu do erro, aumentando a Credibilidade e a Intimidade." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "O foco deve ser no aprendizado, não na falha.",
+        "hint": "Aprendizado.",
+        "correctAnswer": "b",
+        "bookExample": "O erro é uma oportunidade de aprendizado."
+      },
+      {
+        "id": "4",
+        "question": "Como a 'Vulnerabilidade Controlada' ajuda a reduzir o 'S' percebido?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Demonstra humildade e foco no cliente (a lição é para ele), reduzindo a percepção de egoísmo." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Aumenta a Intimidade." }
+        ],
+        "explanation": "A humildade é o oposto do ego.",
+        "hint": "Humildade.",
+        "correctAnswer": "b",
+        "bookExample": "O conhecimento sem humildade é inútil."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Fingir Vulnerabilidade'?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Intimidade." },
+          { "value": "b", "label": "O cliente percebe a falsidade, o que destrói a confiança de forma permanente e aumenta o 'S'." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "A Intimidade deve ser genuína.",
+        "hint": "Falsidade.",
+        "correctAnswer": "b",
+        "bookExample": "A Intimidade falsa é pior do que a ausência de Intimidade."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Ser um Ser Humano' na negociação?",
+        "options": [
+          { "value": "a", "label": "Focar apenas em emoções." },
+          { "value": "b", "label": "Permitir que o cliente veja suas falhas e lições aprendidas, construindo uma conexão autêntica (Intimidade)." },
+          { "value": "c", "label": "Focar apenas na lógica." },
+          { "value": "d", "label": "Fazer uma ameaça." }
+        ],
+        "explanation": "A autenticidade é a chave para a Intimidade.",
+        "hint": "Autenticidade.",
+        "correctAnswer": "b",
+        "bookExample": "A autenticidade é a base da confiança."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Confidencialidade' na Vulnerabilidade?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A garantia de confidencialidade é o que permite que o cliente se sinta seguro para ser vulnerável (Intimidade)." },
+          { "value": "c", "label": "Aumenta a Credibilidade." },
+          { "value": "d", "label": "Aumenta a Confiabilidade." }
+        ],
+        "explanation": "A confidencialidade é a prova de que o risco é baixo.",
+        "hint": "Risco.",
+        "correctAnswer": "b",
+        "bookExample": "A Intimidade é a confiança que você não usará a informação contra mim."
+      },
+      {
+        "id": "8",
+        "question": "O que o cliente pensa quando o consultor compartilha uma falha controlada?",
+        "options": [
+          { "value": "a", "label": "Ele é incompetente." },
+          { "value": "b", "label": "Ele é humano, eu posso me relacionar com ele, e ele aprendeu com o erro (aumenta I e C)." },
+          { "value": "c", "label": "Ele é muito caro." },
+          { "value": "d", "label": "Ele é muito lento." }
+        ],
+        "explanation": "A vulnerabilidade controlada aumenta a conexão e a Credibilidade.",
+        "hint": "Conexão.",
+        "correctAnswer": "b",
+        "bookExample": "A vulnerabilidade é o atalho para a intimidade."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Rotular a Vulnerabilidade' do cliente?",
+        "options": [
+          { "value": "a", "label": "Fazer uma ameaça." },
+          { "value": "b", "label": "Verbalizar o risco que ele está correndo ('Parece que isso é difícil de compartilhar') para validar a emoção e aprofundar a Intimidade." },
+          { "value": "Focar no lucro." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "A rotulagem da vulnerabilidade é um ato de empatia profunda.",
+        "hint": "Empatia.",
+        "correctAnswer": "b",
+        "bookExample": "Dê nome ao medo, e ele perde o poder."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de 'Manter a Intimidade' após a vulnerabilidade?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Manter a discrição e continuar a Escuta Ativa, focando no problema do cliente (baixo S)." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A discrição e o baixo 'S' são cruciais para a manutenção.",
+        "hint": "Discrição.",
+        "correctAnswer": "b",
+        "bookExample": "A Intimidade é construída em silêncio e confidencialidade."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "A Crise de Confiança e o Teste Final",
+    "teaser": "🔥 O teste de fogo. A crise não destrói a confiança; ela a **redefine**. Sua reação revela quem você realmente é.",
+    "level1": "A Crise de Confiança é o teste final do seu 'S'. Ela ocorre quando há uma falha grave. Nesses momentos, o cliente está mais vulnerável. O Consultor de Confiança mantém a calma, assume a responsabilidade total (Baixo S) e aplica o Processo de Reparo.",
+    "level2": "A crise é uma **oportunidade** para aprofundar a confiança, se você a lidar com empatia e integridade. O cliente precisa sentir que você é humano, que assumiu a responsabilidade e que é mais forte por causa do erro.",
+    "level3": "Ruim: Defender-se, culpar a equipe interna. Bom: Usar a rotulagem para validar a raiva ('Parece que você está furioso com a situação') e apresentar um plano de reparação com perguntas calibradas ('Como garantiremos que isso não aconteça novamente?').",
+    "recapitulation": [
+      "Crise = Teste Final do 'S' (Revela o Caráter).",
+      "Nunca se defenda ou culpe outros (Alto S).",
+      "Use Empatia Tática para neutralizar a emoção (Rotular a Raiva).",
+      "A crise é uma oportunidade para aprofundar a Intimidade e o Baixo S.",
+      "O reparo exige Admissão, Desculpa, Reparação e Co-criação da Prevenção."
+    ],
+    "practicalChecklist": [
+      "✅ Em uma crise, comece e termine assumindo a responsabilidade total (Admissão).",
+      "✅ Use a rotulagem para desarmar a raiva do cliente ('Parece que você se sente traído').",
+      "✅ Apresente um plano de reparo imediatamente, focado no futuro (R).",
+      "✅ Use a pergunta calibrada 'Como podemos garantir que isso não aconteça de novo?' (Co-criação).",
+      "✅ Seja transparente sobre a causa do erro, mas mantenha o foco no cliente (C e R)."
+    ],
+    "conclusionMessage": "A crise de confiança é o teste final. A forma como você reage (com baixo S e alto C, R, I) define se você é um Consultor de Confiança ou apenas um fornecedor.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que a 'Crise de Confiança' testa principalmente?",
+        "options": [
+          { "value": "a", "label": "O preço." },
+          { "value": "b", "label": "A Orientação Própria (S) do consultor e sua capacidade de manter o foco no cliente sob pressão." },
+          { "value": "c", "label": "A Credibilidade." },
+          { "value": "d", "label": "A Confiabilidade." }
+        ],
+        "explanation": "A crise revela o verdadeiro caráter (S).",
+        "hint": "Caráter.",
+        "correctAnswer": "b",
+        "bookExample": "A crise é o teste final da confiança."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de 'Defender-se' em uma crise?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Aumenta o 'S' percebido, destrói a Intimidade e impede o Processo de Reparo." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "A defesa é uma manifestação de alto 'S'.",
+        "hint": "Ego.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança assume a responsabilidade."
+      },
+      {
+        "id": "3",
+        "question": "O que o Consultor de Confiança deve fazer imediatamente em uma crise?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Usar a empatia tática (rotulagem) para validar a dor do cliente e assumir a responsabilidade (admissão)." },
+          { "value": "c", "label": "Focar no futuro." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "A validação e a admissão são cruciais para iniciar o reparo.",
+        "hint": "Início do reparo.",
+        "correctAnswer": "b",
+        "bookExample": "A empatia é a chave para o coração humano."
+      },
+      {
+        "id": "4",
+        "question": "Como a 'Transparência' ajuda na crise?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Ser transparente sobre a causa do erro e o plano de reparo aumenta a Credibilidade e a Confiabilidade." },
+          { "value": "c", "label": "Aumenta a Orientação Própria." },
+          { "value": "d", "label": "Diminui a Intimidade." }
+        ],
+        "explanation": "A transparência é a prova de honestidade.",
+        "hint": "Honestidade.",
+        "correctAnswer": "b",
+        "bookExample": "A transparência é a base da Credibilidade."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Rotular a Raiva' do cliente em uma crise?",
+        "options": [
+          { "value": "a", "label": "Aumentar a raiva." },
+          { "value": "b", "label": "Neutralizar a emoção ('Parece que você está furioso com a situação') para forçar o cliente a se concentrar na explicação racional." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Fazer uma ameaça." }
+        ],
+        "explanation": "A rotulagem neutraliza a emoção.",
+        "hint": "Neutralização.",
+        "correctAnswer": "b",
+        "bookExample": "Dê nome ao medo, e ele perde o poder."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de 'Focar Apenas na Solução' em uma crise?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "Ignora a dor emocional do cliente, minando a Intimidade e o reparo." },
+          { "value": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "A emoção precede a lógica.",
+        "hint": "Prioridade.",
+        "correctAnswer": "b",
+        "bookExample": "A emoção precede a lógica."
+      },
+      {
+        "id": "7",
+        "question": "O que o cliente precisa sentir para que a confiança se aprofunde após a crise?",
+        "options": [
+          { "value": "a", "label": "Que o consultor é perfeito." },
+          { "value": "b", "label": "Que o consultor é humano, assumiu a responsabilidade e é mais forte por causa do erro." },
+          { "value": "c", "label": "Que o consultor é o mais inteligente." },
+          { "value": "d", "label": "Que o consultor é o mais rápido." }
+        ],
+        "explanation": "A crise é uma oportunidade para aprofundar a Intimidade.",
+        "hint": "Oportunidade.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é mais valiosa em tempos de crise."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Vulnerabilidade Controlada' na crise?",
+        "options": [
+          { "value": "a", "label": "Fazer o cliente se sentir mal." },
+          { "value": "b", "label": "Compartilhar o impacto do erro em você (de forma controlada) para aumentar a Intimidade e a conexão." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "A vulnerabilidade é a cola da Intimidade.",
+        "hint": "Cola.",
+        "correctAnswer": "b",
+        "bookExample": "A vulnerabilidade é o atalho para a intimidade."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Ser um Recipiente' (Container) em uma crise?",
+        "options": [
+          { "value": "a", "label": "Fazer uma ameaça." },
+          { "value": "b", "label": "Estar disposto a absorver as emoções e a ansiedade do cliente sem reagir ou julgar, mantendo a calma e a Presença." },
+          { "value": "c", "label": "Focar no lucro." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "O Consultor de Confiança é um porto seguro emocional.",
+        "hint": "Porto seguro.",
+        "correctAnswer": "b",
+        "bookExample": "A calma é contagiosa."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de 'Garantir a Reparação' após a crise?",
+        "options": [
+          { "value": "a", "label": "Prometer o impossível." },
+          { "value": "b", "label": "Usar perguntas calibradas ('Como garantiremos que isso não aconteça novamente?') para envolver o cliente na solução e reconstruir a Confiabilidade." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O envolvimento do cliente na solução aumenta o comprometimento.",
+        "hint": "Envolvimento.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas apoiam o que elas ajudam a criar."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "A Mentalidade do Consultor de Confiança",
+    "teaser": "🧭 Não é técnica, é **filosofia**. Sua bússola deve apontar para o sucesso do cliente, custe o que custar.",
+    "level1": "Ser um Consultor de Confiança é uma mentalidade. Ela é baseada na **Generosidade**, **Integridade Inabalável** e no foco inabalável no sucesso do cliente (Baixo S). É uma postura de servir, não de vender.",
+    "level2": "Essa mentalidade se manifesta na **Coragem** de dar conselhos impopulares e na **Humildade** de admitir que não sabe tudo. O Consultor de Confiança sabe que o lucro é uma *consequência* natural da confiança, não o objetivo principal.",
+    "level3": "Mentalidade Ruim: 'Como posso fechar este negócio?' Mentalidade Boa: 'Como posso garantir o sucesso de longo prazo deste cliente, mesmo que isso signifique perder este negócio?' (O teste do Baixo S).",
+    "recapitulation": [
+      "Pilar Central: Foco Inabalável no Cliente (Baixo S).",
+      "Liderar é Servir: Mentor generoso, não servo.",
+      "Generosidade de Insights: Dar valor sem esperar retorno.",
+      "Integridade: Fazer a coisa certa, mesmo que custe o negócio.",
+      "Humildade: Admitir as limitações (Aumenta C e reduz S)."
+    ],
+    "practicalChecklist": [
+      "✅ Defina a intenção de 'servir' antes de cada interação (Mentalidade de Baixo S).",
+      "✅ Compartilhe ativamente insights e recursos sem cobrar ou esperar algo em troca (Generosidade).",
+      "✅ Priorize o conselho certo, mesmo que isso desagrade o cliente ou o faça perder a venda (Coragem/Integridade).",
+      "✅ Se não souber a resposta, diga: 'Eu não sei, mas posso encontrar a pessoa certa para isso' (Humildade e R).",
+      "✅ Comemore o sucesso do cliente como se fosse seu (Prova de Baixo S)."
+    ],
+    "conclusionMessage": "A mentalidade do Consultor de Confiança é baseada na generosidade, integridade e foco inabalável no sucesso do cliente (baixo S).",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o pilar central da Mentalidade do Consultor de Confiança?",
+        "options": [
+          { "value": "a", "label": "Focar no lucro." },
+          { "value": "b", "label": "Foco inabalável no sucesso e interesse do cliente (baixo S)." },
+          { "value": "c", "label": "Focar na Credibilidade." },
+          { "value": "d", "label": "Focar na Confiabilidade." }
+        ],
+        "explanation": "O baixo 'S' é a prova de que o foco está no cliente.",
+        "hint": "Foco.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não se importa com o quanto você sabe, até saber o quanto você se importa."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Integridade Inabalável'?",
+        "options": [
+          { "value": "a", "label": "Fazer o que é fácil." },
+          { "value": "b", "label": "Fazer a coisa certa, mesmo quando é difícil, impopular ou significa perder o negócio." },
+          { "value": "c", "label": "Focar apenas no preço." },
+          { "value": "d", "label": "Falar sobre o futuro." }
+        ],
+        "explanation": "A integridade é a base da confiança.",
+        "hint": "Base.",
+        "correctAnswer": "b",
+        "bookExample": "A integridade é a base da confiança."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Coragem' na mentalidade?",
+        "options": [
+          { "value": "a", "label": "Fazer uma ameaça." },
+          { "value": "b", "label": "Ter a coragem de desafiar o cliente, dar conselhos impopulares e assumir o risco de perder o negócio (Credibilidade)." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "O Consultor de Confiança não é um 'sim-man'.",
+        "hint": "Desafio.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança não é um 'sim-man'."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Ser um Pensador de Longo Prazo'?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no lucro imediato." },
+          { "value": "b", "label": "Priorizar a construção de C, R e I, sabendo que o lucro virá como resultado da confiança." },
+          { "value": "Focar apenas na Confiabilidade." },
+          { "value": "d", "label": "Focar apenas na Credibilidade." }
+        ],
+        "explanation": "A confiança é um investimento de longo prazo.",
+        "hint": "Investimento.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é um investimento de longo prazo."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Focar em Ser Amado'?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Intimidade." },
+          { "value": "b", "label": "Aumenta o 'S' percebido, pois o consultor evita dar conselhos difíceis, minando a Credibilidade." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "O Consultor de Confiança busca o respeito, não a popularidade.",
+        "hint": "Respeito.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança busca o respeito, não a popularidade."
+      },
+      {
+        "id": "6",
+        "question": "O que a 'Generosidade de Insights' comunica?",
+        "options": [
+          { "value": "a", "label": "Que você é caro." },
+          { "value": "b", "label": "Baixo 'S' e alta Credibilidade, pois você está disposto a dar valor sem esperar um retorno imediato." },
+          { "value": "c", "label": "Alta Confiabilidade." },
+          { "value": "d", "label": "Alta Intimidade." }
+        ],
+        "explanation": "A generosidade é a prova de baixo 'S'.",
+        "hint": "Prova de baixo 'S'.",
+        "correctAnswer": "b",
+        "bookExample": "A generosidade é a cola da confiança."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Ser um Recipiente' (Container) emocional?",
+        "options": [
+          { "value": "a", "label": "Fazer uma ameaça." },
+          { "value": "b", "label": "Estar disposto a absorver as emoções e a ansiedade do cliente sem reagir ou julgar, mantendo a calma e a Presença." },
+          { "value": "c", "label": "Focar no lucro." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "O Consultor de Confiança é um porto seguro emocional.",
+        "hint": "Porto seguro.",
+        "correctAnswer": "b",
+        "bookExample": "A calma é contagiosa."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Humildade' na mentalidade?",
+        "options": [
+          { "value": "a", "label": "Diminui a Credibilidade." },
+          { "value": "b", "label": "Reduz o 'S' e permite que o consultor admita erros e continue aprendendo, aumentando a Credibilidade de longo prazo." },
+          { "value": "c", "label": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Aumenta a Intimidade." }
+        ],
+        "explanation": "A humildade é o oposto do ego.",
+        "hint": "Oposto do ego.",
+        "correctAnswer": "b",
+        "bookExample": "O conhecimento sem humildade é inútil."
+      },
+      {
+        "id": "9",
+        "question": "O que o Consultor de Confiança faz quando o cliente pede um conselho sobre algo que ele não sabe?",
+        "options": [
+          { "value": "a", "label": "Finge saber." },
+          { "value": "b", "label": "Admite que não sabe, mas se compromete a encontrar a resposta ou a pessoa certa (Credibilidade e Confiabilidade)." },
+          { "value": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A honestidade sobre as limitações é um sinal de força.",
+        "hint": "Força.",
+        "correctAnswer": "b",
+        "bookExample": "O Consultor de Confiança não tem medo de dizer 'Eu não sei'."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o risco de 'Focar Apenas na Técnica' e ignorar a mentalidade?",
+        "options": [
+          { "value": "a", "label": "Aumenta a Credibilidade." },
+          { "value": "b", "label": "O consultor se torna um 'robô' que aplica técnicas sem empatia, aumentando o 'S' e minando a Intimidade." },
+          { "value": "Aumenta a Confiabilidade." },
+          { "value": "d", "label": "Diminui a Orientação Própria." }
+        ],
+        "explanation": "A mentalidade é o motor da confiança.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é uma arte e uma ciência."
+      }
+    ]
+  }
+]

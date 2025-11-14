@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote Cap 17-20 - Million Dollar Weekend</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #00796b; /* Cor Verde */
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: #00796b; /* Cor Verde */
+            color: #fff;
+            padding: 12px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .title {
+            font-size: 56px;
+            font-weight: bold;
+            color: #00796b; /* Cor Verde */
+            font-family: 'Caveat', cursive;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        
+        .subtitle {
+            font-size: 26px;
+            color: #00796b; /* Cor Verde */
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUT */
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }
+        
+        .section-1 { border-left-color: #1976d2; }
+        .section-2 { border-left-color: #f57c00; }
+        .section-3 { border-left-color: #c2185b; }
+        .section-4 { border-left-color: #00796b; }
+
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-1 .section-title { color: #1976d2; }
+        .section-2 .section-title { color: #f57c00; }
+        .section-3 .section-title { color: #c2185b; }
+        .section-4 .section-title { color: #00796b; }
+
+        .section-emoji {
+            font-size: 36px;
+        }
+        
+        .item {
+            font-size: 16px;
+            line-height: 1.7;
+            color: #555;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        /* REACTIONS SECTION */
+        .reactions {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .reaction-box {
+            background: #fff;
+            border: 3px dashed;
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        
+        .reaction-violence {
+            border-color: #ff4444;
+            background: rgba(255, 68, 68, 0.05);
+        }
+        
+        .reaction-silence {
+            border-color: #00796b;
+            background: rgba(0, 121, 107, 0.05);
+        }
+        
+        .reaction-emoji {
+            font-size: 60px;
+            margin-bottom: 15px;
+        }
+        
+        .reaction-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .reaction-violence .reaction-title { color: #ff4444; }
+        .reaction-silence .reaction-title { color: #00796b; }
+        
+        .reaction-desc {
+            font-size: 15px;
+            color: #666;
+        }
+        
+        .x-mark {
+            font-size: 32px;
+            margin-bottom: 8px;
+        }
+        
+        .section-subtitle {
+            font-size: 20px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        
+        /* SOLUTION BOX */
+        .solution {
+            background: linear-gradient(135deg, #c8e6c9 0%, #a5d6a7 100%);
+            border: 4px solid #2e7d32;
+            padding: 40px;
+            border-radius: 12px;
+            text-align: center;
+            margin: 40px 0;
+        }
+        
+        .solution-title {
+            font-size: 32px;
+            color: #1b5e20;
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .solution-emoji {
+            font-size: 70px;
+            margin: 15px 0;
+        }
+        
+        .solution-text {
+            font-size: 20px;
+            color: #1b5e20;
+            font-weight: bold;
+        }
+        
+        .solution-sub {
+            font-size: 16px;
+            color: #2e7d32;
+            margin-top: 15px;
+            font-style: italic;
+        }
+        
+        /* INSIGHT BOX */
+        .insight {
+            background: #f3e5f5;
+            border-left: 6px solid #7b1fa2;
+            padding: 35px;
+            border-radius: 10px;
+        }
+        
+        .insight-title {
+            font-size: 26px;
+            color: #7b1fa2;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .insight-text {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #555;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #7b1fa2;
+            background: rgba(123, 31, 162, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-3, .grid-2, .reactions {
+                grid-template-columns: 1fr;
+            }
+            
+            .title {
+                font-size: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 17-20</div>
+            <div class="title">🏆 Da Iteração à Liberdade</div>
+            <div class="subtitle">(O Ciclo, Os Ativos, A Equipe e O Legado)</div>
+        </div>
+        
+        <div class="grid-2">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">🔄</span>
+                    (Cap 17) O Ciclo: Iteração
+                </div>
+                <div class="item">
+                    <span class="item-label">O produto NUNCA está pronto.</span> Use "Micro-Lançamentos" e feedback de *quem pagou* para evoluir. Feedback negativo é um presente.
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">📬</span>
+                    (Cap 18) Os Ativos: IP e Lista
+                </div>
+                <div class="item">
+                    <span class="item-label">O dinheiro está na lista.</span> Mude do *outreach* (sprint) para *atração* (maratona). Use "Lead Magnets" para construir seu ativo.
+                </div>
+            </div>
+        </div>
+        
+        <div class="grid-2">
+            <div class="section section-3">
+                <div class="section-title">
+                    <span class="section-emoji">👥</span>
+                    (Cap 19) A Equipe: Enxuta
+                </div>
+                <div class="item">
+                    <span class="item-label">Delegue tarefas de R$10 (admin).</span> Faça uma "Auditoria de Tempo" e foque 100% nas "HLAs" (Vendas, IP). Use VAs, não funcionários caros.
+                </div>
+            </div>
+            
+            <div class="section section-4">
+                <div class="section-title">
+                    <span class="section-emoji">🏖️</span>
+                    (Cap 20) O Legado: Liberdade
+                </div>
+                <div class="item">
+                    <span class="item-label">Construa um ATIVO, não um emprego.</span> O objetivo é a "Liberdade de Tempo" - trabalhar por *escolha*, não por necessidade.
+                </div>
+            </div>
+        </div>
+        
+        <div class="section-subtitle">🥶 As Armadilhas da Escala:</div>
+        <div class="reactions">
+            <div class="reaction-box reaction-violence">
+                <div class="x-mark">❌</div>
+                <div class="reaction-emoji">🤯</div>
+                <div class="reaction-title">O FAZ-TUDO (CAP 19)</div>
+                <div class="reaction-desc">Gastar seu tempo de R$1.000/h em tarefas de admin de R$10/h.</div>
+            </div>
+            <div class="reaction-box reaction-silence">
+                <div class="x-mark">❌</div>
+                <div class="reaction-emoji">🛑</div>
+                <div class="reaction-title">PRODUTO 'PRONTO' (CAP 17)</div>
+                <div class="reaction-desc">Parar de iterar após o lançamento e ignorar o feedback.</div>
+            </div>
+        </div>
+        
+        <div class="solution">
+            <div class="solution-title">✅ O OBJETIVO FINAL (CAP 20)</div>
+            <div class="solution-emoji">🏆</div>
+            <div class="solution-text">TRABALHAR POR ESCOLHA</div>
+            <div class="solution-sub">Usar seu sistema (IP + Lista + Automação + Delegação) para gerar receita passiva e te dar autonomia.</div>
+        </div>
+        
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                O Legado do Fim de Semana
+            </div>
+            <div class="insight-text">
+                O "Million Dollar Weekend" não é sobre ficar rico em 48 horas.
+                <br><br>
+                É sobre usar a <span class="highlight">velocidade</span> para quebrar a <span class="highlight">paralisia</span> e provar que sua ideia tem valor.
+                <br><br>
+                Depois que você prova, o jogo muda: de *validação* para *construção de ativos*. Você para de construir um emprego e começa a construir sua <span class="highlight">liberdade</span>.
+            </div>
+        </div>
+    </div>
+</body>
+</html>

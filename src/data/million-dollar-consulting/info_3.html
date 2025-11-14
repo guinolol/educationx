@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote Caps 9-12: Consultor de Milhões</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #7b1fa2; /* New Theme Color */
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: #7b1fa2; /* New Theme Color */
+            color: #fff;
+            padding: 12px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .title {
+            font-size: 56px;
+            font-weight: bold;
+            color: #5e35b1; /* New Theme Color */
+            font-family: 'Caveat', cursive;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        
+        .subtitle {
+            font-size: 26px;
+            color: #7b1fa2; /* New Theme Color */
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUT */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .section-1 { border-left-color: #1976d2; }
+        .section-2 { border-left-color: #f57c00; }
+        .section-3 { border-left-color: #c2185b; }
+        .section-4 { border-left-color: #2e7d32; }
+        
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-1 .section-title { color: #1976d2; }
+        .section-2 .section-title { color: #f57c00; }
+        .section-3 .section-title { color: #c2185b; }
+        .section-4 .section-title { color: #2e7d32; }
+        
+        .section-emoji {
+            font-size: 36px;
+        }
+        
+        .item {
+            font-size: 16px;
+            line-height: 1.7;
+            color: #555;
+            margin-bottom: 10px;
+        }
+        
+        .item:last-child {
+            margin-bottom: 0;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        /* REACTIONS SECTION */
+        .reactions {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .reaction-box {
+            background: #fff;
+            border: 3px dashed;
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        
+        .reaction-violence {
+            border-color: #ff4444;
+            background: rgba(255, 68, 68, 0.05);
+        }
+        
+        .reaction-silence {
+            border-color: #00796b;
+            background: rgba(0, 121, 107, 0.05);
+        }
+        
+        .reaction-emoji {
+            font-size: 60px;
+            margin-bottom: 15px;
+        }
+        
+        .reaction-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .reaction-violence .reaction-title { color: #ff4444; }
+        .reaction-silence .reaction-title { color: #00796b; }
+        
+        .reaction-desc {
+            font-size: 15px;
+            color: #666;
+            line-height: 1.6;
+        }
+        
+        .x-mark {
+            font-size: 32px;
+            margin-bottom: 8px;
+        }
+        
+        .section-subtitle {
+            font-size: 20px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        
+        /* SOLUTION BOX */
+        .solution {
+            background: linear-gradient(135deg, #ede7f6 0%, #d1c4e9 100%); /* New Theme Color */
+            border: 4px solid #512da8; /* New Theme Color */
+            padding: 40px;
+            border-radius: 12px;
+            text-align: center;
+            margin: 40px 0;
+        }
+        
+        .solution-title {
+            font-size: 32px;
+            color: #311b92; /* New Theme Color */
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .solution-emoji {
+            font-size: 70px;
+            margin: 15px 0;
+        }
+        
+        .solution-text {
+            font-size: 20px;
+            color: #311b92; /* New Theme Color */
+            font-weight: bold;
+        }
+        
+        .solution-sub {
+            font-size: 16px;
+            color: #512da8; /* New Theme Color */
+            margin-top: 15px;
+            font-style: italic;
+        }
+        
+        /* INSIGHT BOX */
+        .insight {
+            background: #f3e5f5;
+            border-left: 6px solid #7b1fa2;
+            padding: 35px;
+            border-radius: 10px;
+        }
+        
+        .insight-title {
+            font-size: 26px;
+            color: #7b1fa2;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .insight-text {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #555;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #7b1fa2;
+            background: rgba(123, 31, 162, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-2, .reactions {
+                grid-template-columns: 1fr;
+            }
+            
+            .title {
+                font-size: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 9-12</div>
+            <div class="title">⚙️ O Motor da Escalabilidade</div>
+            <div class="subtitle">(Ativos, Foco, Preço e Defesa)</div>
+        </div>
+        
+        <div class="grid-2">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">💡</span>
+                    Cap 9: O Ativo (IP)
+                </div>
+                <div class="item">
+                    <span class="item-label">O Ativo:</span> Transforme seu <span style="font-weight:bold; color: #1976d2;">serviço</span> em um <span style="font-weight:bold; color: #1976d2;">produto</span> (modelo, livro, curso).
+                </div>
+                 <div class="item">
+                    <span class="item-label">O Que é:</span> Sua "Metodologia Proprietária" (única).
+                </div>
+                <div class="item">
+                    <span class="item-label">Função:</span> <span style="font-weight:bold;">Escala</span> seu conhecimento e justifica <span style="font-weight:bold;">taxas premium</span>.
+                </div>
+                <div class="item">
+                    <span class="item-label">Risco (sem IP):</span> Você é um <span style="font-weight:bold;">commodity</span> (fácil de substituir).
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">🎯</span>
+                    Cap 10: O Foco (Produtividade)
+                </div>
+                <div class="item">
+                    <span class="item-label">A Regra:</span> Gerencie <span style="font-weight:bold; color: #f57c00;">Energia</span>, não Tempo.
+                </div>
+                 <div class="item">
+                    <span class="item-label">O Foco:</span> Apenas "High-Leverage Activities" (HLAs): Prospecção, Entrega de Valor, Criação de IP.
+                </div>
+                <div class="item">
+                    <span class="item-label">A Tática:</span> "Time Blocking" (Bloquear tempo) para HLAs.
+                </div>
+                <div class="item">
+                    <span class="item-label">A Ação:</span> <span style="font-weight:bold;">Delegue</span> todo o resto (tarefas de R$ 10/hora).
+                </div>
+            </div>
+            
+            <div class="section section-3">
+                <div class="section-title">
+                    <span class="section-emoji">🏷️</span>
+                    Cap 11: O Preço (Posicionamento)
+                </div>
+                <div class="item">
+                    <span class="item-label">O Inimigo:</span> <span style="font-weight:bold; color: #c2185b;">Taxa por Hora</span> (limita seus ganhos).
+                </div>
+                 <div class="item">
+                    <span class="item-label">Os Aliados:</span> VBF (taxa fixa) e <span style="font-weight:bold;">Retainer</span> (acesso contínuo).
+                </div>
+                <div class="item">
+                    <span class="item-label">Posicionamento:</span> Se quer desconto, <span style="font-weight:bold;">reduza o escopo</span>, NUNCA o preço.
+                </div>
+                <div class="item">
+                    <span class="item-label">Ancoragem:</span> "O problema custa R$ 1M. Meu VBF é R$ 100k."
+                </div>
+            </div>
+            
+            <div class="section section-4">
+                <div class="section-title">
+                    <span class="section-emoji">🛡️</span>
+                    Cap 12: A Defesa (Clientes)
+                </div>
+                <div class="item">
+                    <span class="item-label">A Causa:</span> Cliente difícil = <span style="font-weight:bold; color: #2e7d32;">Sintoma</span> de um <span style="font-weight:bold;">diagnóstico falho</span> (falta de confiança).
+                </div>
+                 <div class="item">
+                    <span class="item-label">Microgerenciamento:</span> O cliente não confia no VBF. Volte ao <span style="font-weight:bold;">resultado</span>.
+                </div>
+                <div class="item">
+                    <span class="item-label">Atraso no Pagto:</span> <span style="font-weight:bold;">Pare o trabalho</span> imediatamente.
+                </div>
+                <div class="item">
+                    <span class="item-label">A Coragem:</span> Tenha a coragem de <span style="font-weight:bold;">"demitir" clientes</span> que drenam sua lucratividade.
+                </div>
+            </div>
+        </div>
+        
+        <div class="section-subtitle">😤 O Modelo Falho (O que EVITAR):</div>
+        <div class="reactions">
+            <div class="reaction-box reaction-violence">
+                <div class="x-mark">❌</div>
+                <div class="reaction-emoji">🏃‍♂️💨</div>
+                <div class="reaction-title">O 'FAZ-TUDO' OCUPADO</div>
+                <div class="reaction-desc">Vende horas, não tem IP. Foca em tarefas de R$ 10. Está sempre ocupado, mas nunca rico. Dá desconto para fechar.</div>
+            </div>
+            <div class="reaction-box reaction-silence">
+                <div class="x-mark">❌</div>
+                <div class="reaction-emoji">😫</div>
+                <div class="reaction-title">O CONSULTOR FRUSTRADO</div>
+                <div class="reaction-desc">Tem um VBF, mas aceita "scope creep" de graça. É microgerenciado. Tem medo de demitir o cliente ruim.</div>
+            </div>
+        </div>
+        
+        <div class="solution">
+            <div class="solution-title">✅ O CONSULTOR-ATIVO</div>
+            <div class="solution-emoji">🏗️</div>
+            <div class="solution-text">VOCÊ É UM NEGÓCIO, NÃO UM EMPREGADO</div>
+            <div class="solution-sub">Seu IP é o Ativo, seu Foco protege o Ativo, seu Preço reflete o Ativo.</div>
+        </div>
+        
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                A Mudança de Chave
+            </div>
+            <div class="insight-text">
+                A <span class="highlight">Propriedade Intelectual (IP)</span> é o que permite que você pare de trocar tempo por dinheiro.
+                <br><br>
+                A <span class="highlight">Gestão do Foco (HLAs)</span> é o que lhe dá tempo para *criar* o IP.
+                <br><br>
+                A <span class="highlight">Coragem (Taxas e Demissão)</span> é o que *protege* o valor do seu IP.
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sketchnote: Os 4 Pilares das Conversas Cruciais</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 20px;
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+
+        /* TITLE */
+        .title-wrapper {
+            text-align: center;
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #6a1b9a;
+        }
+
+        .chapter-label {
+            display: inline-block;
+            background: #6a1b9a;
+            color: white;
+            padding: 10px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 50px;
+            margin-bottom: 15px;
+            font-family: 'Caveat', cursive;
+        }
+
+        .title {
+            font-size: 52px;
+            font-weight: bold;
+            color: #4a148c;
+            font-family: 'Caveat', cursive;
+            margin-bottom: 12px;
+            letter-spacing: 1px;
+        }
+
+        .subtitle {
+            font-size: 24px;
+            color: #8e24aa;
+            font-style: italic;
+        }
+
+        /* PILARS GRID */
+        .pilars {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 24px;
+            margin-bottom: 40px;
+        }
+
+        .pillar {
+            background: white;
+            border-radius: 14px;
+            padding: 28px;
+            box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+            text-align: center;
+            border-top: 6px solid;
+        }
+
+        .pillar-1 { border-top-color: #1976d2; }
+        .pillar-2 { border-top-color: #388e3c; }
+        .pillar-3 { border-top-color: #f57c00; }
+        .pillar-4 { border-top-color: #c2185b; }
+
+        .pillar-emoji {
+            font-size: 56px;
+            margin-bottom: 14px;
+            display: block;
+        }
+
+        .pillar-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 14px;
+            font-family: 'Caveat', cursive;
+        }
+
+        .pillar-1 .pillar-title { color: #1976d2; }
+        .pillar-2 .pillar-title { color: #388e3c; }
+        .pillar-3 .pillar-title { color: #f57c00; }
+        .pillar-4 .pillar-title { color: #c2185b; }
+
+        .pillar-desc {
+            font-size: 16px;
+            color: #555;
+        }
+
+        /* SAFETY & DIALOGUE SECTION */
+        .safety-dialogue {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+
+        .box {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.07);
+        }
+
+        .box-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+
+        .safety-title { color: #c2185b; }
+        .dialogue-title { color: #388e3c; }
+
+        .safety-emoji, .dialogue-emoji {
+            font-size: 32px;
+        }
+
+        .box-list {
+            list-style: none;
+            font-size: 16px;
+            color: #444;
+        }
+
+        .box-list li {
+            margin-bottom: 12px;
+            padding-left: 24px;
+            position: relative;
+        }
+
+        .box-list li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #388e3c;
+            font-weight: bold;
+        }
+
+        .box-safety .box-list li:before {
+            content: "🛡️";
+            color: #c2185b;
+        }
+
+        /* CONTRAST EXAMPLE */
+        .contrast {
+            background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+            border: 3px dashed #1976d2;
+            border-radius: 14px;
+            padding: 30px;
+            text-align: center;
+            margin: 40px 0;
+        }
+
+        .contrast-title {
+            font-size: 26px;
+            color: #0d47a1;
+            margin-bottom: 15px;
+            font-family: 'Caveat', cursive;
+        }
+
+        .contrast-phrase {
+            font-size: 20px;
+            font-weight: bold;
+            color: #1565c0;
+            margin: 15px 0;
+        }
+
+        .contrast-no { color: #d32f2f; }
+        .contrast-yes { color: #388e3c; }
+
+        /* KEY INSIGHT */
+        .insight {
+            background: #f3e5f5;
+            border-left: 6px solid #7b1fa2;
+            padding: 35px;
+            border-radius: 10px;
+            margin-top: 30px;
+        }
+
+        .insight-title {
+            font-size: 26px;
+            color: #7b1fa2;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+
+        .insight-text {
+            font-size: 17px;
+            line-height: 1.8;
+            color: #555;
+        }
+
+        .highlight {
+            font-weight: bold;
+            color: #7b1fa2;
+            background: rgba(123, 31, 162, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+
+        @media (max-width: 768px) {
+            .safety-dialogue {
+                grid-template-columns: 1fr;
+            }
+            .title {
+                font-size: 40px;
+            }
+            .pillar-title {
+                font-size: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- TITLE -->
+        <div class="title-wrapper">
+            <div class="chapter-label">CONVERSAS CRUCIAIS</div>
+            <div class="title">🔥 Os 4 Pilares do Diálogo Transformador</div>
+            <div class="subtitle">Não é sobre ter razão. É sobre manter o respeito E a verdade.</div>
+        </div>
+
+        <!-- 4 PILARES -->
+        <div class="pilars">
+            <div class="pillar pillar-1">
+                <span class="pillar-emoji">❓</span>
+                <div class="pillar-title">O que é?</div>
+                <div class="pillar-desc">Divergência + Emoções Fortes + Riscos Altos = Conversa Crucial</div>
+            </div>
+            <div class="pillar pillar-2">
+                <span class="pillar-emoji">❤️</span>
+                <div class="pillar-title">Comece com o Coração</div>
+                <div class="pillar-desc">Pergunte: O que eu QUERO para mim, para o outro e para nós?</div>
+            </div>
+            <div class="pillar pillar-3">
+                <span class="pillar-emoji">👀</span>
+                <div class="pillar-title">Aprenda a Observar</div>
+                <div class="pillar-desc">Monitore CONTEÚDO + CONDIÇÕES. Silêncio ou Violência = alerta!</div>
+            </div>
+            <div class="pillar pillar-4">
+                <span class="pillar-emoji">🛡️</span>
+                <div class="pillar-title">Torne Seguro</div>
+                <div class="pillar-desc">Restaure Propósito Mútuo e Respeito Mútuo ANTES de continuar.</div>
+            </div>
+        </div>
+
+        <!-- SAFETY & DIALOGUE -->
+        <div class="safety-dialogue">
+            <div class="box box-safety">
+                <div class="box-title">
+                    <span class="safety-emoji">🛡️</span>
+                    Segurança = Diálogo Vivo
+                </div>
+                <ul class="box-list">
+                    <li><strong>Propósito Mútuo:</strong> "Você se importa com meus objetivos?"</li>
+                    <li><strong>Respeito Mútuo:</strong> "Você me vê como igual?"</li>
+                    <li>Sem esses dois, o diálogo MORRE</li>
+                    <li>Use <span class="highlight">Contraste</span> para restaurar</li>
+                </ul>
+            </div>
+            <div class="box box-dialogue">
+                <div class="box-title">
+                    <span class="dialogue-emoji">💬</span>
+                    Diálogo = Honestidade + Respeito
+                </div>
+                <ul class="box-list">
+                    <li>Não é "OU" — é <span class="highlight">"E"</span></li>
+                    <li>Cria o <span class="highlight">Pool of Shared Meaning</span></li>
+                    <li>Gera melhores decisões e relacionamentos</li>
+                    <li>Evita estresse crônico e conflitos tóxicos</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- CONTRAST EXAMPLE -->
+        <div class="contrast">
+            <div class="contrast-title">✨ A Ferramenta Mágica: CONTRASTE</div>
+            <div class="contrast-phrase">
+                <span class="contrast-no">"NÃO quero que você pense que estou te culpando..."</span>
+                <br/>
+                <span class="contrast-yes">"SIM quero entender juntos como melhorar isso."</span>
+            </div>
+            <div style="font-size: 15px; color: #555; margin-top: 12px;">
+                Use para desarmar mal-entendidos e restaurar segurança imediatamente.
+            </div>
+        </div>
+
+        <!-- KEY INSIGHT -->
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                A Grande Revelação
+            </div>
+            <div class="insight-text">
+                A maioria das conversas falha não por falta de argumentos, mas por <span class="highlight">falta de segurança</span>.
+                <br><br>
+                Você pode ter o <span class="highlight">conteúdo perfeito</span>, mas se a outra pessoa se sentir <span class="highlight">atacada ou ignorada</span>, ela para de ouvir.
+                <br><br>
+                <strong>O mestre em conversas cruciais é 50% participante, 50% observador.</strong>
+                <br>
+                Primeiro, <span class="highlight">salve o diálogo</span>. Depois, salve o assunto.
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote Cap 13-16 - Posicionamento em Ação</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #2e7d32; /* Green theme */
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: #2e7d32;
+            color: #fff;
+            padding: 12px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .title {
+            font-size: 56px;
+            font-weight: bold;
+            color: #1b5e20; /* Dark Green */
+            font-family: 'Caveat', cursive;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        
+        .subtitle {
+            font-size: 26px;
+            color: #2e7d32;
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUT */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 25px;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .section-13 { border-left-color: #1976d2; }
+        .section-14 { border-left-color: #f57c00; }
+        .section-15 { border-left-color: #c2185b; }
+        .section-16 { border-left-color: #7b1fa2; } /* Purple */
+
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-13 .section-title { color: #1976d2; }
+        .section-14 .section-title { color: #f57c00; }
+        .section-15 .section-title { color: #c2185b; }
+        .section-16 .section-title { color: #7b1fa2; }
+
+        .section-emoji {
+            font-size: 36px;
+        }
+        
+        .item {
+            font-size: 17px;
+            line-height: 1.7;
+            color: #555;
+            margin-bottom: 15px;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        /* INSIGHT BOX (Main Takeaway) */
+        .insight {
+            background: #f3e5f5;
+            border-left: 6px solid #7b1fa2;
+            padding: 35px;
+            border-radius: 10px;
+            margin-top: 40px;
+        }
+        
+        .insight-title {
+            font-size: 28px;
+            color: #7b1fa2;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .insight-text {
+            font-size: 18px;
+            line-height: 1.8;
+            color: #555;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #7b1fa2;
+            background: rgba(123, 31, 162, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-2 {
+                grid-template-columns: 1fr;
+            }
+            
+            .title {
+                font-size: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 13-16</div>
+            <div class="title">O Posicionamento em Ação</div>
+            <div class="subtitle">(Decifrando 'Obviously Awesome', Parte 4)</div>
+        </div>
+        
+        <div class="grid-2">
+            <div class="section section-13">
+                <div class="section-title">
+                    <span class="section-emoji">⚙️</span>
+                    ... e Produto (Roadmap)
+                </div>
+                <div class="item">
+                    O posicionamento é o filtro do roadmap.
+                </div>
+                <div class="item">
+                    <span class="item-label">❌ Pare de</span> construir "Recursos de Tabela" (o que todos têm).
+                </div>
+                <div class="item">
+                    <span class="item-label">✅ Comece a</span> construir o que *amplifica* sua diferença única para o seu cliente ideal.
+                </div>
+            </div>
+            
+            <div class="section section-14">
+                <div class="section-title">
+                    <span class="section-emoji">💲</span>
+                    ... e Preço (Pricing)
+                </div>
+                <div class="item">
+                    Preço <span class="item-label">NÃO é</span> posicionamento. É uma *consequência* dele.
+                </div>
+                <div class="item">
+                    Se você precisa competir por preço, seu posicionamento está quebrado.
+                </div>
+                <div class="item">
+                    <span class="item-label">Valor Único Claro = Preço Premium.</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid-2">
+            <div class="section section-15">
+                <div class="section-title">
+                    <span class="section-emoji">📣</span>
+                    ... e Conteúdo
+                </div>
+                 <div class="item">
+                    Seu conteúdo deve ser um <span class="item-label">ímã</span> para o cliente ideal.
+                </div>
+                 <div class="item">
+                    <span class="item-label">❌ Ruim:</span> "5 Dicas de Produtividade".
+                </div>
+                <div class="item">
+                    <span class="item-label">✅ Bom:</span> "Como Agências Economizam 10h/semana com Automação de Relatórios".
+                </div>
+            </div>
+            
+            <div class="section section-16">
+                <div class="section-title">
+                    <span class="section-emoji">🚀</span>
+                    ... e Lançamento
+                </div>
+                 <div class="item">
+                    Não lance um recurso. <span class="item-label">Lance um novo posicionamento.</span>
+                </div>
+                 <div class="item">
+                    O lançamento é sua chance de <span class="item-label">redefinir o contexto</span> do mercado e destacar o contraste (o "Antes e Depois").
+                </div>
+            </div>
+        </div>
+
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                O Grande "Aha!" dos Capítulos 13-16
+            </div>
+            <div class="insight-text">
+                O posicionamento não é um trabalho do "marketing" que se faz uma vez.
+                <br><br>
+                É o <span class="highlight">sistema operacional</span> da empresa.
+                <br>
+                Ele dita o que o <span class="highlight">Produto</span> constrói, o <span class="highlight">Preço</span> que você cobra, o <span class="highlight">Conteúdo</span> que você escreve e a <span class="highlight">História</span> que você conta no lançamento.
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>

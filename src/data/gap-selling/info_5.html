@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote - Cap 17-20: Pós-Venda, Mentalidade e Cultura</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 30px;
+            border-bottom: 5px solid #c2185b;
+            text-align: center;
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: linear-gradient(135deg, #c2185b 0%, #ec407a 100%);
+            color: #fff;
+            padding: 15px 30px;
+            font-weight: bold;
+            font-size: 20px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 12px rgba(194, 24, 91, 0.3);
+        }
+        
+        .title {
+            font-size: 64px;
+            font-weight: bold;
+            color: #c2185b;
+            font-family: 'Caveat', cursive;
+            margin-bottom: 15px;
+            letter-spacing: 2px;
+        }
+        
+        .subtitle {
+            font-size: 28px;
+            color: #ec407a;
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUT */
+        .grid-4 {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            margin-bottom: 50px;
+        }
+        
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 50px;
+        }
+        
+        /* CHAPTER CARDS */
+        .chapter-card {
+            background: #fff;
+            border-left: 8px solid;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        
+        .chapter-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+        }
+        
+        .card-17 { border-left-color: #00897b; }
+        .card-18 { border-left-color: #5e35b1; }
+        .card-19 { border-left-color: #ff6f00; }
+        .card-20 { border-left-color: #c2185b; }
+        
+        .card-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .card-17 .card-title { color: #00897b; }
+        .card-18 .card-title { color: #5e35b1; }
+        .card-19 .card-title { color: #ff6f00; }
+        .card-20 .card-title { color: #c2185b; }
+        
+        .card-emoji {
+            font-size: 28px;
+        }
+        
+        .card-content {
+            font-size: 14px;
+            line-height: 1.6;
+            color: #666;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            margin-bottom: 30px;
+        }
+        
+        .section-17 { border-left-color: #00897b; }
+        .section-18 { border-left-color: #5e35b1; }
+        .section-19 { border-left-color: #ff6f00; }
+        .section-20 { border-left-color: #c2185b; }
+        
+        .section-title {
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-17 .section-title { color: #00897b; }
+        .section-18 .section-title { color: #5e35b1; }
+        .section-19 .section-title { color: #ff6f00; }
+        .section-20 .section-title { color: #c2185b; }
+        
+        .section-emoji {
+            font-size: 36px;
+        }
+        
+        .item {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #555;
+            margin-bottom: 15px;
+            padding-left: 25px;
+            position: relative;
+        }
+        
+        .item:before {
+            content: "→";
+            position: absolute;
+            left: 0;
+            font-weight: bold;
+            color: #ec407a;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        /* COMPARISON BOX */
+        .comparison {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .comparison-box {
+            background: #fff;
+            padding: 25px;
+            border-radius: 10px;
+            border-top: 5px solid;
+        }
+        
+        .comparison-reativo {
+            border-top-color: #ff6b6b;
+        }
+        
+        .comparison-desafiador {
+            border-top-color: #4caf50;
+        }
+        
+        .comparison-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        
+        .comparison-reativo .comparison-title { color: #ff6b6b; }
+        .comparison-desafiador .comparison-title { color: #4caf50; }
+        
+        .comparison-text {
+            font-size: 14px;
+            line-height: 1.7;
+            color: #666;
+        }
+        
+        /* JOURNEY BOX */
+        .journey {
+            background: #fff;
+            border-left: 6px solid #5e35b1;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 40px;
+        }
+        
+        .journey-title {
+            font-size: 24px;
+            font-weight: bold;
+            color: #5e35b1;
+            margin-bottom: 20px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .journey-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+        
+        .journey-item {
+            background: rgba(93, 53, 177, 0.05);
+            padding: 18px;
+            border-radius: 8px;
+            border-left: 4px solid #5e35b1;
+        }
+        
+        .journey-item-title {
+            font-size: 16px;
+            font-weight: bold;
+            color: #5e35b1;
+            margin-bottom: 10px;
+        }
+        
+        .journey-item-text {
+            font-size: 13px;
+            color: #666;
+        }
+        
+        /* SOLUTION BOX */
+        .solution {
+            background: linear-gradient(135deg, #c8e6c9 0%, #a5d6a7 100%);
+            border: 4px solid #2e7d32;
+            padding: 40px;
+            border-radius: 12px;
+            text-align: center;
+            margin: 40px 0;
+        }
+        
+        .solution-title {
+            font-size: 32px;
+            color: #1b5e20;
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .solution-emoji {
+            font-size: 60px;
+            margin: 15px 0;
+        }
+        
+        .solution-text {
+            font-size: 20px;
+            color: #1b5e20;
+            font-weight: bold;
+        }
+        
+        /* INSIGHT BOX */
+        .insight {
+            background: #f3e5f5;
+            border-left: 6px solid #7b1fa2;
+            padding: 35px;
+            border-radius: 10px;
+            margin-bottom: 40px;
+        }
+        
+        .insight-title {
+            font-size: 28px;
+            color: #7b1fa2;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .insight-text {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #555;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #7b1fa2;
+            background: rgba(123, 31, 162, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        
+        .metric-block {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        
+        .metric {
+            background: #fff;
+            padding: 25px;
+            border-radius: 10px;
+            border-top: 5px solid;
+            text-align: center;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }
+        
+        .metric-1 { border-top-color: #00897b; }
+        .metric-2 { border-top-color: #5e35b1; }
+        .metric-3 { border-top-color: #ff6f00; }
+        
+        .metric-number {
+            font-size: 48px;
+            font-weight: bold;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .metric-1 .metric-number { color: #00897b; }
+        .metric-2 .metric-number { color: #5e35b1; }
+        .metric-3 .metric-number { color: #ff6f00; }
+        
+        .metric-label {
+            font-size: 14px;
+            color: #666;
+            margin-top: 10px;
+        }
+        
+        .timeline {
+            background: #fff;
+            border-radius: 10px;
+            overflow: hidden;
+            margin-bottom: 40px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }
+        
+        .timeline-header {
+            background: linear-gradient(135deg, #5e35b1 0%, #7e57c2 100%);
+            color: #fff;
+            padding: 20px;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        
+        .timeline-item {
+            padding: 20px;
+            border-bottom: 1px solid #eee;
+            display: grid;
+            grid-template-columns: auto 1fr;
+            gap: 20px;
+            align-items: start;
+        }
+        
+        .timeline-item:last-child {
+            border-bottom: none;
+        }
+        
+        .timeline-number {
+            background: #5e35b1;
+            color: #fff;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+        
+        .timeline-text {
+            font-size: 15px;
+            color: #666;
+            line-height: 1.6;
+        }
+        
+        .warning-box {
+            background: rgba(255, 107, 107, 0.1);
+            border-left: 5px solid #ff6b6b;
+            padding: 25px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+        
+        .warning-title {
+            color: #ff6b6b;
+            font-weight: bold;
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        
+        .warning-text {
+            color: #666;
+            font-size: 15px;
+            line-height: 1.6;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-4, .grid-2, .comparison, .journey-grid, .metric-block, .timeline-item {
+                grid-template-columns: 1fr;
+            }
+            
+            .title {
+                font-size: 48px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- TITLE -->
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 1️⃣7️⃣-2️⃣0️⃣ (FINAL)</div>
+            <div class="title">🏁 Pós-Venda, Mentalidade e Cultura</div>
+            <div class="subtitle">Do Fechamento ao Sucesso Duradouro</div>
+        </div>
+
+        <!-- 4 CHAPTERS OVERVIEW -->
+        <div class="grid-4">
+            <div class="chapter-card card-17">
+                <div class="card-title">
+                    <span class="card-emoji">📈</span>
+                    Cap 17
+                </div>
+                <div class="card-content">
+                    <strong>Pós-Venda</strong><br>
+                    Monitor ROI, colete prova, upsell.
+                </div>
+            </div>
+            
+            <div class="chapter-card card-18">
+                <div class="card-title">
+                    <span class="card-emoji">🧠</span>
+                    Cap 18
+                </div>
+                <div class="card-content">
+                    <strong>Mentalidade</strong><br>
+                    De Reativo a Desafiador.
+                </div>
+            </div>
+            
+            <div class="chapter-card card-19">
+                <div class="card-title">
+                    <span class="card-emoji">🏢</span>
+                    Cap 19
+                </div>
+                <div class="card-content">
+                    <strong>Cultura</strong><br>
+                    Alinhamento e treinamento.
+                </div>
+            </div>
+            
+            <div class="chapter-card card-20">
+                <div class="card-title">
+                    <span class="card-emoji">👔</span>
+                    Cap 20
+                </div>
+                <div class="card-content">
+                    <strong>Empresário</strong><br>
+                    De Vendedor a Consultor.
+                </div>
+            </div>
+        </div>
+
+        <!-- CHAPTER 17: POST-SALE -->
+        <div class="section section-17">
+            <div class="section-title">
+                <span class="section-emoji">📈</span>
+                Cap 17: O Pós-Venda - Continuidade da Lacuna
+            </div>
+            
+            <div class="item">
+                <span class="item-label">Não é o Fim:</span> É o começo do relacionamento de longo prazo.
+            </div>
+            
+            <div class="item">
+                <span class="item-label">Monitor o ROI:</span> Acompanhe se o cliente está atingindo o Estado Futuro prometido.
+            </div>
+            
+            <div class="item">
+                <span class="item-label">Colete Prova Social:</span> Transforme sucesso em testemunho que pode vender para outros.
+            </div>
+            
+            <div class="item">
+                <span class="item-label">Identifique Upsells:</span> Novas dores surgem após a solução inicial - são oportunidades.
+            </div>
+        </div>
+
+        <!-- KEY INSIGHT 17 -->
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                O Segredo (Cap 17)
+            </div>
+            <div class="insight-text">
+                <span class="highlight">O cliente satisfeito é sua melhor fonte de receita recorrente.</span> <br><br>
+                Reduzir o Churn Rate (cancelamento) é 5x mais lucrativo do que adquirir novos clientes. Seu trabalho não termina no fechamento - ele apenas começa.
+            </div>
+        </div>
+
+        <!-- CHAPTER 18: MINDSET -->
+        <div class="section section-18">
+            <div class="section-title">
+                <span class="section-emoji">🧠</span>
+                Cap 18: Mentalidade do Vendedor - Reativo vs. Desafiador
+            </div>
+        </div>
+
+        <!-- COMPARISON -->
+        <div class="comparison">
+            <div class="comparison-box comparison-reativo">
+                <div class="comparison-title">❌ VENDEDOR REATIVO</div>
+                <div class="comparison-text">
+                    <strong>Pergunta:</strong> "O que você quer?"<br><br>
+                    <strong>Foco:</strong> Atender pedidos<br><br>
+                    <strong>Resultado:</strong> Commodity, competição de preço
+                </div>
+            </div>
+            
+            <div class="comparison-box comparison-desafiador">
+                <div class="comparison-title">✅ DESAFIADOR</div>
+                <div class="comparison-text">
+                    <strong>Pergunta:</strong> "Você vê o custo real de X?"<br><br>
+                    <strong>Foco:</strong> Diagnosticar dor<br><br>
+                    <strong>Resultado:</strong> Parceiro de valor, preço premium
+                </div>
+            </div>
+        </div>
+
+        <!-- KEY INSIGHT 18 -->
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                O Segredo (Cap 18)
+            </div>
+            <div class="insight-text">
+                <span class="highlight">A mentalidade define o preço que você consegue cobrar.</span> <br><br>
+                O Reativo vende por R$5k. O Desafiador vende a mesma solução por R$50k - porque vende a Lacuna e o ROI, não o produto.
+            </div>
+        </div>
+
+        <!-- CHAPTER 19: CULTURE -->
+        <div class="section section-19">
+            <div class="section-title">
+                <span class="section-emoji">🏢</span>
+                Cap 19: Cultura de Vendas - Alinhamento e Treinamento
+            </div>
+            
+            <div class="item">
+                <span class="item-label">Papel do Gerente:</span> Treinar comportamentos Desafiadores, não apenas resultados.
+            </div>
+            
+            <div class="item">
+                <span class="item-label">Treinamento Focado:</span> Qualidade do diagnóstico > Volume de ligações.
+            </div>
+            
+            <div class="item">
+                <span class="item-label">Métricas Certas:</span> Lacunas quantificadas + Taxa de conversão de alto valor.
+            </div>
+            
+            <div class="item">
+                <span class="item-label">Riscos de Cultura Errada:</span> Foco em produto leva a commodity. Foco em relacionamento leva a amizade, não valor.
+            </div>
+        </div>
+
+        <!-- KEY INSIGHT 19 -->
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                O Segredo (Cap 19)
+            </div>
+            <div class="insight-text">
+                <span class="highlight">Você não pode ter sucesso com alguns Desafiadores - você precisa de uma CULTURA Desafiadora.</span> <br><br>
+                A transformação é cultural, não individual. O gerente é o catalisador.
+            </div>
+        </div>
+
+        <!-- CHAPTER 20: ENTREPRENEUR MINDSET -->
+        <div class="section section-20">
+            <div class="section-title">
+                <span class="section-emoji">👔</span>
+                Cap 20: Mentalidade do Empresário - Consultor de Negócios
+            </div>
+            
+            <div class="item">
+                <span class="item-label">Não Pense em Horas:</span> Pense em ROI, Lacuna, Custo da Inação.
+            </div>
+            
+            <div class="item">
+                <span class="item-label">Seu Valor:</span> Não está no produto, mas na capacidade de diagnosticar e resolver problemas caros.
+            </div>
+            
+            <div class="item">
+                <span class="item-label">Alavancagem:</span> Use insights e prova social para escalar sem trabalhar mais.
+            </div>
+            
+            <div class="item">
+                <span class="item-label">Pensamento Longo Prazo:</span> LTV (Lifetime Value) > venda única.
+            </div>
+        </div>
+
+        <!-- JOURNEY -->
+        <div class="journey">
+            <div class="journey-title">Jornada do Vendedor para Empresário:</div>
+            <div class="journey-grid">
+                <div class="journey-item">
+                    <div class="journey-item-title">📊 Reativo</div>
+                    <div class="journey-item-text">
+                        Atende pedidos, dá descontos, perde por preço
+                    </div>
+                </div>
+                
+                <div class="journey-item">
+                    <div class="journey-item-title">🎯 Consultivo</div>
+                    <div class="journey-item-text">
+                        Diagnostica dor, quantifica lacuna, vende ROI
+                    </div>
+                </div>
+                
+                <div class="journey-item">
+                    <div class="journey-item-title">👔 Empresário</div>
+                    <div class="journey-item-text">
+                        Parceiro estratégico, foca em LTV, lidera com insight
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- KEY INSIGHT 20 -->
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                O Segredo (Cap 20)
+            </div>
+            <div class="insight-text">
+                <span class="highlight">A mudança não é de produto ou de preço - é de MENTALIDADE.</span> <br><br>
+                Quando você pensa como empresário, não como vendedor, tudo muda: o tipo de cliente que você atrai, o preço que consegue cobrar, o lucro que faz, e o relacionamento que constrói.
+            </div>
+        </div>
+
+        <!-- FINAL SOLUTION -->
+        <div class="solution">
+            <div class="solution-emoji">🎊</div>
+            <div class="solution-title">Conclusão (Caps 17-20)</div>
+            <div class="solution-text">
+                Pós-Venda Ativa → Mentalidade Desafiadora → Cultura Alinhada → Empresário Consultivo
+                <br><br>
+                <span style="color: #1b5e20; font-weight: normal; font-size: 18px;">Esse é o caminho para vendas de alto desempenho e crescimento exponencial.</span>
+            </div>
+        </div>
+
+        <!-- FINAL METRICS -->
+        <div class="metric-block">
+            <div class="metric metric-1">
+                <div class="metric-number">5x</div>
+                <div class="metric-label">Lucro de Retenção vs. Aquisição</div>
+            </div>
+            
+            <div class="metric metric-2">
+                <div class="metric-number">10x</div>
+                <div class="metric-label">ROI que o Desafiador consegue cobrar</div>
+            </div>
+            
+            <div class="metric metric-3">
+                <div class="metric-number">80/20</div>
+                <div class="metric-label">Diagnóstico vs. Apresentação</div>
+            </div>
+        </div>
+
+        <!-- ACTIONABLE -->
+        <div class="warning-box" style="background: rgba(194, 24, 91, 0.1); border-left-color: #c2185b;">
+            <div class="warning-title" style="color: #c2185b;">🚀 Seu Plano de Ação em 30 Dias</div>
+            <div class="warning-text" style="color: #555;">
+                <strong>Semana 1-2:</strong> Mude sua mentalidade. Diga "Não" a 3 clientes não-ideais.<br><br>
+                <strong>Semana 3:</strong> Implemente o processo em 5 chamadas. Foque em diagnóstico, não em apresentação.<br><br>
+                <strong>Semana 4:</strong> Quantifique 3 Lacunas. Mostre o ROI antes de falar de preço.<br><br>
+                <strong>Mês 2+:</strong> Monitore ROI de clientes. Identifique upsells. Colete prova social.
+            </div>
+        </div>
+
+        <!-- FINAL WISDOM -->
+        <div class="insight" style="background: linear-gradient(135deg, #fff9c4 0%, #ffeb3b 100%); border-left-color: #f57f17;">
+            <div class="insight-title" style="color: #f57f17;">
+                <span>💎</span>
+                A Verdade Final
+            </div>
+            <div class="insight-text" style="color: #333;">
+                Você não vende quando fala sobre sua solução.
+                <br><br>
+                Você vende quando o cliente <span class="highlight" style="color: #f57f17; background: rgba(245, 127, 23, 0.1);">entende a profundidade do problema</span> e vê você como o <span class="highlight" style="color: #f57f17; background: rgba(245, 127, 23, 0.1);">diagnosticador que ele precisa.</span>
+                <br><br>
+                <strong>Tudo o que você aprendeu nestes 20 capítulos foi sobre isso: transformar-se nesse diagnosticador.</strong>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,1897 @@
+[
+{
+  "simulationId": 1,
+  "title": "💡 Simulação SUCCESs: Lançamento do 'Adesivo Mental' - 12 Passos",
+  "introduction": "Você é o CMO (Chief Marketing Officer) responsável pelo lançamento do 'Adesivo Mental', um assistente de produtividade. Sua missão é guiar sua equipe através dos 12 desafios cruciais de comunicação para garantir que a mensagem **grude**. Cada decisão testa um dos 4 princípios fundamentais (Simples, Inesperado, Concreto, Credível) em três níveis diferentes, culminando no sucesso do lançamento.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Simples: Encontrando o Núcleo da Mensagem",
+      "narrative": "🔥 O CEO exige um slogan de lançamento. Seu principal objetivo é combater a **'procrastinação por sobrecarga de informação'**. Você lembra: Simplicidade é Sacrifício. O produto tem 100 recursos, mas você precisa destilar tudo em um único **Núcleo** para o slogan. **O que você sacrifica para ser Simples?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Slogan: 'O Adesivo Mental: Otimize a Sinergia da sua Produtividade e Maximize a Gestão do Tempo Através de um Algoritmo de Priorização Multidimensional.'",
+          "feedback": "❌ Você não sacrificou nada! Este é o jargão da abstração, não a essência. O 'Núcleo' se perdeu na complexidade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Slogan: 'O Adesivo Mental: 100 Recursos para Vencer a Procrastinação, Gerenciar o Tempo, Integrar o Calendário, e Aumentar o Foco em 25%!'",
+          "feedback": "⚠️ Melhorou, mas você ainda está 'dizendo três coisas e dizendo nada'. O Núcleo principal (procrastinação) está enterrado em uma lista de recursos secundários. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Slogan: 'O Adesivo Mental: Livre-se da Procrastinação. Concentre-se no que Importa.'",
+          "feedback": "✅ Perfeito! Você identificou o principal benefício e a ação chave. Este é um Núcleo Simples e acionável. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Slogan: 'O Adesivo Mental: O aplicativo de Produtividade Mais Rápido, Mais Barato e Mais Completo do Mercado.'",
+          "feedback": "⭐️ Foco no Núcleo de 'rapidez e preço' (em vez de procrastinação). Você sacrificou detalhes, mas perdeu a prioridade do CEO. É simples, mas é o *Núcleo* errado. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Inesperado: Quebrando Padrões e Gerando Curiosidade",
+      "narrative": "🤯 A equipe de mídia social está planejando um vídeo de 15 segundos. O público-alvo está farto de promessas genéricas de produtividade. Você precisa **Quebrar o Padrão** e abrir uma **Lacuna de Conhecimento** para forçá-los a assistir. **Como você inicia o vídeo de forma Inesperada?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Iniciar com: 'Neste mundo agitado, a produtividade é fundamental para o seu sucesso. Apresentamos o Adesivo Mental...' (Narrador amigável).",
+          "feedback": "❌ Clichê total. Isso não quebra nenhum padrão; é exatamente o que o público espera e ignora. Nenhuma Surpresa. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Iniciar com um 'Anti-Provérbio' na tela: '**Mais vale 50 tarefas inacabadas do que uma concluída.**' - E então o narrador diz: 'Você sabe que isso é mentira. Mas é como você vive. Por quê?'",
+          "feedback": "✅ Perfeito! Você quebra uma expectativa (o provérbio) e abre uma Lacuna de Conhecimento (Por que você se sente assim?). O Inesperado é relevante para a procrastinação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Iniciar com um som de buzina de carro e um alienígena em 3D. O alienígena não tem relação com produtividade.",
+          "feedback": "⚠️ Isso é **Choque**, não Surpresa. É irrelevante e distrai. O público se lembrará do alienígena, não da sua mensagem principal. Lacuna irrelevante. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Iniciar com um fato interessante, mas comum: 'Sabia que a maioria das pessoas perde 2 horas por dia com tarefas não essenciais?'",
+          "feedback": "⭐️ Melhor que o clichê, mas não é Inesperado o suficiente; é um 'fato de abertura' previsível. Não força a reavaliação. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Concreto: Tornando Ideias Tangíveis",
+      "narrative": "🖼️ Você precisa explicar para os investidores o conceito abstrato de **'procrastinação por sobrecarga de informação'**. Abstrações são esquecíveis. Você decide usar uma Analogia Concreta. **Como você traduz essa abstração em uma imagem tangível?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Falar sobre 'Otimização de Fluxo de Trabalho Interdepartamental' com gráficos complexos e jargões do setor. (Totalmente Abstrato).",
+          "feedback": "❌ Você mergulhou no jargão. Ninguém consegue visualizar 'Otimização de Fluxo de Trabalho'. Você criou confusão. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Pegar um funil de cozinha e derramar uma jarra cheia de água (tarefas) em um copo (sua capacidade). A água transborda. (Analogia Concreta).",
+          "feedback": "✅ Perfeito! A analogia é tangível, visualizável e sensorial. Todos entendem imediatamente o problema da **sobrecarga** e do **transbordamento**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Mostrar uma foto de uma pessoa infeliz na frente de um computador (Vago Emocional).",
+          "feedback": "⚠️ É *visual*, mas a imagem é genérica e a abstração ('infeliz') continua. Não traduz o problema exato de 'sobrecarga de informação'. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Falar sobre o 'Déficit de Atenção por Hiperestímulo' (Jargão Médico).",
+          "feedback": "⭐️ É específico, mas usa jargão técnico. É uma abstração de nicho que a maioria dos investidores não visualizará. Não é a linguagem universal do Concreto. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Credível: Fornecendo Prova e Autoridade",
+      "narrative": "🤝 Os clientes em potencial adoraram a mensagem, mas ainda estão céticos. Eles precisam de **Credibilidade** para agir. O concorrente usa dados vagos. Você precisa de uma prova que realmente convença. Você tem 3 opções de prova. **Qual delas oferece a maior Credibilidade ao público em geral?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Citar: 'A adesão de tarefas aumentou em 45% com o Adesivo Mental em um estudo independente realizado pelo Laboratório de Neurociência Comportamental de Stanford.' (Dados e Autoridade Externa).",
+          "feedback": "✅ Excelente! Você combinou a **Autoridade Externa** (Stanford) com **Dados específicos** (45%). Isso constrói a máxima Credibilidade. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Um depoimento de um 'Estudante Universitário de 20 Anos' que usou o app. (Anti-Autoridade, Pessoas Comuns).",
+          "feedback": "⭐️ A prova do 'Vizinho' (Anti-Autoridade) funciona, pois é identificável, mas não é a prova mais forte. Pode ser desconsiderado como um caso isolado. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Citar a Estatística: 'Nosso produto tem 4.9 estrelas em todas as lojas de aplicativos.' (Estatística sem Contexto).",
+          "feedback": "⚠️ É um dado, mas a credibilidade é baixa. Estrelas podem ser manipuladas. Falta a prova de uma fonte independente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Citar: 'Eu sou o CEO e juro que este produto funciona. Confie em mim.' (Autoridade Interna, Não Confiável).",
+          "feedback": "❌ Ninguém confia no CEO da empresa sobre a própria empresa. É uma autoridade interna e enviesada que não adiciona nenhuma Credibilidade real. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Simples: Encontrando o Núcleo da Mensagem",
+      "narrative": "🗣️ Você está preparando a equipe de vendas para o pitch. Eles têm 30 segundos no elevador para explicar o produto a um executivo. Eles tendem a listar todos os 100 recursos. Para garantir que o **Núcleo** não se perca, você precisa aplicar o **Princípio do Jornalista** (o Lead). **Qual é a primeira e única frase que você deve ensinar à sua equipe?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "É um aplicativo multi-plataforma que otimiza sua lista de tarefas e aumenta a eficiência em 45% (Muito detalhe de apoio).",
+          "feedback": "⭐️ É bom, mas mistura o Núcleo com um detalhe de apoio. O Princípio do Jornalista foca na essência, não no detalhe. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "b",
+          "label": "O Adesivo Mental é o único produto que elimina a procrastinação causada pela sobrecarga de informação. Ponto. (O Núcleo).",
+          "feedback": "✅ Perfeito! Esta é a essência, o *Lead*. Mesmo que o executivo saia do elevador, ele terá a mensagem mais importante. Simples e direto. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Nosso produto é baseado em neurociência comportamental e tem uma interface de usuário intuitiva. (Detalhes irrelevantes).",
+          "feedback": "❌ Jargão e detalhes técnicos que não vendem o principal benefício (o Núcleo). A essência do produto é irrelevante para o benefício. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "É o produto mais barato e mais rápido de usar no mercado. (Núcleo errado).",
+          "feedback": "⚠️ Não é o Núcleo que o CEO priorizou (procrastinação). Você está comunicando a simplicidade, mas a essência errada. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Inesperado: Quebrando Padrões e Gerando Curiosidade",
+      "narrative": "🤔 Sua estratégia é manter a Curiosidade viva no meio de um artigo de blog. Você já capturou a atenção com a surpresa, agora precisa mantê-la. Você deve usar a tática da **Lacuna de Conhecimento** para garantir que o leitor continue lendo. **Qual tática melhor cria uma 'dor' de conhecimento no leitor?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer ao leitor: 'Você já sabe que a maioria dos apps de produtividade falha.'",
+          "feedback": "⚠️ O leitor concorda, mas a Lacuna não é aberta. Não há desafio na crença. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Afirmar: 'Você está usando a técnica 'Pomodoro' errada, e isso não é culpa sua. *Descubra o erro fatal que 99% das pessoas cometem.'*",
+          "feedback": "✅ Excelente! Você valida o esforço do leitor (Não é culpa sua) e depois desafia sua crença atual, abrindo uma Lacuna de Conhecimento que ele precisa desesperadamente preencher. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Fornecer todos os detalhes técnicos do seu algoritmo. (Sobrecarga de informação).",
+          "feedback": "❌ Você sobrecarregou o leitor. Isso não gera Curiosidade; gera tédio e abandono. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Prometer um prêmio em dinheiro se eles lerem o artigo até o fim. (Motivação Externa).",
+          "feedback": "⭐️ Cria engajamento, mas por motivação externa, não por curiosidade intrínseca à mensagem. Não testa o princípio Inesperado. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Concreto: Tornando Ideias Tangíveis",
+      "narrative": "🗣️ Você está em uma reunião para descrever a **'Facilidade de Uso'** do Adesivo Mental – outra abstração comum. Para garantir que a ideia seja memorável e coordenada internamente, você precisa usar uma **Metáfora Concreta**. **Qual metáfora elimina a abstração e cria uma imagem mental compartilhada?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "É a 'Sinergia Ótima da Interface de Usuário com a Programação Modular'. (Jargão Abstrato).",
+          "feedback": "❌ Jargão de novo. Nenhum investidor ou desenvolvedor entende o que fazer com isso. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "É 'como ter seu assistente pessoal mais organizado, só que digital e na sua mão.' (Analogia Vaga).",
+          "feedback": "⚠️ É uma analogia, mas ainda um pouco vaga ('assistente pessoal'). Funciona, mas não é a imagem mental mais forte. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "É 'O Power-Up de Produtividade que te faz sentir como o Neo em Matrix, vendo o código, não a confusão.' (Metáfora Concreta e Visualizável).",
+          "feedback": "✅ Perfeito! O público-alvo (jovens profissionais) entende e visualiza imediatamente a ideia de clareza e controle: ver o 'código'. É tangível e memorável. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "É o 'Próximo Nível de Engajamento do Usuário no Ecossistema de Produtividade'. (Abstração Genérica).",
+          "feedback": "⭐️ Tenta ser aspiracional, mas usa abstrações. No entanto, é melhor do que o jargão técnico. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Credível: Fornecendo Prova e Autoridade",
+      "narrative": "⚖️ Seu concorrente acaba de lançar uma campanha atacando a precisão do seu algoritmo. Você precisa de uma prova imediata e irrefutável para neutralizar a dúvida. Você decide usar o **Princípio dos Dados Anti-Autoridade** (dados concretos que quebram estereótipos). **Qual prova você deve apresentar?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Apresentar um especialista em produtividade do TikTok dizendo que o app é bom.",
+          "feedback": "⚠️ Pouca credibilidade. A fonte é duvidosa e não é uma prova de **dados** irrefutável. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Mostrar uma foto do seu laboratório de desenvolvimento. (Prova Vaga).",
+          "feedback": "❌ Prova de processo não é prova de resultado. Não combate o ataque sobre a *precisão* do algoritmo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Citar a taxa de erro do concorrente (5%) e a sua taxa de erro (0.01%), mostrando que 'você é mais preciso do que um relógio atômico'.",
+          "feedback": "✅ Perfeito! Você usou dados diretos e comparáveis (Credibilidade) e os transformou em Concreto e Inesperado ('relógio atômico') para combater a dúvida. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Apresentar um gráfico de barras com números grandes, mas sem fonte ou contexto. (Credibilidade Questionável).",
+          "feedback": "⭐️ Os números parecem bons, mas a falta de fonte independente reduz a Credibilidade. É um passo na direção certa, mas incompleto. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Simples: Encontrando o Núcleo da Mensagem",
+      "narrative": "📚 Você está desenvolvendo um e-mail de nutrição para usuários iniciantes. Você tem uma lista de 5 benefícios e 5 recursos. Se você listar tudo, eles se sobrecarregarão. Para garantir que o usuário inicie o uso, você deve focar no **Slogan de Comando** (Comando Simples). **Qual comando você usa?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Para começar: 'Revise todas as 10 funcionalidades e explore as configurações de personalização.'",
+          "feedback": "❌ Sobrecarga. Isso é o oposto do Simples e vai gerar paralisia por análise no usuário. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Para começar: 'Leia o nosso guia de 10 páginas antes de interagir com o software.'",
+          "feedback": "⚠️ O usuário quer começar a usar, não ler. O Slogan de Comando deve ser acionável e direto no produto. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Para começar: 'Experimente a Ação de 2 Minutos. Adicione sua ÚNICA tarefa mais temida e elimine a Procrastinação HOJE.'",
+          "feedback": "✅ Excelente! É um Slogan de Comando Simples, focado no **Núcleo** (procrastinação) e acionável em um passo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Para começar: 'Explore as sinergias entre suas listas e o calendário do Google.'",
+          "feedback": "⭐️ Foca em um recurso, mas não no benefício mais importante (o Núcleo). É acionável, mas secundário. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Inesperado: Quebrando Padrões e Gerando Curiosidade",
+      "narrative": "🛑 A campanha de mídia está perdendo força. O público já se acostumou com suas manchetes. Para injetar uma dose de Inesperado, você decide usar o **Princípio do Mistério** para recriar a Lacuna de Conhecimento. **Qual manchete cria um mistério intrigante que força o clique?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O Novo Adesivo Mental está Aqui! Confira as Novas Atualizações!",
+          "feedback": "❌ Previsível e genérico. Não cria mistério nem Lacuna de Conhecimento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Nós Descobrimos o Inimigo Oculto da Produtividade que Ninguém Está Falando. (Mistério Incompleto).",
+          "feedback": "✅ Perfeito! A manchete apresenta um Mistério incompleto (o Inimigo Oculto) que o público sente uma **dor** em não saber. Curiosidade máxima. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O Adesivo Mental é 10x Melhor que a Concorrência, Graças ao Nosso Algoritmo Proprietário.",
+          "feedback": "⭐️ Promessa forte e Credível, mas a linguagem é de marketing padrão. Não cria a Lacuna de Conhecimento do Inesperado. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Como a Simplicidade Aumenta o Foco - Um Guia Completo e Detalhado.",
+          "feedback": "⚠️ É útil, mas é um título de artigo didático, não uma quebra de padrão ou mistério. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Concreto: Tornando Ideias Tangíveis",
+      "narrative": "🎯 Seu objetivo é que os clientes **lembrem** de usar o Adesivo Mental toda vez que sentirem o medo de começar uma tarefa. Você precisa ligar a ideia abstrata de 'medo de começar' a algo Concreto. **Qual tática usa o 'Concreto' para criar uma âncora de memória?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Diga aos usuários: 'Lembre-se de ser mais produtivo e menos ansioso hoje.' (Abstrato e Vago).",
+          "feedback": "❌ Ninguém consegue visualizar ou agir com base em 'ser mais produtivo'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Crie o slogan: 'Quando o *Sapo* te encarar, use o Adesivo Mental.' (Metáfora Concreta do Sapo – Tarefa mais temida).",
+          "feedback": "✅ Perfeito! O 'Sapo' é uma metáfora Concreta e visualizável (engolir o sapo) para a tarefa mais temida. Isso cria uma âncora de memória poderosa. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Use uma citação longa sobre a filosofia da produtividade. (Abstrato e Complexo).",
+          "feedback": "⚠️ É inspirador, mas não é um gatilho de ação Concreto. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Crie uma notificação pop-up a cada hora (Gatilho de Uso, mas não de Memória).",
+          "feedback": "⭐️ É um bom lembrete de uso, mas não liga a memória ao **problema** (medo de começar) de forma tangível. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Credível: Fornecendo Prova e Autoridade",
+      "narrative": "🚀 É o dia do lançamento final, e você está no palco. O público está engajado, mas precisa de um empurrão final para fazer a compra. Você precisa de Credibilidade que inspire a **AÇÃO IMEDIATA**. **Qual tipo de prova cria a maior urgência e confiança para a conversão?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Citar um estudo de caso genérico sobre 'Uma Empresa Qualquer' que economizou 1 milhão de dólares. (Vago e Não Relacionável).",
+          "feedback": "⚠️ O dado é bom, mas o caso é muito distante e genérico para inspirar a ação individual imediata do consumidor. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Oferecer um desconto massivo apenas para as próximas 24 horas. (Foco em preço, não Credibilidade).",
+          "feedback": "❌ Isso cria urgência, mas por preço, não por Credibilidade. Não testa o princípio da lição. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Mostrar o depoimento de um 'Estudante Mediano de 24 Anos' que diz: 'Eu costumava falhar em tudo, mas agora sou um dos melhores da minha turma graças a este app.' (Anti-Autoridade + Transformação).",
+          "feedback": "⭐️ A prova do 'Vizinho' (Anti-Autoridade) cria alta identificação e é a prova de que a transformação é possível para o público. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Citar: 'Comprovado por 9.876 usuários na semana passada: 99% deles concluíram sua tarefa mais temida em 48 horas.' (Estatística Acionável e Recente).",
+          "feedback": "✅ Excelente! É Credível (dados), Concreto (tarefa temida) e Recente (semana passada). Isso oferece a prova de que **'está funcionando agora para pessoas como você'**, inspirando a ação imediata. (3/3 ★)",
+          "score": 3
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 2,
+  "title": "❤️ Narrativas que Grudam: Combatendo o Ceticismo",
+  "introduction": "O 'Adesivo Mental' foi lançado, mas o público parece distante, e a taxa de retenção está baixa. Sua equipe está presa em métricas frias e jargões internos. Seu desafio agora é criar uma campanha que toque o coração (**Emocional**), inspire a ação com histórias (**Histórias**), elimine a comunicação abstrata (**Maldição do Conhecimento**) e restabeleça a confiança (**Credível**). Prepare-se para 12 decisões críticas que irão reacender a conexão emocional com o cliente.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Emocional: Fazendo as Pessoas se Importarem",
+      "narrative": "🗣️ Você está desenhando o texto da primeira tela do aplicativo. Você precisa convencer o usuário a usá-lo imediatamente. O apelo deve ser ao **Auto-Interesse**, mas você sabe que a **Identidade** é um motivador mais profundo. **Qual chamada atinge o 'coração' do usuário, apelando para quem ele *quer* ser?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Comece agora a usar o recurso de filtragem de tarefas e ganhe 45 minutos extras no seu dia. (WIIFY - Ganho de Tempo).",
+          "feedback": "⭐️ Foco no Auto-Interesse (ganho tangível), o 'WIIFY'. É um bom apelo, mas não é o motivador mais profundo. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "b",
+          "label": "Você é o tipo de pessoa que não procrastina. Prove isso a si mesmo. (Identidade).",
+          "feedback": "✅ Perfeito! Você apela para a **Identidade** (quem a pessoa quer ser), o que é um motivador emocional mais forte e duradouro do que um mero benefício de tempo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Otimize sua jornada de engajamento do usuário com o Adesivo Mental. (Foco no Produto/Abstração).",
+          "feedback": "❌ Isso não apela para o interesse do usuário, mas para o interesse da empresa. É jargão de marketing irrelevante para o cliente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Sinta-se mais feliz e realizado com seu trabalho. (Emoção Vaga).",
+          "feedback": "⚠️ O apelo é emocional, mas é genérico e vago. Não fornece um caminho claro para a ação ou uma Identidade forte. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Histórias: Inspirando e Simulando Ação",
+      "narrative": "📚 Você decide publicar um case de sucesso. O objetivo não é apenas inspirar, mas também fornecer **Simulação Mental**, mostrando *como* o produto foi usado. A história é sobre a 'ideia maluca' por trás do Adesivo Mental. **Qual estrutura de História você deve focar para inspirar e fornecer Simulação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Uma 'História de Criatividade' sobre o momento 'Aha!' de um desenvolvedor ao inventar o algoritmo. (Inovação).",
+          "feedback": "✅ Perfeito! As Histórias de **Criatividade** (invenção) inspiram a inovação e o uso de novas soluções. Elas são excelentes para a Simulação Mental do processo de pensamento. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "b",
+          "label": "Uma 'História de Desafio' sobre o CEO superando o ceticismo inicial da diretoria para lançar o produto. (Superação).",
+          "feedback": "⭐️ História inspiradora de superação, mas foca mais na motivação (o 'porquê') do que na Simulação Mental de uso prático do produto. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Uma 'História de Conexão' sobre a equipe de marketing e a equipe de desenvolvimento se unindo. (Vínculo Social).",
+          "feedback": "⚠️ Cria empatia social, mas não tem relação direta com a Simulação Mental do *uso* do produto pelo cliente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Um relato cronológico e técnico dos 5 anos de pesquisa e desenvolvimento do software. (Sem Narrativa).",
+          "feedback": "❌ Relato técnico não é uma História. Não oferece Simulação, Inspiração ou Conexão emocional. É apenas fato seco. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "O Inimigo da Memória: A Maldição do Conhecimento",
+      "narrative": "🤯 Você está revisando a documentação interna. O documento diz: 'Nosso algoritmo usa **Heurísticas de Representatividade** para otimizar o $K$ de clusters.' Você está sob a **Maldição do Conhecimento** e sabe que o público não entende. **Qual termo você deve eliminar imediatamente para começar a quebrar a maldição?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Eliminar 'algoritmo'.",
+          "feedback": "⚠️ O termo 'algoritmo' é amplamente aceito e não é o principal ofensor. Você eliminou um termo útil, mas manteve o jargão. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Eliminar 'Heurísticas de Representatividade' e substituí-lo por 'regras de atalho mental'.",
+          "feedback": "✅ Excelente! Você eliminou o jargão abstrato e o substituiu por uma frase **Simples e Concreta** que o público leigo pode entender (regra de atalho). Você quebrou a Maldição. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Manter tudo e adicionar a frase: 'Em resumo, é complexo.' (Manter o Jargão).",
+          "feedback": "❌ Você está cedendo à Maldição. Assumir que o tema é complexo demais para explicar é a essência do problema. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Eliminar 'otimizar o $K$ de clusters' e substituí-lo por 'melhorar o agrupamento de tarefas'.",
+          "feedback": "⭐️ Você traduziu a parte técnica, mas manteve o Jargão principal (Heurísticas de Representatividade), o que ainda confunde o público. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Credível: Fazendo as Pessoas Acreditarem",
+      "narrative": "📊 Sua melhor estatística é: 'Usuários do Adesivo Mental concluem 70% mais tarefas por semana do que a média nacional.' Este é um número frio. Para dar **Credibilidade e Humanizar** a estatística, você precisa torná-la Concreta. **Como você humaniza o número 70%?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Afirmar: '70% é a maior taxa do mercado. Confiável por nossa equipe de $R\\&D$.' (Foco em Autoridade Interna).",
+          "feedback": "❌ Foco em autoridade interna, o que é de baixa Credibilidade. O número continua frio e não humanizado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Afirmar: 'Isso é o suficiente para o seu fim de semana ser livre e você ter tempo para ligar para sua mãe (Humanização).'",
+          "feedback": "✅ Perfeito! Você transforma o número frio em um **Benefício Concreto e Emocional** (tempo livre, família), humanizando a estatística e aumentando sua Credibilidade percebida. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Afirmar: 'A maioria dos nossos usuários está muito feliz com esses 70% a mais de produtividade.' (Vago).",
+          "feedback": "⚠️ O termo 'muito feliz' é vago e não é uma humanização forte. O público não consegue visualizar o que o número realmente significa para a vida dele. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Afirmar: 'Equivale a você ganhar mais um dia de trabalho por semana, ou 52 dias por ano.' (Analogia de Tempo).",
+          "feedback": "⭐️ Excelente uso de uma **Analogia de Tempo** para traduzir o número em algo Concreto. É forte, mas não toca no lado emocional da humanização. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Emocional: Fazendo as Pessoas se Importarem",
+      "narrative": "🆘 Você está lançando uma campanha beneficente: a cada download, você doa um aplicativo de produtividade para um estudante carente. Para maximizar a empatia, você deve aplicar o **Princípio da Escala** e focar na **Vítima Única**. **Como você deve apresentar o problema para gerar a maior conexão emocional?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Apresentar a estatística: 'Mais de 10 milhões de estudantes carecem de ferramentas de produtividade.' (Estatística Fria).",
+          "feedback": "❌ A estatística de milhões (Princípio da Escala) é fria. As pessoas se importam com **indivíduos**, não com estatísticas. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Contar a história da 'Maria', que tem $14$ anos e só precisa do Adesivo Mental para realizar seu sonho de entrar na faculdade. (Vítima Única).",
+          "feedback": "✅ Perfeito! Você aplicou o **Princípio da Escala** (focar na Maria) para gerar a máxima empatia. As pessoas agem por um indivíduo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Apresentar um vídeo genérico com vários estudantes de $14$ a $22$ anos dizendo que precisam de ajuda. (Grupo Vago).",
+          "feedback": "⭐️ Melhor do que a estatística, pois mostra rostos, mas o foco em um **grupo** dilui o poder emocional da Vítima Única. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Focar em como a doação de caridade é boa para a imagem da sua empresa. (Foco em Auto-interesse da Empresa).",
+          "feedback": "⚠️ Isso apela para o auto-interesse da empresa, o que anula o apelo emocional da caridade. Não foca no benefício emocional do público. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Histórias: Inspirando e Simulando Ação",
+      "narrative": "✍️ Sua equipe de conteúdo criou um post de blog com uma História de Desafio: 'A Jornada de João Para Superar a Procrastinação'. O público está lendo, mas você precisa garantir que eles usem o produto. **Qual elemento você deve destacar na história de João para maximizar a Simulação Mental (o 'ensaio' da ação)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Focar nos sentimentos de João antes de usar o app (Depressão, Ansiedade, Medo). (Foco no Emocional, não na Ação).",
+          "feedback": "⚠️ Foco excessivo na emoção pode paralisar a ação. A Simulação Mental é sobre **como agir**, não apenas sobre sentir. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Detalhar os passos exatos de João ao configurar o app, usando as frases de comando que ele deu ao sistema. (Simulação Mental - Passos Concretos).",
+          "feedback": "✅ Perfeito! O detalhe da ação do **Protagonista** (os passos exatos) permite que o leitor ensaie mentalmente o uso, o que é a função principal da História. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Mencionar a faculdade de João e sua nota final (Foco no Resultado, não na Ação).",
+          "feedback": "⭐️ Foca no resultado final (o sucesso) e é inspirador, mas não fornece Simulação Mental (o caminho para o sucesso). (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Fazer a história terminar com um final aberto para o leitor imaginar o que acontece a seguir. (Final Aberto).",
+          "feedback": "❌ Um final aberto quebra a Simulação de sucesso. O leitor precisa de um ciclo completo (Desafio $\\to$ Solução $\\to$ Sucesso). (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Inimigo da Memória: A Maldição do Conhecimento",
+      "narrative": "👨‍💼 Você está apresentando o conceito do Adesivo Mental para investidores. Você precisa explicar a complexa **'Filosofia de Design Centrada na Cognição do Usuário'** em 10 segundos, sem jargão. Você precisa de uma **Analogia Simples** para quebrar a Maldição do Conhecimento. **Qual analogia atinge a simplicidade e clareza?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Nossa filosofia é uma 'Otimização Preditiva Interativa da Interface.' (Manter o Jargão).",
+          "feedback": "❌ Você manteve o Jargão e a Abstração. Você está sob a Maldição do Conhecimento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "É 'como ter um assistente pessoal que lê a sua mente antes de você apertar um botão.' (Analogia Forte).",
+          "feedback": "✅ Perfeito! A analogia do 'assistente que lê a mente' é **Concreta, Simples e Transparente**, eliminando a necessidade de jargões complexos. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "É a 'Visão 360 do Usuário em Tempo Real' (Analogia Fraca).",
+          "feedback": "⚠️ Melhor que o jargão, mas ainda utiliza a abstração de 'Visão 360', comum no mundo corporativo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "É o 'Sistema Operacional mais Rápido da Atualidade' (Analogia Desviada).",
+          "feedback": "⭐️ Foca em 'velocidade' (Concreto) mas desvia do Núcleo do conceito ('Design Centrado na Cognição'). (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Credível: Fazendo as Pessoas Acreditarem",
+      "narrative": "🧐 Os céticos não confiam em seus dados. Eles dizem que a eficácia do app só funciona para 'pessoas já organizadas'. Para neutralizar o ceticismo, você deve criar um **Teste Verificável** que o público possa realizar por si mesmo. **Qual teste oferece a maior Credibilidade e o menor risco de falha?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Garantia de Devolução do Dinheiro em $30$ dias. (Foco em Risco, não em Teste de Produto).",
+          "feedback": "❌ Foco no Risco (dinheiro), não na prova. O público ainda precisa da Credibilidade para dar o primeiro passo. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Diga: 'Entre em nossa página de depoimentos e leia $5$ histórias de sucesso de pessoas como você.' (Prova Social).",
+          "feedback": "⭐️ A Prova Social é boa, mas o cliente ainda depende de **outros** para provar. Não é um Teste Verificável. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Desafio: 'Em $10$ minutos, liste $3$ tarefas que você procrastinou e veja o Adesivo Mental te fazer começar uma delas AGORA.' (Teste Verificável Simples).",
+          "feedback": "✅ Perfeito! Você criou um **Teste Verificável** de baixo risco e alto engajamento. O público prova a Credibilidade por si mesmo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Citar a autoridade: 'O famoso Psicólogo Dr. X diz que nosso app funciona.' (Autoridade Distante).",
+          "feedback": "⚠️ A Credibilidade depende de uma figura distante, e não da experiência direta do usuário. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Emocional: Fazendo as Pessoas se Importarem",
+      "narrative": "😨 Você está criando um anúncio de 'último aviso' focando no **Medo** da procrastinação constante, para inspirar a ação. O risco é que o medo sem solução gere paralisia. **Como você deve estruturar a mensagem para que o Medo motive a Ação, e não a inação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Apresentar a vida horrível do procrastinador em detalhes e terminar com 'Sua vida é um desastre'. (Medo sem Solução).",
+          "feedback": "❌ O medo sem solução é o que gera **paralisia e inação** (Silêncio). O público se sente impotente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Apresentar o medo e seguir com: 'Mas você pode mudar. Com muito esforço e nossa ajuda.' (Solução Vaga).",
+          "feedback": "⚠️ O medo é seguido por uma solução vaga ('muito esforço'). A emoção pode não ser forte o suficiente para superar o obstáculo percebido. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Apresentar o medo e seguir com: 'Você vai perder a oportunidade... mas o Adesivo Mental torna o primeiro passo fácil e instantâneo.' (Medo + Solução Acionável).",
+          "feedback": "✅ Perfeito! O medo é seguido por uma **Solução Imediata e Simples** (o app). Isso transforma a emoção de paralisia em motor de ação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Focar apenas em frases positivas e aspiracionais, evitando o Medo completamente. (Omissão de Problema).",
+          "feedback": "⭐️ É positivo, mas evita o problema. O medo é um forte motor de ação. É útil, mas não usa o poder do Emocional. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Histórias: Inspirando e Simulando Ação",
+      "narrative": "🎤 Você está fazendo um pitch de $5$ minutos para uma conferência de líderes. O público é cético em relação a novas tecnologias. Você decide abrir com uma **História de Desafio** para provar o valor do seu produto. **Qual tema de História deve ser priorizado para gerar o máximo de Inspiração e Superação de obstáculos?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Contar sobre o funcionário que começou com o salário mínimo e se tornou milionário (Superação Pessoal Irrelevante).",
+          "feedback": "⚠️ A História de Desafio é inspiradora, mas não está ligada ao Núcleo da sua mensagem (produtividade/procrastinação). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Contar sobre o 'Desafio de $6$ Meses' de um cliente que superou a Síndrome do Impostor graças ao app. (Desafio de Identidade).",
+          "feedback": "✅ Perfeito! A História de **Desafio** (Síndrome do Impostor) inspira superação e lida diretamente com a **Identidade** do público-alvo, simulando a vitória. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Contar sobre um cliente que usou o app para organizar o casamento de um parente. (História de Conexão Leve).",
+          "feedback": "⭐️ História útil para Conexão e Simulação, mas o desafio principal (procrastinação no trabalho) não é o foco. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Contar sobre a fundação da empresa em $2015$ e o primeiro produto lançado. (Relato de Fatos).",
+          "feedback": "❌ Relato de fatos não é História de Desafio. É um relato cronológico sem o arco de superação necessário. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Inimigo da Memória: A Maldição do Conhecimento",
+      "narrative": "👶 Sua nova estagiária, recém-saída da faculdade, está confusa com a apresentação de $50$ slides. Ela é o seu **Novato (Novice)**, o teste de fogo para a **Maldição do Conhecimento**. O Slide mais importante é o 'Princípio do Núcleo'. **Qual frase você usa para explicar o slide de forma que ela *realmente* entenda?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Apresentação: 'Focamos no *Lead* para aprimorar a Hierarquia de Informações com uma Taxonomia Clara.' (Jargão e Abstração).",
+          "feedback": "❌ Você falhou no **Teste do Novato**. A estagiária está mais confusa do que nunca. Jargão e abstração mantêm a Maldição. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Tradução: 'Se você tivesse que mandar apenas uma mensagem no Twitter, qual seria? É isso que você deve colocar primeiro em cada slide.' (Simples e Concreto).",
+          "feedback": "✅ Perfeito! Você usou uma analogia **Simples e Concreta** (Twitter) para traduzir o conceito abstrato de **Núcleo** para o Novato. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Tradução: 'É sobre encontrar o Principal Valor Agregado e comunicá-lo de forma otimizada.' (Abstração Melhorada).",
+          "feedback": "⚠️ Você melhorou, mas ainda usa abstrações ('Valor Agregado', 'otimizada'). O Novato pode não visualizar. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Tradução: 'É o que faria seu chefe feliz em $30$ segundos.' (Foco na Intenção, não no Conceito).",
+          "feedback": "⭐️ Você focou na simplicidade, mas desviou o conceito. O Núcleo não é sobre o chefe, é sobre a mensagem. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Credível: Fazendo as Pessoas Acreditarem",
+      "narrative": "🌐 Para o lançamento global, você precisa de um último empurrão de **Credibilidade** na página inicial. Você pode usar a **Prova Social** de pares ou uma **Autoridade** de nicho. O público-alvo é a comunidade tecnológica. **Qual tipo de prova é mais crível e persuasiva?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Depoimento do CEO da Microsoft (Autoridade Máxima).",
+          "feedback": "⭐️ Autoridade máxima. Forte, mas distante. O público sabe que CEOs dão depoimentos pagos. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "b",
+          "label": "Uma estatística: 'Analisamos $10.000$ artigos e provamos que o Adesivo Mental é o mais eficaz.' (Estatística Fria).",
+          "feedback": "⚠️ O número é grande, mas a fonte ('Analisamos') é interna, o que diminui a Credibilidade. O número é frio. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Um selo: 'Votado pela comunidade de engenheiros de software como o aplicativo de produtividade essencial de $2025$.' (Prova Social de Pares).",
+          "feedback": "✅ Perfeito! A **Prova Social de Pares** (a comunidade tecnológica) é altamente Crível, pois é identificável e valida a Identidade do usuário. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Selo de 'Qualidade Premium' da sua própria equipe. (Baixa Credibilidade).",
+          "feedback": "❌ Credibilidade Interna. Ninguém confia em um selo de qualidade dado pela própria empresa. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 3,
+  "title": "🧠 Escalando a Ideia: Simplicidade e Concreto na Prática",
+  "introduction": "O 'Adesivo Mental' está crescendo rapidamente, mas a equipe de integração de novos colaboradores e o suporte ao cliente estão sobrecarregados. O problema? A explicação do produto ainda é muito complexa e técnica. Sua missão é reescrever o material de treinamento e comunicação, usando Analogias, Lacunas de Conhecimento e Linguagem Sensorial para que a ideia seja simples, rápida e tangível para todos. Prepare-se para 12 decisões que irão simplificar a complexidade inerente do produto.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Simples: Usando Esquemas e Analogias",
+      "narrative": "🗣️ Você precisa explicar o recurso central do Adesivo Mental, a 'Organização Automática de Prioridades', para novos usuários leigos em produtividade. O recurso é complexo, mas você deve usar um **Esquema** conhecido. **Qual analogia usa um esquema universalmente familiar para simplificar a ideia?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O recurso é uma 'Matriz de Priorização Multifatorial com Otimização Algorítmica da Curva de Esforço.' (Jargão Complexo).",
+          "feedback": "❌ Falha no princípio de Simplicidade. Você manteve o jargão. Não usou um esquema conhecido. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "É como um 'Semáforo de Trânsito: o vermelho para, o amarelo prepara e o verde te faz agir'. (Esquema Familiar).",
+          "feedback": "✅ Perfeito! O **Esquema** do semáforo é instantaneamente compreendido e conecta a ideia abstrata de 'priorização' a um sistema Simples e Visual. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "É o 'Próximo Nível de Gamificação de Tarefas.' (Analogia Vaga).",
+          "feedback": "⚠️ 'Gamificação' é um conceito comum, mas abstrato. Não é um esquema visual e concreto como o Semáforo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "É como o 'Canivete Suíço da Organização' (Analogia de Versatilidade, não de Priorização).",
+          "feedback": "⭐️ O Canivete Suíço é ótimo para versatilidade, mas não para a ideia de *priorização automática*. É uma analogia forte, mas para o Núcleo errado. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Inesperado: O Poder da Lacuna de Conhecimento",
+      "narrative": "📰 Sua manchete precisa atrair leitores que acreditam ser mestres na gestão do tempo. Você deve usar uma manchete que crie uma **Lacuna de Conhecimento** ao desafiar essa crença. **Qual manchete força o leitor a questionar o que ele pensa que sabe?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Apresentamos o Novo Guia Definitivo de Produtividade em 2025. (Previsível).",
+          "feedback": "❌ Previsível. Não há Lacuna. O leitor sente que já viu isso. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Você tem usado o método GTD errado por 5 anos. Descubra o erro que o impede de avançar. (Desafio à Crença).",
+          "feedback": "✅ Perfeito! Você valida que o leitor usa o método, mas imediatamente desafia a crença (**usado errado**), abrindo uma Lacuna de Conhecimento que ele precisa fechar. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Conheça o Segredo do Sucesso dos Milionários. (Mistério Genérico).",
+          "feedback": "⚠️ Tenta ser Mistério, mas é muito genérico e clichê. É um 'clique-isca' fraco. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Você sabia que a falta de sono é o inimigo nº 1 da produtividade? (Fato Comum).",
+          "feedback": "⭐️ É um fato interessante, mas não desafia uma crença do leitor, nem cria uma Lacuna de Conhecimento forte. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Concreto: O Poder da Linguagem Sensorial",
+      "narrative": "🎨 A equipe de design precisa de uma descrição do aplicativo para inspirar as cores e texturas. Em vez de usar 'Interface Intuitiva', você deve usar **Linguagem Sensorial**. **Qual frase cria a imagem mais Concreta e sensorial de 'facilidade de uso'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A interface do usuário (UI) é otimizada para uma experiência de usuário (UX) aprimorada. (Abstração).",
+          "feedback": "❌ Abstração pura. Nenhuma imagem, cor ou sensação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Os botões são tão claros quanto um céu de verão e deslizam suavemente como manteiga derretida. (Sensorial e Metáfora Concreta).",
+          "feedback": "✅ Perfeito! Você usou a **Linguagem Sensorial** (claro, suave) e **Metáforas Concretas** (céu de verão, manteiga) para transmitir a ideia. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O aplicativo é rápido, fácil e simples de usar. (Descritivo, mas Abstrato).",
+          "feedback": "⚠️ Descritivo, mas sem âncoras sensoriais. O público não consegue 'sentir' a facilidade. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O design é baseado na psicologia das cores e na neurociência cognitiva. (Jargão Técnico).",
+          "feedback": "⭐️ É específico, mas técnico. Não traduz para a sensação do usuário. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Emocional: Princípio da Escala e Vítima Única",
+      "narrative": "❤️ Você está lançando uma nova campanha para 'Salvar o Foco'. Você precisa que o público se importe com o problema da produtividade. Em vez de números grandes, você deve aplicar o **Princípio da Escala** (Vítima Única). **Qual abordagem cria o máximo de conexão e empatia?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O Foco é perdido por $500$ milhões de pessoas globalmente. (Estatística Fria).",
+          "feedback": "❌ Estatísticas grandes paralisam a empatia. A Vítima Única se perde no número. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Foco na história da 'Sarah', uma mãe solo que só precisa de $15$ minutos de foco por dia para terminar seu curso e mudar de vida. (Vítima Única).",
+          "feedback": "✅ Perfeito! Você focou na **Vítima Única** (Sarah) e no alto valor emocional (mudar de vida). A emoção é ativada. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Foco na história de 10 clientes de sucesso, todos com histórias inspiradoras. (Grupo Vago).",
+          "feedback": "⭐️ 10 histórias são melhores do que um número, mas a emoção se dilui no grupo. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Foco no seu próprio desafio de focar e como você o superou. (Foco em Autoridade).",
+          "feedback": "⚠️ O foco em si mesmo é menos poderoso que o foco na Vítima Única, que o público pode salvar. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Simples: Usando Esquemas e Analogias",
+      "narrative": "⚙️ Você precisa descrever o complexo 'Sistema de Integração de Aplicativos' para parceiros de negócios. Você deve usar um **Esquema Familiar de Negócios** para simplificar a versatilidade. **Qual analogia usa um esquema de negócios conhecido e acessível?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "É uma 'Estratégia de Integração Interdepartamental Sinergética' (Jargão).",
+          "feedback": "❌ Jargão. A analogia falhou em simplificar. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "É a 'API mais aberta e robusta da década'. (Foco na Tecnologia).",
+          "feedback": "⚠️ Foco no detalhe técnico. A analogia não traduz o *benefício* de forma simples. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "É como o 'USB para a Produtividade: você conecta qualquer coisa e ela funciona'. (Esquema Familiar de Negócios/Tecnologia).",
+          "feedback": "✅ Perfeito! O **Esquema** do USB é universalmente entendido no mundo da tecnologia/negócios e comunica Simplicidade e Versatilidade. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "É o 'Ponto de Encontro de Todos os Seus Aplicativos.' (Descritivo Simples).",
+          "feedback": "⭐️ É Simples, mas a metáfora do 'ponto de encontro' não é tão forte quanto o poder de conexão universal do USB. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Inesperado: O Poder da Lacuna de Conhecimento",
+      "narrative": "🛑 O público-alvo tem um preconceito comum: 'aplicativos de produtividade só nos fazem perder mais tempo'. Você precisa de uma manchete que use o **Princípio do Anti-Provérbio** para criar uma Lacuna. **Qual opção quebra a crença existente e atrai a atenção?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Apresentamos o único app que realmente economiza seu tempo. (Afirmação Previsível).",
+          "feedback": "❌ Não quebra a crença, apenas faz uma afirmação previsível que será ignorada. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O Maior Segredo da Produtividade: **O melhor aplicativo é aquele que você nunca abre.** (Anti-Provérbio).",
+          "feedback": "✅ Perfeito! Você usou o **Anti-Provérbio** para quebrar a crença (o app bom é o que você não precisa abrir o tempo todo), abrindo uma Lacuna de Curiosidade. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Descubra o 'erro fatal' que você comete todo dia. (Lacuna de Conhecimento Vaga).",
+          "feedback": "⚠️ Tenta criar uma Lacuna, mas é muito genérico. O leitor precisa que a quebra de crença seja mais específica. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O Adesivo Mental provou ser 45% mais eficaz que a concorrência. (Foco em Credibilidade).",
+          "feedback": "⭐️ Boa prova de Credibilidade, mas não quebra a crença básica sobre a perda de tempo com apps. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Concreto: O Poder da Linguagem Sensorial",
+      "narrative": "🧠 Você está ensinando aos designers a diferença entre 'facilidade de uso' e 'experiência prazerosa'. Para ilustrar a 'Experiência Prazerosa', você deve usar um **Adereço Concreto** que evoque uma sensação. **Qual adereço/metáfora é mais eficaz?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Mostrar um gráfico de satisfação do usuário. (Abstração Visual).",
+          "feedback": "❌ Gráfico é visual, mas não sensorial. Não evoca 'prazer'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Dizer: 'A experiência deve ser **confortável**, como usar um moletom velho e macio'. (Linguagem Sensorial/Metáfora Tátil).",
+          "feedback": "✅ Perfeito! A metáfora do moletom velho é **Concreta e Tátil**, evocando imediatamente a sensação de conforto e prazer. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer: 'A experiência deve ser 'Premium' e 'Exclusiva'. (Abstração de Status).",
+          "feedback": "⚠️ Apela para o Emocional de status, mas não evoca uma imagem ou sensação Concreta. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Dizer: 'A experiência deve ser rápida, como um carro esportivo.' (Foco na Velocidade, não no Prazer Sensorial).",
+          "feedback": "⭐️ Foco na velocidade (Concreto), mas não captura a sensação de prazer e conforto. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Emocional: Princípio da Escala e Vítima Única",
+      "narrative": "😭 Em um webinar, você precisa de um momento emocional para motivar as pessoas a adotarem a filosofia de 'foco no essencial'. Você deve apelar para a **Dor Emocional da Sobrecarga**. **Qual apelo cria a maior empatia e conexão emocional com o público?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Foco na estatística de burnout de $80%$ de CEOs no último ano. (Estatística Fria e Distante).",
+          "feedback": "❌ O público não se identifica com CEOs. O número grande (Escala) é frio. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Foco na 'Vítima Única': 'Lembre-se daquele domingo em que você não conseguiu brincar com seus filhos por estar respondendo e-mails. Vamos salvar esses momentos.' (Conexão Emocional de Família).",
+          "feedback": "✅ Perfeito! Você usou a **Vítima Única** (os filhos) e o **Concreto** (o domingo) para criar uma forte dor emocional de perda de tempo com a família. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Foco em como a sobrecarga afeta a sua conta bancária. (Foco em Auto-Interesse Pessoal).",
+          "feedback": "⭐️ Apela ao Auto-Interesse (dinheiro), que é um motivador, mas não é tão profundo quanto a conexão familiar. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Foco em como sua concorrência está falhando por causa da sobrecarga. (Foco no Outro).",
+          "feedback": "⚠️ Não apela para o público diretamente. Foca na dor do concorrente. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Simples: Usando Esquemas e Analogias",
+      "narrative": "👨‍🏫 Sua equipe está lutando para explicar o conceito de 'Manutenção Contínua' do produto. Eles usam 'metodologia de desenvolvimento ágil'. Você precisa de um **Esquema Natural** para simplificar. **Qual analogia Simples comunica a ideia de 'manutenção contínua'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "É como a 'Otimização Sinergética em Ciclos Interativos'. (Jargão Complexo).",
+          "feedback": "❌ Jargão. Zero Esquema Familiar. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "É como 'o jardineiro que cuida do seu gramado toda semana'. (Esquema Natural).",
+          "feedback": "✅ Perfeito! O **Esquema Natural** da jardinagem (cuidado constante e incremental) comunica a ideia de 'manutenção contínua' de forma Simples e Concreta. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "É a 'Manutenção Preventiva de Nível 5'. (Jargão Técnico).",
+          "feedback": "⚠️ É técnico e não cria um Esquema mental fácil. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "É como a 'Revisão Anual de Metas Financeiras.' (Esquema de Negócios/Financeiro).",
+          "feedback": "⭐️ É um Esquema Familiar para executivos, mas não é tão universalmente Simples quanto a jardinagem. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Inesperado: O Poder da Lacuna de Conhecimento",
+      "narrative": "⏳ Você está no final de um vídeo de vendas. Você já deu a solução (o app), mas precisa de um último empurrão para a compra, reativando a **Curiosidade** sobre o futuro. **Qual frase cria uma Lacuna de Conhecimento sobre o potencial do produto?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Seja produtivo amanhã. Clique no botão para comprar. (Fechamento Padrão).",
+          "feedback": "❌ Fechamento padrão. Não há Lacuna ou Curiosidade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Você só está vendo 1% do potencial do Adesivo Mental. O $99%$ restante é o que realmente muda a vida. Clique para desbloquear. (Lacuna do Segredo).",
+          "feedback": "✅ Perfeito! Você usou o **Princípio do Segredo** (1% vs 99%) para abrir uma Lacuna de Conhecimento sobre o potencial futuro, motivando a ação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Compre agora e use o cupom DESCONTO10. (Foco em Preço).",
+          "feedback": "⚠️ Foco no preço, não na Curiosidade/Lacuna. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Você está a apenas $48$ horas de ser $45%$ mais produtivo. (Foco no Benefício e Credibilidade).",
+          "feedback": "⭐️ Foco no benefício (Credibilidade/Concreto), mas não cria a Lacuna de Curiosidade sobre o 'segredo'. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Concreto: O Poder da Linguagem Sensorial",
+      "narrative": "📢 Em um anúncio de áudio, você precisa descrever o **'Alívio da Ansiedade da Sobrecarga'** de forma Concreta, sem usar jargão. Você só tem som e palavras. **Qual frase usa Linguagem Sensorial Auditiva e Metáfora Concreta?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A ansiedade da sobrecarga é resolvida com a nossa metodologia de priorização. (Abstração).",
+          "feedback": "❌ Abstração. Nenhuma sensação ou som. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O alívio é como o **silêncio** profundo que acontece depois que um trem barulhento passa. (Linguagem Sensorial Auditiva/Metáfora Concreta).",
+          "feedback": "✅ Perfeito! Você usou a **Linguagem Sensorial Auditiva** (silêncio) e uma metáfora Concreta (o trem barulhento) para dar tangibilidade ao alívio. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Você se sentirá $100%$ menos sobrecarregado. (Estatística Abstrata).",
+          "feedback": "⚠️ Estatística abstrata. Não é um Concreto sensorial. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O alívio é rápido e eficaz. (Descritivo Vago).",
+          "feedback": "⭐️ É descritivo, mas sem a riqueza da Linguagem Sensorial. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Emocional: Princípio da Escala e Vítima Única",
+      "narrative": "🔑 Seu último pitch visa a fidelidade a longo prazo. Você já conseguiu o dinheiro; agora precisa do coração. Você deve apelar para a **Comunidade e Conexão** (um motivador emocional). **Qual apelo cria o máximo de vínculo emocional e Identidade de longo prazo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Seja parte da elite de $1%$ de produtores mundiais. (Foco em Status/Auto-Interesse).",
+          "feedback": "⭐️ Foco em Auto-Interesse e Status. Forte, mas não cria o vínculo emocional profundo de **Comunidade**. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "b",
+          "label": "Lembre-se: 'Nós não somos clientes; somos a comunidade que está reescrevendo as regras do trabalho para ter tempo para a vida.' (Identidade Comunitária).",
+          "feedback": "✅ Perfeito! Você criou uma forte **Identidade Comunitária** e ligou a ideia a um valor emocional (tempo para a vida). Isso gera lealdade. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Promova nosso produto para ganhar descontos no próximo ano. (Foco em Recompensa Externa).",
+          "feedback": "❌ Foco em recompensa financeira. Isso é externo e não cria o vínculo emocional necessário. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Você é o herói que venceu a procrastinação. (Foco no Individual).",
+          "feedback": "⚠️ Foco no indivíduo, não na comunidade. O vínculo é mais fraco. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 4,
+  "title": "🏆 O Pitch Final: Emoção, História e Foco Essencial",
+  "introduction": "A campanha do 'Adesivo Mental' precisa de um fechamento triunfante. Seu último desafio é combinar os elementos mais poderosos do SUCCESs: motivar a ação através da Identidade (**Emocional**), inspirar com narrativas profundas (**Histórias**), manter a clareza máxima (**Simples**) e quebrar o último ceticismo com a **Surpresa Relevante** (**Inesperado**). Você tem 12 decisões para garantir que esta ideia não apenas grude, mas se torne um movimento.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Emocional: Apelando para o Auto-Interesse e a Identidade",
+      "narrative": "🎯 Você está criando um apelo de fidelidade a longo prazo, focado em manter o usuário ativo após o primeiro mês. O apelo deve ir além do benefício ('economizar tempo') e atingir a **Identidade**. **Qual apelo reforça a auto-imagem positiva do usuário?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Continue usando o Adesivo Mental para economizar 4 horas por semana! (Foco em Auto-Interesse/Benefício).",
+          "feedback": "⭐️ Foco no Auto-Interesse (ganho tangível). É eficaz para a ação imediata, mas não para a fidelidade baseada na auto-imagem. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "b",
+          "label": "Você é um **Procrastinador Superado**. Mantenha o seu novo status de mestre do foco. (Foco na Identidade).",
+          "feedback": "✅ Perfeito! Você ligou o uso do produto à **Identidade** (o 'tipo de pessoa que não procrastina'). O desejo de manter essa auto-imagem é um motivador emocional duradouro. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Nosso produto é baseado em ciência cognitiva. (Foco Racional/Risco).",
+          "feedback": "❌ Foco em detalhes racionais. Ignora o fator emocional e a Identidade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Você pode cancelar a qualquer momento se não estiver feliz. (Foco em Risco).",
+          "feedback": "⚠️ O foco no risco de saída não reforça o motivo para ficar. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Histórias: As Três Tramas Mestre",
+      "narrative": "🎬 Sua próxima campanha de vídeo precisa inspirar os líderes de equipe a adotarem o Adesivo Mental. O objetivo é mostrar que a inovação é possível, mesmo em um ambiente rígido. **Qual das Três Tramas Mestre você deve escolher para inspirar a Inovação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A 'Trama de Conexão' sobre dois gerentes de equipes diferentes que se tornaram amigos. (Foco em Empatia).",
+          "feedback": "⚠️ Trama de Conexão. Inspira empatia, mas não foca na **Inovação** e descoberta de novas soluções. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "A 'Trama de Desafio' sobre uma empresa que quase faliu, mas sobreviveu. (Foco em Persistência).",
+          "feedback": "⭐️ Trama de Desafio. Inspira persistência, mas a Inovação (a solução) não é o ponto central, mas sim a sobrevivência. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "A 'Trama de Criatividade' sobre um funcionário que, por engano, descobriu um novo uso revolucionário para o app. (Foco em Inovação).",
+          "feedback": "✅ Perfeito! A Trama de **Criatividade** (o momento 'Aha!' por acidente) inspira a busca por novas soluções e inovação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Um documentário sobre a história da gestão do tempo, sem um protagonista claro. (Foco em Fatos).",
+          "feedback": "❌ Não é uma Trama Mestre acionável. Foca em fatos, não em inspiração. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Simples: O Princípio do Jornalista e a Prioridade",
+      "narrative": "📰 Você está escrevendo um comunicado de imprensa. Há 5 notícias boas, mas você precisa de um **Lead** claro e único. O foco principal deve ser o benefício que o cliente mais valoriza: **recuperar o tempo livre**. **Qual frase aplica o Princípio do Jornalista?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Adesivo Mental Anuncia o Novo Recurso de Otimização, Aumentando a Velocidade em 15%. (Foco em Detalhe).",
+          "feedback": "⚠️ Foca em um detalhe técnico. O público se preocupa com o *benefício* de recuperar o tempo livre. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Pela primeira vez, você pode recuperar 4 horas de tempo livre por semana com o Adesivo Mental. (O Lead - Foco na Prioridade).",
+          "feedback": "✅ Perfeito! O **Lead** foca no benefício mais importante (tempo livre) imediatamente, aplicando a Pirâmide Invertida. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Adesivo Mental é o futuro da produtividade. (Slogan Vago).",
+          "feedback": "❌ É vago. Não comunica o Núcleo principal. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "O CEO do Adesivo Mental está otimista sobre o futuro da empresa. (Foco na Empresa, não no Cliente).",
+          "feedback": "⭐️ Foca na emoção (otimismo), mas o Lead deve ser sobre o **benefício do cliente**. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Inesperado: O Poder da Surpresa Relevante",
+      "narrative": "🤯 Sua mensagem de marketing é 'O Adesivo Mental elimina a procrastinação'. O público está cético. Você precisa de uma **Surpresa Relevante** que quebre uma suposição sobre a *causa* da procrastinação. **Qual Surpresa desafia uma crença comum?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A procrastinação é causada por um verme invisível no seu cérebro. (Surpresa Irrelevante).",
+          "feedback": "❌ Surpresa irrelevante. Choca, mas distrai da solução. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O verdadeiro motivo da sua procrastinação não é preguiça, mas **'sobrecarga de tarefas boas'**. (Quebra de Suposição/Surpresa).",
+          "feedback": "✅ Perfeito! A **Surpresa Relevante** quebra a suposição mais comum ('eu sou preguiçoso') e recontextualiza o problema como sobrecarga (o Núcleo do produto). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Você só está procrastinando porque não está motivado o suficiente. (Afirmação Comum).",
+          "feedback": "⚠️ Isso reforça a suposição comum, não a quebra. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "A procrastinação é 15% mais alta às terças-feiras. (Fato Interessante, mas Não Revelador).",
+          "feedback": "⭐️ Fato interessante. É uma surpresa leve, mas não quebra uma suposição fundamental. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Emocional: Apelando para o Auto-Interesse e a Identidade",
+      "narrative": "⚖️ Seu público é composto por profissionais liberais que valorizam muito a **Liberdade e o Controle** sobre seu tempo. Seu apelo deve focar nesse valor central (Identidade). **Qual frase apela mais diretamente para o valor emocional de 'Controle Pessoal'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Use nosso app para que seu chefe não possa te criticar. (Medo/Foco Externo).",
+          "feedback": "⚠️ Apela ao medo (evitar crítica), mas não ao valor de **Liberdade e Controle**. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Com o Adesivo Mental, você não é um escravo da sua lista de tarefas, mas sim o **Comandante da sua agenda**. (Foco na Identidade/Controle).",
+          "feedback": "✅ Perfeito! A metáfora do **Comandante** reforça o valor de **Controle e Identidade** que os profissionais liberais mais prezam. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Nosso app oferece a melhor função de arrastar e soltar do mercado. (Foco em Recurso).",
+          "feedback": "❌ Foco em um recurso. Ignora o apelo emocional. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Você vai ganhar R$ 500 a mais por mês se usar nosso app. (Foco em Auto-Interesse/Dinheiro).",
+          "feedback": "⭐️ Foco em Auto-Interesse (dinheiro). É forte, mas o Controle é o valor mais profundo. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Histórias: As Três Tramas Mestre",
+      "narrative": "🌍 Você está criando um case de uso para um público multicultural, onde as barreiras de comunicação e cultura são um problema. Você quer inspirar a **Empatia e a Colaboração**. **Qual das Três Tramas Mestre você deve escolher?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A 'Trama de Desafio' sobre o funcionário que trabalhou 80 horas por semana para bater a meta. (Foco em Sacrifício Individual).",
+          "feedback": "❌ A trama de Desafio foca no indivíduo, não na colaboração, e pode inspirar esgotamento (burnout). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A 'Trama de Criatividade' sobre a descoberta do novo recurso de tradução de tarefas. (Foco em Inovação).",
+          "feedback": "⚠️ Foca na inovação, mas o valor principal é a Empatia e a Colaboração. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "A 'Trama de Conexão' sobre a gerente de projetos do Brasil e o desenvolvedor da Coreia que superaram a diferença de fuso horário. (Foco em Empatia/Colaboração).",
+          "feedback": "✅ Perfeito! A Trama de **Conexão** sobre a superação de barreiras de fuso e cultura inspira Empatia e reforça o valor da Colaboração. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Um relato sobre como a empresa economizou 1 milhão de dólares com a comunicação aprimorada. (Foco em Resultado Racional).",
+          "feedback": "⭐️ Foco no resultado racional. Não inspira a ação emocional de Conexão. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Simples: O Princípio do Jornalista e a Prioridade",
+      "narrative": "📈 Você está fazendo uma apresentação de $5$ minutos sobre a estratégia de mercado. Você tem 10 pontos. O tempo é limitado. Você deve aplicar o **Princípio da Exclusão** para focar no Núcleo. **Qual é a primeira informação que você deve sacrificar?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O **Lead**: 'Nossa meta é triplicar o número de usuários ativos em 12 meses.' (Informação Essencial).",
+          "feedback": "❌ Não sacrifique o Lead. Isso é a informação mais importante, o Núcleo da estratégia. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O detalhe de suporte: 'A paleta de cores do aplicativo será alterada em $3$ meses.' (Detalhe Irrelevante).",
+          "feedback": "✅ Perfeito! O **Princípio da Exclusão** exige que você sacrifique o detalhe irrelevante para proteger o Núcleo da mensagem (a meta de $3$x). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "A **Credibilidade**: 'O Adesivo Mental é 45% mais eficaz que a concorrência.' (Informação de Apoio Forte).",
+          "feedback": "⭐️ É forte. É um detalhe de apoio importante, mas não o Núcleo. Poderia ser sacrificado, mas é um sacrifício caro. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "A **Analogia**: 'Nosso app é como o Canivete Suíço da Produtividade.' (Analogia de Simplificação).",
+          "feedback": "⚠️ A analogia é crucial para a Simplicidade. Sacrificá-la aumenta o risco de confusão. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Inesperado: O Poder da Surpresa Relevante",
+      "narrative": "💰 O preço do Adesivo Mental é mais alto que o da concorrência. Você precisa justificar o preço com uma **Surpresa Relevante** que quebre a suposição de que 'o mais barato é melhor'. **Qual Surpresa recontextualiza o preço?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Surpresa: 'O mais barato é sempre o melhor, exceto o nosso.' (Afirmação Vaga).",
+          "feedback": "❌ Afirmação vaga. Não quebra a suposição com dados ou um novo contexto. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Surpresa: 'Se você economizar apenas $30$ minutos por dia (graças ao app), nosso app é, na verdade, $10$ vezes mais barato que a concorrência.' (Quebra de Suposição/Recontextualização Concreta).",
+          "feedback": "✅ Perfeito! A **Surpresa Relevante** quebra a suposição ao recontextualizar o preço (o custo é medido em tempo, não em dinheiro), e o torna **Concreto** e **Crível**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Surpresa: 'Nosso CEO comprou um iate novo com a receita.' (Surpresa Irrelevante).",
+          "feedback": "⚠️ Surpresa irrelevante e negativa. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Surpresa: 'O preço será duplicado em $6$ meses.' (Urgência, não Justificativa).",
+          "feedback": "⭐️ Cria urgência, mas não justifica a suposição de que o preço atual vale a pena. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Emocional: Apelando para o Auto-Interesse e a Identidade",
+      "narrative": "🛑 Você detecta que o público está paralisado pelo **Medo da Perda** (de tempo ou dinheiro). Você precisa usar esse medo como motor de ação, ligando a inação à perda de um **Valor Central** do público. **Qual apelo usa a aversão à perda de forma eficaz?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Se você não comprar hoje, perderá o desconto de $10%$. (Aversão à Perda Trivial).",
+          "feedback": "⚠️ Apela à perda, mas de forma trivial. O desconto não é um motivador profundo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Se você não agir hoje, continuará a ser um procrastinador. (Aversão à Perda de Identidade).",
+          "feedback": "✅ Perfeito! Você usou a **Aversão à Perda** (o medo de **continuar** com uma Identidade negativa) para motivar a ação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Você vai perder a oportunidade de ter uma interface bonita. (Perda de Recurso).",
+          "feedback": "❌ Foco em um recurso estético. Baixa aversão à perda. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Você vai perder a chance de ser o melhor do mercado. (Perda de Status/Auto-Interesse).",
+          "feedback": "⭐️ Foco na perda de status. É forte, mas a perda de Identidade (o rótulo 'procrastinador') é mais visceral. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Histórias: As Três Tramas Mestre",
+      "narrative": "💡 A equipe interna de P&D está desmotivada. Eles precisam de uma história que reforce o valor da **Inovação Contínua** e da experimentação. **Qual das Três Tramas Mestre você usa para inspirar a experimentação interna?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A 'Trama de Desafio' sobre como a empresa superou a crise financeira de $2020$. (Superação da Adversidade).",
+          "feedback": "⭐️ Inspira persistência, mas não diretamente a **experimentação e inovação** que a equipe P&D precisa. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "b",
+          "label": "A 'Trama de Criatividade' sobre o fracasso de 99 protótipos que levou ao sucesso do protótipo 100. (Inspiração para a Experimentação).",
+          "feedback": "✅ Perfeito! A Trama de **Criatividade** sobre o fracasso (o preço da inovação) inspira a **experimentação** e elimina o medo de errar. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "A 'Trama de Conexão' sobre a amizade entre o CEO e o CTO. (Vínculo Social).",
+          "feedback": "⚠️ Foco na conexão social, não na inovação. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Um relato sobre as metas de lucro do próximo trimestre. (Foco em Resultados Racionais).",
+          "feedback": "❌ Fatos e números. Não é uma História, nem inspira a emoção desejada. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Simples: O Princípio do Jornalista e a Prioridade",
+      "narrative": "📧 Você está escrevendo um e-mail para um cliente em potencial que solicitou informações. O Lead deve ser a primeira frase. O cliente está sobrecarregado. **Qual Lead comunica o Núcleo Simples e prioriza a solução para a sobrecarga?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Assunto: 'Segue em anexo a apresentação de $50$ páginas sobre o Adesivo Mental.' (Foco em Detalhes).",
+          "feedback": "❌ Foco na sobrecarga (50 páginas). Falha no Princípio do Jornalista. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Primeira frase: 'Seu problema de sobrecarga de tarefas termina aqui.' (O Lead - Foco na Solução).",
+          "feedback": "✅ Perfeito! O **Lead** foca na solução do problema principal (sobrecarga) imediatamente, aplicando o Princípio da Exclusão. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Primeira frase: 'O Adesivo Mental oferece integração com Google Calendar e Slack.' (Foco em Recurso).",
+          "feedback": "⚠️ Foco em um recurso. O Lead deve focar no benefício/solução. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Primeira frase: 'Somos o produto mais premiado da nossa categoria.' (Foco em Credibilidade/Status).",
+          "feedback": "⭐️ Foco em Credibilidade. É forte, mas não comunica a solução para a **dor** do cliente. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Inesperado: O Poder da Surpresa Relevante",
+      "narrative": "💰 Você está enfrentando um mercado cético que acredita que 'você não pode resolver a procrastinação com um aplicativo'. Você precisa de uma **Surpresa Relevante** que quebre essa suposição sobre a *própria eficácia dos apps*. **Qual surpresa é mais persuasiva?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Surpresa: 'A procrastinação foi inventada pelo governo em $1950$.' (Surpresa Irrelevante).",
+          "feedback": "❌ Surpresa irrelevante. Choca, mas não leva à mensagem principal. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Surpresa: 'Nosso app tem 1500 recursos, mais que a concorrência.' (Surpresa de Recurso Irrelevante).",
+          "feedback": "⚠️ Surpresa de recurso. Não quebra a suposição sobre a *eficácia* do aplicativo em resolver o problema. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Surpresa: 'Nós vamos te dar o Adesivo Mental por $1$ ano. Se você não melhorar em $30$ dias, você nos paga $100$.' (Quebra de Suposição/Risco Invertido).",
+          "feedback": "⭐️ Aposta audaciosa. É uma Surpresa, mas é sobre o risco (dinheiro) e não sobre o funcionamento do produto. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Surpresa: 'Adesivo Mental é o único app que você deve tentar fechar $5$ vezes por dia. É por isso que ele funciona.' (Quebra de Suposição/Recontextualização Concreta).",
+          "feedback": "✅ Perfeito! A **Surpresa Relevante** quebra a suposição de uso ('o app deve estar sempre aberto') e recontextualiza o uso (fechar o app é o que gera foco), tornando-o Crível e Inesperado. (3/3 ★)",
+          "score": 3
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 5,
+  "title": "⚓️ Âncoras Mentais: Concreto, Emoção e Ação",
+  "introduction": "O 'Adesivo Mental' está na fase de consolidação. A comunicação não pode mais ser apenas 'boa'; ela precisa ser **inesquecível** e **acionável**. Você precisa criar materiais que garantam que os usuários não apenas *entendam* o valor, mas que **o sintam** (Emocional), **o visualizem** (Concreto) e **acreditem** (Credível). Seu objetivo é dar à ideia a máxima aderência mental, usando a dor da perda e a visualização.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Concreto: O Poder da Visualização e da Memória",
+      "narrative": "🧠 Você precisa que o usuário se lembre da principal funcionalidade (eliminar a sobrecarga) no meio de um dia agitado. Você deve criar uma **Âncora Mental** sensorial. **Qual frase usa o Concreto de forma mais eficaz para ativar a recuperação da memória?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Lembre-se de otimizar sua lista de tarefas para a máxima eficiência. (Abstração).",
+          "feedback": "❌ Abstração. Nenhuma imagem ou sensação. Falha em criar uma âncora. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Lembre-se daquele 'nó de estômago' que você sente. O Adesivo Mental é o par de tesouras para cortá-lo. (Metáfora Concreta e Sensorial).",
+          "feedback": "✅ Perfeito! O 'nó de estômago' é uma **Âncora Sensorial Concreta** para a ansiedade. A 'tesoura' é a metáfora visual e acionável para o alívio. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Lembre-se de usar o app, pois ele é rápido e eficiente. (Descritivo Vago).",
+          "feedback": "⚠️ Descritivo, mas não sensorial. Não ajuda o cérebro a 'arquivar' a ideia. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Lembre-se da reunião de $10h$ que você não pode perder. (Foco em Evento).",
+          "feedback": "⭐️ Foco em um evento Concreto, mas a âncora é no evento, não na solução que você oferece. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Credível: Estatísticas Humanizadas e o Princípio da Escala",
+      "narrative": "📊 Sua melhor estatística de desempenho é: 'O Adesivo Mental economiza, em média, $48$ horas por ano por usuário.' Este número é alto, mas frio. Para dar **Credibilidade e Engajamento**, você precisa humanizá-lo com a **Escala Humana**. **Como você traduz 48 horas de forma mais memorável?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Afirmar: 'Isso é o suficiente para pagar o salário de um estagiário por $1$ semana.' (Escala Vaga/Distante).",
+          "feedback": "⚠️ A comparação é financeira e distante da experiência diária do usuário. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Afirmar: 'Isso equivale a você assistir a todos os filmes do Senhor dos Anéis 4 vezes.' (Escala Humana - Foco em Lazer).",
+          "feedback": "✅ Perfeito! Você usou a **Escala Humana** (filmes populares) para traduzir o número em um ganho de **lazer tangível**, aumentando a Credibilidade percebida. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Afirmar: '48 horas é $20%$ a mais do que a concorrência. Fonte: Harvard Business Review.' (Foco em Autoridade/Racional).",
+          "feedback": "⭐️ É Crível (Autoridade), mas não é Humanizado. O número ainda é abstrato. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Afirmar: '48 horas é um número grande. Por favor, acredite em nós.' (Apelo à Confiança).",
+          "feedback": "❌ Apelo genérico à confiança. Não é Credibilidade, nem Concreto. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Emocional: Aversão à Perda e o Poder da Identidade",
+      "narrative": "⏳ Você está enviando um e-mail de 'última chance' para um teste gratuito de $7$ dias. Para maximizar a conversão, você deve apelar para a **Aversão à Perda**. **Qual frase enquadra o final do teste como uma 'perda' significativa?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Se você agir agora, você pode ganhar $10%$ de desconto. (Foco no Ganho).",
+          "feedback": "⚠️ Foco no ganho. A Aversão à Perda é um motivador mais forte. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Não perca a chance de se tornar a **pessoa mais organizada do seu escritório** (Perda de Identidade/Status).",
+          "feedback": "✅ Perfeito! Você usou a **Aversão à Perda de Identidade** (perder a chance de ser a pessoa mais organizada), o que é um motivador emocional mais forte que o desconto. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Se você não comprar hoje, perderá o e-mail de boas-vindas. (Perda Trivial).",
+          "feedback": "❌ Perda trivial e irrelevante. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Você vai perder a oportunidade de economizar $R$ 50$ (Perda de Dinheiro).",
+          "feedback": "⭐️ Foco na Aversão à Perda de dinheiro. É forte, mas não atinge o profundo motivador da Identidade. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Histórias: O Poder da Simulação e da Inspiração",
+      "narrative": "📝 Você está escrevendo um manual de integração. Em vez de uma lista de regras, você usa uma **História de Simulação** para ensinar o novo funcionário a priorizar tarefas. **Qual enquadramento de história é melhor para o ensaio mental de priorização?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Foco nos sentimentos do herói, que estava ansioso e feliz. (Foco em Emoção, não em Ação).",
+          "feedback": "⚠️ Foco na emoção. Não fornece os passos concretos para a Simulação Mental da ação. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "A História de 'Como Maria Fez a Coisa Mais Importante Antes do Almoço, Ignorando $10$ E-mails Urgentes'. (Simulação Acionável e Contraintuitiva).",
+          "feedback": "✅ Perfeito! A História é **Acionável** e **Contraintuitiva** (Inesperado), criando uma poderosa **Simulação Mental** de como a priorização deve ser feita. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Um gráfico de fluxo detalhado de 'Regras de Priorização'. (Foco em Fatos/Regras).",
+          "feedback": "❌ Fatos e regras. Não é uma História, nem gera Simulação Mental. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "O Protagonista se tornou o CEO por ser o melhor em priorização. (Foco em Resultado, não em Processo).",
+          "feedback": "⭐️ Foco no resultado inspirador. Mas o manual precisa de Simulação do processo. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Concreto: O Poder da Visualização e da Memória",
+      "narrative": "🗣️ Você está descrevendo o problema da **'Falta de Clareza'** na definição de tarefas. Você precisa que o público **visualize** a ambiguidade. **Qual metáfora usa o Concreto de forma mais eficaz para descrever a falta de clareza?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Descreva a falta de clareza como um 'problema sistêmico de comunicação'. (Abstração).",
+          "feedback": "❌ Abstração. Nenhuma imagem visual. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Descreva-a como 'tentar pregar uma gelatina na parede'. (Metáfora Concreta e Visual).",
+          "feedback": "✅ Perfeito! A metáfora é **Concreta e Visualmente absurda**, forçando o público a visualizar a ambiguidade de forma instantânea e memorável. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Descreva-a como 'o oposto da produtividade'. (Vago).",
+          "feedback": "⚠️ Vago. Não cria uma imagem mental de 'por que' a clareza falha. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Descreva-a como 'o maior obstáculo à otimização da força de trabalho'. (Jargão).",
+          "feedback": "⭐️ Jargão. Embora seja específico, não é universalmente visual. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Credível: Estatísticas Humanizadas e o Princípio da Escala",
+      "narrative": "📈 Você está apresentando um dado sobre o **impacto global** da procrastinação: '$100$ bilhões de dólares perdidos por ano em produtividade.' Você precisa humanizar este número astronômico com a **Escala Humana**. **Como você traduz 100 bilhões de forma mais Credível e Humana?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Afirmar: 'É o suficiente para construir $10$ mil pontes.' (Escala Vaga/Construção).",
+          "feedback": "⚠️ É uma escala, mas o público não se conecta com a construção de pontes. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Afirmar: 'Se você juntar $100$ bilhões de dólares em notas de $1$, a pilha chegaria à lua $3$ vezes.' (Escala Absurda e Não Relacionável).",
+          "feedback": "❌ A escala é muito grande, tornando-a inacreditável e não relacional. Falha no 'Humano'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Afirmar: 'É o suficiente para pagar $5$ anos de educação superior gratuita para $1$ milhão de estudantes.' (Escala Humana - Foco em Valor Social).",
+          "feedback": "✅ Perfeito! Você traduziu o número para um **Valor Humano e Social** (Educação), tornando a perda de produtividade Credível e Emocional. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Afirmar: 'Isso é $50%$ do PIB da Argentina (Foco em Comparação Econômica Distante).",
+          "feedback": "⭐️ É uma comparação. É um bom Concreto, mas não ressoa com os valores emocionais do público. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Emocional: Aversão à Perda e o Poder da Identidade",
+      "narrative": "👨‍💼 Você está tentando convencer executivos a trocarem o sistema legado (velho e ineficiente) pelo Adesivo Mental. Eles têm **Aversão à Perda** do que já funciona. **Qual apelo usa essa aversão para motivar a troca (ganho) em termos de perda?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Se você não trocar, vai perder o bônus de performance no final do ano. (Perda de Benefício Racional).",
+          "feedback": "⭐️ Foco na Aversão à Perda de benefício financeiro. É forte para executivos. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "b",
+          "label": "Se você não agir agora, você corre o risco de ser visto como o **líder que deixou sua equipe para trás** (Aversão à Perda de Identidade/Status).",
+          "feedback": "✅ Perfeito! Você usou a **Aversão à Perda de Identidade** e **Status** (ser visto como ineficaz), o que é um motivador mais profundo do que a perda de bônus. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O sistema legado vai parar de funcionar em $5$ anos. (Medo Vago/Distante).",
+          "feedback": "⚠️ O medo é muito distante para motivar a ação imediata. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Você vai perder o manual do sistema legado. (Perda Trivial).",
+          "feedback": "❌ Perda trivial. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Histórias: O Poder da Simulação e da Inspiração",
+      "narrative": "🤝 Você está ensinando a um novo time o valor da **Colaboração Rápida** e sem atritos. Você precisa de uma **História de Simulação** que mostre o *como* e o *porquê*. **Qual História de Conexão é mais eficaz para inspirar essa ação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A História de 'Como o Diretor $CEO$ Conseguiu Fazer a Liga ao Pagar um Almoço Para Todos'. (Foco no Ganho/Conexão Externa).",
+          "feedback": "⚠️ Conexão social. Não simula a ação de **colaboração rápida** no trabalho. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "A História de 'Como Maria e João, Sem Falarem, Coordenaram $50$ Tarefas em $1$ Hora, Apenas Usando o Adesivo Mental Corretamente'. (Simulação Acionável/Conexão).",
+          "feedback": "✅ Perfeito! A História de **Conexão** simula a ação (uso do app) de forma acionável e surpreendente (sem falar), inspirando a colaboração rápida. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Um relato sobre o sucesso da equipe de vendas em $2023$. (Foco em Resultado, não em Colaboração).",
+          "feedback": "⭐️ Foco no resultado. Inspira, mas não simula a ação de colaboração. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "A História sobre o fracasso da equipe de $2022$. (Foco no Medo/Fracasso).",
+          "feedback": "❌ Foco no fracasso. Não inspira a ação desejada (colaboração). (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Concreto: O Poder da Visualização e da Memória",
+      "narrative": "📈 Você está explicando a 'Alta Retenção de Clientes' para os investidores. Você precisa de um **Adereço Concreto** que torne a ideia de 'adesão' física. **Qual objeto/metáfora é mais memorável?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Descreva-a como a 'Sinergia da Jornada do Cliente'. (Abstração).",
+          "feedback": "❌ Abstração. Nenhuma tangibilidade. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Descreva-a como o 'Super Glue $3000$' que liga o cliente ao produto para sempre. (Adereço Concreto/Metáfora Tangível).",
+          "feedback": "✅ Perfeito! O **Adereço Concreto** (Super Glue) e a metáfora tangível (ligar) dão ao conceito abstrato de 'retenção' uma âncora memorável. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Descreva-a como um gráfico com a linha de retenção subindo. (Visual, mas Abstrato).",
+          "feedback": "⚠️ É visual, mas a imagem do gráfico é fria e abstrata. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Descreva-a como a 'Lealdade Incondicional do Cliente'. (Foco em Emoção Vaga).",
+          "feedback": "⭐️ Foco em emoção, mas sem a tangibilidade que o concreto oferece. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Credível: Estatísticas Humanizadas e o Princípio da Escala",
+      "narrative": "⚖️ Seu concorrente está atacando a 'superficialidade' do seu aplicativo. Você precisa usar uma **Estatística Humanizada** de forma **Contraintuitiva** para reverter a crítica. O dado é que $90%$ dos usuários usa apenas $20%$ dos recursos. **Como você humaniza e inverte essa estatística de forma Credível?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Afirmar: 'Nossos $20%$ de recursos valem mais que os $100%$ da concorrência.' (Afirmação Não Crível).",
+          "feedback": "❌ Afirmação vazia e não crível. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Afirmar: 'Não é um bug, é um recurso: nosso app é tão **Simples** que $90%$ só precisa de $20%$ dos recursos para a máxima eficácia.' (Humanização Contraintuitiva).",
+          "feedback": "✅ Perfeito! Você inverteu a crítica (**Credibilidade Inesperada**) e humanizou a estatística ligando-a ao valor principal (Simplicidade). (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Afirmar: 'Nossos usuários são preguiçosos, mas felizes.' (Afirmação Vaga).",
+          "feedback": "⚠️ Vaga e negativa. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Afirmar: 'Os $20%$ dos recursos que você usa economizam R$ 5.000,00 por ano.' (Escala Humana de Dinheiro).",
+          "feedback": "⭐️ Humaniza em termos de dinheiro. É forte, mas não reverte a crítica de superficialidade. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Emocional: Aversão à Perda e o Poder da Identidade",
+      "narrative": "🚪 Você está prestes a perder um cliente importante para um concorrente que oferece um preço mais baixo. Seu pitch final deve usar a **Aversão à Perda** para neutralizar o preço. **Qual frase foca na perda mais dolorosa ao trocar de app?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Não perca o preço baixo do nosso concorrente. (Foco no Ganho do Concorrente).",
+          "feedback": "❌ Reforça o ganho do concorrente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Você perderá todos os seus dados e históricos se mudar (Perda Concreta/Funcional).",
+          "feedback": "✅ Perfeito! Você focou na **Perda Concreta e Funcional** (dados e histórico), que é a perda mais dolorosa e acionável para o cliente. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Você perderá meu contato pessoal. (Perda de Vínculo Pessoal).",
+          "feedback": "⚠️ Perda de vínculo pessoal. É um motivador, mas não é a perda mais crítica. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Você vai perder a oportunidade de ser nosso melhor cliente. (Perda de Status/Ego).",
+          "feedback": "⭐️ Perda de Status/Ego. É forte, mas a perda de dados é mais imediata e assustadora. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Histórias: O Poder da Simulação e da Inspiração",
+      "narrative": "💡 A mensagem final do produto deve ser: 'Você não precisa de mais tempo; você precisa de mais foco.' Você precisa de uma **História de Simulação** que ilustre essa verdade contraintuitiva. **Qual enquadramento de história prova o valor do Foco sobre o Tempo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A História sobre a pessoa que trabalhou 18 horas e fracassou. (Foco em Trabalho Duro).",
+          "feedback": "⚠️ Foco em trabalho duro. Não ilustra a solução (o foco). (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "A História de 'Como a Arquiteta Marta Conseguiu Fazer o Projeto da Sua Vida em Apenas $2$ Horas de Foco Total, Depois de 2 Dias Perdidos'. (Simulação Contraintuitiva do Foco).",
+          "feedback": "✅ Perfeito! A História simula a **ação** contraintuitiva (Foco < Tempo) e prova o Núcleo da mensagem. O público se vê fazendo o mesmo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "A História sobre como o Adesivo Mental foi criado. (Foco em Criatividade/Produto).",
+          "feedback": "⭐️ Foco na criação do produto. Inspira, mas não simula a ação do usuário. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "O relato de uma entrevista com um professor de Harvard sobre a importância do sono. (Foco em Fato Racional).",
+          "feedback": "❌ Fato racional. Não é uma História de Simulação. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}
+]

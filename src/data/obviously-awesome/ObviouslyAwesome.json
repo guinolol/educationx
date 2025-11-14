@@ -1,0 +1,3322 @@
+[
+  {
+    "id": 1,
+    "title": "O Problema do Posicionamento: Por que a Maioria Falha",
+    "teaser": "🚨 Seu posicionamento não é seu slogan de marketing. Ele é a fundação secreta que define se você é uma **commodity** ou a **única opção**.",
+    "level1": "Posicionamento é como você define o seu produto para que ele seja a melhor opção para um conjunto específico de clientes. A maioria das empresas falha porque tenta ser tudo para todos ou porque confunde posicionamento com slogan de marketing.",
+    "level2": "Posicionar é criar um contexto mental para o seu produto. Se você não fizer isso, o cliente fará por você, e geralmente ele te colocará em uma categoria genérica e superlotada (ex: 'mais um software de CRM').",
+    "level3": "Ruim: 'Somos o software de gestão mais inovador.' Bom: 'Somos o software de gestão de projetos para equipes de engenharia que precisam de integração nativa com GitHub.'",
+    "recapitulation": [
+      "Posicionamento é a base estratégica, não um projeto de marketing.",
+      "Falha: Tentar ser 'o melhor para todos'.",
+      "Risco de Inação: O cliente posiciona você em uma categoria genérica e superlotada.",
+      "Posicionamento define: O que você faz e por que isso importa para um cliente *específico*.",
+      "O Objetivo: Ser a melhor opção para o Cliente Ideal."
+    ],
+    "practicalChecklist": [
+      "Pergunte-se: 'Para quem somos a melhor opção?' e não 'Para quem podemos vender?'",
+      "Revise seu site: A mensagem é genérica ('O melhor...') ou específica ('O único para...')?",
+      "Teste: Se tirarmos o nome da sua empresa, a frase de posicionamento serve para um concorrente?",
+      "Level 1: Pare de confundir posicionamento com branding (fundação vs. decoração).",
+      "Level 2: Defina ativamente seu contexto antes que o mercado o defina por você.",
+      "Level 3: Crie uma declaração de posicionamento focada em um nicho doloroso e uma diferença única (ex: 'Para [cliente ideal] que [dor], [nós] somos [categoria] que [valor único]...')"
+    ],
+    "conclusionMessage": "Posicionamento não é marketing ou branding; é a base estratégica que define o contexto do seu produto na mente do cliente. Falhar no posicionamento significa competir em um mercado genérico.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a definição de Posicionamento de Mercado, segundo April Dunford?",
+        "options": [
+          { "value": "a", "label": "O slogan da sua empresa." },
+          { "value": "b", "label": "A forma como você define o seu produto para que ele seja a melhor opção para um conjunto específico de clientes." },
+          { "value": "c", "label": "A estratégia de preços." },
+          { "value": "d", "label": "O design do seu site." }
+        ],
+        "explanation": "Posicionamento é uma estratégia de comunicação que estabelece o contexto do produto.",
+        "hint": "Contexto e melhor opção.",
+        "correctAnswer": "b",
+        "bookExample": "Posicionamento é a ponte entre o que você faz e por que isso importa para o seu cliente."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de não definir o seu posicionamento ativamente?",
+        "options": [
+          { "value": "a", "label": "Seu produto será muito caro." },
+          { "value": "b", "label": "O cliente definirá o seu produto, geralmente colocando-o em uma categoria genérica e superlotada." },
+          { "value": "c", "label": "Você terá que contratar mais vendedores." },
+          { "value": "d", "label": "O marketing será muito fácil." }
+        ],
+        "explanation": "Se você não se posiciona, você é posicionado.",
+        "hint": "Passividade.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não se posiciona, você é posicionado."
+      },
+      {
+        "id": "3",
+        "question": "Posicionamento é o mesmo que Branding?",
+        "options": [
+          { "value": "a", "label": "Sim, são sinônimos." },
+          { "value": "b", "label": "Não. Posicionamento é a estratégia interna (o que somos e para quem), e Branding é a expressão externa (como nos sentimos)." },
+          { "value": "c", "label": "Branding é mais importante." },
+          { "value": "d", "label": "Posicionamento é apenas para startups." }
+        ],
+        "explanation": "Posicionamento é a fundação; Branding é a decoração.",
+        "hint": "Fundação vs. Decoração.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é o que você faz na mente do seu cliente."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o principal erro que as empresas cometem ao tentar se posicionar?",
+        "options": [
+          { "value": "a", "label": "Focar demais no preço." },
+          { "value": "b", "label": "Tentar agradar a todos, resultando em uma mensagem genérica e sem impacto." },
+          { "value": "c", "label": "Focar demais no produto." },
+          { "value": "d", "label": "Não usar redes sociais." }
+        ],
+        "explanation": "O foco deve ser em um nicho específico onde você pode ser o melhor.",
+        "hint": "Universalidade.",
+        "correctAnswer": "b",
+        "bookExample": "Se você tenta agradar a todos, você não agrada a ninguém."
+      },
+      {
+        "id": "5",
+        "question": "O que a falta de um bom posicionamento afeta diretamente?",
+        "options": [
+          { "value": "a", "label": "A cor do logo." },
+          { "value": "b", "label": "Vendas, marketing, desenvolvimento de produto e contratação." },
+          { "value": "c", "label": "O número de seguidores no Instagram." },
+          { "value": "d", "label": "A velocidade do site." }
+        ],
+        "explanation": "O posicionamento é a bússola estratégica da empresa.",
+        "hint": "Bússola.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é o ponto de partida para todas as decisões de negócios."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o objetivo final de um posicionamento 'Obviamente Incrível'?",
+        "options": [
+          { "value": "a", "label": "Ser o mais barato." },
+          { "value": "b", "label": "Fazer com que a escolha do seu produto pareça óbvia para o cliente ideal." },
+          { "value": "c", "label": "Ter o maior número de recursos." },
+          { "value": "d", "label": "Ser o mais antigo no mercado." }
+        ],
+        "explanation": "A escolha deve ser inquestionável para o cliente certo.",
+        "hint": "Inquestionável.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo é que o cliente diga: 'Claro que eu compraria isso!'"
+      },
+      {
+        "id": "7",
+        "question": "O que é a 'Categoria de Mercado' (Market Category)?",
+        "options": [
+          { "value": "a", "label": "O preço do produto." },
+          { "value": "b", "label": "O contexto em que o cliente coloca o seu produto (ex: CRM, Software de Edição de Vídeo, Ferramenta de Produtividade)." },
+          { "value": "c", "label": "O nome da empresa." },
+          { "value": "d", "label": "O tamanho da equipe." }
+        ],
+        "explanation": "A categoria define os concorrentes e as expectativas do cliente.",
+        "hint": "Contexto e expectativas.",
+        "correctAnswer": "b",
+        "bookExample": "A categoria é o primeiro filtro que o cliente usa para entender o que você faz."
+      },
+      {
+        "id": "8",
+        "question": "Por que é perigoso se posicionar em uma categoria onde você não é o líder?",
+        "options": [
+          { "value": "a", "label": "Você terá que gastar mais em marketing." },
+          { "value": "b", "label": "O cliente sempre comparará você com o líder, e você será visto como uma alternativa inferior ou mais cara." },
+          { "value": "c", "label": "O produto será muito lento." },
+          { "value": "d", "label": "Você terá que mudar o nome da empresa." }
+        ],
+        "explanation": "O posicionamento deve buscar a liderança em um nicho, não a mediocridade em um mercado grande.",
+        "hint": "Comparação.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não é o primeiro, você é o último."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o papel do 'Cliente Ideal' (Best-Fit Customer) no posicionamento?",
+        "options": [
+          { "value": "a", "label": "Ele deve ser ignorado." },
+          { "value": "b", "label": "É o cliente que obtém o maior valor do seu produto e que está disposto a pagar por ele." },
+          { "value": "c", "label": "É o cliente que reclama mais." },
+          { "value": "d", "label": "É o cliente que usa o produto de graça." }
+        ],
+        "explanation": "O posicionamento é feito para o cliente que mais se beneficia.",
+        "hint": "Benefício máximo.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente ideal é aquele que te ama e te paga bem."
+      },
+      {
+        "id": "10",
+        "question": "O que é o 'Ponto de Diferença' (Differentiating Feature)?",
+        "options": [
+          { "value": "a", "label": "Um recurso que todos os concorrentes têm." },
+          { "value": "b", "label": "Um recurso ou capacidade que você tem e que seus concorrentes não têm, e que é valorizado pelo cliente ideal." },
+          { "value": "c", "label": "O preço mais baixo." },
+          { "value": "d", "label": "O nome do produto." }
+        ],
+        "explanation": "A diferença deve ser relevante e única.",
+        "hint": "Relevância e unicidade.",
+        "correctAnswer": "b",
+        "bookExample": "Sua diferença é o que te faz especial."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Os 5 Componentes do Posicionamento",
+    "teaser": "🧩 O Posicionamento é um quebra-cabeça de 5 peças. Se você mudar uma (a Categoria), todas as outras (Clientes, Valor, Concorrentes) **mudam junto**.",
+    "level1": "April Dunford define o posicionamento como um conjunto de 5 componentes que devem ser alinhados: 1. Concorrentes (o que o cliente compara), 2. Diferenças (o que você faz de único), 3. Valor (o benefício que a diferença gera), 4. Clientes Ideais (quem mais se beneficia) e 5. Categoria de Mercado (o contexto).",
+    "level2": "Pense no posicionamento como uma equação. Se você mudar um elemento (ex: a categoria), todos os outros mudam. Você precisa de clareza em todos os 5 para ter uma mensagem coesa.",
+    "level3": "Se você muda a Categoria de 'Software de CRM' para 'Ferramenta de Automação de Vendas para Pequenas Empresas', seus Concorrentes, Diferenças e Clientes Ideais mudam.",
+    "recapitulation": [
+      "Os 5 Pilares: Concorrentes, Diferenças, Valor, Clientes Ideais, Categoria.",
+      "O Preço é a *consequência* do posicionamento, não um componente dele.",
+      "A Categoria define as expectativas do cliente e os concorrentes.",
+      "O Valor é o *resultado* (economia de tempo, aumento de receita), não o recurso.",
+      "A Diferença só importa se gerar Valor para o Cliente Ideal."
+    ],
+    "practicalChecklist": [
+      "Mapeie os 5 componentes atuais do seu produto/serviço (sem autoengano).",
+      "Liste quem é o seu concorrente real (incluindo o 'Status Quo' e soluções internas).",
+      "Identifique as 'Diferenças de Tabela' (o mínimo para competir) e evite posicionar-se nelas.",
+      "Level 1: Garanta que sua equipe de Vendas e Produto estejam alinhadas nos 5 componentes.",
+      "Level 2: Crie uma matriz: Diferença Única → Valor Tangível para o Cliente Ideal.",
+      "Level 3: Teste: Se você remove um dos 5 pilares, o seu posicionamento ainda funciona? Se sim, você está pronto para o próximo passo."
+    ],
+    "conclusionMessage": "O posicionamento é construído em torno de 5 elementos interconectados: Concorrentes, Diferenças, Valor, Clientes Ideais e Categoria de Mercado.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual dos seguintes não é um componente chave do posicionamento?",
+        "options": [
+          { "value": "a", "label": "Concorrentes." },
+          { "value": "b", "label": "Preço de Venda." },
+          { "value": "c", "label": "Diferenças e Valor." },
+          { "value": "d", "label": "Clientes Ideais e Categoria de Mercado." }
+        ],
+        "explanation": "O preço é uma consequência do posicionamento, não um componente fundamental da definição estratégica.",
+        "hint": "Consequência.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o resultado de um bom posicionamento, não o posicionamento em si."
+      },
+      {
+        "id": "2",
+        "question": "Por que é crucial definir os 'Concorrentes' no posicionamento?",
+        "options": [
+          { "value": "a", "label": "Para copiá-los." },
+          { "value": "b", "label": "Para estabelecer o contexto de comparação na mente do cliente e destacar suas diferenças." },
+          { "value": "c", "label": "Para saber quem processar." },
+          { "value": "d", "label": "Para ter certeza de que você é o mais barato." }
+        ],
+        "explanation": "O cliente só entende o que você faz comparando com o que ele já conhece.",
+        "hint": "Comparação.",
+        "correctAnswer": "b",
+        "bookExample": "Seu concorrente é o contexto que você usa para se destacar."
+      },
+      {
+        "id": "3",
+        "question": "O que é o 'Valor' (Value) no contexto do posicionamento?",
+        "options": [
+          { "value": "a", "label": "O custo de produção." },
+          { "value": "b", "label": "O benefício que o cliente obtém da sua diferença única, expresso em termos de resultado (ex: economia de tempo, aumento de receita)." },
+          { "value": "c", "label": "O preço do produto." },
+          { "value": "d", "label": "O número de recursos." }
+        ],
+        "explanation": "O valor é o resultado final, não o recurso.",
+        "hint": "Resultado.",
+        "correctAnswer": "b",
+        "bookExample": "Os clientes não compram recursos; eles compram resultados."
+      },
+      {
+        "id": "4",
+        "question": "Qual é a relação entre 'Diferenças' e 'Valor'?",
+        "options": [
+          { "value": "a", "label": "São a mesma coisa." },
+          { "value": "b", "label": "As Diferenças são as capacidades únicas do produto, e o Valor é o benefício que essas capacidades geram para o cliente." },
+          { "value": "c", "label": "O Valor é a Diferença." },
+          { "value": "d", "label": "Não há relação." }
+        ],
+        "explanation": "A diferença é o 'o quê'; o valor é o 'porquê'.",
+        "hint": "O quê vs. Porquê.",
+        "correctAnswer": "b",
+        "bookExample": "Sua diferença só importa se ela gerar valor para o cliente."
+      },
+      {
+        "id": "5",
+        "question": "Por que o posicionamento deve ser um esforço de equipe, e não apenas de marketing?",
+        "options": [
+          { "value": "a", "label": "Para que todos saibam o slogan." },
+          { "value": "b", "label": "Porque o posicionamento afeta todas as áreas (vendas, produto, engenharia) e precisa de alinhamento interno para ser eficaz." },
+          { "value": "c", "label": "Porque o CEO deve estar envolvido." },
+          { "value": "d", "label": "Porque o marketing é muito ocupado." }
+        ],
+        "explanation": "O posicionamento é a fundação estratégica da empresa.",
+        "hint": "Alinhamento.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a bússola da empresa."
+      },
+      {
+        "id": "6",
+        "question": "O que acontece se você tiver uma 'Diferença' única, mas ela não gerar 'Valor' para o cliente ideal?",
+        "options": [
+          { "value": "a", "label": "Você ainda terá sucesso." },
+          { "value": "b", "label": "Sua diferença é irrelevante e não deve ser usada no posicionamento." },
+          { "value": "c", "label": "Você deve cobrar mais." },
+          { "value": "d", "label": "Você deve mudar a categoria." }
+        ],
+        "explanation": "A diferença deve ser relevante para o cliente.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "A diferença sem valor é apenas um recurso."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Categoria de Mercado' na definição do seu posicionamento?",
+        "options": [
+          { "value": "a", "label": "Definir o preço." },
+          { "value": "b", "label": "Definir as expectativas do cliente sobre o que o seu produto deve fazer e quem são seus concorrentes." },
+          { "value": "c", "label": "Definir o nome do produto." },
+          { "value": "d", "label": "Definir o tamanho da equipe." }
+        ],
+        "explanation": "A categoria é o contexto mental.",
+        "hint": "Contexto.",
+        "correctAnswer": "b",
+        "bookExample": "A categoria é o atalho mental que o cliente usa para te entender."
+      },
+      {
+        "id": "8",
+        "question": "Por que o 'Cliente Ideal' é o ponto de partida para o posicionamento?",
+        "options": [
+          { "value": "a", "label": "Porque ele é o mais fácil de encontrar." },
+          { "value": "b", "label": "Porque o valor e as diferenças só são relevantes se forem importantes para o cliente que mais se beneficia." },
+          { "value": "c", "label": "Porque ele é o mais rico." },
+          { "value": "d", "label": "Porque ele é o mais antigo." }
+        ],
+        "explanation": "O posicionamento é centrado no cliente ideal.",
+        "hint": "Centrado no cliente.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de focar no cliente que mais te ama."
+      },
+      {
+        "id": "9",
+        "question": "O que é um 'Recurso de Tabela' (Table Stakes Feature)?",
+        "options": [
+          { "value": "a", "label": "Um recurso único." },
+          { "value": "b", "label": "Um recurso que todos os concorrentes na categoria têm e que é necessário apenas para competir, mas não para se diferenciar." },
+          { "value": "c", "label": "Um recurso que ninguém tem." },
+          { "value": "d", "label": "Um recurso que é muito caro." }
+        ],
+        "explanation": "Recursos de tabela são o mínimo para jogar o jogo.",
+        "hint": "Mínimo.",
+        "correctAnswer": "b",
+        "bookExample": "Não se posicione em recursos de tabela. Eles são o custo de entrada."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o resultado de um posicionamento bem-sucedido?",
+        "options": [
+          { "value": "a", "label": "Preços mais baixos." },
+          { "value": "b", "label": "Aumento da taxa de conversão, ciclos de vendas mais curtos e capacidade de cobrar preços premium." },
+          { "value": "c", "label": "Mais recursos no produto." },
+          { "value": "d", "label": "Menos concorrentes." }
+        ],
+        "explanation": "O posicionamento alinha a percepção de valor com o preço.",
+        "hint": "Alinhamento.",
+        "correctAnswer": "b",
+        "bookExample": "Um bom posicionamento é o motor do crescimento."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "A Jornada de Reposicionamento: Onde Começar",
+    "teaser": "🧭 Não comece a jornada tentando consertar o que está quebrado. Comece entrevistando a única fonte de verdade: **seus clientes mais felizes**.",
+    "level1": "O reposicionamento é necessário quando o mercado não entende o seu valor ou quando você está competindo em uma categoria onde não pode vencer. O ponto de partida é sempre o cliente que já te ama (o 'Cliente Ideal').",
+    "level2": "Não comece olhando para o seu produto ou para os seus concorrentes. Comece olhando para quem está te pagando e te elogiando. Eles são a prova de que você já tem um bom posicionamento em algum lugar.",
+    "level3": "Se você vende um software de CRM, mas seus clientes mais felizes são pequenas agências de marketing, seu posicionamento deve ser focado em 'CRM para Agências de Marketing'.",
+    "recapitulation": [
+      "O ponto de partida do reposicionamento é o Cliente Ideal ('Best-Fit Customer').",
+      "Foque em quem *já* te ama para entender seu valor real.",
+      "Evite clientes perdidos ou usuários gratuitos como fonte de verdade.",
+      "O 'Aha Moment' é a percepção clara do seu valor único e do cliente ideal.",
+      "Posicionamento de Nicho: Comece focado onde você pode ser o líder."
+    ],
+    "practicalChecklist": [
+      "Faça uma lista dos seus 10 clientes mais felizes/bem-sucedidos (que obtêm maior valor e pagam bem).",
+      "Entreviste-os: O que eles usavam antes? Por que mudaram? Qual valor obtêm que não tinham antes?",
+      "Use as palavras e a linguagem deles para descrever sua dor e seu valor (Linguagem do Cliente).",
+      "Level 1: Defina o seu 'Nicho de Ouro' (o cruzamento entre quem te ama e onde você é único).",
+      "Level 2: Documente o seu 'Aha Moment' (a descoberta do seu posicionamento ideal).",
+      "Level 3: Valide com Vendas: Nosso time está focando a maior parte do tempo nesses Clientes Ideais?"
+    ],
+    "conclusionMessage": "O reposicionamento começa com a identificação dos seus clientes mais felizes e a compreensão de por que eles te amam, em vez de tentar consertar o que está quebrado.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o primeiro passo na jornada de reposicionamento?",
+        "options": [
+          { "value": "a", "label": "Mudar o slogan." },
+          { "value": "b", "label": "Identificar e entrevistar os clientes que obtêm o maior valor do seu produto (Clientes Ideais)." },
+          { "value": "c", "label": "Baixar o preço." },
+          { "value": "d", "label": "Adicionar mais recursos." }
+        ],
+        "explanation": "O cliente ideal é a fonte da verdade sobre o seu valor.",
+        "hint": "Fonte da verdade.",
+        "correctAnswer": "b",
+        "bookExample": "Seus clientes mais felizes são seus melhores professores."
+      },
+      {
+        "id": "2",
+        "question": "Por que é mais eficaz focar nos clientes que já te amam do que nos clientes que você perdeu?",
+        "options": [
+          { "value": "a", "label": "Os clientes perdidos são muito negativos." },
+          { "value": "b", "label": "Os clientes felizes fornecem dados concretos sobre o valor real e as diferenças que importam, que podem ser replicados para atrair mais clientes ideais." },
+          { "value": "c", "label": "Os clientes felizes são mais fáceis de entrevistar." },
+          { "value": "d", "label": "Os clientes perdidos são muito caros." }
+        ],
+        "explanation": "O sucesso deixa pistas. Siga as pistas dos seus clientes mais felizes.",
+        "hint": "Pistas de sucesso.",
+        "correctAnswer": "b",
+        "bookExample": "O sucesso é a melhor forma de prever o futuro."
+      },
+      {
+        "id": "3",
+        "question": "O que você deve perguntar aos seus clientes ideais durante as entrevistas de posicionamento?",
+        "options": [
+          { "value": "a", "label": "O que eles acham do seu logo." },
+          { "value": "b", "label": "O que eles estavam usando antes de você, o que os fez mudar e qual é o valor que eles obtêm do seu produto que não obtinham antes." },
+          { "value": "c", "label": "Qual é o preço ideal." },
+          { "value": "d", "label": "Quais recursos eles querem no futuro." }
+        ],
+        "explanation": "O foco é na transição e no valor único.",
+        "hint": "Transição e valor.",
+        "correctAnswer": "b",
+        "bookExample": "O passado é o melhor preditor do futuro."
+      },
+      {
+        "id": "4",
+        "question": "O que é o 'Aha Moment' no contexto do posicionamento?",
+        "options": [
+          { "value": "a", "label": "O momento em que o cliente compra." },
+          { "value": "b", "label": "O momento em que você percebe que o seu produto é a melhor solução para um problema específico de um cliente específico." },
+          { "value": "c", "label": "O momento em que você lança o produto." },
+          { "value": "d", "label": "O momento em que você contrata o primeiro funcionário." }
+        ],
+        "explanation": "O 'Aha Moment' é a clareza estratégica.",
+        "hint": "Clareza.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de encontrar o 'Aha Moment' e comunicá-lo."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de basear o posicionamento em clientes que não pagam (usuários gratuitos)?",
+        "options": [
+          { "value": "a", "label": "Eles são muito gentis." },
+          { "value": "b", "label": "Eles não têm o mesmo nível de dor ou necessidade que os clientes pagantes, e o valor que eles buscam pode não ser sustentável para o negócio." },
+          { "value": "c", "label": "Eles são muito exigentes." },
+          { "value": "d", "label": "Eles são muito fáceis de encontrar." }
+        ],
+        "explanation": "O dinheiro é a prova de que o problema é real e que o valor é percebido.",
+        "hint": "Prova de valor.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro é o melhor feedback."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Posicionamento de Nicho' (Niche Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar em um mercado pequeno e sem crescimento." },
+          { "value": "b", "label": "Focar em um segmento específico do mercado onde você pode ser o líder e, em seguida, expandir a partir dessa base de força." },
+          { "value": "c", "label": "Focar em um mercado muito grande." },
+          { "value": "d", "label": "Focar em um mercado onde você não tem concorrentes." }
+        ],
+        "explanation": "O nicho é a base para a dominação.",
+        "hint": "Dominação.",
+        "correctAnswer": "b",
+        "bookExample": "Comece pequeno, domine, e depois expanda."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel do 'Time de Vendas' no processo de descoberta de posicionamento?",
+        "options": [
+          { "value": "a", "label": "Eles devem ser ignorados." },
+          { "value": "b", "label": "Eles têm insights valiosos sobre as objeções dos clientes e o que realmente os faz comprar." },
+          { "value": "c", "label": "Eles devem apenas vender." },
+          { "value": "d", "label": "Eles devem escrever o slogan." }
+        ],
+        "explanation": "Vendas está na linha de frente da percepção do cliente.",
+        "hint": "Linha de frente.",
+        "correctAnswer": "b",
+        "bookExample": "O time de vendas é o seu termômetro de posicionamento."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Posicionamento de Categoria' (Category Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar no produto." },
+          { "value": "b", "label": "A forma como você define o contexto do seu produto (ex: 'Somos um CRM', 'Somos um software de RH')." },
+          { "value": "c", "label": "Focar no preço." },
+          { "value": "d", "label": "Focar no cliente." }
+        ],
+        "explanation": "A categoria é o primeiro passo mental do cliente.",
+        "hint": "Primeiro passo mental.",
+        "correctAnswer": "b",
+        "bookExample": "A categoria é o atalho mental que o cliente usa para te entender."
+      },
+      {
+        "id": "9",
+        "question": "Por que é importante documentar o posicionamento?",
+        "options": [
+          { "value": "a", "label": "Para ter um documento bonito." },
+          { "value": "b", "label": "Para garantir que toda a empresa esteja alinhada e use a mesma linguagem e contexto ao falar sobre o produto." },
+          { "value": "c", "label": "Para mostrar aos investidores." },
+          { "value": "d", "label": "Para ter um slogan." }
+        ],
+        "explanation": "O alinhamento interno é crucial para a execução.",
+        "hint": "Alinhamento interno.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento deve ser um documento vivo, não um artefato morto."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o risco de 'Posicionamento Interno' (Internal Positioning)?",
+        "options": [
+          { "value": "a", "label": "O time de vendas não gosta." },
+          { "value": "b", "label": "O posicionamento é baseado em suposições internas e não reflete a realidade do mercado ou a percepção do cliente." },
+          { "value": "c", "label": "O produto é muito caro." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "O posicionamento deve ser validado pelo mercado.",
+        "hint": "Validação.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento não é o que você diz que é; é o que eles dizem que é."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Passo 1: Identificando os Concorrentes Reais",
+    "teaser": "⚔️ Seu concorrente não é apenas o seu rival direto. Ele é **qualquer coisa** que o cliente usa para tentar resolver o problema, incluindo... **não fazer nada**.",
+    "level1": "O primeiro passo é entender quem o cliente compara você. Isso inclui concorrentes diretos (que fazem o mesmo), concorrentes indiretos (que resolvem o mesmo problema de forma diferente) e a 'Inação' (fazer nada ou usar planilhas/e-mail).",
+    "level2": "Se você está vendendo um software de gestão de projetos, seu concorrente pode ser o Trello, mas também pode ser o e-mail, o Excel ou a decisão de não gerenciar projetos de forma estruturada. Você precisa vencer todas essas alternativas.",
+    "level3": "Pergunta ao cliente: 'O que você estava usando antes de nós para resolver esse problema?'",
+    "recapitulation": [
+      "Concorrentes Reais = Tudo que o cliente considera para resolver o problema.",
+      "Concorrentes Diretos: Fazem o mesmo que você.",
+      "Concorrentes Indiretos: Resolvem o mesmo problema de forma diferente (ex: consultor, solução interna).",
+      "O Status Quo (Inação) é o concorrente mais difícil de vencer.",
+      "O Objetivo: Usar o concorrente como *contexto* para destacar suas diferenças únicas."
+    ],
+    "practicalChecklist": [
+      "Faça uma lista completa dos seus concorrentes (diretos, indiretos e Status Quo).",
+      "Pergunte aos clientes (e ao time de vendas) quem eles mais comparam você.",
+      "Identifique o custo da inação para o seu Cliente Ideal (perdas financeiras, de tempo, de oportunidade).",
+      "Level 1: Use o concorrente mais conhecido como 'âncora' para se posicionar (ex: 'Somos como o X, mas com a integração Y').",
+      "Level 2: Crie um argumento de vendas que ataque o Status Quo, não apenas o concorrente direto.",
+      "Level 3: Pratique o 'Posicionamento Relativo' em 30 segundos: Quem é o seu 'Uber de...' e qual é a sua diferença de valor?"
+    ],
+    "conclusionMessage": "Seus concorrentes reais não são apenas as empresas que fazem o mesmo que você, mas sim todas as alternativas que o cliente considera para resolver o problema, incluindo a inação.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Quem são os 'Concorrentes Reais' no posicionamento?",
+        "options": [
+          { "value": "a", "label": "Apenas as empresas que fazem exatamente o mesmo que você." },
+          { "value": "b", "label": "Todas as alternativas que o cliente considera para resolver o problema, incluindo a inação e soluções internas." },
+          { "value": "c", "label": "Apenas as empresas listadas no seu pitch deck." },
+          { "value": "d", "label": "Apenas as empresas que têm mais dinheiro." }
+        ],
+        "explanation": "O concorrente é o contexto de comparação.",
+        "hint": "Contexto de comparação.",
+        "correctAnswer": "b",
+        "bookExample": "Seu concorrente é o que o cliente compara você."
+      },
+      {
+        "id": "2",
+        "question": "Por que a 'Inação' (fazer nada) é um concorrente perigoso?",
+        "options": [
+          { "value": "a", "label": "Porque é muito barata." },
+          { "value": "b", "label": "Porque o cliente precisa ser convencido de que o custo de não resolver o problema é maior do que o custo de comprar sua solução." },
+          { "value": "c", "label": "Porque é muito lenta." },
+          { "value": "d", "label": "Porque é muito rápida." }
+        ],
+        "explanation": "Você precisa criar urgência para vencer a inação.",
+        "hint": "Urgência.",
+        "correctAnswer": "b",
+        "bookExample": "O maior concorrente é o status quo."
+      },
+      {
+        "id": "3",
+        "question": "O que são 'Concorrentes Indiretos'?",
+        "options": [
+          { "value": "a", "label": "Empresas que fazem exatamente o mesmo." },
+          { "value": "b", "label": "Empresas que resolvem o mesmo problema, mas de uma forma fundamentalmente diferente (ex: um consultor em vez de um software)." },
+          { "value": "c", "label": "Empresas que não resolvem o problema." },
+          { "value": "d", "label": "Empresas que são muito pequenas." }
+        ],
+        "explanation": "O cliente pode estar comparando você com soluções que não são software.",
+        "hint": "Forma diferente.",
+        "correctAnswer": "b",
+        "bookExample": "Seu concorrente pode ser um ser humano."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o objetivo de listar todos os concorrentes?",
+        "options": [
+          { "value": "a", "label": "Para ter uma lista longa." },
+          { "value": "b", "label": "Para entender o contexto de comparação e identificar as lacunas que só o seu produto preenche." },
+          { "value": "c", "label": "Para saber quem processar." },
+          { "value": "d", "label": "Para ter certeza de que você é o mais barato." }
+        ],
+        "explanation": "A lista de concorrentes define o campo de jogo.",
+        "hint": "Campo de jogo.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de escolher o seu campo de batalha."
+      },
+      {
+        "id": "5",
+        "question": "Como você usa a informação dos concorrentes para o seu posicionamento?",
+        "options": [
+          { "value": "a", "label": "Copiando os recursos deles." },
+          { "value": "b", "label": "Destacando as suas diferenças únicas em relação a eles e o valor que essas diferenças geram." },
+          { "value": "c", "label": "Baixando o preço." },
+          { "value": "d", "label": "Ignorando-os." }
+        ],
+        "explanation": "O posicionamento é sobre contraste.",
+        "hint": "Contraste.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de se destacar."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Análise de Concorrentes' (Competitive Analysis)?",
+        "options": [
+          { "value": "a", "label": "Apenas listar os nomes." },
+          { "value": "b", "label": "Mapear os recursos e o posicionamento de cada concorrente para identificar onde você é único e superior." },
+          { "value": "c", "label": "Focar apenas no preço." },
+          { "value": "d", "label": "Focar apenas no marketing." }
+        ],
+        "explanation": "A análise deve ser focada em diferenças relevantes.",
+        "hint": "Diferenças relevantes.",
+        "correctAnswer": "b",
+        "bookExample": "Conheça seus inimigos, mas conheça a si mesmo ainda mais."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o risco de ignorar os concorrentes indiretos?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você pode não entender o contexto completo da decisão do cliente, que pode estar comparando você com soluções não-tecnológicas." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "O cliente tem muitas alternativas além do seu nicho.",
+        "hint": "Alternativas.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não se importa com a sua categoria; ele se importa com a solução."
+      },
+      {
+        "id": "8",
+        "question": "O que significa 'Posicionamento Relativo' (Relative Positioning)?",
+        "options": [
+          { "value": "a", "label": "Posicionar-se em relação ao preço." },
+          { "value": "b", "label": "Definir seu posicionamento sempre em relação a um concorrente conhecido, usando-o como âncora para a sua diferença." },
+          { "value": "c", "label": "Posicionar-se em relação ao tamanho da equipe." },
+          { "value": "d", "label": "Posicionar-se em relação ao logo." }
+        ],
+        "explanation": "O concorrente é o ponto de referência.",
+        "hint": "Referência.",
+        "correctAnswer": "b",
+        "bookExample": "Use o que eles já sabem para explicar o que você faz."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o papel do 'Status Quo' na negociação de vendas?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "É o concorrente mais difícil de vencer, pois exige que o cliente mude seu comportamento e assuma riscos." },
+          { "value": "c", "label": "É o concorrente mais fácil de vencer." },
+          { "value": "d", "label": "É o concorrente mais caro." }
+        ],
+        "explanation": "A mudança é dolorosa. Você precisa justificar a dor.",
+        "hint": "Dor da mudança.",
+        "correctAnswer": "b",
+        "bookExample": "O status quo é o inimigo da inovação."
+      },
+      {
+        "id": "10",
+        "question": "Como você usa a 'Inação' a seu favor no posicionamento?",
+        "options": [
+          { "value": "a", "label": "Ignorando-a." },
+          { "value": "b", "label": "Destacando o custo (perdas) de continuar com o status quo, usando a aversão à perda para motivar a compra." },
+          { "value": "c", "label": "Baixando o preço." },
+          { "value": "d", "label": "Adicionando mais recursos." }
+        ],
+        "explanation": "O medo de perder é o maior motivador.",
+        "hint": "Medo de perder.",
+        "correctAnswer": "b",
+        "bookExample": "O custo da inação deve ser maior que o custo da compra."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Passo 2: Identificando as Diferenças Únicas",
+    "teaser": "💎 Pare de listar recursos que não importam. Sua verdadeira diferença é o que você tem que **ninguém mais tem** e que seu Cliente Ideal **valoriza profundamente**.",
+    "level1": "Depois de listar os concorrentes, você deve mapear o que você faz de diferente. Uma diferença só é relevante se for única e se gerar valor para o cliente ideal. Não se posicione em 'Recursos de Tabela' (o mínimo para competir).",
+    "level2": "Faça uma lista de todos os seus recursos. Depois, pergunte: 'Qual concorrente também tem isso?' Se a resposta for 'todos', não é uma diferença. Se a resposta for 'nenhum', é uma diferença potencial. Em seguida, pergunte: 'Isso importa para o meu cliente ideal?'",
+    "level3": "Diferença: 'Temos integração nativa com o sistema X.' Valor: 'Isso economiza 10 horas por semana para a equipe de engenharia.'",
+    "recapitulation": [
+      "Diferença Única = Capacidade que o concorrente não tem *e* que o cliente valoriza.",
+      "Recursos de Tabela: O custo de entrada. Não são diferenciais.",
+      "A diferença deve ser a ponte para um valor mensurável.",
+      "Validação: Se o cliente não usa a diferença ativamente, ela não é um diferencial de posicionamento.",
+      "Empilhamento: Combinar 2-3 diferenças únicas cria uma barreira de entrada."
+    ],
+    "practicalChecklist": [
+      "Crie a lista Mestre: Recurso → Concorrente que tem? → Cliente Ideal valoriza? (Filtre implacavelmente).",
+      "Elimine os 'Recursos de Tabela' das suas mensagens de marketing e vendas.",
+      "Foque em 1-3 Diferenças Únicas (não mais do que isso para não diluir a mensagem).",
+      "Level 1: Pratique traduzir cada Diferença Única em um 'Porquê' (o valor que ela gera).",
+      "Level 2: Analise a 'Diferença de Arquitetura' (o que na fundação do seu produto permite o valor único, ex: nativo em nuvem).",
+      "Level 3: Pergunte a um cliente: 'Se este recurso (sua diferença) desaparecesse, você ainda nos compraria?' (Se a resposta for sim, não é uma diferença importante)."
+    ],
+    "conclusionMessage": "Sua diferença única é o que você faz que ninguém mais faz. Ela deve ser relevante para o cliente ideal e ser a base do seu posicionamento.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que qualifica um recurso como uma 'Diferença Única'?",
+        "options": [
+          { "value": "a", "label": "Ser o mais caro." },
+          { "value": "b", "label": "Ser uma capacidade que seus concorrentes não têm e que é valorizada pelo seu cliente ideal." },
+          { "value": "c", "label": "Ser um recurso que todos os concorrentes têm." },
+          { "value": "d", "label": "Ser um recurso que ninguém usa." }
+        ],
+        "explanation": "A unicidade e a relevância são cruciais.",
+        "hint": "Unicidade e relevância.",
+        "correctAnswer": "b",
+        "bookExample": "Sua diferença é o que te faz especial."
+      },
+      {
+        "id": "2",
+        "question": "O que são 'Recursos de Tabela' (Table Stakes Features)?",
+        "options": [
+          { "value": "a", "label": "Recursos que te diferenciam." },
+          { "value": "b", "label": "Recursos que são o mínimo necessário para competir na categoria, mas que não devem ser usados para posicionamento." },
+          { "value": "c", "label": "Recursos que ninguém tem." },
+          { "value": "d", "label": "Recursos que são muito caros." }
+        ],
+        "explanation": "Recursos de tabela são o custo de entrada.",
+        "hint": "Custo de entrada.",
+        "correctAnswer": "b",
+        "bookExample": "Não se posicione em recursos de tabela. Eles são o custo de entrada."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de focar o posicionamento em um recurso que não é único?",
+        "options": [
+          { "value": "a", "label": "Você parece mais inteligente." },
+          { "value": "b", "label": "Você será visto como uma cópia ou uma alternativa genérica, perdendo a oportunidade de se destacar." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A unicidade é a base da diferenciação.",
+        "hint": "Diferenciação.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não é único, você é genérico."
+      },
+      {
+        "id": "4",
+        "question": "Como você valida se uma diferença é realmente importante para o cliente ideal?",
+        "options": [
+          { "value": "a", "label": "Perguntando se eles gostam." },
+          { "value": "b", "label": "Observando se eles usam o recurso ativamente e se mencionam o valor que ele gera em conversas de vendas ou feedback." },
+          { "value": "c", "label": "Perguntando se eles pagariam mais por ele." },
+          { "value": "d", "label": "Perguntando se eles acham que é bonito." }
+        ],
+        "explanation": "O comportamento e o feedback são a prova de valor.",
+        "hint": "Prova de valor.",
+        "correctAnswer": "b",
+        "bookExample": "O que eles fazem é mais importante do que o que eles dizem."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Empilhar Diferenças' (Stacking Differentiators)?",
+        "options": [
+          { "value": "a", "label": "Ter apenas uma diferença." },
+          { "value": "b", "label": "Combinar várias diferenças únicas para criar uma proposta de valor que é quase impossível de copiar." },
+          { "value": "c", "label": "Ter muitas diferenças irrelevantes." },
+          { "value": "d", "label": "Focar apenas no preço." }
+        ],
+        "explanation": "A combinação de diferenças cria uma barreira de entrada.",
+        "hint": "Barreira de entrada.",
+        "correctAnswer": "b",
+        "bookExample": "A soma das partes é maior que o todo."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel da 'Tecnologia' na diferenciação?",
+        "options": [
+          { "value": "a", "label": "É a única forma de se diferenciar." },
+          { "value": "b", "label": "A tecnologia é a base da diferença, mas o posicionamento deve focar no valor que a tecnologia gera, não na tecnologia em si." },
+          { "value": "c", "label": "A tecnologia é irrelevante." },
+          { "value": "d", "label": "A tecnologia deve ser ignorada." }
+        ],
+        "explanation": "O cliente compra o resultado, não o código.",
+        "hint": "Resultado.",
+        "correctAnswer": "b",
+        "bookExample": "Ninguém compra um martelo; eles compram um buraco na parede."
+      },
+      {
+        "id": "7",
+        "question": "O que é 'Diferença de Experiência' (Experience Differentiator)?",
+        "options": [
+          { "value": "a", "label": "Um recurso técnico." },
+          { "value": "b", "label": "Uma diferença baseada em como o cliente interage com o produto ou a empresa (ex: suporte 24/7, facilidade de uso, onboarding rápido)." },
+          { "value": "c", "label": "O preço mais baixo." },
+          { "value": "d", "label": "O nome do produto." }
+        ],
+        "explanation": "A experiência é uma forma poderosa de diferenciação.",
+        "hint": "Interação.",
+        "correctAnswer": "b",
+        "bookExample": "A experiência é o novo recurso."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de ter muitas diferenças únicas?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso e não consegue focar no valor principal." },
+          { "value": "b", "label": "Você parece mais inteligente." },
+          { "value": "c", "label": "Você perde o foco." },
+          { "value": "d", "label": "Você fala demais." }
+        ],
+        "explanation": "O foco é crucial. Escolha 1-3 diferenças principais.",
+        "hint": "Foco.",
+        "correctAnswer": "a",
+        "bookExample": "Se você tem 10 prioridades, você não tem nenhuma."
+      },
+      {
+        "id": "9",
+        "question": "Como você transforma uma 'Diferença' em uma 'Mensagem de Posicionamento'?",
+        "options": [
+          { "value": "a", "label": "Apenas listando o recurso." },
+          { "value": "b", "label": "Conectando a diferença ao valor que ela gera para o cliente ideal (Diferença → Valor)." },
+          { "value": "c", "label": "Focando no preço." },
+          { "value": "d", "label": "Focando no concorrente." }
+        ],
+        "explanation": "A mensagem deve ser focada no benefício.",
+        "hint": "Benefício.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só se importa com o que você pode fazer por ele."
+      },
+      {
+        "id": "10",
+        "question": "O que é 'Diferença de Arquitetura' (Architectural Differentiator)?",
+        "options": [
+          { "value": "a", "label": "Um recurso de marketing." },
+          { "value": "b", "label": "Uma diferença baseada na forma como o produto foi construído (ex: nativo em nuvem, IA integrada, arquitetura modular) que permite um valor único." },
+          { "value": "c", "label": "O preço mais baixo." },
+          { "value": "d", "label": "O nome do produto." }
+        ],
+        "explanation": "A arquitetura é a base técnica da diferença.",
+        "hint": "Base técnica.",
+        "correctAnswer": "b",
+        "bookExample": "A arquitetura é a fundação do seu valor único."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Passo 3: Mapeando o Valor para o Cliente",
+    "teaser": "💸 O cliente não compra seu recurso de IA; ele compra a **decisão 3x mais rápida** que ele pode tomar com a IA. **Traduza recursos em resultados!**",
+    "level1": "O valor é a razão pela qual o cliente compra. Ele deve ser expresso em termos de resultados (ex: 'aumentar a receita em 20%', 'economizar 5 horas por semana'). O mapeamento de valor conecta a Diferença Única ao Benefício para o Cliente Ideal.",
+    "level2": "Pare de falar sobre o seu produto e comece a falar sobre o que o seu produto faz pelo cliente. Se você tem um recurso de IA, o valor não é 'temos IA', mas sim 'você toma decisões 3x mais rápido'.",
+    "level3": "Diferença: 'Interface de arrastar e soltar.' Valor: 'Reduz o tempo de onboarding de novos usuários em 50%.'",
+    "recapitulation": [
+      "Valor = O resultado positivo, não o recurso.",
+      "A melhor forma de expressar o valor é quantificável (em dinheiro, tempo, etc.).",
+      "Valor Emocional: O sentimento que o cliente obtém (paz de espírito, status) também importa.",
+      "Risco: Focar em recursos faz o cliente não entender o 'Porquê' da compra.",
+      "Mapeamento de Valor: Diferença Única → Benefício Tangível."
+    ],
+    "practicalChecklist": [
+      "Reescreva todos os seus recursos em termos de valor (Ex: 'Recurso X' para 'Aumenta Y em Z%').",
+      "Quantifique o valor sempre que possível (Ex: 'Economiza $1000/mês' em vez de 'Economiza dinheiro').",
+      "Use o 'Custo da Inação' para aumentar a percepção de valor: O que o cliente está *perdendo* por não ter seu produto?",
+      "Level 1: Obtenha depoimentos de clientes que falem sobre o *resultado* que obtiveram, não apenas sobre o seu produto.",
+      "Level 2: Valide o seu 'Valor de Nicho' (o valor que é específico e *altamente* relevante apenas para o seu Cliente Ideal).",
+      "Level 3: Crie uma calculadora de ROI simples para provar o seu valor em vendas (Ex: 'Se você economiza 10h/semana de um funcionário de $X/h...')."
+    ],
+    "conclusionMessage": "O valor não é o que você faz, mas o resultado que o cliente obtém. Você deve traduzir suas diferenças únicas em benefícios tangíveis e emocionais.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é 'Valor' no contexto do posicionamento?",
+        "options": [
+          { "value": "a", "label": "O preço do produto." },
+          { "value": "b", "label": "O resultado positivo e tangível que o cliente obtém ao usar o seu produto." },
+          { "value": "c", "label": "O custo de produção." },
+          { "value": "d", "label": "O número de recursos." }
+        ],
+        "explanation": "O valor é o resultado final.",
+        "hint": "Resultado final.",
+        "correctAnswer": "b",
+        "bookExample": "Os clientes não compram recursos; eles compram resultados."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a melhor forma de expressar o valor?",
+        "options": [
+          { "value": "a", "label": "Em termos de recursos técnicos." },
+          { "value": "b", "label": "Em termos quantificáveis (ex: 'aumentar X em Y%', 'economizar Z horas')." },
+          { "value": "c", "label": "Em termos de emoções genéricas." },
+          { "value": "d", "label": "Em termos de preço." }
+        ],
+        "explanation": "A quantificação torna o valor credível e tangível.",
+        "hint": "Quantificação.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode medir, você não pode gerenciar."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Valor Emocional' (Emotional Value)?",
+        "options": [
+          { "value": "a", "label": "O preço do produto." },
+          { "value": "b", "label": "O sentimento positivo que o cliente obtém (ex: paz de espírito, segurança, status) que é um subproduto do valor funcional." },
+          { "value": "c", "label": "O número de recursos." },
+          { "value": "d", "label": "O custo de produção." }
+        ],
+        "explanation": "O valor emocional é o motor da decisão de compra.",
+        "hint": "Sentimento.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas compram com a emoção e justificam com a lógica."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de focar apenas em 'Recursos' em vez de 'Valor'?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso sobre o que o produto faz." },
+          { "value": "b", "label": "O cliente não entende o 'Porquê' da compra e não consegue justificar o preço premium." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "O valor justifica o preço.",
+        "hint": "Justificativa.",
+        "correctAnswer": "b",
+        "bookExample": "O recurso é o 'o quê'; o valor é o 'porquê'."
+      },
+      {
+        "id": "5",
+        "question": "Como você usa o 'Valor' para se diferenciar dos concorrentes?",
+        "options": [
+          { "value": "a", "label": "Copiando o valor deles." },
+          { "value": "b", "label": "Destacando o valor único que só a sua diferença pode gerar, e que é o mais importante para o cliente ideal." },
+          { "value": "c", "label": "Baixando o preço." },
+          { "value": "d", "label": "Adicionando mais recursos." }
+        ],
+        "explanation": "O valor único é a base do posicionamento 'Obviamente Incrível'.",
+        "hint": "Unicidade.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de ser o melhor em algo que importa."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Mapeamento de Valor' (Value Mapping)?",
+        "options": [
+          { "value": "a", "label": "Listar todos os recursos." },
+          { "value": "b", "label": "O processo de conectar cada diferença única a um benefício tangível para o cliente ideal." },
+          { "value": "c", "label": "Focar apenas no preço." },
+          { "value": "d", "label": "Focar apenas no marketing." }
+        ],
+        "explanation": "O mapeamento garante que a diferença seja relevante.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "O mapeamento de valor é a prova de que você entende o seu cliente."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o risco de 'Valor Genérico' (Generic Value)?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso." },
+          { "value": "b", "label": "O valor é algo que todos os concorrentes prometem (ex: 'aumentar a produtividade'), e você não se destaca." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "O valor deve ser específico e único.",
+        "hint": "Especificidade.",
+        "correctAnswer": "b",
+        "bookExample": "O genérico é esquecível."
+      },
+      {
+        "id": "8",
+        "question": "Como você usa o 'Custo da Inação' para aumentar a percepção de valor?",
+        "options": [
+          { "value": "a", "label": "Ignorando-o." },
+          { "value": "b", "label": "Destacando as perdas financeiras, de tempo ou de oportunidade que o cliente está sofrendo ao não usar o seu produto." },
+          { "value": "c", "label": "Baixando o preço." },
+          { "value": "d", "label": "Adicionando mais recursos." }
+        ],
+        "explanation": "O medo de perder é o maior motivador.",
+        "hint": "Medo de perder.",
+        "correctAnswer": "b",
+        "bookExample": "O custo da inação deve ser maior que o custo da compra."
+      },
+      {
+        "id": "9",
+        "question": "O que é 'Valor de Nicho' (Niche Value)?",
+        "options": [
+          { "value": "a", "label": "Valor que agrada a todos." },
+          { "value": "b", "label": "Valor que é extremamente relevante e específico para o seu cliente ideal, mas que pode ser irrelevante para o mercado geral." },
+          { "value": "c", "label": "Valor que é muito caro." },
+          { "value": "d", "label": "Valor que é muito barato." }
+        ],
+        "explanation": "O valor de nicho é a base da dominação.",
+        "hint": "Especificidade.",
+        "correctAnswer": "b",
+        "bookExample": "Foque no valor que só você pode entregar para o seu cliente ideal."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o papel do 'Testemunho de Cliente' na comunicação de valor?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "É a prova social de que o valor prometido é real e que o cliente ideal está obtendo os resultados." },
+          { "value": "c", "label": "É apenas para marketing." },
+          { "value": "d", "label": "É apenas para o site." }
+        ],
+        "explanation": "A prova social é crucial para a credibilidade.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O que eles dizem sobre você é mais importante do que o que você diz sobre si mesmo."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Passo 4: Identificando o Cliente Ideal (Best-Fit Customer)",
+    "teaser": "💖 Pare de tentar agradar a todos e foque em quem realmente te ama. Seu **foco laser** no Cliente Ideal é a chave para o crescimento.",
+    "level1": "O Cliente Ideal é o centro do posicionamento. Ele é definido por características demográficas, psicográficas e, mais importante, pela 'Dor' que ele sente e que só o seu produto pode resolver de forma única.",
+    "level2": "Se você tentar vender para todos, você não venderá para ninguém. Você precisa de um foco laser no cliente que mais se beneficia da sua diferença única. Eles são a prova de que o seu posicionamento funciona.",
+    "level3": "Em vez de 'Pequenas Empresas', use 'Pequenas Agências de Marketing que Gerenciam 10+ Clientes e Precisam de Automação de Relatórios'.",
+    "recapitulation": [
+      "Cliente Ideal = Aquele que obtém o *maior valor* e paga o *preço premium*.",
+      "Risco: Posicionamento Amplo dilui a mensagem e atrai o cliente não-ideal (alto churn).",
+      "A 'Dor' é o melhor segmentador de mercado; ela deve ser única para o seu nicho.",
+      "Foco: Concentre-se no 'Nicho de Ouro' (onde a sua diferença única tem o maior impacto de valor).",
+      "A Persona deve ir além da demografia e focar na dor e na necessidade de valor."
+    ],
+    "practicalChecklist": [
+      "Refine sua Persona: Ela deve incluir a dor que *só você* resolve de forma única e o valor que ela obtém.",
+      "Qualifique os leads: Pergunte sobre a dor que a sua diferença única resolve. Se eles não têm essa dor, desqualifique-os (gentilmente).",
+      "Use a 'Linguagem do Cliente' da Persona em todo o seu conteúdo e comunicação.",
+      "Level 1: Treine Vendas para identificar e priorizar o Cliente Ideal imediatamente.",
+      "Level 2: Revise o conteúdo: Ele está focado na dor da sua Persona, ou é genérico?",
+      "Level 3: Crie uma regra: 80% do seu esforço de produto/marketing/vendas deve ser focado no Cliente Ideal."
+    ],
+    "conclusionMessage": "O Cliente Ideal é aquele que obtém o maior valor do seu produto e que está disposto a pagar por ele. Você deve focar em quem te ama, não em quem você quer amar.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que define o 'Cliente Ideal' (Best-Fit Customer)?",
+        "options": [
+          { "value": "a", "label": "O cliente que paga o preço mais baixo." },
+          { "value": "b", "label": "O cliente que obtém o maior valor do seu produto e que está disposto a pagar o preço premium." },
+          { "value": "c", "label": "O cliente que reclama mais." },
+          { "value": "d", "label": "O cliente que usa o produto de graça." }
+        ],
+        "explanation": "O cliente ideal é a fonte de receita e crescimento.",
+        "hint": "Valor e preço.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente ideal é aquele que te ama e te paga bem."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de 'Posicionamento Amplo' (Broad Positioning)?",
+        "options": [
+          { "value": "a", "label": "Você atrai muitos clientes." },
+          { "value": "b", "label": "Sua mensagem se torna genérica, você atrai clientes que não se beneficiam do seu valor único e o ciclo de vendas se torna longo e caro." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "A amplitude dilui a mensagem.",
+        "hint": "Diluição.",
+        "correctAnswer": "b",
+        "bookExample": "O foco é a chave para o crescimento."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Segmentação de Mercado' (Market Segmentation)?",
+        "options": [
+          { "value": "a", "label": "Dividir o mercado em partes iguais." },
+          { "value": "b", "label": "Dividir o mercado em grupos de clientes com necessidades e dores semelhantes, para que você possa focar no segmento ideal." },
+          { "value": "c", "label": "Focar apenas no preço." },
+          { "value": "d", "label": "Focar apenas no marketing." }
+        ],
+        "explanation": "A segmentação permite o foco laser.",
+        "hint": "Foco laser.",
+        "correctAnswer": "b",
+        "bookExample": "A segmentação é a arte de escolher o seu campo de batalha."
+      },
+      {
+        "id": "4",
+        "question": "Como você usa a 'Dor' (Pain) do cliente no posicionamento?",
+        "options": [
+          { "value": "a", "label": "Ignorando-a." },
+          { "value": "b", "label": "Focando na dor que só o seu produto pode resolver de forma única, e usando essa dor para motivar a compra." },
+          { "value": "c", "label": "Focando na dor que todos os concorrentes resolvem." },
+          { "value": "d", "label": "Focando na dor que não é importante." }
+        ],
+        "explanation": "A dor é o motor da compra.",
+        "hint": "Motor da compra.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra quando a dor é maior que o custo da mudança."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel do 'Time de Produto' na definição do Cliente Ideal?",
+        "options": [
+          { "value": "a", "label": "Eles devem ser ignorados." },
+          { "value": "b", "label": "Eles têm insights sobre quem usa o produto de forma mais eficaz e quais recursos são mais valorizados." },
+          { "value": "c", "label": "Eles devem apenas construir." },
+          { "value": "d", "label": "Eles devem escrever o slogan." }
+        ],
+        "explanation": "O produto é a prova do posicionamento.",
+        "hint": "Prova.",
+        "correctAnswer": "b",
+        "bookExample": "O produto é a manifestação do posicionamento."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Posicionamento de Nicho' (Niche Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar em um mercado pequeno e sem crescimento." },
+          { "value": "b", "label": "Focar em um segmento específico do mercado onde você pode ser o líder e, em seguida, expandir a partir dessa base de força." },
+          { "value": "c", "label": "Focar em um mercado muito grande." },
+          { "value": "d", "label": "Focar em um mercado onde você não tem concorrentes." }
+        ],
+        "explanation": "O nicho é a base para a dominação.",
+        "hint": "Dominação.",
+        "correctAnswer": "b",
+        "bookExample": "Comece pequeno, domine, e depois expanda."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o risco de 'Posicionamento Baseado em Demografia' (Demographic Positioning)?",
+        "options": [
+          { "value": "a", "label": "É muito específico." },
+          { "value": "b", "label": "A demografia (ex: 'Pequenas Empresas') não revela a dor ou a necessidade real, levando a uma mensagem genérica." },
+          { "value": "c", "label": "É muito caro." },
+          { "value": "d", "label": "É muito fácil." }
+        ],
+        "explanation": "O foco deve ser na dor, não no tamanho.",
+        "hint": "Dor.",
+        "correctAnswer": "b",
+        "bookExample": "A dor é o melhor segmentador de mercado."
+      },
+      {
+        "id": "8",
+        "question": "Como você usa a 'Persona' no posicionamento?",
+        "options": [
+          { "value": "a", "label": "Apenas para o marketing." },
+          { "value": "b", "label": "A persona é a representação do Cliente Ideal, usada para garantir que a mensagem de posicionamento ressoe com as necessidades e o contexto dele." },
+          { "value": "c", "label": "A persona é irrelevante." },
+          { "value": "d", "label": "A persona é o produto." }
+        ],
+        "explanation": "A persona é a personificação do foco.",
+        "hint": "Personificação.",
+        "correctAnswer": "b",
+        "bookExample": "Fale com um, e você falará com muitos."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Posicionamento de Problema' (Problem Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar no produto." },
+          { "value": "b", "label": "Focar na dor ou no problema que o cliente ideal está tentando resolver, em vez de focar no seu produto." },
+          { "value": "c", "label": "Focar no preço." },
+          { "value": "d", "label": "Focar no concorrente." }
+        ],
+        "explanation": "O problema é o motor da compra.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra quando a dor é maior que o custo da mudança."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o papel do 'Tamanho do Mercado' (Market Size) na definição do Cliente Ideal?",
+        "options": [
+          { "value": "a", "label": "Deve ser o único foco." },
+          { "value": "b", "label": "O mercado deve ser grande o suficiente para ser lucrativo, mas pequeno o suficiente para que você possa dominar e ser o líder." },
+          { "value": "c", "label": "Deve ser ignorado." },
+          { "value": "d", "label": "Deve ser o maior possível." }
+        ],
+        "explanation": "O foco é na dominação, não no tamanho bruto.",
+        "hint": "Dominação.",
+        "correctAnswer": "b",
+        "bookExample": "É melhor ser um peixe grande em um lago pequeno do que um peixinho em um oceano."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Passo 5: Encontrando a Categoria de Mercado Perfeita",
+    "teaser": "🗺️ A Categoria é o **atalho mental** do cliente. Escolha a sua batalha: Seja 'mais um' em um mercado grande ou o **rei de um nicho** (Subcategoria).",
+    "level1": "A Categoria de Mercado é o contexto mental que o cliente usa para entender o seu produto, definindo as expectativas e os concorrentes. Você tem três opções: 1. Categoria Existente (onde você é o melhor), 2. Subcategoria (um nicho da categoria existente) ou 3. Nova Categoria (se o seu produto for radicalmente diferente).",
+    "level2": "A categoria é o atalho mental. Se você se posiciona como 'mais um CRM', o cliente espera que você seja como o Salesforce. Se você se posiciona como 'CRM para Agências de Marketing', ele espera que você seja o melhor para agências.",
+    "level3": "Em vez de 'Software de Edição de Vídeo', use 'Software de Edição de Vídeo para Criadores de Conteúdo de Mídia Social' (Subcategoria).",
+    "recapitulation": [
+      "A Categoria define o contexto de comparação e as expectativas do cliente.",
+      "Risco: Ser visto como uma alternativa inferior ou mais cara ao líder da Categoria Existente.",
+      "Solução: Posicionamento de Subcategoria (nicho) para ser o líder ali.",
+      "Nova Categoria: Apenas se o seu produto for radicalmente diferente (alto custo de educação do mercado).",
+      "Posicionamento Relativo: Use uma Categoria de Referência (Ex: 'O Uber de...') para acelerar a compreensão."
+    ],
+    "practicalChecklist": [
+      "Liste 3 Categorias/Subcategorias diferentes onde suas diferenças únicas seriam *mais* valorizadas.",
+      "Use a 'Análise de Concorrentes' para ver onde você é 'Obviamente Incrível' e onde você é 'mais um'.",
+      "Seja um 'peixe grande em um lago pequeno' (Subcategoria) em vez de um 'peixinho em um oceano' (Categoria Existente).",
+      "Level 1: Evite o 'Posicionamento Genérico' em categorias amplas (Ex: 'Plataforma de IA').",
+      "Level 2: Treine a equipe de vendas para 'corrigir o contexto' se o cliente colocar o produto na categoria errada.",
+      "Level 3: Se criar uma 'Nova Categoria', prepare-se para ser o 'professor' e crie conteúdo de educação de mercado."
+    ],
+    "conclusionMessage": "A Categoria de Mercado é o contexto mental que o cliente usa para entender o seu produto. Você deve escolher uma categoria onde suas diferenças únicas sejam valorizadas e onde você possa ser o líder.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é a 'Categoria de Mercado' (Market Category)?",
+        "options": [
+          { "value": "a", "label": "O preço do produto." },
+          { "value": "b", "label": "O contexto em que o cliente coloca o seu produto, definindo as expectativas e os concorrentes." },
+          { "value": "c", "label": "O nome da empresa." },
+          { "value": "d", "label": "O tamanho da equipe." }
+        ],
+        "explanation": "A categoria é o atalho mental.",
+        "hint": "Atalho mental.",
+        "correctAnswer": "b",
+        "bookExample": "A categoria é o primeiro filtro que o cliente usa para te entender."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de se posicionar em uma 'Categoria Existente' onde você não é o líder?",
+        "options": [
+          { "value": "a", "label": "Você será visto como uma alternativa inferior ou mais cara ao líder." },
+          { "value": "b", "label": "Você terá que contratar mais vendedores." },
+          { "value": "c", "label": "O produto será muito lento." },
+          { "value": "d", "label": "O marketing será muito fácil." }
+        ],
+        "explanation": "O cliente sempre compara você com o líder.",
+        "hint": "Comparação.",
+        "correctAnswer": "a",
+        "bookExample": "Se você não é o primeiro, você é o último."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Posicionamento de Subcategoria' (Subcategory Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar em um mercado muito grande." },
+          { "value": "b", "label": "Criar um nicho dentro de uma categoria existente, onde você pode ser o líder e onde suas diferenças únicas são valorizadas." },
+          { "value": "c", "label": "Focar em uma nova categoria." },
+          { "value": "d", "label": "Focar apenas no preço." }
+        ],
+        "explanation": "A subcategoria permite o foco e a dominação.",
+        "hint": "Nicho e dominação.",
+        "correctAnswer": "b",
+        "bookExample": "É melhor ser o rei de um nicho do que um servo de um império."
+      },
+      {
+        "id": "4",
+        "question": "Quando você deve considerar criar uma 'Nova Categoria'?",
+        "options": [
+          { "value": "a", "label": "Sempre." },
+          { "value": "b", "label": "Quando o seu produto é radicalmente diferente e resolve um problema de uma forma que não se encaixa em nenhuma categoria existente." },
+          { "value": "c", "label": "Nunca." },
+          { "value": "d", "label": "Quando o preço é muito alto." }
+        ],
+        "explanation": "A criação de categoria é arriscada, mas pode gerar um monopólio.",
+        "hint": "Radicalmente diferente.",
+        "correctAnswer": "b",
+        "bookExample": "A criação de categoria é a forma mais difícil de posicionamento."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de criar uma 'Nova Categoria'?",
+        "options": [
+          { "value": "a", "label": "O cliente entende facilmente." },
+          { "value": "b", "label": "Você tem que educar o mercado sobre o que você faz e por que isso importa, o que é caro e demorado." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "A educação de mercado é o custo da inovação radical.",
+        "hint": "Educação de mercado.",
+        "correctAnswer": "b",
+        "bookExample": "Se você cria uma nova categoria, você é o professor."
+      },
+      {
+        "id": "6",
+        "question": "Como você usa a 'Categoria' para destacar suas diferenças?",
+        "options": [
+          { "value": "a", "label": "Ignorando-a." },
+          { "value": "b", "label": "Usando a categoria como âncora para as expectativas e, em seguida, destacando como suas diferenças superam essas expectativas." },
+          { "value": "c", "label": "Baixando o preço." },
+          { "value": "d", "label": "Adicionando mais recursos." }
+        ],
+        "explanation": "A categoria é o ponto de partida para o contraste.",
+        "hint": "Contraste.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de se destacar."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Posicionamento de Categoria de Referência' (Reference Category Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar no preço." },
+          { "value": "b", "label": "Usar uma categoria conhecida (ex: 'Somos o Uber do...') para que o cliente entenda rapidamente o contexto, antes de introduzir a diferença." },
+          { "value": "c", "label": "Focar no produto." },
+          { "value": "d", "label": "Focar no cliente." }
+        ],
+        "explanation": "A referência é um atalho mental.",
+        "hint": "Atalho.",
+        "correctAnswer": "b",
+        "bookExample": "Use o que eles já sabem para explicar o que você faz."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Posicionamento de Categoria Genérica' (Generic Category Positioning)?",
+        "options": [
+          { "value": "a", "label": "Você atrai muitos clientes." },
+          { "value": "b", "label": "Você é forçado a competir em preço e recursos, e suas diferenças únicas são ignoradas." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "A categoria genérica leva à competição de commodities.",
+        "hint": "Commodity.",
+        "correctAnswer": "b",
+        "bookExample": "O genérico é esquecível."
+      },
+      {
+        "id": "9",
+        "question": "O que o negociador deve fazer se o cliente colocar o produto na categoria errada?",
+        "options": [
+          { "value": "a", "label": "Aceitar a categoria." },
+          { "value": "b", "label": "Corrigir o cliente gentilmente, usando a categoria de referência e destacando a diferença que o coloca na categoria certa." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A correção é crucial para o alinhamento.",
+        "hint": "Alinhamento.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de guiar a mente do cliente."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o papel da 'Visão de Futuro' na escolha da categoria?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A categoria deve ser grande o suficiente para o seu crescimento futuro, mas pequena o suficiente para a dominação inicial." },
+          { "value": "c", "label": "Deve ser ignorada." },
+          { "value": "d", "label": "Deve ser o maior possível." }
+        ],
+        "explanation": "O posicionamento é uma estratégia de crescimento.",
+        "hint": "Crescimento.",
+        "correctAnswer": "b",
+        "bookExample": "Posicione-se para onde você quer ir, não para onde você está."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Passo 6: Criando a Declaração de Posicionamento",
+    "teaser": "📝 Este não é um slogan para o cliente. É o seu **documento de alinhamento interno**, a fundação que todos na empresa devem recitar.",
+    "level1": "A Declaração de Posicionamento é a síntese de todo o trabalho. Ela segue um formato específico: Para (Cliente Ideal) que (Dor/Necessidade), (Seu Produto) é um (Categoria de Mercado) que (Benefício Único) diferente de (Concorrentes) porque (Diferença Única).",
+    "level2": "Este é o seu documento de alinhamento interno. Se alguém na empresa não consegue recitar a declaração, o posicionamento não está claro. Ela deve ser precisa, concisa e focada no valor único.",
+    "level3": "Para (Agências de Marketing que gerenciam 10+ clientes) que (perdem tempo com relatórios manuais), (Nosso Produto) é um (Software de Automação de Relatórios) que (economiza 10 horas por semana) diferente de (Planilhas e CRMs genéricos) porque (tem integração nativa com todas as plataformas de anúncios).",
+    "recapitulation": [
+      "A Declaração é um documento interno de alinhamento estratégico.",
+      "Os 7 Componentes da Declaração: Cliente Ideal, Dor, Nome do Produto, Categoria, Benefício Único, Concorrentes, Diferença Única.",
+      "O Objetivo é criar um 'Posicionamento de Contraste' (destacar o porquê de você ser melhor que a alternativa).",
+      "Risco: Uma Declaração Genérica não guia as decisões de Produto e Marketing.",
+      "A Declaração é uma **hipótese** que deve ser testada (medindo a taxa de conversão)."
+    ],
+    "practicalChecklist": [
+      "Escreva a primeira versão da sua Declaração de Posicionamento usando o template de 7 partes.",
+      "Teste a Declaração: Ela é clara? Ela é específica? Ela é diferente da concorrência?",
+      "Use a Declaração para criar 3 mensagens de vendas e marketing e meça a taxa de conversão.",
+      "Level 1: Garanta que todas as áreas (Vendas, Produto, Marketing) possam recitar a Declaração.",
+      "Level 2: Use a Declaração para guiar as reuniões de Roadmap de Produto (os novos recursos reforçam a Diferença Única?).",
+      "Level 3: Crie um 'Elevator Pitch' de 15 segundos que seja a versão resumida e acionável da Declaração."
+    ],
+    "conclusionMessage": "A Declaração de Posicionamento é um documento interno que resume os 5 componentes. Ela não é um slogan, mas a fundação para todas as suas mensagens externas.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo da 'Declaração de Posicionamento'?",
+        "options": [
+          { "value": "a", "label": "Ser usada como slogan de marketing." },
+          { "value": "b", "label": "Servir como um documento interno para alinhar toda a empresa sobre o Cliente Ideal, Categoria e Valor Único." },
+          { "value": "c", "label": "Ser mostrada aos clientes." },
+          { "value": "d", "label": "Ser o preço do produto." }
+        ],
+        "explanation": "A declaração é a fundação interna.",
+        "hint": "Fundação interna.",
+        "correctAnswer": "b",
+        "bookExample": "A declaração de posicionamento é a sua bússola interna."
+      },
+      {
+        "id": "2",
+        "question": "Qual componente da declaração define o contexto de comparação?",
+        "options": [
+          { "value": "a", "label": "Cliente Ideal." },
+          { "value": "b", "label": "Categoria de Mercado." },
+          { "value": "c", "label": "Benefício Único." },
+          { "value": "d", "label": "Diferença Única." }
+        ],
+        "explanation": "A categoria define as expectativas e os concorrentes.",
+        "hint": "Expectativas.",
+        "correctAnswer": "b",
+        "bookExample": "A categoria é o atalho mental que o cliente usa para te entender."
+      },
+      {
+        "id": "3",
+        "question": "O que a seção 'Diferente de (Concorrentes) porque (Diferença Única)' deve comunicar?",
+        "options": [
+          { "value": "a", "label": "Que você é o mais barato." },
+          { "value": "b", "label": "O contraste entre você e as alternativas, destacando a sua capacidade única de entregar o valor prometido." },
+          { "value": "c", "label": "Que você tem mais recursos." },
+          { "value": "d", "label": "Que você é o mais antigo." }
+        ],
+        "explanation": "O contraste é a chave para a diferenciação.",
+        "hint": "Contraste.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de se destacar."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de 'Declaração de Posicionamento Genérica'?",
+        "options": [
+          { "value": "a", "label": "O time de vendas não gosta." },
+          { "value": "b", "label": "A declaração não fornece clareza suficiente para guiar as decisões de produto e marketing, resultando em desalinhamento." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "A clareza é a chave para a execução.",
+        "hint": "Clareza.",
+        "correctAnswer": "b",
+        "bookExample": "O genérico é esquecível."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Testar a Declaração'?",
+        "options": [
+          { "value": "a", "label": "Mostrar aos clientes e perguntar se eles gostam." },
+          { "value": "b", "label": "Usar a declaração para criar mensagens de vendas e marketing e medir se elas aumentam a taxa de conversão e a velocidade do ciclo de vendas." },
+          { "value": "c", "label": "Perguntar ao CEO se ele gosta." },
+          { "value": "d", "label": "Focar apenas no preço." }
+        ],
+        "explanation": "O teste é a prova de que o posicionamento funciona.",
+        "hint": "Prova.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é uma hipótese que deve ser testada."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel da 'Dor/Necessidade' na declaração?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Ela estabelece a urgência e a relevância do problema que o seu produto resolve para o Cliente Ideal." },
+          { "value": "c", "label": "Deve ser ignorada." },
+          { "value": "d", "label": "Deve ser o único foco." }
+        ],
+        "explanation": "A dor é o motor da compra.",
+        "hint": "Urgência.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra quando a dor é maior que o custo da mudança."
+      },
+      {
+        "id": "7",
+        "question": "O que a 'Declaração de Posicionamento' ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "O crescimento." },
+          { "value": "b", "label": "O desalinhamento interno e a confusão do mercado sobre o que o seu produto faz e por que ele é diferente." },
+          { "value": "c", "label": "O preço alto." },
+          { "value": "d", "label": "O marketing fácil." }
+        ],
+        "explanation": "O alinhamento é a chave para a execução.",
+        "hint": "Desalinhamento.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a bússola da empresa."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Mudar a Declaração' frequentemente?",
+        "options": [
+          { "value": "a", "label": "O time de vendas fica feliz." },
+          { "value": "b", "label": "O mercado fica confuso, e a empresa perde o foco estratégico." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "A consistência é crucial para a credibilidade.",
+        "hint": "Consistência.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento deve ser estável, mas não estático."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Posicionamento de Contraste' (Contrast Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "Usar a declaração para criar um contraste claro entre o seu produto e as alternativas, destacando a sua diferença única." },
+          { "value": "c", "label": "Focar apenas no produto." },
+          { "value": "d", "label": "Focar apenas no cliente." }
+        ],
+        "explanation": "O contraste é a chave para a diferenciação.",
+        "hint": "Diferenciação.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de se destacar."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o papel do 'Benefício Único' na declaração?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "É a promessa de valor que só o seu produto pode entregar, e que é o principal motivador da compra." },
+          { "value": "c", "label": "Deve ser ignorado." },
+          { "value": "d", "label": "Deve ser o único foco." }
+        ],
+        "explanation": "O benefício é a razão pela qual o cliente compra.",
+        "hint": "Razão de compra.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só se importa com o que você pode fazer por ele."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "A Armadilha da Categoria: Quando Mudar o Contexto",
+    "teaser": "❌ Se o seu cliente te compara com o concorrente errado (e você perde), o problema não é o produto. É o seu **contexto mental** na cabeça dele.",
+    "level1": "A armadilha da categoria ocorre quando você é posicionado em uma categoria onde suas diferenças únicas são irrelevantes ou onde você não pode vencer o líder. A solução é mudar o contexto, movendo-se para uma subcategoria ou criando uma nova.",
+    "level2": "Se você é o melhor software de gestão de projetos para engenheiros, mas está competindo como 'Software de Gestão de Projetos' (contra o Asana), você está perdendo. Mude a categoria para 'Ferramenta de Colaboração para Engenheiros com Integração Nativa de Código'.",
+    "level3": "O Tesla não se posicionou como 'Carro Elétrico', mas como 'Carro Esportivo de Luxo com Tecnologia de Ponta' (mudando o contexto de comparação de carros elétricos para carros de luxo).",
+    "recapitulation": [
+      "Armadilha da Categoria: Suas diferenças únicas são ignoradas no contexto atual.",
+      "Solução: Reposicionamento de Categoria (Subcategoria ou Nova Categoria).",
+      "Sinal de Alerta: O cliente diz: 'Você é como o X, mas mais caro' (o contexto está errado).",
+      "A Categoria de Referência (ex: 'O Uber de...') é um atalho para estabelecer o novo contexto.",
+      "A Visão de Futuro deve guiar a escolha da categoria (onde você pode ser o líder)."
+    ],
+    "practicalChecklist": [
+      "Analise as últimas 10 perdas de vendas: O cliente o comparou com quem? Se for o concorrente errado, sua categoria está quebrada.",
+      "Brainstorm de Subcategorias: Encontre 5 nichos onde você seria o líder 'Obviamente Incrível'.",
+      "Se um cliente disser: 'Você é como o X, mas mais caro', use: 'Entendo a comparação, mas somos X para Y. Isso é importante porque...'",
+      "Level 1: Use o 'Posicionamento de Contraste' (Ex: 'Diferente de X, nós fazemos Y, que resulta em Z').",
+      "Level 2: Garanta que a sua 'Diferença Única' seja relevante para a nova Subcategoria escolhida.",
+      "Level 3: Se optar por uma Nova Categoria, crie um plano de 'Educação de Mercado' (o que é, por que importa, e por que a categoria antiga falhou)."
+    ],
+    "conclusionMessage": "Se o seu produto tem diferenças únicas que geram valor, mas o mercado não as percebe, a categoria de mercado é o problema. Mudar a categoria é mudar o contexto de comparação.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é a 'Armadilha da Categoria'?",
+        "options": [
+          { "value": "a", "label": "O cliente não entende o preço." },
+          { "value": "b", "label": "O produto é posicionado em uma categoria onde suas diferenças únicas são irrelevantes ou onde ele não pode vencer o líder." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "A categoria errada mata o posicionamento.",
+        "hint": "Categoria errada.",
+        "correctAnswer": "b",
+        "bookExample": "A categoria é o atalho mental que o cliente usa para te entender."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a solução para a 'Armadilha da Categoria'?",
+        "options": [
+          { "value": "a", "label": "Baixar o preço." },
+          { "value": "b", "label": "Mudar o contexto de comparação, movendo-se para uma subcategoria ou criando uma nova categoria onde você é o líder." },
+          { "value": "c", "label": "Adicionar mais recursos." },
+          { "value": "d", "label": "Ignorar a categoria." }
+        ],
+        "explanation": "Mudar o contexto é mudar a percepção.",
+        "hint": "Contexto.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de escolher o seu campo de batalha."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'Posicionamento de Contraste' (Contrast Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "Usar a categoria de referência para estabelecer as expectativas e, em seguida, destacar o contraste entre você e as alternativas." },
+          { "value": "c", "label": "Focar apenas no produto." },
+          { "value": "d", "label": "Focar apenas no cliente." }
+        ],
+        "explanation": "O contraste é a chave para a diferenciação.",
+        "hint": "Diferenciação.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de se destacar."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de 'Posicionamento de Categoria Ampla' (Broad Category Positioning)?",
+        "options": [
+          { "value": "a", "label": "Você atrai muitos clientes." },
+          { "value": "b", "label": "Você é forçado a competir em recursos e preço, e suas diferenças únicas são ignoradas." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "A categoria ampla leva à competição de commodities.",
+        "hint": "Commodity.",
+        "correctAnswer": "b",
+        "bookExample": "O genérico é esquecível."
+      },
+      {
+        "id": "5",
+        "question": "O que o negociador deve fazer se o cliente disser: 'Você é como o X, mas mais caro'?",
+        "options": [
+          { "value": "a", "label": "Baixar o preço." },
+          { "value": "b", "label": "Corrigir o contexto, destacando a diferença única que justifica o preço e que o X não pode entregar." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O preço é uma consequência do posicionamento. Corrija o contexto.",
+        "hint": "Contexto.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o resultado de um bom posicionamento, não o posicionamento em si."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel da 'Visão de Futuro' na escolha da categoria?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A categoria deve ser grande o suficiente para o seu crescimento futuro, mas pequena o suficiente para a dominação inicial." },
+          { "value": "c", "label": "Deve ser ignorada." },
+          { "value": "d", "label": "Deve ser o maior possível." }
+        ],
+        "explanation": "O posicionamento é uma estratégia de crescimento.",
+        "hint": "Crescimento.",
+        "correctAnswer": "b",
+        "bookExample": "Posicione-se para onde você quer ir, não para onde você está."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Posicionamento de Nicho' (Niche Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar em um mercado pequeno e sem crescimento." },
+          { "value": "b", "label": "Focar em um segmento específico do mercado onde você pode ser o líder e, em seguida, expandir a partir dessa base de força." },
+          { "value": "c", "label": "Focar em um mercado muito grande." },
+          { "value": "d", "label": "Focar em um mercado onde você não tem concorrentes." }
+        ],
+        "explanation": "O nicho é a base para a dominação.",
+        "hint": "Dominação.",
+        "correctAnswer": "b",
+        "bookExample": "Comece pequeno, domine, e depois expanda."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Criar uma Nova Categoria'?",
+        "options": [
+          { "value": "a", "label": "O cliente entende facilmente." },
+          { "value": "b", "label": "Você tem que educar o mercado sobre o que você faz e por que isso importa, o que é caro e demorado." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "A educação de mercado é o custo da inovação radical.",
+        "hint": "Educação de mercado.",
+        "correctAnswer": "b",
+        "bookExample": "Se você cria uma nova categoria, você é o professor."
+      },
+      {
+        "id": "9",
+        "question": "O que a 'Categoria de Referência' ajuda a fazer?",
+        "options": [
+          { "value": "a", "label": "Confundir o cliente." },
+          { "value": "b", "label": "Acelerar a compreensão do cliente sobre o que você faz, usando um atalho mental conhecido." },
+          { "value": "c", "label": "Focar apenas no preço." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "A referência é um atalho mental.",
+        "hint": "Atalho.",
+        "correctAnswer": "b",
+        "bookExample": "Use o que eles já sabem para explicar o que você faz."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o papel do 'Time de Vendas' na escolha da categoria?",
+        "options": [
+          { "value": "a", "label": "Eles devem ser ignorados." },
+          { "value": "b", "label": "Eles fornecem feedback sobre como os clientes estão categorizando o produto e quais categorias ressoam mais." },
+          { "value": "c", "label": "Eles devem apenas vender." },
+          { "value": "d", "label": "Eles devem escrever o slogan." }
+        ],
+        "explanation": "Vendas está na linha de frente da percepção do cliente.",
+        "hint": "Percepção.",
+        "correctAnswer": "b",
+        "bookExample": "O time de vendas é o seu termômetro de posicionamento."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "A Arte de Contar Histórias de Posicionamento",
+    "teaser": "🎬 Não use a Declaração interna no seu marketing. Use **histórias de transformação** que mostram a jornada do 'Antes' doloroso para o 'Depois' incrível.",
+    "level1": "A Declaração de Posicionamento é interna, mas a comunicação externa deve ser feita através de histórias e narrativas. A história deve focar no cliente ideal, na dor que ele sentia e no valor transformador que o seu produto entregou.",
+    "level2": "Não diga ao cliente que você é diferente; mostre a ele. Use a estrutura de história: 1. O Cliente Ideal estava fazendo X (Status Quo), 2. Ele encontrou o problema Y (Dor), 3. Ele tentou Z (Concorrentes), 4. Ele encontrou você (Diferença Única), 5. Ele obteve o resultado W (Valor Único).",
+    "level3": "Em vez de 'Temos IA', diga: 'Antes, nossos clientes perdiam 10 horas por semana em relatórios. Agora, com nossa IA, eles economizam 10 horas e tomam decisões 3x mais rápido.'",
+    "recapitulation": [
+      "Foco: Demonstrar o contraste entre o Status Quo e o Valor Único.",
+      "O Herói da História: O cliente (não o seu produto).",
+      "O Vilão: A alternativa que falhou (o concorrente ou a inação).",
+      "Posicionamento de Problema: Comece falando da dor, não do produto.",
+      "Impacto: As pessoas lembram-se de histórias, não de dados brutos."
+    ],
+    "practicalChecklist": [
+      "Crie 3 'Histórias de Cliente' focadas na transformação (Antes/Depois) para o seu Cliente Ideal.",
+      "Use o 'Custo da Inação' no início da sua história para criar urgência e empatia.",
+      "Colete e use a 'Linguagem do Cliente' nas suas histórias para ressoar com o público.",
+      "Level 1: Treine o time de Vendas para usar a história como roteiro de conversas.",
+      "Level 2: Revise seus casos de sucesso: Eles parecem um panfleto de recursos ou uma história de transformação?",
+      "Level 3: Crie um 'Manifesto' que conte a história de como a sua categoria/solução nasceu (o porquê você se importa em resolver essa dor)."
+    ],
+    "conclusionMessage": "O posicionamento deve ser comunicado através de histórias que demonstrem o contraste entre o 'Antes' (o problema) e o 'Depois' (o valor único).",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo da 'História de Posicionamento'?",
+        "options": [
+          { "value": "a", "label": "Fazer o cliente rir." },
+          { "value": "b", "label": "Demonstrar o contraste entre o Status Quo e o Valor Único, tornando a escolha do seu produto óbvia." },
+          { "value": "c", "label": "Focar apenas no preço." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "A história cria a urgência e a clareza.",
+        "hint": "Contraste e clareza.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas não se lembram de dados; elas se lembram de histórias."
+      },
+      {
+        "id": "2",
+        "question": "O que a história deve focar para criar urgência?",
+        "options": [
+          { "value": "a", "label": "O futuro." },
+          { "value": "b", "label": "O 'Custo da Inação' (o que o cliente está perdendo ao não resolver o problema)." },
+          { "value": "c", "label": "O preço." },
+          { "value": "d", "label": "O produto." }
+        ],
+        "explanation": "O medo de perder é o maior motivador.",
+        "hint": "Medo de perder.",
+        "correctAnswer": "b",
+        "bookExample": "O custo da inação deve ser maior que o custo da compra."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel do 'Concorrente' na história de posicionamento?",
+        "options": [
+          { "value": "a", "label": "Ser ignorado." },
+          { "value": "b", "label": "Servir como o 'Vilão' ou a alternativa que falhou em resolver o problema do cliente ideal." },
+          { "value": "c", "label": "Ser elogiado." },
+          { "value": "d", "label": "Ser o herói." }
+        ],
+        "explanation": "O contraste com o concorrente destaca a sua diferença.",
+        "hint": "Vilão.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de se destacar."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Posicionamento de Problema' (Problem Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar no produto." },
+          { "value": "b", "label": "Começar a história focando na dor ou no problema que o cliente ideal está tentando resolver, em vez de focar no seu produto." },
+          { "value": "c", "label": "Focar no preço." },
+          { "value": "d", "label": "Focar no concorrente." }
+        ],
+        "explanation": "O problema é o motor da compra.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra quando a dor é maior que o custo da mudança."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'História Genérica'?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso." },
+          { "value": "b", "label": "A história não ressoa com o Cliente Ideal e não cria a urgência ou a clareza necessária para a compra." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "A especificidade é a chave para a ressonância.",
+        "hint": "Ressonância.",
+        "correctAnswer": "b",
+        "bookExample": "O genérico é esquecível."
+      },
+      {
+        "id": "6",
+        "question": "Como você usa a 'Linguagem do Cliente' na história?",
+        "options": [
+          { "value": "a", "label": "Ignorando-a." },
+          { "value": "b", "label": "Usando as palavras e frases que o Cliente Ideal usa para descrever o problema e o valor, para aumentar a ressonância." },
+          { "value": "c", "label": "Focando na linguagem técnica." },
+          { "value": "d", "label": "Focando na linguagem de marketing." }
+        ],
+        "explanation": "A linguagem do cliente é a chave para a conexão.",
+        "hint": "Conexão.",
+        "correctAnswer": "b",
+        "bookExample": "Fale a língua do seu cliente."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Posicionamento de Transformação' (Transformation Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar no produto." },
+          { "value": "b", "label": "Focar na mudança de estado do cliente (do 'Antes' para o 'Depois') que o seu produto proporciona." },
+          { "value": "c", "label": "Focar no preço." },
+          { "value": "d", "label": "Focar no concorrente." }
+        ],
+        "explanation": "A transformação é o valor final.",
+        "hint": "Mudança de estado.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente compra a versão melhorada de si mesmo."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel do 'Time de Vendas' na comunicação da história?",
+        "options": [
+          { "value": "a", "label": "Eles devem ser ignorados." },
+          { "value": "b", "label": "Eles devem usar a história de posicionamento como um roteiro para guiar as conversas de vendas e superar objeções." },
+          { "value": "c", "label": "Eles devem apenas vender." },
+          { "value": "d", "label": "Eles devem escrever o slogan." }
+        ],
+        "explanation": "A história é a ferramenta de vendas mais poderosa.",
+        "hint": "Roteiro.",
+        "correctAnswer": "b",
+        "bookExample": "A história é a sua arma secreta."
+      },
+      {
+        "id": "9",
+        "question": "O que a 'História de Posicionamento' ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "O crescimento." },
+          { "value": "b", "label": "O cliente ter que adivinhar o que você faz e por que você é diferente." },
+          { "value": "c", "label": "O preço alto." },
+          { "value": "d", "label": "O marketing fácil." }
+        ],
+        "explanation": "A clareza é a chave para a conversão.",
+        "hint": "Adivinhação.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de guiar a mente do cliente."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o risco de 'Focar no Produto' na história?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso sobre o que o produto faz." },
+          { "value": "b", "label": "O cliente não se conecta emocionalmente com a solução e não entende o 'Porquê' da compra." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "O foco deve ser no cliente e na dor.",
+        "hint": "Conexão emocional.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente é o herói da história, não o seu produto."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Posicionamento e o Ciclo de Vendas",
+    "teaser": "⏱️ Seu ciclo de vendas está lento? Seu posicionamento está fraco. Um posicionamento 'Obviamente Incrível' faz o **cliente ideal se auto-selecionar**.",
+    "level1": "O posicionamento não é apenas para marketing; ele é uma ferramenta de vendas. Um posicionamento claro atrai o cliente ideal (que já entende o valor) e repele o cliente não-ideal (que só quer preço).",
+    "level2": "Se o seu posicionamento é 'Obviamente Incrível', o cliente ideal não precisa de muita persuasão. O time de vendas gasta menos tempo explicando o 'o quê' e mais tempo focando no 'como' (execução).",
+    "level3": "Posicionamento claro reduz o número de reuniões de vendas necessárias para fechar um negócio.",
+    "recapitulation": [
+      "Posicionamento acelera o Ciclo de Vendas e aumenta a taxa de conversão.",
+      "Auto-Seleção: O Cliente Ideal se reconhece e o não-ideal se afasta (reduzindo o desperdício de tempo).",
+      "Posicionamento de Valor: Focar no resultado, não no recurso, para justificar o preço premium.",
+      "Objeção de Preço: Quase sempre é uma objeção de valor não resolvido; revisite o ROI.",
+      "Risco: Vender para o Cliente Não-Ideal resulta em alto churn e reputação negativa."
+    ],
+    "practicalChecklist": [
+      "Use a Declaração de Posicionamento para criar um 'Roteiro de Vendas' focado no valor único e no contraste.",
+      "Qualifique os leads pela dor: Eles têm a dor que só a sua diferença única resolve?",
+      "Treine o time de vendas para 'corrigir o contexto' quando o cliente compara você com o concorrente errado.",
+      "Level 1: Use o Testemunho de Cliente (prova social) para reduzir o risco percebido.",
+      "Level 2: Mapeie o custo da inação para o seu Cliente Ideal e use isso como a base da sua justificativa de preço.",
+      "Level 3: Crie um 'Modelo de Qualificação' (ex: 3 perguntas) baseado na Dor do Cliente Ideal e na sua Diferença Única."
+    ],
+    "conclusionMessage": "Um posicionamento claro acelera o ciclo de vendas, pois o cliente ideal se auto-seleciona e o time de vendas sabe exatamente como comunicar o valor único.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Como um posicionamento claro afeta o 'Ciclo de Vendas'?",
+        "options": [
+          { "value": "a", "label": "Aumenta o tempo de fechamento." },
+          { "value": "b", "label": "Reduz o tempo de fechamento, pois o cliente ideal se auto-seleciona e a mensagem de valor é clara." },
+          { "value": "c", "label": "Aumenta o preço." },
+          { "value": "d", "label": "Reduz o preço." }
+        ],
+        "explanation": "A clareza acelera a decisão.",
+        "hint": "Aceleração.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é o motor do crescimento."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Auto-Seleção do Cliente'?",
+        "options": [
+          { "value": "a", "label": "O cliente escolhe o produto mais barato." },
+          { "value": "b", "label": "O cliente ideal se reconhece na mensagem de posicionamento e o cliente não-ideal se afasta, economizando tempo do time de vendas." },
+          { "value": "c", "label": "O cliente escolhe o produto mais antigo." },
+          { "value": "d", "label": "O cliente escolhe o produto com mais recursos." }
+        ],
+        "explanation": "A auto-seleção é a prova de um bom posicionamento.",
+        "hint": "Reconhecimento.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de atrair quem te ama e repelir quem não te ama."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel do 'Time de Vendas' na execução do posicionamento?",
+        "options": [
+          { "value": "a", "label": "Eles devem ignorar o posicionamento." },
+          { "value": "b", "label": "Eles devem usar a Declaração de Posicionamento para criar roteiros de vendas que focam no valor único e nas diferenças." },
+          { "value": "c", "label": "Eles devem apenas vender." },
+          { "value": "d", "label": "Eles devem escrever o slogan." }
+        ],
+        "explanation": "O posicionamento é a ferramenta de vendas mais poderosa.",
+        "hint": "Roteiro.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a sua arma secreta."
+      },
+      {
+        "id": "4",
+        "question": "O que o negociador deve fazer se o cliente ideal levantar uma 'Objeção de Preço'?",
+        "options": [
+          { "value": "a", "label": "Baixar o preço imediatamente." },
+          { "value": "b", "label": "Revisitar o valor único e o custo da inação, destacando que o preço é uma consequência do valor que só o seu produto entrega." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A objeção de preço é uma objeção de valor não resolvido.",
+        "hint": "Valor.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o resultado de um bom posicionamento, não o posicionamento em si."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Vender para o Cliente Não-Ideal'?",
+        "options": [
+          { "value": "a", "label": "O cliente fica feliz." },
+          { "value": "b", "label": "O cliente não obtém o valor prometido, resulta em churn (cancelamento) e feedback negativo, prejudicando a reputação." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "O cliente não-ideal é um dreno de recursos.",
+        "hint": "Dreno de recursos.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não-ideal é o inimigo do crescimento."
+      },
+      {
+        "id": "6",
+        "question": "Como o posicionamento ajuda a 'Superar Objeções'?",
+        "options": [
+          { "value": "a", "label": "Ignorando as objeções." },
+          { "value": "b", "label": "Fornecendo ao time de vendas uma estrutura clara para contrastar o seu valor único com as alternativas (concorrentes)." },
+          { "value": "c", "label": "Focando apenas no preço." },
+          { "value": "d", "label": "Focando apenas no produto." }
+        ],
+        "explanation": "O contraste é a chave para superar objeções.",
+        "hint": "Contraste.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de se destacar."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Posicionamento de Valor' (Value Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar no preço." },
+          { "value": "b", "label": "Focar a conversa de vendas no resultado que o cliente obtém, em vez de focar nos recursos do produto." },
+          { "value": "c", "label": "Focar no concorrente." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O valor é o motor da compra.",
+        "hint": "Resultado.",
+        "correctAnswer": "b",
+        "bookExample": "Os clientes não compram recursos; eles compram resultados."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel do 'Testemunho de Cliente' no ciclo de vendas?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "É a prova social de que o valor prometido é real, reduzindo o risco percebido pelo cliente." },
+          { "value": "c", "label": "É apenas para marketing." },
+          { "value": "d", "label": "É apenas para o site." }
+        ],
+        "explanation": "A prova social é crucial para a credibilidade.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O que eles dizem sobre você é mais importante do que o que você diz sobre si mesmo."
+      },
+      {
+        "id": "9",
+        "question": "O que o posicionamento ajuda a evitar na fase de vendas?",
+        "options": [
+          { "value": "a", "label": "O crescimento." },
+          { "value": "b", "label": "A competição de commodities (ser visto como 'mais um' e ter que competir em preço)." },
+          { "value": "c", "label": "O preço alto." },
+          { "value": "d", "label": "O marketing fácil." }
+        ],
+        "explanation": "O posicionamento cria a diferenciação.",
+        "hint": "Diferenciação.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de se destacar."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de 'Qualificar um Lead' com base no posicionamento?",
+        "options": [
+          { "value": "a", "label": "Perguntando se ele tem dinheiro." },
+          { "value": "b", "label": "Perguntando se ele tem a dor que só o seu produto pode resolver de forma única." },
+          { "value": "c", "label": "Perguntando se ele gosta do seu logo." },
+          { "value": "d", "label": "Perguntando se ele conhece seus concorrentes." }
+        ],
+        "explanation": "A dor é o motor da compra.",
+        "hint": "Dor.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente ideal é aquele que tem a dor que só você pode curar."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Posicionamento e o Desenvolvimento de Produto",
+    "teaser": "🚧 O Posicionamento é a **bússola do produto**. Pare de construir recursos genéricos; construa o que amplifica sua Diferença Única para o nicho.",
+    "level1": "O posicionamento não é estático; ele é um ciclo contínuo. O time de produto deve usar a Declaração de Posicionamento para priorizar recursos que reforcem a sua diferença única e o valor para o cliente ideal.",
+    "level2": "Pare de construir recursos que todos os concorrentes têm (Recursos de Tabela). Concentre-se em construir o que só você pode fazer e que é o mais importante para o seu nicho. Isso garante que o produto seja 'Obviamente Incrível' para o cliente certo.",
+    "level3": "Se o seu posicionamento é 'Software de Automação de Relatórios', o time de produto deve priorizar a integração com plataformas de anúncios, e não a funcionalidade de calendário (que é um recurso de tabela).",
+    "recapitulation": [
+      "O Posicionamento guia o Roadmap do Produto (o que construir e o que *não* construir).",
+      "Risco: Construir uma 'coleção de recursos' sem foco (produto genérico).",
+      "Foco: Construir para a Diferença Única (o que é difícil de copiar e gera valor para o nicho).",
+      "O Posicionamento ajuda o time a dizer 'Não' aos recursos irrelevantes.",
+      "A Arquitetura deve suportar a Diferença Única (Ex: nativo em nuvem para velocidade)."
+    ],
+    "practicalChecklist": [
+      "Use a Declaração de Posicionamento como critério de desempate para novas funcionalidades no Roadmap.",
+      "Incentive o time de Produto a entrevistar o Cliente Ideal (e não apenas o cliente que está reclamando mais alto).",
+      "Mapeie novos recursos: Este recurso é uma 'Diferença Única' ou um 'Recurso de Tabela'?",
+      "Level 1: Garanta que o produto entregue o 'Benefício Único' prometido no posicionamento.",
+      "Level 2: Foque no 'Posicionamento de Inovação' (guiar a criação de novas subcategorias).",
+      "Level 3: Crie um 'Documento de Visão de Produto' que comece com a Declaração de Posicionamento."
+    ],
+    "conclusionMessage": "O posicionamento deve guiar o roadmap do produto. Você deve construir recursos que amplifiquem suas diferenças únicas e o valor para o cliente ideal.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o papel do 'Posicionamento' no desenvolvimento de produto?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Ele guia o roadmap, garantindo que os recursos construídos reforcem a diferença única e o valor para o cliente ideal." },
+          { "value": "c", "label": "Ele deve ser ignorado." },
+          { "value": "d", "label": "Ele deve ser o único foco." }
+        ],
+        "explanation": "O posicionamento é a bússola do produto.",
+        "hint": "Bússola.",
+        "correctAnswer": "b",
+        "bookExample": "O produto é a manifestação do posicionamento."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Construir para a Diferença'?",
+        "options": [
+          { "value": "a", "label": "Construir recursos que todos os concorrentes têm." },
+          { "value": "b", "label": "Priorizar recursos que amplifiquem a sua diferença única e que sejam difíceis de copiar pelos concorrentes." },
+          { "value": "c", "label": "Construir recursos que ninguém usa." },
+          { "value": "d", "label": "Construir recursos que são muito caros." }
+        ],
+        "explanation": "A diferença é a base da dominação.",
+        "hint": "Dominação.",
+        "correctAnswer": "b",
+        "bookExample": "O produto deve ser a prova do seu posicionamento."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de 'Construir Recursos de Tabela'?",
+        "options": [
+          { "value": "a", "label": "O cliente fica feliz." },
+          { "value": "b", "label": "Você gasta tempo e recursos em recursos que não te diferenciam e que não aumentam o valor percebido pelo cliente ideal." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "Recursos de tabela são o custo de entrada.",
+        "hint": "Custo de entrada.",
+        "correctAnswer": "b",
+        "bookExample": "Não se posicione em recursos de tabela. Eles são o custo de entrada."
+      },
+      {
+        "id": "4",
+        "question": "Como o time de produto deve usar o 'Feedback do Cliente Ideal'?",
+        "options": [
+          { "value": "a", "label": "Ignorando-o." },
+          { "value": "b", "label": "Usando o feedback para validar se o valor único está sendo entregue e para identificar novas oportunidades de amplificar a diferença." },
+          { "value": "c", "label": "Focando apenas no feedback negativo." },
+          { "value": "d", "label": "Focando apenas no feedback positivo." }
+        ],
+        "explanation": "O feedback é a prova de valor.",
+        "hint": "Prova de valor.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente ideal é o seu melhor consultor de produto."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Posicionamento de Inovação' (Innovation Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "Usar o posicionamento para guiar a criação de novas categorias ou subcategorias, focando em resolver problemas de formas radicalmente novas." },
+          { "value": "c", "label": "Focar apenas no produto." },
+          { "value": "d", "label": "Focar apenas no cliente." }
+        ],
+        "explanation": "A inovação é o resultado de um posicionamento claro.",
+        "hint": "Resultado.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de guiar a inovação."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de 'Posicionamento Baseado em Recursos' (Feature-Based Positioning)?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso." },
+          { "value": "b", "label": "Os recursos são facilmente copiáveis, e o posicionamento se torna insustentável a longo prazo." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "O valor é mais difícil de copiar do que o recurso.",
+        "hint": "Copiabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O valor é a sua barreira de entrada."
+      },
+      {
+        "id": "7",
+        "question": "O que o 'Posicionamento' ajuda o time de produto a dizer 'Não'?",
+        "options": [
+          { "value": "a", "label": "Aos clientes ideais." },
+          { "value": "b", "label": "Aos recursos que não reforçam a diferença única ou que são irrelevantes para o cliente ideal." },
+          { "value": "c", "label": "Aos concorrentes." },
+          { "value": "d", "label": "Ao preço." }
+        ],
+        "explanation": "O foco é a chave para a excelência.",
+        "hint": "Foco.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de dizer 'Não'."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o papel da 'Arquitetura do Produto' no posicionamento?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A arquitetura deve ser construída para suportar a diferença única e o valor prometido (ex: nativo em nuvem para velocidade)." },
+          { "value": "c", "label": "Deve ser ignorada." },
+          { "value": "d", "label": "Deve ser o único foco." }
+        ],
+        "explanation": "A arquitetura é a fundação técnica da diferença.",
+        "hint": "Fundação técnica.",
+        "correctAnswer": "b",
+        "bookExample": "A arquitetura é a fundação do seu valor único."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Posicionamento de Plataforma' (Platform Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar em um único recurso." },
+          { "value": "b", "label": "Posicionar o produto como a base para um ecossistema de soluções, onde a diferença é a capacidade de integração e expansão." },
+          { "value": "c", "label": "Focar apenas no preço." },
+          { "value": "d", "label": "Focar apenas no cliente." }
+        ],
+        "explanation": "A plataforma é uma forma poderosa de diferenciação.",
+        "hint": "Ecossistema.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento de plataforma é a arte de ser o centro do universo do cliente."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o risco de 'Ignorar o Posicionamento' no desenvolvimento de produto?",
+        "options": [
+          { "value": "a", "label": "O produto é muito rápido." },
+          { "value": "b", "label": "O produto se torna uma 'coleção de recursos' sem foco, resultando em um produto genérico que não é o melhor para ninguém." },
+          { "value": "c", "label": "O marketing é muito fácil." },
+          { "value": "d", "label": "O preço é muito alto." }
+        ],
+        "explanation": "O foco é a chave para a excelência.",
+        "hint": "Coleção de recursos.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a bússola do produto."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Posicionamento e o Preço (Pricing)",
+    "teaser": "💵 Se você compete em preço, seu posicionamento está quebrado. O **Preço é a prova** do seu valor único. Se você é 'Obviamente Incrível', você cobra mais.",
+    "level1": "Se o seu posicionamento é 'Obviamente Incrível' para o cliente ideal, o preço deve refletir o valor único que você entrega. Se você tem que competir em preço, seu posicionamento está quebrado.",
+    "level2": "O preço é a prova do seu posicionamento. Se você é o melhor em algo que importa para o cliente ideal, ele pagará mais. Use o valor quantificável (ROI) para justificar o preço premium.",
+    "level3": "Se o seu produto economiza $10.000 por mês para o cliente, cobrar $1.000 por mês é 'Obviamente Incrível'.",
+    "recapitulation": [
+      "Preço é uma *consequência* do valor percebido pelo posicionamento.",
+      "Risco: Posicionamento fraco leva à competição de commodities e preços baixos.",
+      "Posicionamento de Valor: Focar no ROI (Retorno sobre o Investimento) para justificar o preço.",
+      "Preço Premium: É a prova de um posicionamento forte e focado em valor superior.",
+      "Risco: Preço Baixo atrai o Cliente Não-Ideal (sensível ao preço, alto churn)."
+    ],
+    "practicalChecklist": [
+      "Use o 'Custo da Inação' para estabelecer o valor mínimo do seu produto.",
+      "Quantifique o ROI para o seu Cliente Ideal e use-o em conversas de preço.",
+      "Nunca baixe o preço por uma objeção de preço. Em vez disso, reforce o valor (ou rotule a objeção).",
+      "Level 1: Posicione o seu preço em relação ao valor que você entrega, não em relação ao concorrente.",
+      "Level 2: Use o concorrente como 'âncora de preço' (Ex: 'Eles cobram X por isso, mas nós fazemos Y, que vale Z').",
+      "Level 3: Crie um 'Posicionamento de Nicho de Preço' (onde você cobra premium para um segmento específico com valor alto)."
+    ],
+    "conclusionMessage": "O preço é uma consequência do posicionamento, não um componente. Um posicionamento claro e focado no valor único permite que você cobre preços premium.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a relação entre 'Posicionamento' e 'Preço'?",
+        "options": [
+          { "value": "a", "label": "O preço define o posicionamento." },
+          { "value": "b", "label": "O posicionamento define o valor, e o preço é uma consequência desse valor percebido." },
+          { "value": "c", "label": "São a mesma coisa." },
+          { "value": "d", "label": "São irrelevantes um para o outro." }
+        ],
+        "explanation": "O valor precede o preço.",
+        "hint": "Consequência.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o resultado de um bom posicionamento, não o posicionamento em si."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Posicionamento de Valor' (Value Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar no preço mais baixo." },
+          { "value": "b", "label": "Focar a conversa de vendas e marketing no resultado (valor) que o cliente obtém, justificando o preço premium." },
+          { "value": "c", "label": "Focar no concorrente." },
+          { "value": "d", "label": "Focar no produto." }
+        ],
+        "explanation": "O valor é o motor da compra.",
+        "hint": "Resultado.",
+        "correctAnswer": "b",
+        "bookExample": "Os clientes não compram recursos; eles compram resultados."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de 'Competir em Preço'?",
+        "options": [
+          { "value": "a", "label": "Você atrai muitos clientes." },
+          { "value": "b", "label": "Você é forçado a reduzir margens, e o cliente não percebe o valor único, vendo você como uma commodity." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "A competição de preço é a morte lenta.",
+        "hint": "Commodity.",
+        "correctAnswer": "b",
+        "bookExample": "Se você compete em preço, você perde em valor."
+      },
+      {
+        "id": "4",
+        "question": "Como você usa o 'ROI' (Retorno sobre o Investimento) no posicionamento?",
+        "options": [
+          { "value": "a", "label": "Ignorando-o." },
+          { "value": "b", "label": "Quantificando o valor que o cliente obtém para justificar o preço premium e demonstrar que o custo é insignificante em comparação com o benefício." },
+          { "value": "c", "label": "Focando apenas no custo." },
+          { "value": "d", "label": "Focando apenas no produto." }
+        ],
+        "explanation": "O ROI é a prova de valor.",
+        "hint": "Prova de valor.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o que você paga. O valor é o que você recebe."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Posicionamento de Preço Premium'?",
+        "options": [
+          { "value": "a", "label": "Cobrar o preço mais alto possível." },
+          { "value": "b", "label": "Cobrar um preço que reflete o valor único e superior que você entrega ao cliente ideal, e que é maior que o preço dos concorrentes genéricos." },
+          { "value": "c", "label": "Cobrar o preço mais baixo possível." },
+          { "value": "d", "label": "Cobrar o mesmo preço dos concorrentes." }
+        ],
+        "explanation": "O preço premium é a prova de um posicionamento forte.",
+        "hint": "Valor superior.",
+        "correctAnswer": "b",
+        "bookExample": "Se você é o melhor, você deve cobrar como o melhor."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel do 'Concorrente' na definição do preço?",
+        "options": [
+          { "value": "a", "label": "Definir o seu preço." },
+          { "value": "b", "label": "Servir como âncora de preço. Seu preço deve ser comparado ao valor que o concorrente entrega, destacando que o seu valor superior justifica o preço mais alto." },
+          { "value": "c", "label": "Ser ignorado." },
+          { "value": "d", "label": "Ser copiado." }
+        ],
+        "explanation": "O concorrente é o contexto de preço.",
+        "hint": "Contexto.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de se destacar."
+      },
+      {
+        "id": "7",
+        "question": "O que o negociador deve fazer se o cliente ideal disser: 'Eu não posso pagar isso'?",
+        "options": [
+          { "value": "a", "label": "Baixar o preço imediatamente." },
+          { "value": "b", "label": "Revisitar o valor e o ROI, ou usar a rotulagem ('Parece que o orçamento é uma grande restrição para você') para entender a objeção real." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A objeção de preço é uma objeção de valor não resolvido.",
+        "hint": "Valor.",
+        "correctAnswer": "b",
+        "bookExample": "O preço é o resultado de um bom posicionamento, não o posicionamento em si."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Posicionamento de Preço Baixo'?",
+        "options": [
+          { "value": "a", "label": "Você atrai muitos clientes." },
+          { "value": "b", "label": "Você atrai clientes não-ideais que são sensíveis ao preço e que não valorizam a sua diferença única." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "O preço baixo atrai o cliente errado.",
+        "hint": "Cliente errado.",
+        "correctAnswer": "b",
+        "bookExample": "O preço baixo é o inimigo do crescimento."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Posicionamento de Nicho de Preço' (Price Niche Positioning)?",
+        "options": [
+          { "value": "a", "label": "Cobrar o preço mais baixo possível." },
+          { "value": "b", "label": "Cobrar um preço premium em um nicho específico, onde o valor único é tão alto que o preço é justificado." },
+          { "value": "c", "label": "Cobrar o preço mais alto possível." },
+          { "value": "d", "label": "Cobrar o mesmo preço dos concorrentes." }
+        ],
+        "explanation": "O nicho permite o preço premium.",
+        "hint": "Nicho.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento de nicho é a chave para o preço premium."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o papel do 'Time de Produto' na definição do preço?",
+        "options": [
+          { "value": "a", "label": "Eles devem ser ignorados." },
+          { "value": "b", "label": "Eles devem garantir que o produto entregue o valor único que justifica o preço premium." },
+          { "value": "c", "label": "Eles devem apenas construir." },
+          { "value": "d", "label": "Eles devem escrever o slogan." }
+        ],
+        "explanation": "O produto é a prova do posicionamento.",
+        "hint": "Prova.",
+        "correctAnswer": "b",
+        "bookExample": "O produto é a manifestação do posicionamento."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Posicionamento e o Marketing de Conteúdo",
+    "teaser": "🧲 Seu conteúdo deve ser um **ímã focado**. Ele precisa falar da dor do seu nicho e de como **só a sua diferença** a resolve.",
+    "level1": "O posicionamento é a base do marketing de conteúdo. O conteúdo deve ser usado para atrair o cliente ideal, educá-lo sobre o custo da inação e o valor único que só o seu produto pode entregar.",
+    "level2": "Seu conteúdo deve ser um ímã para o cliente ideal. Ele deve falar sobre a dor que ele sente, a categoria que ele usa e a diferença que você oferece. Não crie conteúdo genérico que todos os concorrentes criam.",
+    "level3": "Em vez de '5 Dicas de Produtividade', use 'Como Agências de Marketing Podem Economizar 10 Horas por Semana com Automação de Relatórios'.",
+    "recapitulation": [
+      "O Posicionamento guia a relevância do conteúdo.",
+      "Risco: 'Conteúdo Genérico' não atrai o Cliente Ideal e não cria contraste.",
+      "Marketing de Contraste: Destaque o Status Quo e o valor único da sua solução.",
+      "Foco: Criar 'Conteúdo de Nicho' (extremamente relevante para o seu público).",
+      "Educação: Use o conteúdo para educar o mercado sobre a nova categoria/subcategoria (se for o caso)."
+    ],
+    "practicalChecklist": [
+      "Crie uma lista de tópicos de conteúdo que sejam *únicos* para a dor do seu Cliente Ideal e que só você pode resolver.",
+      "Use a 'Linguagem do Cliente' (palavras e frases que eles usam) nos títulos e no corpo do conteúdo.",
+      "Use estudos de caso e depoimentos (prova social) como conteúdo de alto valor.",
+      "Level 1: Elimine conteúdo que todos os seus concorrentes também estão criando (conteúdo de tabela).",
+      "Level 2: Crie conteúdo que ataque (gentilmente) a alternativa do cliente (o concorrente ou a inação).",
+      "Level 3: Mapeie o conteúdo para a jornada do cliente: Consciência (Dor) → Consideração (Solução) → Decisão (Seu Valor Único)."
+    ],
+    "conclusionMessage": "O marketing de conteúdo deve ser usado para educar o mercado sobre a sua diferença única e o valor que ela gera, focando na dor do cliente ideal.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o papel do 'Posicionamento' no marketing de conteúdo?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Ele guia a criação de conteúdo, garantindo que ele seja focado na dor do cliente ideal e no valor único." },
+          { "value": "c", "label": "Ele deve ser ignorado." },
+          { "value": "d", "label": "Ele deve ser o único foco." }
+        ],
+        "explanation": "O posicionamento é a bússola do conteúdo.",
+        "hint": "Bússola.",
+        "correctAnswer": "b",
+        "bookExample": "O conteúdo é a manifestação do posicionamento."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Marketing de Contraste' (Contrast Marketing)?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "Criar conteúdo que destaca o contraste entre o seu valor único e as alternativas (concorrentes), tornando a escolha óbvia." },
+          { "value": "c", "label": "Focar apenas no produto." },
+          { "value": "d", "label": "Focar apenas no cliente." }
+        ],
+        "explanation": "O contraste é a chave para a diferenciação.",
+        "hint": "Diferenciação.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de se destacar."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de 'Conteúdo Genérico'?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso." },
+          { "value": "b", "label": "O conteúdo não atrai o cliente ideal e não cria a urgência ou a clareza necessária para a compra." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "O genérico é esquecível.",
+        "hint": "Esquecível.",
+        "correctAnswer": "b",
+        "bookExample": "O conteúdo deve ser um ímã para o cliente ideal."
+      },
+      {
+        "id": "4",
+        "question": "Como você usa a 'Dor do Cliente' no marketing de conteúdo?",
+        "options": [
+          { "value": "a", "label": "Ignorando-a." },
+          { "value": "b", "label": "Focando na dor que só o seu produto pode resolver de forma única, e usando essa dor para motivar a compra." },
+          { "value": "c", "label": "Focando na dor que todos os concorrentes resolvem." },
+          { "value": "d", "label": "Focando na dor que não é importante." }
+        ],
+        "explanation": "A dor é o motor da compra.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra quando a dor é maior que o custo da mudança."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Marketing de Educação de Categoria' (Category Education Marketing)?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "Criar conteúdo que educa o mercado sobre a nova categoria ou subcategoria que você está criando, destacando o problema que ela resolve." },
+          { "value": "c", "label": "Focar apenas no produto." },
+          { "value": "d", "label": "Focar apenas no cliente." }
+        ],
+        "explanation": "A educação de categoria é o custo da inovação radical.",
+        "hint": "Inovação.",
+        "correctAnswer": "b",
+        "bookExample": "Se você cria uma nova categoria, você é o professor."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel do 'Testemunho de Cliente' no marketing de conteúdo?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "É a prova social de que o valor prometido é real, reduzindo o risco percebido pelo cliente." },
+          { "value": "c", "label": "É apenas para marketing." },
+          { "value": "d", "label": "É apenas para o site." }
+        ],
+        "explanation": "A prova social é crucial para a credibilidade.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O que eles dizem sobre você é mais importante do que o que você diz sobre si mesmo."
+      },
+      {
+        "id": "7",
+        "question": "O que o 'Marketing de Conteúdo' ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "O crescimento." },
+          { "value": "b", "label": "O cliente ter que adivinhar o que você faz e por que você é diferente." },
+          { "value": "c", "label": "O preço alto." },
+          { "value": "d", "label": "O marketing fácil." }
+        ],
+        "explanation": "A clareza é a chave para a conversão.",
+        "hint": "Adivinhação.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de guiar a mente do cliente."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Focar no Produto' no marketing de conteúdo?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso sobre o que o produto faz." },
+          { "value": "b", "label": "O cliente não se conecta emocionalmente com a solução e não entende o 'Porquê' da compra." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "O foco deve ser no cliente e na dor.",
+        "hint": "Conexão emocional.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente é o herói da história, não o seu produto."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Posicionamento de Nicho de Conteúdo' (Content Niche Positioning)?",
+        "options": [
+          { "value": "a", "label": "Criar conteúdo para todos." },
+          { "value": "b", "label": "Criar conteúdo que é extremamente relevante e específico para o seu cliente ideal, mas que pode ser irrelevante para o mercado geral." },
+          { "value": "c", "label": "Criar conteúdo que é muito caro." },
+          { "value": "d", "label": "Criar conteúdo que é muito barato." }
+        ],
+        "explanation": "O nicho permite a ressonância.",
+        "hint": "Ressonância.",
+        "correctAnswer": "b",
+        "bookExample": "Foque no valor que só você pode entregar para o seu cliente ideal."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o papel da 'Linguagem do Cliente' no marketing de conteúdo?",
+        "options": [
+          { "value": "a", "label": "Ignorando-a." },
+          { "value": "b", "label": "Usando as palavras e frases que o Cliente Ideal usa para descrever o problema e o valor, para aumentar a ressonância." },
+          { "value": "c", "label": "Focando na linguagem técnica." },
+          { "value": "d", "label": "Focando na linguagem de marketing." }
+        ],
+        "explanation": "A linguagem do cliente é a chave para a conexão.",
+        "hint": "Conexão.",
+        "correctAnswer": "b",
+        "bookExample": "Fale a língua do seu cliente."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Posicionamento e o Lançamento de Produto",
+    "teaser": "🚀 Seu lançamento não é sobre recursos. É uma **oportunidade de reposicionamento**. Lance a **nova categoria** e o **valor único** que ela traz.",
+    "level1": "O lançamento é a oportunidade de redefinir o contexto do seu produto na mente do mercado. Você deve usar a Declaração de Posicionamento para criar uma narrativa de lançamento que destaque o contraste entre o Status Quo e a sua solução 'Obviamente Incrível'.",
+    "level2": "Não lance apenas um recurso; lance um novo posicionamento. O lançamento deve ser focado no cliente ideal e na dor que ele sente, e como o seu produto é a única solução para essa dor.",
+    "level3": "Em vez de 'Lançamos a versão 2.0', diga: 'Lançamos a solução que finalmente resolve o problema de relatórios para agências de marketing, economizando 10 horas por semana.'",
+    "recapitulation": [
+      "Objetivo: Redefinir o contexto e comunicar a Diferença Única.",
+      "Risco: Lançamento focado em recursos é visto como 'mais do mesmo'.",
+      "Narrativa: Foco no 'Posicionamento de Lançamento' (o contraste entre o Antes/Status Quo e o Depois/Valor Único).",
+      "Use o Cliente Ideal como herói da história de lançamento (dor e transformação).",
+      "A Mídia deve ser usada para amplificar a história de posicionamento e o contraste."
+    ],
+    "practicalChecklist": [
+      "Crie uma 'Narrativa de Lançamento' que comece com a Dor do Cliente Ideal e termine com o Valor Único (e não com a lista de recursos).",
+      "Use depoimentos de clientes beta no lançamento para fornecer Prova Social imediata.",
+      "Treine o time de Vendas para usar a 'História de Lançamento' como roteiro nas primeiras 4 semanas.",
+      "Level 1: Garanta que o comunicado de imprensa/blog fale da nova *Categoria* ou *Subcategoria*.",
+      "Level 2: Use um 'Posicionamento de Contraste de Lançamento' (Ex: 'Ao contrário do X, nosso novo Y faz Z...').",
+      "Level 3: Mantenha o foco: Não dilua o lançamento com recursos que não reforçam a Diferença Única principal."
+    ],
+    "conclusionMessage": "O lançamento de produto deve ser um evento de posicionamento. Você deve usar o lançamento para comunicar a nova categoria, a diferença única e o valor para o cliente ideal.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo do 'Lançamento de Produto' no contexto do posicionamento?",
+        "options": [
+          { "value": "a", "label": "Apenas anunciar novos recursos." },
+          { "value": "b", "label": "Redefinir o contexto do produto na mente do mercado, comunicando a nova categoria, a diferença única e o valor." },
+          { "value": "c", "label": "Focar apenas no preço." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O lançamento é uma oportunidade de reposicionamento.",
+        "hint": "Contexto.",
+        "correctAnswer": "b",
+        "bookExample": "O lançamento é a sua chance de contar a sua história."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Posicionamento de Lançamento' (Launch Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no produto." },
+          { "value": "b", "label": "Usar a narrativa de lançamento para criar um contraste claro entre o Status Quo e a sua solução 'Obviamente Incrível'." },
+          { "value": "c", "label": "Focar apenas no preço." },
+          { "value": "d", "label": "Focar apenas no cliente." }
+        ],
+        "explanation": "O contraste é a chave para a diferenciação.",
+        "hint": "Contraste.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de se destacar."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de 'Lançamento Focado em Recursos'?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso sobre o que o produto faz." },
+          { "value": "b", "label": "O cliente não entende o 'Porquê' da compra e não percebe o valor único, vendo o lançamento como 'mais do mesmo'." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "O foco deve ser no valor, não no recurso.",
+        "hint": "Valor.",
+        "correctAnswer": "b",
+        "bookExample": "Os clientes não compram recursos; eles compram resultados."
+      },
+      {
+        "id": "4",
+        "question": "Como você usa o 'Cliente Ideal' no lançamento?",
+        "options": [
+          { "value": "a", "label": "Ignorando-o." },
+          { "value": "b", "label": "Usando o Cliente Ideal como o herói da história de lançamento, destacando a dor que ele sentia e a transformação que o produto proporcionou." },
+          { "value": "c", "label": "Focando apenas no preço." },
+          { "value": "d", "label": "Focando apenas no produto." }
+        ],
+        "explanation": "O cliente é o herói da história.",
+        "hint": "Herói.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente é o herói da história, não o seu produto."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Posicionamento de Categoria de Lançamento' (Launch Category Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "Usar o lançamento para introduzir a nova categoria ou subcategoria, educando o mercado sobre o novo contexto." },
+          { "value": "c", "label": "Focar apenas no produto." },
+          { "value": "d", "label": "Focar apenas no cliente." }
+        ],
+        "explanation": "O lançamento é a oportunidade de educar o mercado.",
+        "hint": "Educação.",
+        "correctAnswer": "b",
+        "bookExample": "Se você cria uma nova categoria, você é o professor."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel do 'Time de Vendas' no lançamento?",
+        "options": [
+          { "value": "a", "label": "Eles devem ser ignorados." },
+          { "value": "b", "label": "Eles devem usar a narrativa de lançamento para guiar as conversas de vendas e superar objeções." },
+          { "value": "c", "label": "Eles devem apenas vender." },
+          { "value": "d", "label": "Eles devem escrever o slogan." }
+        ],
+        "explanation": "A narrativa é a ferramenta de vendas mais poderosa.",
+        "hint": "Narrativa.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a sua arma secreta."
+      },
+      {
+        "id": "7",
+        "question": "O que o 'Lançamento de Posicionamento' ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "O crescimento." },
+          { "value": "b", "label": "O cliente ter que adivinhar o que você faz e por que você é diferente." },
+          { "value": "c", "label": "O preço alto." },
+          { "value": "d", "label": "O marketing fácil." }
+        ],
+        "explanation": "A clareza é a chave para a conversão.",
+        "hint": "Adivinhação.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de guiar a mente do cliente."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Lançamento Genérico'?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso." },
+          { "value": "b", "label": "O lançamento não cria o contraste necessário e o produto é visto como 'mais do mesmo', resultando em baixo impacto." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "O genérico é esquecível.",
+        "hint": "Esquecível.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de se destacar."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Posicionamento de Contraste de Lançamento'?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "Usar o lançamento para destacar o contraste entre o Status Quo e a sua solução 'Obviamente Incrível'." },
+          { "value": "c", "label": "Focar apenas no produto." },
+          { "value": "d", "label": "Focar apenas no cliente." }
+        ],
+        "explanation": "O contraste é a chave para a diferenciação.",
+        "hint": "Diferenciação.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de se destacar."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o papel da 'Mídia' no lançamento?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A mídia deve ser usada para amplificar a história de posicionamento e o contraste, alcançando o cliente ideal." },
+          { "value": "c", "label": "Deve ser ignorada." },
+          { "value": "d", "label": "Deve ser o único foco." }
+        ],
+        "explanation": "A mídia é o amplificador da mensagem.",
+        "hint": "Amplificador.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a sua história. A mídia é o seu megafone."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Posicionamento e o Crescimento (Scaling)",
+    "teaser": "📈 Não cresça de forma aleatória. Domine um **nicho**, use esse sucesso como prova social, e depois avance para os **mercados adjacentes**.",
+    "level1": "O crescimento sustentável é construído sobre um posicionamento sólido. Você deve usar o posicionamento de nicho para dominar um segmento e, em seguida, expandir para mercados adjacentes, usando o sucesso do nicho como prova de valor.",
+    "level2": "Não tente crescer para todos os lados ao mesmo tempo. Domine um nicho, use o sucesso para financiar o próximo nicho e, em seguida, expanda para a categoria principal. O posicionamento é a sua estratégia de expansão.",
+    "level3": "O Amazon começou vendendo livros (nicho) e, em seguida, expandiu para o varejo geral (categoria principal).",
+    "recapitulation": [
+      "O Posicionamento guia a 'Expansão de Nicho' (crescimento focado e estratégico).",
+      "Risco: 'Crescimento Não-Focado' dilui a mensagem e aumenta o churn.",
+      "Estratégia: Usar o 'Sucesso do Nicho' (estudos de caso) como prova para atrair mercados adjacentes.",
+      "Objetivo Final: A 'Categoria Principal' (após dominar o nicho e ter credibilidade).",
+      "A expansão deve ser um 'passo lógico' (mercados adjacentes), não um 'salto de fé'."
+    ],
+    "practicalChecklist": [
+      "Identifique 3 'Mercados Adjacentes' lógicos que compartilham a Dor do Cliente Ideal atual.",
+      "Crie um 'Estudo de Caso' do seu nicho atual (prova social) para usar como ferramenta de vendas nos mercados adjacentes.",
+      "Adapte a Declaração de Posicionamento para o novo mercado adjacente, mantendo a Diferença Única.",
+      "Level 1: Use o posicionamento para dizer 'Não' às oportunidades que estão fora da sua estratégia de expansão.",
+      "Level 2: Garanta que o time de Produto adapte (e não apenas copie) o produto para as necessidades únicas do novo nicho.",
+      "Level 3: Treine o time de Marketing para adaptar a 'História de Posicionamento' para ressoar com a dor do novo público."
+    ],
+    "conclusionMessage": "O posicionamento é uma estratégia de crescimento. Você deve usar o posicionamento de nicho para dominar e, em seguida, expandir para mercados adjacentes.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o papel do 'Posicionamento' no crescimento (Scaling)?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Ele guia a estratégia de expansão, garantindo que o crescimento seja focado em mercados adjacentes onde o valor único é relevante." },
+          { "value": "c", "label": "Ele deve ser ignorado." },
+          { "value": "d", "label": "Ele deve ser o único foco." }
+        ],
+        "explanation": "O posicionamento é a bússola do crescimento.",
+        "hint": "Bússola.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de guiar o crescimento."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Expansão de Nicho' (Niche Expansion)?",
+        "options": [
+          { "value": "a", "label": "Crescer para todos os lados ao mesmo tempo." },
+          { "value": "b", "label": "Dominar um nicho e, em seguida, expandir para mercados adjacentes onde o valor único é relevante, usando o sucesso do nicho como prova de valor." },
+          { "value": "c", "label": "Focar apenas no preço." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "A expansão deve ser estratégica e focada.",
+        "hint": "Estratégia.",
+        "correctAnswer": "b",
+        "bookExample": "Comece pequeno, domine, e depois expanda."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de 'Crescimento Não-Focado'?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso." },
+          { "value": "b", "label": "A empresa perde o foco estratégico, a mensagem se dilui e o produto se torna genérico, resultando em baixo crescimento e alto churn." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "O foco é a chave para a excelência.",
+        "hint": "Diluição.",
+        "correctAnswer": "b",
+        "bookExample": "O crescimento não-focado é o inimigo do crescimento sustentável."
+      },
+      {
+        "id": "4",
+        "question": "Como você usa o 'Sucesso do Nicho' para o crescimento?",
+        "options": [
+          { "value": "a", "label": "Ignorando-o." },
+          { "value": "b", "label": "Usando o sucesso (testemunhos, estudos de caso) como prova social para atrair clientes em mercados adjacentes." },
+          { "value": "c", "label": "Focando apenas no preço." },
+          { "value": "d", "label": "Focando apenas no produto." }
+        ],
+        "explanation": "O sucesso é a melhor prova de valor.",
+        "hint": "Prova social.",
+        "correctAnswer": "b",
+        "bookExample": "O sucesso é a melhor forma de prever o futuro."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Posicionamento de Categoria Principal' (Main Category Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "O posicionamento que você adota após dominar vários nichos e estar pronto para competir na categoria principal (ex: 'Software de CRM')." },
+          { "value": "c", "label": "Focar apenas no produto." },
+          { "value": "d", "label": "Focar apenas no cliente." }
+        ],
+        "explanation": "A categoria principal é o objetivo final da expansão.",
+        "hint": "Objetivo final.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é uma escada. Suba degrau por degrau."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel do 'Time de Produto' na expansão?",
+        "options": [
+          { "value": "a", "label": "Eles devem ser ignorados." },
+          { "value": "b", "label": "Eles devem garantir que o produto seja adaptado para atender às necessidades únicas dos novos mercados adjacentes." },
+          { "value": "c", "label": "Eles devem apenas construir." },
+          { "value": "d", "label": "Eles devem escrever o slogan." }
+        ],
+        "explanation": "O produto deve suportar o novo posicionamento.",
+        "hint": "Suporte.",
+        "correctAnswer": "b",
+        "bookExample": "O produto é a manifestação do posicionamento."
+      },
+      {
+        "id": "7",
+        "question": "O que o 'Posicionamento de Crescimento' ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "O crescimento." },
+          { "value": "b", "label": "A diluição da marca e a competição de commodities em mercados onde você não tem uma diferença única." },
+          { "value": "c", "label": "O preço alto." },
+          { "value": "d", "label": "O marketing fácil." }
+        ],
+        "explanation": "A diluição é o inimigo do crescimento.",
+        "hint": "Diluição.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de se destacar."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Mudar o Posicionamento' muito cedo na fase de crescimento?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso." },
+          { "value": "b", "label": "Você perde a base de força no nicho e a credibilidade para expandir para mercados adjacentes." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "A consistência é crucial para a credibilidade.",
+        "hint": "Consistência.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento deve ser estável, mas não estático."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Posicionamento de Mercado Adjacente' (Adjacent Market Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar em um mercado totalmente novo." },
+          { "value": "b", "label": "Focar em um mercado que compartilha características e dores semelhantes ao seu nicho atual, facilitando a expansão." },
+          { "value": "c", "label": "Focar apenas no preço." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O mercado adjacente é o próximo passo lógico.",
+        "hint": "Lógica.",
+        "correctAnswer": "b",
+        "bookExample": "A expansão deve ser um passo lógico, não um salto de fé."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o papel do 'Time de Marketing' na expansão?",
+        "options": [
+          { "value": "a", "label": "Eles devem ser ignorados." },
+          { "value": "b", "label": "Eles devem adaptar a história de posicionamento para ressoar com as dores e o contexto dos novos mercados adjacentes." },
+          { "value": "c", "label": "Eles devem apenas vender." },
+          { "value": "d", "label": "Eles devem escrever o slogan." }
+        ],
+        "explanation": "A adaptação da mensagem é crucial para a ressonância.",
+        "hint": "Ressonância.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de guiar a mente do cliente."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Posicionamento e a Cultura Interna",
+    "teaser": "🤝 Posicionamento não é apenas um documento. É a **mentalidade da empresa**. Do CEO ao Suporte, todos devem recitar o 'Porquê' e o 'Para Quem'.",
+    "level1": "O posicionamento não é apenas um documento; é uma mentalidade. Toda a empresa, do CEO ao suporte, deve entender o Cliente Ideal, a Diferença Única e o Valor. Isso garante que todas as interações com o cliente reforcem o posicionamento.",
+    "level2": "Se o seu time de suporte não entende o posicionamento, eles podem dar a resposta errada ao cliente ideal. O posicionamento deve ser a base para a contratação (contratar pessoas que entendem o cliente ideal) e o treinamento.",
+    "level3": "O time de suporte deve saber que o cliente ideal valoriza a velocidade, e não a funcionalidade de calendário (recurso de tabela).",
+    "recapitulation": [
+      "Posicionamento é a fundação da cultura e da tomada de decisões.",
+      "Alinhamento Interno: Evita mensagens conflitantes e confusão do mercado.",
+      "Posicionamento de Contratação: Atrair talentos que se alinham com o Cliente Ideal e o Valor Único.",
+      "O CEO deve ser o principal evangelista da Declaração de Posicionamento.",
+      "O time de Suporte é a manifestação da 'Promessa de Posicionamento' (eles devem reforçar o valor)."
+    ],
+    "practicalChecklist": [
+      "Use a Declaração de Posicionamento como o primeiro slide de todo Onboarding de novos funcionários.",
+      "Crie 'Princípios de Posicionamento' para as áreas (Ex: 'Para Vendas: Sempre qualifique pela Dor Única').",
+      "Garanta que o time de Suporte saiba como resolver problemas de forma que reforce a Diferença Única.",
+      "Level 1: Use a Declaração de Posicionamento como a base para avaliações de desempenho (a pessoa contribuiu para o posicionamento?).",
+      "Level 2: O CEO deve comunicar o posicionamento em todas as reuniões internas e externas.",
+      "Level 3: Crie um 'Posicionamento de Decisão' (Ex: 'Se o recurso X não reforça a diferença Y, não o construa')."
+    ],
+    "conclusionMessage": "O posicionamento deve ser internalizado por toda a empresa. Ele deve ser a base para a contratação, o treinamento e a tomada de decisões diárias.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o papel do 'Posicionamento' na cultura interna?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Ele deve ser a base para a contratação, o treinamento e a tomada de decisões diárias, garantindo o alinhamento interno." },
+          { "value": "c", "label": "Ele deve ser ignorado." },
+          { "value": "d", "label": "Ele deve ser o único foco." }
+        ],
+        "explanation": "O posicionamento é a bússola da empresa.",
+        "hint": "Bússola.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a fundação da cultura."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Posicionamento de Contratação' (Hiring Positioning)?",
+        "options": [
+          { "value": "a", "label": "Contratar apenas pessoas que gostam do produto." },
+          { "value": "b", "label": "Contratar pessoas que entendem o Cliente Ideal, a Dor e o Valor Único, e que podem reforçar o posicionamento em suas funções." },
+          { "value": "c", "label": "Contratar apenas pessoas que são baratas." },
+          { "value": "d", "label": "Contratar apenas pessoas que são antigas." }
+        ],
+        "explanation": "O time é a manifestação do posicionamento.",
+        "hint": "Manifestação.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de atrair quem te ama e repelir quem não te ama."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de 'Desalinhamento Interno'?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso." },
+          { "value": "b", "label": "Diferentes partes da empresa comunicam mensagens conflitantes, resultando em confusão do mercado e baixo crescimento." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "O alinhamento é a chave para a execução.",
+        "hint": "Conflito.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento deve ser um documento vivo, não um artefato morto."
+      },
+      {
+        "id": "4",
+        "question": "Como você usa o 'Posicionamento' no treinamento de novos funcionários?",
+        "options": [
+          { "value": "a", "label": "Ignorando-o." },
+          { "value": "b", "label": "Usando a Declaração de Posicionamento como o primeiro documento de treinamento, garantindo que todos entendam o 'Porquê' da empresa." },
+          { "value": "c", "label": "Focando apenas no preço." },
+          { "value": "d", "label": "Focando apenas no produto." }
+        ],
+        "explanation": "O 'Porquê' é o motor da motivação.",
+        "hint": "Motivação.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a sua história. Conte-a a todos."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Posicionamento de Suporte' (Support Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "Garantir que o time de suporte entenda o valor único e a diferença, para que eles possam resolver problemas de forma que reforce o posicionamento." },
+          { "value": "c", "label": "Focar apenas no produto." },
+          { "value": "d", "label": "Focar apenas no cliente." }
+        ],
+        "explanation": "O suporte é a prova da promessa.",
+        "hint": "Promessa.",
+        "correctAnswer": "b",
+        "bookExample": "O suporte é a manifestação do posicionamento."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel do 'CEO' na internalização do posicionamento?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "O CEO deve ser o principal evangelista do posicionamento, garantindo que ele seja comunicado e reforçado em todas as interações internas e externas." },
+          { "value": "c", "label": "Ele deve apenas gerenciar." },
+          { "value": "d", "label": "Ele deve escrever o slogan." }
+        ],
+        "explanation": "O CEO é o líder da narrativa.",
+        "hint": "Líder.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento começa no topo."
+      },
+      {
+        "id": "7",
+        "question": "O que o 'Posicionamento Interno' ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "O crescimento." },
+          { "value": "b", "label": "A diluição da marca e a confusão do mercado sobre o que o seu produto faz e por que ele é diferente." },
+          { "value": "c", "label": "O preço alto." },
+          { "value": "d", "label": "O marketing fácil." }
+        ],
+        "explanation": "A clareza é a chave para a execução.",
+        "hint": "Diluição.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de guiar a mente do cliente."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Posicionamento de Produto' (Product Positioning) sem alinhamento interno?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso." },
+          { "value": "b", "label": "O produto pode ser 'Obviamente Incrível', mas a experiência do cliente (vendas, suporte) não reforça a promessa, resultando em churn." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "A experiência do cliente deve ser coesa.",
+        "hint": "Coesão.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a promessa. A experiência é a entrega."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Posicionamento de Decisão' (Decision Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "Usar o posicionamento como a base para todas as decisões de negócios (ex: 'Este recurso reforça nossa diferença única?')." },
+          { "value": "c", "label": "Focar apenas no produto." },
+          { "value": "d", "label": "Focar apenas no cliente." }
+        ],
+        "explanation": "O posicionamento é a bússola estratégica.",
+        "hint": "Estratégia.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é o ponto de partida para todas as decisões de negócios."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o papel do 'Time de Engenharia' na internalização do posicionamento?",
+        "options": [
+          { "value": "a", "label": "Eles devem ser ignorados." },
+          { "value": "b", "label": "Eles devem entender o valor único para garantir que a arquitetura e a qualidade do código suportem a promessa de posicionamento." },
+          { "value": "c", "label": "Eles devem apenas construir." },
+          { "value": "d", "label": "Eles devem escrever o slogan." }
+        ],
+        "explanation": "A engenharia é a fundação técnica da diferença.",
+        "hint": "Fundação técnica.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a fundação da qualidade."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "O Ciclo de Feedback e o Refinamento Contínuo",
+    "teaser": "🔄 O mercado sempre te alcança. Seu posicionamento é uma **hipótese viva** que precisa ser testada, refinada e atualizada **continuamente**.",
+    "level1": "O mercado está sempre mudando. Seus concorrentes copiam, e as necessidades dos clientes evoluem. Você deve ter um ciclo de feedback contínuo (entrevistas com clientes, análise de vendas) para garantir que o seu posicionamento permaneça 'Obviamente Incrível'.",
+    "level2": "O posicionamento é uma hipótese que deve ser testada e refinada. Se o ciclo de vendas está lento ou se o cliente está te comparando com o concorrente errado, é hora de revisitar a Declaração de Posicionamento.",
+    "level3": "Se o seu concorrente copia a sua diferença única, você deve encontrar a próxima diferença única e reposicionar-se.",
+    "recapitulation": [
+      "Posicionamento Contínuo: Feedback, Teste e Refinamento (não é um projeto de uma vez).",
+      "Sinal de Alerta: Cliente compara você com o concorrente errado ou o ciclo de vendas está lento.",
+      "O Time de Vendas é o 'termômetro' para a mensagem de posicionamento (o que ressoa e o que não ressoa).",
+      "Posicionamento Estático: Leva à obsolescência e à competição de preço.",
+      "Foco: Criar a 'Próxima Diferença Única' (o time de produto deve inovar de forma contínua)."
+    ],
+    "practicalChecklist": [
+      "Realize 'Entrevistas de Posicionamento' a cada 6 meses com novos clientes ideais para validar a relevância da sua dor e valor.",
+      "Monitore o feedback de Vendas: Quais objeções de preço ou comparações de concorrentes estão surgindo?",
+      "Crie um 'Laboratório de Testes de Marketing' para testar novas mensagens (Ex: 3 novas manchetes por mês).",
+      "Level 1: Garanta que o seu posicionamento seja 'Defensável' contra a cópia do concorrente.",
+      "Level 2: Se a sua Diferença Única for copiada, trabalhe com o Produto para criar a próxima Diferença (o 'Posicionamento de Próxima Geração').",
+      "Level 3: Use a Declaração de Posicionamento como um 'Documento Vivo' que é revisado trimestralmente pelo time de Liderança."
+    ],
+    "conclusionMessage": "O posicionamento não é um evento único; é um ciclo contínuo de feedback, teste e refinamento, garantindo que ele permaneça relevante à medida que o mercado evolui.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que significa 'Posicionamento Contínuo'?",
+        "options": [
+          { "value": "a", "label": "Mudar o posicionamento todos os dias." },
+          { "value": "b", "label": "Um ciclo contínuo de feedback, teste e refinamento do posicionamento para garantir a relevância no mercado em evolução." },
+          { "value": "c", "label": "Focar apenas no preço." },
+          { "value": "d", "label": "Focar apenas no produto." }
+        ],
+        "explanation": "O posicionamento é um processo, não um destino.",
+        "hint": "Processo.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento deve ser estável, mas não estático."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o papel do 'Feedback de Vendas' no refinamento do posicionamento?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Ele revela quais partes da mensagem de posicionamento estão ressoando e quais objeções estão surgindo (sinais de desalinhamento)." },
+          { "value": "c", "label": "Ele deve ser ignorado." },
+          { "value": "d", "label": "Ele deve ser o único foco." }
+        ],
+        "explanation": "Vendas é o termômetro da percepção do cliente.",
+        "hint": "Termômetro.",
+        "correctAnswer": "b",
+        "bookExample": "O time de vendas é o seu termômetro de posicionamento."
+      },
+      {
+        "id": "3",
+        "question": "O que o negociador deve fazer se o cliente começar a 'Comparar com o Concorrente Errado'?",
+        "options": [
+          { "value": "a", "label": "Aceitar a comparação." },
+          { "value": "b", "label": "Revisitar a Categoria de Mercado e a Diferença Única para corrigir o contexto na mente do cliente." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A comparação errada é um sinal de posicionamento quebrado.",
+        "hint": "Contexto.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de guiar a mente do cliente."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de 'Ignorar a Evolução do Concorrente'?",
+        "options": [
+          { "value": "a", "label": "Você parece mais inteligente." },
+          { "value": "b", "label": "O concorrente pode copiar a sua diferença única, tornando o seu posicionamento obsoleto e forçando você a competir em preço." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "O posicionamento deve ser defensável.",
+        "hint": "Defensabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é uma corrida. Você deve estar sempre à frente."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Posicionamento de Relevância' (Relevance Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "Garantir que o posicionamento permaneça focado na dor mais urgente e no valor mais importante para o cliente ideal, à medida que as necessidades evoluem." },
+          { "value": "c", "label": "Focar apenas no produto." },
+          { "value": "d", "label": "Focar apenas no cliente." }
+        ],
+        "explanation": "A relevância é a chave para a longevidade.",
+        "hint": "Longevidade.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de permanecer relevante."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel do 'Time de Produto' no ciclo de refinamento?",
+        "options": [
+          { "value": "a", "label": "Eles devem ser ignorados." },
+          { "value": "b", "label": "Eles devem usar o feedback de posicionamento para construir a próxima diferença única que reforçará o valor para o cliente ideal." },
+          { "value": "c", "label": "Eles devem apenas construir." },
+          { "value": "d", "label": "Eles devem escrever o slogan." }
+        ],
+        "explanation": "O produto é a prova do posicionamento.",
+        "hint": "Prova.",
+        "correctAnswer": "b",
+        "bookExample": "O produto é a manifestação do posicionamento."
+      },
+      {
+        "id": "7",
+        "question": "O que o 'Refinamento Contínuo' ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "O crescimento." },
+          { "value": "b", "label": "O posicionamento se tornar obsoleto e a empresa ser forçada a competir em preço." },
+          { "value": "c", "label": "O preço alto." },
+          { "value": "d", "label": "O marketing fácil." }
+        ],
+        "explanation": "A obsolescência é o inimigo do crescimento.",
+        "hint": "Obsolescência.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a sua defesa contra a obsolescência."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Posicionamento Estático'?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso." },
+          { "value": "b", "label": "O mercado evolui, e o posicionamento se torna irrelevante, resultando em baixo crescimento e alto churn." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "O posicionamento deve ser adaptável.",
+        "hint": "Adaptabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é uma escada. Suba degrau por degrau."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Posicionamento de Próxima Geração' (Next-Generation Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "Posicionar o produto como a evolução da categoria, destacando como ele resolve os problemas que a geração anterior não resolvia." },
+          { "value": "c", "label": "Focar apenas no produto." },
+          { "value": "d", "label": "Focar apenas no cliente." }
+        ],
+        "explanation": "A próxima geração é a chave para a dominação.",
+        "hint": "Evolução.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de guiar a mente do cliente para o futuro."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o papel do 'Time de Marketing' no ciclo de refinamento?",
+        "options": [
+          { "value": "a", "label": "Eles devem ser ignorados." },
+          { "value": "b", "label": "Eles devem testar novas mensagens de posicionamento e medir a taxa de conversão para validar a relevância." },
+          { "value": "c", "label": "Eles devem apenas vender." },
+          { "value": "d", "label": "Eles devem escrever o slogan." }
+        ],
+        "explanation": "O marketing é o laboratório de testes.",
+        "hint": "Laboratório.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é uma hipótese que deve ser testada."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "O Posicionamento como Vantagem Competitiva",
+    "teaser": "🏆 Sua verdadeira vantagem não é um recurso ou um preço. É um **Posicionamento Obviamente Incrível** que faz o Cliente Ideal escolher você **sem pensar**.",
+    "level1": "A vantagem competitiva não é o seu recurso; é o seu posicionamento. Um posicionamento claro e focado no valor único cria uma barreira de entrada que é difícil de copiar pelos concorrentes.",
+    "level2": "Se o seu posicionamento é forte, o cliente ideal não precisa de comparação. Ele sabe que você é a única solução para a dor dele. Isso resulta em ciclos de vendas curtos, preços premium e crescimento sustentável.",
+    "level3": "O posicionamento do Salesforce como 'CRM para Grandes Empresas' criou uma barreira de entrada que é difícil de quebrar.",
+    "recapitulation": [
+      "Posicionamento 'Obviamente Incrível' é a vantagem competitiva mais sustentável.",
+      "Barreira de Entrada: A dificuldade de copiar o seu posicionamento na mente do cliente.",
+      "Posicionamento de Liderança: Ser o líder em uma Subcategoria ou Nicho.",
+      "Resultado Final: Ciclos de vendas curtos, preços premium e alto crescimento.",
+      "O Posicionamento deve ser usado para atrair talentos alinhados com a missão da empresa."
+    ],
+    "practicalChecklist": [
+      "Avalie a 'Copiabilidade' do seu posicionamento: Quão fácil seria para um concorrente copiar sua Declaração de Posicionamento?",
+      "Comunique o seu 'Posicionamento de Visão' (futuro) para inspirar o time interno e os investidores.",
+      "Use o Cliente Ideal para fornecer 'Prova Social' contínua, reforçando a sua liderança no nicho.",
+      "Level 1: Faça do seu posicionamento a base da sua proposta de valor para talentos (por que trabalhar aqui?).",
+      "Level 2: Use o posicionamento para guiar a inovação contínua (o próximo recurso deve criar a próxima barreira de entrada).",
+      "Level 3: Mantenha o foco: Não se sinta tentado a 'diluir' o posicionamento para agradar a um mercado maior antes de dominar o nicho atual."
+    ],
+    "conclusionMessage": "Um posicionamento 'Obviamente Incrível' é a vantagem competitiva mais sustentável. Ele garante que você seja o líder em um nicho e que o cliente ideal te escolha sem hesitação.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é a 'Vantagem Competitiva' mais sustentável?",
+        "options": [
+          { "value": "a", "label": "O preço mais baixo." },
+          { "value": "b", "label": "Um posicionamento 'Obviamente Incrível' que cria uma barreira de entrada difícil de copiar." },
+          { "value": "c", "label": "O maior número de recursos." },
+          { "value": "d", "label": "O time de vendas mais agressivo." }
+        ],
+        "explanation": "O posicionamento é a fundação da vantagem.",
+        "hint": "Fundação.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a sua defesa contra a competição."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Barreira de Entrada de Posicionamento'?",
+        "options": [
+          { "value": "a", "label": "O preço alto." },
+          { "value": "b", "label": "A dificuldade que os concorrentes têm em copiar o seu posicionamento e o valor único na mente do cliente." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "A barreira é a prova de um posicionamento forte.",
+        "hint": "Dificuldade.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a sua barreira de entrada."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de 'Posicionamento Copiável'?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso." },
+          { "value": "b", "label": "Os concorrentes copiam a sua mensagem e o seu valor, forçando você a competir em preço." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "O posicionamento deve ser único e defensável.",
+        "hint": "Defensabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a sua defesa contra a competição."
+      },
+      {
+        "id": "4",
+        "question": "Como você usa o 'Posicionamento' para atrair talentos?",
+        "options": [
+          { "value": "a", "label": "Ignorando-o." },
+          { "value": "b", "label": "Usando o posicionamento para comunicar a missão e o valor único da empresa, atraindo pessoas que se alinham com a visão." },
+          { "value": "c", "label": "Focando apenas no preço." },
+          { "value": "d", "label": "Focando apenas no produto." }
+        ],
+        "explanation": "O posicionamento é a bússola da cultura.",
+        "hint": "Missão.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a fundação da cultura."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Posicionamento de Liderança' (Leadership Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "Posicionar-se como o líder em uma categoria ou subcategoria, usando a prova social e a história de sucesso para reforçar a posição." },
+          { "value": "c", "label": "Focar apenas no produto." },
+          { "value": "d", "label": "Focar apenas no cliente." }
+        ],
+        "explanation": "A liderança é o resultado de um posicionamento forte.",
+        "hint": "Resultado.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de ser o melhor em algo que importa."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel do 'Time de Produto' na manutenção da vantagem competitiva?",
+        "options": [
+          { "value": "a", "label": "Eles devem ser ignorados." },
+          { "value": "b", "label": "Eles devem inovar continuamente para criar a próxima diferença única que reforçará o posicionamento e a barreira de entrada." },
+          { "value": "c", "label": "Eles devem apenas construir." },
+          { "value": "d", "label": "Eles devem escrever o slogan." }
+        ],
+        "explanation": "A inovação é a chave para a longevidade.",
+        "hint": "Inovação.",
+        "correctAnswer": "b",
+        "bookExample": "O produto é a manifestação do posicionamento."
+      },
+      {
+        "id": "7",
+        "question": "O que o 'Posicionamento Forte' ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "O crescimento." },
+          { "value": "b", "label": "A competição de commodities e a necessidade de competir em preço." },
+          { "value": "c", "label": "O preço alto." },
+          { "value": "d", "label": "O marketing fácil." }
+        ],
+        "explanation": "O posicionamento cria a diferenciação.",
+        "hint": "Diferenciação.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a sua defesa contra a competição."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Posicionamento de Nicho' (Niche Positioning) a longo prazo?",
+        "options": [
+          { "value": "a", "label": "O cliente fica confuso." },
+          { "value": "b", "label": "O nicho pode se tornar muito pequeno ou saturado, exigindo a expansão para mercados adjacentes." },
+          { "value": "c", "label": "O produto é muito lento." },
+          { "value": "d", "label": "O marketing é muito fácil." }
+        ],
+        "explanation": "O posicionamento deve ser adaptável.",
+        "hint": "Adaptabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é uma escada. Suba degrau por degrau."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Posicionamento de Visão' (Vision Positioning)?",
+        "options": [
+          { "value": "a", "label": "Focar apenas no preço." },
+          { "value": "b", "label": "Posicionar o produto em relação a uma visão de futuro maior, inspirando o cliente ideal e o time interno." },
+          { "value": "c", "label": "Focar apenas no produto." },
+          { "value": "d", "label": "Focar apenas no cliente." }
+        ],
+        "explanation": "A visão é o motor da motivação.",
+        "hint": "Motivação.",
+        "correctAnswer": "b",
+        "bookExample": "O posicionamento é a arte de guiar a mente do cliente para o futuro."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o papel do 'Cliente Ideal' na manutenção da vantagem competitiva?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Ele fornece o feedback e a prova social que reforçam o posicionamento e a barreira de entrada." },
+          { "value": "c", "label": "Ele deve ser ignorado." },
+          { "value": "d", "label": "Ele deve ser o único foco." }
+        ],
+        "explanation": "O cliente é a prova de valor.",
+        "hint": "Prova de valor.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente ideal é o seu melhor consultor de produto."
+      }
+    ]
+  }
+]

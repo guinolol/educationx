@@ -1,0 +1,2295 @@
+[
+  {
+    "id": 1,
+    "title": "O Teste da Mãe - Fundamentos",
+    "conclusionMessage": "Você completou a primeira microlição sobre The Mom Test. Agora você está pronto para aplicar essas técnicas em suas conversas com clientes.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o problema fundamental das conversas com clientes?",
+        "options": [
+          { "value": "a", "label": "As pessoas não entendem o mercado" },
+          { "value": "b", "label": "Conversas com clientes são ruins por padrão" },
+          { "value": "c", "label": "Os empreendedores não sabem ouvir" },
+          { "value": "d", "label": "As empresas não têm tempo" }
+        ],
+        "explanation": "O problema fundamental é que conversas com clientes são ruins por padrão. É seu trabalho consertá-las.",
+        "hint": "Pense sobre quem é responsável por melhorar a qualidade das conversas.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "2",
+        "question": "O que é o Teste da Mãe?",
+        "options": [
+          { "value": "a", "label": "Um conjunto de regras para elaborar boas perguntas" },
+          { "value": "b", "label": "Um método para validar ideias de negócios" },
+          { "value": "c", "label": "Um framework para análise de mercado" },
+          { "value": "d", "label": "Um guia para apresentações de negócios" }
+        ],
+        "explanation": "O Teste da Mãe é um conjunto de regras simples para elaborar boas perguntas sobre as quais nem mesmo sua mãe pode mentir.",
+        "hint": "O nome sugere algo sobre honestidade nas respostas.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "3",
+        "question": "Qual é a regra geral sobre conversas com clientes?",
+        "options": [
+          { "value": "a", "label": "Quanto mais você fala, melhor está se saindo" },
+          { "value": "b", "label": "Quanto mais você ouve, melhor está se saindo" },
+          { "value": "c", "label": "É preciso apresentar sua ideia para ganhar confiança" },
+          { "value": "d", "label": "É preciso ouvir mais do que falar" }
+        ],
+        "explanation": "Regra geral: Quanto mais você fala, pior está se saindo. Você não aprende nada enquanto está falando.",
+        "hint": "O foco deve ser em coletar informações, não em transmiti-las.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "4",
+        "question": "Por que opiniões são inúteis?",
+        "options": [
+          { "value": "a", "label": "As pessoas não sabem o que querem" },
+          { "value": "b", "label": "Apenas o mercado pode dizer se sua ideia é boa" },
+          { "value": "c", "label": "As pessoas são egoístas" },
+          { "value": "d", "label": "As opiniões são difíceis de medir" }
+        ],
+        "explanation": "Opiniões são inúteis. Apenas o mercado pode dizer se sua ideia é boa. Opiniões, especialmente de não especialistas, são ruído e geram falsos positivos.",
+        "hint": "Pense sobre quem realmente valida uma ideia de negócio.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "5",
+        "question": "Qual é a melhor abordagem para perguntar sobre o futuro?",
+        "options": [
+          { "value": "a", "label": "Perguntar se a pessoa compraria algo" },
+          { "value": "b", "label": "Perguntar sobre ações passadas" },
+          { "value": "c", "label": "Perguntar sobre desejos pessoais" },
+          { "value": "d", "label": "Perguntar sobre tendências do mercado" }
+        ],
+        "explanation": "Pergunte sobre especificidades do passado, em vez de generalidades ou opiniões sobre o futuro. Ações passadas são fatos; intenções futuras são mentiras otimistas.",
+        "hint": "O que é mais confiável: o que alguém fez ou o que diz que fará?",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "6",
+        "question": "O que é \"fluff\" e como lidar com isso?",
+        "options": [
+          { "value": "a", "label": "Informações vagas que devem ser ancoradas em exemplos específicos" },
+          { "value": "b", "label": "Elogios que devem ser ignorados" },
+          { "value": "c", "label": "Ideias que devem ser implementadas" },
+          { "value": "d", "label": "Dados ruins que devem ser evitados" }
+        ],
+        "explanation": "\"Fluff\" vem em três formas: alegações genéricas, promessas futuras e possibilidades hipotéticas. Ancore essas declarações vagas em exemplos específicos do passado.",
+        "hint": "Pense em como transformar generalizações em fatos concretos.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "7",
+        "question": "Como evitar pedidos de funcionalidades?",
+        "options": [
+          { "value": "a", "label": "Ignorar os clientes" },
+          { "value": "b", "label": "Usar perguntas de aprofundamento para encontrar a causa raiz" },
+          { "value": "c", "label": "Oferecer mais opções" },
+          { "value": "d", "label": "Focar em melhorar a interface" }
+        ],
+        "explanation": "Ideias e pedidos de funcionalidades devem ser compreendidos, mas não obedecidos. Use perguntas de aprofundamento para encontrar a causa raiz.",
+        "hint": "Você é o especialista em soluções, eles são especialistas em problemas.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "8",
+        "question": "Qual é a regra geral sobre busca de aprovação?",
+        "options": [
+          { "value": "a", "label": "É importante buscar aprovação constante" },
+          { "value": "b", "label": "Se você mencionar sua ideia, as pessoas tentarão proteger seus sentimentos" },
+          { "value": "c", "label": "É preciso sempre apresentar sua ideia" },
+          { "value": "d", "label": "É melhor evitar conversas com clientes" }
+        ],
+        "explanation": "Se você mencionar sua ideia, as pessoas tentarão proteger seus sentimentos. Evite \"pescar elogios\" ou expor seu ego.",
+        "hint": "As pessoas tendem a ser gentis, mesmo quando não estão interessadas.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "9",
+        "question": "O que é importante em uma conversa?",
+        "options": [
+          { "value": "a", "label": "Fazer muitas perguntas" },
+          { "value": "b", "label": "Ouvir mais do que falar" },
+          { "value": "c", "label": "Manter o foco na sua ideia" },
+          { "value": "d", "label": "Usar linguagem técnica" }
+        ],
+        "explanation": "Você deve ter medo de pelo menos uma das perguntas que está fazendo em cada conversa. Perguntas importantes são aquelas cujas respostas podem mudar completamente ou invalidar seu negócio.",
+        "hint": "Perguntas valiosas muitas vezes são desconfortáveis de fazer.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor estratégia para encontrar pessoas para conversar?",
+        "options": [
+          { "value": "a", "label": "Usar ligações frias" },
+          { "value": "b", "label": "Organizar meetups" },
+          { "value": "c", "label": "Criar introduções calorosas" },
+          { "value": "d", "label": "Todas as anteriores" }
+        ],
+        "explanation": "Estratégias para encontrar conversas incluem ir até eles (ligações frias), trazer eles até você (meetups), ou criar introduções calorosas (contatos, conselheiros).",
+        "hint": "Diversas abordagens aumentam suas chances de sucesso.",
+        "correctAnswer": "d"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Evitando Dados Ruins",
+    "conclusionMessage": "Você completou a segunda microlição sobre dados ruins. Agora você sabe como evitar elogios, fluff e ideias inúteis.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal razão para desviar de elogios?",
+        "options": [
+          { "value": "a", "label": "Elogios são irrelevantes para o negócio" },
+          { "value": "b", "label": "Elogios são ouro de tolo: brilhantes, distrativos e sem valor" },
+          { "value": "c", "label": "Elogios indicam que você está no caminho certo" },
+          { "value": "d", "label": "Elogios são raros e valiosos" }
+        ],
+        "explanation": "Elogios são o ouro de tolo do aprendizado com o cliente: brilhantes, distrativos e totalmente sem valor. As pessoas fazem elogios para serem educadas, para te apoiar ou para se livrarem de você.",
+        "hint": "Pense sobre o que realmente importa: validação ou validação de ego?",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "2",
+        "question": "Como corrigir um elogio recebido?",
+        "options": [
+          { "value": "a", "label": "Agradeça e continue com sua ideia" },
+          { "value": "b", "label": "Desvie o elogio imediatamente para perguntas sobre a vida e os problemas do cliente" },
+          { "value": "c", "label": "Pergunte por que o cliente deu o elogio" },
+          { "value": "d", "label": "Use o elogio como base para apresentar mais da sua ideia" }
+        ],
+        "explanation": "Como corrigir: Quando receber um elogio (\"Que legal! Adorei!\"), desvie-o imediatamente para perguntas sobre a vida e os problemas deles (\"Opa, desculpe, comecei a apresentar a ideia. Como vocês estão lidando com isso atualmente?\").",
+        "hint": "O foco deve voltar para o cliente, não para sua ideia.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "3",
+        "question": "Qual é a principal causa dos dados ruins?",
+        "options": [
+          { "value": "a", "label": "Falta de habilidade dos entrevistadores" },
+          { "value": "b", "label": "Elogios, \"fluff\" e ideias" },
+          { "value": "c", "label": "Falta de interesse dos clientes" },
+          { "value": "d", "label": "Problemas técnicos na coleta de dados" }
+        ],
+        "explanation": "Dados ruins são piores do que nenhum dado, pois geram falsos positivos perigosos. Existem três tipos principais de dados ruins: elogios, \"fluff\" (generalidades/hipóteses) e ideias.",
+        "hint": "Pense nos três tipos de informações que parecem úteis mas não são.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "4",
+        "question": "O que é \"fluff\" e como lidar com isso?",
+        "options": [
+          { "value": "a", "label": "Informações vagas que devem ser ignoradas" },
+          { "value": "b", "label": "Elogios que devem ser ignorados" },
+          { "value": "c", "label": "Ideias que devem ser implementadas" },
+          { "value": "d", "label": "Informações vagas que devem ser ancoradas em exemplos específicos" }
+        ],
+        "explanation": "\"Fluff\" vem em três formas: alegações genéricas (\"Eu geralmente...\"), promessas futuras (\"Eu compraria...\") e possibilidades hipotéticas (\"Eu poderia...\"). Ancore essas declarações vagas em exemplos específicos do passado.",
+        "hint": "Como transformar \"eu geralmente\" em algo concreto?",
+        "correctAnswer": "d"
+      },
+      {
+        "id": "5",
+        "question": "Qual é a melhor abordagem para lidar com ideias e pedidos de funcionalidades?",
+        "options": [
+          { "value": "a", "label": "Implementar todas as ideias e pedidos" },
+          { "value": "b", "label": "Obedecer às ideias e pedidos imediatamente" },
+          { "value": "c", "label": "Compreender as ideias e pedidos, mas não obedecê-los" },
+          { "value": "d", "label": "Ignorar ideias e pedidos" }
+        ],
+        "explanation": "Ideias e pedidos de funcionalidades devem ser compreendidos, mas não obedecidos. Você é o dono da solução, eles são os donos do problema.",
+        "hint": "Quem é o especialista em soluções vs problemas?",
+        "correctAnswer": "c"
+      },
+      {
+        "id": "6",
+        "question": "Como descobrir a motivação por trás de um pedido de funcionalidade?",
+        "options": [
+          { "value": "a", "label": "Perguntar \"Por que você quer isso?\"" },
+          { "value": "b", "label": "Perguntar \"O que isso permitiria que você fizesse?\"" },
+          { "value": "c", "label": "Perguntar \"Como você está lidando com a falta disso atualmente?\"" },
+          { "value": "d", "label": "Todas as anteriores" }
+        ],
+        "explanation": "Use perguntas de aprofundamento para encontrar a causa raiz. \"Por que você quer isso?\", \"O que isso permitiria que você fizesse?\", \"Como você está lidando com a falta disso atualmente?\"",
+        "hint": "Perguntas de aprofundamento revelam o problema real.",
+        "correctAnswer": "d"
+      },
+      {
+        "id": "7",
+        "question": "Qual é a regra geral sobre busca de aprovação?",
+        "options": [
+          { "value": "a", "label": "É importante buscar aprovação constante" },
+          { "value": "b", "label": "Se você mencionar sua ideia, as pessoas tentarão proteger seus sentimentos" },
+          { "value": "c", "label": "É preciso sempre apresentar sua ideia" },
+          { "value": "d", "label": "É melhor evitar conversas com clientes" }
+        ],
+        "explanation": "Se você mencionar sua ideia, as pessoas tentarão proteger seus sentimentos. Evite \"pescar elogios\" (\"Acha que vai funcionar?\") ou expor seu ego (\"Abandonei meu emprego por este projeto... o que você acha?\").",
+        "hint": "As pessoas tendem a ser gentis, mesmo quando não estão interessadas.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "8",
+        "question": "Qual é a melhor estratégia para encontrar pessoas para conversar?",
+        "options": [
+          { "value": "a", "label": "Usar ligações frias" },
+          { "value": "b", "label": "Organizar meetups" },
+          { "value": "c", "label": "Criar introduções calorosas" },
+          { "value": "d", "label": "Todas as anteriores" }
+        ],
+        "explanation": "Estratégias para encontrar conversas incluem ir até eles (ligações frias), trazer eles até você (meetups), ou criar introduções calorosas (contatos, conselheiros).",
+        "hint": "Diversas abordagens aumentam suas chances de sucesso.",
+        "correctAnswer": "d"
+      },
+      {
+        "id": "9",
+        "question": "Qual é a regra geral sobre o que fazer com ideias e pedidos de funcionalidades?",
+        "options": [
+          { "value": "a", "label": "Implementar todas as ideias e pedidos" },
+          { "value": "b", "label": "Obedecer às ideias e pedidos imediatamente" },
+          { "value": "c", "label": "Compreender as ideias e pedidos, mas não obedecê-los" },
+          { "value": "d", "label": "Ignorar ideias e pedidos" }
+        ],
+        "explanation": "Ideias e pedidos de funcionalidades devem ser compreendidos, mas não obedecidos. Você é o dono da solução, eles são os donos do problema.",
+        "hint": "Quem é o especialista em soluções vs problemas?",
+        "correctAnswer": "c"
+      },
+      {
+        "id": "10",
+        "question": "Como lidar com emoções intensas?",
+        "options": [
+          { "value": "a", "label": "Ignorar as emoções" },
+          { "value": "b", "label": "Explorar as emoções para entender a história por trás" },
+          { "value": "c", "label": "Usar as emoções para validar sua ideia" },
+          { "value": "d", "label": "Evitar perguntas sobre emoções" }
+        ],
+        "explanation": "Qualquer sinal emocional forte (raiva, frustração, alegria) é um sinal para cavar mais fundo e entender a história por trás da emoção.",
+        "hint": "Emoções revelam problemas reais e urgentes.",
+        "correctAnswer": "b"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Perguntas Eficazes",
+    "conclusionMessage": "Você completou a terceira microlição sobre perguntas eficazes. Agora você sabe como fazer perguntas que realmente geram insights valiosos.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o objetivo principal de uma conversa inicial com o cliente?",
+        "options": [
+          { "value": "a", "label": "Vender sua ideia" },
+          { "value": "b", "label": "Obter fatos concretos sobre a vida e a visão de mundo do cliente" },
+          { "value": "c", "label": "Construir relacionamentos" },
+          { "value": "d", "label": "Apresentar sua solução" }
+        ],
+        "explanation": "O objetivo de uma conversa inicial com o cliente é obter fatos concretos sobre a vida e a visão de mundo dele, que permitam melhorar o negócio.",
+        "hint": "Pense sobre o que você realmente precisa saber do cliente.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "2",
+        "question": "Por que opiniões são inúteis?",
+        "options": [
+          { "value": "a", "label": "As pessoas não sabem o que querem" },
+          { "value": "b", "label": "Apenas o mercado pode dizer se sua ideia é boa" },
+          { "value": "c", "label": "As pessoas são egoístas" },
+          { "value": "d", "label": "As opiniões são difíceis de medir" }
+        ],
+        "explanation": "Opiniões são inúteis. Apenas o mercado pode dizer se sua ideia é boa. Opiniões, especialmente de não especialistas, são ruído e geram falsos positivos.",
+        "hint": "Quem realmente valida uma ideia de negócio?",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "3",
+        "question": "Por que perguntas sobre o futuro são problemáticas?",
+        "options": [
+          { "value": "a", "label": "As pessoas não conseguem prever o futuro" },
+          { "value": "b", "label": "Qualquer coisa que envolva o futuro é uma mentira excessivamente otimista" },
+          { "value": "c", "label": "As pessoas mentem sobre o futuro" },
+          { "value": "d", "label": "O futuro é incerto" }
+        ],
+        "explanation": "Qualquer coisa que envolva o futuro é uma mentira excessivamente otimista. Perguntas como \"Você compraria...\" ou \"Quanto você pagaria...\" convidam a respostas hipotéticas e otimistas que não se traduzem em vendas reais.",
+        "hint": "O que é mais confiável: intenções ou ações passadas?",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "4",
+        "question": "Por que as pessoas sabem quais são seus problemas, mas não sabem como resolvê-los?",
+        "options": [
+          { "value": "a", "label": "As pessoas não são criativas" },
+          { "value": "b", "label": "Você é o dono da solução, eles são os donos do problema" },
+          { "value": "c", "label": "As pessoas não têm tempo para pensar em soluções" },
+          { "value": "d", "label": "As pessoas não entendem tecnologia" }
+        ],
+        "explanation": "As pessoas sabem quais são seus problemas, mas não sabem como resolvê-los. Você é o dono da solução, eles são os donos do problema.",
+        "hint": "Pense na divisão de responsabilidades na conversa.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "5",
+        "question": "Qual é a melhor pergunta para entender os objetivos de um cliente?",
+        "options": [
+          { "value": "a", "label": "Qual seria o seu produto dos sonhos?" },
+          { "value": "b", "label": "Por que você se dá ao trabalho?" },
+          { "value": "c", "label": "O que você gostaria de melhorar?" },
+          { "value": "d", "label": "Quais funcionalidades você gostaria?" }
+        ],
+        "explanation": "Você está atirando no escuro até entender os objetivos deles. Perguntas como \"Por que você se dá ao trabalho?\" ajudam a ir do problema percebido ao problema real, revelando as motivações essenciais.",
+        "hint": "Qual pergunta revela a motivação real por trás do trabalho?",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "6",
+        "question": "Como distinguir problemas que as pessoas pagarão para resolver de meras inconveniências?",
+        "options": [
+          { "value": "a", "label": "Perguntar \"Quais são as implicações disso?\"" },
+          { "value": "b", "label": "Perguntar \"Quanto isso te custa?\"" },
+          { "value": "c", "label": "Perguntar \"Isso é importante para você?\"" },
+          { "value": "d", "label": "Perguntar \"Você já tentou resolver isso?\"" }
+        ],
+        "explanation": "Alguns problemas, na verdade, não importam. Usar perguntas como \"Quais são as implicações disso?\" ajuda a distinguir problemas que as pessoas pagarão para resolver de meras inconveniências.",
+        "hint": "Como transformar um problema vago em algo concreto e urgente?",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "7",
+        "question": "Por que é importante observar alguém realizando uma tarefa?",
+        "options": [
+          { "value": "a", "label": "Para aprender a fazer a tarefa" },
+          { "value": "b", "label": "Para mostrar que você é um bom observador" },
+          { "value": "c", "label": "Para ver onde os problemas e ineficiências realmente estão" },
+          { "value": "d", "label": "Para entender o fluxo de trabalho" }
+        ],
+        "explanation": "Observar alguém realizando uma tarefa mostrará onde os problemas e ineficiências realmente estão, não onde o cliente pensa que eles estão.",
+        "hint": "Ações falam mais alto que palavras sobre problemas reais.",
+        "correctAnswer": "c"
+      },
+      {
+        "id": "8",
+        "question": "Qual é a melhor pergunta para avaliar a seriedade de um problema?",
+        "options": [
+          { "value": "a", "label": "Quão sério é este problema para você?" },
+          { "value": "b", "label": "O que mais você já tentou?" },
+          { "value": "c", "label": "Você já procurou soluções?" },
+          { "value": "d", "label": "Você está disposto a pagar para resolver isso?" }
+        ],
+        "explanation": "Se eles ainda não procuraram maneiras de resolver o problema, não vão procurar (ou comprar) a sua. Pergunte \"O que mais você já tentou?\" para avaliar o quão sério o problema é.",
+        "hint": "Ações passadas indicam seriedade futura.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "9",
+        "question": "Como entender o valor de um problema para um cliente?",
+        "options": [
+          { "value": "a", "label": "Perguntar \"Quanto você pagaria por isso?\"" },
+          { "value": "b", "label": "Perguntar \"Como você está lidando com isso agora?\"" },
+          { "value": "c", "label": "Perguntar \"Isso é importante para você?\"" },
+          { "value": "d", "label": "Perguntar \"Você já gastou dinheiro para resolver isso?\"" }
+        ],
+        "explanation": "Embora seja raro alguém dizer precisamente o que vai pagar, muitas vezes eles mostram o quanto vale para eles. Pergunte \"Como você está lidando com isso agora?\" para entender os custos atuais (em tempo e dinheiro), o que fornece uma âncora de preço.",
+        "hint": "Custos atuais revelam valor futuro.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "10",
+        "question": "Como obter ajuda valiosa de clientes?",
+        "options": [
+          { "value": "a", "label": "Perguntar \"Você pode me ajudar?\"" },
+          { "value": "b", "label": "Perguntar \"Com quem mais eu deveria conversar?\"" },
+          { "value": "c", "label": "Perguntar \"Há mais alguma coisa que eu deveria ter perguntado?\"" },
+          { "value": "d", "label": "Todas as anteriores" }
+        ],
+        "explanation": "As pessoas querem te ajudar, mas raramente o farão a menos que você lhes dê uma desculpa para isso. Perguntas como \"Com quem mais eu deveria conversar?\" e \"Há mais alguma coisa que eu deveria ter perguntado?\" abrem a porta para ajuda e insights valiosos.",
+        "hint": "Dê às pessoas uma desculpa para te ajudarem.",
+        "correctAnswer": "d"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Compromisso e Avanço",
+    "conclusionMessage": "Você completou a quarta microlição sobre compromisso e avanço. Agora você sabe como validar sua solução e obter comprometimento real.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o objetivo real das vendas em estágio inicial?",
+        "options": [
+          { "value": "a", "label": "Gerar receita máxima" },
+          { "value": "b", "label": "O aprendizado" },
+          { "value": "c", "label": "Construir relacionamentos" },
+          { "value": "d", "label": "Validar o produto" }
+        ],
+        "explanation": "O objetivo real das vendas em estágio inicial é o aprendizado. A receita é apenas um efeito colateral.",
+        "hint": "Pense sobre o que é mais importante no início: aprender ou ganhar dinheiro?",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "2",
+        "question": "Quais são os tipos de compromisso (moedas da conversa)?",
+        "options": [
+          { "value": "a", "label": "Tempo, reputação e dinheiro" },
+          { "value": "b", "label": "Tempo, recursos e feedback" },
+          { "value": "c", "label": "Tempo, introduções e feedback" },
+          { "value": "d", "label": "Tempo, reputação e dinheiro" }
+        ],
+        "explanation": "As principais \"moedas\" que eles podem oferecer são: Tempo (agendar reuniões, testar protótipos), Reputação (apresentar a outros, fornecer depoimentos) e Dinheiro (carta de intenção, pré-pedido).",
+        "hint": "Pense nos três tipos de compromissos que mostram seriedade.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "3",
+        "question": "Por que compromisso é importante?",
+        "options": [
+          { "value": "a", "label": "Para garantir que o cliente pague" },
+          { "value": "b", "label": "Para separar os leads reais dos \"leads zumbis\"" },
+          { "value": "c", "label": "Para construir confiança" },
+          { "value": "d", "label": "Para validar a ideia" }
+        ],
+        "explanation": "Após a fase de aprendizado, você precisa validar sua solução pedindo compromissos para separar os leads reais dos \"leads zumbis\" (aqueles que são amigáveis, mas nunca compram).",
+        "hint": "Compromisso separa interesse real de apenas educação.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "4",
+        "question": "Como identificar os primeiros clientes?",
+        "options": [
+          { "value": "a", "label": "Pessoas que se emocionam com o que você está fazendo" },
+          { "value": "b", "label": "Pessoas que têm dinheiro para investir" },
+          { "value": "c", "label": "Pessoas que têm problemas sérios" },
+          { "value": "d", "label": "Pessoas que conhecem o mercado" }
+        ],
+        "explanation": "Seus primeiros clientes são loucos (no bom sentido). Eles querem tanto sua solução que estão dispostos a correr o risco de serem os primeiros. Fique atento às pessoas que se emocionam com o que você está fazendo.",
+        "hint": "Procure por entusiasmo genuíno, não apenas interesse.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "5",
+        "question": "Qual é a regra geral sobre compromisso?",
+        "options": [
+          { "value": "a", "label": "Quanto mais eles estão abrindo mão, mais a sério você pode levar suas palavras gentis" },
+          { "value": "b", "label": "Compromisso é sempre bom" },
+          { "value": "c", "label": "Compromimento é opcional" },
+          { "value": "d", "label": "Compromimento deve ser mínimo" }
+        ],
+        "explanation": "Regra geral: Quanto mais eles estão abrindo mão, mais a sério você pode levar suas palavras gentis.",
+        "hint": "Pense no nível de compromisso como indicador de seriedade.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "6",
+        "question": "O que é um \"lead zumbi\"?",
+        "options": [
+          { "value": "a", "label": "Um cliente que não paga" },
+          { "value": "b", "label": "Um cliente que é amigável mas nunca compra" },
+          { "value": "c", "label": "Um cliente que não responde" },
+          { "value": "d", "label": "Um cliente que não tem interesse" }
+        ],
+        "explanation": "\"Leads zumbis\" são aqueles que são amigáveis, mas nunca compram. Eles dão feedback positivo mas não se comprometem.",
+        "hint": "Pense em leads que parecem interessados mas nunca compram.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "7",
+        "question": "Qual é a melhor abordagem para pedir compromisso?",
+        "options": [
+          { "value": "a", "label": "Perguntar diretamente \"Você vai comprar?\"" },
+          { "value": "b", "label": "Pedir um próximo passo específico" },
+          { "value": "c", "label": "Esperar que o cliente ofereça" },
+          { "value": "d", "label": "Não pedir compromimento" }
+        ],
+        "explanation": "Uma reunião bem-sucedida termina com um avanço claro para o próximo passo. O compromisso é a prova de que as palavras do cliente são sérias.",
+        "hint": "Compromisso deve ser claro e mensurável.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "8",
+        "question": "Por que é importante ter uma lista de 3 grandes perguntas?",
+        "options": [
+          { "value": "a", "label": "Para mostrar que você está preparado" },
+          { "value": "b", "label": "Para manter o foco, evitar perguntas triviais e forçar a encarar questões difíceis" },
+          { "value": "c", "label": "Para impressionar o cliente" },
+          { "value": "d", "label": "Para garantir que você aprenda tudo" }
+        ],
+        "explanation": "Antes de qualquer conversa, defina com sua equipe as 3 coisas mais importantes que você precisa aprender. Isso mantém o foco, ajuda a evitar perguntas triviais e te força a encarar as questões difíceis.",
+        "hint": "Qualidade sobre quantidade nas perguntas.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "9",
+        "question": "Como estruturar um pedido de reunião?",
+        "options": [
+          { "value": "a", "label": "Visão, Enquadramento, Fraqueza, Pedestal, Pedido (VFWPA)" },
+          { "value": "b", "label": "Problema, Solução, Benefícios, Custo, Ação" },
+          { "value": "c", "label": "Introdução, Problema, Solução, Chamada para ação" },
+          { "value": "d", "label": "Contexto, Problema, Solução, Próximos passos" }
+        ],
+        "explanation": "Mnemônico VFWPA - Vision (como você está tornando o mundo melhor), Framing (em que estágio você está e o que procura), Weakness (onde você precisa de ajuda específica), Pedestal (por que a ajuda deles é particularmente valiosa), Ask (peça ajuda de forma clara).",
+        "hint": "Pense em uma estrutura que mostre valor e necessidade.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor estratégia para encontrar pessoas para conversar?",
+        "options": [
+          { "value": "a", "label": "Usar ligações frias" },
+          { "value": "b", "label": "Organizar meetups" },
+          { "value": "c", "label": "Criar introduções calorosas" },
+          { "value": "d", "label": "Todas as anteriores" }
+        ],
+        "explanation": "Estratégias para encontrar conversas incluem ir até eles (ligações frias), trazer eles até você (meetups), ou criar introduções calorosas (contatos, conselheiros).",
+        "hint": "Diversas abordagens aumentam suas chances de sucesso.",
+        "correctAnswer": "d"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Encontrando Pessoas",
+    "conclusionMessage": "Você completou a quinta microlição sobre encontrando pessoas para conversar. Agora você sabe como transformar conversas frias em conexões valiosas e criar um efeito bola de neve de introduções.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o objetivo das conversas frias segundo o livro?",
+        "options": [
+          { "value": "a", "label": "Vender imediatamente" },
+          { "value": "b", "label": "Parar de tê-las e gerar introduções calorosas" },
+          { "value": "c", "label": "Construir relacionamentos" },
+          { "value": "d", "label": "Validar o mercado" }
+        ],
+        "explanation": "O objetivo das conversas frias é parar de tê-las. Use as primeiras para gerar introduções calorosas e criar um efeito bola de neve.",
+        "hint": "Pense no longo prazo: como transformar frio em quente?",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "2",
+        "question": "Como criar introduções calorosas segundo Rob Fitzpatrick?",
+        "options": [
+          { "value": "a", "label": "Peça ajuda a contatos, conselheiros, professores ou investidores" },
+          { "value": "b", "label": "Use apenas redes sociais" },
+          { "value": "c", "label": "Fique mandando cold email em massa" },
+          { "value": "d", "label": "Espere as pessoas te encontrarem" }
+        ],
+        "explanation": "Crie introduções calorosas: Peça ajuda a contatos, conselheiros da indústria, professores universitários ou investidores.",
+        "hint": "Use sua rede existente para abrir portas.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "3",
+        "question": "Qual é a melhor abordagem para uma conversa fria inicial?",
+        "options": [
+          { "value": "a", "label": "Vender imediatamente" },
+          { "value": "b", "label": "Focar em aprender e pedir ajuda, não vender" },
+          { "value": "c", "label": "Falar sobre seu produto" },
+          { "value": "d", "label": "Pedir dinheiro" }
+        ],
+        "explanation": "Foque em aprender e pedir ajuda, não vender. As pessoas são mais propensas a ajudar do que a serem vendidas para.",
+        "hint": "Ajuda primeiro, vendas depois.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "4",
+        "question": "Como transformar uma conversa fria em quente?",
+        "options": [
+          { "value": "a", "label": "Falando sobre seu produto" },
+          { "value": "b", "label": "Fazendo perguntas boas e mostrando genuíno interesse nelas" },
+          { "value": "c", "label": "Sendo muito persistente" },
+          { "value": "d", "label": "Oferecendo descontos" }
+        ],
+        "explanation": "Faça perguntas boas e mostre genuíno interesse nas respostas. Isso cria conexão e transforma uma interação fria em uma conversa valiosa.",
+        "hint": "Interesse genuíno cria conexão.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "5",
+        "question": "Qual é o erro comum em conversas frias que o livro destaca?",
+        "options": [
+          { "value": "a", "label": "Ser muito curto" },
+          { "value": "b", "label": "Falar demais sobre seu produto ou ideia" },
+          { "value": "c", "label": "Fazer muitas perguntas" },
+          { "value": "d", "label": "Ser muito específico" }
+        ],
+        "explanation": "O erro comum é falar demais sobre seu produto ou ideia. Foque em ouvir e aprender sobre eles, não em apresentar sua solução.",
+        "hint": "Ouça mais, fale menos.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "6",
+        "question": "Como preparar para uma conversa fria segundo o livro?",
+        "options": [
+          { "value": "a", "label": "Pratique seu pitch de vendas" },
+          { "value": "b", "label": "Pesquise a pessoa e prepare perguntas específicas sobre eles" },
+          { "value": "c", "label": "Prepare apresentações" },
+          { "value": "d", "label": "Memorize estatísticas do mercado" }
+        ],
+        "explanation": "Pesquise a pessoa e prepare perguntas específicas sobre eles. Mostrar que você fez lição de casa demonstra respeito e aumenta chances de sucesso.",
+        "hint": "Preparação mostra respeito.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "7",
+        "question": "Como manter relacionamentos após uma conversa fria?",
+        "options": [
+          { "value": "a", "label": "Mandar emails de vendas regularmente" },
+          { "value": "b", "label": "Agradecer, compartilhar resultados e manter contato com valor" },
+          { "value": "c", "label": "Esperar eles entrarem em contato" },
+          { "value": "d", "label": "Adicionar no LinkedIn e esquecer" }
+        ],
+        "explanation": "Agradeça, compartilhe resultados e mantenha contato com valor. Relacionamentos são construídos com tempo e troca de valor.",
+        "hint": "Relacionamentos precisam de manutenção.",
+        "correctAnswer": "b"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Escolhendo Clientes",
+    "conclusionMessage": "Você completou a sexta microlição sobre escolha de clientes. Agora você sabe como segmentar e encontrar seus clientes ideais.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Por que startups não morrem de fome?",
+        "options": [
+          { "value": "a", "label": "Porque têm dinheiro suficiente" },
+          { "value": "b", "label": "Porque se afogam em opções e feedback contraditório" },
+          { "value": "c", "label": "Porque têm muitos clientes" },
+          { "value": "d", "label": "Porque têm boas ideias" }
+        ],
+        "explanation": "Startups não morrem de fome, elas se afogam. Ter um segmento de cliente focado é sua melhor defesa contra o afogamento em opções e feedback contraditório.",
+        "hint": "Pense no que realmente mata startups: falta de foco ou falta de dinheiro?",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "2",
+        "question": "Qual é a regra geral sobre segmentação de clientes?",
+        "options": [
+          { "value": "a", "label": "Se você não está encontrando problemas e objetivos consistentes, seu segmento ainda não é específico o suficiente" },
+          { "value": "b", "label": "Quanto mais clientes, melhor" },
+          { "value": "c", "label": "Segmentação não é importante no início" },
+          { "value": "d", "label": "Qualquer segmento serve" }
+        ],
+        "explanation": "Regra geral: Se você não está encontrando problemas e objetivos consistentes, seu segmento de cliente ainda não é específico o suficiente.",
+        "hint": "Consistência é mais importante que quantidade no início.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "3",
+        "question": "O que é \"fatiar o cliente\" (customer slicing)?",
+        "options": [
+          { "value": "a", "label": "Pegar um segmento amplo e dividi-lo em subconjuntos cada vez mais específicos" },
+          { "value": "b", "label": "Cortar clientes em pedaços" },
+          { "value": "c", "label": "Eliminar clientes ruins" },
+          { "value": "d", "label": "Aumentar o número de clientes" }
+        ],
+        "explanation": "Fatiar o Cliente (Customer Slicing): Pegue um segmento amplo e continue a dividi-lo em subconjuntos cada vez mais específicos até que você tenha uma ideia tangível de quem contatar e onde encontrá-los.",
+        "hint": "Pense em como ir do geral para o específico.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "4",
+        "question": "Qual é a regra geral sobre bons segmentos de clientes?",
+        "options": [
+          { "value": "a", "label": "Bons segmentos de clientes são um par \"quem-onde\"" },
+          { "value": "b", "label": "Bons segmentos de clientes são os maiores" },
+          { "value": "c", "label": "Bons segmentos de clientes são os mais ricos" },
+          { "value": "d", "label": "Bons segmentos de clientes são os mais fáceis" }
+        ],
+        "explanation": "Regra geral: Bons segmentos de clientes são um par \"quem-onde\". Se você não sabe onde encontrar seus clientes, continue fatiando seu segmento até saber.",
+        "hint": "Você precisa saber quem são e onde encontrá-los.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "5",
+        "question": "Por que é importante ter um segmento focado?",
+        "options": [
+          { "value": "a", "label": "Para evitar o afogamento em opções e feedback contraditório" },
+          { "value": "b", "label": "Para ter mais clientes" },
+          { "value": "c", "label": "Para vender mais" },
+          { "value": "d", "label": "Para ter mais feedback" }
+        ],
+        "explanation": "Ter um segmento de cliente focado é sua melhor defesa contra o afogamento em opções e feedback contraditório.",
+        "hint": "Foco é sobre dizer não a muitas coisas para dizer sim a uma.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "6",
+        "question": "Como saber se seu segmento é bom?",
+        "options": [
+          { "value": "a", "label": "Se você está encontrando problemas e objetivos consistentes" },
+          { "value": "b", "label": "Se você tem muitos clientes" },
+          { "value": "c", "label": "Se você está vendendo muito" },
+          { "value": "d", "label": "Se você tem feedback positivo" }
+        ],
+        "explanation": "Se você está encontrando problemas e objetivos consistentes, seu segmento está no caminho certo. Se não, continue fatiando.",
+        "hint": "Consistência é o sinal de que você está no caminho certo.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "7",
+        "question": "O que é um \"par quem-onde\"?",
+        "options": [
+          { "value": "a", "label": "Um par que define quem são seus clientes e onde encontrá-los" },
+          { "value": "b", "label": "Um par que define o que você vende e onde" },
+          { "value": "c", "label": "Um par que define quando e como" },
+          { "value": "d", "label": "Um par que define por quê e quanto" }
+        ],
+        "explanation": "Um par \"quem-onde\" define quem são seus clientes e onde encontrá-los. Isso é essencial para um bom segmento.",
+        "hint": "Você precisa de ambos: identidade e localização.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "8",
+        "question": "Como encontrar seus clientes?",
+        "options": [
+          { "value": "a", "label": "Continuar fatiando seu segmento até saber onde encontrá-los" },
+          { "value": "b", "label": "Esperar que eles encontrem você" },
+          { "value": "c", "label": "Usar apenas anúncios" },
+          { "value": "d", "label": "Fazer cold calling aleatório" }
+        ],
+        "explanation": "Se você não sabe onde encontrar seus clientes, continue fatiando seu segmento até saber.",
+        "hint": "Se você não sabe onde encontrá-los, seu segmento ainda é muito amplo.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "9",
+        "question": "Por que feedback contraditório é problemático?",
+        "options": [
+          { "value": "a", "label": "Porque confunde sobre o que construir" },
+          { "value": "b", "label": "Porque mostra que você está no caminho errado" },
+          { "value": "c", "label": "Porque indica que os clientes não gostam" },
+          { "value": "d", "label": "Porque mostra falta de interesse" }
+        ],
+        "explanation": "Feedback contraditório confunde sobre o que construir e pode levar a decisões erradas. Um segmento focado ajuda a evitar isso.",
+        "hint": "Quando todos falam coisas diferentes, é difícil saber o que fazer.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor abordagem para escolher clientes?",
+        "options": [
+          { "value": "a", "label": "Ter um segmento focado e específico" },
+          { "value": "b", "label": "Ter o máximo de clientes possível" },
+          { "value": "c", "label": "Ter clientes ricos" },
+          { "value": "d", "label": "Ter clientes famosos" }
+        ],
+        "explanation": "Ter um segmento de cliente focado é sua melhor defesa contra o afogamento em opçõese feedback contraditório.",
+        "hint": "Foco é melhor que dispersão, mesmo que pareça contrário.",
+        "correctAnswer": "a"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Conversas Iniciais com Clientes",
+    "conclusionMessage": "Você completou a sétima microlição sobre perguntas eficazes. Agora você domina a pergunta mágica e sabe como evitar armadilhas comuns.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a pergunta \"mágica\" que o livro recomenda para começar conversas?",
+        "options": [
+          { "value": "a", "label": "Você compraria meu produto?" },
+          { "value": "b", "label": "Como você está lidando com isso atualmente?" },
+          { "value": "c", "label": "O que você acha da minha ideia?" },
+          { "value": "d", "label": "Você tem esse problema?" }
+        ],
+        "explanation": "\"Como você está lidando com isso atualmente?\" é a pergunta mágica do livro. Ela foca no comportamento real atual, não em intenções futuras.",
+        "hint": "Pense em uma pergunta que revela o comportamento real.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "2",
+        "question": "Por que opiniões são inúteis na validação de uma ideia?",
+        "options": [
+          { "value": "a", "label": "As pessoas não sabem o que querem" },
+          { "value": "b", "label": "Apenas o mercado pode dizer se sua ideia é boa" },
+          { "value": "c", "label": "As pessoas são egoístas" },
+          { "value": "d", "label": "As opiniões são difíceis de medir" }
+        ],
+        "explanation": "Opiniões são inúteis. Apenas o mercado pode dizer se sua ideia é boa. Opiniões, especialmente de não especialistas, são ruído e geram falsos positivos.",
+        "hint": "Quem realmente valida uma ideia de negócio?",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "3",
+        "question": "Qual é a regra geral sobre conversas com clientes?",
+        "options": [
+          { "value": "a", "label": "Quanto mais você fala, melhor está se saindo" },
+          { "value": "b", "label": "Quanto mais você ouve, melhor está se saindo" },
+          { "value": "c", "label": "É preciso apresentar sua ideia para ganhar confiança" },
+          { "value": "d", "label": "É preciso ouvir mais do que falar" }
+        ],
+        "explanation": "Regra geral: Quanto mais você fala, pior está se saindo. Você não aprende nada enquanto está falando.",
+        "hint": "O foco deve ser em coletar informações, não em transmiti-las.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "4",
+        "question": "Por que perguntas sobre o futuro são problemáticas?",
+        "options": [
+          { "value": "a", "label": "As pessoas não conseguem prever o futuro" },
+          { "value": "b", "label": "Qualquer coisa que envolva o futuro é uma mentira excessivamente otimista" },
+          { "value": "c", "label": "As pessoas mentem sobre o futuro" },
+          { "value": "d", "label": "O futuro é incerto" }
+        ],
+        "explanation": "Qualquer coisa que envolva o futuro é uma mentira excessivamente otimista. Perguntas como \"Você compraria...\" ou \"Quanto você pagaria...\" convidam a respostas hipotéticas e otimistas que não se traduzem em vendas reais.",
+        "hint": "O que é mais confiável: intenções ou ações passadas?",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "5",
+        "question": "O que é \"fluff\" e como lidar com isso?",
+        "options": [
+          { "value": "a", "label": "Informações vagas que devem ser ignoradas" },
+          { "value": "b", "label": "Elogios que devem ser ignorados" },
+          { "value": "c", "label": "Ideias que devem ser implementadas" },
+          { "value": "d", "label": "Informações vagas que devem ser ancoradas em exemplos específicos" }
+        ],
+        "explanation": "\"Fluff\" vem em três formas: alegações genéricas, promessas futuras e possibilidades hipotéticas. Ancore essas declarações vagas em exemplos específicos do passado.",
+        "hint": "Como transformar \"eu geralmente\" em algo concreto?",
+        "correctAnswer": "d"
+      },
+      {
+        "id": "6",
+        "question": "Como evitar pedidos de funcionalidades?",
+        "options": [
+          { "value": "a", "label": "Ignorar os clientes" },
+          { "value": "b", "label": "Usar perguntas de aprofundamento para encontrar a causa raiz" },
+          { "value": "c", "label": "Oferecer mais opções" },
+          { "value": "d", "label": "Focar em melhorar a interface" }
+        ],
+        "explanation": "Ideias e pedidos de funcionalidades devem ser compreendidos, mas não obedecidos. Use perguntas de aprofundamento para encontrar a causa raiz.",
+        "hint": "Você é o especialista em soluções, eles são especialistas em problemas.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "7",
+        "question": "Qual é a regra geral sobre busca de aprovação?",
+        "options": [
+          { "value": "a", "label": "É importante buscar aprovação constante" },
+          { "value": "b", "label": "Se você mencionar sua ideia, as pessoas tentarão proteger seus sentimentos" },
+          { "value": "c", "label": "É preciso sempre apresentar sua ideia" },
+          { "value": "d", "label": "É melhor evitar conversas com clientes" }
+        ],
+        "explanation": "Se você mencionar sua ideia, as pessoas tentarão proteger seus sentimentos. Evite \"pescar elogios\" ou expor seu ego.",
+        "hint": "As pessoas tendem a ser gentis, mesmo quando não estão interessadas.",
+        "correctAnswer": "b"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Opiniões e Mercado",
+    "conclusionMessage": "Você completou a oitava microlição sobre opiniões e mercado. Agora você sabe por que apenas o mercado pode validar sua ideia e como evitar armadilhas de feedback enganoso.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Por que opiniões são inúteis na validação de uma ideia?",
+        "options": [
+          { "value": "a", "label": "As pessoas não sabem o que querem" },
+          { "value": "b", "label": "Apenas o mercado pode dizer se sua ideia é boa" },
+          { "value": "c", "label": "As pessoas são egoístas" },
+          { "value": "d", "label": "As opiniões são difíceis de medir" }
+        ],
+        "explanation": "Opiniões são inúteis. Apenas o mercado pode dizer se sua ideia é boa. Opiniões, especialmente de não especialistas, são ruído e geram falsos positivos.",
+        "hint": "Quem realmente valida uma ideia de negócio?",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "2",
+        "question": "Qual é o problema com depender de opiniões de amigos e familiares?",
+        "options": [
+          { "value": "a", "label": "Eles não entendem o negócio" },
+          { "value": "b", "label": "Eles tendem a ser gentis e proteger seus sentimentos" },
+          { "value": "c", "label": "Eles não têm experiência no mercado" },
+          { "value": "d", "label": "Eles não têm tempo para dar feedback" }
+        ],
+        "explanation": "Amigos e familiares tendem a ser gentis e proteger seus sentimentos. Eles querem te apoiar, não te desencorajar, mesmo que sua ideia não seja boa.",
+        "hint": "Pense sobre o que as pessoas querem quando você pergunta sua opinião.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "3",
+        "question": "O que é um \"falso positivo\" no contexto de validação de ideias?",
+        "options": [
+          { "value": "a", "label": "Uma ideia que é realmente boa" },
+          { "value": "b", "label": "Feedback positivo que não reflete intenção real de compra" },
+          { "value": "c", "label": "Um cliente que compra muito" },
+          { "value": "d", "label": "Um produto que funciona bem" }
+        ],
+        "explanation": "Falsos positivos são feedbacks positivos que não refletem intenção real de compra. As pessoas dizem que gostam da ideia para serem educadas, mas nunca comprariam.",
+        "hint": "O que é mais comum: pessoas dizendo que gostam ou realmente comprando?",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "4",
+        "question": "Como o mercado realmente valida uma ideia?",
+        "options": [
+          { "value": "a", "label": "Através de pesquisas e questionários" },
+          { "value": "b", "label": "Através de ações reais como compras, uso e recompra" },
+          { "value": "c", "label": "Através de likes e compartilhamentos" },
+          { "value": "d", "label": "Através de opiniões de experts" }
+        ],
+        "explanation": "O mercado valida uma ideia através de ações reais: pessoas pagando dinheiro, usando o produto repetidamente e recomendando para outros.",
+        "hint": "Ações falam mais alto que palavras.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "5",
+        "question": "Qual é a diferença entre validação e aprovação social?",
+        "options": [
+          { "value": "a", "label": "Não há diferença" },
+          { "value": "b", "label": "Validação é sobre ações, aprovação social é sobre palavras" },
+          { "value": "c", "label": "Validação é mais barata" },
+          { "value": "d", "label": "Aprovação social é mais confiável" }
+        ],
+        "explanation": "Validação é sobre ações reais (compras, uso), enquanto aprovação social é sobre palavras (elogios, likes). Apenas a validação importa para o negócio.",
+        "hint": "O que importa mais: o que as pessoas dizem ou o que fazem?",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "6",
+        "question": "Por que é perigoso confiar apenas em feedback positivo?",
+        "options": [
+          { "value": "a", "label": "Porque as pessoas mentem" },
+          { "value": "b", "label": "Porque feedback positivo não indica necessariamente interesse em comprar" },
+          { "value": "c", "label": "Porque é difícil de obter" },
+          { "value": "d", "label": "Porque é caro" }
+        ],
+        "explanation": "Feedback positivo não indica necessariamente interesse em comprar. As pessoas podem gostar da ideia mas nunca se tornar clientes pagantes.",
+        "hint": "Gostar é diferente de comprar.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "7",
+        "question": "Qual é a melhor maneira de evitar ser enganado por opiniões?",
+        "options": [
+          { "value": "a", "label": "Pedir opiniões para mais pessoas" },
+          { "value": "b", "label": "Focar em comportamentos passados e ações reais" },
+          { "value": "c", "label": "Ignorar todo feedback" },
+          { "value": "d", "label": "Apenas ouvir experts" }
+        ],
+        "explanation": "A melhor maneira de evitar ser enganado por opiniões é focar em comportamentos passados e ações reais. Pergunte sobre o que as pessoas já fizeram, não o que dizem que farão.",
+        "hint": "Passado é o melhor preditor do futuro.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "8",
+        "question": "O que significa \"o mercado sempre tem razão\"?",
+        "options": [
+          { "value": "a", "label": "Clientes sempre sabem o que querem" },
+          { "value": "b", "label": "Apenas resultados reais de vendas e uso importam" },
+          { "value": "c", "label": "Você deve sempre ouvir o mercado" },
+          { "value": "d", "label": "O mercado nunca erra" }
+        ],
+        "explanation": "\"O mercado sempre tem razão\" significa que apenas resultados reais de vendas, uso e retenção importam. Tudo o mais é especulação.",
+        "hint": "Resultados reais superam qualquer teoria.",
+        "correctAnswer": "b"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Perguntas sobre o Futuro",
+    "conclusionMessage": "Você completou a nona microlição sobre perguntas sobre o futuro. Agora você sabe como evitar armadilhas de intenções otimistas e focar em comportamentos reais.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a melhor abordagem para perguntar sobre o futuro?",
+        "options": [
+          { "value": "a", "label": "Perguntar se a pessoa compraria algo" },
+          { "value": "b", "label": "Perguntar sobre ações passadas" },
+          { "value": "c", "label": "Perguntar sobre desejos pessoais" },
+          { "value": "d", "label": "Perguntar sobre tendências do mercado" }
+        ],
+        "explanation": "Pergunte sobre especificidades do passado, em vez de generalidades ou opiniões sobre o futuro. Ações passadas são fatos; intenções futuras são mentiras otimistas.",
+        "hint": "O que é mais confiável: o que alguém fez ou o que diz que fará?",
+        "correctAnswer": "b",
+        "bookExample": "Em vez de \"Você compraria um app de meditação?\", pergunte \"Você já usou algum app de meditação? Qual? Por quanto tempo?\""
+      },
+      {
+        "id": "2",
+        "question": "Por que perguntas sobre o futuro são problemáticas?",
+        "options": [
+          { "value": "a", "label": "As pessoas não conseguem prever o futuro" },
+          { "value": "b", "label": "Qualquer coisa que envolva o futuro é uma mentira excessivamente otimista" },
+          { "value": "c", "label": "As pessoas mentem sobre o futuro" },
+          { "value": "d", "label": "O futuro é incerto" }
+        ],
+        "explanation": "Qualquer coisa que envolva o futuro é uma mentira excessivamente otimista. Perguntas como \"Você compraria...\" ou \"Quanto você pagaria...\" convidam a respostas hipotéticas e otimistas que não se traduzem em vendas reais.",
+        "hint": "O que é mais confiável: intenções ou ações passadas?",
+        "correctAnswer": "b",
+        "bookExample": "\"Você viria à minha festa?\" vs \"Você veio à última festa?\" - a segunda revela comportamento real."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o problema com a pergunta \"Você compraria isso?\"",
+        "options": [
+          { "value": "a", "label": "É muito direta" },
+          { "value": "b", "label": "Convida a uma resposta hipotética e otimista que não reflete ação real" },
+          { "value": "c", "label": "As pessoas não gostam de ser pressionadas" },
+          { "value": "d", "label": "É muito técnica" }
+        ],
+        "explanation": "A pergunta \"Você compraria isso?\" convida a uma resposta hipotética e otimista. As pessoas dizem que sim para serem educadas, mas isso não significa que realmente comprariam.",
+        "hint": "Pense no que acontece quando você pergunta \"você viria à minha festa?\"",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas dizem \"sim\" para serem educadas, mas \"comprar\" é uma ação real com custo real."
+      },
+      {
+        "id": "4",
+        "question": "O que é uma \"mentira otimista\"?",
+        "options": [
+          { "value": "a", "label": "Uma mente intencional para enganar" },
+          { "value": "b", "label": "Uma promessa futura que as pessoas acreditam no momento mas não cumprirão" },
+          { "value": "c", "label": "Uma mentira sobre o passado" },
+          { "value": "d", "label": "Uma mentira técnica" }
+        ],
+        "explanation": "Mentiras otimistas são promessas futuras que as pessoas realmente acreditam no momento, mas não cumprirão. Não é má fé, é otimismo humano natural.",
+        "hint": "As pessoas não mentem de propósito, apenas são otimistas.",
+        "correctAnswer": "b",
+        "bookExample": "\"Eu comeria saudável\" vs \"Você comeu saudável ontem?\" - a primeira é otimismo, a segunda é fato."
+      },
+      {
+        "id": "5",
+        "question": "Qual é uma alternativa melhor para \"Você usaria isso?\"",
+        "options": [
+          { "value": "a", "label": "Você gostaria disso?" },
+          { "value": "b", "label": "Como você está lidando com esse problema atualmente?" },
+          { "value": "c", "label": "Você quer resolver isso?" },
+          { "value": "d", "label": "Você recomendaria isso para amigos?" }
+        ],
+        "explanation": "\"Como você está lidando com esse problema atualmente?\" é melhor porque foca no comportamento real atual, não em intenções futuras.",
+        "hint": "Foque no presente e passado, não no futuro.",
+        "correctAnswer": "b",
+        "bookExample": "Em vez de \"Você usaria um app de finanças?\", pergunte \"Como você controla suas despesas atualmente?\""
+      },
+      {
+        "id": "6",
+        "question": "Por que perguntas sobre o passado são mais confiáveis?",
+        "options": [
+          { "value": "a", "label": "As pessoas têm melhor memória" },
+          { "value": "b", "label": "Ações passadas são fatos, não intenções" },
+          { "value": "c", "label": "O passado é mais interessante" },
+          { "value": "d", "label": "As pessoas gostam de falar sobre o passado" }
+        ],
+        "explanation": "Ações passadas são fatos que realmente aconteceram, não intenções ou promessas. Você pode verificar e aprender com comportamentos reais.",
+        "hint": "Fatos superam intenções.",
+        "correctAnswer": "b",
+        "bookExample": "\"Você pagou por uma solução similar?\" é mais confiável que \"Você pagaria por uma solução?\""
+      },
+      {
+        "id": "7",
+        "question": "Como transformar uma pergunta sobre o futuro em uma sobre o passado?",
+        "options": [
+          { "value": "a", "label": "É impossível" },
+          { "value": "b", "label": "Pergunte sobre ações específicas que já tomaram" },
+          { "value": "c", "label": "Pergunte sobre planos detalhados" },
+          { "value": "d", "label": "Pergunte sobre previsões" }
+        ],
+        "explanation": "Transforme perguntas futuras em passadas perguntando sobre ações específicas que as pessoas já tomaram. Ex: em vez de \"Você pagaria?\", pergunte \"Quanto você pagou para resolver isso antes?\"",
+        "hint": "Refraseie para o passado.",
+        "correctAnswer": "b",
+        "bookExample": "\"Você usaria um app de meditação?\" vira \"Você já usou algum app de meditação? Qual? Por quanto tempo?\""
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de fazer muitas perguntas sobre o futuro?",
+        "options": [
+          { "value": "a", "label": "As pessoas ficam confusas" },
+          { "value": "b", "label": "Você coleta dados que não refletem comportamento real" },
+          { "value": "c", "label": "As pessoas ficam irritadas" },
+          { "value": "d", "label": "É muito técnico" }
+        ],
+        "explanation": "Perguntas sobre o futuro coletam dados que não refletem comportamento real. Você pode tomar decisões erradas baseadas em intenções que nunca se materializarão.",
+        "hint": "Dados ruins são piores que nenhum dado.",
+        "correctAnswer": "b",
+        "bookExample": "Basear decisões em \"você compraria\" é como planejar uma festa baseado em \"você viria\" - ambos são otimismo, não compromisso."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Problemas e Soluções",
+    "conclusionMessage": "Você completou a décima microlição sobre objetivos dos clientes. Agora você sabe como descobrir os verdadeiros objetivos por trás dos problemas e entender a motivação real dos clientes.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Por que as pessoas sabem quais são seus problemas, mas não sabem como resolvê-los?",
+        "options": [
+          { "value": "a", "label": "As pessoas não são criativas" },
+          { "value": "b", "label": "Você é o dono da solução, eles são os donos do problema" },
+          { "value": "c", "label": "As pessoas não têm tempo para pensar em soluções" },
+          { "value": "d", "label": "As pessoas não entendem tecnologia" }
+        ],
+        "explanation": "As pessoas sabem quais são seus problemas, mas não sabem como resolvê-los. Você é o dono da solução, eles são os donos do problema.",
+        "hint": "Pense na divisão de responsabilidades na conversa.",
+        "correctAnswer": "b",
+        "bookExample": "Cliente: \"É difícil gerenciar minha equipe remota.\" Você não pergunta \"Como você gostaria de gerenciar?\", mas \"Como você está gerenciando atualmente? O que está difícil?\""
+      },
+      {
+        "id": "2",
+        "question": "Qual é a melhor pergunta para entender os objetivos de um cliente?",
+        "options": [
+          { "value": "a", "label": "Qual seria o seu produto dos sonhos?" },
+          { "value": "b", "label": "Por que você se dá ao trabalho?" },
+          { "value": "c", "label": "O que você gostaria de melhorar?" },
+          { "value": "d", "label": "Quais funcionalidades você gostaria?" }
+        ],
+        "explanation": "Você está atirando no escuro até entender os objetivos deles. Perguntas como \"Por que você se dá ao trabalho?\" ajudam a ir do problema percebido ao problema real, revelando as motivações essenciais.",
+        "hint": "Qual pergunta revela a motivação real por trás do trabalho?",
+        "correctAnswer": "b",
+        "bookExample": "\"Por que você se dá ao trabalho de gerenciar uma equipe remota? O que você está tentando alcançar?\""
+      },
+      {
+        "id": "3",
+        "question": "O que revela mais sobre os objetivos de um cliente?",
+        "options": [
+          { "value": "a", "label": "O que eles dizem que querem" },
+          { "value": "b", "label": "Por que eles fazem o que fazem" },
+          { "value": "c", "label": "O que eles compram" },
+          { "value": "d", "label": "O que eles planejam" }
+        ],
+        "explanation": "O \"por que\" revela mais que o \"o que\". Entender a motivação por trás das ações mostra os objetivos reais, não apenas desejos superficiais.",
+        "hint": "Foque no motivo, não no que.",
+        "correctAnswer": "b",
+        "bookExample": "Cliente compra software de RH. \"Por que você está trocando de sistema? O que não está funcionando no atual?\""
+      },
+      {
+        "id": "4",
+        "question": "Como descobrir o problema real por trás do problema percebido?",
+        "options": [
+          { "value": "a", "label": "Pergunte \"Qual é o seu problema?\"" },
+          { "value": "b", "label": "Pergunte \"Por que isso é um problema para você?\"" },
+          { "value": "c", "label": "Pergunte se eles querem resolver" },
+          { "value": "d", "label": "Pergunte quanto eles pagariam" }
+        ],
+        "explanation": "\"Por que isso é um problema para você?\" ajuda a ir do sintoma (problema percebido) para a causa (problema real) e entender a motivação real.",
+        "hint": "Cave mais fundo com \"por que\".",
+        "correctAnswer": "b",
+        "bookExample": "Cliente: \"Preciso de um app melhor.\" Você: \"Por que você precisa de um app melhor? O que o atual não faz?\""
+      },
+      {
+        "id": "5",
+        "question": "Por que é importante entender os objetivos do cliente?",
+        "options": [
+          { "value": "a", "label": "Para fazer um produto melhor" },
+          { "value": "b", "label": "Para garantir que você está resolvendo o problema certo" },
+          { "value": "c", "label": "Para impressionar o cliente" },
+          { "value": "d", "label": "Para vender mais rápido" }
+        ],
+        "explanation": "Entender os objetivos garante que você está resolvendo o problema certo, não apenas um sintoma. As pessoas não querem ferramentas, querem resultados.",
+        "hint": "Resolva o problema certo, não apenas um problema.",
+        "correctAnswer": "b",
+        "bookExample": "Cliente quer \"melhor comunicação\". Objetivo real: \"Não quero perder bons funcionários por falta de engajamento.\""
+      },
+      {
+        "id": "6",
+        "question": "Qual é o erro comum ao tentar entender objetivos?",
+        "options": [
+          { "value": "a", "label": "Fazer muitas perguntas" },
+          { "value": "b", "label": "Aceitar o primeiro problema mencionado como o real" },
+          { "value": "c", "label": "Ouvir demais" },
+          { "value": "d", "label": "Ser muito específico" }
+        ],
+        "explanation": "O erro comum é aceitar o primeiro problema mencionado como o real. Muitas vezes é apenas um sintoma de um problema mais profundo que revela os verdadeiros objetivos.",
+        "hint": "Não pare na primeira resposta.",
+        "correctAnswer": "b",
+        "bookExample": "Cliente: \"Preciso de relatórios melhores.\" Real: \"Meu chefe não entende o valor do meu time e eu preciso provar nosso impacto.\""
+      },
+      {
+        "id": "7",
+        "question": "Como saber se você realmente entendeu os objetivos do cliente?",
+        "options": [
+          { "value": "a", "label": "Eles dizem que gostam da sua ideia" },
+          { "value": "b", "label": "Você pode prever o que eles fariam em diferentes situações" },
+          { "value": "c", "label": "Eles concordam em comprar" },
+          { "value": "d", "label": "Eles dão muitos detalhes" }
+        ],
+        "explanation": "Quando você realmente entende os objetivos, pode prever o que o cliente faria em diferentes situações. Isso mostra compreensão profunda, não superficial.",
+        "hint": "Teste sua compreensão com cenários.",
+        "correctAnswer": "b",
+        "bookExample": "Se entende que objetivo é \"reter talentos\", pode prever: \"Se eu oferecesse X, eles diriam sim porque ajuda reter a equipe.\""
+      },
+      {
+        "id": "8",
+        "question": "O que fazer quando o cliente não sabe seus próprios objetivos?",
+        "options": [
+          { "value": "a", "label": "Aceite o que eles dizem" },
+          { "value": "b", "label": "Use perguntas sobre comportamentos passados para revelar padrões" },
+          { "value": "c", "label": "Diga a eles quais são seus objetivos" },
+          { "value": "d", "label": "Pare de fazer perguntas" }
+        ],
+        "explanation": "Quando clientes não sabem seus objetivos, use perguntas sobre comportamentos passados para revelar padrões. Ações passadas mostram motivações reais.",
+        "hint": "Ações revelam mais que palavras.",
+        "correctAnswer": "b",
+        "bookExample": "\"Me conta sobre a última vez que você tentou resolver isso. O que você fez? Por que escolheu aquele caminho?\""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Distinguindo Problemas",
+    "conclusionMessage": "Você completou a décima primeira microlição sobre distinguindo problemas. Agora você sabe identificar problemas que as pessoas realmente pagarão para resolver versus meras inconveniências.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Como distinguir problemas que as pessoas pagarão para resolver de meras inconveniências?",
+        "options": [
+          { "value": "a", "label": "Perguntar \"Quais são as implicações disso?\"" },
+          { "value": "b", "label": "Perguntar \"Quanto isso te custa?\"" },
+          { "value": "c", "label": "Perguntar \"Isso é importante para você?\"" },
+          { "value": "d", "label": "Perguntar \"Você já tentou resolver isso?\"" }
+        ],
+        "explanation": "Alguns problemas, na verdade, não importam. Usar perguntas como \"Quais são as implicações disso?\" ajuda a distinguir problemas que as pessoas pagarão para resolver de meras inconveniências.",
+        "hint": "Como transformar um problema vago em algo concreto e urgente?",
+        "correctAnswer": "a",
+        "bookExample": "Cliente: \"É difícil treinar novos funcionários.\" Você: \"Quais são as implicações de ter funcionários mal treinados? O que isso custa para vocês?\""
+      },
+      {
+        "id": "2",
+        "question": "Por que é importante observar alguém realizando uma tarefa?",
+        "options": [
+          { "value": "a", "label": "Para aprender a fazer a tarefa" },
+          { "value": "b", "label": "Para mostrar que você é um bom observador" },
+          { "value": "c", "label": "Para ver onde os problemas e ineficiências realmente estão" },
+          { "value": "d", "label": "Para entender o fluxo de trabalho" }
+        ],
+        "explanation": "Observar alguém realizando uma tarefa mostrará onde os problemas e ineficiências realmente estão, não onde o cliente pensa que eles estão.",
+        "hint": "Ações falam mais alto que palavras sobre problemas reais.",
+        "correctAnswer": "c",
+        "bookExample": "Um gerente pode dizer \"nosso processo de onboarding é eficiente\", mas observar pode revelar que novos funcionários passam 3 horas perdidos no primeiro dia."
+      },
+      {
+        "id": "3",
+        "question": "Qual é a diferença entre um problema que vale dinheiro e uma inconveniência?",
+        "options": [
+          { "value": "a", "label": "Não há diferença" },
+          { "value": "b", "label": "Problemas valiosos têm consequências reais se não forem resolvidos" },
+          { "value": "c", "label": "Inconveniências são mais fáceis de resolver" },
+          { "value": "d", "label": "Problemas valiosos são mais comuns" }
+        ],
+        "explanation": "Problemas que valem dinheiro têm consequências reais, mensuráveis e urgentes se não forem resolvidos. Inconveniências são apenas irritantes.",
+        "hint": "Pense em problemas que você pagaria para resolver vs. aqueles que apenas toleraria.",
+        "correctAnswer": "b",
+        "bookExample": "Inconveniência: \"Meus relatórios são feios.\" Problema valioso: \"Meus relatórios demoram 8 horas para fazer e ainda assim meu chefe não entende o valor do meu time.\""
+      },
+      {
+        "id": "4",
+        "question": "Como revelar se um problema é valioso?",
+        "options": [
+          { "value": "a", "label": "Pergunte \"Você quer resolver isso?\"" },
+          { "value": "b", "label": "Pergunte \"O que acontece se você não resolver?\"" },
+          { "value": "c", "label": "Pergunte \"Você acha isso importante?\"" },
+          { "value": "d", "label": "Pergunte \"Você já tentou resolver isso?\"" }
+        ],
+        "explanation": "\"O que acontece se você não resolver?\" revela as consequências reais. Problemas valiosos têm consequências caras ou dolorosas.",
+        "hint": "Consequências revelam valor.",
+        "correctAnswer": "b",
+        "bookExample": "Cliente: \"É difícil gerenciar projetos.\" Você: \"O que acontece quando um projeto vai mal? Quanto isso custa para a empresa?\""
+      },
+      {
+        "id": "5",
+        "question": "Por que observação é melhor que apenas perguntar sobre problemas?",
+        "options": [
+          { "value": "a", "label": "Porque as pessoas mentem" },
+          { "value": "b", "label": "Porque as pessoas não percebem todas as ineficiências" },
+          { "value": "c", "label": "Porque é mais rápido" },
+          { "value": "d", "label": "Porque é mais barato" }
+        ],
+        "explanation": "As pessoas não percebem todas as ineficiências em seu próprio trabalho. Observação revela problemas que eles nem sabem que têm.",
+        "hint": "Você não pode melhorar o que não percebe.",
+        "correctAnswer": "b",
+        "bookExample": "Um gerente pode dizer que o processo funciona bem, mas observar revela que ele interrompe a equipe a cada 30 minutos, destruindo a produtividade."
+      },
+      {
+        "id": "6",
+        "question": "O que fazer quando o cliente descreve um problema que parece valioso?",
+        "options": [
+          { "value": "a", "label": "Aceite imediatamente" },
+          { "value": "b", "label": "Cave mais fundo para entender as implicações reais" },
+          { "value": "c", "label": "Pergunte quanto eles pagariam" },
+          { "value": "d", "label": "Diga que você pode resolver" }
+        ],
+        "explanation": "Quando um problema parece valioso, cave mais fundo. Pergunte sobre implicações, frequência, custos atuais e tentativas anteriores de resolver.",
+        "hint": "Não aceite a primeira impressão.",
+        "correctAnswer": "b",
+        "bookExample": "Cliente: \"Nosso processo de vendas é ineficiente.\" Você: \"Quão ineficiente? O que isso custa? O que você já tentou?\""
+      },
+      {
+        "id": "7",
+        "question": "Como testar se você realmente encontrou um problema valioso?",
+        "options": [
+          { "value": "a", "label": "Pergunte se eles pagariam" },
+          { "value": "b", "label": "Veja se eles já pagaram para resolver algo similar" },
+          { "value": "c", "label": "Pergunte se acham importante" },
+          { "value": "d", "label": "Espere eles oferecerem dinheiro" }
+        ],
+        "explanation": "O melhor teste é ver se eles já pagaram para resolver algo similar no passado. Ações passadas são o melhor preditor de comportamento futuro.",
+        "hint": "Passado prediz futuro.",
+        "correctAnswer": "b",
+        "bookExample": "Se eles pagaram $5000 para consultores resolverem um problema similar, é sinal de que o problema tem valor real."
+      },
+      {
+        "id": "8",
+        "question": "O que é um sinal claro de que você está lidando com apenas uma inconveniência?",
+        "options": [
+          { "value": "a", "label": "As pessoas reclamam muito" },
+          { "value": "b", "label": "As pessoas não tomaram ação para resolver" },
+          { "value": "c", "label": "As pessoas perguntam muito sobre isso" },
+          { "value": "d", "label": "As pessoas parecem irritadas" }
+        ],
+        "explanation": "Se as pessoas não tomaram ação para resolver (buscar soluções, pagar, mudar processos), é provavelmente apenas uma inconveniência, não um problema valioso.",
+        "hint": "Ações falam sobre seriedade.",
+        "correctAnswer": "b",
+        "bookExample": "Se alguém reclama de \"relatórios feios\" mas nunca tentou usar templates ou contratar designer, é apenas inconveniência."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Seriedade dos Problemas",
+    "conclusionMessage": "Você completou a décima segunda microlição sobre seriedade dos problemas. Agora você sabe avaliar se os problemas são sérios o suficiente para gerar vendas e tem valor real para os clientes.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a melhor pergunta para avaliar a seriedade de um problema?",
+        "options": [
+          { "value": "a", "label": "Quão sério é este problema para você?" },
+          { "value": "b", "label": "O que mais você já tentou?" },
+          { "value": "c", "label": "Você já procurou soluções?" },
+          { "value": "d", "label": "Você está disposto a pagar para resolver isso?" }
+        ],
+        "explanation": "Se eles ainda não procuraram maneiras de resolver o problema, não vão procurar (ou comprar) a sua. Pergunte \"O que mais você já tentou?\" para avaliar o quão sério o problema é.",
+        "hint": "Ações passadas indicam seriedade futura.",
+        "correctAnswer": "b",
+        "bookExample": "Cliente: \"É difícil treinar novos funcionários.\" Você: \"O que mais você já tentou para resolver isso? O que funcionou e o que não funcionou?\""
+      },
+      {
+        "id": "2",
+        "question": "Como entender o valor de um problema para um cliente?",
+        "options": [
+          { "value": "a", "label": "Perguntar \"Quanto você pagaria por isso?\"" },
+          { "value": "b", "label": "Perguntar \"Como você está lidando com isso agora?\"" },
+          { "value": "c", "label": "Perguntar \"Isso é importante para você?\"" },
+          { "value": "d", "label": "Perguntar \"Você já gastou dinheiro para resolver isso?\"" }
+        ],
+        "explanation": "Embora seja raro alguém dizer precisamente o que vai pagar, muitas vezes eles mostram o quanto vale para eles. Pergunte \"Como você está lidando com isso agora?\" para entender os custos atuais (em tempo e dinheiro), o que fornece uma âncora de preço.",
+        "hint": "Custos atuais revelam valor futuro.",
+        "correctAnswer": "b",
+        "bookExample": "Cliente: \"É caro treinar novos funcionários.\" Você: \"Como você está lidando com isso agora? Quanto tempo e dinheiro isso custa?\""
+      },
+      {
+        "id": "3",
+        "question": "O que revela que um problema NÃO é sério?",
+        "options": [
+          { "value": "a", "label": "As pessoas falam sobre ele frequentemente" },
+          { "value": "b", "label": "As pessoas nunca tomaram ação para resolver" },
+          { "value": "c", "label": "As pessoas parecem irritadas" },
+          { "value": "d", "label": "As pessoas têm opiniões fortes sobre ele" }
+        ],
+        "explanation": "Se as pessoas nunca tomaram ação para resolver (buscar soluções, pagar, mudar processos), o problema provavelmente não é sério o suficiente.",
+        "hint": "Ações revelam seriedade.",
+        "correctAnswer": "b",
+        "bookExample": "Se alguém reclama que \"organizar eventos é difícil\" mas nunca tentou usar ferramentas de planejamento ou contratar ajuda, provavelmente não é um problema valioso."
+      },
+      {
+        "id": "4",
+        "question": "Como testar se um problema é sério o suficiente?",
+        "options": [
+          { "value": "a", "label": "Pergunte se eles pagariam" },
+          { "value": "b", "label": "Veja se eles já pagaram para resolver algo similar" },
+          { "value": "c", "label": "Pergunte se acham importante" },
+          { "value": "d", "label": "Espere eles oferecerem dinheiro" }
+        ],
+        "explanation": "O melhor teste é ver se eles já pagaram para resolver algo similar no passado. Ações passadas são o melhor preditor de comportamento futuro.",
+        "hint": "Passado prediz futuro.",
+        "correctAnswer": "b",
+        "bookExample": "Se eles pagaram $3000 para um consultor resolver um problema de processo similar, é sinal de que o problema tem valor real e urgência."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o sinal de que você está lidando com um problema valioso?",
+        "options": [
+          { "value": "a", "label": "As pessoas reclamam muito" },
+          { "value": "b", "label": "As pessoas já pagaram para resolver ou tentaram várias soluções" },
+          { "value": "c", "label": "As pessoas perguntam muito sobre isso" },
+          { "value": "d", "label": "As pessoas parecem irritadas" }
+        ],
+        "explanation": "Quando as pessoas já pagaram para resolver ou tentaram várias soluções, é sinal de que o problema é valioso o suficiente para justificar investimento.",
+        "hint": "Investimento passado indica valor.",
+        "correctAnswer": "b",
+        "bookExample": "Cliente que já tentou 3 ferramentas diferentes, contratou freelancers, e ainda está procurando solução - esse é um problema valioso e urgente."
+      },
+      {
+        "id": "6",
+        "question": "Por que perguntar \"Quanto você pagaria?\" é problemático?",
+        "options": [
+          { "value": "a", "label": "É muito direta" },
+          { "value": "b", "label": "As pessoas não sabem quanto pagariam até ver a solução" },
+          { "value": "c", "label": "As pessoas ficam irritadas" },
+          { "value": "d", "label": "É muito técnica" }
+        ],
+        "explanation": "As pessoas raramente sabem quanto pagariam até ver uma solução real. É melhor entender o que já pagaram e os custos atuais do problema.",
+        "hint": "Foque no passado, não no futuro hipotético.",
+        "correctAnswer": "b",
+        "bookExample": "Em vez de \"Quanto você pagaria por um app de finanças?\", pergunte \"Quanto você pagou por softwares de finanças no último ano?\""
+      },
+      {
+        "id": "7",
+        "question": "Como descobrir o valor real de um problema?",
+        "options": [
+          { "value": "a", "label": "Pergunte \"Quanto vale isso para você?\"" },
+          { "value": "b", "label": "Entenda os custos atuais em tempo, dinheiro e frustração" },
+          { "value": "c", "label": "Pergunte \"Você acha isso caro?\"" },
+          { "value": "d", "label": "Assuma um valor baseado no mercado" }
+        ],
+        "explanation": "Entenda os custos atuais em tempo, dinheiro e frustração que o problema causa. Isso revela o valor real que as pessoas atribuem a resolver esse problema.",
+        "hint": "Custos atuais revelam valor futuro.",
+        "correctAnswer": "b",
+        "bookExample": "Cliente: \"Treinar novos funcionários é caro.\" Você: \"Quanto tempo você gasta? Quanto dinheiro isso custa? O que acontece quando o treinamento falha?\""
+      },
+      {
+        "id": "8",
+        "question": "O que fazer quando alguém diz que pagaria mas nunca pagou por nada similar?",
+        "options": [
+          { "value": "a", "label": "Aceite a palavra deles" },
+          { "value": "b", "label": "Questione a seriedade - ações passadas são melhores indicadores" },
+          { "value": "c", "label": "Desconto o que dizem" },
+          { "value": "d", "label": "Ignore completamente" }
+        ],
+        "explanation": "Se alguém nunca pagou por nada similar, questione a seriedade. Ações passadas são melhores indicadores que intenções futuras.",
+        "hint": "Passado > Futuro.",
+        "correctAnswer": "b",
+        "bookExample": "Cliente: \"Eu pagaria $1000 por isso.\" Você: \"Você já pagou por algo similar? Quanto? O que fez você pagar por isso?\""
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Ajuda Valiosa",
+    "conclusionMessage": "Você completou a décima terceira microlição sobre ajuda valiosa. Agora você sabe como obter ajuda e insights valiosos dos próprios clientes e criar um efeito bola de neve de introduções.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Como obter ajuda valiosa de clientes?",
+        "options": [
+          { "value": "a", "label": "Perguntar \"Você pode me ajudar?\"" },
+          { "value": "b", "label": "Perguntar \"Com quem mais eu deveria conversar?\"" },
+          { "value": "c", "label": "Perguntar \"Há mais alguma coisa que eu deveria ter perguntado?\"" },
+          { "value": "d", "label": "Todas as anteriores" }
+        ],
+        "explanation": "As pessoas querem te ajudar, mas raramente o farão a menos que você lhes dê uma desculpa para isso. Perguntas como \"Com quem mais eu deveria conversar?\" e \"Há mais alguma coisa que eu deveria ter perguntado?\" abrem a porta para ajuda e insights valiosos.",
+        "hint": "Dê às pessoas uma desculpa para te ajudarem.",
+        "correctAnswer": "d",
+        "bookExample": "Final da conversa: \"Há mais alguma coisa que eu deveria ter perguntado? Alguém mais que eu deveria conversar sobre isso?\""
+      },
+      {
+        "id": "2",
+        "question": "Por que é importante pedir introduções?",
+        "options": [
+          { "value": "a", "label": "Para aumentar sua rede de contatos" },
+          { "value": "b", "label": "Para encontrar mais clientes potenciais" },
+          { "value": "c", "label": "Para criar um efeito bola de neve de conversas" },
+          { "value": "d", "label": "Todas as anteriores" }
+        ],
+        "explanation": "Pedir introduções é crucial para criar um efeito bola de neve de conversas. Cada conversa pode levar a mais conversas, expandindo exponencialmente sua rede de contatos e clientes potenciais.",
+        "hint": "Introduções são a chave para escalar suas conversas.",
+        "correctAnswer": "d",
+        "bookExample": "Cada pessoa que você conversa pode te conectar com 2-3 pessoas melhores. Em 3-4 saltos, você chega nos decisores reais."
+      },
+      {
+        "id": "3",
+        "question": "Qual é a melhor maneira de pedir introduções?",
+        "options": [
+          { "value": "a", "label": "Perguntar \"Você conhece alguém?\"" },
+          { "value": "b", "label": "Ser específico sobre quem você quer conhecer e por quê" },
+          { "value": "c", "label": "Pedir para ser apresentado a qualquer pessoa" },
+          { "value": "d", "label": "Não pedir - espere oferecerem" }
+        ],
+        "explanation": "Seja específico sobre quem você quer conhecer e por quê. Isso torna mais fácil para as pessoas te ajudarem e resulta em introduções mais valiosas.",
+        "hint": "Especificidade gera melhores resultados.",
+        "correctAnswer": "b",
+        "bookExample": "Em vez de \"Você conhece alguém?\", pergunte \"Você conhece alguém que gerencia equipes remotas de mais de 50 pessoas? Estou tentando entender como eles lidam com comunicação.\""
+      },
+      {
+        "id": "4",
+        "question": "O que fazer quando alguém oferece ajuda?",
+        "options": [
+          { "value": "a", "label": "Recuse educadamente" },
+          { "value": "b", "label": "Aceite e seja específico sobre como podem ajudar" },
+          { "value": "c", "label": "Diga que não precisa de ajuda" },
+          { "value": "d", "label": "Aceite genericamente" }
+        ],
+        "explanation": "Quando alguém oferece ajuda, aceite e seja específico sobre como podem ajudar. Isso valoriza a oferta e garante ajuda real.",
+        "hint": "Seja grato e específico.",
+        "correctAnswer": "b",
+        "bookExample": "Quando alguém diz \"Posso te ajudar de alguma forma?\", responda \"Sim! Você conhece alguém que [descrição específica] que eu poderia conversar?\""
+      },
+      {
+        "id": "5",
+        "question": "Como manter o efeito bola de neve de introduções?",
+        "options": [
+          { "value": "a", "label": "Agradeça e pare por aí" },
+          { "value": "b", "label": "Sempre peça mais introduções após cada conversa" },
+          { "value": "c", "label": "Espere um mês antes de pedir mais" },
+          { "value": "d", "label": "Apenas peça uma vez" }
+        ],
+        "explanation": "Sempre peça mais introduções após cada conversa. Isso mantém o efeito bola de neve crescendo e expandindo sua rede continuamente.",
+        "hint": "Mantenha o momentum.",
+        "correctAnswer": "b",
+        "bookExample": "Sempre termine com: \"Há mais alguém que eu deveria conversar sobre isso? Alguém que entende melhor esse problema?\""
+      },
+      {
+        "id": "6",
+        "question": "Por que \"Há mais alguma coisa que eu deveria ter perguntado?\" é poderosa?",
+        "options": [
+          { "value": "a", "label": "Porque é educado" },
+          { "value": "b", "label": "Porque revela insights que você não sabia que deveria buscar" },
+          { "value": "c", "label": "Porque encerra a conversa bem" },
+          { "value": "d", "label": "Porque é fácil de responder" }
+        ],
+        "explanation": "Esta pergunta revela insights que você não sabia que deveria buscar. As pessoas frequentemente têm informações valiosas que não compartilharam porque não foram perguntadas.",
+        "hint": "Perguntas abertas revelam o desconhecido.",
+        "correctAnswer": "b",
+        "bookExample": "Muitas vezes a pessoa diz \"Boa pergunta! Você deveria falar com o João, ele lidou com isso no ano passado e descobriu coisas incríveis.\""
+      },
+      {
+        "id": "7",
+        "question": "Como agradecer por ajuda recebida?",
+        "options": [
+          { "value": "a", "label": "Apenas diga obrigado" },
+          { "value": "b", "label": "Agradeça especificamente e atualize sobre resultados" },
+          { "value": "c", "label": "Não agradeça - é esperado" },
+          { "value": "d", "label": "Agradeça genericamente" }
+        ],
+        "explanation": "Agradeça especificamente e atualize sobre resultados. Isso mostra que você valoriza a ajuda e cria um ciclo positivo de mais ajuda no futuro.",
+        "hint": "Agradecimento específico cria mais ajuda.",
+        "correctAnswer": "b",
+        "bookExample": "Envie um email: \"Oi João, consegui falar com a Maria que você me indicou. Descobri que [insight específico]. Muito obrigado pela conexão!\""
+      },
+      {
+        "id": "8",
+        "question": "Qual é o erro comum ao pedir ajuda?",
+        "options": [
+          { "value": "a", "label": "Ser muito específico" },
+          { "value": "b", "label": "Ser vago sobre o que você precisa" },
+          { "value": "c", "label": "Agradecer demais" },
+          { "value": "d", "label": "Ser muito educado" }
+        ],
+        "explanation": "Ser vago sobre o que você precisa é o erro comum. As pessoas querem te ajudar, mas precisam saber exatamente como podem ser úteis.",
+        "hint": "Especificidade é crucial.",
+        "correctAnswer": "b",
+        "bookExample": "Ruim: \"Preciso de ajuda com minha startup.\" Bom: \"Estou tentando entender como gerentes de equipes remotas lidam com fusos horários. Você conhece alguém que gerencia equipes globais?\""
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Conversas Frias",
+    "conclusionMessage": "Você completou a décima quarta microlição sobre conversas frias. Agora você sabe como transformar interações frias em conexões valiosas e criar um efeito bola de neve de introduções.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o objetivo das conversas frias segundo o livro?",
+        "options": [
+          { "value": "a", "label": "Vender imediatamente" },
+          { "value": "b", "label": "Parar de tê-las e gerar introduções calorosas" },
+          { "value": "c", "label": "Construir relacionamentos" },
+          { "value": "d", "label": "Validar o mercado" }
+        ],
+        "explanation": "O objetivo das conversas frias é parar de tê-las. Use as primeiras para gerar introduções calorosas e criar um efeito bola de neve.",
+        "hint": "Pense no longo prazo: como transformar frio em quente?",
+        "correctAnswer": "b",
+        "bookExample": "Cada cold call bem feito deve gerar 2-3 introduções quentes, criando um sistema onde você raramente precisa fazer cold calls no futuro."
+      },
+      {
+        "id": "2",
+        "question": "Como criar introduções calorosas segundo Rob Fitzpatrick?",
+        "options": [
+          { "value": "a", "label": "Peça ajuda a contatos, conselheiros, professores ou investidores" },
+          { "value": "b", "label": "Use apenas redes sociais" },
+          { "value": "c", "label": "Fique mandando cold email em massa" },
+          { "value": "d", "label": "Espere as pessoas te encontrarem" }
+        ],
+        "explanation": "Crie introduções calorosas: Peça ajuda a contatos, conselheiros da indústria, professores universitários ou investidores.",
+        "hint": "Use sua rede existente para abrir portas.",
+        "correctAnswer": "a",
+        "bookExample": "Email para professor: \"Oi Prof. Silva, estou estudando como gerentes de produto priorizam features. Você conhece algum ex-aluno que eu poderia conversar?\""
+      },
+      {
+        "id": "3",
+        "question": "Qual é a melhor abordagem para uma conversa fria inicial?",
+        "options": [
+          { "value": "a", "label": "Vender imediatamente" },
+          { "value": "b", "label": "Focar em aprender e pedir ajuda, não vender" },
+          { "value": "c", "label": "Falar sobre seu produto" },
+          { "value": "d", "label": "Pedir dinheiro" }
+        ],
+        "explanation": "Foque em aprender e pedir ajuda, não vender. As pessoas são mais propensas a ajudar do que a serem vendidas para.",
+        "hint": "Ajuda primeiro, vendas depois.",
+        "correctAnswer": "b",
+        "bookExample": "Cold call: \"Oi, estou aprendendo sobre desafios em [problema específico]. Você tem 15 minutos para compartilhar sua experiência? Estou perdido e sua perspectiva seria valiosa.\""
+      },
+      {
+        "id": "4",
+        "question": "Como transformar uma conversa fria em quente?",
+        "options": [
+          { "value": "a", "label": "Falando sobre seu produto" },
+          { "value": "b", "label": "Fazendo perguntas boas e mostrando genuíno interesse nelas" },
+          { "value": "c", "label": "Sendo muito persistente" },
+          { "value": "d", "label": "Oferecendo descontos" }
+        ],
+        "explanation": "Faça perguntas boas e mostre genuíno interesse nas respostas. Isso cria conexão e transforma uma interação fria em uma conversa valiosa.",
+        "hint": "Interesse genuíno cria conexão.",
+        "correctAnswer": "b",
+        "bookExample": "Em vez de \"Posso te vender X?\", pergunte \"Como você está lidando com [problema] atualmente? Me conta sobre a última vez que isso foi difícil.\""
+      },
+      {
+        "id": "5",
+        "question": "Qual é o erro comum em conversas frias que o livro destaca?",
+        "options": [
+          { "value": "a", "label": "Ser muito curto" },
+          { "value": "b", "label": "Falar demais sobre seu produto ou ideia" },
+          { "value": "c", "label": "Fazer muitas perguntas" },
+          { "value": "d", "label": "Ser muito específico" }
+        ],
+        "explanation": "O erro comum é falar demais sobre seu produto ou ideia. Foque em ouvir e aprender sobre eles, não em apresentar sua solução.",
+        "hint": "Ouça mais, fale menos.",
+        "correctAnswer": "b",
+        "bookExample": "Ruim: \"Tenho este produto incrível que resolve X, Y e Z...\" Bom: \"Estou tentando entender como você lida com X. Me conta sobre sua experiência.\""
+      },
+      {
+        "id": "6",
+        "question": "Como preparar para uma conversa fria segundo o livro?",
+        "options": [
+          { "value": "a", "label": "Pratique seu pitch de vendas" },
+          { "value": "b", "label": "Pesquise a pessoa e prepare perguntas específicas sobre eles" },
+          { "value": "c", "label": "Prepare apresentações" },
+          { "value": "d", "label": "Memorize estatísticas do mercado" }
+        ],
+        "explanation": "Pesquise a pessoa e prepare perguntas específicas sobre eles. Mostrar que você fez lição de casa demonstra respeito e aumenta chances de sucesso.",
+        "hint": "Preparação mostra respeito.",
+        "correctAnswer": "b",
+        "bookExample": "Veja no LinkedIn que eles trabalham com equipes remotas: \"Vi que você gerencia equipes distribuídas. Como você lida com o desafio de fusos horários?\""
+      },
+      {
+        "id": "7",
+        "question": "Como manter relacionamentos após uma conversa fria?",
+        "options": [
+          { "value": "a", "label": "Mandar emails de vendas regularmente" },
+          { "value": "b", "label": "Agradecer, compartilhar resultados e manter contato com valor" },
+          { "value": "c", "label": "Esperar eles entrarem em contato" },
+          { "value": "d", "label": "Adicionar no LinkedIn e esquecer" }
+        ],
+        "explanation": "Agradeça, compartilhe resultados e mantenha contato com valor. Relacionamentos são construídos com tempo e troca de valor.",
+        "hint": "Relacionamentos precisam de manutenção.",
+        "correctAnswer": "b",
+        "bookExample": "Email de follow-up: \"Oi Ana, muito obrigado pela conversa de ontem. Descobri que 3 outros gerentes têm o mesmo problema que você mencionou. Posso compartilhar o que aprendi?\""
+      },
+      {
+        "id": "8",
+        "question": "Como escalar suas conversas frias ao longo do tempo?",
+        "options": [
+          { "value": "a", "label": "Fazer mais cold calls por dia" },
+          { "value": "b", "label": "Transformar cada conversa fria em 2-3 introduções quentes" },
+          { "value": "c", "label": "Comprar listas de emails maiores" },
+          { "value": "d", "label": "Contratar mais pessoas para fazer cold calls" }
+        ],
+        "explanation": "Transforme cada conversa fria em 2-3 introduções quentes. Isso cria crescimento exponencial em vez de linear.",
+        "hint": "Exponencial > Linear.",
+        "correctAnswer": "b",
+        "bookExample": "Meta: cada cold call gera 2 introduções. Em 5 gerações, você tem 32 conversas quentes de uma única cold call original."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Estratégias de Conexão",
+    "conclusionMessage": "Você completou a décima quinta microlição sobre estratégias de conexão. Agora você domina o mnemônico VFWPA e sabe como estruturar pedidos de reunião eficazes.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o mnemônico para estruturar o pedido de reunião?",
+        "options": [
+          { "value": "a", "label": "VFWPA - Vision, Framing, Weakness, Pedestal, Ask" },
+          { "value": "b", "label": "PSBA - Problem, Solution, Benefits, Ask" },
+          { "value": "c", "label": "PASA - Problem, Ask, Solution, Action" },
+          { "value": "d", "label": "SPSA - Solution, Problem, Solution, Ask" }
+        ],
+        "explanation": "Mnemônico VFWPA - Vision (como você está tornando o mundo melhor), Framing (em que estágio você está e o que procura), Weakness (onde você precisa de ajuda específica), Pedestal (por que a ajuda deles é particularmente valiosa), Ask (peça ajuda de forma clara).",
+        "hint": "Memorize a sequência que mostra valor e necessidade.",
+        "correctAnswer": "a",
+        "bookExample": "Email: \"Vision: Estou construindo X para tornar Y melhor. Framing: Estou no estágio de pesquisa. Weakness: Preciso entender Z. Pedestal: Você é especialista em Z. Ask: Posso te ligar por 15 min?\""
+      },
+      {
+        "id": "2",
+        "question": "O que é \"Vision\" no mnemônico VFWPA?",
+        "options": [
+          { "value": "a", "label": "Como você está tornando o mundo melhor" },
+          { "value": "b", "label": "Qual é o seu problema" },
+          { "value": "c", "label": "Qual é a sua solução" },
+          { "value": "d", "label": "Quem você é" }
+        ],
+        "explanation": "Vision: Como você está tornando o mundo melhor. Isso mostra o impacto positivo do seu trabalho.",
+        "hint": "Comece com o propósito maior.",
+        "correctAnswer": "a",
+        "bookExample": "\"Estou trabalhando para tornar mais fácil para pequenas empresas gerenciarem suas finanças sem precisar de contador.\""
+      },
+      {
+        "id": "3",
+        "question": "O que é \"Framing\" no mnemônico VFWPA?",
+        "options": [
+          { "value": "a", "label": "Em que estágio você está e o que procura" },
+          { "value": "b", "label": "Qual é o seu problema" },
+          { "value": "c", "label": "Qual é a sua solução" },
+          { "value": "d", "label": "Quem você é" }
+        ],
+        "explanation": "Framing: Em que estágio você está e o que procura. Isso dá contexto sobre onde você está no seu processo.",
+        "hint": "Contextualize sua posição atual.",
+        "correctAnswer": "a",
+        "bookExample": "\"Estou no estágio de pesquisa, tentando entender quais são os maiores desafios que gerentes de equipe remota enfrentam com comunicação.\""
+      },
+      {
+        "id": "4",
+        "question": "O que é \"Weakness\" no mnemônico VFWPA?",
+        "options": [
+          { "value": "a", "label": "Onde você precisa de ajuda específica" },
+          { "value": "b", "label": "Quais são seus pontos fortes" },
+          { "value": "c", "label": "Quais são seus objetivos" },
+          { "value": "d", "label": "Quais são seus recursos" }
+        ],
+        "explanation": "Weakness: Mostre onde você precisa de ajuda específica. Isso mostra vulnerabilidade e necessidade.",
+        "hint": "Mostre vulnerabilidade para criar conexão.",
+        "correctAnswer": "a",
+        "bookExample": "\"Estou particularmente perdido em entender como grandes equipes lidam com fusos horários diferentes. Não consigo encontrar bons dados sobre isso.\""
+      },
+      {
+        "id": "5",
+        "question": "O que é \"Pedestal\" no mnemônico VFWPA?",
+        "options": [
+          { "value": "a", "label": "Por que a ajuda deles é particularmente valiosa" },
+          { "value": "b", "label": "Por que você é importante" },
+          { "value": "c", "label": "Por que o problema é importante" },
+          { "value": "d", "label": "Por que a solução é importante" }
+        ],
+        "explanation": "Pedestal: Explique por que a ajuda deles é particularmente valiosa. Isso flata a pessoa e mostra que você valoriza sua expertise.",
+        "hint": "Faça a pessoa se sentir especial e útil.",
+        "correctAnswer": "a",
+        "bookExample": "\"Vi que você gerencia uma equipe global na Microsoft - exatamente o tipo de experiência que preciso entender melhor.\""
+      },
+      {
+        "id": "6",
+        "question": "O que é \"Ask\" no mnemônico VFWPA?",
+        "options": [
+          { "value": "a", "label": "Peça ajuda de forma clara e específica" },
+          { "value": "b", "label": "Pergunte sobre o problema" },
+          { "value": "c", "label": "Pergunte sobre a solução" },
+          { "value": "d", "label": "Pergunte sobre o mercado" }
+        ],
+        "explanation": "Ask: Peça ajuda de forma clara e específica. Seja direto sobre o que você precisa e por que.",
+        "hint": "Seja direto e específico em seu pedido.",
+        "correctAnswer": "a",
+        "bookExample": "\"Posso te ligar por 15 minutos na próxima semana para perguntar sobre 3 coisas específicas sobre como sua equipe lida com comunicação assíncrona?\""
+      },
+      {
+        "id": "7",
+        "question": "Por que mostrar vulnerabilidade ao pedir ajuda funciona?",
+        "options": [
+          { "value": "a", "label": "Porque as pessoas gostam de ver fraqueza" },
+          { "value": "b", "label": "Porque cria conexão humana e torna mais fácil ajudar" },
+          { "value": "c", "label": "Porque mostra que você é honesto" },
+          { "value": "d", "label": "Porque é esperado" }
+        ],
+        "explanation": "Mostrar vulnerabilidade cria conexão humana e torna mais fácil para as pessoas se conectarem e quererem ajudar.",
+        "hint": "Vulnerabilidade cria conexão.",
+        "correctAnswer": "b",
+        "bookExample": "\"Estou particularmente perdido em...\" é muito mais efetivo que \"Estou construendo uma solução revolucionária...\""
+      },
+      {
+        "id": "8",
+        "question": "Como aplicar VFWPA na prática?",
+        "options": [
+          { "value": "a", "label": "Use sempre exatamente na mesma ordem" },
+          { "value": "b", "label": "Use como guia flexível, adapte à conversa natural" },
+          { "value": "c", "label": "Use apenas partes dele" },
+          { "value": "d", "label": "Memorize como script rígido" }
+        ],
+        "explanation": "Use VFWPA como guia flexível, adapte à conversa natural. A estrutura é um guia, não uma fórmula rígida.",
+        "hint": "Estrutura é guia, não prisão.",
+        "correctAnswer": "b",
+        "bookExample": "Email completo: \"Vision: Estou trabalhando emX. Framing: Estou no estágio de pesquisa. Weakness: Perdido sobre Y. Pedestal: Você é especialista. Ask: Posso te ligar 15min?\""
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Estrutura do Pedido - VFWPA",
+    "conclusionMessage": "Você completou a décima sexta microlição sobre estrutura do pedido. Agora domina o mnemônico VFWPA e sabe como estruturar pedidos de ajuda eficazes.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o mnemônico VFWPA para pedir reuniões?",
+        "options": [
+          { "value": "a", "label": "Vision, Framing, Weakness, Pedestal, Ask" },
+          { "value": "b", "label": "Problem, Solution, Benefits, Ask" },
+          { "value": "c", "label": "Introduction, Problem, Solution, Action" },
+          { "value": "d", "label": "Context, Question, Answer, Follow-up" }
+        ],
+        "explanation": "VFWPA é o mnemônico do livro: Vision (como você está tornando o mundo melhor), Framing (em que estágio você está), Weakness (onde precisa de ajuda), Pedestal (por que a ajuda deles é valiosa), Ask (peça ajuda claramente).",
+        "hint": "Memorize a sequência que mostra valor e necessidade.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "2",
+        "question": "O que é \"Vision\" no mnemônico VFWPA?",
+        "options": [
+          { "value": "a", "label": "Como você está tornando o mundo melhor" },
+          { "value": "b", "label": "Qual é o seu problema" },
+          { "value": "c", "label": "Qual é a sua solução" },
+          { "value": "d", "label": "Quem você é" }
+        ],
+        "explanation": "Vision: Como você está tornando o mundo melhor. Isso mostra o impacto positivo do seu trabalho e dá contexto ao seu pedido.",
+        "hint": "Comece com o propósito maior.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "3",
+        "question": "O que é \"Framing\" no VFWPA?",
+        "options": [
+          { "value": "a", "label": "Em que estágio você está e o que procura" },
+          { "value": "b", "label": "Qual é o seu problema" },
+          { "value": "c", "label": "Qual é a sua solução" },
+          { "value": "d", "label": "Quem você é" }
+        ],
+        "explanation": "Framing: Em que estágio você está e o que procura. Isso dá contexto sobre onde você está no processo e o que está tentando aprender.",
+        "hint": "Contextualize sua posição atual.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "4",
+        "question": "O que é \"Weakness\" no VFWPA?",
+        "options": [
+          { "value": "a", "label": "Onde você precisa de ajuda específica" },
+          { "value": "b", "label": "Quais são seus pontos fortes" },
+          { "value": "c", "label": "Quais são seus objetivos" },
+          { "value": "d", "label": "Quais são seus recursos" }
+        ],
+        "explanation": "Weakness: Mostre onde você precisa de ajuda específica. Isso mostra vulnerabilidade e cria conexão humana.",
+        "hint": "Mostre vulnerabilidade para criar conexão.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "5",
+        "question": "O que é \"Pedestal\" no VFWPA?",
+        "options": [
+          { "value": "a", "label": "Por que a ajuda deles é particularmente valiosa" },
+          { "value": "b", "label": "Por que você é importante" },
+          { "value": "c", "label": "Por que o problema é importante" },
+          { "value": "d", "label": "Por que a solução é importante" }
+        ],
+        "explanation": "Pedestal: Explique por que a ajuda deles é particularmente valiosa. Isso flata a pessoa e mostra que você reconhece expertise única deles.",
+        "hint": "Faça a pessoa se sentir especial e útil.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "6",
+        "question": "O que é \"Ask\" no VFWPA?",
+        "options": [
+          { "value": "a", "label": "Peça ajuda de forma clara e específica" },
+          { "value": "b", "label": "Pergunte sobre o problema" },
+          { "value": "c", "label": "Pergunte sobre a solução" },
+          { "value": "d", "label": "Pergunte sobre o mercado" }
+        ],
+        "explanation": "Ask: Peça ajuda de forma clara e específica. Seja direto sobre o que você precisa e por que.",
+        "hint": "Seja direto e específico em seu pedido.",
+        "correctAnswer": "a"
+      },
+      {
+        "id": "7",
+        "question": "Por que mostrar vulnerabilidade ao pedir ajuda funciona?",
+        "options": [
+          { "value": "a", "label": "Porque as pessoas gostam de ver fraqueza" },
+          { "value": "b", "label": "Porque cria conexão humana e torna mais fácil ajudar" },
+          { "value": "c", "label": "Porque mostra que você é honesto" },
+          { "value": "d", "label": "Porque é esperado" }
+        ],
+        "explanation": "Mostrar vulnerabilidade cria conexão humana e torna mais fácil para as pessoas se conectarem e quererem ajudar.",
+        "hint": "Vulnerabilidade cria conexão.",
+        "correctAnswer": "b"
+      },
+      {
+        "id": "8",
+        "question": "Como aplicar VFWPA na prática?",
+        "options": [
+          { "value": "a", "label": "Use sempre exatamente na mesma ordem" },
+          { "value": "b", "label": "Use como guia flexível, adapte à conversa natural" },
+          { "value": "c", "label": "Use apenas partes dele" },
+          { "value": "d", "label": "Memorize como script rígido" }
+        ],
+        "explanation": "Use VFWPA como guia flexível, adapte à conversa natural. A estrutura é um guia, não uma fórmula rígida.",
+        "hint": "Estrutura é guia, não prisão.",
+        "correctAnswer": "b"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Finalizando o Pedido",
+    "conclusionMessage": "Você completou a décima sétima microlição sobre finalização do pedido. Agora você domina como fazer pedidos claros e eficazes que aumentam as chances de receber ajuda valiosa.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é \"Pedestal\" no mnemônico VFWPA?",
+        "options": [
+          { "value": "a", "label": "Por que a ajuda deles é particularmente valiosa" },
+          { "value": "b", "label": "Por que você é importante" },
+          { "value": "c", "label": "Por que o problema é importante" },
+          { "value": "d", "label": "Por que a solução é importante" }
+        ],
+        "explanation": "Pedestal: Explique por que a ajuda deles é particularmente valiosa. Isso flata a pessoa e mostra que você valoriza sua expertise.",
+        "hint": "Faça a pessoa se sentir especial e útil.",
+        "correctAnswer": "a",
+        "bookExample": "\"Vi que você gerencia uma equipe global na Microsoft - exatamente o tipo de experiência que preciso entender melhor.\""
+      },
+      {
+        "id": "2",
+        "question": "O que é \"Ask\" no mnemônico VFWPA?",
+        "options": [
+          { "value": "a", "label": "Peça ajuda de forma clara" },
+          { "value": "b", "label": "Pergunte sobre o problema" },
+          { "value": "c", "label": "Pergunte sobre a solução" },
+          { "value": "d", "label": "Pergunte sobre o mercado" }
+        ],
+        "explanation": "Ask: Peça ajuda de forma clara. Seja específico sobre o que você precisa.",
+        "hint": "Seja direto e específico em seu pedido.",
+        "correctAnswer": "a",
+        "bookExample": "\"Posso te ligar por 15 minutos na próxima semana para perguntar sobre 3 coisas específicas sobre como sua equipe lida com comunicação assíncrona?\""
+      },
+      {
+        "id": "3",
+        "question": "Como fazer um pedido claro e eficaz?",
+        "options": [
+          { "value": "a", "label": "Seja vago para dar liberdade" },
+          { "value": "b", "label": "Seja específico sobre o que, por que e até quando" },
+          { "value": "c", "label": "Tornar o mais grande possível" },
+          { "value": "d", "label": "Não seja muito direto" }
+        ],
+        "explanation": "Seja específico sobre o que você precisa, por que precisa e até quando. Isso torna mais fácil para as pessoas te ajudarem e aumenta as chances de sucesso.",
+        "hint": "Clareza gera ação.",
+        "correctAnswer": "b",
+        "bookExample": "\"Posso te ligar por 15 minutos na terça ou quarta da próxima semana para te fazer 3 perguntas específicas sobre como você gerencia fusos horários?\""
+      },
+      {
+        "id": "4",
+        "question": "Por que é importante explicar por que a ajuda de alguém é única?",
+        "options": [
+          { "value": "a", "label": "Para flatar a pessoa" },
+          { "value": "b", "label": "Para mostrar que você reconhece o valor específico que eles trazem" },
+          { "value": "c", "label": "Para manipular" },
+          { "value": "d", "label": "Porque é esperado" }
+        ],
+        "explanation": "Mostrar que você reconhece o valor específico que eles trazem demonstra que não é um pedido genérico e que você valoriza expertise única deles.",
+        "hint": "Valor específico cria conexão real.",
+        "correctAnswer": "b",
+        "bookExample": "\"Você é especialmente qualificado para me ajudar porque gerencia a maior equipe remota que já vi - exatamente o que preciso entender.\""
+      },
+      {
+        "id": "5",
+        "question": "Como lidar com pedidos de ajuda recusados?",
+        "options": [
+          { "value": "a", "label": "Insista até conseguir" },
+          { "value": "b", "label": "Aceite graciosamente e pergunte por referências" },
+          { "value": "c", "label": "Fique chateado" },
+          { "value": "d", "label": "Pare de falar com a pessoa" }
+        ],
+        "explanation": "Aceite graciosamente e pergunte por referências. Uma recusa direta pode ainda levar a ajuda indireta através de introduções.",
+        "hint": "Graciosidade mantém portas abertas.",
+        "correctAnswer": "b",
+        "bookExample": "\"Entendo perfeitamente! Você conhece alguém que tenha lidado com esse desafio que eu poderia conversar?\""
+      },
+      {
+        "id": "6",
+        "question": "Qual é o erro comum ao fazer o pedido final?",
+        "options": [
+          { "value": "a", "label": "Ser muito claro" },
+          { "value": "b", "label": "Ser vago sobre o que precisa" },
+          { "value": "c", "label": "Agradecer" },
+          { "value": "d", "label": "Ser específico" }
+        ],
+        "explanation": "Ser vago sobre o que precisa é o erro comum. Pessoas ocupadas precisam de clareza para poder ajudar eficientemente.",
+        "hint": "Vagueza mata ajuda.",
+        "correctAnswer": "b",
+        "bookExample": "Ruim: \"Posso te fazer umas perguntas?\" Bom: \"Posso te ligar por 15 min para te fazer 3 perguntas sobre X na terça ou quarta?\""
+      },
+      {
+        "id": "7",
+        "question": "Como tornar seu pedido mais fácil de aceitar?",
+        "options": [
+          { "value": "a", "label": "Tornar o mais grande possível" },
+          { "value": "b", "label": "Quebrar em partes menores e gerenciáveis" },
+          { "value": "c", "label": "Adicionar complexidade" },
+          { "value": "d", "label": "Não dar opções" }
+        ],
+        "explanation": "Quebre em partes menores e gerenciáveis. Isso reduz a barreira para ajudar e aumenta as chances de as pessoas dizerem sim.",
+        "hint": "Menor é mais fácil.",
+        "correctAnswer": "b",
+        "bookExample": "\"15 minutos para 3 perguntas\" é melhor que \"Uma hora para conversar sobre várias coisas\""
+      },
+      {
+        "id": "8",
+        "question": "O que fazer após fazer um pedido?",
+        "options": [
+          { "value": "a", "label": "Espere" },
+          { "value": "b", "label": "Siga com gratidão e mantenha contato sobre progresso" },
+          { "value": "c", "label": "Esqueça e siga em frente" },
+          { "value": "d", "label": "Peça mais" }
+        ],
+        "explanation": "Siga com gratidão e mantenha contato sobre progresso. Isso mostra que você valoriza a ajuda e constrói relacionamentos para o futuro.",
+        "hint": "Seguimento constrói relacionamentos.",
+        "correctAnswer": "b",
+        "bookExample": "Email: \"Oi Ana, consegui falar com o João que você me indicou. Descobri que [insight específico]. Muito obrigado pela conexão!\""
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Introduções Valiosas",
+    "conclusionMessage": "Você completou a décima oitava microlição sobre introduções valiosas. Agora você sabe como criar conexões poderosas e escalar sua rede através de introduções estratégicas.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Como criar introduções calorosas valiosas?",
+        "options": [
+          { "value": "a", "label": "Use contatos, conselheiros e investidores" },
+          { "value": "b", "label": "Use apenas redes sociais" },
+          { "value": "c", "label": "Use cold calling" },
+          { "value": "d", "label": "Espere as pessoas te procurarem" }
+        ],
+        "explanation": "Crie introduções calorosas usando sua rede de contatos, conselheiros e investidores. Cada pessoa que você conhece pode abrir portas para outras.",
+        "hint": "Sua rede é seu ativo mais valioso.",
+        "correctAnswer": "a",
+        "bookExample": "Email: \"Oi João, estou estudando como gerentes de produto priorizam features. Você conhece algum ex-aluno nosso que eu poderia conversar?\""
+      },
+      {
+        "id": "2",
+        "question": "Qual é a melhor abordagem para encontrar pessoas para conversar?",
+        "options": [
+          { "value": "a", "label": "Usar ligações frias" },
+          { "value": "b", "label": "Organizar meetups" },
+          { "value": "c", "label": "Criar introduções calorosas" },
+          { "value": "d", "label": "Todas as anteriores" }
+        ],
+        "explanation": "Estratégias para encontrar conversas incluem ir até eles (ligações frias), trazer eles até você (meetups), ou criar introduções calorosas (contatos, conselheiros).",
+        "hint": "Diversifique suas abordagens para maximizar chances.",
+        "correctAnswer": "d",
+        "bookExample": "Trifecta: Cold calls para começar, meetups para atrair, introduções para escalar."
+      },
+      {
+        "id": "3",
+        "question": "Por que introduções calorosas são mais eficazes que cold outreach?",
+        "options": [
+          { "value": "a", "label": "Porque são mais rápidas" },
+          { "value": "b", "label": "Porque vêm com confiança pré-estabelecida e validação social" },
+          { "value": "c", "label": "Porque são mais baratas" },
+          { "value": "d", "label": "Porque são mais fáceis de fazer" }
+        ],
+        "explanation": "Introduções calorosas vêm com confiança pré-estabelecida e validação social. A pessoa que faz a introdução está essencialmente vouching por você.",
+        "hint": "Confiança é a moeda mais valiosa.",
+        "correctAnswer": "b",
+        "bookExample": "\"João, conheço o Pedro há 5 anos, ele é ótimo em pesquisa de clientes. Pedro, João é ex-Google e gerencia a maior equipe remota que conheço.\""
+      },
+      {
+        "id": "4",
+        "question": "Como pedir introduções de forma eficaz?",
+        "options": [
+          { "value": "a", "label": "Peça para ser introduzido a qualquer pessoa" },
+          { "value": "b", "label": "Seja específico sobre quem você quer conhecer e por quê" },
+          { "value": "c", "label": "Não peça - espere oferecerem" },
+          { "value": "d", "label": "Peça muitas de uma vez" }
+        ],
+        "explanation": "Seja específico sobre quem você quer conhecer e por quê. Isso torna mais fácil para as pessoas te ajudarem e resulta em introduções mais valiosas.",
+        "hint": "Especificidade gera melhores resultados.",
+        "correctAnswer": "b",
+        "bookExample": "Ruim: \"Conhece alguém em vendas?\" Bom: \"Conhece alguém que gerencia equipes de vendas B2B com +10 pessoas? Estou estudando como eles treinam novos vendedores.\""
+      },
+      {
+        "id": "5",
+        "question": "O que fazer após receber uma introdução?",
+        "options": [
+          { "value": "a", "label": "Entre em contato imediatamente" },
+          { "value": "b", "label": "Agradeça ao conector, respeite o timing e mantenha ambos informados" },
+          { "value": "c", "label": "Espere uma semana" },
+          { "value": "d", "label": "Apenas agradeça e siga em frente" }
+        ],
+        "explanation": "Agradeça ao conector, respeite o timing e mantenha ambos informados. Isso mostra respeito e constrói relacionamentos com todos os envolvidos.",
+        "hint": "Respeite a rede.",
+        "correctAnswer": "b",
+        "bookExample": "Email: \"Oi João, muito obrigado pela conexão com Maria! Vou entrar em contato na próxima semana e te mantenho informado sobre como foi.\""
+      },
+      {
+        "id": "6",
+        "question": "Como manter sua rede de introduções ativa?",
+        "options": [
+          { "value": "a", "label": "Peça introduções constantemente" },
+          { "value": "b", "label": "Retribua favores, agradeça e mantenha contato com valor" },
+          { "value": "c", "label": "Apenas use quando precisar" },
+          { "value": "d", "label": "Esqueça até precisar novamente" }
+        ],
+        "explanation": "Retribua favores, agradeça e mantenha contato com valor. Redes precisam de manutenção e troca mútua para permanecerem fortes.",
+        "hint": "Redes precisam de manutenção.",
+        "correctAnswer": "b",
+        "bookExample": "Compartilhe insights: \"Oi João, lembrei de você quando descobri que 3 gerentes têm o mesmo desafio que você mencionou. Posso compartilhar o que aprendi?\""
+      },
+      {
+        "id": "7",
+        "question": "Qual é o erro comum ao pedir introduções?",
+        "options": [
+          { "value": "a", "label": "Ser muito específico" },
+          { "value": "b", "label": "Ser vago sobre quem você quer conhecer" },
+          { "value": "c", "label": "Agradecer demais" },
+          { "value": "d", "label": "Ser muito educado" }
+        ],
+        "explanation": "Ser vago sobre quem você quer conhecer torna difícil para as pessoas te ajudarem. Especificidade é crucial para introduções valiosas.",
+        "hint": "Especificidade é chave.",
+        "correctAnswer": "b",
+        "bookExample": "Ruim: \"Conhece alguém em tecnologia?\" Bom: \"Conhece alguém que lidera transformação digital em empresas tradicionais?\""
+      },
+      {
+        "id": "8",
+        "question": "Como escalar suas introduções ao longo do tempo?",
+        "options": [
+          { "value": "a", "label": "Peça mais introduções de cada pessoa" },
+          { "value": "b", "label": "Crie um efeito bola de neve: cada nova conexão pode gerar mais introduções" },
+          { "value": "c", "label": "Foque apenas em poucas pessoas" },
+          { "value": "d", "label": "Espere as pessoas te procurarem" }
+        ],
+        "explanation": "Crie um efeito bola de neve: cada nova conexão pode gerar múltiplas introduções. Isso crescimento exponencial em vez de linear.",
+        "hint": "Bola de neve cresce exponencialmente.",
+        "correctAnswer": "b",
+        "bookExample": "Meta: cada introdução gera 2 novas. Em 5 gerações, você tem 32 conversas de uma única introdução original."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Domínio do The Mom Test",
+    "conclusionMessage": "Parabéns! Você completou todas as microlições e dominou The Mom Test! Agora você sabe como fazer perguntas que geram insights reais, evitar dados ruins e criar um sistema de conexões valiosas. Continue praticando!",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o objetivo final das estratégias de conexão do livro?",
+        "options": [
+          { "value": "a", "label": "Ter muitos clientes" },
+          { "value": "b", "label": "Parar de ter conversas frias e criar sistema de introduções" },
+          { "value": "c", "label": "Ser famoso" },
+          { "value": "d", "label": "Vender imediatamente" }
+        ],
+        "explanation": "O objetivo final é parar de ter conversas frias. Crie um sistema onde as pessoas te procuram ou são apresentadas por alguém de confiança.",
+        "hint": "Quente é melhor que frio no longo prazo.",
+        "correctAnswer": "b",
+        "bookExample": "O sistema ideal: você raramente precisa fazer cold outreach porque tem uma rede de introduções que funciona automaticamente."
+      },
+      {
+        "id": "2",
+        "question": "Como transformar conversas frias em quentes segundo o livro?",
+        "options": [
+          { "value": "a", "label": "Use as primeiras para gerar introduções e criar efeito bola de neve" },
+          { "value": "b", "label": "Use apenas cold calling" },
+          { "value": "c", "label": "Espere as pessoas te encontrarem" },
+          { "value": "d", "label": "Use apenas anúncios" }
+        ],
+        "explanation": "Use as primeiras conversas frias para gerar introduções calorosas e criar um efeito bola de neve. Cada conversa pode levar a muitas outras.",
+        "hint": "Transforme frio em quente com introduções.",
+        "correctAnswer": "a",
+        "bookExample": "Cada cold call bem feito gera 2-3 introduções. Em 3 gerações, você tem 8-27 conversas quentes de uma cold call original."
+      },
+      {
+        "id": "3",
+        "question": "Por que o efeito bola de neve de introduções é poderoso?",
+        "options": [
+          { "value": "a", "label": "Porque é rápido" },
+          { "value": "b", "label": "Porque cresce exponencialmente - cada nova conexão pode gerar múltiplas introduções" },
+          { "value": "c", "label": "Porque é fácil" },
+          { "value": "d", "label": "Porque não requer esforço" }
+        ],
+        "explanation": "O efeito bola de neve é poderoso porque cresce exponencialmente. Cada nova conexão pode gerar múltiplas introduções, criando crescimento acelerado.",
+        "hint": "Exponencial > Linear.",
+        "correctAnswer": "b",
+        "bookExample": "1 → 3 → 9 → 27 introduções. Cada nível cresce exponencialmente, não linearmente."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o erro comum ao tentar criar efeito bola de neve?",
+        "options": [
+          { "value": "a", "label": "Ser muito paciente" },
+          { "value": "b", "label": "Focar apenas em si mesmo e esquecer de retribuir" },
+          { "value": "c", "label": "Ser muito generoso" },
+          { "value": "d", "label": "Agradecer demais" }
+        ],
+        "explanation": "Focar apenas em si mesmo e esquecer de retribuir mata o efeito bola de neve. Redes são sobre troca mútua, não apenas receber.",
+        "hint": "Redes são bidirecionais.",
+        "correctAnswer": "b",
+        "bookExample": "Se você sempre pede mas nunca retribui ou agradece adequadamente, as pessoas param de te ajudar."
+      },
+      {
+        "id": "5",
+        "question": "Como manter o momentum do efeito bola de neve?",
+        "options": [
+          { "value": "a", "label": "Peça mais introduções de cada pessoa" },
+          { "value": "b", "label": "Agradeça, retribua e mantenha relacionamentos fortes com quem te conectou" },
+          { "value": "c", "label": "Foque apenas em novas conexões" },
+          { "value": "d", "label": "Peça mais do que você dá" }
+        ],
+        "explanation": "Agradeça, retribua e mantenha relacionamentos fortes com quem te conectou. Relacionamentos duradouros sustentam o crescimento exponencial.",
+        "hint": "Relacionamentos sustentam crescimento.",
+        "correctAnswer": "b",
+        "bookExample": "Sempre retribua: compartilhe insights, faça introduções úteis para outros, mantenha contato com valor."
+      },
+      {
+        "id": "6",
+        "question": "Como medir sucesso real do seu efeito bola de neve?",
+        "options": [
+          { "value": "a", "label": "Número de cartões de visita coletados" },
+          { "value": "b", "label": "Qualidade das introduções e relações construídas" },
+          { "value": "c", "label": "Quantidade de conexões no LinkedIn" },
+          { "value": "d", "label": "Tempo gasto em networking" }
+        ],
+        "explanation": "Meça a qualidade das introduções e relações construídas, não apenas quantidade. Introduções valiosas são melhores que muitas conexões superficiais.",
+        "hint": "Qualidade > Quantidade.",
+        "correctAnswer": "b",
+        "bookExample": "3 introduções para CEOs que te abrem portas > 30 conexões superficiais no LinkedIn."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o mindset correto para escalar conexões segundo o livro?",
+        "options": [
+          { "value": "a", "label": "O que posso ganhar?" },
+          { "value": "b", "label": "Como posso criar valor para outros para que queiram me conectar?" },
+          { "value": "c", "label": "Como posso pedir mais?" },
+          { "value": "d", "label": "Como posso fazer isso sozinho?" }
+        ],
+        "explanation": "Pense em como criar valor para outros para que queiram te conectar com mais pessoas. Valor cria conexões naturais.",
+        "hint": "Valor cria conexões.",
+        "correctAnswer": "b",
+        "bookExample": "Compartilhe insights valiosos, faça introduções úteis para outros, seja conhecido por ajudar - as pessoas naturalmente querem te conectar."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a métrica final de sucesso com The Mom Test?",
+        "options": [
+          { "value": "a", "label": "Quantidade de conversas" },
+          { "value": "b", "label": "Qualidade das conversas e insights que levam a decisões melhores" },
+          { "value": "c", "label": "Número de ideias validadas" },
+          { "value": "d", "label": "Tempo gasto conversando" }
+        ],
+        "explanation": "A métrica final é a qualidade das conversas e insights que levam a decisões melhores. Conversas bem feitas geram dados reais para tomar decisões melhores.",
+        "hint": "Qualidade gera melhores decisões.",
+        "correctAnswer": "b",
+        "bookExample": "5 conversas bem feitas que te mostram que você está no caminho errado > 50 conversas ruins que te dão falsa confiança."
+      }
+    ]
+  }
+]

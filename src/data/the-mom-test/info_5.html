@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote Caps 17-20 - O Teste da Mãe</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #388e3c; /* Verde */
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: #388e3c; /* Verde */
+            color: #fff;
+            padding: 12px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .title {
+            font-size: 56px;
+            font-weight: bold;
+            color: #1b5e20; /* Verde Escuro */
+            font-family: 'Caveat', cursive;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        
+        .subtitle {
+            font-size: 26px;
+            color: #388e3c; /* Verde */
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUT */
+        .grid-4 { /* 2x2 grid */
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        .section-17 { border-left-color: #f57c00; } /* Laranja */
+        .section-18 { border-left-color: #c2185b; } /* Rosa */
+        .section-19 { border-left-color: #1976d2; } /* Azul */
+        .section-20 { border-left-color: #388e3c; } /* Verde */
+        
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-17 .section-title { color: #f57c00; }
+        .section-18 .section-title { color: #c2185b; }
+        .section-19 .section-title { color: #1976d2; }
+        .section-20 .section-title { color: #388e3c; }
+        
+        .section-emoji {
+            font-size: 36px;
+        }
+        
+        .item {
+            font-size: 16px;
+            line-height: 1.7;
+            color: #555;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        /* SOLUTION BOX (Resumo) */
+        .solution {
+            background: linear-gradient(135deg, #e1f5fe 0%, #b3e5fc 100%); /* Azul claro */
+            border: 4px solid #0277bd; /* Azul escuro */
+            padding: 40px;
+            border-radius: 12px;
+            text-align: center;
+            margin: 40px 0;
+        }
+        
+        .solution-title {
+            font-size: 32px;
+            color: #01579b; /* Azul bem escuro */
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .solution-emoji {
+            font-size: 70px;
+            margin: 15px 0;
+        }
+        
+        .solution-text {
+            font-size: 20px;
+            color: #01579b;
+            font-weight: bold;
+        }
+        
+        .solution-sub {
+            font-size: 16px;
+            color: #0277bd;
+            margin-top: 15px;
+            font-style: italic;
+        }
+        
+        /* INSIGHT BOX */
+        .insight {
+            background: #f3e5f5; /* Roxo claro */
+            border-left: 6px solid #7b1fa2; /* Roxo */
+            padding: 35px;
+            border-radius: 10px;
+        }
+        
+        .insight-title {
+            font-size: 26px;
+            color: #7b1fa2; /* Roxo */
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .insight-text {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #555;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #7b1fa2;
+            background: rgba(123, 31, 162, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-4 {
+                grid-template-columns: 1fr;
+            }
+            
+            .title {
+                font-size: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 17-20</div>
+            <div class="title">🏁 O Veredito: Filtros Finais e a Grande Decisão</div>
+            <div class="subtitle">(Como transformar dados confusos em uma ação clara)</div>
+        </div>
+        
+        <div class="grid-4">
+            <div class="section section-17">
+                <div class="section-title">
+                    <span class="section-emoji">🔧</span>
+                    Ignore "Recursos"
+                </div>
+                <div class="item">
+                    <span class="item-label">O cliente projeta soluções</span> ("Adicione um botão!"). Pergunte <b>"Por quê?"</b> para achar o problema real por trás.
+                </div>
+            </div>
+            
+            <div class="section section-18">
+                <div class="section-title">
+                    <span class="section-emoji">❤️</span>
+                    Ignore "Amigos"
+                </div>
+                <div class="item">
+                    <span class="item-label">Amigos e família mentem</span> para te agradar. Seja 100% rigoroso e foque apenas em <b>fatos e comprometimentos</b>, não em elogios.
+                </div>
+            </div>
+
+            <div class="section section-19">
+                <div class="section-title">
+                    <span class="section-emoji">🎯</span>
+                    Foque no "Nicho"
+                </div>
+                <div class="item">
+                    <span class="item-label">Não tente agradar a todos.</span> Comece pequeno. Valide uma <b>dor aguda</b> em um grupo específico primeiro.
+                </div>
+            </div>
+            
+            <div class="section section-20">
+                <div class="section-title">
+                    <span class="section-emoji">🧭</span>
+                    Tome a "Decisão"
+                </div>
+                <div class="item">
+                    <span class="item-label">Use os fatos (não elogios!) para decidir:</span> <b>1. Seguir</b> (Continuar), <b>2. Pivotar</b> (Mudar) ou <b>3. Parar</b>.
+                </div>
+            </div>
+        </div>
+        
+        <div class="solution">
+            <div class="solution-title">✅ O OBJETIVO FINAL</div>
+            <div class="solution-emoji">📊</div>
+            <div class="solution-text">A VERDADE, NÃO A VALIDAÇÃO</div>
+            <div class="solution-sub">Seu trabalho não é provar que sua ideia é boa. É descobrir a verdade, mesmo que ela te force a pivotar ou parar.</div>
+        </div>
+        
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                O Insight Chave: O Cliente NÃO é o Designer
+            </div>
+            <div class="insight-text">
+                O cliente é o especialista no <span class="highlight">Problema</span> (o que dói).
+                <br><br>
+                Você é o especialista na <span class="highlight">Solução</span> (como consertar).
+                <br><br>
+                Nunca confunda os papéis. <span class="highlight">Ignore sugestões de recursos (Cap 17)</span> e <span class="highlight">foque na dor do nicho (Cap 19)</span>.
+            </div>
+        </div>
+    </div>
+</body>
+</html>

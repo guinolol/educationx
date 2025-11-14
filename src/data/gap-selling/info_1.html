@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote - Vendas Centrada no Problema (Cap 1-4)</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #fef9f3 0%, #fff8f0 100%);
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 30px;
+            border-bottom: 5px solid #d32f2f;
+            text-align: center;
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: linear-gradient(135deg, #d32f2f 0%, #ff6b6b 100%);
+            color: #fff;
+            padding: 15px 30px;
+            font-weight: bold;
+            font-size: 20px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 12px rgba(211, 47, 47, 0.3);
+        }
+        
+        .title {
+            font-size: 64px;
+            font-weight: bold;
+            color: #d32f2f;
+            font-family: 'Caveat', cursive;
+            margin-bottom: 15px;
+            letter-spacing: 2px;
+        }
+        
+        .subtitle {
+            font-size: 28px;
+            color: #ff6b6b;
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUT */
+        .grid-4 {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            margin-bottom: 50px;
+        }
+        
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 50px;
+        }
+        
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 25px;
+            margin-bottom: 50px;
+        }
+        
+        /* CHAPTER CARDS */
+        .chapter-card {
+            background: #fff;
+            border-left: 8px solid;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        
+        .chapter-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+        }
+        
+        .card-1 { border-left-color: #1976d2; }
+        .card-2 { border-left-color: #f57c00; }
+        .card-3 { border-left-color: #c2185b; }
+        .card-4 { border-left-color: #388e3c; }
+        
+        .card-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .card-1 .card-title { color: #1976d2; }
+        .card-2 .card-title { color: #f57c00; }
+        .card-3 .card-title { color: #c2185b; }
+        .card-4 .card-title { color: #388e3c; }
+        
+        .card-emoji {
+            font-size: 28px;
+        }
+        
+        .card-content {
+            font-size: 14px;
+            line-height: 1.6;
+            color: #666;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            margin-bottom: 30px;
+        }
+        
+        .section-1 { border-left-color: #d32f2f; }
+        .section-2 { border-left-color: #1976d2; }
+        .section-3 { border-left-color: #f57c00; }
+        
+        .section-title {
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-1 .section-title { color: #d32f2f; }
+        .section-2 .section-title { color: #1976d2; }
+        .section-3 .section-title { color: #f57c00; }
+        
+        .section-emoji {
+            font-size: 36px;
+        }
+        
+        .item {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #555;
+            margin-bottom: 15px;
+            padding-left: 25px;
+            position: relative;
+        }
+        
+        .item:before {
+            content: "→";
+            position: absolute;
+            left: 0;
+            font-weight: bold;
+            color: #ff6b6b;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        /* GAP COMPARISON */
+        .gap-container {
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            gap: 20px;
+            align-items: center;
+            margin-bottom: 40px;
+        }
+        
+        .gap-box {
+            background: #fff;
+            padding: 25px;
+            border-radius: 10px;
+            border: 3px dashed;
+            text-align: center;
+        }
+        
+        .gap-current {
+            border-color: #ff6b6b;
+            background: rgba(255, 107, 107, 0.05);
+        }
+        
+        .gap-future {
+            border-color: #4caf50;
+            background: rgba(76, 175, 80, 0.05);
+        }
+        
+        .gap-label {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .gap-current .gap-label { color: #ff6b6b; }
+        .gap-future .gap-label { color: #4caf50; }
+        
+        .gap-text {
+            font-size: 14px;
+            color: #666;
+        }
+        
+        .gap-arrow {
+            font-size: 48px;
+            color: #ff6b6b;
+            font-weight: bold;
+        }
+        
+        /* SOLUTION BOX */
+        .solution {
+            background: linear-gradient(135deg, #c8e6c9 0%, #a5d6a7 100%);
+            border: 4px solid #2e7d32;
+            padding: 40px;
+            border-radius: 12px;
+            text-align: center;
+            margin: 40px 0;
+        }
+        
+        .solution-title {
+            font-size: 32px;
+            color: #1b5e20;
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .solution-emoji {
+            font-size: 60px;
+            margin: 15px 0;
+        }
+        
+        .solution-text {
+            font-size: 20px;
+            color: #1b5e20;
+            font-weight: bold;
+        }
+        
+        /* INSIGHT BOX */
+        .insight {
+            background: #f3e5f5;
+            border-left: 6px solid #d32f2f;
+            padding: 35px;
+            border-radius: 10px;
+            margin-bottom: 40px;
+        }
+        
+        .insight-title {
+            font-size: 28px;
+            color: #d32f2f;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .insight-text {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #555;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #d32f2f;
+            background: rgba(211, 47, 47, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        
+        .key-metrics {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        
+        .metric {
+            background: #fff;
+            padding: 25px;
+            border-radius: 10px;
+            border-top: 5px solid;
+            text-align: center;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }
+        
+        .metric-1 { border-top-color: #d32f2f; }
+        .metric-2 { border-top-color: #f57c00; }
+        .metric-3 { border-top-color: #1976d2; }
+        .metric-4 { border-top-color: #388e3c; }
+        
+        .metric-number {
+            font-size: 48px;
+            font-weight: bold;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .metric-1 .metric-number { color: #d32f2f; }
+        .metric-2 .metric-number { color: #f57c00; }
+        .metric-3 .metric-number { color: #1976d2; }
+        .metric-4 .metric-number { color: #388e3c; }
+        
+        .metric-label {
+            font-size: 14px;
+            color: #666;
+            margin-top: 10px;
+        }
+        
+        .diagnostic-flow {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+            margin-bottom: 40px;
+        }
+        
+        .flow-step {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            border: 2px solid;
+            position: relative;
+        }
+        
+        .flow-step-1 { border-color: #1976d2; }
+        .flow-step-2 { border-color: #f57c00; }
+        .flow-step-3 { border-color: #c2185b; }
+        .flow-step-4 { border-color: #388e3c; }
+        
+        .flow-number {
+            font-size: 32px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .flow-step-1 .flow-number { color: #1976d2; }
+        .flow-step-2 .flow-number { color: #f57c00; }
+        .flow-step-3 .flow-number { color: #c2185b; }
+        .flow-step-4 .flow-number { color: #388e3c; }
+        
+        .flow-text {
+            font-size: 13px;
+            color: #666;
+            font-weight: 600;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-4, .grid-3, .grid-2, .diagnostic-flow, .gap-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .gap-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .gap-arrow {
+                transform: rotate(90deg);
+                margin: 10px 0;
+            }
+            
+            .title {
+                font-size: 48px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- TITLE -->
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 1️⃣-4️⃣</div>
+            <div class="title">💼 Venda Centrada no Problema</div>
+            <div class="subtitle">A Revolução em 4 Movimentos</div>
+        </div>
+
+        <!-- 4 CHAPTERS OVERVIEW -->
+        <div class="grid-4">
+            <div class="chapter-card card-1">
+                <div class="card-title">
+                    <span class="card-emoji">🎯</span>
+                    Cap 1
+                </div>
+                <div class="card-content">
+                    <strong>O Paradigma</strong><br>
+                    Diagnóstico antes da solução. 80% ouvindo, 20% falando.
+                </div>
+            </div>
+            
+            <div class="chapter-card card-2">
+                <div class="card-title">
+                    <span class="card-emoji">📏</span>
+                    Cap 2
+                </div>
+                <div class="card-content">
+                    <strong>A Lacuna</strong><br>
+                    Estado Atual vs. Estado Futuro. A diferença é o valor.
+                </div>
+            </div>
+            
+            <div class="chapter-card card-3">
+                <div class="card-title">
+                    <span class="card-emoji">❓</span>
+                    Cap 3
+                </div>
+                <div class="card-content">
+                    <strong>O Diagnóstico</strong><br>
+                    Perguntas que revelam a dor profunda do cliente.
+                </div>
+            </div>
+            
+            <div class="chapter-card card-4">
+                <div class="card-title">
+                    <span class="card-emoji">🔍</span>
+                    Cap 4
+                </div>
+                <div class="card-content">
+                    <strong>Problema vs. Sintoma</strong><br>
+                    Vá além da superfície. Encontre a causa raiz.
+                </div>
+            </div>
+        </div>
+
+        <!-- CHAPTER 1: THE PARADIGM -->
+        <div class="section section-1">
+            <div class="section-title">
+                <span class="section-emoji">🎯</span>
+                Cap 1: O Paradigma da Venda Centrada no Problema
+            </div>
+            
+            <div class="item">
+                <span class="item-label">Inverter o Modelo:</span> Deixe de ser um "apresentador de produto" e vire um "médico" que diagnostica.
+            </div>
+            
+            <div class="item">
+                <span class="item-label">O Papel do Vendedor:</span> Especialista em problemas, não especialista em produtos.
+            </div>
+            
+            <div class="item">
+                <span class="item-label">A Verdade:</span> O cliente só compra quando entende a profundidade da sua dor.
+            </div>
+        </div>
+
+        <!-- KEY INSIGHT 1 -->
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                O Segredo (Cap 1)
+            </div>
+            <div class="insight-text">
+                O cliente não compra o <span class="highlight">produto</span>. 
+                <br><br>
+                O cliente compra a <span class="highlight">solução para o problema</span>. 
+                <br><br>
+                Se o cliente não entende o problema, ele não compra a solução.
+            </div>
+        </div>
+
+        <!-- CHAPTER 2: THE GAP -->
+        <div class="section section-2">
+            <div class="section-title">
+                <span class="section-emoji">📏</span>
+                Cap 2: A Lacuna (The Gap) - O Motor da Compra
+            </div>
+        </div>
+
+        <div class="gap-container">
+            <div class="gap-box gap-current">
+                <div class="gap-label">😤 ESTADO ATUAL</div>
+                <div class="gap-text">Custos altos, ineficiência, dor, risco, frustração</div>
+            </div>
+            
+            <div class="gap-arrow">➜</div>
+            
+            <div class="gap-box gap-future">
+                <div class="gap-label">😊 ESTADO FUTURO</div>
+                <div class="gap-text">Eficiência, lucro, crescimento, tranquilidade</div>
+            </div>
+        </div>
+
+        <div class="key-metrics">
+            <div class="metric metric-1">
+                <div class="metric-number">80%</div>
+                <div class="metric-label">Tempo no Diagnóstico</div>
+            </div>
+            
+            <div class="metric metric-2">
+                <div class="metric-number">20%</div>
+                <div class="metric-label">Tempo Apresentando</div>
+            </div>
+            
+            <div class="metric metric-3">
+                <div class="metric-number">1</div>
+                <div class="metric-label">Pergunta que muda tudo</div>
+            </div>
+            
+            <div class="metric metric-4">
+                <div class="metric-number">∞</div>
+                <div class="metric-label">Valor da Lacuna</div>
+            </div>
+        </div>
+
+        <!-- KEY INSIGHT 2 -->
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                O Segredo (Cap 2)
+            </div>
+            <div class="insight-text">
+                Seu trabalho é <span class="highlight">AMPLIAR A LACUNA</span>. 
+                <br><br>
+                Aumentar a percepção da dor do Estado Atual (piora a vida sem solução) E mostrar o valor do Estado Futuro (melhora a vida com a solução).
+                <br><br>
+                <span class="highlight">Se a lacuna for pequena, o cliente não agirá.</span>
+            </div>
+        </div>
+
+        <!-- CHAPTER 3: DIAGNOSIS -->
+        <div class="section section-1">
+            <div class="section-title">
+                <span class="section-emoji">❓</span>
+                Cap 3: O Diagnóstico - A Arte de Fazer Perguntas
+            </div>
+            
+            <div class="item">
+                <span class="item-label">Sua Taxa de Fala:</span> 20%. Sua taxa de escuta: 80%.
+            </div>
+            
+            <div class="item">
+                <span class="item-label">Perguntas Abertas:</span> Use "O que", "Como", "Por que" para aprofundar a dor.
+            </div>
+            
+            <div class="item">
+                <span class="item-label">O Objetivo:</span> Fazer o cliente descubrir a profundidade da sua própria dor.
+            </div>
+            
+            <div class="item">
+                <span class="item-label">O Resultado:</span> O cliente sente que você entende mais do que ele mesmo.
+            </div>
+        </div>
+
+        <!-- DIAGNOSTIC FLOW -->
+        <div class="diagnostic-flow">
+            <div class="flow-step flow-step-1">
+                <div class="flow-number">1️⃣</div>
+                <div class="flow-text">PROBLEMA</div>
+            </div>
+            <div class="flow-step flow-step-2">
+                <div class="flow-number">2️⃣</div>
+                <div class="flow-text">IMPACTO</div>
+            </div>
+            <div class="flow-step flow-step-3">
+                <div class="flow-number">3️⃣</div>
+                <div class="flow-text">CAUSA RAIZ</div>
+            </div>
+            <div class="flow-step flow-step-4">
+                <div class="flow-number">4️⃣</div>
+                <div class="flow-text">ESTADO FUTURO</div>
+            </div>
+        </div>
+
+        <!-- KEY INSIGHT 3 -->
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                O Segredo (Cap 3)
+            </div>
+            <div class="insight-text">
+                <span class="highlight">Quantificar é o poder.</span> 
+                <br><br>
+                "Parece que a ineficiência do seu processo está custando R$50.000/mês. Como isso afeta sua equipe?"
+                <br><br>
+                Quando a dor é <span class="highlight">mensurável e pessoal</span>, ela se torna real para o cliente.
+            </div>
+        </div>
+
+        <!-- CHAPTER 4: PROBLEM vs SYMPTOM -->
+        <div class="section section-3">
+            <div class="section-title">
+                <span class="section-emoji">🔍</span>
+                Cap 4: O Problema vs. O Sintoma - Não Trate a Febre
+            </div>
+            
+            <div class="item">
+                <span class="item-label">O Sintoma:</span> O que o cliente vê na superfície (vendas baixas, custo alto, atraso).
+            </div>
+            
+            <div class="item">
+                <span class="item-label">O Problema Real:</span> A causa raiz que está ligada à sua solução (falta de alinhamento, processo quebrado).
+            </div>
+            
+            <div class="item">
+                <span class="item-label">Sua Tarefa:</span> Ir além dos sintomas. Use "Por que?" repetidamente para encontrar a infecção.
+            </div>
+            
+            <div class="item">
+                <span class="item-label">O Risco:</span> Focar em sintomas torna você uma commodity que compete por preço.
+            </div>
+        </div>
+
+        <!-- PROBLEM vs SYMPTOM COMPARISON -->
+        <div class="grid-2">
+            <div class="gap-box" style="border-color: #ff6b6b; background: rgba(255, 107, 107, 0.05);">
+                <div class="gap-label" style="color: #ff6b6b;">❌ SINTOMA (Superficial)</div>
+                <div class="gap-text">
+                    <strong>"Vendas estão baixas"</strong><br>
+                    Fácil de resolver... temporariamente.
+                </div>
+            </div>
+            
+            <div class="gap-box" style="border-color: #4caf50; background: rgba(76, 175, 80, 0.05);">
+                <div class="gap-label" style="color: #4caf50;">✅ PROBLEMA (Raiz)</div>
+                <div class="gap-text">
+                    <strong>"Falta alinhamento entre Marketing e Vendas"</strong><br>
+                    Resolve tudo permanentemente.
+                </div>
+            </div>
+        </div>
+
+        <!-- FINAL INSIGHT -->
+        <div class="solution">
+            <div class="solution-emoji">💡</div>
+            <div class="solution-title">A Grande Conclusão (Caps 1-4)</div>
+            <div class="solution-text">
+                Você não vende quando fala sobre sua solução.
+                <br><br>
+                Você vende quando o cliente <span style="color: #1b5e20; font-weight: bold;">entende a profundidade do problema</span> e vê você como o <span style="color: #1b5e20; font-weight: bold;">diagnosticador que ele precisa.</span>
+            </div>
+        </div>
+
+        <!-- ACTIONABLE -->
+        <div class="insight">
+            <div class="insight-title">
+                <span>🚀</span>
+                Como Começar Hoje
+            </div>
+            <div class="insight-text">
+                1. Na próxima reunião de vendas, <span class="highlight">escute 80% do tempo</span>. <br><br>
+                2. Faça 3 perguntas: "Qual é o impacto?", "Por que isso acontece?", "Quanto custa?" <br><br>
+                3. Quantifique a dor em dinheiro. <br><br>
+                4. Encontre a causa raiz, não o sintoma.
+            </div>
+        </div>
+    </div>
+</body>
+</html>

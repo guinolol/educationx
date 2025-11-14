@@ -1,0 +1,3322 @@
+[
+  {
+    "id": 1,
+    "title": "A Nova Regra: Negociar é Gerenciar Emoções",
+    "teaser": "🧠 Esqueça a lógica! Em negociação, a emoção comanda 80% das decisões. Descubra a chave para o controle.",
+    "level1": "A negociação tradicional foca em lógica e concessões. Chris Voss argumenta que isso é ineficaz, pois as decisões são primariamente emocionais. O novo paradigma é usar a inteligência emocional para descobrir o que motiva o seu oponente, fazendo-o sentir-se seguro e compreendido.",
+    "level2": "Esqueça a ideia de que você precisa ser o mais inteligente ou o mais duro. Você precisa ser o mais empático. O objetivo não é vencer, mas sim obter o máximo de informação possível para influenciar a decisão emocional do outro lado.",
+    "level3": "Ruim: 'Vamos dividir a diferença em 50/50.' Bom: 'Parece que você está preocupado com o prazo. O que te impede de aceitar esta proposta?'",
+    "recapitulation": [
+      "Decisões são 80% Emocionais e 20% Racionais.",
+      "O objetivo não é o acordo, mas a coleta de informação.",
+      "Não 'divida a diferença' – isso é preguiçoso e perde valor.",
+      "A empatia tática é a arma mais poderosa, não a lógica.",
+      "Use a 'Voz de Locutor de Rádio' (calma e profunda) para desescalar a tensão.",
+      "O medo da perda (Loss Aversion) é duas vezes mais forte que o desejo de ganho."
+    ],
+    "practicalChecklist": [
+      "Pratique a 'Voz de Locutor de Rádio' em interações do dia a dia.",
+      "Antes de propor algo, colete 3 informações cruciais sobre o medo/restrição do oponente.",
+      "Evite frases como 'Eu entendo' – substitua por 'Parece que...' (Rotulagem).",
+      "Pergunte 'O que te impede de aceitar esta proposta?' em vez de 'Você aceita a proposta?'",
+      "Sempre comece a negociação com o objetivo de obter informações, não concessões."
+    ],
+    "conclusionMessage": "Negociação não é sobre lógica e compromisso (dividir a diferença), mas sobre inteligência emocional e descobrir o que o outro lado realmente quer.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o erro fundamental da negociação tradicional, segundo Chris Voss?",
+        "options": [
+          { "value": "a", "label": "Focar demais no preço." },
+          { "value": "b", "label": "Assumir que a negociação é um processo puramente racional e lógico." },
+          { "value": "c", "label": "Falar muito alto." },
+          { "value": "d", "label": "Não usar advogados." }
+        ],
+        "explanation": "As decisões são 80% emocionais e 20% racionais. Ignorar a emoção é ignorar o motor da decisão.",
+        "hint": "O motor da decisão.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas não são robôs. Elas são seres emocionais que pensam."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o principal objetivo ao iniciar uma negociação?",
+        "options": [
+          { "value": "a", "label": "Apresentar sua oferta final." },
+          { "value": "b", "label": "Estabelecer rapport e coletar informações sobre as necessidades e emoções do seu oponente." },
+          { "value": "c", "label": "Fazer o oponente se sentir desconfortável." },
+          { "value": "d", "label": "Falar sobre o clima." }
+        ],
+        "explanation": "A coleta de informações é a chave para encontrar o 'Cisne Negro' (informação oculta).",
+        "hint": "Coleta de dados.",
+        "correctAnswer": "b",
+        "bookExample": "A negociação é um ato de descoberta, não de guerra."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'Não Dividir a Diferença'?",
+        "options": [
+          { "value": "a", "label": "Ser inflexível." },
+          { "value": "b", "label": "Evitar o compromisso fácil de 50/50, pois isso ignora a informação e o valor real que pode ser extraído." },
+          { "value": "c", "label": "Sempre pedir mais." },
+          { "value": "d", "label": "Sempre dar mais." }
+        ],
+        "explanation": "Dividir a diferença é preguiçoso e garante que você perca valor.",
+        "hint": "Preguiça.",
+        "correctAnswer": "b",
+        "bookExample": "Dividir a diferença é o caminho para a mediocridade."
+      },
+      {
+        "id": "4",
+        "question": "Qual emoção deve ser o foco principal do negociador para construir confiança?",
+        "options": [
+          { "value": "a", "label": "Medo." },
+          { "value": "b", "label": "Segurança e Compreensão." },
+          { "value": "c", "label": "Raiva." },
+          { "value": "d", "label": "Excitação." }
+        ],
+        "explanation": "O oponente precisa sentir que você o entende e que ele está no controle.",
+        "hint": "Controle e empatia.",
+        "correctAnswer": "b",
+        "bookExample": "A empatia tática é a arma mais poderosa."
+      },
+      {
+        "id": "5",
+        "question": "O que é 'Voz de Locutor de Rádio Tarde da Noite' (Late-Night FM DJ Voice)?",
+        "options": [
+          { "value": "a", "label": "Uma voz alta e agressiva." },
+          { "value": "b", "label": "Uma voz calma, lenta e profunda, usada para transmitir autoridade e calma, induzindo o oponente a baixar a guarda." },
+          { "value": "c", "label": "Uma voz aguda e rápida." },
+          { "value": "d", "label": "Uma voz monótona." }
+        ],
+        "explanation": "Essa voz é usada para desescalar a tensão e projetar confiança.",
+        "hint": "Calma e autoridade.",
+        "correctAnswer": "b",
+        "bookExample": "A calma é contagiosa."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel do 'Rapport' (Conexão) na negociação?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "É a base para a confiança e a abertura, permitindo que o oponente compartilhe informações cruciais." },
+          { "value": "c", "label": "É apenas para fazer amigos." },
+          { "value": "d", "label": "É um sinal de fraqueza." }
+        ],
+        "explanation": "Sem rapport, a negociação se torna uma batalha de vontades.",
+        "hint": "Base da confiança.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é a moeda da negociação."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Ser um Detetive' na negociação?",
+        "options": [
+          { "value": "a", "label": "Fazer acusações." },
+          { "value": "b", "label": "Focar em descobrir a motivação oculta, os medos e as necessidades não ditas do oponente." },
+          { "value": "c", "label": "Falar sobre si mesmo." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "A negociação é um processo de descoberta.",
+        "hint": "Descoberta.",
+        "correctAnswer": "b",
+        "bookExample": "A informação é o poder."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a principal ferramenta para desarmar um oponente agressivo?",
+        "options": [
+          { "value": "a", "label": "Ameaças." },
+          { "value": "b", "label": "Escuta ativa e empatia tática (rotulagem e espelhamento)." },
+          { "value": "c", "label": "Gritar mais alto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A empatia desarma a agressão, pois o oponente se sente ouvido.",
+        "hint": "Desarmamento.",
+        "correctAnswer": "b",
+        "bookExample": "Ouvir é a forma mais barata de concessão."
+      },
+      {
+        "id": "9",
+        "question": "O que é 'Viés de Perda' (Loss Aversion)?",
+        "options": [
+          { "value": "a", "label": "A tendência de querer ganhar mais." },
+          { "value": "b", "label": "A tendência de as pessoas se esforçarem mais para evitar uma perda do que para obter um ganho equivalente." },
+          { "value": "c", "label": "A tendência de ser muito gentil." },
+          { "value": "d", "label": "A tendência de falar demais." }
+        ],
+        "explanation": "Use a aversão à perda para enquadrar sua proposta (ex: 'Se não fizermos isso, você perderá X').",
+        "hint": "Medo de perder.",
+        "correctAnswer": "b",
+        "bookExample": "A dor da perda é duas vezes mais poderosa que a alegria do ganho."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o tom de voz ideal para a maioria das interações?",
+        "options": [
+          { "value": "a", "label": "Assertivo e rápido." },
+          { "value": "b", "label": "Positivo e divertido (Playful/Positive)." },
+          { "value": "c", "label": "Sério e monótono." },
+          { "value": "d", "label": "Agressivo." }
+        ],
+        "explanation": "O tom positivo e divertido mantém o rapport e a leveza, mas o tom de 'Locutor de Rádio' é usado para momentos de alta tensão.",
+        "hint": "Leveza.",
+        "correctAnswer": "b",
+        "bookExample": "Sorria ao falar. Isso muda o tom da sua voz."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Escuta Ativa e o Poder do Espelhamento",
+    "teaser": "🤫 Sua ferramenta mais simples é a mais poderosa: a repetição. Aprenda a fazer o oponente se abrir com o 'Espelhamento'.",
+    "level1": "Escuta ativa significa focar 100% no que o oponente está dizendo, incluindo o tom e a linguagem corporal. O espelhamento (Mirroring) é a repetição das últimas uma a três palavras que o oponente disse. Isso cria um rapport inconsciente e o incentiva a elaborar.",
+    "level2": "O espelhamento é como um 'empurrãozinho' gentil. Você não precisa entender o que ele disse, apenas repita. O cérebro dele preencherá o silêncio, dando-lhe mais informações sem que você precise fazer uma pergunta direta.",
+    "level3": "Oponente: 'Não podemos aceitar esse preço.' Você: 'Não podemos aceitar esse preço?' Oponente: 'Sim, porque o custo de produção subiu 15%.'",
+    "recapitulation": [
+      "Espelhamento = Repetição das últimas 1 a 3 palavras-chave.",
+      "O tom de voz deve ser de pergunta sutil, subindo no final.",
+      "O Espelhamento incentiva o oponente a 'elaborar' ou 'justificar' sua posição.",
+      "Ele cria 'rapport inconsciente' e valida a fala do outro.",
+      "Use o silêncio após o espelhamento: o oponente se sentirá compelido a preencher o vazio com informação.",
+      "A Escuta Ativa total é a base para detectar Cisnes Negros."
+    ],
+    "practicalChecklist": [
+      "Em sua próxima conversa, use o espelhamento 3 vezes (e aguarde a resposta).",
+      "Ao espelhar, preste atenção ao tom de voz: o seu deve subir como uma pergunta.",
+      "Use o espelhamento quando o oponente disser algo que parece ser uma objeção ou ponto de dor.",
+      "Pratique o silêncio após o espelhamento - não fale primeiro.",
+      "Espelhe a emoção ou o problema, não apenas as palavras neutras."
+    ],
+    "conclusionMessage": "O espelhamento é a técnica mais simples e eficaz de escuta ativa. Ele encoraja o oponente a continuar falando, revelando mais informações.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é o 'Espelhamento' (Mirroring)?",
+        "options": [
+          { "value": "a", "label": "Copiar a linguagem corporal do oponente." },
+          { "value": "b", "label": "Repetir as últimas uma a três palavras-chave que o oponente acabou de dizer." },
+          { "value": "c", "label": "Ficar em silêncio." },
+          { "value": "d", "label": "Fazer uma pergunta de 'Sim/Não'." }
+        ],
+        "explanation": "O espelhamento é uma forma de validação e encorajamento para que o oponente continue falando.",
+        "hint": "Repetição.",
+        "correctAnswer": "b",
+        "bookExample": "O espelhamento é a arte de fazer o outro se sentir ouvido."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o efeito imediato do espelhamento no oponente?",
+        "options": [
+          { "value": "a", "label": "Ele fica irritado." },
+          { "value": "b", "label": "Ele se sente compreendido e é incentivado a elaborar ou justificar sua posição." },
+          { "value": "c", "label": "Ele encerra a conversa." },
+          { "value": "d", "label": "Ele muda de assunto." }
+        ],
+        "explanation": "O espelhamento preenche o silêncio de forma produtiva.",
+        "hint": "Elaboração.",
+        "correctAnswer": "b",
+        "bookExample": "O espelhamento é a forma mais simples de obter mais informações."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o tom de voz ideal ao usar o espelhamento?",
+        "options": [
+          { "value": "a", "label": "Um tom de pergunta, com a voz subindo no final." },
+          { "value": "b", "label": "Um tom de afirmação, com a voz descendo no final." },
+          { "value": "c", "label": "Um tom agressivo." },
+          { "value": "d", "label": "Um tom monótono." }
+        ],
+        "explanation": "O tom de pergunta sutil encoraja a resposta sem ser invasivo.",
+        "hint": "Incentivo.",
+        "correctAnswer": "a",
+        "bookExample": "O espelhamento é uma pergunta disfarçada."
+      },
+      {
+        "id": "4",
+        "question": "O que a 'Escuta Ativa' exige do negociador?",
+        "options": [
+          { "value": "a", "label": "Planejar a próxima resposta." },
+          { "value": "b", "label": "Foco total no oponente, incluindo o que não está sendo dito (linguagem corporal e tom)." },
+          { "value": "c", "label": "Falar mais do que o oponente." },
+          { "value": "d", "label": "Interromper frequentemente." }
+        ],
+        "explanation": "A escuta ativa é um ato de presença total.",
+        "hint": "Presença.",
+        "correctAnswer": "b",
+        "bookExample": "Ouvir é um ato físico. Escutar é um ato mental."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Fingir Escuta'?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "O oponente percebe a falta de engajamento e o rapport é quebrado, levando ao fechamento de informações." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A falta de escuta ativa é percebida como desinteresse.",
+        "hint": "Desinteresse.",
+        "correctAnswer": "b",
+        "bookExample": "O corpo não mente."
+      },
+      {
+        "id": "6",
+        "question": "Em que momento o espelhamento é mais eficaz?",
+        "options": [
+          { "value": "a", "label": "Quando o oponente está em silêncio." },
+          { "value": "b", "label": "Quando o oponente diz algo que parece ser uma objeção ou uma declaração emocional importante." },
+          { "value": "c", "label": "Quando você quer mudar de assunto." },
+          { "value": "d", "label": "Quando você quer fazer uma ameaça." }
+        ],
+        "explanation": "O espelhamento é usado para extrair mais detalhes sobre o ponto de dor ou objeção.",
+        "hint": "Ponto de dor.",
+        "correctAnswer": "b",
+        "bookExample": "Use o espelhamento para cavar mais fundo."
+      },
+      {
+        "id": "7",
+        "question": "O que o 'Silêncio' após o espelhamento comunica?",
+        "options": [
+          { "value": "a", "label": "Tédio." },
+          { "value": "b", "label": "Pressão sutil para que o oponente preencha o vazio, revelando mais informações." },
+          { "value": "c", "label": "Agressividade." },
+          { "value": "d", "label": "Acordo." }
+        ],
+        "explanation": "O silêncio é uma ferramenta poderosa na negociação.",
+        "hint": "Pressão produtiva.",
+        "correctAnswer": "b",
+        "bookExample": "O silêncio é seu amigo. Use-o."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a diferença entre escuta ativa e escuta passiva?",
+        "options": [
+          { "value": "a", "label": "Nenhuma, são a mesma coisa." },
+          { "value": "b", "label": "A escuta ativa envolve validação e feedback (espelhamento, rotulagem), enquanto a passiva é apenas ouvir sem processar ou responder." },
+          { "value": "c", "label": "A escuta passiva é mais eficaz." },
+          { "value": "d", "label": "A escuta ativa é mais rápida." }
+        ],
+        "explanation": "A escuta ativa é a base da empatia tática.",
+        "hint": "Validação.",
+        "correctAnswer": "b",
+        "bookExample": "Ouvir é um ato físico. Escutar é um ato mental."
+      },
+      {
+        "id": "9",
+        "question": "Se o oponente diz: 'Eu não tenho tempo para isso.' Qual é o espelhamento mais eficaz?",
+        "options": [
+          { "value": "a", "label": "Você não tem tempo?" },
+          { "value": "b", "label": "O que te impede de ter tempo?" },
+          { "value": "c", "label": "Eu também não tenho tempo." },
+          { "value": "d", "label": "Vamos acelerar." }
+        ],
+        "explanation": "Repetir as últimas palavras-chave ('não tenho tempo para isso') é o espelhamento puro.",
+        "hint": "Repetição literal.",
+        "correctAnswer": "a",
+        "bookExample": "Repita as últimas palavras. É simples assim."
+      },
+      {
+        "id": "10",
+        "question": "O que o espelhamento ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "Concessões." },
+          { "value": "b", "label": "Fazer suposições sobre o que o oponente realmente quer ou sente." },
+          { "value": "c", "label": "O silêncio." },
+          { "value": "d", "label": "O contato visual." }
+        ],
+        "explanation": "O espelhamento força o oponente a fornecer a informação, em vez de você ter que adivinhar.",
+        "hint": "Adivinhação.",
+        "correctAnswer": "b",
+        "bookExample": "Nunca presuma. Sempre pergunte."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Empatia Tática e Rotulagem (Labeling)",
+    "teaser": "🏷️ Dê nome à fera! Rotule as emoções (medo, raiva, frustração) do seu oponente e veja a negatividade desaparecer.",
+    "level1": "Empatia Tática é a capacidade de entender o mundo do oponente, incluindo suas emoções e motivações, sem necessariamente concordar com elas. A Rotulagem (Labeling) é a ferramenta para aplicar essa empatia, usando frases como 'Parece que...' ou 'Soa como se...' seguida pela emoção ou situação percebida.",
+    "level2": "Ao nomear a emoção, você a neutraliza. Se o oponente está com raiva, e você diz 'Parece que você está com raiva', ele geralmente nega a raiva e explica o motivo, dando-lhe a informação que você precisa.",
+    "level3": "Oponente: (Tom irritado) 'Isso é inaceitável!' Você: 'Parece que você está realmente frustrado com a situação.' O oponente provavelmente responderá: 'Não estou frustrado, estou apenas preocupado com o prazo.'",
+    "recapitulation": [
+      "Empatia Tática = Entender sem concordar (ferramenta de influência).",
+      "Rotulagem (Labeling) = Nomear a emoção/situação com 'Parece que...', 'Soa como se...', 'Sinto que...'.",
+      "Rotular emoções negativas as neutraliza e força a racionalidade.",
+      "Após a Rotulagem, use o Silêncio (aguarde a correção ou a elaboração).",
+      "Rotular incorretamente não quebra o rapport; o oponente o corrige e o diálogo continua.",
+      "O medo (Fear) é a emoção mais perigosa na negociação – rotule-o."
+    ],
+    "practicalChecklist": [
+      "Em sua próxima interação, rotule a emoção da pessoa ('Parece que você está cansado').",
+      "Se a pessoa está brava/defensiva, use a rotulagem antes de qualquer outra coisa.",
+      "Rotule o medo/preocupação oculto ('Parece que você está preocupado com o que seu chefe vai dizer').",
+      "Use a rotulagem para a situação, não apenas a emoção ('Parece que o prazo é uma grande restrição').",
+      "Pratique o silêncio de 4 segundos após cada rotulagem."
+    ],
+    "conclusionMessage": "A rotulagem é a verbalização das emoções do oponente. Isso desarma a negatividade e faz o oponente se sentir compreendido, liberando informações.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é 'Empatia Tática'?",
+        "options": [
+          { "value": "a", "label": "Concordar com o oponente." },
+          { "value": "b", "label": "Entender a perspectiva e as emoções do oponente para influenciar a negociação, sem necessariamente concordar com ele." },
+          { "value": "c", "label": "Fingir interesse." },
+          { "value": "d", "label": "Ser muito gentil." }
+        ],
+        "explanation": "A empatia tática é uma ferramenta de influência, não de amizade.",
+        "hint": "Influência.",
+        "correctAnswer": "b",
+        "bookExample": "A empatia não é simpatia. É a arte de entender o que está acontecendo na cabeça do outro."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a estrutura de uma 'Rotulagem' (Label)?",
+        "options": [
+          { "value": "a", "label": "Uma pergunta de 'Sim/Não'." },
+          { "value": "b", "label": "Uma frase que começa com 'Parece que...', 'Soa como se...' ou 'Sinto que...' seguida pela emoção ou situação percebida." },
+          { "value": "c", "label": "Uma afirmação sobre seus próprios sentimentos." },
+          { "value": "d", "label": "Uma ameaça." }
+        ],
+        "explanation": "O uso de 'Parece que...' mantém a rotulagem como uma hipótese, não uma acusação.",
+        "hint": "Hipótese.",
+        "correctAnswer": "b",
+        "bookExample": "A rotulagem é a forma mais rápida de desarmar uma emoção negativa."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o efeito de rotular uma emoção negativa (ex: raiva, frustração)?",
+        "options": [
+          { "value": "a", "label": "Aumenta a raiva." },
+          { "value": "b", "label": "Neutraliza a emoção, forçando o oponente a se concentrar na explicação racional do problema." },
+          { "value": "c", "label": "Encerra a conversa." },
+          { "value": "d", "label": "Gera um acordo imediato." }
+        ],
+        "explanation": "Ao nomear a emoção, você a tira do controle do oponente.",
+        "hint": "Neutralização.",
+        "correctAnswer": "b",
+        "bookExample": "Dê nome ao medo, e ele perde o poder."
+      },
+      {
+        "id": "4",
+        "question": "O que o negociador deve fazer após uma rotulagem?",
+        "options": [
+          { "value": "a", "label": "Falar sobre si mesmo." },
+          { "value": "b", "label": "Ficar em silêncio, esperando que o oponente preencha o vazio com mais informações." },
+          { "value": "c", "label": "Fazer uma nova oferta." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O silêncio é crucial para permitir que a rotulagem funcione.",
+        "hint": "Silêncio.",
+        "correctAnswer": "b",
+        "bookExample": "O silêncio é a moldura da sua sabedoria."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de rotular uma emoção de forma incorreta?",
+        "options": [
+          { "value": "a", "label": "Nenhum, a pessoa corrige." },
+          { "value": "b", "label": "O oponente corrige você, mas o rapport é mantido, pois ele se sente ouvido e você obtém a informação correta." },
+          { "value": "c", "label": "O oponente fica furioso e encerra a negociação." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A rotulagem é uma hipótese. Mesmo que errada, ela gera mais informação.",
+        "hint": "Correção.",
+        "correctAnswer": "b",
+        "bookExample": "A rotulagem é uma aposta de baixo risco e alta recompensa."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a diferença entre rotular a emoção e rotular a situação?",
+        "options": [
+          { "value": "a", "label": "Rotular a emoção é mais eficaz." },
+          { "value": "b", "label": "Ambos são eficazes. Rotular a situação ('Parece que você está sob muita pressão') pode ser mais seguro se você não tiver certeza da emoção ('Parece que você está com raiva')." },
+          { "value": "c", "label": "Rotular a situação é ineficaz." },
+          { "value": "d", "label": "Rotular a emoção é mais rápido." }
+        ],
+        "explanation": "Rotular a situação é uma forma de empatia tática mais sutil.",
+        "hint": "Sutileza.",
+        "correctAnswer": "b",
+        "bookExample": "Seja um detetive de emoções e situações."
+      },
+      {
+        "id": "7",
+        "question": "Qual é a emoção mais perigosa em uma negociação?",
+        "options": [
+          { "value": "a", "label": "Felicidade." },
+          { "value": "b", "label": "Medo (Fear) de perder ou de ser enganado." },
+          { "value": "c", "label": "Tédio." },
+          { "value": "d", "label": "Excitação." }
+        ],
+        "explanation": "O medo leva a decisões irracionais e defensivas. Você deve rotular e neutralizar o medo.",
+        "hint": "Irracionalidade.",
+        "correctAnswer": "b",
+        "bookExample": "O medo é o maior inimigo da negociação."
+      },
+      {
+        "id": "8",
+        "question": "Se o oponente diz: 'Nós não podemos pagar isso.' Qual é a melhor rotulagem?",
+        "options": [
+          { "value": "a", "label": "Parece que você está mentindo." },
+          { "value": "b", "label": "Parece que o orçamento é uma grande restrição para você." },
+          { "value": "c", "label": "Você está com raiva?" },
+          { "value": "d", "label": "Eu entendo." }
+        ],
+        "explanation": "Rotular a restrição (orçamento) é mais produtivo do que rotular a emoção, pois leva a uma discussão sobre números.",
+        "hint": "Restrição.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule o obstáculo, não a pessoa."
+      },
+      {
+        "id": "9",
+        "question": "O que a rotulagem ajuda a construir?",
+        "options": [
+          { "value": "a", "label": "Agressividade." },
+          { "value": "b", "label": "Rapport e confiança, pois a pessoa se sente profundamente compreendida." },
+          { "value": "c", "label": "Tédio." },
+          { "value": "d", "label": "Concessões imediatas." }
+        ],
+        "explanation": "A rotulagem é a prova de que você está ouvindo ativamente.",
+        "hint": "Prova de escuta.",
+        "correctAnswer": "b",
+        "bookExample": "A empatia é a chave para o coração humano."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o risco de usar 'Eu entendo' em vez de uma rotulagem?",
+        "options": [
+          { "value": "a", "label": "Nenhum." },
+          { "value": "b", "label": "'Eu entendo' é genérico e não prova que você realmente ouviu ou processou a emoção específica do oponente." },
+          { "value": "c", "label": "É muito longo." },
+          { "value": "d", "label": "É muito curto." }
+        ],
+        "explanation": "A rotulagem é específica e tática; 'Eu entendo' é passivo.",
+        "hint": "Especificidade.",
+        "correctAnswer": "b",
+        "bookExample": "Seja específico. O genérico é esquecível."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "O Poder do 'Não'",
+    "teaser": "🎁 O 'Não' é um presente. Aprenda a provocá-lo e use-o para fazer o oponente se sentir seguro e, finalmente, dizer o 'Sim' verdadeiro.",
+    "level1": "A maioria dos negociadores tem medo de ouvir 'Não'. Voss argumenta que o 'Não' é um presente. Ele faz o oponente se sentir seguro, pois ele estabeleceu um limite. Você deve guiar a conversa para que o oponente diga 'Não' no início, em vez de forçar um 'Sim' que ele não quer dizer.",
+    "level2": "Se você força um 'Sim', o oponente se sente encurralado e pode se fechar ou sabotar o acordo mais tarde (o 'Sim' falso). O 'Não' é a primeira oportunidade para ele se sentir no controle. Use perguntas que esperam um 'Não' para iniciar a conversa.",
+    "level3": "Ruim: 'Você concorda com essa proposta?' Bom: 'Você desistiu deste projeto?' ou 'É uma má hora para falar?'",
+    "recapitulation": [
+      "O 'Não' é o início, não o fim, da negociação.",
+      "O 'Não' faz o oponente se sentir seguro e no controle.",
+      "Evite o 'Sim' falso (Sim por educação) a todo custo.",
+      "Use perguntas que forçam um 'Não' ('É uma má hora para falar sobre X?').",
+      "Após um 'Não', use Rotulagem ou Espelhamento para descobrir a objeção real.",
+      "O 'Talvez' é mais perigoso que o 'Não', pois esconde uma objeção não resolvida."
+    ],
+    "practicalChecklist": [
+      "Comece sua próxima negociação com uma pergunta que espera um 'Não' ('Você está ocupado?').",
+      "Se ouvir um 'Sim' rápido, teste-o imediatamente com uma pergunta que força um 'Não' ('Você está me dizendo que não há nada que te incomode?').",
+      "Se o oponente disser 'Não' à sua proposta, responda com 'Parece que há algo que te incomoda...' (Rotulagem).",
+      "Ao lidar com um impasse, pergunte 'Você está me dizendo para ir embora?' para reverter a dinâmica.",
+      "Lembre-se: 'Não' significa 'Ainda não estou confortável'."
+    ],
+    "conclusionMessage": "O 'Não' não é o fim da negociação; é o início. Ele faz o oponente se sentir seguro e no controle, abrindo espaço para a verdade.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o significado do 'Não' na negociação tática?",
+        "options": [
+          { "value": "a", "label": "O fim da negociação." },
+          { "value": "b", "label": "O início da negociação, pois faz o oponente se sentir seguro, no controle e pronto para ouvir." },
+          { "value": "c", "label": "Um sinal de agressividade." },
+          { "value": "d", "label": "Um sinal de que você deve fazer uma concessão." }
+        ],
+        "explanation": "O 'Não' é a primeira oportunidade para o oponente se sentir no controle.",
+        "hint": "Controle.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Não' é o novo 'Sim'."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de forçar um 'Sim' no início da negociação?",
+        "options": [
+          { "value": "a", "label": "O oponente fica feliz." },
+          { "value": "b", "label": "O oponente se sente encurralado e pode se fechar, mentir ou sabotar o acordo mais tarde (Sim falso)." },
+          { "value": "c", "label": "Você perde tempo." },
+          { "value": "d", "label": "Você fala demais." }
+        ],
+        "explanation": "O 'Sim' falso é perigoso porque não é um comprometimento real.",
+        "hint": "Comprometimento.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' sem convicção é o inimigo da execução."
+      },
+      {
+        "id": "3",
+        "question": "Qual é um exemplo de pergunta que espera um 'Não'?",
+        "options": [
+          { "value": "a", "label": "Você está pronto para assinar?" },
+          { "value": "b", "label": "É uma má hora para falar sobre isso?" },
+          { "value": "c", "label": "Você concorda com o preço?" },
+          { "value": "d", "label": "Você pode me ajudar?" }
+        ],
+        "explanation": "A pergunta 'É uma má hora?' quase sempre resulta em 'Não, não é uma má hora', o que o coloca no controle.",
+        "hint": "Controle sutil.",
+        "correctAnswer": "b",
+        "bookExample": "Comece com o 'Não' para chegar ao 'Sim'."
+      },
+      {
+        "id": "4",
+        "question": "O que o negociador deve fazer após ouvir um 'Não'?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Ficar em silêncio, seguido por um espelhamento ou rotulagem para entender o que está por trás do 'Não'." },
+          { "value": "c", "label": "Ameaçar o oponente." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Não' é uma oportunidade para obter mais informações.",
+        "hint": "Informação.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Não' é a porta de entrada para a verdade."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o benefício de usar o 'Não' para proteger o oponente?",
+        "options": [
+          { "value": "a", "label": "Ele se sente mais vulnerável." },
+          { "value": "b", "label": "Ele se sente respeitado e menos defensivo, pois você não está forçando a barra." },
+          { "value": "c", "label": "Ele fica irritado." },
+          { "value": "d", "label": "Ele encerra a negociação." }
+        ],
+        "explanation": "O respeito é a base da confiança.",
+        "hint": "Respeito.",
+        "correctAnswer": "b",
+        "bookExample": "Dê ao seu oponente o direito de dizer 'Não'."
+      },
+      {
+        "id": "6",
+        "question": "Se o oponente diz 'Não' à sua proposta, o que você deve rotular?",
+        "options": [
+          { "value": "a", "label": "A raiva dele." },
+          { "value": "b", "label": "O que o impede de aceitar a proposta ('Parece que há algo nesta proposta que não funciona para você')." },
+          { "value": "c", "label": "Sua própria frustração." },
+          { "value": "d", "label": "O preço." }
+        ],
+        "explanation": "Rotular o obstáculo leva à descoberta do Cisne Negro.",
+        "hint": "Obstáculo.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Não' é apenas um pedido de mais informação."
+      },
+      {
+        "id": "7",
+        "question": "Qual é a diferença entre o 'Não' e o 'Talvez'?",
+        "options": [
+          { "value": "a", "label": "O 'Talvez' é mais honesto." },
+          { "value": "b", "label": "O 'Não' é claro e honesto, enquanto o 'Talvez' é um 'Sim' falso que esconde uma objeção não resolvida." },
+          { "value": "c", "label": "O 'Talvez' é mais rápido." },
+          { "value": "d", "label": "O 'Não' é mais lento." }
+        ],
+        "explanation": "O 'Talvez' é perigoso porque não revela a verdade.",
+        "hint": "Perigo.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Talvez' é a morte lenta da negociação."
+      },
+      {
+        "id": "8",
+        "question": "Como você pode usar o 'Não' para reverter uma situação de impasse?",
+        "options": [
+          { "value": "a", "label": "Ameaçando o oponente." },
+          { "value": "b", "label": "Perguntando: 'Você está me dizendo para ir embora?' (forçando um 'Não' que reverte a dinâmica)." },
+          { "value": "c", "label": "Fazendo uma grande concessão." },
+          { "value": "d", "label": "Ficando em silêncio." }
+        ],
+        "explanation": "Forçar um 'Não' sobre a saída faz o oponente se sentir no controle e geralmente o traz de volta à mesa.",
+        "hint": "Reversão de dinâmica.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Não' é a ferramenta de reversão."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Evitar o Conflito' e o 'Não'?",
+        "options": [
+          { "value": "a", "label": "Você parece mais gentil." },
+          { "value": "b", "label": "Você perde a oportunidade de descobrir as objeções reais e o oponente se sente desrespeitado por não ter limites." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "O conflito controlado é produtivo.",
+        "hint": "Produtividade.",
+        "correctAnswer": "b",
+        "bookExample": "O conflito é a porta de entrada para a intimidade."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor resposta após o oponente dizer 'Não' à sua proposta?",
+        "options": [
+          { "value": "a", "label": "Por que não?" },
+          { "value": "b", "label": "O que há de errado com isso?" },
+          { "value": "c", "label": "Parece que há algo que te incomoda." },
+          { "value": "d", "label": "Eu entendo." }
+        ],
+        "explanation": "A rotulagem ('Parece que...') é a melhor forma de extrair a objeção real após um 'Não'.",
+        "hint": "Rotulagem.",
+        "correctAnswer": "c",
+        "bookExample": "Rotule o obstáculo."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "O Objetivo Final: 'Isso Mesmo' (That's Right)",
+    "teaser": "🏆 Mais poderoso que o 'Sim': o 'Isso Mesmo' prova que você está na mente do seu oponente e libera a colaboração.",
+    "level1": "O objetivo de todas as técnicas de escuta ativa (espelhamento, rotulagem) é fazer o oponente dizer 'Isso Mesmo' (That's Right). Isso significa que você resumiu a situação dele de forma tão precisa que ele sente que você está 'na cabeça dele'.",
+    "level2": "O 'Isso Mesmo' é a validação máxima. É muito mais poderoso que o 'Sim', pois o 'Sim' pode ser falso. Quando você ouve 'Isso Mesmo', você sabe que a empatia tática funcionou e que a negociação pode avançar para a resolução.",
+    "level3": "Você: 'Parece que você está frustrado porque sente que o prazo é irreal e que a qualidade será comprometida.' Oponente: 'Isso mesmo! É exatamente isso.'",
+    "recapitulation": [
+      "O 'Isso Mesmo' é a validação profunda e o ponto de virada.",
+      "É superior ao 'Você está certo' (que pode soar condescendente e encerrar a conversa).",
+      "É a prova de que a Empatia Tática e a Escuta Ativa funcionaram.",
+      "O 'Isso Mesmo' libera Oxitocina (hormônio da confiança) e prepara para a solução.",
+      "Para provocá-lo, use Espelhamento e Rotulagem para fazer um resumo final da situação do oponente.",
+      "Após o 'Isso Mesmo', avance com uma Pergunta Calibrada para a solução."
+    ],
+    "practicalChecklist": [
+      "Busque ativamente o 'Isso Mesmo' em vez do 'Sim'.",
+      "No meio da negociação, resuma a posição do oponente (fatos + emoção) e espere um 'Isso Mesmo'.",
+      "Se ouvir 'Você está certo', reformule o que ele disse e busque o 'Isso Mesmo' para testar a autenticidade.",
+      "Imediatamente após o 'Isso Mesmo', use 'Como podemos resolver isso?' (Pergunta Calibrada).",
+      "Cuidado com o 'Sim' rápido – ele pode ser um substituto do 'Isso Mesmo' falso."
+    ],
+    "conclusionMessage": "O 'Isso Mesmo' é o ponto de virada. Ele sinaliza que o oponente sente que você o compreendeu perfeitamente, abrindo caminho para a solução.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que o 'Isso Mesmo' (That's Right) representa na negociação?",
+        "options": [
+          { "value": "a", "label": "Um acordo sobre o preço." },
+          { "value": "b", "label": "O ponto de virada onde o oponente sente que foi perfeitamente compreendido e validado." },
+          { "value": "c", "label": "Uma concessão." },
+          { "value": "d", "label": "O fim da conversa." }
+        ],
+        "explanation": "O 'Isso Mesmo' é a prova de que a empatia tática foi bem-sucedida.",
+        "hint": "Validação máxima.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Isso Mesmo' é o Santo Graal da negociação."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a diferença entre 'Isso Mesmo' e 'Você está certo' (You're Right)?",
+        "options": [
+          { "value": "a", "label": "São a mesma coisa." },
+          { "value": "b", "label": "'Isso Mesmo' é uma validação profunda da perspectiva do oponente, enquanto 'Você está certo' é frequentemente usado para encerrar a conversa e pode ser condescendente." },
+          { "value": "c", "label": "O 'Você está certo' é mais poderoso." },
+          { "value": "d", "label": "O 'Isso Mesmo' é mais rápido." }
+        ],
+        "explanation": "O 'Você está certo' pode soar como 'Cale a boca'. O 'Isso Mesmo' é genuíno.",
+        "hint": "Genuinidade.",
+        "correctAnswer": "b",
+        "bookExample": "Evite 'Você está certo'. Busque 'Isso Mesmo'."
+      },
+      {
+        "id": "3",
+        "question": "Como você provoca o 'Isso Mesmo'?",
+        "options": [
+          { "value": "a", "label": "Fazendo uma ameaça." },
+          { "value": "b", "label": "Usando uma combinação de espelhamento e rotulagem para resumir a situação, os sentimentos e as motivações do oponente." },
+          { "value": "c", "label": "Fazendo uma concessão." },
+          { "value": "d", "label": "Falando sobre si mesmo." }
+        ],
+        "explanation": "O resumo empático é a chave para o 'Isso Mesmo'.",
+        "hint": "Resumo empático.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Isso Mesmo' é o resultado de uma escuta profunda."
+      },
+      {
+        "id": "4",
+        "question": "O que o negociador deve fazer imediatamente após ouvir 'Isso Mesmo'?",
+        "options": [
+          { "value": "a", "label": "Fazer a oferta final." },
+          { "value": "b", "label": "Fazer uma pergunta calibrada ('Como podemos resolver isso?') para guiar o oponente à solução." },
+          { "value": "c", "label": "Ficar em silêncio." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Isso Mesmo' abre a porta para a colaboração.",
+        "hint": "Colaboração.",
+        "correctAnswer": "b",
+        "bookExample": "Use o 'Isso Mesmo' como a ponte para a ação."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de não buscar o 'Isso Mesmo'?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você pode avançar na negociação com base em suposições incorretas sobre o que o oponente realmente quer ou precisa." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "O 'Isso Mesmo' garante que você está na mesma página.",
+        "hint": "Alinhamento.",
+        "correctAnswer": "b",
+        "bookExample": "A negociação é um processo de eliminação de suposições."
+      },
+      {
+        "id": "6",
+        "question": "Se o oponente diz 'Sim' repetidamente, mas não 'Isso Mesmo', o que isso pode indicar?",
+        "options": [
+          { "value": "a", "label": "Ele está pronto para fechar o negócio." },
+          { "value": "b", "label": "Ele está sendo educado ou está tentando se livrar de você (Sim falso)." },
+          { "value": "c", "label": "Ele é um Analista." },
+          { "value": "d", "label": "Ele é um Acomodador." }
+        ],
+        "explanation": "O 'Sim' é fraco. O 'Isso Mesmo' é forte.",
+        "hint": "Fraqueza.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' é a armadilha mais comum."
+      },
+      {
+        "id": "7",
+        "question": "Qual é a melhor forma de resumir a posição do oponente antes de buscar o 'Isso Mesmo'?",
+        "options": [
+          { "value": "a", "label": "Repetir as últimas 3 frases dele." },
+          { "value": "b", "label": "Integrar os fatos, as emoções rotuladas e as restrições que ele mencionou em uma única declaração concisa." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Falar sobre o prazo." }
+        ],
+        "explanation": "O resumo deve ser abrangente e focado na perspectiva dele.",
+        "hint": "Abrangência.",
+        "correctAnswer": "b",
+        "bookExample": "O resumo é a sua prova de escuta."
+      },
+      {
+        "id": "8",
+        "question": "O que o 'Isso Mesmo' libera no oponente?",
+        "options": [
+          { "value": "a", "label": "Raiva." },
+          { "value": "b", "label": "Oxitocina (o hormônio da conexão) e a vontade de colaborar." },
+          { "value": "c", "label": "Cortisol." },
+          { "value": "d", "label": "Adrenalina." }
+        ],
+        "explanation": "A validação profunda gera confiança química.",
+        "hint": "Química da confiança.",
+        "correctAnswer": "b",
+        "bookExample": "A empatia é a chave para a oxitocina."
+      },
+      {
+        "id": "9",
+        "question": "Se o oponente diz 'Isso Mesmo', o que você sabe sobre a negociação?",
+        "options": [
+          { "value": "a", "label": "O preço está certo." },
+          { "value": "b", "label": "Você tem uma compreensão precisa do problema dele e ele está pronto para considerar soluções." },
+          { "value": "c", "label": "Ele está mentindo." },
+          { "value": "d", "label": "Ele está pronto para fazer uma concessão." }
+        ],
+        "explanation": "A compreensão precede a solução.",
+        "hint": "Compreensão.",
+        "correctAnswer": "b",
+        "bookExample": "A solução só pode vir depois da validação."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de lidar com um oponente que usa 'Você está certo' repetidamente?",
+        "options": [
+          { "value": "a", "label": "Aceitar e seguir em frente." },
+          { "value": "b", "label": "Rotular o comportamento ('Parece que você está tentando ser educado, mas há algo que te incomoda?')." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Você deve confrontar o 'Sim' falso com empatia tática.",
+        "hint": "Confronto empático.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Você está certo' é um sinal de que você precisa cavar mais fundo."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Perguntas Calibradas ('Como' e 'O Quê')",
+    "teaser": "💡 Faça seu oponente resolver seu problema! Perguntas 'Como' e 'O Quê' criam a 'Ilusão de Controle' e liberam o caminho.",
+    "level1": "Perguntas calibradas são a ferramenta mais poderosa para criar a ilusão de controle. Elas começam com 'Como' ou 'O Quê' (e, ocasionalmente, 'Por que', mas com cautela). Elas forçam o oponente a usar sua energia para resolver o seu problema, em vez de atacá-lo.",
+    "level2": "Em vez de dizer 'Você precisa me dar um desconto', você pergunta 'Como posso fazer isso?' ou 'O que você sugere que eu faça?'. Isso transfere o fardo da solução para ele, fazendo-o sentir-se no controle, enquanto você guia o resultado.",
+    "level3": "Ruim: 'Você pode me dar um preço melhor?' Bom: 'Como podemos fazer isso funcionar para que você se sinta confortável com o preço?'",
+    "recapitulation": [
+      "Perguntas Calibradas = 'Como' e 'O Quê' (evite 'Por que', que soa acusatório).",
+      "Criam a 'Ilusão de Controle' no oponente (ele resolve seu problema).",
+      "Transferem o fardo da solução para o oponente.",
+      "Usadas para descobrir Cisnes Negros (restrições e medos ocultos).",
+      "A pergunta 'O que acontece se não fizermos isso?' usa a Aversão à Perda para motivar o acordo.",
+      "Sempre use o Silêncio após a pergunta calibrada; deixe o oponente pensar."
+    ],
+    "practicalChecklist": [
+      "Sempre responda a um pedido de concessão com um 'Como...' ('Como eu posso te dar X e ainda manter as luzes acesas?').",
+      "Ao lidar com uma objeção, use 'O que te impede de fazer isso?' em vez de 'Por que você não pode fazer isso?'.",
+      "Após uma pergunta calibrada, fique em silêncio e resista à tentação de falar primeiro.",
+      "Use 'O que acontece se não fizermos isso?' para forçar a consideração do custo da inação.",
+      "Se estiver preso, use 'O que você sugere que eu faça?' para virar a mesa."
+    ],
+    "conclusionMessage": "Perguntas calibradas são perguntas abertas que removem a agressividade e forçam o oponente a pensar em soluções para o seu problema.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo das 'Perguntas Calibradas'?",
+        "options": [
+          { "value": "a", "label": "Obter um 'Sim' rápido." },
+          { "value": "b", "label": "Criar a ilusão de controle no oponente, forçando-o a usar sua energia para resolver o seu problema." },
+          { "value": "c", "label": "Fazer uma ameaça." },
+          { "value": "d", "label": "Falar sobre o passado." }
+        ],
+        "explanation": "As perguntas calibradas são a chave para a influência sutil.",
+        "hint": "Ilusão de controle.",
+        "correctAnswer": "b",
+        "bookExample": "A melhor forma de vencer é fazer o outro lado pensar que ele venceu."
+      },
+      {
+        "id": "2",
+        "question": "Com quais palavras as perguntas calibradas devem começar?",
+        "options": [
+          { "value": "a", "label": "Por que e Quando." },
+          { "value": "b", "label": "Como e O Quê." },
+          { "value": "c", "label": "Sim e Não." },
+          { "value": "d", "label": "Você e Eu." }
+        ],
+        "explanation": "'Como' e 'O Quê' são abertos e não agressivos. 'Por que' deve ser usado com cautela, pois pode soar acusatório.",
+        "hint": "Abertura.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Como' e o 'O Quê' são os seus melhores amigos."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de usar a palavra 'Por que' em uma pergunta calibrada?",
+        "options": [
+          { "value": "a", "label": "A pessoa não responde." },
+          { "value": "b", "label": "Pode soar acusatório e colocar o oponente na defensiva, quebrando o rapport." },
+          { "value": "c", "label": "A pessoa fala demais." },
+          { "value": "d", "label": "A pessoa fica entediada." }
+        ],
+        "explanation": "O 'Por que' implica julgamento. Use 'O que te levou a essa decisão?' em vez de 'Por que você fez isso?'.",
+        "hint": "Julgamento.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Por que' é a palavra mais perigosa na negociação."
+      },
+      {
+        "id": "4",
+        "question": "Se o oponente diz: 'Eu preciso de um desconto de 20%.' Qual é a melhor pergunta calibrada?",
+        "options": [
+          { "value": "a", "label": "Você pode me dar 10%?" },
+          { "value": "b", "label": "Como eu posso te dar 20% de desconto e ainda manter as luzes acesas?" },
+          { "value": "c", "label": "Por que você precisa de 20%?" },
+          { "value": "d", "label": "Eu não posso fazer isso." }
+        ],
+        "explanation": "A pergunta 'Como' força o oponente a considerar suas restrições e a colaborar na solução.",
+        "hint": "Restrições.",
+        "correctAnswer": "b",
+        "bookExample": "Faça o oponente resolver o seu problema."
+      },
+      {
+        "id": "5",
+        "question": "O que o negociador deve fazer após fazer uma pergunta calibrada?",
+        "options": [
+          { "value": "a", "label": "Falar sobre si mesmo." },
+          { "value": "b", "label": "Ficar em silêncio e ouvir a resposta, usando espelhamento e rotulagem para extrair mais detalhes." },
+          { "value": "c", "label": "Fazer outra pergunta." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "O silêncio é crucial para permitir que o oponente pense e responda.",
+        "hint": "Silêncio.",
+        "correctAnswer": "b",
+        "bookExample": "O silêncio é a moldura da sua sabedoria."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a função da pergunta 'O que acontece se não fizermos isso?'",
+        "options": [
+          { "value": "a", "label": "Ameaçar o oponente." },
+          { "value": "b", "label": "Forçar o oponente a considerar o BATNA (Melhor Alternativa para um Acordo Negociado) e o custo da não-ação." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Falar sobre o futuro." }
+        ],
+        "explanation": "Essa pergunta usa a aversão à perda para motivar o acordo.",
+        "hint": "Aversão à perda.",
+        "correctAnswer": "b",
+        "bookExample": "O medo da perda é o maior motivador."
+      },
+      {
+        "id": "7",
+        "question": "Como as perguntas calibradas ajudam a descobrir o 'Cisne Negro'?",
+        "options": [
+          { "value": "a", "label": "Elas não ajudam." },
+          { "value": "b", "label": "Elas forçam o oponente a revelar restrições, medos ou informações ocultas que ele não revelaria em uma pergunta direta." },
+          { "value": "c", "label": "Elas fazem o oponente mentir." },
+          { "value": "d", "label": "Elas encerram a conversa." }
+        ],
+        "explanation": "O 'Como' e o 'O Quê' abrem a porta para a informação não dita.",
+        "hint": "Informação oculta.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Como' é a chave para o cofre."
+      },
+      {
+        "id": "8",
+        "question": "Se o oponente diz: 'Eu não posso fazer isso.' Qual é a melhor pergunta calibrada de acompanhamento?",
+        "options": [
+          { "value": "a", "label": "Por que não?" },
+          { "value": "b", "label": "O que te impede de fazer isso?" },
+          { "value": "c", "label": "Você está mentindo?" },
+          { "value": "d", "label": "Eu entendo." }
+        ],
+        "explanation": "O 'O que' é menos acusatório que o 'Por que'.",
+        "hint": "Menos acusatório.",
+        "correctAnswer": "b",
+        "bookExample": "Use 'O que' para substituir 'Por que'."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de usar perguntas de 'Sim/Não' após o 'Isso Mesmo'?",
+        "options": [
+          { "value": "a", "label": "A pessoa fica entediada." },
+          { "value": "b", "label": "Você perde o momento de colaboração e volta à dinâmica de interrogatório, perdendo a ilusão de controle." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "Mantenha o fluxo de perguntas abertas para guiar a solução.",
+        "hint": "Fluxo.",
+        "correctAnswer": "b",
+        "bookExample": "Perguntas calibradas mantêm o controle nas mãos do oponente, mas o resultado nas suas."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a função da pergunta 'Como eu posso saber que isso é verdade?'",
+        "options": [
+          { "value": "a", "label": "Acusar o oponente de mentir." },
+          { "value": "b", "label": "Pedir evidências ou prova social de forma não agressiva, forçando o oponente a justificar sua posição." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Essa pergunta é usada para testar a credibilidade sem ser ofensivo.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "A credibilidade é a base da negociação."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Dobrando a Realidade: Ancoragem Extrema",
+    "teaser": "💰 Manipule a percepção de valor: ancore *extremamente* alto para que sua oferta real pareça uma pechincha irresistível.",
+    "level1": "A ancoragem é a tendência de dar peso excessivo à primeira informação recebida. Você deve usar isso a seu favor, começando com uma oferta extrema (Anchor High) que é intencionalmente inaceitável. Isso faz com que sua oferta real, que virá depois, pareça uma grande concessão.",
+    "level2": "Se você quer $100, comece pedindo $150. O oponente ancorará em $150, e quando você oferecer $100, ele sentirá que 'venceu' ao te fazer baixar o preço. Combine isso com a aversão à perda, enquadrando a negociação em termos de perdas.",
+    "level3": "Ruim: Começar com o preço que você realmente quer. Bom: Começar com um preço 40% maior, seguido por uma rotulagem de que 'Parece que isso é um preço ridículo para você'.",
+    "recapitulation": [
+      "Ancoragem Extrema = Começar com um preço/oferta intencionalmente inaceitável e alto.",
+      "A ancora define o limite superior da percepção de valor.",
+      "Use 'Números Ímpares' (ex: $10.347,52) para parecer preciso e não arredondado.",
+      "Siga a ancoragem com Rotulagem ('Parece que é muito caro') para desarmar a reação negativa.",
+      "Use 'Concessões Estratégicas Decrescentes' (diminua o tamanho da concessão a cada rodada) para sinalizar seu limite.",
+      "A Ancoragem usa a aversão à perda (medo de perder o acordo) para impulsionar a ação."
+    ],
+    "practicalChecklist": [
+      "Em sua próxima negociação de preço, ancore com um número 30-40% maior do que você realmente quer.",
+      "Imediatamente após a âncora, use 'Parece que isso é um preço ultrajante para você' (Rotulagem).",
+      "Sempre use números específicos (ímpares) em vez de números redondos.",
+      "Se precisar conceder, faça concessões de tamanhos decrescentes (ex: 500, depois 100, depois 50).",
+      "Enquadre o acordo em termos do que o oponente *perderá* se não aceitar."
+    ],
+    "conclusionMessage": "Use a ancoragem extrema (Anchor High) e a aversão à perda para manipular a percepção de valor do oponente, fazendo sua oferta real parecer razoável.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é 'Ancoragem Extrema' (Extreme Anchor)?",
+        "options": [
+          { "value": "a", "label": "Começar com um preço baixo." },
+          { "value": "b", "label": "Começar com uma oferta intencionalmente inaceitável e alta para manipular a percepção de valor do oponente." },
+          { "value": "c", "label": "Fazer uma ameaça." },
+          { "value": "d", "label": "Falar sobre o passado." }
+        ],
+        "explanation": "A ancoragem extrema define o limite superior da negociação.",
+        "hint": "Limite superior.",
+        "correctAnswer": "b",
+        "bookExample": "O primeiro número na mesa é o mais importante."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o efeito da ancoragem extrema na sua oferta real?",
+        "options": [
+          { "value": "a", "label": "Faz sua oferta real parecer alta." },
+          { "value": "b", "label": "Faz sua oferta real parecer razoável e uma grande concessão, mesmo que seja o preço que você queria desde o início." },
+          { "value": "c", "label": "Faz o oponente encerrar a negociação." },
+          { "value": "d", "label": "Faz o oponente ficar irritado." }
+        ],
+        "explanation": "A ancoragem manipula a percepção de valor.",
+        "hint": "Percepção.",
+        "correctAnswer": "b",
+        "bookExample": "A negociação é um jogo de percepção."
+      },
+      {
+        "id": "3",
+        "question": "Como você deve apresentar a ancoragem extrema?",
+        "options": [
+          { "value": "a", "label": "Com agressividade." },
+          { "value": "b", "label": "Com um tom de voz positivo e divertido, seguido por uma rotulagem que reconhece o quão ridículo o número pode parecer." },
+          { "value": "c", "label": "Com um tom de voz de locutor de rádio." },
+          { "value": "d", "label": "Com um tom de voz sério." }
+        ],
+        "explanation": "A rotulagem ('Parece que isso é um preço ridículo') desarma a reação negativa.",
+        "hint": "Desarmamento.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule o elefante na sala."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Aversão à Perda' (Loss Aversion) na ancoragem?",
+        "options": [
+          { "value": "a", "label": "O medo de perder o negócio." },
+          { "value": "b", "label": "Enquadrar a negociação em termos de perdas que o oponente evitará ao aceitar sua proposta (ex: 'Se não fizermos isso, você perderá X')." },
+          { "value": "c", "label": "O medo de perder dinheiro." },
+          { "value": "d", "label": "O medo de falar demais." }
+        ],
+        "explanation": "As pessoas são mais motivadas a evitar perdas do que a obter ganhos.",
+        "hint": "Motivação.",
+        "correctAnswer": "b",
+        "bookExample": "A dor da perda é duas vezes mais poderosa que a alegria do ganho."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de não usar a ancoragem?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "O oponente ancorará em um número baixo, e você terá que lutar para subir o preço." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "O primeiro número na mesa é o mais importante.",
+        "hint": "Primeiro número.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não ancorar, o outro lado o fará."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Usar Números Ímpares' (Odd Numbers)?",
+        "options": [
+          { "value": "a", "label": "Usar números redondos." },
+          { "value": "b", "label": "Usar números específicos e não arredondados (ex: $10.347,52 em vez de $10.000) para comunicar que você fez sua lição de casa e que o número é baseado em cálculos precisos." },
+          { "value": "c", "label": "Usar números grandes." },
+          { "value": "d", "label": "Usar números pequenos." }
+        ],
+        "explanation": "Números ímpares comunicam competência e precisão.",
+        "hint": "Precisão.",
+        "correctAnswer": "b",
+        "bookExample": "Números ímpares parecem mais reais."
+      },
+      {
+        "id": "7",
+        "question": "Qual é a função da 'Concessão Estratégica' (Strategic Concession)?",
+        "options": [
+          { "value": "a", "label": "Dar o que o oponente quer." },
+          { "value": "b", "label": "Fazer concessões decrescentes (ex: 40%, depois 20%, depois 10%) para fazer o oponente sentir que está se aproximando do limite e que está 'vencendo'." },
+          { "value": "c", "label": "Fazer concessões crescentes." },
+          { "value": "d", "label": "Fazer uma grande concessão no início." }
+        ],
+        "explanation": "As concessões devem ser pequenas e parecer dolorosas para você.",
+        "hint": "Dor.",
+        "correctAnswer": "b",
+        "bookExample": "As concessões devem ser como tirar um band-aid lentamente."
+      },
+      {
+        "id": "8",
+        "question": "O que o negociador deve fazer após a ancoragem extrema?",
+        "options": [
+          { "value": "a", "label": "Ficar em silêncio." },
+          { "value": "b", "label": "Usar a rotulagem para desarmar a reação negativa ('Parece que esse preço é ultrajante para você')." },
+          { "value": "c", "label": "Fazer a oferta real." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A rotulagem é crucial para gerenciar a emoção após a ancoragem.",
+        "hint": "Gerenciamento de emoção.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule o elefante na sala."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Ancorar Baixo' (Anchor Low)?",
+        "options": [
+          { "value": "a", "label": "Você parece mais gentil." },
+          { "value": "b", "label": "Você define um limite inferior para a negociação, e o oponente ancorará nesse número, tornando difícil subir o preço." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "Sempre ancore alto para ter margem de manobra.",
+        "hint": "Margem de manobra.",
+        "correctAnswer": "b",
+        "bookExample": "Ancore alto, mas negocie baixo."
+      },
+      {
+        "id": "10",
+        "question": "O que a 'Ancoragem Emocional' (Emotional Anchoring) envolve?",
+        "options": [
+          { "value": "a", "label": "Focar apenas em números." },
+          { "value": "b", "label": "Usar palavras que evocam emoções fortes (ex: 'perda', 'risco', 'oportunidade') para influenciar a percepção do oponente." },
+          { "value": "c", "label": "Ficar em silêncio." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "As emoções são o motor da decisão.",
+        "hint": "Motor da decisão.",
+        "correctAnswer": "b",
+        "bookExample": "A negociação é um jogo de emoções."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Garantindo a Execução: O 'Sim' de Compromisso",
+    "teaser": "🤝 O acordo não está fechado até que esteja *executado*. Aprenda a forçar o 'Sim' que gera ação, não apenas consentimento.",
+    "level1": "Muitas negociações falham na execução, mesmo após um 'Sim' verbal. Isso ocorre porque o 'Sim' não foi um comprometimento real. Você deve usar perguntas calibradas que forçam o oponente a pensar em 'Como' e 'O Quê' ele fará para executar o acordo.",
+    "level2": "O 'Sim' de comprometimento é a prova de que o oponente está disposto a agir. Em vez de perguntar 'Você concorda?', pergunte 'Como garantiremos que isso seja implementado?' ou 'O que faremos se X acontecer?'.",
+    "level3": "Ruim: 'Podemos fechar o negócio?' Bom: 'O que faremos para garantir que sua equipe esteja a bordo com esta solução?'",
+    "recapitulation": [
+      "O 'Sim' de Comprometimento é a prova de que a negociação será executada.",
+      "É o 3º 'Sim' (após Sim de Confirmação e Sim de Acordo).",
+      "Obtido através de Perguntas Calibradas focadas na logística e nos obstáculos da implementação.",
+      "Força o oponente a 'Ancorar a Execução' (pensar nos detalhes).",
+      "Ajuda a descobrir Cisnes Negros relacionados à equipe ou aos obstáculos internos.",
+      "Evita a 'falha na execução' comum em acordos superficiais."
+    ],
+    "practicalChecklist": [
+      "Após o 'Isso Mesmo', use 'Como garantiremos que isso seja implementado?' (Pergunta Calibrada de execução).",
+      "Pergunte 'O que acontece se sua equipe não concordar com este plano?' para antecipar obstáculos.",
+      "Use 'O que você precisa de mim para fazer isso acontecer?' para transferir a responsabilidade da ação.",
+      "Use a Rotulagem se houver hesitação ('Parece que há um obstáculo interno que não estamos vendo').",
+      "Não termine o acordo sem um 'Como' ou 'O Quê' concreto sobre os próximos 3 passos."
+    ],
+    "conclusionMessage": "O 'Sim' de comprometimento é o terceiro 'Sim' (após o 'Sim' de confirmação e o 'Sim' de acordo). Ele é obtido através de perguntas calibradas que forçam o oponente a pensar na execução.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o objetivo do 'Sim' de Compromisso?",
+        "options": [
+          { "value": "a", "label": "Obter um acordo rápido." },
+          { "value": "b", "label": "Garantir que o oponente esteja mentalmente comprometido com a execução e os próximos passos do acordo." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "O 'Sim' de comprometimento é a chave para a execução bem-sucedida.",
+        "hint": "Execução.",
+        "correctAnswer": "b",
+        "bookExample": "O acordo é inútil sem a execução."
+      },
+      {
+        "id": "2",
+        "question": "Qual tipo de pergunta é mais eficaz para obter o 'Sim' de Compromisso?",
+        "options": [
+          { "value": "a", "label": "Perguntas de 'Sim/Não'." },
+          { "value": "b", "label": "Perguntas calibradas ('Como' e 'O Quê') focadas na logística e nos obstáculos da implementação." },
+          { "value": "c", "label": "Perguntas sobre o passado." },
+          { "value": "d", "label": "Perguntas sobre o clima." }
+        ],
+        "explanation": "As perguntas calibradas forçam o oponente a pensar em ação.",
+        "hint": "Ação.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Como' é a chave para a execução."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de não buscar o 'Sim' de Compromisso?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "O acordo pode falhar na fase de implementação, pois o oponente não pensou nos detalhes da execução." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A falha na execução é comum em negociações superficiais.",
+        "hint": "Superficialidade.",
+        "correctAnswer": "b",
+        "bookExample": "O diabo está nos detalhes da execução."
+      },
+      {
+        "id": "4",
+        "question": "Qual é um exemplo de pergunta calibrada para garantir a execução?",
+        "options": [
+          { "value": "a", "label": "Você vai fazer isso?" },
+          { "value": "b", "label": "O que acontece se sua equipe não concordar com este plano?" },
+          { "value": "c", "label": "Você está pronto para assinar?" },
+          { "value": "d", "label": "Eu entendo." }
+        ],
+        "explanation": "Essa pergunta força o oponente a considerar os obstáculos internos.",
+        "hint": "Obstáculos internos.",
+        "correctAnswer": "b",
+        "bookExample": "Antecipe os obstáculos para garantir a execução."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Ancorar a Execução'?",
+        "options": [
+          { "value": "a", "label": "Falar sobre o preço." },
+          { "value": "b", "label": "Usar a aversão à perda para enquadrar a falha na execução em termos de perdas que o oponente sofrerá." },
+          { "value": "c", "label": "Ficar em silêncio." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A aversão à perda motiva a ação.",
+        "hint": "Motivação.",
+        "correctAnswer": "b",
+        "bookExample": "O medo da perda é o maior motivador."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a função da pergunta 'Como garantiremos que não haja surpresas?'",
+        "options": [
+          { "value": "a", "label": "Ameaçar o oponente." },
+          { "value": "b", "label": "Forçar o oponente a revelar informações ocultas ou riscos potenciais na implementação." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Falar sobre o futuro." }
+        ],
+        "explanation": "Essa pergunta busca o 'Cisne Negro' da execução.",
+        "hint": "Risco.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Como' é a chave para a prevenção de riscos."
+      },
+      {
+        "id": "7",
+        "question": "O que o negociador deve fazer se o oponente hesitar em responder a uma pergunta de execução?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Usar o espelhamento ou a rotulagem para entender a hesitação ('Parece que há um obstáculo que não estamos vendo')." },
+          { "value": "c", "label": "Ameaçar o oponente." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A hesitação é um sinal de que há um Cisne Negro.",
+        "hint": "Sinal de Cisne Negro.",
+        "correctAnswer": "b",
+        "bookExample": "A hesitação é a porta de entrada para a verdade."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a diferença entre o 'Sim' de Acordo e o 'Sim' de Compromisso?",
+        "options": [
+          { "value": "a", "label": "Nenhuma." },
+          { "value": "b", "label": "O 'Sim' de Acordo é sobre o conceito (o que será feito), e o 'Sim' de Compromisso é sobre a ação (como será feito)." },
+          { "value": "c", "label": "O 'Sim' de Acordo é mais importante." },
+          { "value": "d", "label": "O 'Sim' de Compromisso é mais rápido." }
+        ],
+        "explanation": "O foco deve ser na ação, não apenas na intenção.",
+        "hint": "Ação vs. Intenção.",
+        "correctAnswer": "b",
+        "bookExample": "O acordo é a intenção. O comprometimento é a ação."
+      },
+      {
+        "id": "9",
+        "question": "Qual é a função da pergunta 'O que você precisa de mim para fazer isso acontecer?'",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Identificar os recursos ou o apoio que o oponente precisa, tornando-o responsável por pedir ajuda." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Essa pergunta transfere a responsabilidade para o oponente.",
+        "hint": "Responsabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Faça o oponente se sentir responsável pelo sucesso."
+      },
+      {
+        "id": "10",
+        "question": "O que o 'Sim' de Compromisso ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "O silêncio." },
+          { "value": "b", "label": "O 'Sim' falso e a falha na execução devido à falta de planejamento ou objeções ocultas." },
+          { "value": "c", "label": "O contato visual." },
+          { "value": "d", "label": "O preço alto." }
+        ],
+        "explanation": "O comprometimento é a prova de que o acordo é sólido.",
+        "hint": "Solidez.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' de comprometimento é a prova de que o acordo é real."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "O 'Não' Mais Importante: Evitando o 'Sim' Falso",
+    "teaser": "🚧 O 'Sim' pode ser uma armadilha. Aprenda a buscar o 'Não' mais importante para testar a honestidade e a autoridade do seu oponente.",
+    "level1": "O 'Sim' falso é o maior inimigo da negociação. Ele ocorre quando o oponente diz 'Sim' para ser educado, para se livrar de você ou porque não tem autoridade para dizer 'Não'. Você deve usar perguntas que forçam o oponente a dizer 'Não' para provar que ele está realmente a bordo.",
+    "level2": "Em vez de perguntar 'Você está pronto para fechar?', pergunte 'Você está pronto para desistir de todas as outras opções e se comprometer totalmente com isso?'. O 'Não' que ele não diz é o 'Sim' que você precisa.",
+    "level3": "Ruim: 'Você concorda?' Bom: 'Você está me dizendo que não há nada nesta proposta que te incomoda?'",
+    "recapitulation": [
+      "O 'Sim' Falso é a pior resposta (falsa sensação de segurança, falha na execução).",
+      "O 'Não' Mais Importante é provocado para testar a honestidade e o comprometimento.",
+      "Use Perguntas Calibradas que forçam a negação de um obstáculo ('Você está pronto para desistir disto?').",
+      "O 'Sim' rápido é um sinal de alerta – teste-o imediatamente com Rotulagem ou Espelhamento.",
+      "Use perguntas focadas na autoridade ('Como garantiremos que sua equipe esteja a bordo?') para descobrir o 'Não-Decisor'.",
+      "A negação de um obstáculo é um comprometimento mais forte do que um 'Sim' simples."
+    ],
+    "practicalChecklist": [
+      "Sempre desconfie do 'Sim' rápido e teste-o com uma Pergunta Calibrada.",
+      "Use a Rotulagem para o 'Sim' Falso ('Parece que você está com pressa, mas há algo que te incomoda?').",
+      "Use 'Você está me dizendo que não há nada nesta proposta que te incomoda?' para forçar a negação (o 'Não' importante).",
+      "Se estiver em um impasse, use 'Você está me dizendo para ir embora?' para reverter a dinâmica.",
+      "Antes de fechar, use uma pergunta de autoridade para testar o 'Não-Decisor'."
+    ],
+    "conclusionMessage": "O 'Não' mais importante é o 'Não' que você deve provocar para garantir que o oponente não está apenas sendo educado, mas sim comprometido.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é o 'Sim' Falso?",
+        "options": [
+          { "value": "a", "label": "Um acordo sobre o preço." },
+          { "value": "b", "label": "Um 'Sim' dado por educação, para evitar conflito ou por falta de autoridade, que não leva à execução." },
+          { "value": "c", "label": "Um acordo sobre o prazo." },
+          { "value": "d", "label": "Um acordo sobre o produto." }
+        ],
+        "explanation": "O 'Sim' falso é perigoso porque cria uma falsa sensação de segurança.",
+        "hint": "Falsa segurança.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' falso é a morte lenta da negociação."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a melhor forma de provocar o 'Não' mais importante?",
+        "options": [
+          { "value": "a", "label": "Ameaçando o oponente." },
+          { "value": "b", "label": "Usando perguntas calibradas que forçam o oponente a negar uma objeção ou um obstáculo ('Você está me dizendo que não há nada que te impeça?')." },
+          { "value": "c", "label": "Fazendo uma concessão." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "A negação de um obstáculo é um comprometimento.",
+        "hint": "Negação.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Não' é a porta de entrada para a verdade."
+      },
+      {
+        "id": "3",
+        "question": "O que o negociador deve fazer se o oponente disser 'Sim' muito rapidamente?",
+        "options": [
+          { "value": "a", "label": "Aceitar e seguir em frente." },
+          { "value": "b", "label": "Usar a rotulagem ('Parece que você está com pressa') ou uma pergunta calibrada para testar o comprometimento ('O que te impede de dizer 'Não' agora?')." },
+          { "value": "c", "label": "Ficar em silêncio." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Sim' rápido é um sinal de alerta.",
+        "hint": "Alerta.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' rápido é o inimigo da execução."
+      },
+      {
+        "id": "4",
+        "question": "Qual é a função da pergunta 'Você está me dizendo para ir embora?'",
+        "options": [
+          { "value": "a", "label": "Ameaçar o oponente." },
+          { "value": "b", "label": "Forçar um 'Não' que reverte a dinâmica e faz o oponente se sentir no controle, geralmente o trazendo de volta à mesa." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Falar sobre o futuro." }
+        ],
+        "explanation": "Essa pergunta usa a aversão à perda para motivar o acordo.",
+        "hint": "Reversão de dinâmica.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Não' é a ferramenta de reversão."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Testar a Autoridade' do oponente?",
+        "options": [
+          { "value": "a", "label": "Perguntar se ele é o chefe." },
+          { "value": "b", "label": "Usar perguntas calibradas para descobrir quem mais precisa estar envolvido na decisão ('Como garantiremos que X esteja a bordo?')." },
+          { "value": "c", "label": "Ficar em silêncio." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Você precisa negociar com quem tem o poder de dizer 'Sim' e 'Não'.",
+        "hint": "Poder de decisão.",
+        "correctAnswer": "b",
+        "bookExample": "Negocie com quem pode executar."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o risco de negociar com alguém que não tem autoridade?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você pode obter um 'Sim' falso que será revertido pela pessoa com autoridade mais tarde." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A negociação com o 'Não-Decisor' é ineficaz.",
+        "hint": "Ineficácia.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' do não-decisor é inútil."
+      },
+      {
+        "id": "7",
+        "question": "Como você pode usar a 'Rotulagem' para testar o 'Sim' falso?",
+        "options": [
+          { "value": "a", "label": "Rotular a felicidade." },
+          { "value": "b", "label": "Rotular a falta de entusiasmo ('Parece que você não está muito animado com isso')." },
+          { "value": "c", "label": "Rotular o preço." },
+          { "value": "d", "label": "Rotular o prazo." }
+        ],
+        "explanation": "A falta de entusiasmo é um sinal de 'Sim' falso.",
+        "hint": "Entusiasmo.",
+        "correctAnswer": "b",
+        "bookExample": "O corpo não mente."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a função da pergunta 'O que você precisa de mim para se sentir 100% confortável?'",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Forçar o oponente a revelar a objeção oculta que está impedindo o comprometimento total." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Essa pergunta busca o Cisne Negro final.",
+        "hint": "Cisne Negro.",
+        "correctAnswer": "b",
+        "bookExample": "O conforto é a chave para o comprometimento."
+      },
+      {
+        "id": "9",
+        "question": "O que o 'Não' mais importante ajuda a construir?",
+        "options": [
+          { "value": "a", "label": "Agressividade." },
+          { "value": "b", "label": "Confiança e um comprometimento real, pois o oponente sente que pode ser honesto." },
+          { "value": "c", "label": "Tédio." },
+          { "value": "d", "label": "Concessões imediatas." }
+        ],
+        "explanation": "A honestidade é a base da confiança.",
+        "hint": "Honestidade.",
+        "correctAnswer": "b",
+        "bookExample": "A verdade é a moeda da negociação."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de lidar com um oponente que diz 'Sim' a tudo?",
+        "options": [
+          { "value": "a", "label": "Aceitar e seguir em frente." },
+          { "value": "b", "label": "Usar perguntas calibradas que forçam o 'Não' ('É uma má ideia para você?')." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Sim' fácil é um sinal de alerta.",
+        "hint": "Alerta.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' fácil é o inimigo do 'Sim' real."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "O Preço da Emoção: Negociando com o 'Terrorista'",
+    "teaser": "😡 O oponente irracional é movido por emoção. Desarme a raiva e o medo com empatia extrema. A lógica vem depois.",
+    "level1": "Oponentes irracionais (como sequestradores ou 'terroristas' no sentido figurado) são movidos por emoções extremas (medo, raiva, necessidade de ser ouvido). A lógica falha. Você deve usar a empatia tática para rotular o medo e a raiva, fazendo-os sentir-se compreendidos e seguros.",
+    "level2": "Se o oponente está gritando, ele não está pensando. Você deve usar a 'Voz de Locutor de Rádio' e a rotulagem ('Parece que você está furioso com a situação') para desescalar. O objetivo é fazer o oponente se sentir no controle emocionalmente, para que você possa controlar o resultado.",
+    "level3": "Ruim: 'Você precisa se acalmar.' Bom: 'Parece que você está sob uma pressão imensa e sente que não há saída.'",
+    "recapitulation": [
+      "Oponentes irracionais são motivados por emoções extremas (medo e raiva).",
+      "A lógica é ineficaz até que a emoção seja tratada e neutralizada.",
+      "Use a 'Voz de Locutor de Rádio Tarde da Noite' para projetar calma e autoridade.",
+      "Rotule o medo e a raiva ('Parece que você está furioso') para desarmar a agressão.",
+      "Nunca diga 'Você precisa se acalmar' (isso aumenta a defensiva).",
+      "Após a desescalada, use o 'Como' para forçar a racionalidade ('Como podemos resolver isso?')."
+    ],
+    "practicalChecklist": [
+      "Ao lidar com uma pessoa irritada/agressiva, rotule a emoção imediatamente.",
+      "Use 'Parece que você se sente totalmente injustiçado com a situação' para validar a dor.",
+      "Mantenha a 'Voz de Locutor de Rádio' e projete calma.",
+      "Se o oponente usar um ultimato, rotule a pressão ('Parece que você está sob muita pressão para resolver isso agora').",
+      "Evite usar a palavra 'Por que' – use 'O que te levou a essa decisão?' para evitar o tom acusatório."
+    ],
+    "conclusionMessage": "Negociar com oponentes irracionais ou agressivos exige o uso de empatia tática extrema, rotulando o medo e a raiva para desarmá-los.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal motivador de um oponente irracional ou agressivo?",
+        "options": [
+          { "value": "a", "label": "Lógica." },
+          { "value": "b", "label": "Emoções extremas (medo, raiva, necessidade de ser ouvido)." },
+          { "value": "c", "label": "Dinheiro." },
+          { "value": "d", "label": "Poder." }
+        ],
+        "explanation": "A emoção é o motor da irracionalidade.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "A negociação é um jogo de emoções."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a ferramenta mais eficaz para desarmar a agressão?",
+        "options": [
+          { "value": "a", "label": "Ameaças." },
+          { "value": "b", "label": "Rotulagem do medo e da raiva, seguida por silêncio." },
+          { "value": "c", "label": "Gritar mais alto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A rotulagem neutraliza a emoção.",
+        "hint": "Neutralização.",
+        "correctAnswer": "b",
+        "bookExample": "Dê nome ao medo, e ele perde o poder."
+      },
+      {
+        "id": "3",
+        "question": "O que a 'Voz de Locutor de Rádio Tarde da Noite' comunica a um oponente agressivo?",
+        "options": [
+          { "value": "a", "label": "Agressividade." },
+          { "value": "b", "label": "Calma, autoridade e controle, induzindo o oponente a baixar a guarda e a imitar o tom." },
+          { "value": "c", "label": "Tédio." },
+          { "value": "d", "label": "Nervosismo." }
+        ],
+        "explanation": "A calma é contagiosa.",
+        "hint": "Contágio.",
+        "correctAnswer": "b",
+        "bookExample": "A calma é a sua arma secreta."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de dizer 'Você precisa se acalmar' a um oponente irritado?",
+        "options": [
+          { "value": "a", "label": "Ele se acalma." },
+          { "value": "b", "label": "Ele se sente julgado e não compreendido, o que aumenta a raiva e a defensiva." },
+          { "value": "c", "label": "Ele encerra a negociação." },
+          { "value": "d", "label": "Ele muda de assunto." }
+        ],
+        "explanation": "O julgamento é o inimigo da empatia.",
+        "hint": "Julgamento.",
+        "correctAnswer": "b",
+        "bookExample": "Nunca diga a alguém como se sentir."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Rotular o Pior' (Labeling the Worst)?",
+        "options": [
+          { "value": "a", "label": "Fazer uma ameaça." },
+          { "value": "b", "label": "Verbalizar o pior cenário que o oponente está pensando ('Parece que você sente que vai perder tudo') para desarmar o medo." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Falar sobre o prazo." }
+        ],
+        "explanation": "Ao verbalizar o medo, você o tira do controle do oponente.",
+        "hint": "Medo.",
+        "correctAnswer": "b",
+        "bookExample": "Dê nome ao medo, e ele perde o poder."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a função da pergunta 'Como podemos resolver isso?' após a desescalada?",
+        "options": [
+          { "value": "a", "label": "Mudar de assunto." },
+          { "value": "b", "label": "Transferir o fardo da solução para o oponente, fazendo-o usar a parte racional do cérebro." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "O 'Como' força a racionalidade.",
+        "hint": "Racionalidade.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Como' é a chave para a solução."
+      },
+      {
+        "id": "7",
+        "question": "O que o negociador deve fazer se o oponente começar a gritar?",
+        "options": [
+          { "value": "a", "label": "Gritar de volta." },
+          { "value": "b", "label": "Mudar para a 'Voz de Locutor de Rádio' e usar a rotulagem para desarmar a emoção." },
+          { "value": "c", "label": "Encerrar a negociação." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "A calma é a resposta mais eficaz à agressão.",
+        "hint": "Calma.",
+        "correctAnswer": "b",
+        "bookExample": "A calma é contagiosa."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Focar na Lógica' ao negociar com um irracional?",
+        "options": [
+          { "value": "a", "label": "Você parece mais inteligente." },
+          { "value": "b", "label": "Você ignora o motor da decisão (emoção), e o oponente se torna mais defensivo e irracional." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A emoção deve ser tratada antes da lógica.",
+        "hint": "Prioridade.",
+        "correctAnswer": "b",
+        "bookExample": "A emoção precede a lógica."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'Rotular o Sentimento de Injustiça'?",
+        "options": [
+          { "value": "a", "label": "Concordar que a situação é injusta." },
+          { "value": "b", "label": "Verbalizar que o oponente sente que foi tratado de forma injusta ('Parece que você sente que isso é totalmente injusto') para validar a emoção." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "O sentimento de injustiça é um poderoso motivador de irracionalidade.",
+        "hint": "Motivador.",
+        "correctAnswer": "b",
+        "bookExample": "O sentimento de injustiça é o maior obstáculo."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de lidar com um oponente que usa 'Ultimatos'?",
+        "options": [
+          { "value": "a", "label": "Aceitar o ultimato." },
+          { "value": "b", "label": "Usar a rotulagem ('Parece que você está sob muita pressão para resolver isso agora') e perguntas calibradas ('O que acontece se não fizermos isso agora?')." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Ultimatos são sinais de medo e pressão. Você deve rotular a pressão.",
+        "hint": "Pressão.",
+        "correctAnswer": "b",
+        "bookExample": "Ultimatos são apenas pedidos de ajuda disfarçados."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "O Cisne Negro: Encontrando a Informação Oculta",
+    "teaser": "🕵️ Seja um detetive! O Cisne Negro é a informação escondida que vira o jogo. Aprenda a fazer o oponente revelá-la.",
+    "level1": "O Cisne Negro é um fator desconhecido que tem um impacto massivo no resultado da negociação. Pode ser uma restrição de tempo, um medo oculto, uma necessidade não dita ou uma alternativa secreta (BATNA). O negociador deve ser um detetive, buscando ativamente essa informação.",
+    "level2": "A maioria das negociações é resolvida por algo que não estava na mesa. Você deve usar todas as ferramentas (espelhamento, rotulagem, perguntas calibradas) para fazer o oponente se sentir seguro o suficiente para revelar o Cisne Negro.",
+    "level3": "O Cisne Negro pode ser: 'Meu chefe me disse que se eu não fechar isso hoje, serei demitido.' (Restrição de tempo/medo).",
+    "recapitulation": [
+      "Cisne Negro = Informação oculta que muda drasticamente o resultado.",
+      "É encontrado através do Loop de Empatia (rotulagem, espelhamento, calibradas).",
+      "Pode ser um BATNA (Melhor Alternativa para um Acordo Negociado) secreto ou um medo.",
+      "A pergunta 'O que você está tentando proteger?' busca o medo oculto.",
+      "A 'Vulnerabilidade Controlada' (revelar uma fraqueza) encoraja o oponente a revelar o Cisne Negro (Reciprocidade).",
+      "O maior risco é 'presumir' o Cisne Negro e resolver o problema errado."
+    ],
+    "practicalChecklist": [
+      "Use 'O que é mais importante para você nesta negociação?' para forçar a priorização e a revelação.",
+      "Se sentir uma hesitação, use a rotulagem ('Parece que há algo que você está escondendo') para testar a hipótese.",
+      "Use 'O que você está tentando proteger?' para buscar o medo.",
+      "Se um Cisne Negro for revelado, reestruture a proposta imediatamente para resolvê-lo.",
+      "Pratique a 'Vulnerabilidade Controlada' (compartilhe uma restrição genuína) para criar reciprocidade."
+    ],
+    "conclusionMessage": "O Cisne Negro é a informação oculta que, se descoberta, muda fundamentalmente a dinâmica da negociação. Ele é encontrado através da escuta ativa e perguntas calibradas.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é o 'Cisne Negro' (Black Swan) na negociação?",
+        "options": [
+          { "value": "a", "label": "Um evento inesperado que não afeta a negociação." },
+          { "value": "b", "label": "Uma informação oculta, restrição ou motivação que, se descoberta, muda fundamentalmente a dinâmica e o resultado da negociação." },
+          { "value": "c", "label": "Um oponente irracional." },
+          { "value": "d", "label": "Um acordo sobre o preço." }
+        ],
+        "explanation": "O Cisne Negro é a chave para o poder.",
+        "hint": "Poder.",
+        "correctAnswer": "b",
+        "bookExample": "O Cisne Negro é a informação que você não sabia que não sabia."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a principal forma de descobrir o Cisne Negro?",
+        "options": [
+          { "value": "a", "label": "Ameaças." },
+          { "value": "b", "label": "Escuta ativa, rotulagem e perguntas calibradas que buscam restrições e medos." },
+          { "value": "c", "label": "Falar sobre si mesmo." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "O Cisne Negro é revelado quando o oponente se sente seguro.",
+        "hint": "Segurança.",
+        "correctAnswer": "b",
+        "bookExample": "A empatia é a chave para o Cisne Negro."
+      },
+      {
+        "id": "3",
+        "question": "Qual é a função da pergunta 'O que é mais importante para você nesta negociação?'",
+        "options": [
+          { "value": "a", "label": "Mudar de assunto." },
+          { "value": "b", "label": "Forçar o oponente a priorizar, revelando o Cisne Negro (o que ele realmente valoriza)." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "A prioridade é frequentemente o Cisne Negro.",
+        "hint": "Prioridade.",
+        "correctAnswer": "b",
+        "bookExample": "O que é mais importante é o que está escondido."
+      },
+      {
+        "id": "4",
+        "question": "O que o negociador deve fazer se suspeitar de um Cisne Negro?",
+        "options": [
+          { "value": "a", "label": "Acusar o oponente." },
+          { "value": "b", "label": "Usar a rotulagem para testar a hipótese ('Parece que há algo mais importante para você do que o preço')." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A rotulagem é a ferramenta para testar a hipótese.",
+        "hint": "Teste.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule o que você suspeita."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de não buscar o Cisne Negro?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você pode resolver o problema errado, deixando a negociação vulnerável a falhas na execução ou a um BATNA secreto." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "O Cisne Negro é o que realmente importa.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "A negociação é um processo de eliminação de suposições."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Rotular o BATNA' (Melhor Alternativa para um Acordo Negociado)?",
+        "options": [
+          { "value": "a", "label": "Ameaçar o oponente." },
+          { "value": "b", "label": "Verbalizar a alternativa do oponente ('Parece que você tem uma opção melhor se não fecharmos isso') para forçá-lo a revelar a força real do BATNA." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Rotular o BATNA é uma forma de testar a força da posição dele.",
+        "hint": "Força.",
+        "correctAnswer": "b",
+        "bookExample": "O BATNA é o poder real na negociação."
+      },
+      {
+        "id": "7",
+        "question": "Qual é a função da pergunta 'O que você está tentando proteger?'",
+        "options": [
+          { "value": "a", "label": "Acusar o oponente." },
+          { "value": "b", "label": "Forçar o oponente a revelar o medo ou a restrição oculta que está impedindo o acordo." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Falar sobre o futuro." }
+        ],
+        "explanation": "Essa pergunta busca o medo, que é um Cisne Negro comum.",
+        "hint": "Medo.",
+        "correctAnswer": "b",
+        "bookExample": "O medo é o maior inimigo da negociação."
+      },
+      {
+        "id": "8",
+        "question": "O que o negociador deve fazer se o oponente revelar um Cisne Negro?",
+        "options": [
+          { "value": "a", "label": "Ignorar e seguir em frente." },
+          { "value": "b", "label": "Usar a informação para reestruturar a proposta, focando em resolver o Cisne Negro (ex: se o medo é o prazo, foque na velocidade)." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O Cisne Negro é a chave para a solução.",
+        "hint": "Solução.",
+        "correctAnswer": "b",
+        "bookExample": "O Cisne Negro é a chave para o cofre."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Presumir' o Cisne Negro?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você pode resolver o problema errado, e o oponente se sente não compreendido." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "Nunca presuma. Sempre pergunte e rotule.",
+        "hint": "Perguntar.",
+        "correctAnswer": "b",
+        "bookExample": "A negociação é um processo de eliminação de suposições."
+      },
+      {
+        "id": "10",
+        "question": "O que a 'Vulnerabilidade Controlada' ajuda a revelar?",
+        "options": [
+          { "value": "a", "label": "O preço." },
+          { "value": "b", "label": "O Cisne Negro, pois ao se abrir, você encoraja o oponente a se abrir também (reciprocidade)." },
+          { "value": "c", "label": "O prazo." },
+          { "value": "d", "label": "O produto." }
+        ],
+        "explanation": "A vulnerabilidade é o atalho para a intimidade e a verdade.",
+        "hint": "Reciprocidade.",
+        "correctAnswer": "b",
+        "bookExample": "A vulnerabilidade é a cola da confiança."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "A Arte de Fazer o Oponente Negociar Contra Si Mesmo",
+    "teaser": "♟️ A jogada de mestre: faça seu oponente sentir-se no controle enquanto ele, sem querer, resolve seu problema e sabota a própria posição inicial.",
+    "level1": "O negociador mestre faz o oponente negociar contra si mesmo. Isso é alcançado através de perguntas calibradas ('Como' e 'O Quê') que forçam o oponente a justificar sua posição e a propor soluções que atendam às suas necessidades.",
+    "level2": "Em vez de atacar a posição dele, você a valida com empatia tática e depois usa o 'Como' para transferir o fardo da solução. O oponente sente que está no controle, mas está, na verdade, trabalhando para você.",
+    "level3": "Oponente: 'Eu preciso de $100.' Você: 'Parece que $100 é o mínimo que você pode aceitar. Como eu posso te dar $100 e ainda garantir que eu não vá à falência?'",
+    "recapitulation": [
+      "Fazer o oponente negociar contra si mesmo é a chave para o sucesso sutil.",
+      "Use o 'Como' para transferir o fardo da solução para ele.",
+      "O oponente sente que está no controle, pois está ativamente envolvido na criação da solução.",
+      "Nunca ataque a posição do oponente – valide-a com empatia primeiro.",
+      "Use o Silêncio após a pergunta calibrada para permitir que ele pense e proponha uma solução.",
+      "As pessoas valorizam mais as soluções que *elas* criam (a 'Solução Dele é a Melhor Solução')."
+    ],
+    "practicalChecklist": [
+      "Ao ouvir uma demanda, use a Rotulagem e o 'Como' em sequência ('Parece que X é o que você precisa. Como podemos fazer isso funcionar para nós dois?').",
+      "Use 'O que você sugere que eu faça?' quando estiver preso em uma demanda irracional.",
+      "Use 'O que você ganha se aceitar isso?' para forçá-lo a justificar o acordo para si mesmo.",
+      "Se ele fizer uma proposta irracional, use a Rotulagem para forçar a racionalidade ('Parece que isso é difícil de justificar').",
+      "Lembre-se: seu objetivo é guiar o processo, não dar a solução."
+    ],
+    "conclusionMessage": "Use perguntas calibradas e o silêncio para fazer o oponente se sentir no controle, enquanto ele, na verdade, está resolvendo o seu problema e negociando contra sua própria posição inicial.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal ferramenta para fazer o oponente negociar contra si mesmo?",
+        "options": [
+          { "value": "a", "label": "Ameaças." },
+          { "value": "b", "label": "Perguntas calibradas ('Como' e 'O Quê') e o silêncio." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "As perguntas calibradas forçam a colaboração.",
+        "hint": "Colaboração.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Como' é a chave para a solução."
+      },
+      {
+        "id": "2",
+        "question": "O que o oponente sente ao negociar contra si mesmo?",
+        "options": [
+          { "value": "a", "label": "Ele se sente manipulado." },
+          { "value": "b", "label": "Ele se sente no controle e respeitado, pois está ativamente envolvido na criação da solução." },
+          { "value": "c", "label": "Ele fica irritado." },
+          { "value": "d", "label": "Ele encerra a negociação." }
+        ],
+        "explanation": "A ilusão de controle é crucial.",
+        "hint": "Ilusão de controle.",
+        "correctAnswer": "b",
+        "bookExample": "A melhor forma de vencer é fazer o outro lado pensar que ele venceu."
+      },
+      {
+        "id": "3",
+        "question": "Qual é a função da pergunta 'O que você sugere que eu faça?'",
+        "options": [
+          { "value": "a", "label": "Mostrar fraqueza." },
+          { "value": "b", "label": "Transferir o fardo da solução para o oponente, forçando-o a propor uma solução que ele mesmo terá que justificar." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Essa pergunta é uma forma de fazer o oponente negociar contra sua própria posição inicial.",
+        "hint": "Transferência de fardo.",
+        "correctAnswer": "b",
+        "bookExample": "Faça o oponente resolver o seu problema."
+      },
+      {
+        "id": "4",
+        "question": "O que o negociador deve fazer se o oponente fizer uma proposta irracional após uma pergunta calibrada?",
+        "options": [
+          { "value": "a", "label": "Aceitar a proposta." },
+          { "value": "b", "label": "Usar o espelhamento ou a rotulagem para forçá-lo a justificar a irracionalidade ('Parece que isso é um preço que você não pode justificar')." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A justificação é a chave para a racionalidade.",
+        "hint": "Justificação.",
+        "correctAnswer": "b",
+        "bookExample": "A negociação é um processo de eliminação de irracionalidade."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Atacar a Posição' do oponente?",
+        "options": [
+          { "value": "a", "label": "Você parece mais forte." },
+          { "value": "b", "label": "Você o coloca na defensiva, quebrando o rapport e o forçando a se apegar à sua posição inicial." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A empatia tática exige que você valide a posição dele antes de mudá-la.",
+        "hint": "Validação.",
+        "correctAnswer": "b",
+        "bookExample": "Valide a posição dele antes de mudá-la."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Usar o Silêncio' após uma pergunta calibrada?",
+        "options": [
+          { "value": "a", "label": "Mostrar tédio." },
+          { "value": "b", "label": "Dar tempo para o oponente pensar e formular uma resposta que o faça negociar contra si mesmo." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "O silêncio é a moldura da sabedoria.",
+        "hint": "Ponderação.",
+        "correctAnswer": "b",
+        "bookExample": "O silêncio é seu amigo. Use-o."
+      },
+      {
+        "id": "7",
+        "question": "Qual é a função da pergunta 'O que você ganha se aceitar isso?'",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Forçar o oponente a focar nos ganhos, em vez das perdas, e a justificar o acordo para si mesmo." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Essa pergunta ajuda o oponente a vender o acordo internamente.",
+        "hint": "Venda interna.",
+        "correctAnswer": "b",
+        "bookExample": "Faça o oponente vender o acordo para si mesmo."
+      },
+      {
+        "id": "8",
+        "question": "O que o negociador deve fazer se o oponente disser 'Eu não sei' após uma pergunta calibrada?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Usar o espelhamento ('Você não sabe?') ou a rotulagem ('Parece que você está incerto sobre o próximo passo') para extrair mais informações." },
+          { "value": "c", "label": "Ameaçar o oponente." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Eu não sei' é um Cisne Negro. Você deve cavar mais fundo.",
+        "hint": "Cavar mais fundo.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Eu não sei' é a porta de entrada para a verdade."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Fazer a Solução' para o oponente?",
+        "options": [
+          { "value": "a", "label": "Você parece mais inteligente." },
+          { "value": "b", "label": "Você perde a ilusão de controle e o oponente pode rejeitar a solução porque não foi ele quem a criou." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "As pessoas valorizam mais as soluções que elas criam.",
+        "hint": "Criação.",
+        "correctAnswer": "b",
+        "bookExample": "A solução dele é a melhor solução."
+      },
+      {
+        "id": "10",
+        "question": "O que a pergunta 'O que é justo?' ajuda a revelar?",
+        "options": [
+          { "value": "a", "label": "O preço justo." },
+          { "value": "b", "label": "O Cisne Negro sobre os valores e a percepção de justiça do oponente." },
+          { "value": "c", "label": "O prazo justo." },
+          { "value": "d", "label": "O produto justo." }
+        ],
+        "explanation": "A justiça é uma emoção poderosa. Essa pergunta força o oponente a revelar seus valores.",
+        "hint": "Valores.",
+        "correctAnswer": "b",
+        "bookExample": "A justiça é a emoção mais poderosa na negociação."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "O 'Sim' de Proteção: Evitando o 'Sim' de Confirmação",
+    "teaser": "🛡️ Comece com o 'Não' para chegar a um 'Sim' seguro! O 'Sim' de Proteção garante que o oponente se sinta no controle antes de se abrir.",
+    "level1": "Existem três tipos de 'Sim': o 'Sim' de Confirmação (superficial), o 'Sim' Falso (perigoso) e o 'Sim' de Comprometimento (o objetivo). O 'Sim' de Proteção é um 'Sim' inicial que você busca para garantir que o oponente se sinta seguro e no controle, geralmente através de perguntas que esperam um 'Não'.",
+    "level2": "O 'Sim' de proteção é o resultado de uma série de 'Nãos' que você provocou. Depois que o oponente disse 'Não' a todas as suas perguntas de proteção ('É uma má hora?', 'Você está me dizendo para ir embora?'), ele se sente seguro para dizer 'Sim' ao seu resumo empático ('Isso Mesmo').",
+    "level3": "Você: 'Parece que você não está pronto para fechar hoje.' Oponente: 'Não, não estou pronto.' Você: 'Como podemos fazer isso funcionar?'",
+    "recapitulation": [
+      "O 'Sim' de Confirmação (Simples) é superficial e inútil.",
+      "Busque o 'Sim' de Proteção com perguntas que esperam um 'Não' (ex: 'É uma má hora?').",
+      "O 'Sim' de Proteção é a ponte para o 'Isso Mesmo'.",
+      "Se o oponente hesitar, use a Rotulagem ('Parece que você está incerto sobre o próximo passo') para extrair a objeção.",
+      "Rotule o 'Sim' rápido ('Parece que você está muito confortável') para testar a autenticidade.",
+      "O maior risco é forçar o acordo antes de o oponente se sentir seguro para dizer 'Não'."
+    ],
+    "practicalChecklist": [
+      "Use a pergunta 'É uma má hora para falar sobre isso?' para iniciar a conversa e obter um 'Não' de proteção.",
+      "Use o Loop de Empatia (rotulagem, espelhamento, calibradas) para mover o oponente do 'Não' para o 'Isso Mesmo'.",
+      "Se houver um 'Sim' rápido, use a Rotulagem para testar ('Parece que você está com pressa. Você está me dizendo que não há nada que te incomoda?').",
+      "Use 'Você está feliz com o que temos até agora?' para buscar objeções ocultas (e um 'Não' honesto).",
+      "Evite perguntas que só confirmam a sua ideia; busque a discordância honesta."
+    ],
+    "conclusionMessage": "O 'Sim' de proteção é o 'Sim' que você busca para garantir que o oponente se sinta seguro e no controle, antes de buscar o 'Isso Mesmo'.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o objetivo do 'Sim' de Proteção?",
+        "options": [
+          { "value": "a", "label": "Obter um acordo rápido." },
+          { "value": "b", "label": "Garantir que o oponente se sinta seguro e no controle, abrindo caminho para o 'Isso Mesmo'." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "A segurança é a base da confiança.",
+        "hint": "Segurança.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' de proteção é o resultado de um bom 'Não'."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o risco de buscar o 'Sim' de Confirmação (Simples)?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "O 'Sim' é superficial e não representa um comprometimento real, levando ao 'Sim' falso." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "O 'Sim' simples é inútil.",
+        "hint": "Inutilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' é a armadilha mais comum."
+      },
+      {
+        "id": "3",
+        "question": "Como você usa o 'Não' para chegar ao 'Sim' de Proteção?",
+        "options": [
+          { "value": "a", "label": "Ameaçando o oponente." },
+          { "value": "b", "label": "Fazendo perguntas que esperam um 'Não' ('É uma má hora?', 'Você está me dizendo para ir embora?') para fazê-lo se sentir no controle." },
+          { "value": "c", "label": "Fazendo uma concessão." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "O 'Não' é a ferramenta de controle.",
+        "hint": "Controle.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Não' é o novo 'Sim'."
+      },
+      {
+        "id": "4",
+        "question": "O que o negociador deve fazer após o 'Sim' de Proteção?",
+        "options": [
+          { "value": "a", "label": "Fazer a oferta final." },
+          { "value": "b", "label": "Usar o espelhamento ou a rotulagem para aprofundar a conversa e buscar o 'Isso Mesmo'." },
+          { "value": "c", "label": "Ficar em silêncio." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Sim' de Proteção é a ponte para o 'Isso Mesmo'.",
+        "hint": "Ponte.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' de proteção é o início da jornada."
+      },
+      {
+        "id": "5",
+        "question": "Qual é a função da pergunta 'Você está feliz com o que temos até agora?'",
+        "options": [
+          { "value": "a", "label": "Obter um 'Sim' rápido." },
+          { "value": "b", "label": "Forçar o oponente a revelar objeções ocultas ou insatisfações antes de avançar (buscando um 'Não' honesto)." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Essa pergunta busca o Cisne Negro da insatisfação.",
+        "hint": "Insatisfação.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Não' é a porta de entrada para a verdade."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Rotular a Felicidade'?",
+        "options": [
+          { "value": "a", "label": "Concordar que a situação é boa." },
+          { "value": "b", "label": "Verbalizar que o oponente parece feliz ('Parece que você está muito animado com isso') para testar a autenticidade da emoção." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "A rotulagem da felicidade é usada para testar o 'Sim' falso.",
+        "hint": "Autenticidade.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule a emoção, mesmo a positiva."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o risco de 'Ignorar a Hesitação' do oponente?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "A hesitação é um sinal de Cisne Negro ou de 'Sim' falso. Ignorá-la leva à falha na execução." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A hesitação é um sinal de alerta.",
+        "hint": "Alerta.",
+        "correctAnswer": "b",
+        "bookExample": "A hesitação é a porta de entrada para a verdade."
+      },
+      {
+        "id": "8",
+        "question": "O que o negociador deve fazer se o oponente disser 'Sim' a uma pergunta que esperava um 'Não'?",
+        "options": [
+          { "value": "a", "label": "Aceitar e seguir em frente." },
+          { "value": "b", "label": "Usar o espelhamento ('Sim?') ou a rotulagem ('Parece que você está muito confortável com isso') para testar a autenticidade." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Sim' inesperado é um Cisne Negro.",
+        "hint": "Cisne Negro.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' inesperado é um sinal de que você precisa cavar mais fundo."
+      },
+      {
+        "id": "9",
+        "question": "Qual é a função da pergunta 'O que você precisa de mim para dizer 'Não'?'",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Forçar o oponente a revelar a restrição ou o medo que o impede de ser honesto." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Essa pergunta busca a honestidade.",
+        "hint": "Honestidade.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Não' é a porta de entrada para a verdade."
+      },
+      {
+        "id": "10",
+        "question": "O que o 'Sim' de Proteção ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "O silêncio." },
+          { "value": "b", "label": "O 'Sim' falso e a sensação de que o oponente foi forçado a concordar." },
+          { "value": "c", "label": "O contato visual." },
+          { "value": "d", "label": "O preço alto." }
+        ],
+        "explanation": "A sensação de ser forçado é o inimigo da execução.",
+        "hint": "Execução.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' de proteção é a prova de que o oponente está no controle."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "O Poder da Equidade e da Justiça",
+    "teaser": "⚖️ 'Isso é justo!' é a arma secreta do oponente. Rotule o sentimento de injustiça e use o 'O que é justo?' para virar o jogo.",
+    "level1": "As pessoas são movidas pelo sentimento de justiça. Se o oponente sente que o acordo é injusto, ele sabotará a execução. Você deve rotular o sentimento de injustiça ('Parece que você sente que isso é injusto') para desarmar a emoção e, em seguida, usar a pergunta 'O que é justo?' para transferir o fardo da solução para ele.",
+    "level2": "O 'O que é justo?' é uma armadilha. Se o oponente propõe algo irracional, você pode usar a rotulagem ('Parece que você está pedindo X, o que é muito mais do que o mercado') para forçá-lo a justificar a irracionalidade.",
+    "level3": "Ruim: 'Isso é justo.' Bom: 'Parece que você sente que isso é injusto. O que é justo para você?'",
+    "recapitulation": [
+      "A Justiça (Fairness) é uma emoção poderosa que motiva ou sabota o acordo.",
+      "O oponente usará 'Justo' como uma arma para fazer você se sentir culpado e conceder.",
+      "Nunca se defenda contra a palavra 'Justo'. Rotule-a.",
+      "A pergunta 'O que é justo?' é uma armadilha que força o oponente a revelar seus valores (e sua possível irracionalidade).",
+      "Se a proposta for irracional, use a Rotulagem para forçar a justificação ('Parece que X é difícil de justificar').",
+      "O sentimento de injustiça não resolvido leva à falha na execução."
+    ],
+    "practicalChecklist": [
+      "Se o oponente disser 'Isso não é justo', responda com 'Parece que você sente que isso é injusto' e use 'O que é justo para você?' (Pergunta Calibrada).",
+      "Não use 'Eu sou justo' ou 'Meu preço é justo'.",
+      "Se a proposta for irracional, rotule a irracionalidade ('Parece que essa proposta está muito acima do mercado').",
+      "Use 'Como podemos garantir que ambos nos sintamos justos?' para focar na colaboração mútua.",
+      "Lembre-se: o objetivo é que o oponente defina o que é justo e, se for irracional, se auto-corriga."
+    ],
+    "conclusionMessage": "A justiça é uma emoção poderosa. Você deve rotular o sentimento de injustiça do oponente e usar a pergunta 'O que é justo?' para forçá-lo a revelar seus valores.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a emoção mais poderosa na negociação, além do medo?",
+        "options": [
+          { "value": "a", "label": "Felicidade." },
+          { "value": "b", "label": "O sentimento de Justiça (Fairness)." },
+          { "value": "c", "label": "Tédio." },
+          { "value": "d", "label": "Excitação." }
+        ],
+        "explanation": "O sentimento de injustiça é um poderoso motivador de irracionalidade.",
+        "hint": "Motivador.",
+        "correctAnswer": "b",
+        "bookExample": "A justiça é a emoção mais poderosa na negociação."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a função da pergunta 'O que é justo?'",
+        "options": [
+          { "value": "a", "label": "Obter um acordo rápido." },
+          { "value": "b", "label": "Forçar o oponente a revelar seus valores e a justificar sua posição, transferindo o fardo da solução para ele." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "Essa pergunta é uma armadilha que revela a irracionalidade.",
+        "hint": "Armadilha.",
+        "correctAnswer": "b",
+        "bookExample": "O 'O que é justo?' é a chave para a verdade."
+      },
+      {
+        "id": "3",
+        "question": "O que o negociador deve fazer se o oponente usar a palavra 'Justo' repetidamente?",
+        "options": [
+          { "value": "a", "label": "Concordar que é justo." },
+          { "value": "b", "label": "Rotular o sentimento ('Parece que você está muito preocupado com a justiça') e perguntar 'O que é justo para você?'." },
+          { "value": "c", "label": "Ficar em silêncio." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O uso repetido de 'Justo' é um sinal de que a emoção está no controle.",
+        "hint": "Emoção.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule a emoção, mesmo a de justiça."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de dizer 'Eu sou justo'?",
+        "options": [
+          { "value": "a", "label": "Você parece mais gentil." },
+          { "value": "b", "label": "Você se coloca na defensiva e permite que o oponente use a palavra 'Justo' como uma arma contra você." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "Nunca se defenda contra a palavra 'Justo'. Rotule-a.",
+        "hint": "Defesa.",
+        "correctAnswer": "b",
+        "bookExample": "A palavra 'Justo' é uma arma. Não a use contra si mesmo."
+      },
+      {
+        "id": "5",
+        "question": "O que o negociador deve fazer se o oponente propuser algo irracional após a pergunta 'O que é justo?'",
+        "options": [
+          { "value": "a", "label": "Aceitar a proposta." },
+          { "value": "b", "label": "Usar a rotulagem para forçá-lo a justificar a irracionalidade ('Parece que você está pedindo X, o que é muito mais do que o mercado')." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A rotulagem é a chave para a racionalidade.",
+        "hint": "Racionalidade.",
+        "correctAnswer": "b",
+        "bookExample": "A negociação é um processo de eliminação de irracionalidade."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a função da pergunta 'Como podemos garantir que ambos nos sintamos justos?'",
+        "options": [
+          { "value": "a", "label": "Mudar de assunto." },
+          { "value": "b", "label": "Transferir o fardo da solução para o oponente, focando na colaboração e na percepção mútua de justiça." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "O 'Como' força a colaboração.",
+        "hint": "Colaboração.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Como' é a chave para a solução."
+      },
+      {
+        "id": "7",
+        "question": "O que o sentimento de injustiça leva o oponente a fazer?",
+        "options": [
+          { "value": "a", "label": "Fazer concessões." },
+          { "value": "b", "label": "Sabotar o acordo, buscar vingança ou se fechar na negociação." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Falar sobre o prazo." }
+        ],
+        "explanation": "A emoção de injustiça é destrutiva.",
+        "hint": "Destruição.",
+        "correctAnswer": "b",
+        "bookExample": "O sentimento de injustiça é o maior obstáculo."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a melhor forma de lidar com um oponente que usa a palavra 'Justo' como uma arma?",
+        "options": [
+          { "value": "a", "label": "Aceitar a acusação." },
+          { "value": "b", "label": "Rotular o comportamento ('Parece que você está tentando me fazer sentir culpado') e perguntar 'O que é justo para você?'." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Rotule a tática para neutralizá-la.",
+        "hint": "Neutralização.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule a tática, não a pessoa."
+      },
+      {
+        "id": "9",
+        "question": "O que a pergunta 'O que é justo?' ajuda a construir?",
+        "options": [
+          { "value": "a", "label": "Agressividade." },
+          { "value": "b", "label": "Um acordo baseado em valores e percepções, em vez de apenas números." },
+          { "value": "c", "label": "Tédio." },
+          { "value": "d", "label": "Concessões imediatas." }
+        ],
+        "explanation": "A negociação é sobre valores.",
+        "hint": "Valores.",
+        "correctAnswer": "b",
+        "bookExample": "A negociação é um jogo de valores."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o risco de 'Ignorar o Sentimento de Injustiça'?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "O oponente se fecha, e o acordo, mesmo que fechado, será sabotado na execução." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A emoção de injustiça é destrutiva.",
+        "hint": "Destruição.",
+        "correctAnswer": "b",
+        "bookExample": "O sentimento de injustiça é o maior obstáculo."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "O Jogo do Leilão: Negociando Preço",
+    "teaser": "💸 O preço é um jogo psicológico. Ancore alto, use números precisos e conceda lentamente para fazer o oponente sentir-se vitorioso.",
+    "level1": "A negociação de preço é um jogo de percepção. Você deve usar a ancoragem extrema para definir o limite superior e, em seguida, fazer concessões estratégicas (decrescentes) que parecem dolorosas para você, mas que fazem o oponente sentir que está 'vencendo'.",
+    "level2": "Nunca divida a diferença. Use números ímpares (ex: $10.347,52) para comunicar que você fez sua lição de casa. As concessões devem ser pequenas e parecer que estão se esgotando (ex: $500, depois $200, depois $50).",
+    "level3": "Ruim: Fazer uma concessão de 50% no início. Bom: Ancorar alto, fazer uma concessão de 30%, depois 10%, e usar a rotulagem ('Parece que estamos chegando ao limite').",
+    "recapitulation": [
+      "Ancoragem Extrema (Anchor High) é o primeiro passo para definir o limite superior.",
+      "Nunca 'Divida a Diferença' – isso perde valor e informação.",
+      "Use 'Números Ímpares' (não arredondados) para parecer que o preço é baseado em cálculos precisos.",
+      "Concessões devem ser 'Estratégicas e Decrescentes' (ficar menores a cada rodada) para sinalizar seu limite.",
+      "Use a Rotulagem ('Parece que o preço é uma grande restrição') e o 'Como' para lidar com a objeção de preço.",
+      "O oponente deve sentir que 'sofreu' para obter a concessão."
+    ],
+    "practicalChecklist": [
+      "Sempre comece a negociação de preço com uma âncora alta e específica (número ímpar).",
+      "Após a âncora, use 'Parece que isso é muito caro' (Rotulagem).",
+      "Se o oponente disser 'Eu não posso pagar isso', use 'Parece que o orçamento é uma grande restrição para você. Como podemos fazer isso funcionar?'",
+      "Mantenha a regra das concessões decrescentes (a última deve ser a menor).",
+      "Nunca faça a primeira concessão muito grande; isso sinaliza que você tem mais margem."
+    ],
+    "conclusionMessage": "Negociar preço envolve ancoragem extrema, concessões estratégicas decrescentes e o uso de números ímpares para comunicar precisão e limites.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o primeiro passo na negociação de preço?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Usar a ancoragem extrema (Anchor High) para definir o limite superior da negociação." },
+          { "value": "c", "label": "Falar sobre o prazo." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "A ancoragem define a percepção de valor.",
+        "hint": "Percepção.",
+        "correctAnswer": "b",
+        "bookExample": "O primeiro número na mesa é o mais importante."
+      },
+      {
+        "id": "2",
+        "question": "O que são 'Concessões Estratégicas Decrescentes'?",
+        "options": [
+          { "value": "a", "label": "Concessões que aumentam a cada rodada." },
+          { "value": "b", "label": "Concessões que diminuem a cada rodada (ex: $500, $200, $50) para sinalizar que você está chegando ao seu limite." },
+          { "value": "c", "label": "Concessões que são feitas no final." },
+          { "value": "d", "label": "Concessões que são feitas no início." }
+        ],
+        "explanation": "As concessões devem parecer dolorosas para você.",
+        "hint": "Dor.",
+        "correctAnswer": "b",
+        "bookExample": "As concessões devem ser como tirar um band-aid lentamente."
+      },
+      {
+        "id": "3",
+        "question": "Qual é a função de usar 'Números Ímpares' (Odd Numbers) no preço?",
+        "options": [
+          { "value": "a", "label": "Fazer o preço parecer mais alto." },
+          { "value": "b", "label": "Comunicar precisão, competência e que o número é baseado em cálculos, não em adivinhação." },
+          { "value": "c", "label": "Fazer o preço parecer mais baixo." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Números ímpares parecem mais reais.",
+        "hint": "Precisão.",
+        "correctAnswer": "b",
+        "bookExample": "Números ímpares parecem mais reais."
+      },
+      {
+        "id": "4",
+        "question": "O que o negociador deve fazer se o oponente fizer uma contra-oferta irracional?",
+        "options": [
+          { "value": "a", "label": "Aceitar a contra-oferta." },
+          { "value": "b", "label": "Usar a rotulagem ('Parece que você está pedindo X, o que é muito mais do que o mercado') e a pergunta calibrada ('Como eu posso fazer isso?')." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A rotulagem e o 'Como' forçam a racionalidade.",
+        "hint": "Racionalidade.",
+        "correctAnswer": "b",
+        "bookExample": "A negociação é um processo de eliminação de irracionalidade."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Dividir a Diferença' (Split the Difference)?",
+        "options": [
+          { "value": "a", "label": "Você parece mais gentil." },
+          { "value": "b", "label": "Você perde valor e ignora a informação que poderia ter sido extraída através da escuta ativa." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "Dividir a diferença é preguiçoso.",
+        "hint": "Preguiça.",
+        "correctAnswer": "b",
+        "bookExample": "Dividir a diferença é o caminho para a mediocridade."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Usar o Silêncio' na negociação de preço?",
+        "options": [
+          { "value": "a", "label": "Mostrar tédio." },
+          { "value": "b", "label": "Dar tempo para o oponente pensar e, muitas vezes, fazer uma concessão contra si mesmo." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "O silêncio é uma ferramenta poderosa.",
+        "hint": "Poder.",
+        "correctAnswer": "b",
+        "bookExample": "O silêncio é seu amigo. Use-o."
+      },
+      {
+        "id": "7",
+        "question": "Qual é a função da pergunta 'O que você precisa de mim para fazer isso funcionar?'",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Transferir o fardo da solução para o oponente, forçando-o a propor uma solução que ele mesmo terá que justificar." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Essa pergunta é uma forma de fazer o oponente negociar contra sua própria posição inicial.",
+        "hint": "Transferência de fardo.",
+        "correctAnswer": "b",
+        "bookExample": "Faça o oponente resolver o seu problema."
+      },
+      {
+        "id": "8",
+        "question": "O que o negociador deve fazer se o oponente disser 'Eu não posso pagar isso'?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Usar a rotulagem ('Parece que o orçamento é uma grande restrição para você') e a pergunta calibrada ('Como podemos fazer isso funcionar?')." },
+          { "value": "c", "label": "Ameaçar o oponente." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A rotulagem e o 'Como' buscam a restrição real.",
+        "hint": "Restrição.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule o obstáculo."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Fazer a Primeira Concessão' muito grande?",
+        "options": [
+          { "value": "a", "label": "Você parece mais gentil." },
+          { "value": "b", "label": "Você sinaliza que tem mais margem de manobra do que realmente tem, e o oponente esperará mais concessões grandes." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "As concessões devem ser pequenas e parecer dolorosas.",
+        "hint": "Margem de manobra.",
+        "correctAnswer": "b",
+        "bookExample": "As concessões devem ser como tirar um band-aid lentamente."
+      },
+      {
+        "id": "10",
+        "question": "O que a 'Ancoragem Extrema' ajuda a evitar?",
+        "options": [
+          { "value": "a", "label": "O silêncio." },
+          { "value": "b", "label": "O oponente ancorar em um número baixo, definindo um limite inferior desfavorável." },
+          { "value": "c", "label": "O contato visual." },
+          { "value": "d", "label": "O preço alto." }
+        ],
+        "explanation": "A ancoragem define o limite superior.",
+        "hint": "Limite superior.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não ancorar, o outro lado o fará."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Ameaças e o Uso do 'Não' para Desarmar",
+    "teaser": "💣 A ameaça é um sinal de medo. Desarme-a rotulando a pressão e usando o 'Não' para forçar o oponente a reverter a dinâmica.",
+    "level1": "Ameaças (ex: 'Se você não fizer isso, eu vou embora') são sinais de fraqueza e quebram o rapport. Você deve rotular a ameaça ('Parece que você está pronto para ir embora') para desarmá-la e, em seguida, usar a pergunta calibrada 'Como podemos resolver isso?' para transferir o fardo da solução.",
+    "level2": "O oponente que ameaça está, na verdade, com medo. Você deve rotular o medo e a pressão. O objetivo é fazer o oponente se sentir no controle emocionalmente, para que você possa controlar o resultado.",
+    "level3": "Oponente: 'Se você não me der o desconto, eu vou para a concorrência.' Você: 'Parece que você tem uma opção melhor se não fecharmos isso. Como podemos fazer isso funcionar?'",
+    "recapitulation": [
+      "Ameaças e Ultimatos são sinais de fraqueza e medo.",
+      "Nunca reaja emocionalmente a uma ameaça; use a calma (Voz de Locutor de Rádio).",
+      "Rotule a ameaça ('Parece que você está pronto para ir embora') para neutralizar o medo.",
+      "Use 'Você está me dizendo para ir embora?' para forçar um 'Não' que reverte a dinâmica (Aversão à Perda).",
+      "Use o 'Como' para forçar o oponente a considerar o custo de seu BATNA (Alternativa) ('O que acontece se você for para a concorrência?').",
+      "Ignorar uma ameaça pode ser perigoso; rotule-a e trate-a com Empatia Tática."
+    ],
+    "practicalChecklist": [
+      "Se o oponente ameaçar, use a Rotulagem e o 'Como' imediatamente.",
+      "Use 'Você está me dizendo para ir embora?' como sua principal ferramenta de reversão de dinâmica.",
+      "Use a 'Voz de Locutor de Rádio' para manter a calma e a autoridade.",
+      "Se o oponente usar o 'Nunca' ou o 'Sempre', use o Espelhamento e a Rotulagem para forçar a justificação ('Nunca? Parece que isso é um limite absoluto para você.').",
+      "Lembre-se: Rotule o medo por trás da ameaça, não a ameaça em si."
+    ],
+    "conclusionMessage": "Ameaças são ineficazes. Você deve usar a empatia tática para rotular a ameaça e a pergunta calibrada 'Como podemos resolver isso?' para desarmar a agressão.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que as 'Ameaças' (Threats) sinalizam na negociação?",
+        "options": [
+          { "value": "a", "label": "Força e poder." },
+          { "value": "b", "label": "Fraqueza, medo e quebra de rapport." },
+          { "value": "c", "label": "Acordo." },
+          { "value": "d", "label": "Concessão." }
+        ],
+        "explanation": "Ameaças são ineficazes e destrutivas.",
+        "hint": "Destruição.",
+        "correctAnswer": "b",
+        "bookExample": "Ameaças são apenas pedidos de ajuda disfarçados."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a melhor forma de lidar com uma ameaça?",
+        "options": [
+          { "value": "a", "label": "Ameaçar de volta." },
+          { "value": "b", "label": "Rotular a ameaça ('Parece que você está pronto para ir embora') e usar a pergunta calibrada ('Como podemos resolver isso?')." },
+          { "value": "c", "label": "Aceitar a ameaça." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A rotulagem e o 'Como' desarmam a ameaça.",
+        "hint": "Desarmamento.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule a ameaça para neutralizá-la."
+      },
+      {
+        "id": "3",
+        "question": "O que o negociador deve fazer se o oponente disser 'Eu vou embora'?",
+        "options": [
+          { "value": "a", "label": "Deixar o oponente ir." },
+          { "value": "b", "label": "Usar a pergunta calibrada 'Você está me dizendo para ir embora?' (forçando um 'Não' que reverte a dinâmica)." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Essa pergunta usa a aversão à perda para motivar o acordo.",
+        "hint": "Reversão de dinâmica.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Não' é a ferramenta de reversão."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de 'Reagir Emocionalmente' a uma ameaça?",
+        "options": [
+          { "value": "a", "label": "Você parece mais forte." },
+          { "value": "b", "label": "Você perde o controle da negociação e permite que a emoção do oponente dite o resultado." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A calma é a resposta mais eficaz à agressão.",
+        "hint": "Calma.",
+        "correctAnswer": "b",
+        "bookExample": "A calma é contagiosa."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Rotular o Medo' por trás da ameaça?",
+        "options": [
+          { "value": "a", "label": "Concordar que a situação é perigosa." },
+          { "value": "b", "label": "Verbalizar que o oponente está com medo ou sob pressão ('Parece que você está com medo de perder X') para desarmar a emoção." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "O medo é o motor da ameaça.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "Dê nome ao medo, e ele perde o poder."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a função da pergunta 'O que acontece se você for para a concorrência?'",
+        "options": [
+          { "value": "a", "label": "Mudar de assunto." },
+          { "value": "b", "label": "Forçar o oponente a considerar o custo real do BATNA (Melhor Alternativa para um Acordo Negociado) e a aversão à perda." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Essa pergunta usa a aversão à perda para motivar o acordo.",
+        "hint": "Aversão à perda.",
+        "correctAnswer": "b",
+        "bookExample": "O medo da perda é o maior motivador."
+      },
+      {
+        "id": "7",
+        "question": "O que o negociador deve fazer se o oponente usar um 'Ultimato'?",
+        "options": [
+          { "value": "a", "label": "Aceitar o ultimato." },
+          { "value": "b", "label": "Rotular a pressão ('Parece que você está sob muita pressão para resolver isso agora') e usar a pergunta calibrada ('Como podemos resolver isso?')." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Ultimatos são sinais de medo e pressão.",
+        "hint": "Pressão.",
+        "correctAnswer": "b",
+        "bookExample": "Ultimatos são apenas pedidos de ajuda disfarçados."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Ignorar a Ameaça'?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "A ameaça pode ser real, e ignorá-la pode levar ao fim da negociação ou à falha na execução." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A ameaça deve ser rotulada e tratada com empatia tática.",
+        "hint": "Tratamento.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule o elefante na sala."
+      },
+      {
+        "id": "9",
+        "question": "O que a 'Voz de Locutor de Rádio' ajuda a fazer em face de uma ameaça?",
+        "options": [
+          { "value": "a", "label": "Ameaçar de volta." },
+          { "value": "b", "label": "Comunicar calma, autoridade e controle, desescalando a tensão." },
+          { "value": "c", "label": "Gritar mais alto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A calma é contagiosa.",
+        "hint": "Contágio.",
+        "correctAnswer": "b",
+        "bookExample": "A calma é a sua arma secreta."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de lidar com um oponente que usa a palavra 'Nunca'?",
+        "options": [
+          { "value": "a", "label": "Aceitar o 'Nunca'." },
+          { "value": "b", "label": "Usar o espelhamento ('Nunca?') ou a rotulagem ('Parece que isso é um limite absoluto para você') para forçá-lo a justificar o limite." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Nunca' é um Cisne Negro. Você deve cavar mais fundo.",
+        "hint": "Cavar mais fundo.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Nunca' é a porta de entrada para a verdade."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "O Poder da Persuasão: O 'Sim' de Autoridade",
+    "teaser": "👑 Você está falando com o 'Decisor'? Use o 'Como' para desmascarar o 'Não-Decisor' e obter o 'Sim' da pessoa certa.",
+    "level1": "Muitas negociações falham porque o negociador está falando com a pessoa errada (o 'Não-Decisor'). Você deve usar perguntas calibradas para descobrir quem tem o poder de dizer 'Sim' e 'Não' e, em seguida, negociar com essa pessoa, fazendo-a se sentir no controle.",
+    "level2": "O 'Não-Decisor' é a pessoa que diz 'Sim' facilmente, mas não pode executar. Você deve usar perguntas calibradas ('Como garantiremos que X esteja a bordo?') para forçar o oponente a revelar a autoridade real.",
+    "level3": "Ruim: 'Você é o chefe?' Bom: 'Como garantiremos que sua equipe esteja a bordo com esta solução?'",
+    "recapitulation": [
+      "O 'Não-Decisor' é a pessoa que não pode executar, e seu 'Sim' é inútil.",
+      "O 'Sim' de Autoridade é o 'Sim' da pessoa que pode executar (o Decisor).",
+      "Use o 'Como' para forçar a revelação da autoridade ('Como garantiremos que X esteja a bordo?').",
+      "Ao descobrir o Não-Decisor, use a Rotulagem ('Parece que você está sob pressão para obter a aprovação de X') e peça uma introdução.",
+      "Negocie com o Decisor, fazendo-o se sentir no controle (Ilusão de Controle) com Perguntas Calibradas.",
+      "O risco de negociar com o Não-Decisor é o 'Sim' falso e o acordo revertido."
+    ],
+    "practicalChecklist": [
+      "Em negociações B2B, use 'Como garantiremos que sua equipe esteja a bordo com esta solução?' para identificar outros stakeholders.",
+      "Se descobrir o Não-Decisor, use a Rotulagem e peça uma introdução ('Quem mais precisamos envolver nesta decisão?').",
+      "Use 'O que você precisa de mim para vender isso internamente?' para forçar o decisor a revelar obstáculos internos.",
+      "Evite perguntar 'Você é o chefe?' – soa agressivo e não informativo.",
+      "Lembre-se: se a pessoa hesitar, rotule a hesitação – pode ser o Cisne Negro da autoridade."
+    ],
+    "conclusionMessage": "O 'Sim' de autoridade é obtido ao negociar com a pessoa que tem o poder de dizer 'Sim' e 'Não', e ao usar a empatia tática para fazê-la se sentir no controle.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é o 'Não-Decisor'?",
+        "options": [
+          { "value": "a", "label": "A pessoa que tem o poder de dizer 'Sim' e 'Não'." },
+          { "value": "b", "label": "A pessoa que diz 'Sim' facilmente, mas não tem autoridade para executar o acordo." },
+          { "value": "c", "label": "A pessoa que diz 'Não' facilmente." },
+          { "value": "d", "label": "A pessoa que fala demais." }
+        ],
+        "explanation": "O 'Sim' do não-decisor é inútil.",
+        "hint": "Inutilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Negocie com quem pode executar."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a melhor forma de descobrir quem tem a autoridade real?",
+        "options": [
+          { "value": "a", "label": "Perguntar diretamente se ele é o chefe." },
+          { "value": "b", "label": "Usar perguntas calibradas focadas na execução ('Como garantiremos que X esteja a bordo?') para forçar a revelação da autoridade." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "As perguntas calibradas buscam a restrição da autoridade.",
+        "hint": "Restrição.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Como' é a chave para a autoridade."
+      },
+      {
+        "id": "3",
+        "question": "O que o negociador deve fazer se descobrir que está negociando com um 'Não-Decisor'?",
+        "options": [
+          { "value": "a", "label": "Encerrar a negociação." },
+          { "value": "b", "label": "Usar a empatia tática para rotular a situação ('Parece que você está sob pressão para obter a aprovação de X') e pedir uma introdução à autoridade real." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A rotulagem e o pedido de introdução são cruciais.",
+        "hint": "Introdução.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule a pressão."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de 'Ignorar a Falta de Autoridade'?",
+        "options": [
+          { "value": "a", "label": "Você perde tempo." },
+          { "value": "b", "label": "Você pode obter um 'Sim' falso que será revertido pela pessoa com autoridade mais tarde." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A negociação com o 'Não-Decisor' é ineficaz.",
+        "hint": "Ineficácia.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sim' do não-decisor é inútil."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Fazer o Decisor se Sentir no Controle'?",
+        "options": [
+          { "value": "a", "label": "Dar a ele o que ele quer." },
+          { "value": "b", "label": "Usar perguntas calibradas ('Como' e 'O Quê') e a rotulagem para fazê-lo sentir que está ativamente envolvido na criação da solução." },
+          { "value": "c", "label": "Ficar em silêncio." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A ilusão de controle é crucial.",
+        "hint": "Ilusão de controle.",
+        "correctAnswer": "b",
+        "bookExample": "A melhor forma de vencer é fazer o outro lado pensar que ele venceu."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a função da pergunta 'O que você precisa de mim para vender isso internamente?'",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Forçar o decisor a revelar os obstáculos internos e a justificar o acordo para sua equipe." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Essa pergunta busca o Cisne Negro da execução interna.",
+        "hint": "Execução interna.",
+        "correctAnswer": "b",
+        "bookExample": "Faça o oponente vender o acordo para si mesmo."
+      },
+      {
+        "id": "7",
+        "question": "O que o negociador deve fazer se o decisor hesitar?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Usar o espelhamento ou a rotulagem para entender a hesitação ('Parece que há um obstáculo que não estamos vendo')." },
+          { "value": "c", "label": "Ameaçar o oponente." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A hesitação é um sinal de Cisne Negro.",
+        "hint": "Sinal de Cisne Negro.",
+        "correctAnswer": "b",
+        "bookExample": "A hesitação é a porta de entrada para a verdade."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a diferença entre o 'Sim' de Autoridade e o 'Sim' de Confirmação?",
+        "options": [
+          { "value": "a", "label": "Nenhuma." },
+          { "value": "b", "label": "O 'Sim' de Autoridade vem da pessoa que pode executar, enquanto o 'Sim' de Confirmação é superficial." },
+          { "value": "c", "label": "O 'Sim' de Autoridade é mais rápido." },
+          { "value": "d", "label": "O 'Sim' de Confirmação é mais importante." }
+        ],
+        "explanation": "O foco deve ser na execução.",
+        "hint": "Execução.",
+        "correctAnswer": "b",
+        "bookExample": "O acordo é inútil sem a execução."
+      },
+      {
+        "id": "9",
+        "question": "O que a 'Vulnerabilidade Controlada' ajuda a construir com o decisor?",
+        "options": [
+          { "value": "a", "label": "Agressividade." },
+          { "value": "b", "label": "Confiança e rapport, encorajando o decisor a se abrir sobre as restrições internas." },
+          { "value": "c", "label": "Tédio." },
+          { "value": "d", "label": "Concessões imediatas." }
+        ],
+        "explanation": "A vulnerabilidade é o atalho para a intimidade.",
+        "hint": "Intimidade.",
+        "correctAnswer": "b",
+        "bookExample": "A vulnerabilidade é a cola da confiança."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de lidar com um decisor que usa a palavra 'Justo'?",
+        "options": [
+          { "value": "a", "label": "Aceitar a acusação." },
+          { "value": "b", "label": "Rotular o sentimento ('Parece que você sente que isso é injusto') e perguntar 'O que é justo para você?'." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "Rotule a emoção para neutralizá-la.",
+        "hint": "Neutralização.",
+        "correctAnswer": "b",
+        "bookExample": "A palavra 'Justo' é uma arma. Não a use contra si mesmo."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "O Poder da Escassez e da Urgência",
+    "teaser": "⏱️ Use a urgência de forma ética! O medo de perder (Aversão à Perda) é a chave para motivar a ação imediata.",
+    "level1": "A escassez (limite de tempo, recursos) e a urgência são poderosos motivadores. Você deve usá-los de forma ética, focando na aversão à perda ('Se você não agir agora, você perderá X') para motivar o oponente a fechar o acordo.",
+    "level2": "Nunca minta sobre a escassez. Use a pergunta calibrada 'O que acontece se não fizermos isso agora?' para forçar o oponente a considerar o custo da inação. O medo de perder é o maior motivador.",
+    "level3": "Ruim: 'Esta oferta termina em 5 minutos.' Bom: 'Parece que você está preocupado com o prazo. O que acontece se não fecharmos isso até o final do dia?'",
+    "recapitulation": [
+      "Escassez e Urgência são motivadores poderosos quando enquadrados como Aversão à Perda.",
+      "A pergunta 'O que acontece se não fizermos isso agora?' força a consideração do custo da inação.",
+      "A Urgência deve ser real e ética; mentir quebra o rapport e a confiança.",
+      "Rotule a pressão e a hesitação para extrair o Cisne Negro relacionado ao prazo.",
+      "'Eu preciso de tempo para pensar' é um 'Não' disfarçado; use Espelhamento e Rotulagem para extrair a objeção real.",
+      "A 'Voz de Locutor de Rádio' é crucial para comunicar calma em face da urgência."
+    ],
+    "practicalChecklist": [
+      "Use 'O que acontece se não fizermos isso agora?' para criar urgência de forma não agressiva.",
+      "Se o oponente disser 'Eu preciso de tempo para pensar', use o Espelhamento ('Tempo para pensar?') ou a Rotulagem ('Parece que você está incerto sobre algo').",
+      "Rotule a pressão percebida ('Parece que você está sob muita pressão para resolver isso imediatamente').",
+      "Seja honesto sobre os prazos; a credibilidade é mais importante que a velocidade.",
+      "Use o 'O que você precisa de mim para fechar isso hoje?' para buscar o Cisne Negro final."
+    ],
+    "conclusionMessage": "Use a escassez e a urgência de forma ética, focando na aversão à perda para motivar o oponente a agir rapidamente.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal motivador da 'Escassez'?",
+        "options": [
+          { "value": "a", "label": "O desejo de ganhar." },
+          { "value": "b", "label": "A aversão à perda (medo de perder a oportunidade)." },
+          { "value": "c", "label": "O desejo de ser o primeiro." },
+          { "value": "d", "label": "O desejo de ser o último." }
+        ],
+        "explanation": "O medo de perder é duas vezes mais poderoso que a alegria do ganho.",
+        "hint": "Medo de perder.",
+        "correctAnswer": "b",
+        "bookExample": "O medo da perda é o maior motivador."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a melhor forma de usar a 'Urgência' de forma ética?",
+        "options": [
+          { "value": "a", "label": "Mentir sobre o prazo." },
+          { "value": "b", "label": "Usar a pergunta calibrada 'O que acontece se não fizermos isso agora?' para forçar o oponente a considerar o custo da inação." },
+          { "value": "c", "label": "Ameaçar o oponente." },
+          { "value": "d", "label": "Fazer uma concessão." }
+        ],
+        "explanation": "Essa pergunta usa a aversão à perda para motivar o acordo.",
+        "hint": "Custo da inação.",
+        "correctAnswer": "b",
+        "bookExample": "O 'O que acontece se...' é a chave para a urgência."
+      },
+      {
+        "id": "3",
+        "question": "O que o negociador deve fazer se o oponente hesitar em face da urgência?",
+        "options": [
+          { "value": "a", "label": "Aumentar a pressão." },
+          { "value": "b", "label": "Usar a rotulagem ('Parece que você está incerto sobre o prazo') e o espelhamento para entender a hesitação." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A hesitação é um Cisne Negro. Você deve cavar mais fundo.",
+        "hint": "Cavar mais fundo.",
+        "correctAnswer": "b",
+        "bookExample": "A hesitação é a porta de entrada para a verdade."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de 'Mentir sobre a Escassez'?",
+        "options": [
+          { "value": "a", "label": "Você fecha o negócio mais rápido." },
+          { "value": "b", "label": "Você quebra a confiança e o rapport, e o oponente sabotará o acordo ou nunca mais negociará com você." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A confiança é a moeda da negociação.",
+        "hint": "Confiança.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é a moeda mais valiosa."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Rotular a Pressão'?",
+        "options": [
+          { "value": "a", "label": "Aumentar a pressão." },
+          { "value": "b", "label": "Verbalizar que o oponente está sob pressão ('Parece que você está sob muita pressão para resolver isso agora') para desarmar a emoção." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "A rotulagem neutraliza a emoção.",
+        "hint": "Neutralização.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule a pressão."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a função da pergunta 'O que você precisa de mim para fechar isso hoje?'",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Forçar o oponente a revelar o Cisne Negro que está impedindo o fechamento imediato." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Essa pergunta busca o Cisne Negro final.",
+        "hint": "Cisne Negro.",
+        "correctAnswer": "b",
+        "bookExample": "O 'O que' é a chave para o cofre."
+      },
+      {
+        "id": "7",
+        "question": "O que o negociador deve fazer se o oponente disser 'Eu preciso de tempo para pensar'?",
+        "options": [
+          { "value": "a", "label": "Dar o tempo." },
+          { "value": "b", "label": "Usar o espelhamento ('Tempo para pensar?') ou a rotulagem ('Parece que você está incerto sobre algo') para extrair a objeção real." },
+          { "value": "c", "label": "Ameaçar o oponente." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Tempo para pensar' é frequentemente um 'Não' disfarçado.",
+        "hint": "Disfarce.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Tempo para pensar' é a morte lenta da negociação."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Aumentar a Pressão' sem empatia?",
+        "options": [
+          { "value": "a", "label": "Você fecha o negócio mais rápido." },
+          { "value": "b", "label": "O oponente se fecha, se sente manipulado e pode sabotar o acordo." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A pressão sem empatia é manipulação.",
+        "hint": "Manipulação.",
+        "correctAnswer": "b",
+        "bookExample": "A pressão sem empatia é ineficaz."
+      },
+      {
+        "id": "9",
+        "question": "O que a 'Voz de Locutor de Rádio' ajuda a fazer em face da urgência?",
+        "options": [
+          { "value": "a", "label": "Aumentar a urgência." },
+          { "value": "b", "label": "Comunicar calma e controle, desescalando a tensão e permitindo que o oponente pense racionalmente." },
+          { "value": "c", "label": "Gritar mais alto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A calma é contagiosa.",
+        "hint": "Contágio.",
+        "correctAnswer": "b",
+        "bookExample": "A calma é a sua arma secreta."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de lidar com um oponente que usa a palavra 'Imediatamente'?",
+        "options": [
+          { "value": "a", "label": "Aceitar o 'Imediatamente'." },
+          { "value": "b", "label": "Rotular a pressão ('Parece que você está sob muita pressão para resolver isso imediatamente') e usar a pergunta calibrada ('O que acontece se não fizermos isso agora?')." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Imediatamente' é um sinal de pressão. Você deve rotular a pressão.",
+        "hint": "Pressão.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule a pressão."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "O Poder da Repetição e da Persistência",
+    "teaser": "🔁 O segredo dos mestres: a repetição estratégica (Loop de Empatia) para desgastar a resistência e forçar a revelação do Cisne Negro.",
+    "level1": "A negociação é um jogo de persistência. Você deve usar a repetição das técnicas (o 'Loop de Empatia') para desgastar a resistência do oponente e forçá-lo a revelar o Cisne Negro. Nunca desista após o primeiro 'Não'.",
+    "level2": "O 'Loop de Empatia' é a repetição de rotulagem, espelhamento e perguntas calibradas. Você continua repetindo até que o oponente diga 'Isso Mesmo' ou revele o Cisne Negro. A persistência é a prova de que você se importa.",
+    "level3": "Você: 'Parece que você está frustrado.' Oponente: 'Não estou frustrado.' Você: 'Você não está frustrado?' Oponente: 'Não, estou apenas preocupado com o prazo.' (Cisne Negro revelado).",
+    "recapitulation": [
+      "O Loop de Empatia = Repetição estratégica de Rotulagem, Espelhamento e Perguntas Calibradas.",
+      "A persistência prova que você se importa e desgasta a resistência.",
+      "O objetivo é obter o 'Isso Mesmo' ou forçar a revelação de um Cisne Negro.",
+      "Nunca faça concessões para encerrar o Loop de Empatia (ensina o oponente a resistir).",
+      "Rotule a resistência ('Parece que você está resistindo a essa ideia') para desarmar a defensiva.",
+      "Use a 'Vulnerabilidade Controlada' para encorajar a reciprocidade e quebrar a resistência."
+    ],
+    "practicalChecklist": [
+      "Use o Loop de Empatia quando o oponente estiver defensivo ou dando 'Nãos' superficiais.",
+      "Se o oponente corrigir sua Rotulagem, use o Espelhamento para o novo termo ('Não estou frustrado. Estou apenas preocupado com o prazo.' -> 'Preocupado com o prazo?').",
+      "Use 'O que te impede de dizer 'Isso Mesmo'?' para buscar a objeção final.",
+      "Ao sentir irritação, Rotule-a ('Parece que você está ficando irritado com a minha persistência') e mantenha a calma.",
+      "Lembre-se: o 'Sim' é o resultado do processo, não o objetivo imediato."
+    ],
+    "conclusionMessage": "A persistência é a chave para o sucesso. Use a repetição das técnicas (espelhamento, rotulagem, perguntas calibradas) para desgastar a resistência do oponente.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "O que é o 'Loop de Empatia'?",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "A repetição estratégica de rotulagem, espelhamento e perguntas calibradas para extrair informações e desgastar a resistência." },
+          { "value": "c", "label": "Falar sobre o preço." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "O Loop de Empatia é a chave para a persistência.",
+        "hint": "Persistência.",
+        "correctAnswer": "b",
+        "bookExample": "A repetição é a mãe da aprendizagem."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o objetivo do 'Loop de Empatia'?",
+        "options": [
+          { "value": "a", "label": "Obter um acordo rápido." },
+          { "value": "b", "label": "Forçar o oponente a revelar o Cisne Negro ou a dizer 'Isso Mesmo'." },
+          { "value": "c", "label": "Fazer uma ameaça." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O Cisne Negro e o 'Isso Mesmo' são os objetivos.",
+        "hint": "Objetivo.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Isso Mesmo' é o Santo Graal da negociação."
+      },
+      {
+        "id": "3",
+        "question": "O que o negociador deve fazer se o oponente disser 'Não' repetidamente?",
+        "options": [
+          { "value": "a", "label": "Desistir." },
+          { "value": "b", "label": "Continuar o Loop de Empatia, usando a rotulagem e o espelhamento para entender o que está por trás do 'Não'." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Não' é a porta de entrada para a verdade.",
+        "hint": "Verdade.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Não' é o novo 'Sim'."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de 'Desistir' após o primeiro 'Não'?",
+        "options": [
+          { "value": "a", "label": "Você parece mais gentil." },
+          { "value": "b", "label": "Você perde a oportunidade de descobrir o Cisne Negro e o oponente sente que você não se importa o suficiente." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A persistência é a prova de que você se importa.",
+        "hint": "Cuidado.",
+        "correctAnswer": "b",
+        "bookExample": "A persistência é a chave para o sucesso."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Rotular a Resistência'?",
+        "options": [
+          { "value": "a", "label": "Concordar que a situação é difícil." },
+          { "value": "b", "label": "Verbalizar que o oponente está resistindo ('Parece que você está resistindo a esta ideia') para desarmar a defensiva." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "A rotulagem neutraliza a emoção.",
+        "hint": "Neutralização.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule a resistência."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a função da pergunta 'O que te impede de dizer 'Isso Mesmo'?'",
+        "options": [
+          { "value": "a", "label": "Fazer uma concessão." },
+          { "value": "b", "label": "Forçar o oponente a revelar a objeção oculta que está impedindo a validação total." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "Essa pergunta busca o Cisne Negro final.",
+        "hint": "Cisne Negro.",
+        "correctAnswer": "b",
+        "bookExample": "O 'O que' é a chave para o cofre."
+      },
+      {
+        "id": "7",
+        "question": "O que o negociador deve fazer se o oponente começar a ficar irritado com a repetição?",
+        "options": [
+          { "value": "a", "label": "Desistir." },
+          { "value": "b", "label": "Rotular a irritação ('Parece que você está ficando irritado com a minha persistência') e usar a 'Voz de Locutor de Rádio'." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A rotulagem e a calma desarmam a irritação.",
+        "hint": "Desarmamento.",
+        "correctAnswer": "b",
+        "bookExample": "A calma é a sua arma secreta."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Fazer Concessões' para encerrar o Loop de Empatia?",
+        "options": [
+          { "value": "a", "label": "Você fecha o negócio mais rápido." },
+          { "value": "b", "label": "Você perde valor e ensina o oponente que a resistência leva a concessões." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "As concessões devem ser estratégicas, não emocionais.",
+        "hint": "Estratégia.",
+        "correctAnswer": "b",
+        "bookExample": "A negociação é um jogo de persistência."
+      },
+      {
+        "id": "9",
+        "question": "O que a 'Vulnerabilidade Controlada' ajuda a fazer no Loop de Empatia?",
+        "options": [
+          { "value": "a", "label": "Ameaçar o oponente." },
+          { "value": "b", "label": "Quebrar a resistência, pois ao se abrir, você encoraja o oponente a se abrir também (reciprocidade)." },
+          { "value": "c", "label": "Ficar em silêncio." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A vulnerabilidade é o atalho para a intimidade.",
+        "hint": "Intimidade.",
+        "correctAnswer": "b",
+        "bookExample": "A vulnerabilidade é a cola da confiança."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de lidar com um oponente que usa a palavra 'Sempre'?",
+        "options": [
+          { "value": "a", "label": "Aceitar o 'Sempre'." },
+          { "value": "b", "label": "Usar o espelhamento ('Sempre?') ou a rotulagem ('Parece que isso é um padrão para você') para forçá-lo a justificar a generalização." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Sempre' é um Cisne Negro. Você deve cavar mais fundo.",
+        "hint": "Cavar mais fundo.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Sempre' é a porta de entrada para a verdade."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "O Plano de Ação: Negociando a Vida",
+    "teaser": "🌍 Leve as táticas para a vida! A negociação é uma habilidade de relacionamento. Use a empatia para obter o que quer em todas as interações.",
+    "level1": "As técnicas de negociação de reféns são aplicáveis a todas as áreas da vida (trabalho, família, amigos). O objetivo é usar a empatia tática para fazer as pessoas se sentirem compreendidas, o que as torna mais abertas à sua influência.",
+    "level2": "A negociação é um processo contínuo de descoberta. Você deve praticar as técnicas (espelhamento, rotulagem, perguntas calibradas) em todas as interações para transformá-las em hábitos. O objetivo é ser o negociador mais empático da sala.",
+    "level3": "Ruim: Discutir com seu cônjuge. Bom: Usar a rotulagem ('Parece que você está frustrado com a louça') para desarmar a emoção e buscar o 'Isso Mesmo'.",
+    "recapitulation": [
+      "As técnicas de Negociação de Reféns são habilidades de vida e de relacionamento.",
+      "Pratique a Empatia Tática (Rotulagem e Espelhamento) em todas as interações (em casa, no trabalho, com amigos).",
+      "Use o 'Como' para forçar a colaboração em discussões ('Como podemos resolver isso para que os dois fiquem felizes?').",
+      "O 'Isso Mesmo' é a validação máxima em relacionamentos pessoais.",
+      "A 'Voz de Locutor de Rádio' é crucial para desescalar discussões familiares.",
+      "Evite 'Focar na Lógica' em discussões emocionais; trate a emoção primeiro."
+    ],
+    "practicalChecklist": [
+      "Use a Rotulagem na próxima vez que seu cônjuge/filho/amigo estiver frustrado ('Parece que você está realmente chateado com X').",
+      "Use o Espelhamento em conversas do dia a dia para aprofundar a comunicação.",
+      "Em uma discussão, mude o tom de voz para a 'Voz de Locutor de Rádio' para desescalar.",
+      "Use o 'Como' para forçar a solução ('Como podemos garantir que isso não aconteça de novo?').",
+      "Faça um 'Resumo Empático' da perspectiva de alguém e busque o 'Isso Mesmo' para melhorar a compreensão."
+    ],
+    "conclusionMessage": "A negociação é uma habilidade de vida. Use as técnicas de empatia tática, escuta ativa e perguntas calibradas em todas as interações para obter o que você quer.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo de aplicar as técnicas de negociação na vida diária?",
+        "options": [
+          { "value": "a", "label": "Ganhar todas as discussões." },
+          { "value": "b", "label": "Melhorar a comunicação, construir relacionamentos mais fortes e obter o que você quer de forma ética." },
+          { "value": "c", "label": "Fazer as pessoas se sentirem mal." },
+          { "value": "d", "label": "Falar sobre o preço." }
+        ],
+        "explanation": "A negociação é uma habilidade de vida.",
+        "hint": "Habilidade de vida.",
+        "correctAnswer": "b",
+        "bookExample": "A vida é uma negociação contínua."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a ferramenta mais importante para usar em interações pessoais?",
+        "options": [
+          { "value": "a", "label": "Ameaças." },
+          { "value": "b", "label": "Rotulagem e espelhamento (Empatia Tática)." },
+          { "value": "c", "label": "Gritar mais alto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A empatia é a chave para o coração humano.",
+        "hint": "Coração.",
+        "correctAnswer": "b",
+        "bookExample": "A empatia é a chave para o coração humano."
+      },
+      {
+        "id": "3",
+        "question": "O que o negociador deve fazer se o cônjuge estiver irritado?",
+        "options": [
+          { "value": "a", "label": "Discutir de volta." },
+          { "value": "b", "label": "Usar a rotulagem ('Parece que você está frustrado com X') e o espelhamento para desarmar a emoção." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "A rotulagem neutraliza a emoção.",
+        "hint": "Neutralização.",
+        "correctAnswer": "b",
+        "bookExample": "Rotule a emoção, mesmo em casa."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de 'Focar na Lógica' em uma discussão familiar?",
+        "options": [
+          { "value": "a", "label": "Você parece mais inteligente." },
+          { "value": "b", "label": "Você ignora o motor da decisão (emoção), e a pessoa se torna mais defensiva e irracional." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "A emoção deve ser tratada antes da lógica.",
+        "hint": "Prioridade.",
+        "correctAnswer": "b",
+        "bookExample": "A emoção precede a lógica."
+      },
+      {
+        "id": "5",
+        "question": "O que significa 'Praticar o Loop de Empatia' na vida diária?",
+        "options": [
+          { "value": "a", "label": "Fazer concessões." },
+          { "value": "b", "label": "Usar a repetição de rotulagem, espelhamento e perguntas calibradas em todas as interações para transformá-las em hábitos." },
+          { "value": "c", "label": "Mudar de assunto." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "A prática leva à maestria.",
+        "hint": "Maestria.",
+        "correctAnswer": "b",
+        "bookExample": "A prática leva à maestria."
+      },
+      {
+        "id": "6",
+        "question": "Qual é a função da pergunta 'Como podemos resolver isso?' em uma discussão?",
+        "options": [
+          { "value": "a", "label": "Mudar de assunto." },
+          { "value": "b", "label": "Transferir o fardo da solução para a outra pessoa, forçando-a a usar a parte racional do cérebro." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Ficar em silêncio." }
+        ],
+        "explanation": "O 'Como' força a racionalidade.",
+        "hint": "Racionalidade.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Como' é a chave para a solução."
+      },
+      {
+        "id": "7",
+        "question": "O que o 'Isso Mesmo' representa em um relacionamento pessoal?",
+        "options": [
+          { "value": "a", "label": "Um acordo sobre o preço." },
+          { "value": "b", "label": "A validação máxima de que a pessoa se sente profundamente compreendida e ouvida." },
+          { "value": "c", "label": "Uma concessão." },
+          { "value": "d", "label": "O fim da conversa." }
+        ],
+        "explanation": "O 'Isso Mesmo' é o Santo Graal da comunicação.",
+        "hint": "Validação.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Isso Mesmo' é o Santo Graal da negociação."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de 'Evitar o Conflito' em um relacionamento?",
+        "options": [
+          { "value": "a", "label": "Você parece mais gentil." },
+          { "value": "b", "label": "O conflito não resolvido se acumula e explode mais tarde, destruindo o relacionamento." },
+          { "value": "c", "label": "Você fala demais." },
+          { "value": "d", "label": "Você perde o foco." }
+        ],
+        "explanation": "O conflito controlado é produtivo.",
+        "hint": "Produtividade.",
+        "correctAnswer": "b",
+        "bookExample": "O conflito é a porta de entrada para a intimidade."
+      },
+      {
+        "id": "9",
+        "question": "O que a 'Voz de Locutor de Rádio' ajuda a fazer em uma discussão?",
+        "options": [
+          { "value": "a", "label": "Aumentar a tensão." },
+          { "value": "b", "label": "Comunicar calma, autoridade e controle, desescalando a tensão." },
+          { "value": "c", "label": "Gritar mais alto." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "A calma é contagiosa.",
+        "hint": "Contágio.",
+        "correctAnswer": "b",
+        "bookExample": "A calma é a sua arma secreta."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a melhor forma de lidar com um 'Não' em uma interação pessoal?",
+        "options": [
+          { "value": "a", "label": "Aceitar o 'Não'." },
+          { "value": "b", "label": "Usar o espelhamento ('Não?') ou a rotulagem ('Parece que há algo que te incomoda') para extrair a objeção real." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Mudar de assunto." }
+        ],
+        "explanation": "O 'Não' é a porta de entrada para a verdade.",
+        "hint": "Verdade.",
+        "correctAnswer": "b",
+        "bookExample": "O 'Não' é o novo 'Sim'."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1897 @@
+[
+{
+  "simulationId": 1,
+  "title": "🧭 Simulação: Crise no Posicionamento Estratégico do SaaS (12 Decisões)",
+  "introduction": "Você é o Head de Estratégia do 'AceleraCRM', um software que está estagnado. As vendas caíram 30% no último trimestre, e o time comercial reclama que o produto 'é mais um CRM'. A equipe de Marketing está dividida entre vender 'para todos' ou focar em 'nichos esquisitos'. É hora de aplicar as lições de Posicionamento para realinhar a bússola da empresa. Prepare-se para 12 decisões críticas que definirão o futuro do AceleraCRM.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "A Jornada de Reposicionamento: Onde Começar",
+      "narrative": "📉 O CEO acabou de sair da sala, batendo na mesa: 'O que diabos somos, afinal?!' Você precisa encontrar a verdade. A primeira ação não é redesenhar o logo ou adicionar recursos. **Onde você começa a busca pela fundação do novo posicionamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Mudar o slogan e lançar uma nova campanha de marketing para 'agradar a todos'.",
+          "feedback": "❌ Começar com o marketing é 'Posicionamento Interno' e não resolve a raiz do problema de clareza. Você está adiando a conversa estratégica. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Baixar o preço para ser mais competitivo e atrair um volume maior de clientes.",
+          "feedback": "⚠️ O preço é uma consequência do posicionamento. Você está apostando em volume sem resolver o valor percebido. Falta foco estratégico. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Montar uma força-tarefa para identificar e entrevistar os **clientes que obtêm o maior valor** e te amam (Clientes Ideais).",
+          "feedback": "✅ Perfeito! O reposicionamento começa nos clientes que já te amam. Eles são a prova de que um bom posicionamento já existe em algum lugar. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Fazer uma análise dos concorrentes *diretos* (outros CRMs) para copiar os recursos que estão faltando no seu produto.",
+          "feedback": "💡 Boa iniciativa, mas incompleta. Você está focando em 'Recursos de Tabela' em vez de valor único. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "A Jornada de Reposicionamento: Onde Começar",
+      "narrative": "🕵️ Você identificou que o seu Cliente Ideal é a 'Pequena Agência de Marketing' (PAM). Ao invés de entrevistar $20$ clientes perdidos, você vai a fundo em $5$ PAMs que te amam. **O que você deve perguntar, focando em extrair a verdade do posicionamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Perguntar sobre a cor preferida do logo e qual slogan acham mais legal.",
+          "feedback": "❌ Perguntas de Branding, não de Posicionamento. O cliente não sabe o seu posicionamento, ele sabe a **dor** que você resolveu. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O que eles estavam usando antes, o que os fez mudar e qual é o valor que eles obtêm de forma única com o seu produto.",
+          "feedback": "✅ Excelente! O foco é na transição (Concorrente/Status Quo) e no valor único (Diferença e Valor). O sucesso deixa pistas! (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar se eles usariam mais o produto se ele fosse mais barato.",
+          "feedback": "⚠️ O foco no preço é uma distração. Se eles te amam, o preço já está justificado. Concentre-se no **Valor Percebido**, não no custo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pedir uma lista de 10 novos recursos que eles gostariam de ver no produto.",
+          "feedback": "💡 Útil para o roadmap, mas não para o posicionamento. O posicionamento deve focar no que você *já faz* de melhor. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "A Jornada de Reposicionamento: Onde Começar",
+      "narrative": "💡 Após as entrevistas, você percebe que a característica mais amada não é 'gestão de leads', mas sim a **API de integração com ferramentas de mídia paga**. Ninguém mais no mercado tem isso. Você acaba de ter um 'Aha Moment'. **O que esse momento de clareza estratégica representa?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "É o momento em que você deve demitir o time de vendas antigo.",
+          "feedback": "❌ Você está confundindo clareza com gestão de pessoas. Foco na estratégia, não na punição. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "É o momento em que você percebe que o seu produto é a melhor solução para um problema específico de um cliente específico (PAM).",
+          "feedback": "✅ O 'Aha Moment' é a clareza. Você encontrou a intersecção perfeita entre sua capacidade única e a necessidade intensa de um cliente ideal. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "É o momento em que você deve começar a cobrar $500 a mais por mês.",
+          "feedback": "💡 Um bom posicionamento permite preços premium, mas o preço é uma decisão de follow-up. Você ainda precisa validar o valor no mercado. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "É o momento de adicionar 10 novos recursos ao produto.",
+          "feedback": "⚠️ O foco deve ser em **comunicar** essa diferença única, não em diluí-la com mais recursos genéricos. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Passo 1: Identificando os Concorrentes Reais",
+      "narrative": "🥊 Agora que você sabe que seu cliente ideal é a PAM, você precisa listar os concorrentes para entender o campo de jogo. Além do Pipedrive, o que mais você deve incluir na sua **Análise Competitiva de Posicionamento**?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Apenas empresas que fazem exatamente a mesma coisa que você, como o HubSpot e o Salesforce (Concorrentes Diretos).",
+          "feedback": "⚠️ Você ignorou as alternativas que o cliente *realmente* considera. O Posicionamento deve focar em vencer o **Status Quo** e os **Indiretos**. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Todas as alternativas que o cliente considera para resolver o problema: Concorrentes Diretos, Soluções Indiretas (planilhas, consultores) e, principalmente, a Inação (Status Quo).",
+          "feedback": "✅ Correto. Seus Concorrentes Reais são as referências que o cliente usa para te entender e te comparar. Você precisa vencer todas essas alternativas. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Apenas o software de planilhas Excel, pois ele é muito mais barato.",
+          "feedback": "💡 O Excel é um concorrente Indireto/Status Quo importante, mas não o único. Você ainda precisa mapear os diretos para o contexto. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Empresas em outros mercados que não têm nada a ver com você.",
+          "feedback": "❌ Você está desperdiçando recursos. O concorrente é o contexto que você usa para se destacar. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Passo 1: Identificando os Concorrentes Reais",
+      "narrative": "🛑 O time de vendas está perdendo negócios para a **Inação** (o cliente decide esperar ou continuar com as planilhas). Eles veem o seu produto como um 'luxo'. **Como você usa o posicionamento para atacar esse concorrente mais difícil, o Status Quo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Fazer um desconto de 50% para que a compra pareça menos arriscada.",
+          "feedback": "⚠️ Baixar o preço é a solução do preguiçoso. Isso não resolve a percepção de que o problema é pequeno. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Apresentar slides com muitos recursos e funcionalidades do produto.",
+          "feedback": "❌ O cliente já sabe o que você faz; ele não vê valor suficiente para *mudar*. Listar recursos não resolve a inércia. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "c",
+          "label": "Destacar o **custo da inação**, quantificando as perdas de receita ou tempo que o cliente terá ao continuar com o Status Quo. (Aversão à Perda)",
+          "feedback": "✅ Fantástico! Você precisa convencer o cliente de que a dor de não ter sua solução é maior que o risco da mudança. Use a aversão à perda. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Ignorar a Inação e focar em competir apenas com o Pipedrive.",
+          "feedback": "💡 O Status Quo é o inimigo número 1. Se você não o vencer, o cliente nem sequer considerará o Pipedrive. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Passo 1: Identificando os Concorrentes Reais",
+      "narrative": "🆚 O seu cliente ideal (PAM) te compara automaticamente com o Pipedrive (o líder da categoria CRM simples). Você não quer ser visto como uma 'alternativa inferior'. **Qual é a sua melhor abordagem de 'Posicionamento Relativo' neste caso?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer 'Somos como o Pipedrive, mas mais barato'.",
+          "feedback": "❌ Você acabou de se posicionar como o clone mais barato e inferior do líder. Isso é um erro fatal, que garante baixa margem. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Mudar a categoria para 'Software de Geração de Leads' e ignorar a comparação com CRMs.",
+          "feedback": "⚠️ O cliente ainda o verá como CRM. Você não pode forçar uma categoria sem antes justificar sua diferença única. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Definir o posicionamento sempre em relação ao Pipedrive, destacando a sua diferença única (integração de mídia paga) que o Pipedrive não possui para o cliente ideal.",
+          "feedback": "✅ O Posicionamento Relativo é a chave: 'Somos o Pipedrive (contexto que você conhece), mas, especificamente para agências, temos a funcionalidade de API que ele não tem (diferença única)'. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Listar todos os recursos que você e o Pipedrive têm em comum (Recursos de Tabela).",
+          "feedback": "💡 Ao listar o que é comum, você não cria contraste. Você precisa de contraste para justificar por que é uma escolha superior. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Os 5 Componentes do Posicionamento",
+      "narrative": "✍️ Você agora tem $3$ componentes: **Clientes Ideais** (PAMs), **Diferença** (API de Mídia Paga), e **Valor** (Alta Conversão). Você precisa alinhar o componente **Categoria de Mercado**. **Qual é o papel da Categoria neste alinhamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O papel da categoria é apenas definir o preço.",
+          "feedback": "❌ A Categoria define o contexto de comparação e as expectativas, não apenas o preço. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Definir as expectativas do cliente sobre o que o seu produto deve fazer e, por extensão, quem são seus concorrentes de 'primeiro olhar'.",
+          "feedback": "✅ Correto. A Categoria é o atalho mental que o cliente usa para te encaixar (ex: 'Isso é um CRM') e entender rapidamente suas funcionalidades esperadas. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Deve ser sempre 'CRM', pois é o que seu produto faz.",
+          "feedback": "⚠️ Não é obrigatório ser 'CRM'. Mudar a Categoria para algo mais específico ('Software de Automação de Vendas') pode ser mais estratégico para o seu nicho. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Deve ser o mesmo nome do seu produto, 'AceleraCRM'.",
+          "feedback": "💡 O nome do produto e a categoria são diferentes. A categoria é a classificação de mercado. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Os 5 Componentes do Posicionamento",
+      "narrative": "🔀 Sua equipe está confusa: eles consideram a integração com o WhatsApp (que a maioria tem) e a API de Mídia Paga (que só você tem) como 'Diferenças'. **Qual é a distinção crucial entre 'Recursos de Tabela' e 'Diferenças Únicas' que você precisa deixar clara?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ambos são diferenças. Quanto mais diferenças você tiver, melhor o posicionamento.",
+          "feedback": "❌ Erro grave. Recursos de Tabela não te ajudam a se diferenciar, apenas a competir. Você está diluindo sua mensagem. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Recursos de Tabela (WhatsApp) são o mínimo que a categoria exige para competir; Diferenças Únicas (API de Mídia Paga) são capacidades que só você tem e geram valor.",
+          "feedback": "✅ Exatamente. Não se posicione em Recursos de Tabela. Eles são o custo de entrada. Sua mensagem deve ser construída em torno do que é ÚNICO e VALIOSO. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "A diferença é apenas para o time de marketing; o recurso de tabela é para o time de produto.",
+          "feedback": "⚠️ O posicionamento deve ser um esforço de equipe, afetando produto, vendas e marketing. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Diferenças são apenas sobre preço. Recursos de tabela são sobre funcionalidades.",
+          "feedback": "💡 O preço é uma consequência. A diferença é sobre **capacidade única e valor gerado**. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Os 5 Componentes do Posicionamento",
+      "narrative": "🧩 Você tem 4 dos 5 componentes: Concorrentes (Pipedrive/Inação), Diferenças (API Mídia Paga), Valor (Alta Conversão), Cliente Ideal (PAMs). Qual é o último componente que você precisa incluir para que o seu posicionamento seja coeso e **Obviamente Incrível**?",
+      "options": [
+        {
+          "value": "a",
+          "label": "O nome do CEO.",
+          "feedback": "❌ Irrelevante para o posicionamento de mercado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A cor da nova identidade visual (Branding).",
+          "feedback": "⚠️ Branding é importante, mas não é um dos 5 componentes fundamentais da estrutura estratégica. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "A Categoria de Mercado (ex: 'Software de Automação de Vendas para Marketing').",
+          "feedback": "✅ Correto. A Categoria define o contexto do seu produto na mente do cliente e permite que ele compare o valor de forma imediata. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Um novo recurso de IA que ainda não está pronto, mas será lançado em 6 meses.",
+          "feedback": "💡 Você deve se posicionar no que está pronto e validado hoje. Posicionar-se em promessas gera desalinhamento. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Problema do Posicionamento: Por que a Maioria Falha",
+      "narrative": "📉 O Marketing, teimoso, sugere: 'Se vamos focar em Agências, vamos falar para as **pequenas** e as **grandes** para maximizar o mercado.' **Qual é o risco de tentar expandir o Cliente Ideal para 'todas as Agências de Marketing'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O risco é nulo, já que a mensagem serve para todos.",
+          "feedback": "❌ Você está caindo no erro de 'tentar agradar a todos'. O posicionamento se dilui e você se torna 'mais um'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "As agências grandes têm necessidades diferentes (mais complexas) e te compararão com CRMs de nível Enterprise, onde você não é líder.",
+          "feedback": "✅ O foco deve ser no 'Best-Fit Customer' (PAMs). As necessidades diferentes dos grandes levam a comparações onde você perde, tornando a escolha não-óbvia. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Você terá que cobrar mais caro.",
+          "feedback": "⚠️ O preço é uma consequência, mas não o principal risco estratégico. O maior risco é a confusão da mensagem. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "As agências grandes são mais ricas.",
+          "feedback": "💡 O potencial de receita existe, mas o foco deve ser onde você pode ser o 'Obviamente Incrível'. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Problema do Posicionamento: Por que a Maioria Falha",
+      "narrative": "🗣️ Você está agora alinhando a mensagem com o time de vendas. Eles argumentam: 'Todo mundo diz ser inovador. Por que não focamos nisso?' Você precisa explicar que Posicionamento e Branding são diferentes. **Qual é a definição mais precisa de Posicionamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O slogan da sua empresa.",
+          "feedback": "❌ Esse é o Branding, a expressão externa. Posicionamento é a estratégia interna, a fundação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A forma como você define o seu produto para que ele seja a **melhor opção** para um **conjunto específico de clientes**.",
+          "feedback": "✅ Perfeito. Posicionamento é a base estratégica que define o contexto do seu produto (sua categoria e seu cliente ideal) na mente do cliente. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "A estratégia de preços.",
+          "feedback": "⚠️ A estratégia de preços é *informada* pelo posicionamento, mas não é a definição dele. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "A forma como você usa as redes sociais e o seu logo.",
+          "feedback": "💡 Isso é Marketing/Branding. O posicionamento é o que precede essas ações. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "A Jornada de Reposicionamento: Onde Começar",
+      "narrative": "📄 O reposicionamento está pronto: 'AceleraCRM: O CRM de Automação de Vendas para Agências de Marketing que precisam de alta conversão, graças à nossa API de Mídia Paga.' Sua última tarefa é garantir a longevidade. **Qual é a ação final para evitar que o posicionamento se perca com o tempo?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Fazer uma festa de lançamento e esquecer o assunto.",
+          "feedback": "❌ O posicionamento deve ser um documento 'vivo' e uma mentalidade contínua, não um evento único. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Garantir que toda a empresa (Vendas, Produto, Marketing, Suporte) esteja alinhada, usando a mesma linguagem e contexto ao falar sobre o produto (Documentação e Treinamento).",
+          "feedback": "✅ Vencedor. O posicionamento é a bússola. Se o time interno não estiver alinhado, a execução falhará, e o mercado voltará a ficar confuso. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Apenas o CEO e o time de Marketing devem saber o novo posicionamento.",
+          "feedback": "⚠️ O desalinhamento interno matará o posicionamento. Produto fará algo que o marketing não consegue vender, e vice-versa. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Começar imediatamente a procurar um novo nicho de mercado para expandir.",
+          "feedback": "💡 A expansão é a próxima fase, mas você deve dominar o nicho atual primeiro ('Comece pequeno, domine, e depois expanda'). (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 2,
+  "title": "⚙️ Simulação: Execução do Novo Posicionamento e Prova de Valor",
+  "introduction": "A equipe definiu o novo foco: 'AceleraCRM: A Ferramenta de Automação de Vendas para Agências de Marketing (PAM)'. Seu desafio agora é traduzir as diferenças e o valor em uma mensagem coesa e implementável, evitando os erros de comunicação que levam à 'comoditização'. Você terá que tomar 12 decisões para provar que o AceleraCRM é, de fato, a **melhor opção** para as PAMs.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Passo 2: Identificando as Diferenças Únicas",
+      "narrative": "🔍 Você está mapeando os recursos do AceleraCRM. Sua equipe lista 'Suporte 24/7' e 'Interface Intuitiva'. Você identifica que todos os concorrentes também têm isso. **Como você classifica esses recursos no contexto do seu novo posicionamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "São as suas Diferenças Únicas. Você deve promovê-los agressivamente.",
+          "feedback": "❌ Erro! Se todos os concorrentes têm, isso é um 'Recurso de Tabela' (Table Stake). Basear o posicionamento nisso o tornará genérico. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "São 'Recursos de Tabela': o mínimo necessário para competir, mas irrelevantes para a diferenciação. Você deve focar em capacidades que só você tem.",
+          "feedback": "✅ Correto. Recursos de Tabela são o custo de entrada. Sua energia e mensagem devem ser gastas no que é único e valioso. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "São 'Recursos de Experiência', e você deve vendê-los como o Valor principal, ignorando os recursos técnicos.",
+          "feedback": "⚠️ O Suporte é um 'Diferencial de Experiência', mas se não for *único* (24/7 de verdade, diferente do concorrente), não é a base do posicionamento. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "São a base da sua 'Arquitetura' e devem ser mencionados apenas para o time técnico.",
+          "feedback": "💡 Eles podem ser baseados na arquitetura, mas no contexto do mercado são apenas funcionalidades esperadas. A precisão é a chave. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Passo 2: Identificando as Diferenças Únicas",
+      "narrative": "🌟 Você descobriu que a **API de Automação de Relatórios em Tempo Real** é o seu trunfo: nenhum concorrente tem isso de forma nativa. O time de engenharia está animado, mas o time de marketing quer focar na 'facilidade de uso'. **Como você valida se a API é a Diferença Única certa?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Pede para o time de produto votar em qual é a diferença mais legal.",
+          "feedback": "❌ Você está baseando a decisão em 'Posicionamento Interno' (opinião) em vez de 'Prova de Valor' (mercado). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Observa se os clientes ideais (PAMs) estão **usando o recurso ativamente** e se o mencionaram como um 'divisor de águas' nas entrevistas.",
+          "feedback": "✅ Exato. O comportamento e o feedback do cliente são a prova irrefutável de que a diferença é única E relevante. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Perguntar se os clientes ideais pagariam $10 a mais por ele.",
+          "feedback": "⚠️ O foco no preço é prematuro. Primeiro, valide o valor percebido. O preço é o resultado de um bom posicionamento. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Ignora a API e foca na 'facilidade de uso', já que o marketing prefere.",
+          "feedback": "💡 A facilidade de uso é uma boa diferença de experiência, mas é menos defensável do que uma Diferença de Arquitetura única (a API). (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Passo 2: Identificando as Diferenças Únicas",
+      "narrative": "🧱 Para aumentar a barreira de entrada, você decide 'Empilhar Diferenças'. Sua primeira diferença é a API de Relatórios (Arquitetura). Qual segunda diferença, entre as abaixo, seria mais estratégica para **reforçar seu valor para as PAMs** e criar uma proposta de valor quase impossível de copiar?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Suporte Técnico 24/7 com resposta garantida em 10 minutos (Diferença de Experiência).",
+          "feedback": "💡 Isso é uma boa Diferença de Experiência e relevante para quem tem pouco tempo (PAMs). Adiciona valor, mas é mais fácil de copiar do que uma capacidade de produto. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "b",
+          "label": "Integração nativa de 2 vias com todas as plataformas de anúncios (Facebook, Google, TikTok), permitindo automação de campanhas (Diferença de Arquitetura/Produto).",
+          "feedback": "✅ Fantástico! Você está combinando várias capacidades únicas, focadas na principal dor da PAM (gestão de clientes/campanhas), criando um valor único e uma alta barreira de cópia. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ter o logotipo mais bonito do mercado (Branding).",
+          "feedback": "❌ Branding não é diferenciação de posicionamento. Não adiciona valor tangível para o cliente ideal. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Oferecer o produto de graça para qualquer nova agência (Preço).",
+          "feedback": "⚠️ Preço é uma solução insustentável e não é uma diferença de posicionamento. Isso desvaloriza a sua solução única. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Passo 3: Mapeando o Valor para o Cliente",
+      "narrative": "🗣️ Você tem a Diferença Única (API de Relatórios) e o Cliente Ideal (PAMs). O time de vendas continua dizendo: 'Nós temos a melhor API'. Você precisa que eles parem de falar 'o quê' (recurso) e comecem a falar 'porquê' (valor). **Qual é a melhor forma de traduzir o valor dessa API para as PAMs?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A API é baseada em tecnologia React Native, que é a mais moderna.",
+          "feedback": "❌ Você está focando na Tecnologia (o 'como'), não no Valor (o 'porquê'). O cliente compra o resultado, não o código. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Permite que as PAMs 'Aumentem a Receita Recorrente em 15% ao mês, pois a automação de relatórios libera 5 horas semanais do tempo do seu Gestor de Tráfego'.",
+          "feedback": "✅ Perfeito. Você traduziu a diferença em um **resultado quantificável** (15% a mais de receita) e um **benefício tangível** (5h salvas). Isso justifica o preço premium. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "A API é muito importante.",
+          "feedback": "⚠️ O 'Valor Genérico' não convence. O cliente precisa de especificidade para justificar a compra. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Ela dá paz de espírito (Valor Emocional).",
+          "feedback": "💡 O 'Valor Emocional' é um subproduto do valor funcional. Você precisa do benefício tangível para justificar a emoção. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Passo 3: Mapeando o Valor para o Cliente",
+      "narrative": "😰 Seu concorrente (Pipedrive) lança uma versão 'light' de relatórios. O seu valor de 'Relatórios em Tempo Real' pode parecer menos único. **Como você usa o 'Custo da Inação' para aumentar a percepção do seu valor único?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ignorar o lançamento do concorrente e continuar falando do seu recurso.",
+          "feedback": "❌ Você está ignorando a mudança de mercado. Você precisa de uma reação estratégica para manter a clareza. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Destacar as **perdas financeiras** e a **oportunidade** que a PAM está sofrendo ao usar relatórios desatualizados (como os do concorrente), que levam a decisões erradas de campanha.",
+          "feedback": "✅ Brilhante! Você está usando a Aversão à Perda. O medo de perder dinheiro com campanhas mal otimizadas (o custo da inação) é um motivador de compra mais forte. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Fazer um desconto temporário para atrair novos clientes.",
+          "feedback": "⚠️ O foco no preço não resolve a percepção de valor. É uma solução de curto prazo que prejudica a margem. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Começar a promover todos os seus Recursos de Tabela, na esperança de que algum se destaque.",
+          "feedback": "💡 Isso dilui sua mensagem. Concentre-se no **contraste** entre o valor do seu recurso único e o valor inferior do concorrente. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Passo 3: Mapeando o Valor para o Cliente",
+      "narrative": "🤝 Para tornar o seu posicionamento credível, você precisa de provas. O time de marketing sugere criar conteúdo sobre os recursos. **Qual é o ativo de comunicação mais eficaz para transmitir o Valor de Nicho (o benefício) para as PAMs?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Um post longo no blog sobre a complexidade da sua arquitetura de dados.",
+          "feedback": "❌ O cliente compra o resultado, não a complexidade. Não é a forma mais eficaz de transmitir o valor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Um Ebook genérico sobre 'Como Aumentar a Produtividade' (Valor Genérico).",
+          "feedback": "⚠️ O Valor Genérico não te diferencia. O conteúdo deve ser hiperfocado no cliente ideal. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Testemunhos em vídeo de PAMs que demonstrem o resultado quantificável (aumento de 15% de receita) que só o AceleraCRM lhes proporcionou.",
+          "feedback": "✅ O Testemunho de Cliente (Prova Social) é a melhor forma de validar o valor. É a prova de que o resultado prometido é real. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Um anúncio focado apenas no seu preço baixo.",
+          "feedback": "💡 O foco no preço atrai clientes que buscam o mais barato, e não o 'melhor ajuste' (Best-Fit Customer). (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Passo 4: Identificando o Cliente Ideal (Best-Fit Customer)",
+      "narrative": "📏 O time de Vendas pergunta: 'O que exatamente é uma PAM?'. Você precisa refinar o Cliente Ideal para que a mensagem seja um 'foco laser'. Qual é a melhor forma de **segmentar e descrever o Best-Fit Customer?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Qualquer 'Pequena Empresa' (Posicionamento Amplo/Demográfico).",
+          "feedback": "❌ Demografia genérica. Isso dilui a mensagem e atrai clientes que não se beneficiam do seu valor único. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Apenas 'Agências de Marketing' (Segmentação Incompleta).",
+          "feedback": "⚠️ Agências de Marketing variam em tamanho e dor. A segmentação deve ser mais específica, focando no segmento que mais te ama. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Pequenas Agências de Marketing (10-30 funcionários) que Gerenciam 10+ Clientes e têm a dor de Relatórios Manuais (Foco Laser em Dor/Demografia).",
+          "feedback": "✅ Perfeito! Você combinou o critério de tamanho/demografia com a **dor** que só a sua solução única resolve. Isso cria um 'foco laser' inconfundível. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Agências de Marketing que são seus amigos no LinkedIn (Critério Social).",
+          "feedback": "💡 Isso é um critério subjetivo. O Cliente Ideal deve ser definido por critérios objetivos e mensuráveis. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Passo 4: Identificando o Cliente Ideal (Best-Fit Customer)",
+      "narrative": "🔪 O time de Vendas traz uma oportunidade de fechar com uma **Grande Agência de Propaganda** (300+ funcionários). Eles acham que 'Agência' já é suficiente. Qual é o risco de tentar expandir o foco do Best-Fit Customer (PAMs) para a Grande Agência?",
+      "options": [
+        {
+          "value": "a",
+          "label": "A Grande Agência vai te amar mais do que a PAM.",
+          "feedback": "❌ A Grande Agência tem necessidades de Enterprise, e suas diferenças únicas (API de Relatórios) provavelmente são Recursos de Tabela para elas. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Sua mensagem de posicionamento se diluirá, e você será comparado com soluções Enterprise (como o Salesforce), onde você não é líder e seu valor único é irrelevante.",
+          "feedback": "✅ Correto. Você será visto como uma alternativa inferior ou incompleta. Mantenha o foco laser no nicho que você domina. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O ciclo de vendas será mais curto.",
+          "feedback": "⚠️ O oposto é verdadeiro. O ciclo de vendas em Grandes Agências é notoriamente longo e complexo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Você terá que mudar o seu slogan.",
+          "feedback": "💡 O slogan é uma consequência. O maior risco é o desalinhamento estratégico. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Passo 4: Identificando o Cliente Ideal (Best-Fit Customer)",
+      "narrative": "🧠 Para garantir que todos no time estejam na mesma página, você decide criar uma Persona. **Qual é o papel da 'Persona' no Posicionamento, além de ser um avatar de marketing?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A Persona é o produto.",
+          "feedback": "❌ A Persona é a representação do cliente, não o produto em si. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A Persona deve ser ignorada, pois o posicionamento é sobre o mercado.",
+          "feedback": "⚠️ A Persona personifica o 'Best-Fit Customer', garantindo que a mensagem de posicionamento ressoe com as necessidades e o contexto **humano** da compra. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "É a personificação do Cliente Ideal, usada para garantir que a mensagem de posicionamento ressoe com as dores e o contexto dele (ex: o Gestor de Tráfego sobrecarregado).",
+          "feedback": "✅ Excelente. A Persona traz humanidade e foco, garantindo que a comunicação da Diferença/Valor seja dirigida ao tomador de decisão. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "A Persona deve ser a mais genérica possível para atrair mais pessoas.",
+          "feedback": "💡 A Persona deve ser específica para o nicho (PAMs), não genérica. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Passo 5: Encontrando a Categoria de Mercado Perfeita",
+      "narrative": "🗺️ O time de vendas continua usando 'CRM' como a Categoria. Você é o líder de produto em um nicho. **Qual das opções abaixo representa a Categoria de Mercado Perfeita para o AceleraCRM (o líder da API de Relatórios)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Manter 'CRM' e lutar contra Salesforce e HubSpot (Categoria Existente/Ampla).",
+          "feedback": "❌ Você será visto como uma alternativa inferior ou mais cara aos líderes. O cliente não entenderá suas diferenças únicas. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Criar a 'Nova Categoria' de 'Software de Gestão de Agências', o que exigirá educar o mercado do zero.",
+          "feedback": "💡 A criação de Nova Categoria é arriscada e cara. É melhor dominar um Subsegmento que já existe na mente do cliente. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "c",
+          "label": "Posicionar-se como 'Software de Automação de Vendas e Relatórios para Agências de Marketing' (Subcategoria Liderável).",
+          "feedback": "✅ O 'Posicionamento de Subcategoria' permite que você seja o líder em um nicho, onde suas diferenças (API de Relatórios) são mais valorizadas. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Posicionar-se como 'O Uber do CRM' (Posicionamento de Referência vago).",
+          "feedback": "⚠️ O Posicionamento de Referência é um atalho, mas 'Uber do CRM' é vago. Você precisa de clareza sobre o contexto do produto. (1/3 ★)",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Passo 5: Encontrando a Categoria de Mercado Perfeita",
+      "narrative": "🗣️ Durante uma negociação, um cliente diz: 'Então vocês são mais um daqueles softwares de gestão de clientes, como o Pipedrive?'. O cliente colocou o seu produto na Categoria Genérica (CRM). **Qual é a sua resposta estratégica?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Concordar e tentar competir no preço (Aceitar Categoria Genérica).",
+          "feedback": "❌ Ao aceitar a Categoria Genérica, você é forçado a competir em preço e recursos genéricos, ignorando seu valor único. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Corrigir gentilmente, dizendo: 'Somos como o Pipedrive, mas, especificamente para agências, somos o Software de Automação de Vendas que otimiza campanhas graças à API de Relatórios em Tempo Real.'",
+          "feedback": "✅ Brilhante! Você usou o Pipedrive como âncora (Categoria de Referência) e imediatamente o contrastou com a sua Diferença Única, guiando o cliente para a Subcategoria correta. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer que você é melhor que o Pipedrive em tudo (Afirmação Genérica).",
+          "feedback": "⚠️ Você precisa de provas e especificidade. 'Melhor' é subjetivo. O posicionamento é sobre ser o **melhor para alguém** em algo que importa. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Mudar de assunto e focar em seu preço baixo.",
+          "feedback": "💡 O alinhamento da categoria é crucial para a compra. Não mude o foco sem antes corrigir a percepção. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Passo 5: Encontrando a Categoria de Mercado Perfeita",
+      "narrative": "📈 Você está olhando para o futuro. Sua Subcategoria atual é 'Software de Automação de Vendas e Relatórios para Agências de Marketing'. **Qual é o critério final para garantir que esta é uma boa Categoria (Visão de Futuro)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "É a categoria mais barata do mercado.",
+          "feedback": "❌ O posicionamento de preço baixo não é uma estratégia de crescimento sustentável. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A categoria é grande o suficiente para o seu crescimento futuro, mas pequena o suficiente para que você possa dominar e ser o líder desde o início.",
+          "feedback": "✅ O posicionamento é uma estratégia de crescimento. Você deve escolher um nicho dominável que tenha potencial de expansão. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "A categoria é tão pequena que não há concorrentes.",
+          "feedback": "⚠️ A ausência de concorrentes pode significar ausência de mercado. Você precisa de um mercado viável para o crescimento. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "É uma categoria onde você pode adicionar 100 novos recursos nos próximos 12 meses.",
+          "feedback": "💡 O roadmap de produto é uma consequência do posicionamento, não o critério para a categoria. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 3,
+  "title": "📜 Simulação: Comunicação, Contraste e a Armadilha da Categoria",
+  "introduction": "A Declaração de Posicionamento do AceleraCRM está quase finalizada. Seu trabalho agora é formalizar essa declaração interna, usá-la como uma bússola para o time e comunicá-la através de histórias que ressoem com as Agências de Marketing (PAMs). Você enfrentará o risco de desalinhamento interno e o perigo de ser enquadrado na 'Armadilha da Categoria'. Tome 12 decisões para garantir que sua mensagem seja clara e convincente.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Passo 6: Criando a Declaração de Posicionamento",
+      "narrative": "✍️ Você está na etapa final: criar a **Declaração de Posicionamento oficial** do AceleraCRM. Seu objetivo é garantir que ela seja um documento interno de alinhamento. Qual é o formato ideal que você deve seguir para incluir todos os 5 Componentes (Cliente, Categoria, Valor, Diferença, Concorrentes)?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Um parágrafo de 5 linhas sobre a visão da empresa e o quanto vocês são inovadores (Foco no Produto/Visão Genérica).",
+          "feedback": "❌ Isso não é uma Declaração de Posicionamento. É uma visão. Não fornece clareza sobre o Cliente Ideal, o Valor Único ou o Contraste. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Para (Cliente Ideal) que (Dor), (Produto) é um (Categoria) que (Benefício Único) diferente de (Concorrentes) porque (Diferença Única).",
+          "feedback": "✅ Perfeito! Este formato garante que todos os 5 componentes (e a dor) sejam explicitamente definidos, servindo como a **bússola interna** da empresa. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Um slogan curto para a página inicial (Slogan/Branding).",
+          "feedback": "⚠️ O slogan é a expressão externa. A declaração é a fundação interna. Confundir os dois leva a um desalinhamento. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Uma lista de todos os seus 20 recursos mais a logo do Pipedrive.",
+          "feedback": "💡 Boa tentativa de incluir concorrentes e recursos, mas falta a síntese (Benefício Único) e a estrutura formal. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Passo 6: Criando a Declaração de Posicionamento",
+      "narrative": "🚧 Um novo gerente de marketing sugere que a declaração não deve mencionar 'Planilhas' e 'CRMs Genéricos' na seção 'Diferente de (Concorrentes)'. Ele acha que isso parece 'negativo'. **Qual é a importância estratégica de incluir o contraste com os Concorrentes Reais?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Não importa. Você só deve focar no seu produto.",
+          "feedback": "❌ Você está ignorando o contexto de comparação. O cliente só entende o que você é comparando com o que ele já conhece. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Estabelece o Contraste: destaca claramente o que você **não é** e **por que suas diferenças** são importantes (vencendo o Status Quo e a commodity).",
+          "feedback": "✅ O contraste é o motor da diferenciação. Você precisa de um 'vilão' (o Status Quo ou o concorrente genérico) para se posicionar como o 'herói' da história. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "É apenas para satisfazer o CEO.",
+          "feedback": "⚠️ O posicionamento deve ser baseado em dados de mercado, não em preferências internas. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "A Declaração é interna, então a seção 'Diferente de' pode ser mais vaga.",
+          "feedback": "💡 A clareza interna é fundamental. Uma declaração vaga não consegue guiar as decisões de produto ou vendas. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Passo 6: Criando a Declaração de Posicionamento",
+      "narrative": "🔄 O time de vendas está empolgado e pede permissão para **mudar a declaração a cada 3 meses** para se adaptar às novas tendências de mercado. Qual é o risco de 'Mudar a Declaração' frequentemente?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Isso garantirá que a empresa esteja sempre à frente da concorrência.",
+          "feedback": "❌ A instabilidade na declaração fará com que o mercado perca a confiança e a empresa perca o foco. O posicionamento deve ser estável. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O mercado fica confuso, o cliente não consegue fixar a percepção do seu produto, e a empresa perde o foco estratégico e a credibilidade.",
+          "feedback": "✅ A consistência é crucial para a credibilidade. O posicionamento deve ser uma âncora, não uma boia à deriva. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Você terá que contratar mais pessoas para o marketing.",
+          "feedback": "⚠️ O risco é estratégico, não operacional. O desalinhamento é a maior ameaça. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Você terá que focar apenas no preço.",
+          "feedback": "💡 A perda de foco pode levar à competição por preço, mas o principal risco é a confusão do mercado. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "A Armadilha da Categoria: Quando Mudar o Contexto",
+      "narrative": "📉 O mercado ainda o vê como 'Mais um CRM' (Armadilha da Categoria), ignorando sua API de Relatórios em Tempo Real. Você tem uma diferença única e um cliente ideal focado (PAMs). **Qual é a sua ação estratégica para sair dessa Armadilha?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Baixar o preço para competir no mercado genérico de CRMs.",
+          "feedback": "❌ Você aceitou ser uma commodity. Isso ignora o seu valor único e o força a competir em um mercado onde você não pode vencer. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Mudar o Contexto: reposicionar o produto para uma Subcategoria (ex: 'Software de Automação de Vendas e Relatórios') onde sua diferença é o Recurso de Tabela e você é o líder.",
+          "feedback": "✅ Correto. A categoria errada mata a percepção. Mudar o contexto de comparação (para um nicho liderável) é a única solução estratégica. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Adicionar mais recursos de CRM genéricos para parecer mais competitivo contra o Salesforce.",
+          "feedback": "⚠️ Adicionar Recursos de Tabela drena seus recursos e não resolve o problema de percepção. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Criar uma Nova Categoria do zero ('Software de Super-Relatórios') para ser o professor do mercado.",
+          "feedback": "💡 Criar uma nova categoria é caro e arriscado. O 'Posicionamento de Subcategoria' é a opção mais eficiente. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "A Armadilha da Categoria: Quando Mudar o Contexto",
+      "narrative": "💸 Um cliente diz na reunião de vendas: 'O seu software é como o CRM X, mas $50 mais caro por mês'. Ele o colocou na Categoria Errada, forçando uma **Objeção de Preço**. O que você faz?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Baixar o preço para igualar o concorrente imediatamente.",
+          "feedback": "❌ O preço é uma consequência do valor. Você está validando a percepção de que você é igual ao concorrente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Corrigir o contexto: 'É verdade que somos mais caros, porque não somos apenas um CRM. Somos Automação de Relatórios. O preço reflete o Valor que o concorrente não pode entregar (API de Relatórios em Tempo Real).'",
+          "feedback": "✅ Excelente. Você corrigiu o contexto, justificou o preço com a Diferença Única e transformou a objeção em uma oportunidade para reafirmar o posicionamento. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer que o cliente está errado e que seu produto é o melhor em tudo.",
+          "feedback": "⚠️ Você está sendo defensivo. Use o Posicionamento para ser objetivo e didático. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Conceder um desconto de $25 e focar no próximo recurso.",
+          "feedback": "💡 Concessões desnecessárias corroem sua margem e não educam o cliente sobre o valor. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "A Armadilha da Categoria: Quando Mudar o Contexto",
+      "narrative": "🚀 Você percebe que o futuro do AceleraCRM é se tornar o software essencial para todas as pequenas empresas. No entanto, o seu foco atual é a PAM. **Qual é o papel da 'Visão de Futuro' (Small Businesses) na escolha da Categoria atual (PAM)?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Mudar a Categoria imediatamente para 'Software de Gestão para Pequenas Empresas' (Ampla).",
+          "feedback": "❌ Você está ignorando a lição de 'Começar Pequeno para Dominar'. Isso dilui o posicionamento de hoje. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A categoria atual (PAM) deve ser grande o suficiente para o seu crescimento a curto prazo, mas pequena o suficiente para a dominação inicial, antes de expandir para a visão maior (Small Businesses).",
+          "feedback": "✅ O posicionamento é uma estratégia de crescimento. Domine o nicho (PAM) onde você é 'Obviamente Incrível' e use essa base de força para a expansão futura. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ignorar a visão de futuro e focar apenas no preço do nicho atual.",
+          "feedback": "⚠️ O posicionamento deve ser estável, mas não estático. A visão de futuro guia a expansão. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Contratar 100 vendedores para vender para o mercado Small Business imediatamente.",
+          "feedback": "💡 Aumentar a escala em um mercado confuso só multiplica o erro. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "A Arte de Contar Histórias de Posicionamento",
+      "narrative": "📖 Você precisa treinar o time de Vendas para usar a narrativa. O objetivo é que o cliente não precise 'adivinhar' seu valor. **Qual é a estrutura de História de Posicionamento mais eficaz?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Focar apenas no produto: 'O AceleraCRM é rápido, tem API, e custa X.'",
+          "feedback": "❌ Focar no produto (Recursos/Preço) não cria conexão emocional nem clareza de valor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Apresentar o contraste: Antes (Dor/Status Quo), Alternativas Falhas (Concorrentes), Solução (Diferença Única), e Depois (Valor Único/Transformação).",
+          "feedback": "✅ A narrativa de transformação é a mais poderosa. Ela demonstra o contraste, torna o cliente o herói e torna sua solução óbvia. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Contar a história da fundação da empresa (História de Fundação).",
+          "feedback": "⚠️ A história da empresa é boa, mas o cliente quer saber 'O que isso significa para mim?'. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Usar a história de um cliente que já usava seu produto, mas apenas listando os recursos que ele mais gosta.",
+          "feedback": "💡 Útil, mas incompleto. Falta o 'Custo da Inação' (dor anterior) para criar urgência. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "A Arte de Contar Histórias de Posicionamento",
+      "narrative": "😫 O time de vendas está tendo problemas para superar a inércia. Você precisa que eles criem urgência na narrativa. **Qual é o ponto focal da história que mais cria urgência para a compra?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O preço promocional de hoje.",
+          "feedback": "❌ Foco no preço atrai o cliente errado e não resolve a dor profunda. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O 'Custo da Inação' (as perdas financeiras ou de tempo que o cliente está tendo ao não resolver o problema com sua solução única).",
+          "feedback": "✅ O medo de perder (Aversão à Perda) é o maior motivador. Ao quantificar o custo da inação, você justifica o preço da compra. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O número de novos recursos que serão lançados no próximo mês.",
+          "feedback": "⚠️ Focar no futuro não resolve a dor do presente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "A história de como o CEO da empresa foi difícil no início, mas deu certo.",
+          "feedback": "💡 Irrelevante para a urgência do cliente. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "A Arte de Contar Histórias de Posicionamento",
+      "narrative": "💬 Você ouve um vendedor usando a 'Linguagem da Empresa' ('Sistema modular de última geração'). O cliente (PAM) usa termos como 'Relatórios que dão erro' e 'Campanhas descontroladas'. **Como você garante que a história ressoe?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Insistir que o vendedor use a linguagem técnica, pois ela é mais precisa.",
+          "feedback": "❌ Linguagem técnica cria barreiras. A história deve ser contada na linguagem do cliente para criar conexão. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Treinar o time para usar as **palavras e frases exatas** que o Cliente Ideal usa para descrever o problema e o valor, para criar ressonância imediata.",
+          "feedback": "✅ A Linguagem do Cliente é a chave para a conexão. Ao usar os termos deles ('Campanhas descontroladas'), você mostra que entende a dor. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Usar apenas slogans de marketing (Branding).",
+          "feedback": "⚠️ O slogan é muito genérico. Você precisa da especificidade da dor. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O problema não é a linguagem, é o preço.",
+          "feedback": "💡 A 'Objeção de Preço' é geralmente uma 'Objeção de Valor' mal comunicada. A linguagem clara é a base da comunicação de valor. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Posicionamento e o Ciclo de Vendas",
+      "narrative": "⏱️ Seu ciclo de vendas está longo. O time de vendas está gastando muito tempo qualificando. **Como um posicionamento claro (Declaração de Posicionamento) deve ajudar o time a 'Auto-Selecionar' o cliente?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O time de vendas deve ligar para todos os leads para garantir que todos entendam o produto.",
+          "feedback": "❌ Você está perdendo tempo com leads não-ideais. O posicionamento deve atrair e repelir antes da ligação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A mensagem clara repele o cliente não-ideal (que só quer preço) e atrai o cliente ideal (que se reconhece na dor única), **reduzindo o tempo de qualificação**.",
+          "feedback": "✅ Exatamente. A 'Auto-Seleção' é a prova de um bom posicionamento. O cliente se encaixa ou se afasta, economizando tempo e recursos de vendas. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O cliente ideal deve ser ignorado para focar em clientes maiores.",
+          "feedback": "⚠️ O cliente ideal é a fonte do seu sucesso. O foco deve ser nele. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O posicionamento claro deve ser apenas para o CEO.",
+          "feedback": "💡 O alinhamento interno (incluindo vendas) é essencial. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Posicionamento e o Ciclo de Vendas",
+      "narrative": "📉 O time de vendas fechou um negócio com uma **Agência de Publicidade (Não-Ideal)**, que está usando o produto de forma errada e gerando churn. **Qual é o risco de 'Vender para o Cliente Não-Ideal'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aumenta a receita, então não é um problema.",
+          "feedback": "❌ O cliente não-ideal consome recursos de suporte, tem alta taxa de churn e gera feedback negativo, prejudicando a reputação e a métrica. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O cliente não obtém o valor prometido, resulta em **churn**, drena recursos de suporte e gera feedback negativo, prejudicando o posicionamento.",
+          "feedback": "✅ O cliente não-ideal é um 'dreno de recursos' e o inimigo do crescimento a longo prazo. O posicionamento é uma ferramenta para repelir esses clientes. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O produto terá que ser reformulado para se adequar a eles.",
+          "feedback": "⚠️ Você pode ser forçado a fazer isso, mas o principal risco é a instabilidade e o custo do churn. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O time de vendas fica desmotivado.",
+          "feedback": "💡 A desmotivação pode acontecer, mas o risco maior é o impacto financeiro e reputacional. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Posicionamento e o Ciclo de Vendas",
+      "narrative": "🛡️ O time de vendas está pronto para negociar. Um cliente ideal (PAM) levanta uma objeção: 'Estou em dúvida entre vocês e o CRM X'. O cliente está no estágio final. **Como você usa o posicionamento para 'Superar a Objeção' e fechar a venda?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Baixar o preço ou oferecer um brinde (Negociação de Concessão).",
+          "feedback": "❌ Isso não resolve a dúvida de valor e força você a competir no preço. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Revisitar a Declaração de Posicionamento, focando no **Valor Único** (Alta Conversão) e no **Contraste** que só sua API de Relatórios pode entregar para as PAMs (Superação por Contraste).",
+          "feedback": "✅ Vencedor. O Contraste é a chave. Ao focar no valor que o concorrente **não pode entregar** e que é **mais importante** para o cliente, você torna a sua escolha óbvia. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ignorar o CRM X e focar em todos os recursos que você tem.",
+          "feedback": "⚠️ O cliente já comparou os recursos. Você precisa de uma mensagem de **síntese e contraste**. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Pedir ao cliente para voltar em 6 meses quando você tiver mais recursos.",
+          "feedback": "💡 Isso adia a urgência e permite que o Status Quo ou o concorrente vença. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 4,
+  "title": "🎯 Simulação: Posicionamento na Prática - Produto, Preço e Lançamento",
+  "introduction": "O AceleraCRM tem um posicionamento claro: 'Automação de Vendas para Agências de Marketing (PAMs), com API de Relatórios em Tempo Real.' Seu papel é agora executar essa estratégia em toda a empresa. Você precisa garantir que o time de Produto construa a prova do posicionamento, que o time de Vendas justifique o Preço Premium e que o Lançamento reforce essa mensagem. As 12 decisões a seguir selarão o sucesso da sua estratégia.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Posicionamento e o Desenvolvimento de Produto",
+      "narrative": "🛠️ O time de Produto está planejando o roadmap do próximo trimestre. Eles propõem: 1. Uma nova funcionalidade de calendário (Recurso de Tabela) e 2. Melhorar a API de Relatórios em Tempo Real. **Qual é a sua prioridade, baseada no Posicionamento, e por quê?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Priorizar o calendário, pois é o recurso que todos os concorrentes têm e que falta no seu produto (Recurso de Tabela).",
+          "feedback": "❌ Você está cedendo à pressão para ter recursos de Tabela. Isso desvia recursos do seu valor único e não aumenta o valor percebido pelo cliente ideal. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Focar em ambos, pois o cliente sempre quer mais recursos.",
+          "feedback": "⚠️ Você está diluindo o foco. O Posicionamento exige foco na Diferença. Recursos de Tabela devem ser o mínimo, não o foco do desenvolvimento. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "c",
+          "label": "Priorizar a melhoria da API de Relatórios, pois isso amplifica a sua Diferença Única e a prova do posicionamento para as PAMs.",
+          "feedback": "✅ Excelente! O produto deve ser a prova do posicionamento. Você deve 'Construir para a Diferença', garantindo que seu trunfo seja inquestionavelmente superior. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "d",
+          "label": "Priorizar a opinião do CEO, ignorando a Declaração de Posicionamento.",
+          "feedback": "💡 A opinião do CEO é importante, mas o posicionamento deve ser a bússola para o time de produto, baseado na clareza do mercado. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Posicionamento e o Desenvolvimento de Produto",
+      "narrative": "🗣️ Um cliente não-ideal (um e-commerce que não usa a API) sugere um recurso complexo. O time de Produto está tentado a adicioná-lo. **Como você usa o Posicionamento para dizer 'Não' a este recurso?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Aceitar o recurso, pois 'o cliente sempre tem razão'.",
+          "feedback": "❌ Você está ignorando a lição de 'Focar no Cliente Ideal'. Esse recurso não reforça sua diferença e pode complicar o produto para as PAMs. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Dizer 'Não' porque o recurso não amplifica a **Diferença Única** ou o **Valor** para o seu **Cliente Ideal** (PAMs).",
+          "feedback": "✅ O Posicionamento é a 'arte de dizer não'. Você está usando a Declaração de Posicionamento como um filtro para proteger o foco do produto. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer 'Não' porque o recurso é muito difícil de construir.",
+          "feedback": "⚠️ O motivo não é estratégico. O 'Não' deve ser baseado no posicionamento e no impacto no cliente ideal. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Adicionar o recurso com um preço adicional, sem comunicá-lo no posicionamento.",
+          "feedback": "💡 Isso resolve a questão do custo, mas a fragmentação de recursos prejudica a clareza do produto. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Posicionamento e o Desenvolvimento de Produto",
+      "narrative": "⚙️ O CTO argumenta que a arquitetura do produto precisa de uma grande reformulação para suportar a API em Tempo Real em escala. Isso atrasará a entrega de outros recursos. **Como a 'Arquitetura do Produto' se relaciona com o Posicionamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A arquitetura é um problema técnico interno, sem relação com o Posicionamento.",
+          "feedback": "❌ A arquitetura é a fundação técnica da sua Diferença Única. Sem ela, você não pode entregar o valor prometido. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A arquitetura deve ser construída para **suportar e amplificar a Diferença Única** (API em Tempo Real) e o Valor prometido (Alta Conversão), justificando o investimento.",
+          "feedback": "✅ O produto é a manifestação do posicionamento. O investimento na arquitetura é um investimento direto na sua barreira de entrada e no seu valor único. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "A arquitetura é menos importante que a interface de usuário.",
+          "feedback": "⚠️ A interface é a experiência; a arquitetura é a capacidade. Ambos são importantes, mas a arquitetura suporta o posicionamento central. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O time de produto deve sempre priorizar o que é mais rápido de construir.",
+          "feedback": "💡 Rapidez é bom, mas o foco estratégico é melhor. O posicionamento deve vir antes da velocidade. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Posicionamento e o Preço (Pricing)",
+      "narrative": "💰 Sua estratégia de preço é **Premium** para refletir o valor único (API de Relatórios em Tempo Real). O time de vendas precisa justificar o preço mais alto. **Qual é a melhor forma de justificar o preço para as PAMs?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Dizer que você é mais caro porque tem mais recursos (Posicionamento Focado em Recurso).",
+          "feedback": "❌ Recursos não justificam preço premium a menos que sejam únicos e vitais. O foco deve ser no Valor/Resultado. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Justificar o preço **quantificando o ROI** (Retorno sobre o Investimento), mostrando que o custo é insignificante comparado ao aumento de receita e à economia de tempo que a API proporciona.",
+          "feedback": "✅ O ROI é a prova de valor. Ao quantificar o resultado (aumento de receita, tempo salvo), o preço se torna uma pequena taxa de sucesso. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Oferecer um desconto agressivo no primeiro ano (Preço de Curto Prazo).",
+          "feedback": "⚠️ O preço é uma consequência do valor. Descontos validam a percepção de que o produto não vale o preço total. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Dizer que o preço é mais alto porque a tecnologia é mais complexa.",
+          "feedback": "💡 A complexidade é um problema interno. O cliente paga pelo resultado, não pela complexidade. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Posicionamento e o Preço (Pricing)",
+      "narrative": "🗣️ Um cliente ideal (PAM) diz: 'Adoro a API, mas o seu preço é 30% maior que o do CRM X'. O cliente está levantando uma **Objeção de Preço**. **Qual é a sua melhor estratégia de negociação?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Baixar o preço em 30% para fechar o negócio (Competição de Preço).",
+          "feedback": "❌ Você aceitou ser uma commodity, mesmo sendo superior. Você está competindo em preço, perdendo em valor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Revisitar o **Valor Único e o Custo da Inação**, destacando que o CRM X não pode entregar o ROI da API, e que o 'preço' é um investimento, não um custo.",
+          "feedback": "✅ A objeção de preço é uma objeção de valor. Você deve reafirmar a diferença única (API) e o resultado (ROI), transformando o preço em um investimento inevitável. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ignorar a objeção e focar apenas nos recursos de Tabela que você tem.",
+          "feedback": "⚠️ Ignorar a objeção não a resolve. Focar em recursos de Tabela apenas valida a comparação com o CRM X. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Oferecer um recurso adicional gratuito (Concessão de Produto).",
+          "feedback": "💡 Isso resolve a questão de curto prazo, mas não educa o cliente sobre o porquê do preço premium. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Posicionamento e o Preço (Pricing)",
+      "narrative": "📉 O mercado de CRMs genéricos está em guerra de preços. O AceleraCRM, focado em Automação de Relatórios, não pode se envolver. **Qual é o risco de 'Posicionamento de Preço Baixo' para o seu produto?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Atrai clientes que valorizam a API e o valor único (Cliente Ideal).",
+          "feedback": "❌ O preço baixo atrai clientes não-ideais (sensíveis ao preço) que não valorizam a Diferença Única, resultando em churn e insatisfação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Você atrai clientes não-ideais que são sensíveis ao preço, e o cliente ideal não percebe o valor único, vendo você como uma commodity de baixo custo.",
+          "feedback": "✅ O preço é o reflexo do posicionamento. O preço baixo destrói a percepção de valor único e atrai o cliente errado. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O time de vendas fica feliz.",
+          "feedback": "⚠️ A alegria do time de vendas é de curto prazo. O churn e a insatisfação farão com que eles voltem a ter problemas. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O marketing é muito mais fácil.",
+          "feedback": "💡 O marketing será fácil, mas o crescimento não será sustentável. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "Posicionamento e o Marketing de Conteúdo",
+      "narrative": "📚 O time de Marketing precisa criar conteúdo para atrair as PAMs. Eles sugerem um post genérico: '10 Dicas para Aumentar a Produtividade'. **Qual é a sua diretriz de conteúdo, baseada no Posicionamento de Nicho?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Criar conteúdo genérico para ter maior volume de tráfego, ignorando o Cliente Ideal.",
+          "feedback": "❌ O 'Conteúdo Genérico' atrai o cliente errado (que não tem a dor da API) e não cria a urgência necessária. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Criar conteúdo hiperfocado na **dor do Cliente Ideal**, como: 'O Custo da Inação: Por que Relatórios Manuais Estão Matando Suas Campanhas em Mídia Paga'.",
+          "feedback": "✅ Correto. O conteúdo deve ser um **ímã para o cliente ideal**, usando a linguagem da dor para educá-lo sobre o seu valor único e o custo de não ter sua solução. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Focar apenas no preço e nos descontos (Marketing Focado em Preço).",
+          "feedback": "⚠️ O marketing de preço baixo não é uma estratégia de crescimento sustentável e atrai o cliente errado. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Focar apenas nos recursos de Tabela, como a funcionalidade de calendário.",
+          "feedback": "💡 O conteúdo deve focar na Diferença Única. Focar em Recursos de Tabela faz com que você pareça genérico. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "Posicionamento e o Marketing de Conteúdo",
+      "narrative": "🆚 O Marketing precisa criar um guia comparativo. A tentação é listar todos os seus recursos de Tabela e compará-los com o concorrente. **Qual é a regra do 'Marketing de Contraste'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Focar apenas em ser o mais barato (Competição de Preço).",
+          "feedback": "❌ O foco deve ser no contraste de Valor/Diferença, não de Preço. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Criar conteúdo que destaque o **contraste** entre o seu **Valor Único** (ROI da API) e as alternativas, tornando a escolha 'Obviamente Incrível' para as PAMs.",
+          "feedback": "✅ O contraste é a chave para a diferenciação. Você deve educar o cliente sobre o porquê da diferença e o valor que só você entrega. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ignorar o concorrente para não dar publicidade a ele.",
+          "feedback": "⚠️ O cliente já o está comparando. Você precisa controlar a narrativa de comparação. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Focar apenas no que você faz de diferente, sem mencionar o valor que isso gera.",
+          "feedback": "💡 A diferença sem valor é apenas um recurso. O conteúdo deve conectar os dois. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "Posicionamento e o Marketing de Conteúdo",
+      "narrative": "💬 Você ouve o time de Marketing usar linguagem técnica ('Integração nativa de camada 2'). Você precisa que eles usem a **'Linguagem do Cliente'** para descrever o problema. **Qual é a melhor forma de educá-los?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Insistir na linguagem técnica para ser mais preciso.",
+          "feedback": "❌ A precisão técnica cria barreiras. A conexão emocional é criada pela linguagem do cliente. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Treinar o time para usar as palavras e frases exatas que as PAMs usam para descrever a dor ('Relatórios que dão erro', 'Campanhas descontroladas').",
+          "feedback": "✅ A Linguagem do Cliente cria ressonância imediata. O cliente se sente compreendido e se conecta com a solução. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Dizer que o problema é do time de vendas, que não está vendendo bem.",
+          "feedback": "⚠️ O desalinhamento de linguagem é um problema de comunicação estratégica, não de vendas. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Focar apenas no preço e nos descontos (Marketing de Desconto).",
+          "feedback": "💡 Isso não resolve o problema de comunicação de valor. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "Posicionamento e o Lançamento de Produto",
+      "narrative": "🎉 Você está planejando o lançamento do seu novo recurso de API (a prova final do seu posicionamento). **Qual é o foco principal da narrativa de lançamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Anunciar que você lançou a 'Versão 2.0' (Lançamento Focado em Recurso).",
+          "feedback": "❌ O foco em versão e recurso não comunica o Valor ou a Transformação. O cliente não compra o 'o quê', mas o 'porquê'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Redefinir o contexto: usar o lançamento para comunicar a nova Categoria ('Software de Automação de Relatórios') e o contraste com o Status Quo e as soluções genéricas.",
+          "feedback": "✅ O lançamento é a oportunidade de reposicionamento. Redefinir o contexto e o contraste garante que o mercado entenda imediatamente o seu valor único. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Focar apenas no preço promocional de lançamento.",
+          "feedback": "⚠️ O preço promocional é de curto prazo e não deve ser o foco principal do lançamento de posicionamento. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Focar na história da fundação da empresa.",
+          "feedback": "💡 A história da fundação é boa, mas o cliente quer saber 'O que isso significa para mim?'. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "Posicionamento e o Lançamento de Produto",
+      "narrative": "📢 A Mídia está cobrindo seu lançamento. O jornalista pergunta: 'Este é apenas mais um recurso, certo?'. **Como você usa a narrativa para evitar que o lançamento seja visto como 'mais do mesmo'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Concordar e focar no preço baixo.",
+          "feedback": "❌ Você aceitou ser genérico. Você precisa criar contraste. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Contar a **História de Transformação**: Focar na dor (Relatórios Manuais), a falha das alternativas (CRMs Genéricos) e o resultado transformador que só a API proporciona.",
+          "feedback": "✅ A História de Transformação cria contraste. Você não está lançando um recurso; está lançando uma nova solução para um problema antigo. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ignorar a pergunta e focar apenas no produto.",
+          "feedback": "⚠️ Ignorar a objeção não a resolve. O jornalista é um proxy para o mercado. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Listar todos os recursos de Tabela que você tem.",
+          "feedback": "💡 Isso apenas reforça a percepção de 'mais do mesmo'. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "Posicionamento e o Lançamento de Produto",
+      "narrative": "✨ O lançamento foi um sucesso. As PAMs entenderam a mensagem. Seu último passo é garantir a longevidade. **Como você garante que o Posicionamento continue a guiar o produto e o crescimento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Deixar o Posicionamento como um documento morto, focando apenas no próximo lançamento (Posicionamento Estático).",
+          "feedback": "❌ O posicionamento deve ser um ciclo contínuo, não um evento único. O desalinhamento voltará. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Estabelecer um ciclo contínuo onde o **Feedback do Cliente Ideal** valida o Valor, a **Declaração de Posicionamento** guia o Roadmap do Produto e as equipes de Vendas/Marketing usam a **História de Transformação**.",
+          "feedback": "✅ O Posicionamento é um ciclo. Garantir que o feedback do mercado alimente o produto e que a estratégia guie a execução é a chave para o crescimento sustentável. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Mudar de nicho a cada 6 meses para maximizar o mercado.",
+          "feedback": "⚠️ A falta de foco e a instabilidade matam a credibilidade. Domine o nicho primeiro. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Focar apenas em baixar o preço para atrair mais clientes.",
+          "feedback": "💡 O preço baixo não é uma estratégia de crescimento sustentável. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+},
+{
+  "simulationId": 5,
+  "title": "📈 Simulação: Sustentabilidade e Expansão Estratégica do Posicionamento",
+  "introduction": "O AceleraCRM dominou o nicho de Agências de Marketing (PAMs). Agora, a empresa está pronta para crescer, mas precisa fazê-lo de forma inteligente, sem perder o foco. Seu desafio é garantir que o posicionamento guie a estratégia de 'Scaling', a cultura interna e o ciclo de refinamento, transformando o posicionamento em uma vantagem competitiva sustentável. Tome 12 decisões para garantir o futuro da empresa.",
+  "challenges": [
+    {
+      "step": 1,
+      "testedLesson": "Posicionamento e o Crescimento (Scaling)",
+      "narrative": "🚀 O AceleraCRM dominou o nicho das PAMs. O CEO quer expandir para a 'Categoria Principal' (todos os CRMs) imediatamente. Você, como Head de Estratégia, argumenta que o próximo passo deve ser a **'Expansão de Nicho'**. Qual é o seu alvo de crescimento mais estratégico?",
+      "options": [
+        {
+          "value": "a",
+          "label": "Tentar vender para todas as pequenas e médias empresas (Crescimento Não-Focado).",
+          "feedback": "❌ Isso dilui a marca e a mensagem, e a empresa perderá o foco estratégico. Você será forçado a competir como 'mais um CRM'. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Expandir para 'Agências de Publicidade e Produtoras de Conteúdo' (Mercados Adjacentes) que têm dores semelhantes e valorizam a API de Relatórios.",
+          "feedback": "✅ Correto. A 'Expansão de Nicho' foca em Mercados Adjacentes onde sua Diferença Única é relevante, usando o sucesso com as PAMs como prova social. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Mudar o produto para ser um software de gestão de RH (Mercado Não-Adjacente).",
+          "feedback": "⚠️ Isso exigiria um reposicionamento e desenvolvimento de produto do zero, o que é um risco estratégico enorme. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Focar apenas em baixar o preço para atrair volume em todas as categorias.",
+          "feedback": "💡 O preço é uma consequência. O foco deve ser no Valor. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "testedLesson": "Posicionamento e o Crescimento (Scaling)",
+      "narrative": "📢 O time de Marketing precisa criar a campanha de expansão para o novo nicho (Agências de Publicidade). **Como você usa o 'Sucesso do Nicho' (PAMs) para atrair esse novo público?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ignorar o sucesso anterior e criar uma mensagem nova e genérica para a Agência de Publicidade.",
+          "feedback": "❌ Você está perdendo a Prova Social mais poderosa. O sucesso em um nicho adjacente é a melhor prova de valor. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Usar testemunhos e estudos de caso de PAMs, adaptando a história para focar na dor de 'Relatórios/Automação' que a Agência de Publicidade também sente.",
+          "feedback": "✅ O sucesso é a melhor prova. Use o sucesso no nicho dominado (PAMs) como Prova Social para o novo mercado adjacente. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Apenas listar todos os novos recursos do produto.",
+          "feedback": "⚠️ Recursos não geram confiança. O Valor e a Prova Social, sim. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Oferecer um desconto de 50% para Agências de Publicidade no primeiro mês.",
+          "feedback": "💡 O preço pode ser ajustado, mas o foco deve ser no Valor Único e na Prova Social. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "testedLesson": "Posicionamento e o Crescimento (Scaling)",
+      "narrative": "🛑 O time de Produto precisa adaptar o AceleraCRM para o novo nicho. O gerente de produto sugere construir um recurso de Tabela (funcionalidade que todos já têm) para 'facilitar' a entrada no novo mercado. **Qual é o risco dessa decisão?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O cliente ideal (PAMs) fica confuso com o novo recurso.",
+          "feedback": "⚠️ O risco é menor para as PAMs, mas a ameaça real é a diluição de recursos e a perda de foco na Diferença. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Você perde o foco estratégico, gasta recursos em funcionalidades que não diferenciam e atrasa o desenvolvimento da **próxima Diferença Única** para ambos os nichos.",
+          "feedback": "✅ O crescimento não deve ser à custa do foco. O produto deve ser adaptado para atender às necessidades únicas do novo nicho, não para construir Recursos de Tabela. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O time de vendas fica desmotivado.",
+          "feedback": "❌ O risco é estratégico, não emocional. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Você será forçado a baixar o preço para o novo nicho.",
+          "feedback": "💡 Isso pode acontecer, mas é uma consequência da perda de valor único. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "testedLesson": "Posicionamento e a Cultura Interna",
+      "narrative": "🧑‍💼 Você está contratando um novo Time de Suporte. O candidato A tem experiência com CRM, mas foca apenas em 'fechar tickets'. O candidato B entende a dor das PAMs e a importância da API de Relatórios. **Quem você contrata com base no 'Posicionamento de Contratação'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Candidato A, pois ele tem mais experiência em CRM genérico.",
+          "feedback": "❌ Contratar por experiência genérica não reforça o posicionamento. O time deve ser um evangelista do seu Valor Único. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Candidato B, pois ele entende o Cliente Ideal, a Dor e o Valor Único, e pode reforçar o posicionamento em sua função.",
+          "feedback": "✅ Correto. O Posicionamento deve ser a base da contratação, garantindo que o time inteiro entenda o 'Porquê' e reforce a promessa de valor. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Ambos, para ter diversidade de experiências.",
+          "feedback": "⚠️ A diversidade é importante, mas o alinhamento de posicionamento é crucial para a execução da estratégia. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Nenhum dos dois. O Posicionamento é um problema de Marketing.",
+          "feedback": "❌ O desalinhamento interno (suporte, vendas, produto) é o inimigo do posicionamento. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "testedLesson": "Posicionamento e a Cultura Interna",
+      "narrative": "🗣️ O CEO quer garantir que o Posicionamento seja internalizado. Ele sugere incluir a **Declaração de Posicionamento** como o primeiro documento no treinamento de novos funcionários. **Qual é o papel dessa Declaração no treinamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "É irrelevante. O treinamento deve ser focado em como usar o produto.",
+          "feedback": "❌ O 'como' (produto) sem o 'porquê' (posicionamento) leva a um desalinhamento. O Posicionamento é a base de todas as decisões. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Usar a Declaração para garantir que todos entendam o 'Porquê' da empresa (Cliente Ideal, Dor, Valor Único) antes de aprenderem o 'como' (recursos).",
+          "feedback": "✅ O 'Porquê' é o motor da motivação. A Declaração garante que o novo funcionário entenda a estratégia antes da tática. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Usar apenas o slogan de marketing, pois é mais fácil de memorizar.",
+          "feedback": "⚠️ O slogan é a expressão. A Declaração é a estratégia. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Usar apenas a lista de preços do produto.",
+          "feedback": "💡 O preço é uma consequência, não a base da motivação. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "testedLesson": "Posicionamento e a Cultura Interna",
+      "narrative": "📉 O time de Suporte recebe uma reclamação de uma PAM sobre um recurso de Tabela (que o concorrente tem de forma superior). O Suporte está confuso sobre como responder. **Como o 'Posicionamento de Suporte' deve guiar a resposta?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Ignorar a reclamação e fechar o ticket rapidamente (Foco em métrica, não em valor).",
+          "feedback": "❌ O Suporte é a prova da promessa. Ignorar a dor enfraquece a confiança e o posicionamento. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Reconhecer a falha no recurso de Tabela e, em seguida, redirecionar o cliente para a **Diferença Única** (a API) e o **Valor** que ele está obtendo. (Reforço do Posicionamento).",
+          "feedback": "✅ O Suporte deve ser um evangelista. Ele deve garantir que a experiência do cliente reforce a promessa, mesmo diante de falhas em Recursos de Tabela. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Prometer que o time de Produto consertará o recurso de Tabela imediatamente.",
+          "feedback": "⚠️ Você está dando prioridade a um Recurso de Tabela, desviando o foco do Produto. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Dizer que o cliente deve usar o concorrente se não estiver feliz.",
+          "feedback": "💡 Extrema e desnecessariamente agressiva. A resposta deve ser estratégica. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "testedLesson": "O Ciclo de Feedback e o Refinamento Contínuo",
+      "narrative": "📊 Após 6 meses, o ciclo de vendas para as PAMs está mais lento. O time de Vendas reporta que os clientes estão comparando o AceleraCRM com o CRM X (o concorrente genérico). **Qual é o primeiro sinal de 'Posicionamento Quebrado' e sua ação imediata?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "O preço está muito alto. Baixar o preço imediatamente.",
+          "feedback": "⚠️ O preço é a consequência. O problema real é a perda de Valor Percebido. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Os clientes estão comparando o produto com o concorrente errado (CRM X), indicando que o **Contexto (Categoria) ou o Contraste (Diferença)** não está claro. Reajustar a mensagem.",
+          "feedback": "✅ Correto. A comparação errada é o sinal mais claro de que o posicionamento se tornou confuso. É hora de revisitar a Declaração. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Os clientes estão pedindo um recurso de Tabela que você não tem.",
+          "feedback": "💡 Isso é um sinal de mercado, mas não o mais importante. O foco deve ser na Diferença Única. (2/3 ★)",
+          "score": 2
+        },
+        {
+          "value": "d",
+          "label": "Ignorar o feedback, pois a estratégia foi definida há 6 meses (Posicionamento Estático).",
+          "feedback": "❌ O Posicionamento Estático leva à obsolescência. (0/3 ★)",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "testedLesson": "O Ciclo de Feedback e o Refinamento Contínuo",
+      "narrative": "🔄 O concorrente X lançou uma versão 'light' da sua API de Relatórios. Sua Diferença Única não é mais **única**. **Qual é o papel do 'Time de Produto' no ciclo de refinamento agora?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Parar de inovar, pois o concorrente copiou sua diferença (Posicionamento Estático).",
+          "feedback": "❌ O posicionamento é uma corrida. A inovação deve ser contínua. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "O time de Produto deve usar o feedback de mercado para **construir a próxima Diferença Única** (Diferença de Próxima Geração) que reforçará o Valor e a barreira de entrada.",
+          "feedback": "✅ Exatamente. O Posicionamento exige inovação contínua. Você deve estar sempre à frente, criando a próxima barreira de entrada. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Focar apenas em consertar bugs do produto.",
+          "feedback": "⚠️ A manutenção é importante, mas a inovação é crucial para a longevidade. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Mudar o foco para outro nicho de mercado (Expansão Não-Estratégica).",
+          "feedback": "💡 O foco deve ser na inovação do produto, não na fuga de nicho. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "testedLesson": "O Ciclo de Feedback e o Refinamento Contínuo",
+      "narrative": "🧪 O Marketing está testando uma nova mensagem que simplifica o Posicionamento, mas não menciona a API. A taxa de cliques aumentou, mas o ciclo de vendas ficou mais lento. **O que o 'Teste de Mensagem' revela sobre o Posicionamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "A nova mensagem é um sucesso. O crescimento é garantido.",
+          "feedback": "❌ Taxa de cliques alta e ciclo de vendas lento é um sinal de que a mensagem atrai o cliente errado (que não se converte). (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "A mensagem é **Genérica**. Ela atrai mais pessoas, mas falha em qualificar o cliente ideal e comunicar a Diferença Única (API), resultando em vendas lentas.",
+          "feedback": "✅ O Marketing não pode sacrificar a clareza pela atração. A mensagem deve ser um **ímã de clientes ideais** e um **filtro de clientes não-ideais**. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O time de vendas precisa de mais treinamento.",
+          "feedback": "⚠️ O problema é a mensagem que atrai o lead errado. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O preço está muito alto.",
+          "feedback": "💡 O preço pode ser um fator, mas a mensagem é o filtro principal. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "testedLesson": "O Posicionamento como Vantagem Competitiva",
+      "narrative": "🛡️ O CFO pergunta: 'Qual é a nossa **Vantagem Competitiva** sustentável?'. **Qual é a sua resposta final, baseada em Posicionamento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Nosso time de vendas é o mais agressivo.",
+          "feedback": "❌ A agressividade é uma tática, não uma vantagem sustentável. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Nosso **Posicionamento 'Obviamente Incrível'** que cria uma Barreira de Entrada difícil de copiar (a combinação de nicho, valor único e produto).",
+          "feedback": "✅ A vantagem mais sustentável é o posicionamento. Ele garante que você seja o líder em um nicho e que o cliente ideal te escolha sem hesitação. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "O preço mais baixo do mercado.",
+          "feedback": "⚠️ O preço baixo não é sustentável e atrai o cliente errado. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "O maior número de recursos (Recursos de Tabela).",
+          "feedback": "💡 Recursos são copiáveis. O Posicionamento não é. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "testedLesson": "O Posicionamento como Vantagem Competitiva",
+      "narrative": "🤝 Você está recrutando um novo CTO. Ele está indeciso entre o AceleraCRM e um concorrente genérico. **Como você usa o 'Posicionamento de Visão' para atrair esse talento?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Oferecer um salário mais alto (Incentivo Financeiro).",
+          "feedback": "⚠️ O incentivo financeiro é um fator, mas a missão é o motor da motivação a longo prazo. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "b",
+          "label": "Comunicar o posicionamento para atrair pessoas que se alinham com a missão de **dominar o nicho de Agências de Marketing** e **ser a evolução da categoria**.",
+          "feedback": "✅ Correto. O Posicionamento de Visão atrai talentos que se alinham com o propósito e o futuro da empresa, criando uma cultura coesa. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Focar em todos os recursos de Tabela que você tem.",
+          "feedback": "❌ Isso não inspira. O CTO se importa com o impacto e a diferenciação. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "d",
+          "label": "Focar na história da fundação da empresa.",
+          "feedback": "💡 A história é boa, mas a visão de futuro é mais inspiradora para um líder técnico. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "testedLesson": "O Posicionamento como Vantagem Competitiva",
+      "narrative": "🔒 O AceleraCRM é líder no nicho de PAMs. O concorrente está tentando copiar a API de Relatórios. **Como você mantém a 'Barreira de Entrada de Posicionamento'?**",
+      "options": [
+        {
+          "value": "a",
+          "label": "Baixar o preço para expulsar o concorrente (Guerra de Preços).",
+          "feedback": "❌ A competição de preço destrói a margem e não é sustentável. (0/3 ★)",
+          "score": 0
+        },
+        {
+          "value": "b",
+          "label": "Focar na **inovação contínua** (próxima Diferença Única) e **reforçar a Prova Social** (testemunhos de PAMs) para manter a percepção de que você é o líder inquestionável do nicho.",
+          "feedback": "✅ O posicionamento deve ser mantido através de inovação e reputação. A combinação de ambos garante a longevidade da Barreira de Entrada. (3/3 ★)",
+          "score": 3
+        },
+        {
+          "value": "c",
+          "label": "Mudar a Categoria de Mercado a cada 3 meses para confundir o concorrente.",
+          "feedback": "⚠️ A confusão do mercado é um risco maior do que o concorrente. (1/3 ★)",
+          "score": 1
+        },
+        {
+          "value": "d",
+          "label": "Apenas ignorar o concorrente, pois ele nunca será tão bom quanto você.",
+          "feedback": "💡 A complacência é o inimigo da longevidade. (2/3 ★)",
+          "score": 2
+        }
+      ]
+    }
+  ]
+}
+]

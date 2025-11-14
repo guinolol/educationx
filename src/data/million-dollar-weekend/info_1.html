@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote Cap 1-4 - Million Dollar Weekend</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #ff6b6b;
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: #ff6b6b;
+            color: #fff;
+            padding: 12px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .title {
+            font-size: 56px;
+            font-weight: bold;
+            color: #d32f2f;
+            font-family: 'Caveat', cursive;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        
+        .subtitle {
+            font-size: 26px;
+            color: #ff6b6b;
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUT */
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }
+        
+        .section-1 { border-left-color: #1976d2; }
+        .section-2 { border-left-color: #f57c00; }
+        .section-3 { border-left-color: #c2185b; }
+        
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-1 .section-title { color: #1976d2; }
+        .section-2 .section-title { color: #f57c00; }
+        .section-3 .section-title { color: #c2185b; }
+        
+        .section-emoji {
+            font-size: 36px;
+        }
+        
+        .item {
+            font-size: 16px;
+            line-height: 1.7;
+            color: #555;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        /* REACTIONS SECTION */
+        .reactions {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .reaction-box {
+            background: #fff;
+            border: 3px dashed;
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        
+        .reaction-violence {
+            border-color: #ff4444;
+            background: rgba(255, 68, 68, 0.05);
+        }
+        
+        .reaction-silence {
+            border-color: #00796b;
+            background: rgba(0, 121, 107, 0.05);
+        }
+        
+        .reaction-emoji {
+            font-size: 60px;
+            margin-bottom: 15px;
+        }
+        
+        .reaction-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .reaction-violence .reaction-title { color: #ff4444; }
+        .reaction-silence .reaction-title { color: #00796b; }
+        
+        .reaction-desc {
+            font-size: 15px;
+            color: #666;
+        }
+        
+        .x-mark {
+            font-size: 32px;
+            margin-bottom: 8px;
+        }
+        
+        .section-subtitle {
+            font-size: 20px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        
+        /* SOLUTION BOX */
+        .solution {
+            background: linear-gradient(135deg, #c8e6c9 0%, #a5d6a7 100%);
+            border: 4px solid #2e7d32;
+            padding: 40px;
+            border-radius: 12px;
+            text-align: center;
+            margin: 40px 0;
+        }
+        
+        .solution-title {
+            font-size: 32px;
+            color: #1b5e20;
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .solution-emoji {
+            font-size: 70px;
+            margin: 15px 0;
+        }
+        
+        .solution-text {
+            font-size: 20px;
+            color: #1b5e20;
+            font-weight: bold;
+        }
+        
+        .solution-sub {
+            font-size: 16px;
+            color: #2e7d32;
+            margin-top: 15px;
+            font-style: italic;
+        }
+        
+        /* INSIGHT BOX */
+        .insight {
+            background: #f3e5f5;
+            border-left: 6px solid #7b1fa2;
+            padding: 35px;
+            border-radius: 10px;
+        }
+        
+        .insight-title {
+            font-size: 26px;
+            color: #7b1fa2;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .insight-text {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #555;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #7b1fa2;
+            background: rgba(123, 31, 162, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-3, .grid-2, .reactions {
+                grid-template-columns: 1fr;
+            }
+            
+            .title {
+                font-size: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 1-4</div>
+            <div class="title">🚀 O Lançamento em 48 Horas</div>
+            <div class="subtitle">(De Mente a MVO em um Fim de Semana)</div>
+        </div>
+        
+        <div class="grid-3">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">⚡</span>
+                    (Cap 1) Mentalidade: Velocidade
+                </div>
+                <div class="item">
+                    <span class="item-label">Lançar agora, aperfeiçoar depois.</span> A validação (dinheiro real, o "Teste do $1") é a única métrica que importa.
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">🎯</span>
+                    (Cap 2) O Nicho: Dor
+                </div>
+                <div class="item">
+                    <span class="item-label">Seja um analgésico.</span> Foque no "nicho de 1%" com um problema doloroso e acessível. Não seja um generalista.
+                </div>
+            </div>
+            
+            <div class="section section-3">
+                <div class="section-title">
+                    <span class="section-emoji">📦</span>
+                    (Cap 3) A Oferta: MVO
+                </div>
+                <div class="item">
+                    <span class="item-label">Oferta Mínima Viável.</span> Foco no resultado, não na ferramenta. Faça manualmente antes de automatizar.
+                </div>
+            </div>
+        </div>
+        
+        <div class="section-subtitle">😤 O Caminho Lento (O que Evitar):</div>
+        <div class="reactions">
+            <div class="reaction-box reaction-violence">
+                <div class="x-mark">❌</div>
+                <div class="reaction-emoji">🤯</div>
+                <div class="reaction-title">PARALISIA POR ANÁLISE</div>
+                <div class="reaction-desc">Planejar, pesquisar, aperfeiçoar... e nunca lançar.</div>
+            </div>
+            <div class="reaction-box reaction-silence">
+                <div class="x-mark">❌</div>
+                <div class="reaction-emoji">🏗️</div>
+                <div class="reaction-title">CONSTRUIR SOZINHO</div>
+                <div class="reaction-desc">Passar meses criando o "produto perfeito" sem feedback.</div>
+            </div>
+        </div>
+        
+        <div class="solution">
+            <div class="solution-title">✅ O CAMINHO RÁPIDO (CAP 4)</div>
+            <div class="solution-emoji">💬</div>
+            <div class="solution-text">OUTREACH MANUAL</div>
+            <div class="solution-sub">Ir onde o nicho está (fóruns, grupos) e pedir a venda 1-a-1.</div>
+        </div>
+        
+        <div class="insight">
+            <div class="insight-title">
+                <span>🔑</span>
+                A Grande Virada
+            </div>
+            <div class="insight-text">
+                Você não precisa de meses de planejamento ou um produto complexo. 
+                <br><br>
+                O 'Million Dollar Weekend' é sobre provar a demanda o mais rápido possível.
+                <br><br>
+                <span class="highlight">A validação (conseguir o primeiro pagamento) é mais importante que a perfeição.</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

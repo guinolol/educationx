@@ -1,0 +1,3335 @@
+[
+  {
+    "id": 1,
+    "title": "Introdução e Estrutura do Plano de 1 Página (As 3 Fases)",
+    "teaser": "🤯 Cansado de gastar sem saber o ROI? Descubra o mapa de 9 passos que transforma marketing em uma máquina de lucro mensurável.",
+    "level1": "O Plano de Marketing de 1 Página (1PMP) é uma estrutura simples que condensa toda a estratégia de marketing em uma única folha, dividida em 9 caixas, focada em **Resposta Direta** e resultados mensuráveis.",
+    "level2": "O plano divide o marketing em 3 Fases Lógicas: **Antes** (Prospecto: atração e PUV), **Durante** (Lead: captura, nutrição e conversão) e **Depois** (Cliente: Upsell, Frequência e Referência).",
+    "level3": "O mantra é: se você não consegue desenhar seu plano em uma página, ele é muito complicado. E se você não pode medir, não é marketing, é arte. Seu foco deve ser a relação LTV:CAC.",
+    "recapitulation": [
+      "1PMP = 9 Caixas em 3 Fases: Antes, Durante e Depois.",
+      "Filosofia Central: Marketing de **Resposta Direta** e Mensurável.",
+      "Fase Antes: Foco em Mercado Alvo, Mensagem e Mídia (atração de prospectos).",
+      "Fase Durante: Foco em Lead Magnet, Nutrição e Conversão (transformar leads em clientes).",
+      "Fase Depois: Foco em Upsell, Frequência e Referência (maximizar LTV).",
+      "Erro Comum: Fazer 'Branding' não mensurável, sem ROI claro.",
+      "A Métrica Chave é o **LTV:CAC** (Valor Vitalício do Cliente vs. Custo de Aquisição)."
+    ],
+    "practicalChecklist": [
+      "🗂️ **Desenhe o Quadro 3x3** do 1PMP em um papel (Mercado/Mensagem/Mídia; Captura/Nutrição/Conversão; Upsell/Frequência/Referência).",
+      "🎯 **Defina a Meta ROI**: Quanto você quer que cada R$1 investido retorne?",
+      "🚫 **Pare de Fazer Marketing 'Bonito'**: Priorize apenas as ações que têm um Call to Action (CTA) rastreável.",
+      "📈 **Adote a Mentalidade Científica**: Trate o marketing como um laboratório de testes. Meça tudo.",
+      "💡 **Identifique o 'Elo Mais Fraco'**: Qual das 9 caixas está limitando seu lucro agora? Comece por ela."
+    ],
+    "conclusionMessage": "O Plano de Marketing de 1 Página simplifica o marketing em 9 caixas essenciais, divididas em 3 fases: Antes (Prospecto), Durante (Lead) e Depois (Cliente).",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Quantas caixas compõem o Plano de Marketing de 1 Página?",
+        "options": [
+          { "value": "a", "label": "Três." },
+          { "value": "b", "label": "Nove." },
+          { "value": "c", "label": "Doze." },
+          { "value": "d", "label": "Seis." }
+        ],
+        "explanation": "O plano é dividido em 9 caixas, organizadas em uma grade 3x3.",
+        "hint": "É uma grade 3x3.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não consegue desenhar seu plano em uma página, ele é muito complicado."
+      },
+      {
+        "id": "2",
+        "question": "Qual é a principal filosofia por trás do 1PMP?",
+        "options": [
+          { "value": "a", "label": "Branding de longo prazo." },
+          { "value": "b", "label": "Marketing de Resposta Direta e mensurável." },
+          { "value": "c", "label": "Marketing de conteúdo orgânico." },
+          { "value": "d", "label": "Foco em mídias sociais." }
+        ],
+        "explanation": "Allan Dib enfatiza que todo marketing deve ser rastreável e gerar uma resposta imediata.",
+        "hint": "Rastreabilidade e ação.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não consegue medir, não é marketing, é arte."
+      },
+      {
+        "id": "3",
+        "question": "Qual fase do 1PMP foca em transformar leads em clientes pagantes?",
+        "options": [
+          { "value": "a", "label": "Fase Antes (Before)." },
+          { "value": "b", "label": "Fase Durante (During)." },
+          { "value": "c", "label": "Fase Depois (After)." },
+          { "value": "d", "label": "Fase de Orquestração." }
+        ],
+        "explanation": "A Fase Durante lida com a captura, nutrição e conversão de leads.",
+        "hint": "O meio do funil.",
+        "correctAnswer": "b",
+        "bookExample": "A Fase Durante é onde você constrói confiança e faz a venda."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o erro mais comum que o 1PMP busca corrigir?",
+        "options": [
+          { "value": "a", "label": "Não usar mídias sociais." },
+          { "value": "b", "label": "Fazer marketing sem um plano claro ou sem medir o Retorno sobre o Investimento (ROI)." },
+          { "value": "c", "label": "Focar demais em vendas." },
+          { "value": "d", "label": "Ter um produto ruim." }
+        ],
+        "explanation": "A falta de mensuração e o marketing 'aleatório' são os maiores desperdícios de dinheiro.",
+        "hint": "Mensuração.",
+        "correctAnswer": "b",
+        "bookExample": "A maioria das empresas gasta dinheiro em marketing que não funciona porque não sabe o que está medindo."
+      },
+      {
+        "id": "5",
+        "question": "O que a Fase Depois (After) do 1PMP prioriza?",
+        "options": [
+          { "value": "a", "label": "A aquisição de novos leads." },
+          { "value": "b", "label": "Aumentar o Valor Vitalício do Cliente (LTV) e gerar referências." },
+          { "value": "c", "label": "Definir a Proposta Única de Venda." },
+          { "value": "d", "label": "Criar o Ímã de Leads." }
+        ],
+        "explanation": "É muito mais fácil e barato vender mais para clientes existentes do que adquirir novos.",
+        "hint": "Foco no cliente atual.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro está no back-end."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o primeiro quadrado a ser preenchido no 1PMP?",
+        "options": [
+          { "value": "a", "label": "Mídia." },
+          { "value": "b", "label": "Mensagem." },
+          { "value": "c", "label": "Mercado Alvo." },
+          { "value": "d", "label": "Conversão de Vendas." }
+        ],
+        "explanation": "Você não pode criar uma mensagem ou escolher a mídia antes de saber exatamente para quem você está falando.",
+        "hint": "Para quem você vende?",
+        "correctAnswer": "c",
+        "bookExample": "Se você tenta vender para todos, você não vende para ninguém."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Marketing de Resposta Direta'?",
+        "options": [
+          { "value": "a", "label": "Marketing que usa apenas e-mail." },
+          { "value": "b", "label": "Marketing que exige que o prospecto tome uma ação imediata e mensurável (ex: ligar, clicar, se inscrever)." },
+          { "value": "c", "label": "Marketing que foca em construir reconhecimento de marca." },
+          { "value": "d", "label": "Marketing que é muito caro." }
+        ],
+        "explanation": "A resposta direta é a base do 1PMP, garantindo que cada dólar gasto possa ser rastreado até uma venda.",
+        "hint": "Ação e rastreamento.",
+        "correctAnswer": "b",
+        "bookExample": "O marketing de resposta direta é o único tipo de marketing que um pequeno negócio pode pagar."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o principal benefício de ter um plano de marketing simples de 1 página?",
+        "options": [
+          { "value": "a", "label": "Parecer profissional para investidores." },
+          { "value": "b", "label": "Garantir que toda a equipe esteja alinhada e focada nas ações que geram receita." },
+          { "value": "c", "label": "Reduzir o custo de produção de conteúdo." },
+          { "value": "d", "label": "Aumentar o tráfego orgânico." }
+        ],
+        "explanation": "A simplicidade garante a execução e o alinhamento estratégico.",
+        "hint": "Alinhamento.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza precede a maestria."
+      },
+      {
+        "id": "9",
+        "question": "Qual é a transição entre a Fase Antes e a Fase Durante?",
+        "options": [
+          { "value": "a", "label": "A venda final." },
+          { "value": "b", "label": "A Proposta Única de Venda (PUV)." },
+          { "value": "c", "label": "A Captura de Leads (transformar um prospecto anônimo em um lead conhecido)." },
+          { "value": "d", "label": "O sistema de referência." }
+        ],
+        "explanation": "O objetivo da Fase Antes é atrair o prospecto e o da Fase Durante é capturar seu contato.",
+        "hint": "De anônimo para conhecido.",
+        "correctAnswer": "c",
+        "bookExample": "O dinheiro está na lista."
+      },
+      {
+        "id": "10",
+        "question": "O que Allan Dib considera o 'maior erro' no marketing?",
+        "options": [
+          { "value": "a", "label": "Não ter um site." },
+          { "value": "b", "label": "Focar em Branding em vez de Resposta Direta." },
+          { "value": "c", "label": "Ter um preço muito alto." },
+          { "value": "d", "label": "Não usar vídeo marketing." }
+        ],
+        "explanation": "Branding é para grandes corporações. Pequenas empresas precisam de resultados imediatos e mensuráveis.",
+        "hint": "Branding vs. ROI.",
+        "correctAnswer": "b",
+        "bookExample": "Branding é o que você faz quando tem dinheiro demais para queimar."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Definindo o Mercado Alvo (Nicho e Avatar do Cliente)",
+    "teaser": "🔪 Se você tenta vender para todos, não vende para ninguém! Descubra como 'nichar até doer' e falar a língua do seu cliente ideal.",
+    "level1": "O primeiro passo é definir seu Mercado Alvo. Nichar não é limitar seu potencial; é focar sua mensagem para que ela ressoe profundamente com um grupo específico com um **problema urgente e capacidade de pagar**.",
+    "level2": "O **Avatar do Cliente** é uma representação semi-fictícia do seu cliente ideal. Você precisa saber seus medos, desejos e o que ele lê para que sua mensagem pareça ter sido escrita só para ele (Entrar na Conversa que Já Está Acontecendo).",
+    "level3": "Um Mercado Alvo Ideal tem 3 características: 1. Disposto a Pagar; 2. Fácil de Segmentar e Encontrar; 3. Tem uma **Dor Aguda/Urgente**. Venda aspirina para dor de cabeça, não vitaminas para uma vida melhor.",
+    "recapitulation": [
+      "Nicho é o primeiro quadrado: **Sem nicho, sem sucesso**.",
+      "Seja o 'Peixe Grande em um Pequeno Lago'.",
+      "Conheça o Avatar: Demografia, Medos, Desejos e Hábitos de Consumo.",
+      "O cliente ideal tem **Problema Urgente** + **Capacidade de Pagar**.",
+      "Sua mensagem deve 'Entrar na Conversa que Já Está Acontecendo na Mente do Cliente'.",
+      "Vá onde seus clientes já estão (fóruns, grupos, avaliações) para ouvir a linguagem deles."
+    ],
+    "practicalChecklist": [
+      "✍️ **Crie seu Avatar do Cliente** (Dê-lhe um nome!): liste 10 medos e 10 desejos dele.",
+      "🔍 **Pesquise Grupos e Fóruns** (Reddit, Facebook, avaliações de concorrentes) para coletar a **Linguagem Exata** que ele usa.",
+      "🎯 **Reduza Seu Nicho Atual**: Se sua PUV (próxima lição!) não for perfeitamente clara para um grupo, você não nichou o suficiente.",
+      "💸 **Valide a Capacidade de Pagar**: Seu cliente ideal está comprando soluções caras agora? (Se não, ele não é o ideal).",
+      "🛑 **Elimine 'Todos' do Seu Público**: Faça a escolha deliberada de a quem você **não** vai vender."
+    ],
+    "conclusionMessage": "Um mercado alvo bem definido é a base de todo marketing eficaz. Você deve nichar até doer, focando em um grupo específico com um problema específico.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal benefício de nichar o Mercado Alvo?",
+        "options": [
+          { "value": "a", "label": "Reduzir o preço do produto." },
+          { "value": "b", "label": "Permitir que você crie uma mensagem de marketing altamente relevante e específica que se destaque." },
+          { "value": "c", "label": "Aumentar o número total de clientes." },
+          { "value": "d", "label": "Facilitar a contratação de funcionários." }
+        ],
+        "explanation": "A especificidade gera ressonância e corta o ruído.",
+        "hint": "Ressonância.",
+        "correctAnswer": "b",
+        "bookExample": "O nicho é onde você se torna o peixe grande em um pequeno lago."
+      },
+      {
+        "id": "2",
+        "question": "O que Allan Dib chama de 'Mercado Alvo Ideal'?",
+        "options": [
+          { "value": "a", "label": "Pessoas que podem pagar." },
+          { "value": "b", "label": "Pessoas que têm um problema urgente, capacidade de pagar e estão ativamente buscando uma solução." },
+          { "value": "c", "label": "Pessoas que gostam da sua marca." },
+          { "value": "d", "label": "Pessoas que são fáceis de encontrar." }
+        ],
+        "explanation": "A urgência e a capacidade de pagar são cruciais para o marketing de resposta direta.",
+        "hint": "Urgência + Dinheiro.",
+        "correctAnswer": "b",
+        "bookExample": "Não gaste tempo com pessoas que não têm dinheiro ou que não se importam com o problema."
+      },
+      {
+        "id": "3",
+        "question": "O que é o 'Avatar do Cliente'?",
+        "options": [
+          { "value": "a", "label": "Um desenho do seu cliente." },
+          { "value": "b", "label": "Uma representação semi-fictícia do seu cliente ideal, incluindo demografia, medos, desejos e hábitos." },
+          { "value": "c", "label": "O nome da sua empresa." },
+          { "value": "d", "label": "O produto que você vende." }
+        ],
+        "explanation": "O Avatar ajuda a humanizar o mercado alvo e a escrever mensagens mais pessoais.",
+        "hint": "Representação humana.",
+        "correctAnswer": "b",
+        "bookExample": "Escreva para uma pessoa, não para uma multidão."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de ter um Mercado Alvo muito amplo?",
+        "options": [
+          { "value": "a", "label": "Sua mensagem se torna genérica e ineficaz." },
+          { "value": "b", "label": "Você gasta menos dinheiro em publicidade." },
+          { "value": "c", "label": "Você atrai muitos clientes." },
+          { "value": "d", "label": "O produto fica muito caro." }
+        ],
+        "explanation": "Mensagens genéricas são ignoradas. A especificidade vende.",
+        "hint": "Ignorância.",
+        "correctAnswer": "a",
+        "bookExample": "Se você tenta vender para todos, você não vende para ninguém."
+      },
+      {
+        "id": "5",
+        "question": "Onde você deve procurar informações sobre o seu Mercado Alvo?",
+        "options": [
+          { "value": "a", "label": "Apenas em relatórios de mercado caros." },
+          { "value": "b", "label": "Em fóruns, grupos de mídia social, avaliações de concorrentes e conversando diretamente com eles." },
+          { "value": "c", "label": "Apenas em seu próprio site." },
+          { "value": "d", "label": "Perguntando à sua mãe." }
+        ],
+        "explanation": "A informação mais valiosa vem de onde seu cliente ideal já está expressando seus problemas e desejos.",
+        "hint": "Onde eles reclamam.",
+        "correctAnswer": "b",
+        "bookExample": "Vá onde seus clientes estão e ouça o que eles estão dizendo."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'nichar até doer'?",
+        "options": [
+          { "value": "a", "label": "Escolher um nicho que você odeia." },
+          { "value": "b", "label": "Tornar o nicho tão específico que você se sente desconfortável com o quão pequeno ele é, mas que garante alta relevância." },
+          { "value": "c", "label": "Focar apenas em clientes que pagam muito." },
+          { "value": "d", "label": "Focar em um mercado global." }
+        ],
+        "explanation": "A especificidade extrema é o que permite dominar o mercado.",
+        "hint": "Extrema especificidade.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está nichando, você está morrendo."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel dos 'Medos e Desejos' do cliente na definição do Mercado Alvo?",
+        "options": [
+          { "value": "a", "label": "São irrelevantes." },
+          { "value": "b", "label": "São a base para criar mensagens emocionais que motivam a ação (Resposta Direta)." },
+          { "value": "c", "label": "São apenas para produtos de luxo." },
+          { "value": "d", "label": "Devem ser ignorados." }
+        ],
+        "explanation": "As pessoas compram por emoção e justificam com lógica. O marketing deve tocar na emoção.",
+        "hint": "Motor da compra.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas não compram o que você faz, elas compram o que isso faz por elas."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a diferença entre um 'Prospecto' e um 'Lead' no 1PMP?",
+        "options": [
+          { "value": "a", "label": "Nenhuma." },
+          { "value": "b", "label": "O Prospecto é anônimo (Fase Antes), o Lead é conhecido (Fase Durante) porque forneceu informações de contato." },
+          { "value": "c", "label": "O Lead já comprou." },
+          { "value": "d", "label": "O Prospecto é mais valioso." }
+        ],
+        "explanation": "A transição de Prospecto para Lead é a captura de contato.",
+        "hint": "Anonimato.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo da Fase Antes é transformar prospectos em leads."
+      },
+      {
+        "id": "9",
+        "question": "O que significa 'capacidade de pagar' ao definir o Mercado Alvo?",
+        "options": [
+          { "value": "a", "label": "Eles têm um cartão de crédito." },
+          { "value": "b", "label": "Eles têm os recursos financeiros e a disposição para investir na solução do problema que você resolve." },
+          { "value": "c", "label": "Eles são ricos." },
+          { "value": "d", "label": "Eles são fáceis de convencer." }
+        ],
+        "explanation": "Se eles não podem pagar, não são seu cliente ideal, não importa o quão grande seja o problema.",
+        "hint": "Recursos e disposição.",
+        "correctAnswer": "b",
+        "bookExample": "Não confunda necessidade com capacidade de compra."
+      },
+      {
+        "id": "10",
+        "question": "Qual é o risco de focar em um Mercado Alvo que não tem um 'problema urgente'?",
+        "options": [
+          { "value": "a", "label": "Eles compram mais tarde." },
+          { "value": "b", "label": "Eles não serão motivados a agir imediatamente, tornando o marketing de Resposta Direta ineficaz." },
+          { "value": "c", "label": "Eles dão muitas referências." },
+          { "value": "d", "label": "Eles são mais fáceis de nutrir." }
+        ],
+        "explanation": "A urgência é o que impulsiona a ação imediata.",
+        "hint": "Ação imediata.",
+        "correctAnswer": "b",
+        "bookExample": "Venda aspirina para uma dor de cabeça, não vitaminas para uma vida melhor."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "A Proposta Única de Venda (PUV) e o Teste de 4 Perguntas",
+    "teaser": "🛑 Se você não tem uma PUV, você é um *commodity*! Descubra a 'bala de prata' que obriga o cliente a escolher você, e não o concorrente.",
+    "level1": "A Proposta Única de Venda (PUV) é a declaração clara e concisa que responde: 'Por que eu devo comprar de você, e não do seu concorrente?'. Não é um slogan, mas uma **promessa de benefício com diferenciação**.",
+    "level2": "O erro mais comum é focar nas **características** do produto em vez dos **benefícios** (Venda o buraco, não a furadeira). A PUV deve ser específica, mensurável e com uma garantia que remova o risco percebido.",
+    "level3": "Use o **Teste de 4 Perguntas** para validar: 1. É Única? 2. É Mensurável? 3. O Cliente a Deseja? 4. Você Pode Entregá-la? Uma PUV forte é a chave para sair da guerra de preços.",
+    "recapitulation": [
+      "PUV é a **razão de compra**, não um slogan.",
+      "Foque em **Benefício** e **Resultado** (Transformação), não em Característica.",
+      "PUV Forte = **Promessa Específica + Garantia** (Risco Zero).",
+      "Teste de 4 Perguntas: Única, Mensurável, Desejada, Entregável.",
+      "Se não é único, você é o mais barato (Commodity).",
+      "Exemplo: 'Dobre seus leads qualificados em 90 dias, ou você não paga.'",
+      "A PUV deve ressoar com os Medos e Desejos do seu Mercado Alvo."
+    ],
+    "practicalChecklist": [
+      "📝 **Escreva sua PUV atual**: Ela é clara? O que ela promete de forma diferente?",
+      "🎯 **Refine a PUV**: Troque toda menção a 'nós fazemos' por 'você ganha' ou 'você resolve'.",
+      "🛡️ **Adicione uma Garantia de Resultado**: Crie uma garantia que remova todo o risco para o cliente.",
+      "🗣️ **Teste em 5 Clientes Ideais**: Pergunte: 'Se você visse isso, você me escolheria no lugar do [Concorrente]?'",
+      "📏 **Torne-a Mensurável**: Adicione um número (ex: em 30 dias, 50% mais rápido, R$10k a mais)."
+    ],
+    "conclusionMessage": "Sua PUV deve ser uma declaração clara e concisa que diferencia você da concorrência e foca no benefício mais importante para o cliente.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a principal função da Proposta Única de Venda (PUV)?",
+        "options": [
+          { "value": "a", "label": "Ser um slogan criativo." },
+          { "value": "b", "label": "Diferenciar você da concorrência e comunicar o benefício mais importante para o cliente." },
+          { "value": "c", "label": "Descrever as características do seu produto." },
+          { "value": "d", "label": "Aumentar o tráfego do site." }
+        ],
+        "explanation": "A PUV é o ponto de diferenciação que justifica a escolha do cliente.",
+        "hint": "Diferenciação.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não tem uma PUV, você é um commodity."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o erro mais comum ao criar uma PUV?",
+        "options": [
+          { "value": "a", "label": "Focar no preço." },
+          { "value": "b", "label": "Focar nas características do produto em vez dos benefícios para o cliente." },
+          { "value": "c", "label": "Ser muito específico." },
+          { "value": "d", "label": "Usar números." }
+        ],
+        "explanation": "Os clientes se importam com o que o produto faz por eles, não com o que ele é.",
+        "hint": "Benefício vs. Característica.",
+        "correctAnswer": "b",
+        "bookExample": "Ninguém compra uma furadeira por causa da furadeira. Eles compram pelo buraco na parede."
+      },
+      {
+        "id": "3",
+        "question": "Qual elemento é crucial para tornar uma PUV forte e crível?",
+        "options": [
+          { "value": "a", "label": "Ser vaga e misteriosa." },
+          { "value": "b", "label": "Ser mensurável e incluir uma garantia ou prova de que você pode entregar o resultado." },
+          { "value": "c", "label": "Ser muito longa." },
+          { "value": "d", "label": "Focar em tecnologia." }
+        ],
+        "explanation": "A mensurabilidade e a garantia removem o risco percebido pelo cliente.",
+        "hint": "Risco zero.",
+        "correctAnswer": "b",
+        "bookExample": "Uma PUV sem garantia é apenas uma promessa vazia."
+      },
+      {
+        "id": "4",
+        "question": "O que significa a pergunta 'O cliente realmente deseja isso?' no Teste de 4 Perguntas?",
+        "options": [
+          { "value": "a", "label": "Se o cliente gosta da cor da sua marca." },
+          { "value": "b", "label": "Se o benefício prometido resolve um problema urgente e doloroso o suficiente para que ele pague por isso." },
+          { "value": "c", "label": "Se o cliente pode pagar." },
+          { "value": "d", "label": "Se o cliente já comprou de você." }
+        ],
+        "explanation": "O desejo deve ser forte o suficiente para motivar a ação imediata.",
+        "hint": "Dor urgente.",
+        "correctAnswer": "b",
+        "bookExample": "Venda aspirina para uma dor de cabeça, não vitaminas para uma vida melhor."
+      },
+      {
+        "id": "5",
+        "question": "Qual é a diferença entre uma PUV e um Slogan?",
+        "options": [
+          { "value": "a", "label": "O Slogan é mais longo." },
+          { "value": "b", "label": "A PUV é uma declaração de valor e diferenciação, enquanto o Slogan é uma frase curta e memorável para reconhecimento de marca." },
+          { "value": "c", "label": "São a mesma coisa." },
+          { "value": "d", "label": "O Slogan foca em benefícios." }
+        ],
+        "explanation": "O Slogan é Branding (Fase Antes, mas não essencial). A PUV é Resposta Direta (essencial).",
+        "hint": "Valor vs. Memória.",
+        "correctAnswer": "b",
+        "bookExample": "Um slogan não vende. Uma PUV vende."
+      },
+      {
+        "id": "6",
+        "question": "Como a PUV se relaciona com o Mercado Alvo?",
+        "options": [
+          { "value": "a", "label": "A PUV deve ser genérica para atrair todos." },
+          { "value": "b", "label": "A PUV deve ser altamente específica e ressoar com os medos e desejos do Mercado Alvo definido." },
+          { "value": "c", "label": "A PUV deve ser focada no preço." },
+          { "value": "d", "label": "A PUV deve ser focada na tecnologia." }
+        ],
+        "explanation": "A PUV é a ponte entre o problema do cliente e sua solução.",
+        "hint": "Ponte.",
+        "correctAnswer": "b",
+        "bookExample": "A PUV é a bala de prata que atinge o coração do seu cliente ideal."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Ser Única' na PUV?",
+        "options": [
+          { "value": "a", "label": "Ninguém mais pode copiar." },
+          { "value": "b", "label": "Você oferece algo que seus concorrentes diretos não oferecem ou não destacam de forma clara." },
+          { "value": "c", "label": "Você tem um nome de marca estranho." },
+          { "value": "d", "label": "Você tem o preço mais baixo." }
+        ],
+        "explanation": "A unicidade é a chave para evitar a comparação direta de preços.",
+        "hint": "Diferenciação clara.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não é único, você é o mais barato."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de ter uma PUV que não é 'Mensurável'?",
+        "options": [
+          { "value": "a", "label": "O cliente não entende." },
+          { "value": "b", "label": "O cliente não pode verificar o resultado, e você não pode provar o ROI do seu marketing." },
+          { "value": "c", "label": "O preço é muito alto." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "A mensurabilidade constrói credibilidade.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pode medir, não é marketing, é arte."
+      },
+      {
+        "id": "9",
+        "question": "Qual é a melhor forma de testar a eficácia da sua PUV?",
+        "options": [
+          { "value": "a", "label": "Perguntar a amigos e familiares." },
+          { "value": "b", "label": "Testar em campanhas de Resposta Direta e medir a taxa de conversão em comparação com a concorrência." },
+          { "value": "c", "label": "Fazer uma pesquisa de mercado genérica." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O mercado é o juiz final. O teste de resposta direta é o mais rápido.",
+        "hint": "Juiz final.",
+        "correctAnswer": "b",
+        "bookExample": "O mercado sempre vence."
+      },
+      {
+        "id": "10",
+        "question": "O que a PUV deve prometer, idealmente?",
+        "options": [
+          { "value": "a", "label": "Um processo complexo." },
+          { "value": "b", "label": "Um resultado específico, em um tempo específico, com uma garantia." },
+          { "value": "c", "label": "Um preço baixo." },
+          { "value": "d", "label": "Um produto novo." }
+        ],
+        "explanation": "Especificidade e garantia são a chave para a conversão.",
+        "hint": "Especificidade.",
+        "correctAnswer": "b",
+        "bookExample": "Seja específico. O específico vende."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Criando a Mensagem de Marketing (Foco no Benefício)",
+    "teaser": "🤫 O segredo é parar de falar de você! Aprenda a usar a linguagem do seu cliente para fazê-lo pensar: 'Eles me entendem perfeitamente'.",
+    "level1": "A Mensagem de Marketing é a forma como você empacota sua PUV. Ela deve ser tão clara que até uma criança de 5 anos entenda. O foco é na **Dor** do cliente e na **Transformação** que você oferece.",
+    "level2": "Use a **Linguagem do Cliente** (Voice of Customer) que você coletou ao nichar. Use as palavras exatas que ele usa para descrever seu problema e seus desejos. Isso constrói confiança instantânea.",
+    "level3": "Sua mensagem deve amplificar o **Custo da Inação** (o que o cliente perde ao ficar no *status quo*) antes de apresentar sua solução como o único alívio. Lembre-se: As pessoas são mais motivadas a evitar a dor do que a buscar o prazer (Aversão à Perda).",
+    "recapitulation": [
+      "Clareza **sempre** vence a criatividade.",
+      "Mensagem deve ser focada no **Benefício/Transformação** do cliente.",
+      "Use a **Linguagem do Cliente** (palavras exatas de fóruns, avaliações).",
+      "**Amplifique a Dor** (Custo da Inação) antes de oferecer a solução.",
+      "Passe no **Teste da Criança de 5 Anos** (Simplicidade de compreensão).",
+      "Mensagem de Resposta Direta deve ter uma **Chamada para Ação (CTA)** clara e urgente."
+    ],
+    "practicalChecklist": [
+      "📝 **Reescreva seu Site/Anúncio**: Remova 80% do texto que fala sobre sua empresa ou produto.",
+      "📢 **Use as Palavras do Cliente**: Insira citações e frases de seus clientes ideais na sua copy.",
+      "⏰ **Teste o 'Custo da Inação'**: Crie uma headline que destaque o que o cliente está **perdendo** ao não agir.",
+      "❓ **Pergunte a uma Criança/Pessoa Leiga**: Sua avó ou uma criança entenderiam imediatamente o que você faz?",
+      "Call to Action (CTA) Forte: **A CTA deve ser um botão/link/frase que vende o próximo passo, não o produto final** (ex: 'Baixe o Guia Grátis Agora')."
+    ],
+    "conclusionMessage": "Sua mensagem deve ser clara, concisa e focada exclusivamente em como você resolve o problema do cliente, usando a linguagem dele.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o foco principal da Mensagem de Marketing?",
+        "options": [
+          { "value": "a", "label": "As características do produto." },
+          { "value": "b", "label": "Os benefícios e resultados que o cliente alcançará." },
+          { "value": "c", "label": "A história da sua empresa." },
+          { "value": "d", "label": "O preço." }
+        ],
+        "explanation": "Os clientes compram resultados, não ferramentas.",
+        "hint": "Resultado final.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas não compram o que você faz, elas compram o que isso faz por elas."
+      },
+      {
+        "id": "2",
+        "question": "O que significa usar a 'Linguagem do Cliente'?",
+        "options": [
+          { "value": "a", "label": "Usar jargões técnicos." },
+          { "value": "b", "label": "Usar as palavras, frases e metáforas exatas que o cliente usa para descrever seu problema e seus desejos." },
+          { "value": "c", "label": "Falar muito rápido." },
+          { "value": "d", "label": "Falar muito devagar." }
+        ],
+        "explanation": "Isso cria uma conexão imediata e faz o cliente sentir que você realmente o entende.",
+        "hint": "Conexão imediata.",
+        "correctAnswer": "b",
+        "bookExample": "Se você usa a linguagem deles, eles pensam: 'Essa pessoa me entende'."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Clareza' na Mensagem de Marketing?",
+        "options": [
+          { "value": "a", "label": "É opcional." },
+          { "value": "b", "label": "É mais importante do que a criatividade. A mensagem deve ser instantaneamente compreensível." },
+          { "value": "c", "label": "Deve ser complexa para parecer inteligente." },
+          { "value": "d", "label": "Deve ser focada em Branding." }
+        ],
+        "explanation": "Se o cliente tiver que pensar, ele perde o interesse. A clareza vende.",
+        "hint": "Venda instantânea.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza precede a maestria."
+      },
+      {
+        "id": "4",
+        "question": "O que é o 'Teste da Criança de 5 Anos' para sua mensagem?",
+        "options": [
+          { "value": "a", "label": "Se uma criança pode usar seu produto." },
+          { "value": "b", "label": "Se uma criança de 5 anos pode entender o que você faz e o benefício que você oferece." },
+          { "value": "c", "label": "Se você pode vender para crianças." },
+          { "value": "d", "label": "Se a mensagem é divertida." }
+        ],
+        "explanation": "Se for muito complexo, você perde a atenção do público.",
+        "hint": "Simplicidade.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não consegue explicar de forma simples, você não entende o que está vendendo."
+      },
+      {
+        "id": "5",
+        "question": "Como a Mensagem deve abordar a 'Dor' do cliente?",
+        "options": [
+          { "value": "a", "label": "Ignorar a dor e focar apenas na solução." },
+          { "value": "b", "label": "Amplificar a dor e o custo da inação antes de apresentar a solução como o alívio." },
+          { "value": "c", "label": "Focar na dor da concorrência." },
+          { "value": "d", "label": "Focar apenas em emoções positivas." }
+        ],
+        "explanation": "As pessoas são mais motivadas a evitar a dor do que a buscar o prazer (Aversão à Perda).",
+        "hint": "Aversão à Perda.",
+        "correctAnswer": "b",
+        "bookExample": "Venda aspirina para uma dor de cabeça, não vitaminas para uma vida melhor."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel da 'Prova Social' na Mensagem?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Aumenta a credibilidade da PUV, mostrando que outros já obtiveram o resultado prometido." },
+          { "value": "c", "label": "Reduz o preço." },
+          { "value": "d", "label": "Aumenta a complexidade." }
+        ],
+        "explanation": "A prova social (testemunhos, estudos de caso) é essencial para a Resposta Direta.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Não diga que você é bom. Deixe seus clientes dizerem."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Focar no Resultado Final'?",
+        "options": [
+          { "value": "a", "label": "Focar no processo de entrega." },
+          { "value": "b", "label": "Focar na transformação que o cliente experimentará (ex: mais tempo livre, mais dinheiro, menos estresse)." },
+          { "value": "c", "label": "Focar no preço." },
+          { "value": "d", "label": "Focar na tecnologia." }
+        ],
+        "explanation": "A transformação é o que o cliente realmente compra.",
+        "hint": "Transformação.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas não querem uma cama. Elas querem uma boa noite de sono."
+      },
+      {
+        "id": "8",
+        "question": "Qual é a diferença entre 'Características' e 'Benefícios'?",
+        "options": [
+          { "value": "a", "label": "Características são o que o produto faz; Benefícios são o que o cliente ganha com isso." },
+          { "value": "b", "label": "Características são mais importantes." },
+          { "value": "c", "label": "Benefícios são mais técnicos." },
+          { "value": "d", "label": "São a mesma coisa." }
+        ],
+        "explanation": "Sempre traduza características em benefícios.",
+        "hint": "O que vs. Por que.",
+        "correctAnswer": "a",
+        "bookExample": "Venda o buraco, não a furadeira."
+      },
+      {
+        "id": "9",
+        "question": "O que a Mensagem deve incluir para motivar a Resposta Direta?",
+        "options": [
+          { "value": "a", "label": "Um longo texto sobre a história da empresa." },
+          { "value": "b", "label": "Uma Chamada para Ação (CTA) clara e urgente." },
+          { "value": "c", "label": "Muitas imagens." },
+          { "value": "d", "label": "Um preço alto." }
+        ],
+        "explanation": "A CTA diz ao cliente exatamente o que fazer em seguida.",
+        "hint": "Próximo passo.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não diz ao cliente o que fazer, ele não fará nada."
+      },
+      {
+        "id": "10",
+        "question": "O que significa 'Entrar na Conversa que Já Está Acontecendo na Mente do Cliente'?",
+        "options": [
+          { "value": "a", "label": "Falar sobre o que você quer vender." },
+          { "value": "b", "label": "Usar a mensagem para abordar diretamente os medos, dúvidas e desejos que o cliente já está pensando." },
+          { "value": "c", "label": "Falar sobre a concorrência." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "Isso garante que a mensagem seja relevante e ressoe profundamente.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "Não tente começar uma nova conversa. Junte-se à que já está acontecendo."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Selecionando a Mídia (Canais de Resposta Direta)",
+    "teaser": "💸 Onde colocar o seu dinheiro? Não caia na armadilha do 'Branding'! Aprenda a investir apenas em canais que você pode rastrear e medir o ROI.",
+    "level1": "A Mídia é o canal que entrega sua Mensagem ao seu Mercado Alvo. A única regra é: **DEVE ser de Resposta Direta** e totalmente rastreável. Você precisa saber o ROI de cada centavo gasto.",
+    "level2": "Evite o *Branding* tradicional (outdoors, TV, rádio) a menos que você seja uma mega corporação. Foque em canais como **Google Ads, Facebook Ads e E-mail Marketing** com CTAs específicos e links rastreáveis. O objetivo é testar rápido e otimizar o Custo de Aquisição de Cliente (CAC).",
+    "level3": "Você deve buscar canais que permitam uma relação **LTV > CAC** (idealmente 3:1 ou mais). A Mídia Paga (Paid Media) é o seu laboratório de testes mais rápido, mas sua **Mídia Própria** (Owned Media, como sua lista de e-mail) é seu ativo mais valioso.",
+    "recapitulation": [
+      "Mídia = o Canal de Entrega da Mensagem.",
+      "Critério: **Rastreabilidade** e **Mensurabilidade** do ROI.",
+      "Evite o Branding não mensurável (é para empresas ricas).",
+      "Foque em **Mídia Paga** para testar rápido (Facebook Ads, Google Ads).",
+      "Use a **Mídia Própria** (lista de e-mail) para construir o ativo mais seguro.",
+      "Sempre inclua um **Call to Action (CTA)** claro no seu anúncio.",
+      "Teste A/B é obrigatório: compare diferentes canais/mensagens para otimizar o ROI."
+    ],
+    "practicalChecklist": [
+      "⚙️ **Implemente o Rastreamento**: Certifique-se de que cada anúncio tenha um link/código de rastreamento exclusivo (ex: UTMs ou telefone/e-mail específico).",
+      "❌ **Corte Mídia Não Mensurável**: Se você não sabe o ROI de um canal, pare de gastar nele **imediatamente**.",
+      "🧪 **Execute um Teste A/B de Mídia**: Teste o mesmo anúncio em 2 canais diferentes para ver qual gera o CAC mais baixo.",
+      "📧 **Priorize a Construção da Lista de E-mail**: Use a Mídia Paga para levar tráfego para a captura de leads (próxima lição!).",
+      "🎯 **Calcule o CAC**: Descubra quanto você está gastando, em média, para adquirir um novo cliente em cada canal."
+    ],
+    "conclusionMessage": "A mídia deve ser escolhida com base em onde seu Mercado Alvo está e qual canal permite o rastreamento e a mensuração da Resposta Direta.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o critério mais importante para escolher a Mídia no 1PMP?",
+        "options": [
+          { "value": "a", "label": "O custo mais baixo." },
+          { "value": "b", "label": "A capacidade de rastrear e medir a resposta direta e o ROI." },
+          { "value": "c", "label": "O alcance máximo (Branding)." },
+          { "value": "d", "label": "A popularidade do canal." }
+        ],
+        "explanation": "A mensuração é fundamental para o marketing de resposta direta.",
+        "hint": "Mensuração.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não consegue medir, não é marketing, é arte."
+      },
+      {
+        "id": "2",
+        "question": "Por que o Branding tradicional é desencorajado para pequenas empresas no 1PMP?",
+        "options": [
+          { "value": "a", "label": "É muito específico." },
+          { "value": "b", "label": "É caro, difícil de rastrear e não gera receita imediata, o que pequenas empresas não podem se dar ao luxo de esperar." },
+          { "value": "c", "label": "É muito fácil de copiar." },
+          { "value": "d", "label": "Foca demais em vendas." }
+        ],
+        "explanation": "Pequenas empresas precisam de fluxo de caixa e ROI rápido.",
+        "hint": "ROI e fluxo de caixa.",
+        "correctAnswer": "b",
+        "bookExample": "Branding é o que você faz quando tem dinheiro demais para queimar."
+      },
+      {
+        "id": "3",
+        "question": "O que é um 'Call to Action' (CTA) eficaz em um anúncio de Resposta Direta?",
+        "options": [
+          { "value": "a", "label": "Uma frase vaga como 'Saiba Mais'." },
+          { "value": "b", "label": "Uma instrução clara e urgente sobre o próximo passo (ex: 'Ligue agora e receba seu guia gratuito')." },
+          { "value": "c", "label": "O nome da sua empresa." },
+          { "value": "d", "label": "Um preço." }
+        ],
+        "explanation": "A CTA deve ser específica e motivar a ação imediata.",
+        "hint": "Ação imediata.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não diz ao cliente o que fazer, ele não fará nada."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel do 'Teste A/B' na seleção de Mídia?",
+        "options": [
+          { "value": "a", "label": "Garantir que o anúncio seja bonito." },
+          { "value": "b", "label": "Comparar diferentes canais, mensagens ou CTAs para determinar qual gera o melhor ROI." },
+          { "value": "c", "label": "Reduzir o preço." },
+          { "value": "d", "label": "Aumentar o número de funcionários." }
+        ],
+        "explanation": "O teste contínuo é essencial para otimizar o marketing de resposta direta.",
+        "hint": "Otimização.",
+        "correctAnswer": "b",
+        "bookExample": "Teste, teste, teste. O mercado é o juiz final."
+      },
+      {
+        "id": "5",
+        "question": "Por que o e-mail marketing é considerado um canal de Mídia de Resposta Direta ideal?",
+        "options": [
+          { "value": "a", "label": "É o mais caro." },
+          { "value": "b", "label": "É altamente rastreável, de baixo custo e permite a nutrição contínua de leads." },
+          { "value": "c", "label": "É o mais rápido." },
+          { "value": "d", "label": "É o mais popular." }
+        ],
+        "explanation": "O e-mail é o ativo mais valioso no marketing de resposta direta.",
+        "hint": "Ativo valioso.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro está na lista."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Mídia Própria' (Owned Media)?",
+        "options": [
+          { "value": "a", "label": "Anúncios pagos." },
+          { "value": "b", "label": "Canais que você controla, como seu site, blog e lista de e-mail." },
+          { "value": "c", "label": "Mídia social." },
+          { "value": "d", "label": "Relações públicas." }
+        ],
+        "explanation": "A mídia própria é o ativo mais seguro, pois você não depende de plataformas de terceiros.",
+        "hint": "Controle total.",
+        "correctAnswer": "b",
+        "bookExample": "Sua lista de e-mail é seu ativo mais valioso."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o risco de depender apenas de Mídia Social (ex: Facebook, Instagram)?",
+        "options": [
+          { "value": "a", "label": "É muito caro." },
+          { "value": "b", "label": "Você não controla a plataforma, e mudanças de algoritmo podem destruir seu alcance e negócio da noite para o dia." },
+          { "value": "c", "label": "É muito lento." },
+          { "value": "d", "label": "É muito fácil de rastrear." }
+        ],
+        "explanation": "Você deve usar a mídia social para capturar leads e movê-los para sua mídia própria (lista de e-mail).",
+        "hint": "Controle de plataforma.",
+        "correctAnswer": "b",
+        "bookExample": "Não construa sua casa em terreno alugado."
+      },
+      {
+        "id": "8",
+        "question": "O que é o 'Custo de Aquisição de Cliente' (CAC)?",
+        "options": [
+          { "value": "a", "label": "O preço do produto." },
+          { "value": "b", "label": "O custo total de marketing e vendas dividido pelo número de novos clientes adquiridos." },
+          { "value": "c", "label": "O lucro por cliente." },
+          { "value": "d", "label": "O valor vitalício do cliente." }
+        ],
+        "explanation": "O CAC é a métrica chave para determinar a viabilidade da sua mídia.",
+        "hint": "Custo por cliente.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não sabe seu CAC, você está jogando no escuro."
+      },
+      {
+        "id": "9",
+        "question": "Qual é a relação ideal entre LTV (Valor Vitalício do Cliente) e CAC?",
+        "options": [
+          { "value": "a", "label": "LTV deve ser igual a CAC." },
+          { "value": "b", "label": "LTV deve ser significativamente maior que CAC (idealmente 3:1 ou mais)." },
+          { "value": "c", "label": "CAC deve ser maior que LTV." },
+          { "value": "d", "label": "Não há relação." }
+        ],
+        "explanation": "Um LTV alto permite que você gaste mais para adquirir um cliente, superando a concorrência.",
+        "hint": "Margem de lucro.",
+        "correctAnswer": "b",
+        "bookExample": "Quem pode gastar mais para adquirir um cliente, vence."
+      },
+      {
+        "id": "10",
+        "question": "O que é 'Mídia Paga' (Paid Media)?",
+        "options": [
+          { "value": "a", "label": "E-mail marketing." },
+          { "value": "b", "label": "Anúncios em plataformas de terceiros (ex: Google Ads, Facebook Ads) onde você paga por clique ou impressão." },
+          { "value": "c", "label": "Seu blog." },
+          { "value": "d", "label": "Relações públicas." }
+        ],
+        "explanation": "A mídia paga é a forma mais rápida de testar sua mensagem e PUV.",
+        "hint": "Velocidade de teste.",
+        "correctAnswer": "b",
+        "bookExample": "Use a mídia paga para provar que sua mensagem funciona antes de investir em canais mais lentos."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "O Ímã de Leads (Lead Magnet) e a Captura de Contato",
+    "teaser": "🎣 Ninguém te dá o e-mail de graça. Descubra o 'suborno ético' irresistível que transforma prospectos anônimos em leads conhecidos imediatamente.",
+    "level1": "O Ímã de Leads é o primeiro passo na Fase Durante. É uma oferta gratuita de alto valor percebido, mas baixo custo de entrega, dada em troca das informações de contato. O objetivo é transformar o prospecto anônimo em um **Lead Conhecido**.",
+    "level2": "O Ímã de Leads deve ser: 1. Específico (não genérico); 2. Solucionar um pequeno problema urgente; 3. Ser consumível rapidamente (**Vitória Rápida**). Ele deve ser um 'alívio rápido' para a dor que você resolve.",
+    "level3": "Imediatamente após a captura do lead, apresente o **Tripwire** (Oferta de Entrada). É um produto de baixo preço (ex: R$7, R$17) que converte o lead em um **Cliente Pagante** (o objetivo principal não é o lucro, mas a transação).",
+    "recapitulation": [
+      "Ímã de Leads = Oferta Gratuita + Captura de Contato (Nome/E-mail/Telefone).",
+      "O objetivo é construir a **Lista**, seu ativo de marketing mais valioso (O dinheiro está na lista).",
+      "O Ímã deve ser um 'alívio rápido', não a solução completa.",
+      "A Landing Page deve ter **foco único** (sem links de navegação).",
+      "Tripwire = Oferta de baixo custo, imediatamente após o Lead Magnet, para mudar o relacionamento para 'cliente'."
+    ],
+    "practicalChecklist": [
+      "🎁 **Crie o seu Ímã de Leads**: Garanta que ele resolva um problema urgente do seu Mercado Alvo em menos de 10 minutos (ex: checklist, template).",
+      "🚪 **Desenhe seu Tripwire**: Qual é a sua oferta de entrada de R$7 a R$97 para quebrar a barreira do 'não-pagante'?",
+      "🚫 **Elimine Distrações**: Remova todos os links de navegação do menu da sua Landing Page do Lead Magnet.",
+      "📝 **Pergunte Apenas o Necessário**: Para o Lead Magnet, peça apenas o e-mail (ou e-mail e nome). Para o Tripwire, peça o mínimo de dados possível no checkout.",
+      "📈 **Calcule a Taxa de Conversão**: Rastreie quantos visitantes da Landing Page se tornam Leads. Otimize se estiver abaixo de 20%."
+    ],
+    "conclusionMessage": "O Ímã de Leads é uma oferta gratuita e irresistível que resolve um pequeno problema do prospecto em troca de suas informações de contato.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo do Ímã de Leads?",
+        "options": [
+          { "value": "a", "label": "Vender o produto principal." },
+          { "value": "b", "label": "Capturar as informações de contato do prospecto (transformá-lo em Lead)." },
+          { "value": "c", "label": "Aumentar o tráfego do site." },
+          { "value": "d", "label": "Construir reconhecimento de marca." }
+        ],
+        "explanation": "O objetivo é construir a lista, o ativo mais valioso.",
+        "hint": "Construção de lista.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro está na lista."
+      },
+      {
+        "id": "2",
+        "question": "Qual característica um Ímã de Leads deve ter para ser eficaz?",
+        "options": [
+          { "value": "a", "label": "Ser caro de produzir." },
+          { "value": "b", "label": "Ser específico, resolver um problema urgente e ser consumível rapidamente." },
+          { "value": "c", "label": "Ser genérico para atrair todos." },
+          { "value": "d", "label": "Ser um produto físico." }
+        ],
+        "explanation": "A velocidade de consumo é crucial para gerar uma vitória rápida e construir confiança.",
+        "hint": "Vitória rápida.",
+        "correctAnswer": "b",
+        "bookExample": "O Ímã de Leads deve ser um 'alívio rápido' para a dor."
+      },
+      {
+        "id": "3",
+        "question": "O que é um 'Tripwire' (Oferta de Entrada)?",
+        "options": [
+          { "value": "a", "label": "O produto principal." },
+          { "value": "b", "label": "Uma oferta de baixo preço (não gratuita) feita imediatamente após o Ímã de Leads para converter o Lead em Cliente pagante." },
+          { "value": "c", "label": "O sistema de referência." },
+          { "value": "d", "label": "O e-mail de boas-vindas." }
+        ],
+        "explanation": "O Tripwire é o primeiro passo para mudar o relacionamento de 'prospecto' para 'cliente'.",
+        "hint": "Primeira transação.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo do Tripwire não é o lucro, mas a aquisição de clientes."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o risco de um Ímã de Leads ser muito genérico (ex: 'Assine nossa newsletter')?",
+        "options": [
+          { "value": "a", "label": "Atrai leads de baixa qualidade que não estão interessados no seu produto principal." },
+          { "value": "b", "label": "É muito caro." },
+          { "value": "c", "label": "É muito específico." },
+          { "value": "d", "label": "É muito rápido de consumir." }
+        ],
+        "explanation": "O Ímã de Leads deve pré-qualificar o lead para o seu produto principal.",
+        "hint": "Qualidade do lead.",
+        "correctAnswer": "a",
+        "bookExample": "Seu Ímã de Leads deve ser um 'filtro' para o seu cliente ideal."
+      },
+      {
+        "id": "5",
+        "question": "O que é uma 'Landing Page' eficaz para o Ímã de Leads?",
+        "options": [
+          { "value": "a", "label": "Uma página com muitas opções de navegação." },
+          { "value": "b", "label": "Uma página focada em uma única Chamada para Ação (CTA) e que destaca o benefício do Ímã de Leads." },
+          { "value": "c", "label": "A página inicial do seu site." },
+          { "value": "d", "label": "Uma página com preço." }
+        ],
+        "explanation": "A Landing Page deve eliminar distrações para maximizar a conversão.",
+        "hint": "Foco único.",
+        "correctAnswer": "b",
+        "bookExample": "Uma Landing Page com muitas opções é uma Landing Page com zero opções."
+      },
+      {
+        "id": "6",
+        "question": "Qual é o papel da 'Prova Social' (Testemunhos) na Landing Page do Ímã de Leads?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Aumenta a confiança e a credibilidade, reduzindo o medo de dar o e-mail." },
+          { "value": "c", "label": "Aumenta o preço." },
+          { "value": "d", "label": "Aumenta a complexidade." }
+        ],
+        "explanation": "A prova social é crucial para a conversão em todas as fases.",
+        "hint": "Confiança.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas não confiam em você. Elas confiam em outras pessoas."
+      },
+      {
+        "id": "7",
+        "question": "O que significa 'Over-Deliver' (Entregar Mais) no Ímã de Leads?",
+        "options": [
+          { "value": "a", "label": "Dar o produto principal de graça." },
+          { "value": "b", "label": "Superar as expectativas do lead com a qualidade e o valor do material gratuito." },
+          { "value": "c", "label": "Fazer o Ímã de Leads muito longo." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O Over-Delivery constrói confiança e torna a transição para o Tripwire mais fácil.",
+        "hint": "Superar expectativas.",
+        "correctAnswer": "b",
+        "bookExample": "O Ímã de Leads deve ser tão bom que você poderia cobrar por ele."
+      },
+      {
+        "id": "8",
+        "question": "Qual é o risco de um Ímã de Leads que exige muito tempo para ser consumido (ex: um livro de 300 páginas)?",
+        "options": [
+          { "value": "a", "label": "O lead fica muito inteligente." },
+          { "value": "b", "label": "O lead não obtém uma 'vitória rápida', e a confiança e o momentum para a próxima compra são perdidos." },
+          { "value": "c", "label": "O custo de produção é alto." },
+          { "value": "d", "label": "É muito específico." }
+        ],
+        "explanation": "A velocidade de consumo é crucial para a Fase Durante.",
+        "hint": "Velocidade.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas querem resultados rápidos."
+      },
+      {
+        "id": "9",
+        "question": "O que é um 'Lead Qualificado'?",
+        "options": [
+          { "value": "a", "label": "Qualquer pessoa que baixa o Ímã de Leads." },
+          { "value": "b", "label": "Um lead que demonstrou interesse no seu produto principal e tem capacidade de compra." },
+          { "value": "c", "label": "Um lead que abriu seu e-mail." },
+          { "value": "d", "label": "Um lead que te segue nas mídias sociais." }
+        ],
+        "explanation": "A qualificação é essencial para focar os esforços de vendas.",
+        "hint": "Interesse + Capacidade.",
+        "correctAnswer": "b",
+        "bookExample": "Não perca tempo com leads que não vão comprar."
+      },
+      {
+        "id": "10",
+        "question": "Qual é a diferença entre um Ímã de Leads e um 'Bribe' (Suborno)?",
+        "options": [
+          { "value": "a", "label": "Nenhuma." },
+          { "value": "b", "label": "O Ímã de Leads é uma oferta de valor genuíno; o Bribe é uma promessa vazia ou algo irrelevante." },
+          { "value": "c", "label": "O Bribe é mais caro." },
+          { "value": "d", "label": "O Ímã de Leads é mais rápido." }
+        ],
+        "explanation": "O valor deve ser real para construir confiança.",
+        "hint": "Valor genuíno.",
+        "correctAnswer": "b",
+        "bookExample": "Suborne seus clientes com valor, não com promessas."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Nutrição de Leads (Follow-Up e Construção de Confiança)",
+    "teaser": "🌱 Ninguém compra no primeiro encontro. Descubra o segredo dos 'fazendeiros' do marketing que constroem autoridade e eliminam objeções antes mesmo de vender.",
+    "level1": "A Nutrição de Leads é a caixa central da Fase Durante. O objetivo é construir a relação de **Conhecimento, Gosto e Confiança** (Know, Like, Trust – KLT) através do fornecimento consistente de valor e da eliminação proativa de objeções.",
+    "level2": "O canal principal é o **Autoresponder** (Sequência de E-mails Automatizada). Seu conteúdo deve educar o lead sobre o problema, posicionar você como autoridade e usar **Prova Social** (estudos de caso) para provar sua competência.",
+    "level3": "Seja um **Fazendeiro, não um Caçador**. Dê valor primeiro. Use o *Lead Scoring* para identificar leads 'quentes' (que demonstraram alto engajamento) e priorizá-los para a equipe de vendas. A venda deve ser a conclusão lógica da nutrição.",
+    "recapitulation": [
+      "Nutrição = Construção de KLT (**Conhecimento, Gosto, Confiança**).",
+      "Canal: Sequência de **E-mails Automatizada** (Autoresponder).",
+      "Conteúdo deve **Eliminar Objeções** (preço, tempo, risco) de forma proativa.",
+      "Objetivo: **Educar** o lead para que ele veja você como a única solução lógica (Autoridade).",
+      "Use **Prova Social** (Testemunhos) constantemente na nutrição.",
+      "Lead Scoring: Pontue leads por engajamento para saber quem está pronto para comprar.",
+      "Não 'venda demais', entregue valor."
+    ],
+    "practicalChecklist": [
+      "📧 **Mapeie sua Sequência de Nutrição**: Crie 5 a 7 e-mails que se concentrem em dar valor antes de fazer uma oferta principal.",
+      "🛑 **Liste as Objeções Comuns**: Enumere 3 a 5 objeções de compra e crie um e-mail/conteúdo para desarmar cada uma delas.",
+      "📚 **Use Estudos de Caso**: Compartilhe histórias de sucesso (Prova Social) que sejam altamente relevantes para o problema do lead.",
+      "🔥 **Implemente o Lead Scoring**: Defina ações que mostram 'intenção de compra' (ex: 5 pontos para abrir um e-mail, 20 pontos para visitar a página de preços).",
+      "⚖️ **Equilibre Valor e Venda**: Mantenha uma proporção de 80% de valor (educação) para 20% de vendas (oferta)."
+    ],
+    "conclusionMessage": "A nutrição de leads é o processo de construir confiança e autoridade, eliminando objeções antes de pedir a venda principal.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo da Nutrição de Leads?",
+        "options": [
+          { "value": "a", "label": "Vender o produto principal imediatamente." },
+          { "value": "b", "label": "Construir confiança, autoridade e eliminar objeções antes da venda." },
+          { "value": "c", "label": "Aumentar o número de leads." },
+          { "value": "d", "label": "Reduzir o preço." }
+        ],
+        "explanation": "A confiança é a moeda da Fase Durante.",
+        "hint": "Confiança.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas compram de quem elas conhecem, gostam e confiam."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Eliminar Objeções' na nutrição?",
+        "options": [
+          { "value": "a", "label": "Ignorar as dúvidas do cliente." },
+          { "value": "b", "label": "Abordar proativamente os medos e dúvidas comuns do cliente (ex: preço, tempo, risco) através de conteúdo educativo." },
+          { "value": "c", "label": "Fazer uma concessão." },
+          { "value": "d", "label": "Focar apenas em emoções positivas." }
+        ],
+        "explanation": "Ao abordar as objeções antes que o cliente as levante, você desarma a resistência.",
+        "hint": "Desarmamento.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não lida com as objeções, elas lidarão com você."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Educação' na nutrição de leads?",
+        "options": [
+          { "value": "a", "label": "Tornar o cliente um especialista." },
+          { "value": "b", "label": "Posicionar você como a autoridade que entende o problema e a solução melhor do que o cliente." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A autoridade é crucial para justificar o preço e a escolha.",
+        "hint": "Autoridade.",
+        "correctAnswer": "b",
+        "bookExample": "O especialista é o que mais vende."
+      },
+      {
+        "id": "4",
+        "question": "O que é um 'Autoresponder' (Sequência de E-mails Automatizada)?",
+        "options": [
+          { "value": "a", "label": "Um e-mail manual." },
+          { "value": "b", "label": "Uma série de e-mails pré-escritos e automatizados que são enviados sequencialmente ao lead após a captura." },
+          { "value": "c", "label": "Um robô de vendas." },
+          { "value": "d", "label": "Um software de CRM." }
+        ],
+        "explanation": "A automação garante que a nutrição seja consistente e escalável.",
+        "hint": "Consistência.",
+        "correctAnswer": "b",
+        "bookExample": "A automação é a chave para a liberdade."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Vender Demais' na fase de nutrição?",
+        "options": [
+          { "value": "a", "label": "O cliente compra mais rápido." },
+          { "value": "b", "label": "O lead se sente pressionado, perde a confiança e se desinscreve da lista." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "O foco deve ser em dar valor, não em pedir a venda.",
+        "hint": "Valor vs. Venda.",
+        "correctAnswer": "b",
+        "bookExample": "Seja um fazendeiro, não um caçador."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Focar no Problema' na nutrição?",
+        "options": [
+          { "value": "a", "label": "Falar sobre a concorrência." },
+          { "value": "b", "label": "Usar o conteúdo para aprofundar a dor do cliente e o custo da inação, antes de apresentar a solução." },
+          { "value": "c", "label": "Focar apenas em emoções positivas." },
+          { "value": "d", "label": "Focar no preço." }
+        ],
+        "explanation": "A amplificação da dor motiva a ação.",
+        "hint": "Amplificação.",
+        "correctAnswer": "b",
+        "bookExample": "A dor da perda é duas vezes mais poderosa que a alegria do ganho."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Prova Social' (Testemunhos) na nutrição?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Usar estudos de caso e depoimentos para provar que sua solução funciona para pessoas como o lead." },
+          { "value": "c", "label": "Reduzir o preço." },
+          { "value": "d", "label": "Aumentar a complexidade." }
+        ],
+        "explanation": "A prova social é a forma mais eficaz de construir credibilidade.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Não diga que você é bom. Deixe seus clientes dizerem."
+      },
+      {
+        "id": "8",
+        "question": "O que é um 'Lead Score' (Pontuação de Lead)?",
+        "options": [
+          { "value": "a", "label": "O número de e-mails abertos." },
+          { "value": "b", "label": "Um sistema para atribuir pontos aos leads com base em seu engajamento e comportamento, indicando sua prontidão para a compra." },
+          { "value": "c", "label": "O preço do produto." },
+          { "value": "d", "label": "O número de cliques." }
+        ],
+        "explanation": "O Lead Score ajuda a priorizar os leads mais quentes para a equipe de vendas.",
+        "hint": "Priorização.",
+        "correctAnswer": "b",
+        "bookExample": "Foque seus esforços de vendas onde eles têm maior probabilidade de sucesso."
+      },
+      {
+        "id": "9",
+        "question": "Qual é a diferença entre 'Nutrição' e 'Venda Direta'?",
+        "options": [
+          { "value": "a", "label": "Nenhuma." },
+          { "value": "b", "label": "Nutrição foca em valor e relacionamento; Venda Direta foca na transação imediata." },
+          { "value": "c", "label": "Venda Direta é mais lenta." },
+          { "value": "d", "label": "Nutrição é mais cara." }
+        ],
+        "explanation": "A nutrição prepara o terreno para a venda.",
+        "hint": "Preparação.",
+        "correctAnswer": "b",
+        "bookExample": "A nutrição é o namoro. A venda é o casamento."
+      },
+      {
+        "id": "10",
+        "question": "O que significa 'Princípio da Continuidade' na nutrição?",
+        "options": [
+          { "value": "a", "label": "Enviar e-mails apenas uma vez." },
+          { "value": "b", "label": "Manter o contato e o fornecimento de valor de forma consistente ao longo do tempo, mesmo após a compra." },
+          { "value": "c", "label": "Mudar de assunto frequentemente." },
+          { "value": "d", "label": "Focar apenas em vendas." }
+        ],
+        "explanation": "A consistência é a chave para construir confiança duradoura.",
+        "hint": "Consistência.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é construída em pequenas doses, consistentemente."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Construindo Confiança e Autoridade (O Papel da Educação)",
+    "teaser": "👑 As pessoas só compram de especialistas. Descubra como usar o Princípio da Reciprocidade para que seus leads se sintam em dívida com seu conhecimento.",
+    "level1": "A Autoridade é um gatilho mental fundamental. As pessoas compram de quem confiam, e a confiança é construída provando que você é um especialista. Isso é feito educando o cliente sobre o problema e a solução, de forma a **se posicionar como o Guia** (e o cliente como o herói).",
+    "level2": "O **Princípio da Reciprocidade** é ativado quando você entrega tanto valor no seu conteúdo gratuito que o lead sente a obrigação de retribuir, seja comprando de você ou pelo menos prestando mais atenção às suas ofertas.",
+    "level3": "Use **Provas de Autoridade** (Estudos de Caso detalhados, Webinars de 'Ensino', Endossos de Terceiros). O objetivo é que o lead pense: 'Se o conteúdo gratuito dele é tão bom, o que o produto pago fará por mim?'. Isso permite que você cobre preços premium.",
+    "recapitulation": [
+      "Autoridade justifica o preço e reduz a resistência à compra.",
+      "Construa Reciprocidade, dando valor gratuito extremo.",
+      "Conteúdo deve **Educar o Cliente sobre o Problema** (Raiz da Dor).",
+      "Use Estudos de Caso e Webinars como Prova de Autoridade.",
+      "Não se posicione como o Herói; você é o **Guia** (o Yoda), e o cliente é o protagonista.",
+      "A Autoridade permite que você saia da guerra de preços (o especialista não compete por preço)."
+    ],
+    "practicalChecklist": [
+      "📝 **Crie um Conteúdo de 'Ensino'**: Desenvolva um guia ou mini-curso que ensine ao seu lead algo que ele valoriza e que o posicione como autoridade.",
+      "🎙️ **Grave um Webinar de Vendas**: Use o formato de 'educação + oferta' para construir autoridade em massa e vender no final.",
+      "📖 **Transforme Testemunhos em Prova Social**: Peça a clientes satisfeitos para detalhar o *Antes* e o *Depois* para validar sua expertise.",
+      "💰 **Aumente seu Preço**: Se você tem Prova de Autoridade e PUV fortes, o preço deve subir (você é especialista, não um commodity).",
+      "🤝 **Busque Endosso de Terceiros**: Tente aparecer em podcasts, blogs ou mídias relevantes para obter validação externa."
+    ],
+    "conclusionMessage": "A autoridade é construída educando o cliente sobre o problema e a solução, posicionando você como o especialista que ele precisa.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal resultado de construir Autoridade?",
+        "options": [
+          { "value": "a", "label": "Reduzir o preço." },
+          { "value": "b", "label": "Aumentar a confiança, justificar um preço mais alto e reduzir a resistência à compra." },
+          { "value": "c", "label": "Aumentar o número de leads." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "A autoridade permite que você saia da guerra de preços.",
+        "hint": "Preço e resistência.",
+        "correctAnswer": "b",
+        "bookExample": "O especialista é o que mais vende."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Prova de Autoridade'?",
+        "options": [
+          { "value": "a", "label": "Um diploma universitário." },
+          { "value": "b", "label": "Estudos de caso, depoimentos de clientes de alto perfil e conteúdo educativo que resolve problemas reais." },
+          { "value": "c", "label": "Um preço alto." },
+          { "value": "d", "label": "Um site bonito." }
+        ],
+        "explanation": "A prova de autoridade deve ser visível e relevante para o problema do cliente.",
+        "hint": "Evidência.",
+        "correctAnswer": "b",
+        "bookExample": "Não diga que você é bom. Prove."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Reciprocidade' na construção de Autoridade?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Ao dar valor gratuito (educação), o lead se sente obrigado a retribuir, tornando-o mais aberto à sua oferta." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A reciprocidade é um gatilho mental poderoso.",
+        "hint": "Obrigação.",
+        "correctAnswer": "b",
+        "bookExample": "Dê valor primeiro. A venda virá depois."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Educar o Cliente sobre o Problema'?",
+        "options": [
+          { "value": "a", "label": "Falar sobre a concorrência." },
+          { "value": "b", "label": "Ajudar o cliente a entender a raiz do problema e por que as soluções anteriores falharam, posicionando sua solução como a única saída." },
+          { "value": "c", "label": "Focar apenas em emoções positivas." },
+          { "value": "d", "label": "Focar no preço." }
+        ],
+        "explanation": "O cliente precisa entender o problema para valorizar a solução.",
+        "hint": "Raiz do problema.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente não sabe o que ele não sabe."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Focar Apenas em Vendas' na nutrição?",
+        "options": [
+          { "value": "a", "label": "O cliente compra mais rápido." },
+          { "value": "b", "label": "Você perde a oportunidade de construir autoridade e confiança, e o lead se desinscreve." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "A nutrição é sobre relacionamento, não transação.",
+        "hint": "Relacionamento.",
+        "correctAnswer": "b",
+        "bookExample": "Seja um fazendeiro, não um caçador."
+      },
+      {
+        "id": "6",
+        "question": "O que é um 'Webinar de Vendas' eficaz na Fase Durante?",
+        "options": [
+          { "value": "a", "label": "Um pitch de vendas de 60 minutos." },
+          { "value": "b", "label": "Um evento que educa o lead sobre o problema e a solução, e faz uma oferta irresistível no final." },
+          { "value": "c", "label": "Um evento social." },
+          { "value": "d", "label": "Um evento de Branding." }
+        ],
+        "explanation": "O webinar é uma ferramenta poderosa para construir autoridade e converter leads em massa.",
+        "hint": "Educação + Oferta.",
+        "correctAnswer": "b",
+        "bookExample": "O webinar é a forma mais rápida de construir autoridade."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Consistência' na construção de Confiança?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A entrega consistente de valor e a comunicação regular reforçam a credibilidade e a confiabilidade." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A confiança é construída ao longo do tempo.",
+        "hint": "Tempo.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é construída em pequenas doses, consistentemente."
+      },
+      {
+        "id": "8",
+        "question": "O que significa 'Posicionar-se como o Guia'?",
+        "options": [
+          { "value": "a", "label": "Ser o herói da história." },
+          { "value": "b", "label": "Colocar o cliente como o herói da história e você como o guia que o ajuda a vencer o desafio." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar no preço." }
+        ],
+        "explanation": "O cliente se conecta com histórias onde ele é o protagonista.",
+        "hint": "Protagonista.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente é o herói. Você é o Yoda."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Não Ter Prova Social'?",
+        "options": [
+          { "value": "a", "label": "O cliente compra mais rápido." },
+          { "value": "b", "label": "A falta de depoimentos e estudos de caso reduz a credibilidade e aumenta o risco percebido." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "A prova social é a forma mais eficaz de construir credibilidade.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas não confiam em você. Elas confiam em outras pessoas."
+      },
+      {
+        "id": "10",
+        "question": "O que é 'Autoridade de Terceiros'?",
+        "options": [
+          { "value": "a", "label": "Sua própria autoridade." },
+          { "value": "b", "label": "Endossos de mídias, influenciadores ou outras autoridades que validam sua expertise." },
+          { "value": "c", "label": "O preço do produto." },
+          { "value": "d", "label": "O nome da sua empresa." }
+        ],
+        "explanation": "O endosso de terceiros é um atalho para a confiança.",
+        "hint": "Endosso.",
+        "correctAnswer": "b",
+        "bookExample": "O endosso de terceiros é a forma mais rápida de construir autoridade."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Conversão de Vendas (A Oferta Principal)",
+    "teaser": "💸 O grande momento: descubra como 'empilhar o valor' e usar garantias agressivas para tornar o preço do seu produto IRRELEVANTE. Seria estúpido dizer 'Não'.",
+    "level1": "A Conversão de Vendas é o ponto onde você apresenta a **Oferta Principal** (Core Offer). Se a Fase Antes e Durante foram bem-sucedidas, o lead já confia em você. A chave é tornar a oferta irresistível e remover qualquer risco percebido.",
+    "level2": "Use a técnica de **Stacking the Value** (Empilhamento de Valor): adicione bônus, acompanhamentos e materiais extras à sua Oferta Principal. O valor percebido do pacote deve ser muito maior que o preço, para que o cliente sinta que seria *estúpido* não comprar.",
+    "level3": "Uma **Garantia Forte** é essencial. Ela remove o risco e prova sua confiança no produto. O medo da perda é o maior obstáculo para a compra. Use a **Escassez** (limite de tempo ou quantidade) para motivar a ação imediata (Aversão à Perda).",
+    "recapitulation": [
+      "Conversão = Venda da **Oferta Principal** (Produto de lucro).",
+      "Oferta Irresistível = **Empilhamento de Valor** (Produto + Bônus + Acompanhamento).",
+      "Garantia Forte: Essencial para remover o **Risco Percebido**.",
+      "Gatilho: Use a **Escassez** para motivar a ação imediata.",
+      "Downsell: Ofereça um produto de preço mais baixo se ele recusar a Oferta Principal (o objetivo é ter um cliente pagante).",
+      "Foque no **ROI do Cliente** (o quanto ele ganha), não apenas no preço.",
+      "A venda é o resultado de um bom marketing de atração e nutrição."
+    ],
+    "practicalChecklist": [
+      "🏗️ **Empilhe o Valor da sua Oferta**: Liste seu produto, bônus e garantia. Calcule o Valor Real de Tudo e mostre o desconto esmagador.",
+      "🛡️ **Crie uma Garantia Invertida de Risco**: Garanta o resultado ou o dinheiro de volta (ou até mais).",
+      "🛑 **Use Escassez Realista**: Crie um limite de tempo ou vagas **genuíno** para sua oferta.",
+      "📉 **Mapeie Seu Downsell**: Qual é a sua oferta de 'plano B' para quem disser 'Não' à Oferta Principal?",
+      "📈 **Rastreie a Taxa de Conversão da Oferta**: Otimize se a taxa estiver abaixo das expectativas (pode ser problema na nutrição ou na PUV)."
+    ],
+    "conclusionMessage": "A Conversão de Vendas é o momento de fazer a Oferta Principal, que deve ser irresistível, com uma garantia forte e prova social esmagadora.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo da Conversão de Vendas?",
+        "options": [
+          { "value": "a", "label": "Capturar o e-mail." },
+          { "value": "b", "label": "Fazer a Oferta Principal e converter o lead em cliente pagante." },
+          { "value": "c", "label": "Aumentar o tráfego do site." },
+          { "value": "d", "label": "Construir reconhecimento de marca." }
+        ],
+        "explanation": "É o momento da transação principal.",
+        "hint": "Transação principal.",
+        "correctAnswer": "b",
+        "bookExample": "A venda é o resultado de um bom marketing, não o início."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Stacking the Value' (Empilhar o Valor)?",
+        "options": [
+          { "value": "a", "label": "Reduzir o preço." },
+          { "value": "b", "label": "Adicionar bônus e benefícios à Oferta Principal para aumentar o valor percebido e justificar o preço." },
+          { "value": "c", "label": "Focar apenas no produto principal." },
+          { "value": "d", "label": "Focar em tecnologia." }
+        ],
+        "explanation": "O valor percebido deve ser muito maior que o preço.",
+        "hint": "Valor percebido.",
+        "correctAnswer": "b",
+        "bookExample": "Torne sua oferta tão boa que seria estúpido dizer 'Não'."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Garantia' na Oferta Principal?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Remove o risco percebido pelo cliente, tornando a compra mais fácil e aumentando a conversão." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "Uma garantia forte prova que você confia no seu produto.",
+        "hint": "Risco zero.",
+        "correctAnswer": "b",
+        "bookExample": "Uma garantia forte é a prova de que você confia no seu produto."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Prova Social Esmagadora' na Conversão?",
+        "options": [
+          { "value": "a", "label": "Um único depoimento." },
+          { "value": "b", "label": "Uma quantidade massiva de depoimentos, estudos de caso e estatísticas que provam que sua solução funciona." },
+          { "value": "c", "label": "Um preço baixo." },
+          { "value": "d", "label": "Um site bonito." }
+        ],
+        "explanation": "A prova social em massa elimina a dúvida.",
+        "hint": "Massa.",
+        "correctAnswer": "b",
+        "bookExample": "A prova social é a forma mais eficaz de construir credibilidade."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Não Ter uma Oferta Irresistível'?",
+        "options": [
+          { "value": "a", "label": "O cliente compra mais rápido." },
+          { "value": "b", "label": "O cliente compara você apenas pelo preço, e a conversão cai." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "A oferta irresistível é a chave para sair da guerra de preços.",
+        "hint": "Guerra de preços.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não é único, você é o mais barato."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Focar no ROI do Cliente' na Oferta?",
+        "options": [
+          { "value": "a", "label": "Focar no seu próprio lucro." },
+          { "value": "b", "label": "Destacar o quanto o cliente ganhará (ou economizará) ao comprar seu produto, justificando o preço." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O cliente compra o lucro, não o produto.",
+        "hint": "Lucro.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só se importa com o que está no WIIFM (What's In It For Me)."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Escassez' na Conversão de Vendas?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Motiva a ação imediata, pois o cliente teme perder a oportunidade (Aversão à Perda)." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A escassez (limite de tempo ou quantidade) é um gatilho mental poderoso.",
+        "hint": "Aversão à Perda.",
+        "correctAnswer": "b",
+        "bookExample": "O medo da perda é duas vezes mais poderoso que a alegria do ganho."
+      },
+      {
+        "id": "8",
+        "question": "O que é um 'Downsell'?",
+        "options": [
+          { "value": "a", "label": "Uma oferta mais cara." },
+          { "value": "b", "label": "Uma oferta de preço mais baixo, feita se o cliente recusar a Oferta Principal, para garantir que ele se torne cliente." },
+          { "value": "c", "label": "Um bônus." },
+          { "value": "d", "label": "Uma garantia." }
+        ],
+        "explanation": "O objetivo é sempre converter o lead em cliente, mesmo que com um lucro menor.",
+        "hint": "Conversão a qualquer custo.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo é ter um cliente, não um lead."
+      },
+      {
+        "id": "9",
+        "question": "Qual é a diferença entre 'Oferta Principal' e 'Tripwire'?",
+        "options": [
+          { "value": "a", "label": "O Tripwire é mais caro." },
+          { "value": "b", "label": "O Tripwire é uma oferta de baixo preço para aquisição de clientes; a Oferta Principal é o produto de maior valor e lucro." },
+          { "value": "c", "label": "São a mesma coisa." },
+          { "value": "d", "label": "A Oferta Principal é gratuita." }
+        ],
+        "explanation": "O Tripwire é a porta de entrada; a Oferta Principal é o destino.",
+        "hint": "Porta de entrada vs. Destino.",
+        "correctAnswer": "b",
+        "bookExample": "O Tripwire paga pelo custo de aquisição. A Oferta Principal gera lucro."
+      },
+      {
+        "id": "10",
+        "question": "O que significa 'Remover o Risco' na Oferta?",
+        "options": [
+          { "value": "a", "label": "Reduzir o preço." },
+          { "value": "b", "label": "Usar garantias fortes (ex: 100% de devolução do dinheiro, garantia de resultado) para que o cliente não tenha nada a perder." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O risco percebido é o maior obstáculo para a compra.",
+        "hint": "Obstáculo.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra quando o risco é zero."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Otimizando a Conversão (Garantias e Prova Social)",
+    "teaser": "🔬 Como fazer mais dinheiro sem gastar em tráfego? Descubra o laboratório de testes A/B que transforma cliques em clientes e maximiza o lucro.",
+    "level1": "A Otimização da Conversão (CRO) é a arte de aumentar a porcentagem de visitantes que realizam a ação desejada (comprar, se inscrever). É um processo contínuo de Teste A/B focado em maximizar o ROI sem aumentar o investimento em tráfego.",
+    "level2": "Otimizar é testar continuamente a **Headline, o Call to Action e, principalmente, a Força da Garantia** (Risk Reversal). Uma pequena mudança no botão de compra ou no título pode ter um impacto massivo no resultado final.",
+    "level3": "A chave é remover o atrito e aumentar a confiança. A **Simplicidade** no processo de compra e a apresentação de **Prova Social Esmagadora** (muitos depoimentos) são cruciais para reduzir o medo do cliente e aumentar a taxa de conversão.",
+    "recapitulation": [
+      "CRO = Mais resultados com o mesmo tráfego (eficiência).",
+      "Ferramenta Principal: **Teste A/B** (compare duas versões).",
+      "Fatores de Otimização: Título, CTA, e Força da Garantia.",
+      "Garantia de Resultado: A forma mais forte de remover o risco.",
+      "Simplicidade: Menos cliques e atrito no processo de compra.",
+      "Prova Social Esmagadora: Elimina a dúvida e constrói credibilidade.",
+      "Não pare de otimizar: O mercado está sempre mudando."
+    ],
+    "practicalChecklist": [
+      "🧪 **Execute o Teste A/B da Garantia**: Teste sua garantia atual contra uma garantia de resultado mais forte ou de maior duração.",
+      "🔀 **Teste o CTA**: Compare um CTA focado na ação ('Compre Agora') contra um focado no benefício ('Quero Minha Liberdade Financeira').",
+      "📊 **Monitore o 'Elo Mais Fraco'**: Identifique o ponto do seu funil com a menor taxa de conversão (ex: Landing Page ou Checkout) e concentre seus testes ali.",
+      "⭐ **Colete Mais Prova Social**: Crie um sistema para coletar 10-20 depoimentos em vídeo ou texto e os espalhe pela página de vendas.",
+      "🖱️ **Simplifique o Checkout**: Remova campos desnecessários no formulário de compra (a complexidade mata a conversão)."
+    ],
+    "conclusionMessage": "A otimização da conversão é um processo contínuo de teste e refinamento, focado em maximizar a taxa de leads que se tornam clientes.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo da Otimização da Conversão (CRO)?",
+        "options": [
+          { "value": "a", "label": "Aumentar o tráfego." },
+          { "value": "b", "label": "Aumentar a porcentagem de leads que realizam a ação desejada (ex: comprar, se inscrever)." },
+          { "value": "c", "label": "Reduzir o preço." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "CRO é sobre eficiência: obter mais resultados com o mesmo tráfego.",
+        "hint": "Eficiência.",
+        "correctAnswer": "b",
+        "bookExample": "Um aumento de 1% na conversão pode dobrar seu lucro."
+      },
+      {
+        "id": "2",
+        "question": "O que é uma 'Garantia de Resultado'?",
+        "options": [
+          { "value": "a", "label": "Garantia de que o produto será entregue." },
+          { "value": "b", "label": "Uma promessa de que o cliente alcançará um resultado específico (ex: 'Se você não perder 5kg, devolvemos seu dinheiro')." },
+          { "value": "c", "label": "Garantia de 30 dias." },
+          { "value": "d", "label": "Garantia de preço baixo." }
+        ],
+        "explanation": "A garantia de resultado é a forma mais forte de remover o risco.",
+        "hint": "Promessa de resultado.",
+        "correctAnswer": "b",
+        "bookExample": "Uma garantia de resultado é a prova de que você confia no seu produto."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Prova Social' (Testemunhos) na página de vendas?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Aumenta a credibilidade e a confiança, mostrando que a solução funciona para outros." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A prova social é o maior fator de conversão.",
+        "hint": "Credibilidade.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas não confiam em você. Elas confiam em outras pessoas."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Teste A/B' na CRO?",
+        "options": [
+          { "value": "a", "label": "Testar dois produtos diferentes." },
+          { "value": "b", "label": "Comparar duas versões de uma página (A e B) para ver qual tem a melhor taxa de conversão." },
+          { "value": "c", "label": "Testar dois preços diferentes." },
+          { "value": "d", "label": "Testar dois canais de mídia." }
+        ],
+        "explanation": "O teste contínuo é a chave para a otimização.",
+        "hint": "Comparação.",
+        "correctAnswer": "b",
+        "bookExample": "Teste, teste, teste. O mercado é o juiz final."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de ter uma 'Garantia Fraca'?",
+        "options": [
+          { "value": "a", "label": "O cliente compra mais rápido." },
+          { "value": "b", "label": "O cliente percebe o risco e a conversão cai, pois ele tem medo de perder dinheiro." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "O risco percebido é o maior obstáculo para a compra.",
+        "hint": "Risco percebido.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra quando o risco é zero."
+      },
+      {
+        "id": "6",
+        "question": "O que é um 'Call to Action' (CTA) de alta conversão?",
+        "options": [
+          { "value": "a", "label": "Uma frase vaga como 'Clique Aqui'." },
+          { "value": "b", "label": "Uma frase que destaca o benefício e a urgência (ex: 'Quero Dobrar Meus Leads Agora!')." },
+          { "value": "c", "label": "O nome da sua empresa." },
+          { "value": "d", "label": "Um preço." }
+        ],
+        "explanation": "O CTA deve ser focado no benefício que o cliente obterá.",
+        "hint": "Benefício e urgência.",
+        "correctAnswer": "b",
+        "bookExample": "O CTA deve ser irresistível."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Simplicidade' na página de vendas?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "A página deve ser fácil de ler e o processo de compra deve ser o mais simples possível (menos cliques)." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A complexidade mata a conversão.",
+        "hint": "Menos cliques.",
+        "correctAnswer": "b",
+        "bookExample": "A complexidade é o inimigo da execução."
+      },
+      {
+        "id": "8",
+        "question": "O que significa 'Focar na Transformação' na página de vendas?",
+        "options": [
+          { "value": "a", "label": "Focar no processo de entrega." },
+          { "value": "b", "label": "Usar a mensagem para pintar uma imagem clara do 'Antes' (dor) e do 'Depois' (solução)." },
+          { "value": "c", "label": "Focar no preço." },
+          { "value": "d", "label": "Focar na tecnologia." }
+        ],
+        "explanation": "A transformação é o que o cliente realmente compra.",
+        "hint": "Antes e Depois.",
+        "correctAnswer": "b",
+        "bookExample": "Venda a transformação, não o produto."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o papel da 'Escassez' na CRO?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Motiva a ação imediata, pois o cliente teme perder a oportunidade (Aversão à Perda)." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A escassez (limite de tempo ou quantidade) é um gatilho mental poderoso.",
+        "hint": "Aversão à Perda.",
+        "correctAnswer": "b",
+        "bookExample": "O medo da perda é duas vezes mais poderoso que a alegria do ganho."
+      },
+      {
+        "id": "10",
+        "question": "O que é 'Otimização de Funil'?",
+        "options": [
+          { "value": "a", "label": "Focar apenas na página de vendas." },
+          { "value": "b", "label": "Otimizar cada etapa do funil (Lead Magnet, Tripwire, Oferta Principal) para maximizar a conversão em cada ponto." },
+          { "value": "c", "label": "Focar apenas no tráfego." },
+          { "value": "d", "label": "Focar apenas no preço." }
+        ],
+        "explanation": "O funil é uma cadeia. O elo mais fraco determina a força total.",
+        "hint": "Cadeia.",
+        "correctAnswer": "b",
+        "bookExample": "Otimize o funil inteiro, não apenas uma parte."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Over-Delivery e a Experiência do Cliente (Fase Depois)",
+    "teaser": "🤩 Chegou a Fase Depois! Aprenda a entregar mais do que o prometido para transformar clientes satisfeitos em fãs leais e promotores da sua marca.",
+    "level1": "A Fase Depois começa após a venda e se concentra em maximizar o **Valor Vitalício do Cliente (LTV)**. O primeiro passo é o **Over-Delivery**: entregar um valor superior ao esperado, criando uma experiência 'UAU' que solidifica a lealdade.",
+    "level2": "O Over-Delivery não precisa ser caro (ex: um acompanhamento pessoal, um bônus inesperado, um recurso extra). O objetivo é **Superar as Expectativas** e fazer o cliente se sentir que fez um ótimo negócio.",
+    "level3": "Focar na experiência é a chave para reduzir o **Churn Rate** (Taxa de Cancelamento) e aumentar a retenção. O **Sucesso do Cliente** é o seu sucesso: você deve garantir que ele use o produto e alcance o resultado prometido, mesmo que exija suporte extra.",
+    "recapitulation": [
+      "Fase Depois = Foco em **LTV** (Valor Vitalício do Cliente).",
+      "Over-Delivery = Entregar mais do que o prometido (Experiência 'UAU').",
+      "Objetivo: Transformar Clientes em **Evangelistas** (o boca a boca é o melhor marketing).",
+      "Comunicação Pós-Venda: Mantenha o cliente engajado com valor contínuo.",
+      "Foco no **Sucesso do Cliente**: Garanta que ele alcance o resultado, não apenas use o produto.",
+      "Reduzir o **Churn Rate** é o caminho mais rápido para aumentar o LTV."
+    ],
+    "practicalChecklist": [
+      "💌 **Crie um E-mail de 'Bônus Surpresa'**: Envie um recurso valioso e inesperado uma semana após a compra (Over-Delivery simples).",
+      "📞 **Ligue para os Primeiros 10 Clientes**: Peça feedback ativo e garanta que eles estão usando o produto corretamente (Personalização e Sucesso do Cliente).",
+      "📊 **Monitore a Taxa de Churn**: Calcule quantos clientes você está perdendo por mês e identifique o motivo (Feedback Ativo).",
+      "🥳 **Comemore o Sucesso do Cliente**: Tenha um processo para reconhecer (e pedir depoimentos) quando um cliente atinge um marco de sucesso.",
+      "🔄 **Crie Conteúdo de Retenção**: Envie tutoriais e dicas por e-mail para garantir que eles continuem usando o produto."
+    ],
+    "conclusionMessage": "A Fase Depois começa com Over-Delivery, superando as expectativas do cliente para transformá-lo em um fã leal e promotor.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo do Over-Delivery?",
+        "options": [
+          { "value": "a", "label": "Reduzir o preço." },
+          { "value": "b", "label": "Criar uma experiência 'UAU' que gera lealdade, referências e aumenta o LTV." },
+          { "value": "c", "label": "Aumentar o número de leads." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O Over-Delivery é o motor da Fase Depois.",
+        "hint": "Experiência 'UAU'.",
+        "correctAnswer": "b",
+        "bookExample": "O Over-Delivery é o que transforma clientes em evangelistas."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'LTV' (Lifetime Value) na Fase Depois?",
+        "options": [
+          { "value": "a", "label": "O preço do produto." },
+          { "value": "b", "label": "O lucro total que você espera obter de um cliente durante todo o relacionamento com sua empresa." },
+          { "value": "c", "label": "O custo de aquisição de cliente." },
+          { "value": "d", "label": "O número de referências." }
+        ],
+        "explanation": "O LTV é a métrica mais importante da Fase Depois, pois determina o quanto você pode gastar para adquirir um cliente.",
+        "hint": "Lucro total.",
+        "correctAnswer": "b",
+        "bookExample": "Quem pode gastar mais para adquirir um cliente, vence."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Personalização' na experiência do cliente?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Faz o cliente se sentir valorizado e único, fortalecendo a lealdade." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "Pequenos toques pessoais (ex: um e-mail escrito à mão) têm um grande impacto.",
+        "hint": "Valorização.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas não se importam com o quanto você sabe, até saberem o quanto você se importa."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Churn Rate' (Taxa de Cancelamento)?",
+        "options": [
+          { "value": "a", "label": "O número de novos clientes." },
+          { "value": "b", "label": "A porcentagem de clientes que param de usar seu produto ou serviço em um determinado período." },
+          { "value": "c", "label": "O lucro por cliente." },
+          { "value": "d", "label": "O custo de aquisição." }
+        ],
+        "explanation": "Reduzir o Churn Rate é crucial para aumentar o LTV.",
+        "hint": "Perda de clientes.",
+        "correctAnswer": "b",
+        "bookExample": "Um buraco no balde (Churn) drena todo o seu lucro."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Não Fazer Over-Delivery'?",
+        "options": [
+          { "value": "a", "label": "O cliente compra mais rápido." },
+          { "value": "b", "label": "O cliente fica satisfeito, mas não leal, e não se torna um promotor da sua marca." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "A satisfação é o mínimo. A lealdade é o objetivo.",
+        "hint": "Lealdade.",
+        "correctAnswer": "b",
+        "bookExample": "A satisfação é o que eles esperam. A lealdade é o que você entrega."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Focar no Sucesso do Cliente'?",
+        "options": [
+          { "value": "a", "label": "Focar no seu próprio lucro." },
+          { "value": "b", "label": "Garantir que o cliente use o produto e alcance o resultado prometido, mesmo que exija suporte extra." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O sucesso do cliente é o motor da Fase Depois.",
+        "hint": "Resultado.",
+        "correctAnswer": "b",
+        "bookExample": "Seu sucesso é o sucesso do seu cliente."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Comunicação Pós-Venda'?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Manter o cliente engajado, fornecer valor contínuo e garantir que ele esteja usando o produto corretamente." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A comunicação contínua é a chave para a retenção.",
+        "hint": "Retenção.",
+        "correctAnswer": "b",
+        "bookExample": "O relacionamento não termina na venda. Ele começa."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Feedback Ativo' na Fase Depois?",
+        "options": [
+          { "value": "a", "label": "Esperar que o cliente reclame." },
+          { "value": "b", "label": "Buscar ativamente o feedback do cliente sobre a experiência e o produto para identificar pontos de melhoria." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar no preço." }
+        ],
+        "explanation": "O feedback ativo ajuda a reduzir o Churn Rate.",
+        "hint": "Melhoria contínua.",
+        "correctAnswer": "b",
+        "bookExample": "O feedback é o café da manhã dos campeões."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Ignorar o Cliente Existente'?",
+        "options": [
+          { "value": "a", "label": "Você economiza dinheiro." },
+          { "value": "b", "label": "Você perde a oportunidade de Upsell/Cross-Sell e aumenta o Churn Rate, reduzindo drasticamente o LTV." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "É muito mais fácil vender para quem já comprou.",
+        "hint": "Venda fácil.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro está no back-end."
+      },
+      {
+        "id": "10",
+        "question": "O que significa 'Transformar o Cliente em Evangelista'?",
+        "options": [
+          { "value": "a", "label": "Ele compra mais." },
+          { "value": "b", "label": "Ele promove ativamente sua marca para amigos e colegas (Referência)." },
+          { "value": "c", "label": "Ele te dá feedback." },
+          { "value": "d", "label": "Ele te segue nas mídias sociais." }
+        ],
+        "explanation": "O evangelista é o motor do Sistema de Referência.",
+        "hint": "Promoção ativa.",
+        "correctAnswer": "b",
+        "bookExample": "O melhor marketing é o boca a boca."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Upsell e Cross-Sell (Maximizando o Valor da Transação)",
+    "teaser": "💰 Quer aumentar o lucro sem gastar em tráfego? Descubra o segredo do McDonald's e da Amazon para fazer o cliente comprar mais no checkout.",
+    "level1": "Upsell e Cross-Sell são táticas para aumentar o **Valor Médio da Transação (AOV)** e o LTV. É muito mais fácil vender para quem já comprou do que adquirir um novo cliente.",
+    "level2": "**Upsell** é oferecer uma versão premium, mais cara ou com mais recursos do produto que o cliente já está comprando (ex: 'Você quer a versão Pro?'). **Cross-Sell** é oferecer um produto complementar (ex: 'Você quer as brocas para a sua furadeira?').",
+    "level3": "O **momento ideal** é imediatamente após a compra principal, na página de 'Obrigado' ou 'Checkout'. O cliente já está no 'modo de compra' e a resistência psicológica à transação é baixa. As ofertas devem ser **altamente relevantes** para o produto principal.",
+    "recapitulation": [
+      "Upsell/Cross-Sell = Aumento do **AOV** (Valor Médio da Transação).",
+      "Upsell: Venda a versão premium (mais cara).",
+      "Cross-Sell: Venda produtos complementares (acessórios).",
+      "Momento Ideal: Imediatamente após a compra principal (cliente em 'modo de compra').",
+      "As ofertas devem ser **relevantes** (Segmentação).",
+      "Downsell: Ofereça uma alternativa mais barata se o Upsell/Cross-Sell for recusado.",
+      "Não fazer Upsell/Cross-Sell é **deixar dinheiro na mesa**."
+    ],
+    "practicalChecklist": [
+      "🛒 **Mapeie suas Ofertas de Back-End**: Liste 2 Upsells e 2 Cross-Sells para seu produto principal.",
+      "⚡ **Crie uma Oferta de '1 Clique'**: Configure a página de checkout para que o cliente possa adicionar a oferta de Upsell/Cross-Sell com apenas um clique.",
+      "💡 **Foque no Benefício Adicional**: A oferta de Upsell deve destacar como ela resolve o problema de forma mais rápida/fácil/completa.",
+      "📉 **Mapeie um Downsell Pós-Rejeição**: Se o cliente disser 'Não' ao Upsell principal, apresente uma oferta de menor valor.",
+      "📈 **Calcule o AOV**: Rastreie o quanto, em média, cada cliente gasta por transação para otimizar as ofertas de Upsell/Cross-Sell."
+    ],
+    "conclusionMessage": "Upsell e Cross-Sell são as formas mais rápidas de aumentar o LTV, oferecendo produtos complementares ou versões premium no momento certo.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo do Upsell e Cross-Sell?",
+        "options": [
+          { "value": "a", "label": "Reduzir o preço." },
+          { "value": "b", "label": "Aumentar o Valor Médio da Transação (AOV) e o LTV." },
+          { "value": "c", "label": "Aumentar o número de leads." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "É a forma mais rápida de aumentar a receita sem adquirir novos clientes.",
+        "hint": "Receita rápida.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro está no back-end."
+      },
+      {
+        "id": "2",
+        "question": "O que é 'Upsell'?",
+        "options": [
+          { "value": "a", "label": "Vender um produto diferente." },
+          { "value": "b", "label": "Oferecer uma versão premium, mais cara ou com mais recursos do produto que o cliente já está comprando." },
+          { "value": "c", "label": "Oferecer um produto gratuito." },
+          { "value": "d", "label": "Oferecer um desconto." }
+        ],
+        "explanation": "O Upsell capitaliza o 'modo de compra' do cliente.",
+        "hint": "Versão premium.",
+        "correctAnswer": "b",
+        "bookExample": "Sempre ofereça a versão mais cara primeiro."
+      },
+      {
+        "id": "3",
+        "question": "O que é 'Cross-Sell'?",
+        "options": [
+          { "value": "a", "label": "Oferecer um produto mais barato." },
+          { "value": "b", "label": "Oferecer um produto complementar que melhora a experiência ou o resultado do produto principal." },
+          { "value": "c", "label": "Oferecer um desconto." },
+          { "value": "d", "label": "Oferecer uma garantia." }
+        ],
+        "explanation": "O Cross-Sell adiciona valor ao ecossistema do cliente.",
+        "hint": "Complemento.",
+        "correctAnswer": "b",
+        "bookExample": "Se você vende a furadeira, venda as brocas."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o momento ideal para fazer uma oferta de Upsell/Cross-Sell?",
+        "options": [
+          { "value": "a", "label": "Antes da compra." },
+          { "value": "b", "label": "Imediatamente após a compra principal (na página de checkout ou de agradecimento)." },
+          { "value": "c", "label": "Um mês depois." },
+          { "value": "d", "label": "Quando o cliente reclama." }
+        ],
+        "explanation": "O cliente está no 'modo de compra' e a resistência é baixa.",
+        "hint": "Modo de compra.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente que acabou de comprar é o mais propenso a comprar novamente."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Não Fazer Upsell/Cross-Sell'?",
+        "options": [
+          { "value": "a", "label": "O cliente fica mais satisfeito." },
+          { "value": "b", "label": "Você deixa dinheiro na mesa e perde a oportunidade de aumentar o LTV e o ROI." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "Maximizar o valor da transação é crucial para a lucratividade.",
+        "hint": "Lucratividade.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está fazendo Upsell, você está perdendo dinheiro."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Focar no Benefício Adicional' na oferta de Upsell?",
+        "options": [
+          { "value": "a", "label": "Focar no preço mais alto." },
+          { "value": "b", "label": "Destacar como a versão premium resolve o problema de forma mais rápida, fácil ou completa." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O cliente só compra o Upsell se o valor adicional for claro.",
+        "hint": "Valor adicional.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só compra o Upsell se o benefício for óbvio."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Segmentação' no Upsell/Cross-Sell?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Garantir que as ofertas de Upsell/Cross-Sell sejam altamente relevantes para o produto que o cliente acabou de comprar." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A relevância é a chave para a conversão.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "Não ofereça carne para um vegetariano."
+      },
+      {
+        "id": "8",
+        "question": "O que é um 'Funil de Vendas' eficaz na Fase Depois?",
+        "options": [
+          { "value": "a", "label": "Um único produto." },
+          { "value": "b", "label": "Uma sequência de ofertas (Tripwire, Oferta Principal, Upsell, Cross-Sell) que maximiza o valor do cliente." },
+          { "value": "c", "label": "Um preço baixo." },
+          { "value": "d", "label": "Um site bonito." }
+        ],
+        "explanation": "O funil de vendas é a estrutura para maximizar o LTV.",
+        "hint": "Estrutura.",
+        "correctAnswer": "b",
+        "bookExample": "O funil de vendas é o seu mapa para o lucro."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Fazer Upsell/Cross-Sell Agressivamente'?",
+        "options": [
+          { "value": "a", "label": "O cliente compra mais rápido." },
+          { "value": "b", "label": "O cliente se sente manipulado e a confiança é quebrada, levando ao Churn." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "O foco deve ser em dar valor, não em forçar a venda.",
+        "hint": "Valor vs. Força.",
+        "correctAnswer": "b",
+        "bookExample": "Seja um fazendeiro, não um caçador."
+      },
+      {
+        "id": "10",
+        "question": "O que significa 'Downsell' na Fase Depois?",
+        "options": [
+          { "value": "a", "label": "Uma oferta mais cara." },
+          { "value": "b", "label": "Uma oferta de preço mais baixo, feita se o cliente recusar o Upsell, para garantir que ele compre algo adicional." },
+          { "value": "c", "label": "Um bônus." },
+          { "value": "d", "label": "Uma garantia." }
+        ],
+        "explanation": "O Downsell garante que você maximize o valor da transação, mesmo que com um lucro menor.",
+        "hint": "Lucro menor.",
+        "correctAnswer": "b",
+        "bookExample": "O objetivo é sempre maximizar o valor da transação."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Frequência de Compra (Retenção e Comunicação Contínua)",
+    "teaser": "🔁 O cliente sumiu? Mantenha o contato vivo! Descubra como garantir que você seja a primeira opção na mente do seu cliente na hora da próxima compra.",
+    "level1": "A Frequência de Compra é a métrica que mede quantas vezes um cliente compra de você. Aumentá-la é crucial para o LTV e é resultado da **Comunicação Contínua** e da relevância.",
+    "level2": "Seu cliente não deve esquecer de você. Use o e-mail marketing para manter o relacionamento vivo, fornecendo valor contínuo (dicas, tutoriais, novidades) e fazendo ofertas relevantes com base na **Segmentação** do que ele já comprou.",
+    "level3": "O risco de 'Não Manter o Contato' é que o cliente esquece de você e compra do concorrente quando o problema surgir novamente. Use a **Pesquisa de Satisfação** para identificar clientes insatisfeitos (risco de Churn) e clientes satisfeitos (oportunidade de referência).",
+    "recapitulation": [
+      "Frequência = Quantas vezes o cliente compra (Pilar do LTV).",
+      "A Comunicação deve ser **Contínua** (Consistência).",
+      "O cliente é o alvo mais lucrativo (Mais fácil vender para quem já comprou).",
+      "Relevância: Use a **Segmentação** para enviar ofertas alinhadas com o histórico de compra.",
+      "Re-engajamento: Crie estratégias para reativar clientes 'dorminhocos'.",
+      "Pesquisa de Satisfação: Essencial para identificar Churn e oportunidades de Upsell/Referência."
+    ],
+    "practicalChecklist": [
+      "📅 **Crie um Calendário de Comunicação Pós-Venda**: Envie valor (dicas, guias) pelo menos 2 vezes por mês para clientes existentes.",
+      "😴 **Mapeie a Campanha de Re-engajamento**: Crie uma sequência de e-mails para clientes que não compram há 90 dias (ex: com um 'desconto especial').",
+      "📊 **Faça Pesquisas Pós-Compra**: Use NPS (Net Promoter Score) ou pesquisas simples para medir a satisfação e identificar promotores.",
+      "🔄 **Ofereça Programas de Assinatura/Recorrência**: Se possível, crie ofertas que gerem receita previsível (Frequência garantida).",
+      "🎯 **Segmentação de Ofertas**: Nunca envie uma oferta de 'Produto A' para quem já comprou o 'Produto A'. Envie o 'Produto B' (Cross-Sell)."
+    ],
+    "conclusionMessage": "Aumentar a frequência de compra é sobre manter o cliente engajado e satisfeito, garantindo que ele volte a comprar de você.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo de aumentar a Frequência de Compra?",
+        "options": [
+          { "value": "a", "label": "Reduzir o preço." },
+          { "value": "b", "label": "Aumentar o Valor Vitalício do Cliente (LTV) e a receita sem adquirir novos clientes." },
+          { "value": "c", "label": "Aumentar o número de leads." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "A frequência é um dos três pilares do LTV (Valor Médio, Frequência, Retenção).",
+        "hint": "LTV.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro está no back-end."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Comunicação Contínua' na Fase Depois?",
+        "options": [
+          { "value": "a", "label": "Fazer ligações diárias." },
+          { "value": "b", "label": "Manter o cliente engajado através de e-mail marketing, conteúdo de valor e ofertas relevantes." },
+          { "value": "c", "label": "Focar apenas em vendas." },
+          { "value": "d", "label": "Focar em tecnologia." }
+        ],
+        "explanation": "A consistência é a chave para a retenção.",
+        "hint": "Consistência.",
+        "correctAnswer": "b",
+        "bookExample": "O relacionamento não termina na venda. Ele começa."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel do 'Over-Delivery' na Frequência de Compra?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Cria lealdade e satisfação, tornando o cliente mais propenso a comprar novamente." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A lealdade é o motor da frequência.",
+        "hint": "Lealdade.",
+        "correctAnswer": "b",
+        "bookExample": "O Over-Delivery é o que transforma clientes em evangelistas."
+      },
+      {
+        "id": "4",
+        "question": "O que é 'Segmentação de Clientes' na Fase Depois?",
+        "options": [
+          { "value": "a", "label": "Tratar todos os clientes da mesma forma." },
+          { "value": "b", "label": "Dividir os clientes em grupos com base em seu comportamento de compra para enviar ofertas e comunicações mais relevantes." },
+          { "value": "c", "label": "Focar apenas em clientes novos." },
+          { "value": "d", "label": "Focar em tecnologia." }
+        ],
+        "explanation": "A relevância é a chave para a frequência.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "Não ofereça carne para um vegetariano."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Não Manter o Contato' com clientes existentes?",
+        "options": [
+          { "value": "a", "label": "O cliente compra mais rápido." },
+          { "value": "b", "label": "O cliente esquece de você e compra da concorrência quando o problema surgir novamente." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "A memória do cliente é curta. A consistência é crucial.",
+        "hint": "Memória curta.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está na mente do cliente, você está fora do negócio."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Focar no Próximo Problema' na comunicação?",
+        "options": [
+          { "value": "a", "label": "Focar no problema que você já resolveu." },
+          { "value": "b", "label": "Usar a comunicação para identificar e resolver o próximo problema que o cliente enfrentará (levando a um Cross-Sell ou Upsell)." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O relacionamento é contínuo. Sempre há um próximo problema a ser resolvido.",
+        "hint": "Continuidade.",
+        "correctAnswer": "b",
+        "bookExample": "O sucesso do cliente é o seu sucesso."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Pesquisa de Satisfação' na Frequência de Compra?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Identifica clientes insatisfeitos (risco de Churn) e clientes satisfeitos (oportunidade de referência)." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "O feedback ativo é crucial para a retenção.",
+        "hint": "Feedback.",
+        "correctAnswer": "b",
+        "bookExample": "O feedback é o café da manhã dos campeões."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Re-engajamento' na Fase Depois?",
+        "options": [
+          { "value": "a", "label": "Focar em clientes novos." },
+          { "value": "b", "label": "Estratégias para reativar clientes que pararam de comprar ou interagir com sua marca." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar no preço." }
+        ],
+        "explanation": "Reativar clientes é mais barato do que adquirir novos.",
+        "hint": "Reativação.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro está no back-end."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Focar Apenas em Novos Clientes'?",
+        "options": [
+          { "value": "a", "label": "Você economiza dinheiro." },
+          { "value": "b", "label": "Você ignora a fonte mais lucrativa de receita (clientes existentes) e aumenta o CAC." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "Clientes existentes são a base da lucratividade.",
+        "hint": "Lucratividade.",
+        "correctAnswer": "b",
+        "bookExample": "É 5 a 25 vezes mais caro adquirir um novo cliente do que reter um existente."
+      },
+      {
+        "id": "10",
+        "question": "O que significa 'Princípio da Reciprocidade' na Frequência de Compra?",
+        "options": [
+          { "value": "a", "label": "O cliente te dá dinheiro." },
+          { "value": "b", "label": "Ao dar valor contínuo (Over-Delivery), o cliente se sente obrigado a retribuir, comprando novamente." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "A reciprocidade é um gatilho mental poderoso.",
+        "hint": "Obrigação.",
+        "correctAnswer": "b",
+        "bookExample": "Dê valor primeiro. A venda virá depois."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Sistema de Referência (Transformando Clientes em Promotores)",
+    "teaser": "🗣️ Pare de pagar por publicidade! Descubra como criar um sistema que faz seus clientes mais felizes trazerem novos leads com a confiança já estabelecida.",
+    "level1": "O Sistema de Referência é a forma mais barata e eficaz de adquirir novos clientes, pois o **Lead de Referência** já chega com a confiança estabelecida (a confiança é a moeda da negociação).",
+    "level2": "Você não deve esperar por referências. Você deve **Pedir Ativamente** por elas no **Pico de Satisfação** do cliente (após o Over-Delivery ou quando ele obtiver um grande resultado).",
+    "level3": "O sistema deve **Recompensar Ambas as Partes** (quem indica e o novo cliente), maximizando a motivação. A **Simplicidade** é crucial: o processo de indicação deve ser o mais fácil possível (ex: um link de afiliado ou um formulário simples).",
+    "recapitulation": [
+      "Sistema de Referência = **CAC Zero** (Custo de Aquisição Zero/Baixo).",
+      "O Lead de Referência tem **alta taxa de conversão** (Confiança Pré-Estabelecida).",
+      "Peça a Referência **Ativamente** (não espere que aconteça).",
+      "Momento Ideal: Pico de Satisfação (pós-resultado, pós-Over-Delivery).",
+      "Recompense quem indica e o novo cliente (**Ganho Duplo**).",
+      "Simplicidade: O processo de indicação deve ser super fácil.",
+      "O Over-Delivery é o **Motor** que cria a vontade de indicar."
+    ],
+    "practicalChecklist": [
+      "🎁 **Crie seu Incentivo Duplo**: Defina a recompensa para o cliente que indica e o novo cliente (ex: desconto, bônus exclusivo).",
+      "⏱️ **Automatize o Pedido**: Configure um e-mail automático para solicitar a referência 7 dias após o cliente atingir um marco de sucesso (ou após a conclusão do Over-Delivery).",
+      "🔗 **Crie um Link/Formulário Simples**: Torne o processo de indicação de 1 clique ou 1 formulário.",
+      "⭐ **Identifique os Promotores (NPS)**: Use a Pesquisa de Satisfação (NPS) para segmentar quem te daria nota 9 ou 10 e peça a referência apenas a eles.",
+      "📣 **Promova a Prova Social da Referência**: Compartilhe histórias de clientes que indicaram e ganharam benefícios."
+    ],
+    "conclusionMessage": "Um Sistema de Referência é a forma mais barata e eficaz de adquirir novos clientes, transformando clientes satisfeitos em promotores ativos.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal benefício de um Sistema de Referência?",
+        "options": [
+          { "value": "a", "label": "Aumentar o preço." },
+          { "value": "b", "label": "Reduzir o Custo de Aquisição de Cliente (CAC) e aumentar a confiança nos novos leads." },
+          { "value": "c", "label": "Aumentar o número de leads." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O CAC de um cliente por referência é quase zero, e a conversão é alta devido à confiança.",
+        "hint": "CAC e Confiança.",
+        "correctAnswer": "b",
+        "bookExample": "O melhor marketing é o boca a boca."
+      },
+      {
+        "id": "2",
+        "question": "Qual é o momento ideal para pedir uma referência?",
+        "options": [
+          { "value": "a", "label": "Antes da compra." },
+          { "value": "b", "label": "Imediatamente após o cliente obter um grande resultado ou experimentar o Over-Delivery (pico de satisfação)." },
+          { "value": "c", "label": "Quando o cliente reclama." },
+          { "value": "d", "label": "Um mês depois." }
+        ],
+        "explanation": "O pico de satisfação é o momento em que o cliente está mais propenso a promover.",
+        "hint": "Pico de satisfação.",
+        "correctAnswer": "b",
+        "bookExample": "Peça a referência quando o cliente estiver mais feliz."
+      },
+      {
+        "id": "3",
+        "question": "O que significa 'Recompensar Ambas as Partes' no sistema de referência?",
+        "options": [
+          { "value": "a", "label": "Apenas recompensar o cliente que indica." },
+          { "value": "b", "label": "Oferecer um incentivo tanto para o cliente que indica quanto para o novo cliente (ex: desconto, bônus)." },
+          { "value": "c", "label": "Apenas recompensar o novo cliente." },
+          { "value": "d", "label": "Focar em tecnologia." }
+        ],
+        "explanation": "Isso maximiza a motivação para a indicação e a conversão do novo lead.",
+        "hint": "Motivação dupla.",
+        "correctAnswer": "b",
+        "bookExample": "Faça com que a indicação seja um ganha-ganha."
+      },
+      {
+        "id": "4",
+        "question": "Qual é o papel da 'Simplicidade' no Sistema de Referência?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "O processo de indicação deve ser o mais simples e fácil possível (ex: um link de referência)." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A complexidade mata a referência.",
+        "hint": "Menos atrito.",
+        "correctAnswer": "b",
+        "bookExample": "Se for difícil, eles não farão."
+      },
+      {
+        "id": "5",
+        "question": "O que é um 'Lead de Referência'?",
+        "options": [
+          { "value": "a", "label": "Um lead frio." },
+          { "value": "b", "label": "Um lead que chega com a confiança já estabelecida, pois foi indicado por um cliente satisfeito." },
+          { "value": "c", "label": "Um lead que comprou o Tripwire." },
+          { "value": "d", "label": "Um lead que te segue nas mídias sociais." }
+        ],
+        "explanation": "O lead de referência tem uma taxa de conversão muito maior.",
+        "hint": "Confiança pré-estabelecida.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é a moeda da negociação."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Pedir a Referência Ativamente'?",
+        "options": [
+          { "value": "a", "label": "Esperar que aconteça." },
+          { "value": "b", "label": "Ter um processo claro e automatizado para solicitar a indicação em momentos estratégicos." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O marketing de resposta direta exige ação proativa.",
+        "hint": "Proatividade.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não pede, você não recebe."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel do 'Over-Delivery' no Sistema de Referência?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Cria a satisfação e a lealdade necessárias para que o cliente se sinta motivado a indicar." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "O Over-Delivery é o motor da Fase Depois.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "O Over-Delivery é o que transforma clientes em evangelistas."
+      },
+      {
+        "id": "8",
+        "question": "O que é um 'Programa de Afiliados'?",
+        "options": [
+          { "value": "a", "label": "Um sistema de referência manual." },
+          { "value": "b", "label": "Um sistema formalizado que paga comissões a terceiros (afiliados) por cada venda gerada." },
+          { "value": "c", "label": "Um sistema de Upsell." },
+          { "value": "d", "label": "Um sistema de Cross-Sell." }
+        ],
+        "explanation": "O programa de afiliados é uma forma escalável de referência.",
+        "hint": "Escalabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "Use afiliados para escalar seu alcance."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Não Recompensar' as referências?",
+        "options": [
+          { "value": "a", "label": "O cliente compra mais rápido." },
+          { "value": "b", "label": "O cliente perde a motivação para indicar, e o sistema de referência morre." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "A recompensa é o incentivo para a ação.",
+        "hint": "Incentivo.",
+        "correctAnswer": "b",
+        "bookExample": "As pessoas fazem o que são recompensadas por fazer."
+      },
+      {
+        "id": "10",
+        "question": "O que significa 'Focar no Sucesso do Novo Cliente' na referência?",
+        "options": [
+          { "value": "a", "label": "Focar no lucro." },
+          { "value": "b", "label": "Garantir que o novo cliente tenha uma experiência 'UAU' para que ele também se torne um promotor." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O ciclo de referência deve ser contínuo.",
+        "hint": "Ciclo.",
+        "correctAnswer": "b",
+        "bookExample": "O ciclo de referência é o motor do crescimento."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Orquestração e Automação (Otimizando o Funil)",
+    "teaser": "🤖 Quer se demitir do seu negócio? Descubra como usar a automação para que seu plano de marketing de 9 caixas funcione 24/7, de forma consistente e escalável.",
+    "level1": "Orquestração é a arte de usar a tecnologia para que seu funil de 9 caixas funcione de forma **automatizada, consistente e eficiente**. Isso transforma o marketing em um **Sistema** que pode ser escalado sem depender de intervenção manual.",
+    "level2": "A Automação é a chave para a **Escalabilidade**. Ela deve cobrir desde a captura de leads (autoresponder de nutrição) até o pedido de referência. O **CRM** (Customer Relationship Management) é o cérebro que gerencia e rastreia o lead em cada etapa do funil.",
+    "level3": "O risco é a **Automação Excessiva**, onde o toque humano é perdido. Você deve usar a automação para escalar o que funciona (valor e relacionamento), não para automatizar o que não funciona. Mantenha a **Simplicidade** no sistema para evitar falhas de execução.",
+    "recapitulation": [
+      "Orquestração = Automação do Funil (Escalabilidade).",
+      "O funil deve ser seu **vendedor 24/7**.",
+      "CRM = O **Cérebro** que rastreia e segmenta o lead (e aciona a automação).",
+      "Automação garante a **Consistência** (o cliente sempre recebe a mensagem certa no momento certo).",
+      "Automação deve focar em Nutrição, Upsell e Referência.",
+      "Risco: Perder o **Toque Humano** e a Personalização.",
+      "Princípio: Não automatize o que não funciona."
+    ],
+    "practicalChecklist": [
+      "⚙️ **Escolha uma Ferramenta de Automação**: Selecione um CRM/Software de E-mail Marketing que permita a criação de autoresponders (ex: ActiveCampaign, HubSpot).",
+      "🤖 **Automatize o Autoresponder de Nutrição**: Configure a sequência de 5-7 e-mails para serem enviados automaticamente após o Lead Magnet.",
+      "🔗 **Crie Gatilhos Automatizados**: Configure o sistema para mover o lead para a 'Campanha de Vendas' se ele visitar a página de preços 3 vezes.",
+      "✅ **Automatize o Pedido de Referência**: Programe o e-mail de referência para ser enviado após o prazo de Over-Delivery (Lição 14).",
+      "📉 **Monitore o Desengajamento Automatizado**: Configure um processo para 'limpar' automaticamente a lista de leads que não abrem e-mails há 6 meses."
+    ],
+    "conclusionMessage": "A orquestração é a automação de todo o funil de marketing (9 caixas) para garantir que ele funcione de forma consistente e escalável.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo da Orquestração?",
+        "options": [
+          { "value": "a", "label": "Reduzir o preço." },
+          { "value": "b", "label": "Garantir que o funil de marketing funcione de forma consistente, eficiente e escalável." },
+          { "value": "c", "label": "Aumentar o número de leads." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "A automação é a chave para o crescimento sem aumentar a equipe.",
+        "hint": "Escalabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "A automação é a chave para a liberdade."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Funil de Vendas Automatizado'?",
+        "options": [
+          { "value": "a", "label": "Um funil que exige intervenção manual." },
+          { "value": "b", "label": "Um funil onde a transição de Prospecto para Lead, e de Lead para Cliente, é gerenciada por software (ex: e-mail, CRM)." },
+          { "value": "c", "label": "Um funil que foca apenas em vendas." },
+          { "value": "d", "label": "Um funil que foca apenas em Branding." }
+        ],
+        "explanation": "A automação garante que nenhum lead seja esquecido.",
+        "hint": "Consistência.",
+        "correctAnswer": "b",
+        "bookExample": "O funil automatizado é o seu vendedor 24/7."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel do 'CRM' (Customer Relationship Management) na Orquestração?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Gerenciar e rastrear o relacionamento com cada lead e cliente, permitindo a segmentação e a automação de tarefas." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "O CRM é o cérebro da automação.",
+        "hint": "Cérebro.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está usando um CRM, você está perdendo dinheiro."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Princípio da Continuidade' na Orquestração?",
+        "options": [
+          { "value": "a", "label": "Fazer pausas na comunicação." },
+          { "value": "b", "label": "Garantir que o cliente receba valor e ofertas relevantes de forma consistente, mesmo após a compra." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "A consistência é a chave para a retenção e o LTV.",
+        "hint": "Consistência.",
+        "correctAnswer": "b",
+        "bookExample": "A confiança é construída em pequenas doses, consistentemente."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Não Automatizar' o funil?",
+        "options": [
+          { "value": "a", "label": "O cliente compra mais rápido." },
+          { "value": "b", "label": "O funil se torna inconsistente, ineficiente e não escalável, limitando o crescimento." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "A automação é o motor da escalabilidade.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não está automatizando, você está trabalhando demais."
+      },
+      {
+        "id": "6",
+        "question": "O que é 'Segmentação Automatizada'?",
+        "options": [
+          { "value": "a", "label": "Segmentar manualmente." },
+          { "value": "b", "label": "Usar o CRM para segmentar leads e clientes automaticamente com base em seu comportamento e engajamento." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "A segmentação automatizada garante que a mensagem seja relevante.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "A relevância é a chave para a conversão."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Simplicidade' na Orquestração?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "O sistema de automação deve ser o mais simples possível para evitar falhas e garantir a manutenção." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A complexidade mata a automação.",
+        "hint": "Menos complexidade.",
+        "correctAnswer": "b",
+        "bookExample": "A complexidade é o inimigo da execução."
+      },
+      {
+        "id": "8",
+        "question": "O que significa 'Automação de Referência'?",
+        "options": [
+          { "value": "a", "label": "Pedir referências manualmente." },
+          { "value": "b", "label": "Usar o software para solicitar a referência no momento ideal (após a compra ou Over-Delivery)." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar no preço." }
+        ],
+        "explanation": "A automação garante que o pedido de referência seja consistente.",
+        "hint": "Consistência.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não automatiza, você não escala."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Automação Excessiva'?",
+        "options": [
+          { "value": "a", "label": "O cliente compra mais rápido." },
+          { "value": "b", "label": "O cliente se sente como um número, e a personalização e o toque humano são perdidos." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "A automação deve ser usada para escalar o toque humano, não para substituí-lo.",
+        "hint": "Toque humano.",
+        "correctAnswer": "b",
+        "bookExample": "Use a automação para escalar o que funciona, não para automatizar o que não funciona."
+      },
+      {
+        "id": "10",
+        "question": "O que é 'Automação de Upsell/Cross-Sell'?",
+        "options": [
+          { "value": "a", "label": "Fazer ofertas manualmente." },
+          { "value": "b", "label": "Usar o software para fazer ofertas relevantes de Upsell/Cross-Sell no momento ideal (página de checkout, e-mail)." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "A automação maximiza o AOV.",
+        "hint": "AOV.",
+        "correctAnswer": "b",
+        "bookExample": "A automação é a chave para o lucro."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Mensuração e Análise (CAC, LTV e ROI)",
+    "teaser": "📊 Se você não consegue medir, é arte, não marketing! Descubra as 3 métricas de lucro que separam o 'achismo' do crescimento real e escalável.",
+    "level1": "A Mensuração é o coração do marketing de Resposta Direta. Você deve rastrear implacavelmente o **Custo de Aquisição de Cliente (CAC)** e o **Valor Vitalício do Cliente (LTV)** para garantir um **Retorno sobre o Investimento (ROI)** positivo.",
+    "level2": "A métrica mais importante é a **Relação LTV:CAC**. Idealmente, ela deve ser de 3:1 ou mais. Se for 1:1, você está gastando demais. Se for negativa, você está falindo. É a análise dessa relação que permite a Escala.",
+    "level3": "Evite as **Métricas de Vaidade** (likes, visualizações). Concentre-se em métricas de receita (Leads, Taxa de Conversão, CAC, LTV). Use a **Atribuição** para saber exatamente qual canal e anúncio gerou a venda.",
+    "recapitulation": [
+      "Mensuração = Rastreamento Implacável do Lucro.",
+      "Métricas Chave: **CAC** (Custo de Aquisição), **LTV** (Valor Vitalício) e **ROI**.",
+      "Relação Ideal: **LTV:CAC ≥ 3:1**.",
+      "Atribuição: Saiba qual canal/anúncio gerou o lead/venda.",
+      "Erro: Focar em Métricas de Vaidade (não pagam as contas).",
+      "Análise de Cohort: Essencial para rastrear o LTV real de grupos de clientes.",
+      "Ponto de Equilíbrio (Break-Even): O ponto onde a receita iguala o CAC."
+    ],
+    "practicalChecklist": [
+      "🧮 **Calcule Seu CAC por Canal**: Calcule o custo total do marketing dividido pelo número de novos clientes para cada canal (Facebook Ads, Google Ads, etc.).",
+      "💸 **Calcule Seu LTV Médio**: Calcule o lucro médio que um cliente gera durante o relacionamento com sua empresa.",
+      "📈 **Determine a Relação LTV:CAC**: Se for < 3:1, concentre-se na otimização (Lição 19); se for > 3:1, comece a escalar (Lição 17).",
+      "🔗 **Configure a Atribuição (UTMs)**: Use parâmetros UTM para rastrear a origem exata de cada lead no seu CRM.",
+      "❌ **Liste e Ignore Métricas de Vaidade**: Foque apenas nas métricas que impactam diretamente o lucro."
+    ],
+    "conclusionMessage": "A mensuração é o coração do marketing de Resposta Direta. Você deve saber o Custo de Aquisição de Cliente (CAC) e o Valor Vitalício do Cliente (LTV) para calcular o ROI.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a métrica mais importante para determinar a viabilidade do seu marketing?",
+        "options": [
+          { "value": "a", "label": "Tráfego do site." },
+          { "value": "b", "label": "A relação entre LTV (Valor Vitalício do Cliente) e CAC (Custo de Aquisição de Cliente)." },
+          { "value": "c", "label": "Taxa de abertura de e-mail." },
+          { "value": "d", "label": "Número de seguidores nas mídias sociais." }
+        ],
+        "explanation": "A relação LTV:CAC é o indicador de saúde financeira do seu marketing.",
+        "hint": "Saúde financeira.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não sabe seu LTV e CAC, você está jogando no escuro."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'ROI' (Retorno sobre o Investimento) no marketing?",
+        "options": [
+          { "value": "a", "label": "O custo total de marketing." },
+          { "value": "b", "label": "O lucro gerado pelo marketing dividido pelo custo do marketing." },
+          { "value": "c", "label": "O número de leads." },
+          { "value": "d", "label": "O preço do produto." }
+        ],
+        "explanation": "O ROI deve ser positivo para que o marketing seja sustentável.",
+        "hint": "Sustentabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "O único marketing que funciona é o que gera lucro."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Atribuição' na mensuração?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Rastrear qual canal de mídia ou anúncio específico gerou o lead ou a venda." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A atribuição é crucial para calcular o CAC por canal.",
+        "hint": "Rastreamento.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não sabe de onde veio a venda, você não pode escalar o que funciona."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Taxa de Conversão'?",
+        "options": [
+          { "value": "a", "label": "O número de cliques." },
+          { "value": "b", "label": "A porcentagem de pessoas que realizam a ação desejada (ex: de lead para cliente, de clique para lead)." },
+          { "value": "c", "label": "O preço do produto." },
+          { "value": "d", "label": "O número de referências." }
+        ],
+        "explanation": "A taxa de conversão é a métrica de eficiência do funil.",
+        "hint": "Eficiência.",
+        "correctAnswer": "b",
+        "bookExample": "Otimize a conversão para maximizar o lucro."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Focar Apenas em Métricas de Vaidade' (ex: Likes, Visualizações)?",
+        "options": [
+          { "value": "a", "label": "O cliente compra mais rápido." },
+          { "value": "b", "label": "Você gasta dinheiro em ações que não geram receita e ignora as métricas que realmente importam (CAC, LTV)." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "Métricas de vaidade não pagam as contas.",
+        "hint": "Receita.",
+        "correctAnswer": "b",
+        "bookExample": "Métricas de vaidade são como ter um monte de amigos que não te ajudam a se mudar."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Análise de Cohort'?",
+        "options": [
+          { "value": "a", "label": "Analisar todos os clientes juntos." },
+          { "value": "b", "label": "Analisar o comportamento de grupos de clientes que entraram no funil no mesmo período (ex: clientes de janeiro) para rastrear o LTV ao longo do tempo." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "A análise de Cohort é crucial para entender a retenção e o LTV real.",
+        "hint": "Retenção.",
+        "correctAnswer": "b",
+        "bookExample": "O LTV é uma métrica de longo prazo. Use Cohorts para rastreá-lo."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Simplicidade' na Mensuração?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Focar em poucas métricas chave (CAC, LTV, ROI) para evitar a paralisia por análise." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A complexidade mata a mensuração.",
+        "hint": "Foco.",
+        "correctAnswer": "b",
+        "bookExample": "Se você mede tudo, você não mede nada."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Ponto de Equilíbrio' (Break-Even Point)?",
+        "options": [
+          { "value": "a", "label": "O lucro máximo." },
+          { "value": "b", "label": "O ponto em que a receita gerada por um cliente iguala o custo de aquisição (CAC)." },
+          { "value": "c", "label": "O preço do produto." },
+          { "value": "d", "label": "O número de leads." }
+        ],
+        "explanation": "O objetivo é atingir o Ponto de Equilíbrio o mais rápido possível.",
+        "hint": "Custo vs. Receita.",
+        "correctAnswer": "b",
+        "bookExample": "O marketing de resposta direta busca o Ponto de Equilíbrio imediato."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Não Rastrear o LTV'?",
+        "options": [
+          { "value": "a", "label": "Você economiza dinheiro." },
+          { "value": "b", "label": "Você subestima o valor real do cliente e não pode justificar um CAC mais alto para superar a concorrência." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "O LTV é o seu poder de fogo.",
+        "hint": "Poder de fogo.",
+        "correctAnswer": "b",
+        "bookExample": "Quem pode gastar mais para adquirir um cliente, vence."
+      },
+      {
+        "id": "10",
+        "question": "O que significa 'Otimizar o Elo Mais Fraco'?",
+        "options": [
+          { "value": "a", "label": "Otimizar o que já funciona." },
+          { "value": "b", "label": "Identificar a etapa do funil com a menor taxa de conversão e focar os esforços de otimização nela." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O funil é uma cadeia. O elo mais fraco determina a força total.",
+        "hint": "Cadeia.",
+        "correctAnswer": "b",
+        "bookExample": "Otimize o elo mais fraco para obter o maior ganho."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Escalar (Aumentando o Investimento em Canais Lucrativos)",
+    "teaser": "🚀 Encontrou a máquina de fazer dinheiro? Descubra o momento e o jeito certo de injetar mais capital no que funciona sem 'quebrar' o seu sistema.",
+    "level1": "Escalar é o processo de aumentar o investimento nos canais de mídia que comprovadamente geram um **ROI positivo e previsível** (LTV > CAC). Só se escala o que já funciona e é mensurável.",
+    "level2": "O primeiro passo é a **Escala Vertical**: Aumentar o orçamento (volume) nos canais que têm um ROI comprovado. Depois, a **Escala Horizontal**: Expandir para novos canais que podem replicar o sucesso.",
+    "level3": "O risco de 'Escalar Muito Rápido' é que o CAC pode aumentar drasticamente, ou a qualidade do serviço/produto pode cair (levando ao Churn). A **Automação** (Lição 15) é crucial para garantir que o sistema possa lidar com o aumento de volume sem falhas.",
+    "recapitulation": [
+      "Escalar = Investir mais dinheiro onde o **LTV > CAC**.",
+      "Condição Fundamental: Funil de 9 caixas comprovado e automatizado.",
+      "Escala Vertical: Aumentar o orçamento nos canais atuais.",
+      "Escala Horizontal: Expandir para novos canais (com teste!).",
+      "Erro: Mudar a Mensagem ou a Oferta que já está funcionando.",
+      "Automação é o motor da escala (o sistema precisa ser replicável).",
+      "A Escala deve ser baseada em **Fatos, não em esperança**."
+    ],
+    "practicalChecklist": [
+      "📈 **Aumente 10% de Cada Vez**: Aumente o orçamento do seu canal de maior ROI em pequenos incrementos (10-20%) para ver como o CAC reage.",
+      "🔒 **Não Mude a Mensagem Vencedora**: Mantenha a PUV e a Mensagem que trouxeram o ROI positivo (Se não está quebrado, não conserte).",
+      "🧭 **Teste um Novo Canal (Escala Horizontal)**: Use o mesmo Lead Magnet e Mensagem que funcionam para testar um canal de mídia novo com um orçamento pequeno.",
+      "🧑‍🤝‍🧑 **Escale o Sistema de Referência**: Automatize e recompense mais para aumentar o volume de clientes com CAC zero/baixo.",
+      "🛡️ **Monitore a Capacidade de Entrega**: Garanta que sua equipe e sistema possam lidar com o aumento de clientes sem que o Over-Delivery (Lição 11) ou o Suporte falhe."
+    ],
+    "conclusionMessage": "Escalar é o processo de aumentar o investimento nos canais de mídia que comprovadamente geram um ROI positivo (LTV > CAC).",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é a condição fundamental para começar a Escalar?",
+        "options": [
+          { "value": "a", "label": "Ter um produto novo." },
+          { "value": "b", "label": "Ter um funil de 9 caixas comprovado que gera um LTV significativamente maior que o CAC." },
+          { "value": "c", "label": "Ter um preço baixo." },
+          { "value": "d", "label": "Ter muitos seguidores nas mídias sociais." }
+        ],
+        "explanation": "A escalabilidade é baseada em números comprovados.",
+        "hint": "Números comprovados.",
+        "correctAnswer": "b",
+        "bookExample": "Não escale o que não funciona."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Escalar Horizontalmente'?",
+        "options": [
+          { "value": "a", "label": "Aumentar o investimento em um único canal." },
+          { "value": "b", "label": "Expandir para novos canais de mídia que têm o potencial de replicar o sucesso dos canais existentes." },
+          { "value": "c", "label": "Reduzir o preço." },
+          { "value": "d", "label": "Aumentar o preço." }
+        ],
+        "explanation": "A expansão horizontal diversifica o risco.",
+        "hint": "Diversificação.",
+        "correctAnswer": "b",
+        "bookExample": "Não coloque todos os seus ovos na mesma cesta de mídia."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o risco de 'Escalar Muito Rápido'?",
+        "options": [
+          { "value": "a", "label": "O cliente compra mais rápido." },
+          { "value": "b", "label": "O CAC pode aumentar drasticamente, e a qualidade do serviço/produto pode cair, levando ao Churn." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "A escalabilidade deve ser sustentável e controlada.",
+        "hint": "Sustentabilidade.",
+        "correctAnswer": "b",
+        "bookExample": "A escalabilidade é uma maratona, não um sprint."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Escalar Verticalmente'?",
+        "options": [
+          { "value": "a", "label": "Expandir para novos canais." },
+          { "value": "b", "label": "Aumentar o investimento (orçamento) nos canais de mídia que já estão gerando ROI positivo." },
+          { "value": "c", "label": "Reduzir o preço." },
+          { "value": "d", "label": "Aumentar o preço." }
+        ],
+        "explanation": "A expansão vertical é o primeiro passo da escalabilidade.",
+        "hint": "Aumento de orçamento.",
+        "correctAnswer": "b",
+        "bookExample": "Aumente o volume do que funciona."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o papel da 'Automação' na Escala?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Garante que o funil possa lidar com o aumento de volume de leads e clientes sem falhas." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A automação é o motor da escalabilidade.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "Não escale o que não está automatizado."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Manter a Mensagem' durante a Escala?",
+        "options": [
+          { "value": "a", "label": "Mudar a mensagem para atrair novos públicos." },
+          { "value": "b", "label": "Não alterar a Mensagem de Marketing e a PUV que já foram comprovadas como eficazes." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "Mudar o que funciona é o maior erro na escala.",
+        "hint": "O que funciona.",
+        "correctAnswer": "b",
+        "bookExample": "Se não está quebrado, não conserte."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o risco de 'Escalar Canais Não Comprovados'?",
+        "options": [
+          { "value": "a", "label": "Você economiza dinheiro." },
+          { "value": "b", "label": "Você pode desperdiçar grandes quantias de dinheiro em canais que não geram ROI positivo." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "A escalabilidade deve ser baseada em dados.",
+        "hint": "Dados.",
+        "correctAnswer": "b",
+        "bookExample": "A escalabilidade é baseada em fatos, não em esperança."
+      },
+      {
+        "id": "8",
+        "question": "O que é 'Otimização Contínua' na Escala?",
+        "options": [
+          { "value": "a", "label": "Parar de testar." },
+          { "value": "b", "label": "Continuar o Teste A/B e a otimização da conversão (CRO) mesmo durante a escala para manter a eficiência." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar no preço." }
+        ],
+        "explanation": "A otimização é um processo contínuo.",
+        "hint": "Processo contínuo.",
+        "correctAnswer": "b",
+        "bookExample": "Otimize o funil inteiro, não apenas uma parte."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o papel do 'LTV' na Escala?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "O LTV alto permite que você gaste mais para adquirir um cliente, superando a concorrência e escalando mais rápido." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "O LTV é o seu poder de fogo.",
+        "hint": "Poder de fogo.",
+        "correctAnswer": "b",
+        "bookExample": "Quem pode gastar mais para adquirir um cliente, vence."
+      },
+      {
+        "id": "10",
+        "question": "O que significa 'Escalar o Sistema de Referência'?",
+        "options": [
+          { "value": "a", "label": "Pedir referências manualmente." },
+          { "value": "b", "label": "Automatizar o pedido de referência e aumentar as recompensas para incentivar mais indicações." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O sistema de referência é o canal mais lucrativo para escalar.",
+        "hint": "Lucratividade.",
+        "correctAnswer": "b",
+        "bookExample": "O melhor marketing é o boca a boca."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "O Mindset do Marketing de Resposta Direta (Foco no ROI)",
+    "teaser": "🧠 O seu marketing é uma arte ou uma ciência? Adote a mentalidade impiedosa de quem trata cada dólar gasto como um investimento que tem que gerar retorno.",
+    "level1": "O Mindset de Resposta Direta exige que você veja o marketing como um **Investimento**, não como um custo. Seu foco deve ser implacável no **ROI e na Mensurabilidade**. Se não gera lucro, não é marketing.",
+    "level2": "Você deve ser um **Cientista**, baseando todas as decisões em **Dados e Testes A/B**, e não em opiniões, gostos pessoais ou 'achismos'. O mercado é o juiz final.",
+    "level3": "O Mindset é: 1. A **Clareza** precede a Maestria (Simplicidade); 2. Foco no **LTV** (Quem pode gastar mais para adquirir um cliente, vence); 3. O cliente só se importa com o que está no **WIIFM** (What's In It For Me - O que eu ganho com isso?).",
+    "recapitulation": [
+      "Marketing é um **Investimento**, não um custo.",
+      "Foco Implacável no **ROI e Mensurabilidade**.",
+      "Seja um **Cientista**: Teste A/B e Dados vencem a Opinião.",
+      "Branding é para quem tem dinheiro demais para queimar (foco em Resposta Direta).",
+      "Foco no **LTV** (Valor Vitalício), não apenas no lucro imediato.",
+      "Simplicidade: A Claqueza precede a Maestria (O 1PMP).",
+      "Mindset do Cliente: WIIFM (O que eu ganho com isso?)."
+    ],
+    "practicalChecklist": [
+      "🚫 **Elimine a Opinião nas Decisões**: A próxima vez que alguém disser 'Eu acho que devemos fazer...', peça dados de teste (Teste A/B).",
+      "💸 **Mude a Terminologia**: Sempre se refira ao 'Orçamento de Marketing' como 'Investimento em Aquisição de Clientes'.",
+      "👁️ **Revisite o WIIFM**: Analise seus últimos 3 anúncios/e-mails e pergunte: o cliente entenderia imediatamente 'O que eu ganho com isso?'",
+      "🌱 **Seja Paciente no Teste**: Dê tempo e amostra suficiente para os Testes A/B (paciência com o processo).",
+      "🔥 **Seja Impaciente no Resultado**: Se um canal/anúncio não gerar ROI positivo em um prazo razoável, **corte-o**."
+    ],
+    "conclusionMessage": "O Mindset de Resposta Direta exige foco implacável no ROI, tratando o marketing como um investimento, não como um custo.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal foco do Mindset de Resposta Direta?",
+        "options": [
+          { "value": "a", "label": "Criatividade e design." },
+          { "value": "b", "label": "Retorno sobre o Investimento (ROI) e mensurabilidade." },
+          { "value": "c", "label": "Branding e reconhecimento de marca." },
+          { "value": "d", "label": "Métricas de vaidade." }
+        ],
+        "explanation": "O ROI é a única métrica que importa.",
+        "hint": "Lucro.",
+        "correctAnswer": "b",
+        "bookExample": "O único marketing que funciona é o que gera lucro."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Tratar o Marketing como um Investimento'?",
+        "options": [
+          { "value": "a", "label": "Gastar o máximo possível." },
+          { "value": "b", "label": "Esperar um retorno mensurável e positivo para cada dólar gasto." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O marketing deve ser um motor de crescimento, não um dreno de caixa.",
+        "hint": "Motor de crescimento.",
+        "correctAnswer": "b",
+        "bookExample": "O marketing é um investimento, não um custo."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Paciência' no marketing de Resposta Direta?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Ser paciente com o processo de teste e otimização, mas impaciente com a falta de resultados (ROI negativo)." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "O teste leva tempo, mas o resultado deve ser rápido.",
+        "hint": "Teste e resultado.",
+        "correctAnswer": "b",
+        "bookExample": "Seja paciente com o processo, mas impaciente com a inação."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Otimização Contínua' no Mindset?",
+        "options": [
+          { "value": "a", "label": "Parar de testar quando o ROI é positivo." },
+          { "value": "b", "label": "Estar sempre testando e refinando o funil para maximizar o ROI e o LTV." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar no preço." }
+        ],
+        "explanation": "O mercado está sempre mudando. A otimização é contínua.",
+        "hint": "Mudança.",
+        "correctAnswer": "b",
+        "bookExample": "Otimize o funil inteiro, não apenas uma parte."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Focar em Branding' com o Mindset de Resposta Direta?",
+        "options": [
+          { "value": "a", "label": "O cliente compra mais rápido." },
+          { "value": "b", "label": "Você perde o foco no ROI e gasta dinheiro em ações que não geram receita imediata." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "Branding é para grandes corporações. Pequenas empresas precisam de resultados imediatos.",
+        "hint": "Resultados imediatos.",
+        "correctAnswer": "b",
+        "bookExample": "Branding é o que você faz quando tem dinheiro demais para queimar."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Focar no LTV' no Mindset?",
+        "options": [
+          { "value": "a", "label": "Focar no preço do produto." },
+          { "value": "b", "label": "Estar disposto a gastar mais para adquirir um cliente, sabendo que o lucro virá no longo prazo (Fase Depois)." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O LTV é o seu poder de fogo.",
+        "hint": "Poder de fogo.",
+        "correctAnswer": "b",
+        "bookExample": "Quem pode gastar mais para adquirir um cliente, vence."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Simplicidade' no Mindset?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Manter o plano de marketing simples (1PMP) para garantir a execução e o foco nas métricas chave." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A complexidade mata a execução.",
+        "hint": "Execução.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza precede a maestria."
+      },
+      {
+        "id": "8",
+        "question": "O que significa 'Ser um Cientista' no marketing?",
+        "options": [
+          { "value": "a", "label": "Focar em criatividade." },
+          { "value": "b", "label": "Basear todas as decisões em dados e testes (Teste A/B), não em opiniões ou suposições." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar no preço." }
+        ],
+        "explanation": "O mercado é o juiz final. Os dados são a prova.",
+        "hint": "Dados.",
+        "correctAnswer": "b",
+        "bookExample": "O mercado sempre vence."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Não Ter um Plano'?",
+        "options": [
+          { "value": "a", "label": "Você economiza dinheiro." },
+          { "value": "b", "label": "Você gasta dinheiro em ações aleatórias que não se conectam e não geram um funil de vendas consistente." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "O plano é o seu mapa para o lucro.",
+        "hint": "Mapa.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não tem um plano, você está planejando falhar."
+      },
+      {
+        "id": "10",
+        "question": "O que significa 'Focar no Cliente' no Mindset?",
+        "options": [
+          { "value": "a", "label": "Focar no seu próprio lucro." },
+          { "value": "b", "label": "Garantir que cada etapa do funil resolva um problema ou forneça valor para o cliente." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O cliente é o centro do 1PMP.",
+        "hint": "Centro.",
+        "correctAnswer": "b",
+        "bookExample": "O cliente só se importa com o que está no WIIFM (What's In It For Me)."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Revisão e Otimização (O Ciclo de Melhoria Contínua)",
+    "teaser": "🔄 O seu funil não está quebrado, ele só está fora de forma! Aprenda a fazer a 'revisão mecânica' mensal para garantir que sua máquina de lucro rode a 100%.",
+    "level1": "O marketing é um ciclo contínuo de **Construir-Medir-Aprender**. A revisão regular do seu 1PMP é essencial porque o mercado e a concorrência estão sempre mudando. Você deve analisar os dados (CAC, LTV, Taxas de Conversão) para tomar decisões.",
+    "level2": "O foco da revisão é identificar o **Elo Mais Fraco** do seu funil. Um funil é uma cadeia; o elo mais fraco (a etapa com menor taxa de conversão) limita o desempenho de todo o sistema. É ali que o seu esforço de otimização terá o maior impacto (Princípio da Alavancagem).",
+    "level3": "Use a **Análise de Desvio** (comparar o resultado esperado com o real) para localizar o elo fraco. Concentre o **Teste A/B** nessa etapa. **Nunca otimize o que já funciona**. A Revisão deve ser simples e focada nas métricas chave (Simplicidade na Mensuração).",
+    "recapitulation": [
+      "Marketing é um ciclo de **Construir-Medir-Aprender**.",
+      "Foco: Identificar e consertar o **Elo Mais Fraco** do funil.",
+      "Otimizar o Elo Mais Fraco gera o **Maior Ganho** (Princípio da Alavancagem).",
+      "Ferramenta: **Análise de Desvio** (Onde o resultado foi pior que o esperado?).",
+      "Revisão deve ser **Simples** e focar nas métricas de lucro.",
+      "Risco: Otimizar o elo errado ou parar de otimizar.",
+      "A Revisão Contínua é a chave para a **Sobrevivência** no longo prazo."
+    ],
+    "practicalChecklist": [
+      "🗓️ **Agende a 'Revisão Mensal do 1PMP'**: Bloqueie 2 horas na sua agenda para analisar os números do mês.",
+      "🔍 **Identifique o 'Vazamento'**: Use os dados de conversão para localizar o 'Elo Mais Fraco' (ex: visitantes da Landing Page -> Leads, ou Leads -> Tripwire).",
+      "💡 **Crie uma Hipótese de Teste**: Para o elo fraco, crie uma hipótese (ex: 'Se eu mudar o título da Landing Page, a conversão de Lead Magnet aumentará 20%').",
+      "🔬 **Execute um Teste A/B Focado**: Concentre seus recursos de teste nessa única hipótese.",
+      "📈 **Reavalie o LTV:CAC**: Verifique se as ações de Upsell/Referência estão aumentando o LTV e se o CAC está estável ou caindo."
+    ],
+    "conclusionMessage": "O marketing é um ciclo contínuo de Construir-Medir-Aprender. A revisão regular do seu 1PMP é essencial para a sobrevivência e o crescimento.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o principal objetivo da Revisão Contínua?",
+        "options": [
+          { "value": "a", "label": "Mudar o produto." },
+          { "value": "b", "label": "Identificar o 'Elo Mais Fraco' do funil e otimizar para maximizar o ROI." },
+          { "value": "c", "label": "Reduzir o preço." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O elo mais fraco é onde você obtém o maior ganho.",
+        "hint": "Maior ganho.",
+        "correctAnswer": "b",
+        "bookExample": "Otimize o elo mais fraco para obter o maior ganho."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Elo Mais Fraco' no funil?",
+        "options": [
+          { "value": "a", "label": "O produto principal." },
+          { "value": "b", "label": "A etapa do funil com a menor taxa de conversão (ex: Landing Page, Tripwire, Oferta Principal)." },
+          { "value": "c", "label": "O sistema de referência." },
+          { "value": "d", "label": "O e-mail de boas-vindas." }
+        ],
+        "explanation": "O elo mais fraco limita o desempenho de todo o funil.",
+        "hint": "Limitação.",
+        "correctAnswer": "b",
+        "bookExample": "O funil é uma cadeia. O elo mais fraco determina a força total."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel do 'Teste A/B' na Revisão?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "É a ferramenta principal para testar hipóteses de melhoria e validar qual mudança gera o melhor resultado." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "O teste é a base da otimização.",
+        "hint": "Validação.",
+        "correctAnswer": "b",
+        "bookExample": "Teste, teste, teste. O mercado é o juiz final."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Análise de Desvio'?",
+        "options": [
+          { "value": "a", "label": "Analisar o que deu certo." },
+          { "value": "b", "label": "Comparar o desempenho real do funil com o desempenho esperado para identificar onde as coisas deram errado." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar no preço." }
+        ],
+        "explanation": "A análise de desvio é crucial para identificar o elo mais fraco.",
+        "hint": "Onde falhou.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não sabe onde falhou, você não pode consertar."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Não Revisar' o funil regularmente?",
+        "options": [
+          { "value": "a", "label": "O cliente compra mais rápido." },
+          { "value": "b", "label": "O funil se torna obsoleto, o CAC aumenta e o ROI cai, levando à estagnação." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "O mercado está sempre mudando. A otimização é contínua.",
+        "hint": "Estagnação.",
+        "correctAnswer": "b",
+        "bookExample": "O que não é medido, não é gerenciado."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Focar no LTV' na Revisão?",
+        "options": [
+          { "value": "a", "label": "Focar no preço do produto." },
+          { "value": "b", "label": "Garantir que as ações da Fase Depois (Upsell, Referência) estejam maximizando o valor do cliente." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "O LTV é o seu poder de fogo.",
+        "hint": "Poder de fogo.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro está no back-end."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Simplicidade' na Revisão?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Manter o processo de revisão simples e focado nas métricas chave para garantir a execução." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A complexidade mata a execução.",
+        "hint": "Execução.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza precede a maestria."
+      },
+      {
+        "id": "8",
+        "question": "O que significa 'Revisar a Mensagem'?",
+        "options": [
+          { "value": "a", "label": "Mudar a mensagem a cada mês." },
+          { "value": "b", "label": "Garantir que a Mensagem de Marketing e a PUV ainda ressoem com o Mercado Alvo e superem a concorrência." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar no preço." }
+        ],
+        "explanation": "O mercado está sempre mudando. A mensagem deve ser relevante.",
+        "hint": "Relevância.",
+        "correctAnswer": "b",
+        "bookExample": "O mercado sempre vence."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Otimizar o Elo Errado'?",
+        "options": [
+          { "value": "a", "label": "Você economiza dinheiro." },
+          { "value": "b", "label": "Você gasta tempo e recursos em uma área que não terá um impacto significativo no ROI geral do funil." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "O foco deve ser no elo mais fraco.",
+        "hint": "Foco.",
+        "correctAnswer": "b",
+        "bookExample": "Otimize o elo mais fraco para obter o maior ganho."
+      },
+      {
+        "id": "10",
+        "question": "O que significa 'Princípio da Alavancagem' na Revisão?",
+        "options": [
+          { "value": "a", "label": "Focar em pequenas mudanças." },
+          { "value": "b", "label": "Focar os esforços de otimização onde eles terão o maior impacto (o elo mais fraco)." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "A alavancagem é a chave para o crescimento rápido.",
+        "hint": "Maior impacto.",
+        "correctAnswer": "b",
+        "bookExample": "Pequenas mudanças no lugar certo geram grandes resultados."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "O Plano de Marketing de 1 Página: A Máquina de Fazer Dinheiro",
+    "teaser": "💸 Parabéns! Você montou a máquina de fazer dinheiro. Agora, descubra como mantê-la funcionando com previsibilidade e escalá-la ao infinito.",
+    "level1": "O 1PMP completo é uma **Máquina de Marketing Previsível, Lucrativa e Escalável**. A previsibilidade é o resultado da mensuração: saber que, ao investir X, você obtém Y em lucro (LTV > CAC).",
+    "level2": "Seu trabalho final é atuar como o **Mecânico-Chefe** dessa máquina. Se algo quebrar, conserte o elo mais fraco. Se estiver funcionando, encontre formas de escalá-lo (Lição 17) e otimizá-lo (Lição 19).",
+    "level3": "O sucesso empresarial não é um mistério, mas um sistema. A **Simplicidade** garante a execução, a **Mensuração** garante a previsibilidade, e o foco no **Back-End** (Fase Depois) garante o lucro. O resultado final é a **Liberdade Empresarial**.",
+    "recapitulation": [
+      "1PMP Final = Máquina de Marketing **Previsível e Lucrativa**.",
+      "Previsibilidade: Saber que o investimento em marketing retorna lucro (LTV:CAC).",
+      "O Back-End (Fase Depois) é o maior gerador de lucro (**O dinheiro está no back-end**).",
+      "Seu papel é ser o Mecânico/Cientista que otimiza o sistema (Não o 'Faz Tudo').",
+      "Simplicidade é o segredo da execução e da escalabilidade.",
+      "A chave é **Escalar o que funciona** (baseado em dados comprovados).",
+      "O Sistema de Referência é o motor do crescimento viral."
+    ],
+    "practicalChecklist": [
+      "📝 **Preencha Seu 1PMP Final**: Coloque todas as 9 caixas do seu plano em uma única página (Mercado, PUV, Mídia, Lead Magnet, Nutrição, Oferta, Upsell, Frequência, Referência).",
+      "🔍 **Faça o 'Teste do Não-Dono'**: Entregue seu 1PMP e os processos de automação para um funcionário. Ele consegue rodar o negócio sem você?",
+      "💰 **Defina o Limite de Gastos (CAC)**: Com base no seu LTV, defina o CAC máximo que você pode pagar em cada canal (e não gaste mais que isso).",
+      "🛠️ **Crie um Manual do Sistema**: Documente os processos de cada caixa (PUV, Geração de Leads, Sequência de E-mails) para garantir a replicabilidade.",
+      "🥳 **Celebre a Previsibilidade**: Use o LTV:CAC para celebrar o sucesso (Você tem uma máquina de fazer dinheiro!)."
+    ],
+    "conclusionMessage": "O 1PMP é uma máquina de fazer dinheiro automatizada e mensurável. Seu trabalho é garantir que as 9 caixas estejam funcionando e otimizar o LTV:CAC.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Qual é o objetivo final do 1PMP?",
+        "options": [
+          { "value": "a", "label": "Ter um site bonito." },
+          { "value": "b", "label": "Criar uma máquina de marketing previsível, lucrativa e escalável." },
+          { "value": "c", "label": "Focar em Branding." },
+          { "value": "d", "label": "Reduzir o preço." }
+        ],
+        "explanation": "A previsibilidade e a lucratividade são a chave para a liberdade empresarial.",
+        "hint": "Liberdade.",
+        "correctAnswer": "b",
+        "bookExample": "O marketing é um sistema, não um mistério."
+      },
+      {
+        "id": "2",
+        "question": "O que significa 'Previsibilidade' no marketing?",
+        "options": [
+          { "value": "a", "label": "Saber o que o cliente vai comprar." },
+          { "value": "b", "label": "Saber que, ao investir X em marketing, você obterá Y em receita, com uma margem de erro aceitável." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "A previsibilidade é o resultado da mensuração e da otimização.",
+        "hint": "Mensuração.",
+        "correctAnswer": "b",
+        "bookExample": "O marketing deve ser um motor de crescimento previsível."
+      },
+      {
+        "id": "3",
+        "question": "Qual é o papel da 'Simplicidade' na Máquina de Fazer Dinheiro?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Garante que o sistema seja fácil de entender, executar e otimizar." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A complexidade mata a execução.",
+        "hint": "Execução.",
+        "correctAnswer": "b",
+        "bookExample": "A clareza precede a maestria."
+      },
+      {
+        "id": "4",
+        "question": "O que significa 'Focar no LTV:CAC' na Máquina?",
+        "options": [
+          { "value": "a", "label": "Focar no preço do produto." },
+          { "value": "b", "label": "Garantir que a relação entre o valor do cliente e o custo de aquisição seja sempre positiva e crescente." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "A relação LTV:CAC é o indicador de saúde financeira do seu marketing.",
+        "hint": "Saúde financeira.",
+        "correctAnswer": "b",
+        "bookExample": "Se você não sabe seu LTV e CAC, você está jogando no escuro."
+      },
+      {
+        "id": "5",
+        "question": "Qual é o risco de 'Parar de Otimizar' quando o funil está funcionando?",
+        "options": [
+          { "value": "a", "label": "O cliente compra mais rápido." },
+          { "value": "b", "label": "O funil se torna obsoleto, o CAC aumenta e o ROI cai, levando à estagnação." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "O mercado está sempre mudando. A otimização é contínua.",
+        "hint": "Mudança.",
+        "correctAnswer": "b",
+        "bookExample": "O que não é medido, não é gerenciado."
+      },
+      {
+        "id": "6",
+        "question": "O que significa 'Escalar o que Funciona'?",
+        "options": [
+          { "value": "a", "label": "Mudar a mensagem." },
+          { "value": "b", "label": "Aumentar o investimento nos canais de mídia e nas ofertas que comprovadamente geram ROI positivo." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "A escalabilidade é baseada em dados.",
+        "hint": "Dados.",
+        "correctAnswer": "b",
+        "bookExample": "Aumente o volume do que funciona."
+      },
+      {
+        "id": "7",
+        "question": "Qual é o papel da 'Automação' na Máquina?",
+        "options": [
+          { "value": "a", "label": "É irrelevante." },
+          { "value": "b", "label": "Garante que o funil funcione de forma consistente e escalável, sem intervenção manual." },
+          { "value": "c", "label": "Aumentar o preço." },
+          { "value": "d", "label": "Reduzir o tempo de venda." }
+        ],
+        "explanation": "A automação é a chave para a liberdade.",
+        "hint": "Liberdade.",
+        "correctAnswer": "b",
+        "bookExample": "A automação é a chave para a liberdade."
+      },
+      {
+        "id": "8",
+        "question": "O que significa 'Focar no Back-End' na Máquina?",
+        "options": [
+          { "value": "a", "label": "Focar na aquisição de leads." },
+          { "value": "b", "label": "Focar nas ações da Fase Depois (Upsell, Cross-Sell, Referência) que geram o maior lucro." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar no preço." }
+        ],
+        "explanation": "O back-end é onde o dinheiro está.",
+        "hint": "Lucro.",
+        "correctAnswer": "b",
+        "bookExample": "O dinheiro está no back-end."
+      },
+      {
+        "id": "9",
+        "question": "Qual é o risco de 'Não Ter um Sistema de Referência'?",
+        "options": [
+          { "value": "a", "label": "Você economiza dinheiro." },
+          { "value": "b", "label": "Você perde a fonte mais barata e eficaz de novos clientes, limitando a escalabilidade." },
+          { "value": "c", "label": "O preço é muito baixo." },
+          { "value": "d", "label": "O produto é ruim." }
+        ],
+        "explanation": "O sistema de referência é o motor do crescimento.",
+        "hint": "Motor.",
+        "correctAnswer": "b",
+        "bookExample": "O melhor marketing é o boca a boca."
+      },
+      {
+        "id": "10",
+        "question": "O que significa 'Princípio da Alavancagem' na Máquina?",
+        "options": [
+          { "value": "a", "label": "Focar em pequenas mudanças." },
+          { "value": "b", "label": "Focar os esforços de otimização onde eles terão o maior impacto (o elo mais fraco)." },
+          { "value": "c", "label": "Focar em tecnologia." },
+          { "value": "d", "label": "Focar em Branding." }
+        ],
+        "explanation": "A alavancagem é a chave para o crescimento rápido.",
+        "hint": "Maior impacto.",
+        "correctAnswer": "b",
+        "bookExample": "Pequenas mudanças no lugar certo geram grandes resultados."
+      }
+    ]
+  }
+]

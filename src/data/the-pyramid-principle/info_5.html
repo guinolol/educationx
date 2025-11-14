@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketchnote Capítulos 17-20 - Pirâmide de Minto</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Indie+Flower&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #fef9f3;
+            color: #333;
+            font-family: 'Indie Flower', 'Caveat', cursive;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        /* TITLE SECTION */
+        .title-wrapper {
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            border-bottom: 4px solid #00796b;
+        }
+        
+        .chapter-label {
+            display: inline-block;
+            background: #00796b;
+            color: #fff;
+            padding: 12px 24px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .title {
+            font-size: 56px;
+            font-weight: bold;
+            color: #004d40;
+            font-family: 'Caveat', cursive;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        
+        .subtitle {
+            font-size: 26px;
+            color: #00796b;
+            font-style: italic;
+        }
+        
+        /* GRID LAYOUTS */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        /* SECTION */
+        .section {
+            background: #fff;
+            border-left: 6px solid;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }
+        
+        .section-1 { border-left-color: #00796b; }
+        .section-2 { border-left-color: #f57c00; }
+        .section-3 { border-left-color: #c2185b; }
+        .section-4 { border-left-color: #1976d2; }
+        .section-5 { border-left-color: #d32f2f; }
+        
+        .section-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .section-1 .section-title { color: #00796b; }
+        .section-2 .section-title { color: #f57c00; }
+        .section-3 .section-title { color: #c2185b; }
+        .section-4 .section-title { color: #1976d2; }
+        .section-5 .section-title { color: #d32f2f; }
+        
+        .section-emoji {
+            font-size: 32px;
+        }
+        
+        .item {
+            font-size: 15px;
+            line-height: 1.6;
+            color: #555;
+            margin-bottom: 12px;
+        }
+        
+        .item-label {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        /* CHAPTER DIVIDER */
+        .chapter-divider {
+            background: linear-gradient(90deg, #00796b 0%, #004d40 100%);
+            height: 3px;
+            margin: 50px 0;
+            border-radius: 2px;
+        }
+        
+        .chapter-header {
+            font-size: 32px;
+            font-weight: bold;
+            color: #004d40;
+            margin-bottom: 30px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        /* NARRATIVE FLOW */
+        .narrative-box {
+            background: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 100%);
+            border: 4px solid #00796b;
+            border-radius: 12px;
+            padding: 40px;
+            margin-bottom: 40px;
+        }
+        
+        .narrative-title {
+            font-size: 28px;
+            color: #004d40;
+            font-weight: bold;
+            margin-bottom: 25px;
+            font-family: 'Caveat', cursive;
+            text-align: center;
+        }
+        
+        .narrative-flow {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin: 30px 0;
+        }
+        
+        .narrative-step {
+            background: #fff;
+            border: 3px solid #00796b;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            flex: 1;
+            min-width: 120px;
+        }
+        
+        .narrative-icon {
+            font-size: 40px;
+            margin-bottom: 10px;
+        }
+        
+        .narrative-label {
+            font-size: 18px;
+            font-weight: bold;
+            color: #004d40;
+            margin-bottom: 8px;
+        }
+        
+        .narrative-desc {
+            font-size: 14px;
+            color: #666;
+        }
+        
+        .narrative-arrow {
+            font-size: 28px;
+            color: #00796b;
+        }
+        
+        /* LISTS BOX */
+        .lists-box {
+            background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
+            border: 4px solid #f57c00;
+            border-radius: 12px;
+            padding: 40px;
+            margin-bottom: 40px;
+        }
+        
+        .lists-title {
+            font-size: 28px;
+            color: #e65100;
+            font-weight: bold;
+            margin-bottom: 25px;
+            font-family: 'Caveat', cursive;
+            text-align: center;
+        }
+        
+        .list-example {
+            background: #fff;
+            padding: 25px;
+            border-radius: 8px;
+            border-left: 6px solid #f57c00;
+            margin: 15px 0;
+        }
+        
+        .list-label {
+            font-weight: bold;
+            color: #e65100;
+            margin-bottom: 12px;
+        }
+        
+        .list-items {
+            margin-left: 20px;
+            color: #666;
+        }
+        
+        .list-item {
+            margin: 8px 0;
+        }
+        
+        /* TRANSITIONS BOX */
+        .transitions-box {
+            background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+            border: 4px solid #c2185b;
+            border-radius: 12px;
+            padding: 40px;
+            margin-bottom: 40px;
+        }
+        
+        .transitions-title {
+            font-size: 28px;
+            color: #880e4f;
+            font-weight: bold;
+            margin-bottom: 25px;
+            font-family: 'Caveat', cursive;
+            text-align: center;
+        }
+        
+        .transitions-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            margin: 25px 0;
+        }
+        
+        .transition-type {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 4px solid #c2185b;
+        }
+        
+        .transition-type-title {
+            font-weight: bold;
+            color: #880e4f;
+            margin-bottom: 10px;
+            font-size: 16px;
+        }
+        
+        .transition-examples {
+            font-size: 14px;
+            color: #666;
+            line-height: 1.6;
+        }
+        
+        /* REVIEW BOX */
+        .review-box {
+            background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+            border: 4px solid #1976d2;
+            border-radius: 12px;
+            padding: 40px;
+            margin-bottom: 40px;
+        }
+        
+        .review-title {
+            font-size: 28px;
+            color: #0d47a1;
+            font-weight: bold;
+            margin-bottom: 25px;
+            font-family: 'Caveat', cursive;
+            text-align: center;
+        }
+        
+        .review-tests {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            margin: 25px 0;
+        }
+        
+        .test-box {
+            background: #fff;
+            padding: 25px;
+            border-radius: 8px;
+            border-left: 6px solid #1976d2;
+        }
+        
+        .test-name {
+            font-weight: bold;
+            color: #0d47a1;
+            font-size: 18px;
+            margin-bottom: 12px;
+        }
+        
+        .test-description {
+            font-size: 14px;
+            color: #666;
+            line-height: 1.7;
+        }
+        
+        /* CHECKLIST */
+        .checklist-box {
+            background: #fff;
+            border: 4px dashed #2e7d32;
+            border-radius: 12px;
+            padding: 40px;
+            margin-bottom: 40px;
+        }
+        
+        .checklist-title {
+            font-size: 28px;
+            color: #1b5e20;
+            font-weight: bold;
+            margin-bottom: 25px;
+            font-family: 'Caveat', cursive;
+            text-align: center;
+        }
+        
+        .checklist-items {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+        
+        .checklist-item {
+            background: #e8f5e9;
+            padding: 15px;
+            border-radius: 6px;
+            border-left: 4px solid #2e7d32;
+            font-size: 14px;
+            color: #1b5e20;
+        }
+        
+        .checklist-item:before {
+            content: "☑ ";
+            font-weight: bold;
+            color: #2e7d32;
+        }
+        
+        /* KEY INSIGHT */
+        .insight {
+            background: #fff3e0;
+            border-left: 6px solid #ff6b6b;
+            padding: 35px;
+            border-radius: 10px;
+            margin-bottom: 40px;
+        }
+        
+        .insight-title {
+            font-size: 26px;
+            color: #ff6b6b;
+            font-weight: bold;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: 'Caveat', cursive;
+        }
+        
+        .insight-text {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #555;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #ff6b6b;
+            background: rgba(255, 107, 107, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+        
+        @media (max-width: 768px) {
+            .grid-2, .grid-3, .narrative-flow, .transitions-grid, .review-tests, .checklist-items {
+                grid-template-columns: 1fr;
+            }
+            
+            .title {
+                font-size: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- TITLE -->
+        <div class="title-wrapper">
+            <div class="chapter-label">CAPÍTULOS 1️⃣7️⃣-2️⃣0️⃣</div>
+            <div class="title">🎬 Fluxo Narrativo & Revisão Final</div>
+            <div class="subtitle">(Os últimos passos para a perfeição)</div>
+        </div>
+        
+        <!-- CAP 17 -->
+        <div class="chapter-divider"></div>
+        <div class="chapter-header">📍 Capítulo 17: O Fluxo Narrativo (SCQ)</div>
+        
+        <div class="narrative-box">
+            <div class="narrative-title">🎬 Guiando o Leitor pela História</div>
+            
+            <div class="narrative-flow">
+                <div class="narrative-step">
+                    <div class="narrative-icon">📍</div>
+                    <div class="narrative-label">S</div>
+                    <div class="narrative-desc">Situação<br><span style="font-size: 12px; color: #999;">O cenário normal</span></div>
+                </div>
+                
+                <div class="narrative-arrow">→</div>
+                
+                <div class="narrative-step">
+                    <div class="narrative-icon">⚡</div>
+                    <div class="narrative-label">C</div>
+                    <div class="narrative-desc">Complicação<br><span style="font-size: 12px; color: #999;">O evento que quebra</span></div>
+                </div>
+                
+                <div class="narrative-arrow">→</div>
+                
+                <div class="narrative-step">
+                    <div class="narrative-icon">❓</div>
+                    <div class="narrative-label">Q</div>
+                    <div class="narrative-desc">Pergunta<br><span style="font-size: 12px; color: #999;">O que fazer?</span></div>
+                </div>
+            </div>
+            
+            <div style="background: #ffeb3b; padding: 20px; border-radius: 8px; text-align: center; font-weight: bold; color: #f57c00; margin-top: 20px;">
+                ⬇️ Leva à sua Resposta no Topo da Pirâmide! 🎯
+            </div>
+        </div>
+        
+        <div class="grid-2">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">🎯</span>
+                    A Função
+                </div>
+                <div class="item">
+                    Criar um <span class="item-label">"gancho"</span> que engaje o leitor e o guie até a Resposta.
+                </div>
+                <div class="item" style="margin-top: 15px;">
+                    Fazer o leitor <span class="item-label">se importar</span> com o problema.
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">⚠️</span>
+                    O Risco
+                </div>
+                <div class="item">
+                    Se a Complicação não for <span class="item-label">relevante</span> para o leitor, ele não se importa.
+                </div>
+                <div class="item" style="margin-top: 15px;">
+                    Resultado: Nenhum engajamento.
+                </div>
+            </div>
+        </div>
+        
+        <!-- CAP 18 -->
+        <div class="chapter-divider"></div>
+        <div class="chapter-header">📍 Capítulo 18: O Uso de Listas</div>
+        
+        <div class="lists-box">
+            <div class="lists-title">📋 Listas = Indução Clara e Rápida</div>
+            
+            <div class="list-example">
+                <div class="list-label">❌ RUIM (Não MECE):</div>
+                <div class="list-items">
+                    • Aumentar vendas (Ação)
+                    <br>
+                    • Melhorar marketing (Ação)
+                    <br>
+                    • O custo é alto (Problema)
+                </div>
+                <div style="margin-top: 12px; color: #d32f2f;">⚠️ Tipos misturados!</div>
+            </div>
+            
+            <div class="list-example" style="border-left-color: #2e7d32; background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);">
+                <div class="list-label" style="color: #1b5e20;">✅ BOM (MECE + Homogêneo):</div>
+                <div class="list-items">
+                    • Reduzir custos operacionais
+                    <br>
+                    • Aumentar velocidade de decisão
+                    <br>
+                    • Ganhar vantagem competitiva
+                </div>
+                <div style="margin-top: 12px; color: #2e7d32;">✨ Todos do mesmo tipo!</div>
+            </div>
+        </div>
+        
+        <div class="grid-3">
+            <div class="section section-1">
+                <div class="section-title">
+                    <span class="section-emoji">📋</span>
+                    O Que São
+                </div>
+                <div class="item">
+                    Apresentação visual de <span class="item-label">agrupamentos Indutivos.</span>
+                </div>
+            </div>
+            
+            <div class="section section-2">
+                <div class="section-title">
+                    <span class="section-emoji">⚙️</span>
+                    As Regras
+                </div>
+                <div class="item">
+                    ✅ 3-7 itens
+                    <br>
+                    ✅ MECE
+                    <br>
+                    ✅ Homogêneos
+                </div>
+            </div>
+            
+            <div class="section section-3">
+                <div class="section-title">
+                    <span class="section-emoji">✨</span>
+                    O Benefício
+                </div>
+                <div class="item">
+                    <span class="item-label">Rápida</span> de ler e fácil de memorizar.
+                </div>
+            </div>
+        </div>
+        
+        <!-- CAP 19 -->
+        <div class="chapter-divider"></div>
+        <div class="chapter-header">📍 Capítulo 19: Palavras de Transição</div>
+        
+        <div class="transitions-box">
+            <div class="transitions-title">🔗 Os Sinais da Lógica</div>
+            
+            <div class="transitions-grid">
+                <div class="transition-type">
+                    <div class="transition-type-title">⛓️ Para Dedução (Conclusão):</div>
+                    <div class="transition-examples">
+                        • <strong>Portanto</strong>
+                        <br>
+                        • Logo
+                        <br>
+                        • Em consequência
+                        <br>
+                        • Assim
+                    </div>
+                </div>
+                
+                <div class="transition-type">
+                    <div class="transition-type-title">📋 Para Indução (Agrupamento):</div>
+                    <div class="transition-examples">
+                        • <strong>Além disso</strong>
+                        <br>
+                        • Em primeiro lugar
+                        <br>
+                        • Também
+                        <br>
+                        • De igual forma
+                    </div>
+                </div>
+                
+                <div class="transition-type">
+                    <div class="transition-type-title">⚡ Para Complicação:</div>
+                    <div class="transition-examples">
+                        • <strong>No entanto</strong>
+                        <br>
+                        • Mas
+                        <br>
+                        • Contudo
+                        <br>
+                        • Porém
+                    </div>
+                </div>
+                
+                <div class="transition-type">
+                    <div class="transition-type-title">📊 Para Resumo (Subindo):</div>
+                    <div class="transition-examples">
+                        • <strong>Em resumo</strong>
+                        <br>
+                        • Em conclusão
+                        <br>
+                        • Sintetizando
+                        <br>
+                        • Portanto
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="insight" style="margin-bottom: 40px;">
+            <div class="insight-title">
+                <span>🔗</span>
+                A Cola da Lógica
+            </div>
+            <div class="insight-text">
+                Palavras de transição são os <span class="highlight">sinais rodoviários</span> da sua Pirâmide. Elas guiam o leitor através da lógica. Use-as para indicar se você está subindo (resumindo), descendo (detalhando) ou se movendo lateralmente (agrupando).
+            </div>
+        </div>
+        
+        <!-- CAP 20 -->
+        <div class="chapter-divider"></div>
+        <div class="chapter-header">📍 Capítulo 20: A Revisão Final - Testando a Lógica</div>
+        
+        <div class="review-box">
+            <div class="review-title">🧪 Os Testes de Qualidade</div>
+            
+            <div class="review-tests">
+                <div class="test-box">
+                    <div class="test-name">✅ Teste Vertical</div>
+                    <div class="test-description">
+                        A ideia superior levanta uma pergunta? As ideias inferiores a respondem diretamente? São MECE?
+                    </div>
+                </div>
+                
+                <div class="test-box">
+                    <div class="test-name">📊 Teste Horizontal</div>
+                    <div class="test-description">
+                        As ideias no mesmo nível são distintas (ME)? Cobrem tudo (CE)? São do mesmo tipo (Homogêneas)?
+                    </div>
+                </div>
+                
+                <div class="test-box">
+                    <div class="test-name">🎬 Teste de Títulos</div>
+                    <div class="test-description">
+                        Lendo apenas os títulos, posso entender a história completa e a lógica?
+                    </div>
+                </div>
+                
+                <div class="test-box">
+                    <div class="test-name">📍 Teste SCQ</div>
+                    <div class="test-description">
+                        A Situação, Complicação e Pergunta levam logicamente à Resposta no topo?
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="checklist-box">
+            <div class="checklist-title">✅ Checklist de Revisão Final</div>
+            
+            <div class="checklist-items">
+                <div class="checklist-item">Ponto Principal é uma afirmação clara?</div>
+                <div class="checklist-item">Nível 2 tem 3-7 argumentos MECE?</div>
+                <div class="checklist-item">Cada argumento é homogêneo?</div>
+                <div class="checklist-item">Cada nível é suportado pelo nível abaixo?</div>
+                <div class="checklist-item">Introdução (SCQ) é clara e relevante?</div>
+                <div class="checklist-item">Títulos são afirmações, não tópicos?</div>
+                <div class="checklist-item">Listas seguem MECE e Homogeneidade?</div>
+                <div class="checklist-item">Palavras de transição guiam a lógica?</div>
+            </div>
+        </div>
+        
+        <!-- FINAL SUMMARY -->
+        <div class="chapter-divider"></div>
+        <div class="insight" style="margin-top: 50px; background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%); border-left: 6px solid #f57c00;">
+            <div class="insight-title">
+                <span>🏆</span>
+                Os 20 Capítulos Completos!
+            </div>
+            <div class="insight-text">
+                <strong style="color: #f57c00; font-size: 17px;">1-4:</strong> Fundamentos (Resposta Primeiro, SCQ, MECE, Relações)
+                <br><br>
+                
+                <strong style="color: #f57c00; font-size: 17px;">5-8:</strong> Relações Verticais & Construção (De baixo para cima)
+                <br><br>
+                
+                <strong style="color: #f57c00; font-size: 17px;">9-12:</strong> Estrutura (Homogeneidade, Topo, Níveis 2-3)
+                <br><br>
+                
+                <strong style="color: #f57c00; font-size: 17px;">13-16:</strong> Lógica & Escrita (Dedução, Indução, Parágrafos, Títulos)
+                <br><br>
+                
+                <strong style="color: #f57c00; font-size: 17px;">17-20:</strong> Fluxo & Revisão (Narrativa, Listas, Transições, Testes)
+                <br><br>
+                
+                <strong style="color: #1976d2; font-size: 18px;">RESULTADO: Você domina a Pirâmide de Minto e é capaz de comunicar com clareza cristalina, lógica irrefutável e impacto máximo! 🚀</strong>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
