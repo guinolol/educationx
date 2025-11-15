@@ -42,6 +42,50 @@ interface MicroLessonTemplateProps {
   onConclude: (xpEarned: number, score: number) => void;
 }
 
+// ✨ COMPONENTE DE CONFETE ✨
+const Confetti = () => {
+  useEffect(() => {
+    const duration = 3000;
+    const animationEnd = Date.now() + duration;
+    const defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 9999 };
+
+    function randomInRange(min: number, max: number) {
+      return Math.random() * (max - min) + min;
+    }
+
+    const interval = setInterval(function() {
+      const timeLeft = animationEnd - Date.now();
+
+      if (timeLeft <= 0) {
+        return clearInterval(interval);
+      }
+
+      const particleCount = 50 * (timeLeft / duration);
+
+      // Cria confete de ambos os lados
+      // @ts-ignore
+      if (window.confetti) {
+        // @ts-ignore
+        window.confetti({
+          ...defaults,
+          particleCount,
+          origin: { x: randomInRange(0.1, 0.3), y: Math.random() - 0.2 }
+        });
+        // @ts-ignore
+        window.confetti({
+          ...defaults,
+          particleCount,
+          origin: { x: randomInRange(0.7, 0.9), y: Math.random() - 0.2 }
+        });
+      }
+    }, 250);
+
+    return () => clearInterval(interval);
+  }, []);
+
+  return null;
+};
+
 // Helper component to parse simple markdown
 const SimpleMarkdown = ({ text }: { text: string }) => {
   if (!text) return null;
@@ -65,19 +109,29 @@ const MicroLessonTemplate = ({
   const navigate = useNavigate();
   const { playSuccess, playError, playGameOver, playWin } = useAudioFeedback();
   const [view, setView] = useState<'explanation' | 'quiz' | 'result' | 'gameOver'>('explanation');
+  const [showConfetti, setShowConfetti] = useState(false);
   
-  // Estado para gerenciar a fila de perguntas ativas
   const [activeQuestions, setActiveQuestions] = useState<Question[]>([]);
-  // Estado para rastrear as respostas definitivas (para cálculo de score)
   const [finalAnswers, setFinalAnswers] = useState<Record<string, string>>({});
   
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [showFeedback, setShowFeedback] = useState(false);
-  const [lives, setLives] = useState(3); // 3 vidas para lições normais
-  const [questionsAnsweredCount, setQuestionsAnsweredCount] = useState(0); // Contador para o progresso
+  const [lives, setLives] = useState(3);
+  const [questionsAnsweredCount, setQuestionsAnsweredCount] = useState(0);
+
+  // ✨ CARREGA A BIBLIOTECA DE CONFETE ✨
+  useEffect(() => {
+    const script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.2/dist/confetti.browser.min.js';
+    script.async = true;
+    document.body.appendChild(script);
+
+    return () => {
+      document.body.removeChild(script);
+    };
+  }, []);
 
   useEffect(() => {
-    // Inicializa a fila de perguntas quando o componente é montado
     setActiveQuestions([...questions]);
   }, [questions]);
 
@@ -92,7 +146,7 @@ const MicroLessonTemplate = ({
       correctCount,
       totalQuestions: questions.length,
       scorePercentage: questions.length > 0 ? Math.round((correctCount / questions.length) * 100) : 0,
-      xpEarned: correctCount * 10, // 10 XP por resposta correta
+      xpEarned: correctCount * 10,
     };
   };
 
@@ -104,17 +158,15 @@ const MicroLessonTemplate = ({
     setShowFeedback(true);
 
     if (isCorrect) {
-      playSuccess(); // Toca som de sucesso
-      // Se correto, move a pergunta para as respostas finais
+      playSuccess();
       setFinalAnswers(prev => ({ ...prev, [questionId]: answer }));
       setQuestionsAnsweredCount(prev => prev + 1);
     } else {
-      playError(); // Toca som de erro
-      // Se incorreto, perde vida
+      playError();
       setLives(prev => {
         const newLives = prev - 1;
         if (newLives <= 0) {
-          playGameOver(); // Toca som de game over
+          playGameOver();
           setTimeout(() => setView('gameOver'), 1000);
         }
         return newLives;
@@ -127,13 +179,11 @@ const MicroLessonTemplate = ({
     const isCorrect = selectedAnswer === currentQuestion?.correctAnswer;
 
     if (isCorrect) {
-      // Se a resposta foi correta, removemos a pergunta da frente da fila
       setActiveQuestions(prev => {
         const [_, ...rest] = prev;
         return rest;
       });
     } else {
-      // Se a resposta foi incorreta, movemos a pergunta atual para o final da fila
       setActiveQuestions(prev => {
         const [first, ...rest] = prev;
         return [...rest, first];
@@ -143,15 +193,16 @@ const MicroLessonTemplate = ({
     setSelectedAnswer(null);
     setShowFeedback(false);
 
-    // Verifica se o quiz terminou (todas as perguntas foram respondidas corretamente)
+    // ✨ QUANDO TERMINA A LIÇÃO - DISPARA CONFETE! ✨
     if (activeQuestions.length === 1 && isCorrect) {
-      playWin(); // Toca som de vitória
-      setView('result');
+      playWin();
+      setShowConfetti(true); // Ativa o confete
+      setTimeout(() => setView('result'), 300); // Pequeno delay para sincronizar
     }
   };
 
   const handlePrevious = () => {
-    // A navegação para trás é desabilitada para evitar complexidade excessiva de estado com a fila.
+    // A navegação para trás é desabilitada
   };
   
   const handleRestart = () => {
@@ -161,6 +212,7 @@ const MicroLessonTemplate = ({
     setSelectedAnswer(null);
     setShowFeedback(false);
     setQuestionsAnsweredCount(0);
+    setShowConfetti(false);
     setView('quiz');
   };
 
@@ -173,7 +225,6 @@ const MicroLessonTemplate = ({
   }
 
   if (view === 'explanation') {
-    // ... (código da explicação permanece o mesmo)
     return (
       <div className="min-h-screen bg-gradient-to-br from-purple-50 to-blue-50 dark:from-purple-900 dark:to-blue-900 p-4">
         <div className="max-w-3xl mx-auto">
@@ -233,10 +284,13 @@ const MicroLessonTemplate = ({
 
     return (
       <div className="min-h-screen bg-gradient-to-br from-purple-50 to-blue-50 dark:from-purple-900 dark:to-blue-900 p-4">
+        {/* ✨ CONFETE APARECE AQUI! ✨ */}
+        {showConfetti && <Confetti />}
+        
         <div className="max-w-3xl mx-auto">
           <Card className="p-8">
             <div className="text-center mb-8">
-              <div className="w-20 h-20 bg-gradient-to-r from-purple-500 to-blue-500 rounded-full flex items-center justify-center mx-auto mb-6">
+              <div className="w-20 h-20 bg-gradient-to-r from-purple-500 to-blue-500 rounded-full flex items-center justify-center mx-auto mb-6 animate-bounce">
                 <Trophy className="w-10 h-10 text-white" />
               </div>
               <h2 className="text-3xl font-bold mb-2">Microlição Concluída!</h2>
@@ -251,7 +305,6 @@ const MicroLessonTemplate = ({
             </div>
 
             <div className="grid md:grid-cols-2 gap-8 mb-8">
-              {/* Recapitulação */}
               <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-6">
                 <h3 className="font-bold text-lg mb-4 flex items-center">
                   <BookOpen className="w-5 h-5 mr-2 text-purple-600" />
@@ -267,7 +320,6 @@ const MicroLessonTemplate = ({
                 </ul>
               </div>
 
-              {/* Checklist Prático */}
               <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-6">
                 <h3 className="font-bold text-lg mb-4 flex items-center">
                   <Lightbulb className="w-5 h-5 mr-2 text-yellow-500" />
@@ -304,7 +356,6 @@ const MicroLessonTemplate = ({
     const isCorrect = selectedAnswer === currentQuestion?.correctAnswer;
 
     if (!currentQuestion) {
-      // Se a fila estiver vazia, mas o view ainda não mudou para 'result' (pode acontecer no último passo)
       return null;
     }
 
