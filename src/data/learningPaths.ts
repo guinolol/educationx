@@ -103,7 +103,7 @@ const CRUCIAL_CONVERSATIONS_CONFIG: LearningPathConfig = {
 
 const MADE_TO_STICK_CONFIG: LearningPathConfig = {
   id: 'madeToStick',
-  title: "Made to Stick",
+  title: "Ideias que colam",
   icon: Lightbulb,
   lessons: madeToStickLessons as LessonData[],
   simulations: madeToStickSimulations as SimulationData[],
