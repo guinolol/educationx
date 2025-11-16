@@ -133,7 +133,7 @@ const MILLION_DOLLAR_WEEKEND_CONFIG: LearningPathConfig = {
 
 const NEVER_SPLIT_THE_DIFFERENCE_CONFIG: LearningPathConfig = {
   id: 'neverSplitTheDifference',
-  title: "Never Split the Difference",
+  title: "Negocie como se sua vida dependesse disso",
   icon: Shield,
   lessons: neverSplitTheDifferenceLessons as LessonData[],
   simulations: neverSplitTheDifferenceSimulations as SimulationData[],
