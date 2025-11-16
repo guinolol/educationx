@@ -118,7 +118,7 @@ const MADE_TO_STICK_CONFIG: LearningPathConfig = {
 
 const MILLION_DOLLAR_WEEKEND_CONFIG: LearningPathConfig = {
   id: 'millionDollarWeekend',
-  title: "Million Dollar Weekend",
+  title: "O Fim de semana de um milhão de dólares",
   icon: Zap,
   lessons: millionDollarWeekendLessons as LessonData[],
   simulations: millionDollarWeekendSimulations as SimulationData[],
