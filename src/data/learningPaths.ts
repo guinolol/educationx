@@ -148,7 +148,7 @@ const NEVER_SPLIT_THE_DIFFERENCE_CONFIG: LearningPathConfig = {
 
 const THE_1_PAGE_MARKETING_PLAN_CONFIG: LearningPathConfig = {
   id: 'the1PageMarketingPlan',
-  title: "The 1-Page Marketing Plan",
+  title: "O plano de marketing de 1 página",
   icon: FileText,
   lessons: the1PageMarketingPlanLessons as LessonData[],
   simulations: the1PageMarketingPlanSimulations as SimulationData[],
